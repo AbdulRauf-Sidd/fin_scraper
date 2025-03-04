@@ -103,8 +103,8 @@ scrape_unlv_presentations:
 scrape_unlv_announcements:
 	python3 unlv_announcements.py "https://www.unilever.com/investors/news-and-announcements/regulatory-announcements/" "UNLV" --output unlv_announcements.json
 
-scrape_test:
-	python3 test.py "https://www.nestle.com/" "UNLV" --output unlv_announcements.json
+scrape_nesn:
+	-sh bypass.sh; python3 nestle.py
 
 all: scrape_colgate scrape_cocacola
 

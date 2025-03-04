@@ -19,7 +19,7 @@ def get_cloudflare_cookies(url):
     
     try:
         # Make a GET request to the local endpoint
-        response = requests.get(endpoint, params={'url': url})
+        response = requests.get(endpoint, params={'url': url}, timeout=30)
         
         # Raise an exception for bad responses
         response.raise_for_status()
@@ -61,7 +61,7 @@ def fetch_webpage_with_cookies(url):
         }
         
         # Make the request to the target URL
-        response = requests.get(url=f"http://localhost:8000/html?url={url}", cookies=cookies, headers=headers)
+        response = requests.get(url=f"http://localhost:8000/html?url={url}", cookies=cookies, headers=headers, timeout=30)
         
         # Raise an exception for bad responses
         response.raise_for_status()
