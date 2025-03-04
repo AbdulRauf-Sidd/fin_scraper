@@ -81,7 +81,7 @@ async def extract_files_from_page(page):
                         "equity_ticker": "WMT",  # Walmart
                         "source_type": "company_information",
                         "frequency": "non-periodic",
-                        "event_type": "governance",
+                        "event_type": "esg",
                         "event_name": document_name.strip(),
                         "event_date": "null",
                         "data": [{

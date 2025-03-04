@@ -71,7 +71,7 @@ async def extract_files_from_page(page):
                         "equity_ticker": "DSM",
                         "source_type": "company_information",
                         "frequency": classify_frequency(event_name, file_links[0]["source_url"]),
-                        "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]),
+                        "event_type": "press release",
                         "event_name": event_name.strip(),
                         "event_date": event_date if event_date else "null",
                         "data": file_links
