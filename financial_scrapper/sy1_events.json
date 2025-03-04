@@ -1,0 +1,470 @@
+[
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2020/11/19",
+        "data": [
+            {
+                "file_name": "241120-Symrise-CMD-2024-Presentation.pdf",
+                "file_type": "pdf",
+                "date": "2020/11/19",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/241120-Symrise-CMD-2024-Presentation.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2024/10/24",
+        "data": [
+            {
+                "file_name": "241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/10/24",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NjcsImV4cCI6MTc0MTExNTI2NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyNC5wZGYiLCJwYWdlIjo3Nn0.of4t4VY-Ke_FbMNO6jILbyV4zpx8nY9vOi_xHUEIR2E/241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2024/08/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-analyst-presentation-H1-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NjcsImV4cCI6MTc0MTExNTI2NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjQucGRmIiwicGFnZSI6NzZ9.GKmc1dRX_4jvALjOziQAMS9zLz8YkLT58JwEJfR25Ck/240801-Symrise-analyst-presentation-H1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2024/03/06",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NjcsImV4cCI6MTc0MTExNTI2NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLUZpbmFuY2lhbC1SZXN1bHRzLTIwMjMucGRmIiwicGFnZSI6NzZ9.y8slvbjOJ3kH41SgMVYgRpLG7OleRTRD-Xbm9usNkx8/240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2023/10/25",
+        "data": [
+            {
+                "file_name": "231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/10/25",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NzIsImV4cCI6MTc0MTExNTI3MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMy5wZGYiLCJwYWdlIjo3Nn0.a30hVZ2b9sDKtl7UGGMjHFxHbnM-7PfW7z3wDXx4nOg/231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/10/26",
+        "data": [
+            {
+                "file_name": "221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/10/26",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NzYsImV4cCI6MTc0MTExNTI3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX1BSX1RyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMi5wZGYiLCJwYWdlIjo3Nn0.FuXkFfTbmZsOBZ2pnVWFUU7Qj-kV6y-3dc7QLr-oh04/221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/09/21",
+        "data": [
+            {
+                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/09/21",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/09/20",
+        "data": [
+            {
+                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/09/20",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/09/13",
+        "data": [
+            {
+                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/09/13",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/09/07",
+        "data": [
+            {
+                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/09/07",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/09/06",
+        "data": [
+            {
+                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/09/06",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/08/02",
+        "data": [
+            {
+                "file_name": "220802_Analystenpraesentation-H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NzYsImV4cCI6MTc0MTExNTI3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9BbmFseXN0ZW5wcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6NzZ9.7s7IPy2X7w6GrUhVNzBLraxbUcBIe7yFQif_ZJ2Ha5E/220802_Analystenpraesentation-H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial",
+        "event_date": "2022/04/27",
+        "data": [
+            {
+                "file_name": "220427_Symrise-Financial-Information-Q1-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/04/27",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NzYsImV4cCI6MTc0MTExNTI3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIyLnBkZiIsInBhZ2UiOjc2fQ.Je02I-mWj-o2itHNU2yYZFSlx2i6k1oUUoc8jDap_TM/220427_Symrise-Financial-Information-Q1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2022/03/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Analyst_Presentation_Results_2021.pdf",
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0NzYsImV4cCI6MTc0MTExNTI3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMS5wZGYiLCJwYWdlIjo3Nn0._aIDQPaDjDv6TTo-X0574Ue3frrLDAZpBPnWh6-CyPY/220301_Symrise_Analyst_Presentation_Results_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2021/10/26",
+        "data": [
+            {
+                "file_name": "211026_Symrise_Trading_Update_Jan-Sep_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/10/26",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0ODIsImV4cCI6MTc0MTExNTI4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX1RyYWRpbmdfVXBkYXRlX0phbi1TZXBfMjAyMS5wZGYiLCJwYWdlIjo3Nn0.gV_oE9XVXksxSj3zwC8XIsnwih9hvyGfBEf8V8f3W-s/211026_Symrise_Trading_Update_Jan-Sep_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2021/08/05",
+        "data": [
+            {
+                "file_name": "210805_Symrise_Analyst_Presentation_H1_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0ODIsImV4cCI6MTc0MTExNTI4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX0gxXzIwMjEucGRmIiwicGFnZSI6NzZ9.DjvEMlmbjiu82Qi5pqSrssQWJcF8o_T7r9VsNzOMGMM/210805_Symrise_Analyst_Presentation_H1_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2021/04/28",
+        "data": [
+            {
+                "file_name": "210428_Symrise_Financial_Information_Q1_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/04/28",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0ODIsImV4cCI6MTc0MTExNTI4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDQyOF9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMV8yMDIxLnBkZiIsInBhZ2UiOjc2fQ.hqE9mq0oCXPzzoWmfnahPgY5XQbK5IZpQ-EB085JSKo/210428_Symrise_Financial_Information_Q1_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2021/03/09",
+        "data": [
+            {
+                "file_name": "210309_Symrise_Analyst_Presentation_Results_2020.pdf",
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0ODIsImV4cCI6MTc0MTExNTI4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMC5wZGYiLCJwYWdlIjo3Nn0.Ga-RyF9J0CFgUffhqwO3HHDKY7lczIdGYdGx21MaZwk/210309_Symrise_Analyst_Presentation_Results_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2020/10/29",
+        "data": [
+            {
+                "file_name": "201029_Symrise_Quarterly_Statement_9M_2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/10/29",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0ODYsImV4cCI6MTc0MTExNTI4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX1F1YXJ0ZXJseV9TdGF0ZW1lbnRfOU1fMjAyMC5wZGYiLCJwYWdlIjo3Nn0.cQhh_HS2DetbNDFGIw5B5BdDesfV6z2uVX6VmtL4EOQ/201029_Symrise_Quarterly_Statement_9M_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/11/21",
+        "data": [
+            {
+                "file_name": "191111_Symrise_IR_presentation_final_RS_West_Coast.pdf",
+                "file_type": "pdf",
+                "date": "2019/11/21",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/191111_Symrise_IR_presentation_final_RS_West_Coast.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/10/29",
+        "data": [
+            {
+                "file_name": "191029_SYM_Quarterly_Statement_9M_2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/10/29",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNjg0OTAsImV4cCI6MTc0MTExNTI5MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDE5LzE5MTAyOV9TWU1fUXVhcnRlcmx5X1N0YXRlbWVudF85TV8yMDE5LnBkZiIsInBhZ2UiOjc2fQ.JHlA6jJjHdPife9COSFjnPkfXpF0DytpZlWXZXpXWj4/191029_SYM_Quarterly_Statement_9M_2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/10/01",
+        "data": [
+            {
+                "file_name": "190923_Symrise_IR_presentation_after_H1.pdf",
+                "file_type": "pdf",
+                "date": "2019/10/01",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/user_upload/190923_Symrise_IR_presentation_after_H1.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/09/26",
+        "data": [
+            {
+                "file_name": "190905_Symrise_IR_presentation_after_H1.pdf",
+                "file_type": "pdf",
+                "date": "2019/09/26",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190905_Symrise_IR_presentation_after_H1.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/09/25",
+        "data": [
+            {
+                "file_name": "190905_Symrise_IR_presentation_after_H1.pdf",
+                "file_type": "pdf",
+                "date": "2019/09/25",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190905_Symrise_IR_presentation_after_H1.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/09/24",
+        "data": [
+            {
+                "file_name": "190905_Symrise_IR_presentation_after_H1.pdf",
+                "file_type": "pdf",
+                "date": "2019/09/24",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190905_Symrise_IR_presentation_after_H1.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "event",
+        "event_name": "Financial",
+        "event_date": "2019/09/12",
+        "data": [
+            {
+                "file_name": "190826_Symrise_IR_presentation_after_H1.pdf",
+                "file_type": "pdf",
+                "date": "2019/09/12",
+                "category": "Financial",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190826_Symrise_IR_presentation_after_H1.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]

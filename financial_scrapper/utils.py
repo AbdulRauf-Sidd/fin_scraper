@@ -105,6 +105,14 @@ async def parse_date2(date_str):
     print(f"⚠️ Error parsing date: {date_str}")
     return None
 
+async def parse_date3(date_str):
+    """Parses a date string like 'Tuesday, February 25, 2025' into 'YYYY/MM/DD' format."""
+    try:
+        parsed_date = parse(date_str, fuzzy=True)
+        return parsed_date  # Returns a datetime object
+    except Exception as e:
+        print(f"⚠️ Error parsing date: {date_str} -> {e}")
+        return None  # Return None if parsing fails
 
 from urllib.parse import urlparse
 import os

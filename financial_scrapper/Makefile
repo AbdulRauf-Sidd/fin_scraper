@@ -37,6 +37,15 @@ scrape_givd_sec:
 scrape_givd_news:
 	python givd_news.py "https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All" "GIVD" --output givd_news.json
 
+scrape_sy1_sec:
+	python sy1_sec.py "https://www.symrise.com/investors/financial-results/" "SY1" --output sy1_sec.json
+
+scrape_sy1_news:
+	python sy1_news.py "https://www.symrise.com/newsroom/press-releases/" "SY1" --output sy1_news.json
+
+scrape_sy1_events:
+	python sy1_events.py "https://www.symrise.com/investors/financial-calendar-and-presentations/" "SY1" --output sy1_events.json
+
 
 
 all: scrape_colgate scrape_cocacola
