@@ -109,7 +109,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": "UNKNOWN",  # Update with actual ticker
                     "source_type": "company_information",
                     "frequency": classify_frequency(event_name, file_links[0]["source_url"]) if file_links else "UNKNOWN",
-                    "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]) if file_links else "UNKNOWN",
+                    "event_type": "press release",
                     "event_name": event_name.strip(),
                     "event_date": event_date,
                     "data": file_links

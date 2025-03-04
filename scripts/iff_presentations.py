@@ -135,7 +135,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": "IFF",
                     "source_type": "company_information",
                     "frequency": freq,
-                    "event_type": event_type,
+                    "event_type": "presentation",
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": data_files

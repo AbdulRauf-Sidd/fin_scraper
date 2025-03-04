@@ -107,7 +107,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": "CL",
                     "source_type": "company_information",
                     "frequency": classify_frequency(event_name, event_url),
-                    "event_type": classify_periodic_type(event_name, event_url),
+                    "event_type": "press release",
                     "event_name": event_name.strip(),
                     "event_date": event_date,
                     "data": [{

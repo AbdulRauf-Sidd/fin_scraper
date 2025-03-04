@@ -104,7 +104,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": "ULVR",
                     "source_type": "company_information",
                     "frequency": classify_frequency(event_name, file_links[0]["source_url"]) if file_links else "unknown",
-                    "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]) if file_links else "unknown",
+                    "event_type": "presentation",
                     "event_name": event_name.strip(),
                     "event_date": event_date,
                     "data": file_links
