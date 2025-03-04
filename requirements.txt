@@ -30,3 +30,11 @@ stealth==0.0.1
 typing-inspect==0.9.0
 typing_extensions==4.12.2
 yarl==1.18.3
+fastapi
+pydantic
+uvicorn
+PyVirtualDisplay
+DrissionPage==4.0.5.6
+lxml==5.3.1
+beautifulsoup4==4.13.3
+requests
