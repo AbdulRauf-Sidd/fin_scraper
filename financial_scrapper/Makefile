@@ -76,7 +76,21 @@ scrape_wmt_events:
 
 scrape_unlv_press:
 	python3 unlv_press.py "https://www.unilever.com/news/press-and-media/press-releases/" "UNLV" --output unlv_press.json
+scrape_wmt_esg:
+	python3 wmt_esg.py "https://stock.walmart.com/governance/governance-documents" "WMT" --output wmt_esg.json
 
+scrape_wmt_quarterly:
+	python3 wmt_quarterly.py "https://stock.walmart.com/financial-information/vizio-historical-financials" "WMT" --output wmt_quarterly.json
+
+scrape_wmt_news:
+	python3 wmt_news.py "https://corporate.walmart.com/content/corporate/en_us/news.tag=corporate:finance.html" "WMT" --output wmt_news.json
+
+
+scrape_cpb_events:
+	python3 cpb_events.py "https://investor.thecampbellscompany.com/events-presentations" "CPB" --output cpb_events.json
+
+scrape_cpb_news:
+	python3 cpb_news.py "https://investor.thecampbellscompany.com/news/financial-news" "CPB" --output cpb_news.json
 scrape_unlv_presentations:
 	python3 unlv_presentations.py "https://www.unilever.com/investors/results-presentations-webcasts/" "UNLV" --output unlv_presentations.json
 
