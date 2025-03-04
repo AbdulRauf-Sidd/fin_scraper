@@ -1,0 +1,2018 @@
+[
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 3rd Quarter FY25 Financial Results",
+        "event_date": "2024/11/20",
+        "data": [
+            {
+                "file_name": "313193359",
+                "file_type": "video",
+                "date": "2024/11/20",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/313193359",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Goldman Sachs Communacopia + Technology Conference",
+        "event_date": "2024/09/11",
+        "data": [
+            {
+                "file_name": "starthere.jsp?ei=1682965&tp_key=a487cb7159&tp_special=8",
+                "file_type": "video",
+                "date": "2024/09/11",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/starthere.jsp?ei=1682965&tp_key=a487cb7159&tp_special=8",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 2nd Quarter FY25 Financial Results",
+        "event_date": "2024/08/28",
+        "data": [
+            {
+                "file_name": "134543346",
+                "file_type": "video",
+                "date": "2024/08/28",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/134543346",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "NVIDIA 2024 Annual Meeting of Stockholders",
+        "event_date": "2024/06/26",
+        "data": [
+            {
+                "file_name": "web?pvskey=NVDA2024",
+                "file_type": "video",
+                "date": "2024/06/26",
+                "category": "webcast",
+                "source_url": "https://central.virtualshareholdermeeting.com/vsm/web?pvskey=NVDA2024",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "NVIDIA_Annual_Stockholder_Meeting_2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/06/26",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_financials/2024/ar/NVIDIA_Annual_Stockholder_Meeting_2024.pdf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "NVIDIA-2024-Annual-Report.pdf",
+                "file_type": "pdf",
+                "date": "2024/06/26",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_financials/2024/ar/NVIDIA-2024-Annual-Report.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "BofA Securities 2024 Global Technology Conference",
+        "event_date": "2024/06/05",
+        "data": [
+            {
+                "file_name": "id8sBG2l.cfm",
+                "file_type": "video",
+                "date": "2024/06/05",
+                "category": "webcast",
+                "source_url": "https://bofa.veracast.com/webcasts/bofa/globaltech2024/id8sBG2l.cfm",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Computex 2024",
+        "event_date": "2024/06/02",
+        "data": [
+            {
+                "file_name": "NVIDIA-Computex-2024-Keynote.pdf",
+                "file_type": "pdf",
+                "date": "2024/06/02",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2024/June/NVIDIA-Computex-2024-Keynote.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 1st Quarter FY25 Financial Results",
+        "event_date": "2024/05/22",
+        "data": [
+            {
+                "file_name": "107630624",
+                "file_type": "video",
+                "date": "2024/05/22",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/107630624",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "NVDA-F1Q25-Quarterly-Presentation-FINAL.pdf",
+                "file_type": "pdf",
+                "date": "2024/05/22",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_financials/2025/q1/NVDA-F1Q25-Quarterly-Presentation-FINAL.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC Financial Analyst Q&A",
+        "event_date": "2024/03/19",
+        "data": [
+            {
+                "file_name": "133431763",
+                "file_type": "video",
+                "date": "2024/03/19",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/133431763",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "GTC-Financial-Analyst-Q-A.pdf",
+                "file_type": "pdf",
+                "date": "2024/03/19",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2024/Mar/GTC-Financial-Analyst-Q-A.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC 2024",
+        "event_date": "2024/03/18",
+        "data": [
+            {
+                "file_name": "NVIDIA_GTC2024-Keynote.pdf",
+                "file_type": "pdf",
+                "date": "2024/03/18",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_events/2024/Mar/18/NVIDIA_GTC2024-Keynote.pdf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "GTC-2024-Highlight-Sessions-for-Financial-Analysts.pdf",
+                "file_type": "pdf",
+                "date": "2024/03/18",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_downloads/2024/03/GTC-2024-Highlight-Sessions-for-Financial-Analysts.pdf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "nvidia-gtc24-highlights.pdf",
+                "file_type": "pdf",
+                "date": "2024/03/18",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2024/Apr/22/nvidia-gtc24-highlights.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen\u2019s 44th Annual Health Care Conference",
+        "event_date": "2024/03/05",
+        "data": [
+            {
+                "file_name": "2008262",
+                "file_type": "video",
+                "date": "2024/03/05",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen154/nvda/2008262",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2024/03/04",
+        "data": [
+            {
+                "file_name": "starthere.jsp?ei=1656580&tp_key=2abf936830&tp_special=8",
+                "file_type": "video",
+                "date": "2024/03/04",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/starthere.jsp?ei=1656580&tp_key=2abf936830&tp_special=8",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY24 Financial Results",
+        "event_date": "2024/02/21",
+        "data": [
+            {
+                "file_name": "382151216",
+                "file_type": "video",
+                "date": "2024/02/21",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/382151216",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "JP Morgan CES Virtual Fireside Chat",
+        "event_date": "2024/01/09",
+        "data": [
+            {
+                "file_name": "WN_X1617_JSTeCbCWffPulGHA",
+                "file_type": "video",
+                "date": "2024/01/09",
+                "category": "webcast",
+                "source_url": "https://openexc.zoom.us/webinar/register/WN_X1617_JSTeCbCWffPulGHA",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2024/01/08",
+        "data": [
+            {
+                "file_name": "JP-Morgan-Healthcare-Conference-2024-KwxXOv7uMk",
+                "file_type": "video",
+                "date": "2024/01/08",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2024/JP-Morgan-Healthcare-Conference-2024-KwxXOv7uMk",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "NVIDIA-Accelerating-Healthcare-Innovation-with-AI.pdf",
+                "file_type": "pdf",
+                "date": "2024/01/08",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2024/Jan/08/NVIDIA-Accelerating-Healthcare-Innovation-with-AI.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Wells Fargo 7th Annual TMT Summit",
+        "event_date": "2023/11/29",
+        "data": [
+            {
+                "file_name": "starthere.jsp?ei=1643203&tp_key=1afc0f7dac&tp_special=8",
+                "file_type": "video",
+                "date": "2023/11/29",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/starthere.jsp?ei=1643203&tp_key=1afc0f7dac&tp_special=8",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology Conference",
+        "event_date": "2023/11/28",
+        "data": [
+            {
+                "file_name": "?entity=22_RI8XO37",
+                "file_type": "video",
+                "date": "2023/11/28",
+                "category": "webcast",
+                "source_url": "https://cc.webcasts.com/ubsx001/112823a_js/?entity=22_RI8XO37",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 3rd Quarter FY24 Financial Results",
+        "event_date": "2023/11/21",
+        "data": [
+            {
+                "file_name": "291784005",
+                "file_type": "video",
+                "date": "2023/11/21",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/291784005",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Bank of America Global A.I. Conference 2023",
+        "event_date": "2023/09/11",
+        "data": [
+            {
+                "file_name": "id2y27MV.cfm",
+                "file_type": "video",
+                "date": "2023/09/11",
+                "category": "webcast",
+                "source_url": "https://bofa.veracast.com/webcasts/bofa/globalai2023/id2y27MV.cfm",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Citi's 2023 Global Technology Conference",
+        "event_date": "2023/09/07",
+        "data": [
+            {
+                "file_name": "nvidia-corporation-september",
+                "file_type": "video",
+                "date": "2023/09/07",
+                "category": "webcast",
+                "source_url": "https://kvgo.com/2023-global-technology-conference/nvidia-corporation-september",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Evercore ISI 2023 Semiconductor & Semiconductor Equipment Conference",
+        "event_date": "2023/09/06",
+        "data": [
+            {
+                "file_name": "2357581",
+                "file_type": "video",
+                "date": "2023/09/06",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/evercore37/nvda/2357581",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Goldman Sachs Communacopia & Technology Conference",
+        "event_date": "2023/09/05",
+        "data": [
+            {
+                "file_name": "?entity=35_HC03EE3",
+                "file_type": "video",
+                "date": "2023/09/05",
+                "category": "webcast",
+                "source_url": "https://cc.webcasts.com/gold006/090523a_js/?entity=35_HC03EE3",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 2nd Quarter FY24 Financial Results",
+        "event_date": "2023/08/23",
+        "data": [
+            {
+                "file_name": "816441548",
+                "file_type": "video",
+                "date": "2023/08/23",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/816441548",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Piper Sandler Webinar: Networks for AI",
+        "event_date": "2023/06/28",
+        "data": [
+            {
+                "file_name": "132877209",
+                "file_type": "video",
+                "date": "2023/06/28",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/132877209",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "Networks_for_AI_IR_Webcast_June_2023-FINAL.pdf",
+                "file_type": "pdf",
+                "date": "2023/06/28",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2023/06/27/Networks_for_AI_IR_Webcast_June_2023-FINAL.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "NVIDIA 2023 Annual Meeting of Stockholders",
+        "event_date": "2023/06/22",
+        "data": [
+            {
+                "file_name": "Annual_Stockholder_Meeting_23_Final-2.pdf",
+                "file_type": "pdf",
+                "date": "2023/06/22",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2023/06/26/Annual_Stockholder_Meeting_23_Final-2.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Nasdaq Investor Conference in Partnership with Jefferies",
+        "event_date": "2023/06/14",
+        "data": [
+            {
+                "file_name": "38798e1c06?share=copy",
+                "file_type": "video",
+                "date": "2023/06/14",
+                "category": "webcast",
+                "source_url": "https://vimeo.com/836602111/38798e1c06?share=copy",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "New Street Research\u2019s Future of Transportation Conference",
+        "event_date": "2023/06/12",
+        "data": [
+            {
+                "file_name": "nvidia-june-2023",
+                "file_type": "video",
+                "date": "2023/06/12",
+                "category": "webcast",
+                "source_url": "https://kvgo.com/newstreet/nvidia-june-2023",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "nvda-new-street-auto-6-12-23.pdf",
+                "file_type": "pdf",
+                "date": "2023/06/12",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2023/06/nvda-new-street-auto-6-12-23.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Rosenblatt's 3rd Annual Technology Summit: The Age of AI",
+        "event_date": "2023/06/07",
+        "data": [
+            {
+                "file_name": "nvidia-corp-june",
+                "file_type": "video",
+                "date": "2023/06/07",
+                "category": "webcast",
+                "source_url": "https://kvgo.com/rosenblatt-3rd-annual-tech-summit/nvidia-corp-june",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "BofA Securities 2023 Global Technology Conference",
+        "event_date": "2023/06/06",
+        "data": [
+            {
+                "file_name": "idv8Kzrd.cfm",
+                "file_type": "video",
+                "date": "2023/06/06",
+                "category": "webcast",
+                "source_url": "https://bofa.veracast.com/webcasts/bofa/globaltech2023/idv8Kzrd.cfm",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 1st Quarter FY24 Financial Results",
+        "event_date": "2023/05/24",
+        "data": [
+            {
+                "file_name": "334294172",
+                "file_type": "video",
+                "date": "2023/05/24",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/334294172",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC Financial Analyst Q&A",
+        "event_date": "2023/03/21",
+        "data": [
+            {
+                "file_name": "132664881",
+                "file_type": "video",
+                "date": "2023/03/21",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/132664881",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY23 Financial Results",
+        "event_date": "2023/02/22",
+        "data": [
+            {
+                "file_name": "355422502",
+                "file_type": "video",
+                "date": "2023/02/22",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/355422502",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 3rd Quarter FY23 Financial Results",
+        "event_date": "2022/11/16",
+        "data": [
+            {
+                "file_name": "831782722",
+                "file_type": "video",
+                "date": "2022/11/16",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/831782722",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 2nd Quarter FY23 Financial Results",
+        "event_date": "2022/08/24",
+        "data": [
+            {
+                "file_name": "132279280",
+                "file_type": "video",
+                "date": "2022/08/24",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/132279280",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "NVIDIA 2022 Annual Meeting of Stockholders",
+        "event_date": "2022/06/02",
+        "data": [
+            {
+                "file_name": "Annual-meeting-FY-23-Q1-NVIDIA.pdf",
+                "file_type": "pdf",
+                "date": "2022/06/02",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2022/05/Annual-meeting-FY-23-Q1-NVIDIA.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 1st Quarter FY23 Financial Results",
+        "event_date": "2022/05/25",
+        "data": [
+            {
+                "file_name": "439509506",
+                "file_type": "video",
+                "date": "2022/05/25",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/439509506",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY22 Financial Results",
+        "event_date": "2022/02/16",
+        "data": [
+            {
+                "file_name": "978753485",
+                "file_type": "video",
+                "date": "2022/02/16",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/978753485",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global TMT Virtual Conference",
+        "event_date": "2021/12/06",
+        "data": [
+            {
+                "file_name": "nvidia-dec-2021",
+                "file_type": "video",
+                "date": "2021/12/06",
+                "category": "webcast",
+                "source_url": "https://kvgo.com/ubs/nvidia-dec-2021",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Wells Fargo 5th Annual TMT Summit",
+        "event_date": "2021/12/01",
+        "data": [
+            {
+                "file_name": "nvidia-corporation-dec-2021",
+                "file_type": "video",
+                "date": "2021/12/01",
+                "category": "webcast",
+                "source_url": "https://kvgo.com/wells-fargo-tmt-summit/nvidia-corporation-dec-2021",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "New Street \"Big Ideas - in Semiconductors\" Conference",
+        "event_date": "2021/09/09",
+        "data": [
+            {
+                "file_name": "NVDA-New-Street-9-9-21-FINAL.pdf",
+                "file_type": "pdf",
+                "date": "2021/09/09",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2021/09/NVDA-New-Street-9-9-21-FINAL.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Evercore ISI Inaugural TMT Conference",
+        "event_date": "2021/06/07",
+        "data": [
+            {
+                "file_name": "NVDA-Evercore-ISI-Conference-Deck-6-7-21.pdf",
+                "file_type": "pdf",
+                "date": "2021/06/07",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2021/06/NVDA-Evercore-ISI-Conference-Deck-6-7-21.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "NVIDIA 2021 Annual Meeting of Stockholders",
+        "event_date": "2021/06/03",
+        "data": [
+            {
+                "file_name": "NVIDIA-2021-Annual-Meeting-Presentation.pdf",
+                "file_type": "pdf",
+                "date": "2021/06/03",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2021/06/NVIDIA-2021-Annual-Meeting-Presentation.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC China 2020 Keynote, Bill Dally",
+        "event_date": "2020/12/14",
+        "data": [
+            {
+                "file_name": "GTC-China_2020_FINAL-(with-FLS).pdf",
+                "file_type": "pdf",
+                "date": "2020/12/14",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2020/12/GTC-China_2020_FINAL-(with-FLS).pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA AUTOMOTIVE MEDIA EVENT",
+        "event_date": "2020/06/23",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2020/06/23",
+                "category": "webcast",
+                "source_url": "https://www.nvidia.com/en-us/events/automotive-press-conference/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "NVIDIA 2020 Annual Meeting of Stockholders",
+        "event_date": "2020/06/09",
+        "data": [
+            {
+                "file_name": "JHH_Shareholder_2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/06/09",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/JHH_Shareholder_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Needham 4th Annual Virtual Automotive Tech Conference",
+        "event_date": "2020/06/03",
+        "data": [
+            {
+                "file_name": "Needham-NVIDIA-6-2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/06/03",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2020/06/Needham-NVIDIA-6-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC 2020 Keynote",
+        "event_date": "2020/05/14",
+        "data": [
+            {
+                "file_name": "?nvid=nv-int-bnr-63829&sfdcid=GTCEV",
+                "file_type": "video",
+                "date": "2020/05/14",
+                "category": "webcast",
+                "source_url": "https://www.nvidia.com/en-us/gtc/keynote/?nvid=nv-int-bnr-63829&sfdcid=GTCEV",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Morgan Stanley Technology, Media & Telecom Conference",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1708066&tp_key=3730fca772",
+                "file_type": "video",
+                "date": "2025/03/05",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1708066&tp_key=3730fca772",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "TD Cowen 45th Annual Health Care Conference",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "2014707",
+                "file_type": "video",
+                "date": "2025/03/03",
+                "category": "webcast",
+                "source_url": "https://wsw.com/webcast/cowen177/nvda/2014707",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA 4th Quarter FY25 Financial Results",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "380205494",
+                "file_type": "video",
+                "date": "2025/02/26",
+                "category": "webcast",
+                "source_url": "https://events.q4inc.com/attendee/380205494",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan Healthcare Conference",
+        "event_date": "2025/01/13",
+        "data": [
+            {
+                "file_name": "default.aspx",
+                "file_type": "video",
+                "date": "2025/01/13",
+                "category": "webcast",
+                "source_url": "/events-and-presentations/events-and-presentations/event-details/2025/JP-Morgan-Healthcare-Conference-2025-zf8a9M4pmG/default.aspx",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "JPM-Healthcare-2025.pdf",
+                "file_type": "pdf",
+                "date": "2025/01/13",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2025/01/JPM-Healthcare-2025.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "CES Financial Analyst Q&A",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "134164455",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://video.ibm.com/recorded/134164455",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "J.P. Morgan CES Fireside Chat",
+        "event_date": "2025/01/07",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "video",
+                "date": "2025/01/07",
+                "category": "webcast",
+                "source_url": "https://jp-morgan-ces-fireside-chat-with-nvidia-cfo-jan-2025.open-exchange.net/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "UBS Global Technology and AI Conference",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "file_type": "video",
+                "date": "2024/12/03",
+                "category": "webcast",
+                "source_url": "https://event.webcasts.com/viewer/event.jsp?ei=1695212&tp_key=36f25a3d07",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Computex 2019",
+        "event_date": "2019/05/27",
+        "data": [
+            {
+                "file_name": "B-imv84W9G4",
+                "file_type": "video",
+                "date": "2019/05/27",
+                "category": "webcast",
+                "source_url": "https://youtu.be/B-imv84W9G4",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "GTC 2019 Keynote",
+        "event_date": "2019/03/18",
+        "data": [
+            {
+                "file_name": "gpu-technology-conference",
+                "file_type": "video",
+                "date": "2019/03/18",
+                "category": "webcast",
+                "source_url": "https://www.ustream.tv/gpu-technology-conference",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "NVIDIA to Acquire Mellanox",
+        "event_date": "2019/03/11",
+        "data": [
+            {
+                "file_name": "NVIDIA-to-Acquire-Mellanox.pdf",
+                "file_type": "pdf",
+                "date": "2019/03/11",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_presentations/2019/03/NVIDIA-to-Acquire-Mellanox.pdf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "FAQ.pdf",
+                "file_type": "pdf",
+                "date": "2019/03/11",
+                "category": "report",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_downloads/doc_faq/03/FAQ.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]

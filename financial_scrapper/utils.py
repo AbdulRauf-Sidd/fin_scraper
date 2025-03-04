@@ -43,8 +43,8 @@ def classify_euro_periodic_type(event_name, event_url):
     # Define regex patterns for classification
     annual_keywords = r'\b(annual|full year|FY|fiscal year)\b'
     half_year_keywords = r'\b(half[-\s]?year|HY|6[-\s]?month|six[-\s]?month)\b'
-    nine_month_keywords = r'\b(nine[-\s]?month|9[-\s]?month)\b'
-    three_month_keywords = r'\b(first[-\s]?quarter|second[-\s]?quarter|third[-\s]?quarter|fourth[-\s]?quarter|Q[1234]|3[-\s]?month)\b'
+    nine_month_keywords = r'\b(nine[-\s]?month|9[-\s]?month|third[-\s]?quarter)\b'
+    three_month_keywords = r'\b(first[-\s]?quarter|second[-\s]?quarter|fourth[-\s]?quarter|Q[1234]|3[-\s]?month)\b'
 
     # Check for 'annual' keywords first
     if re.search(annual_keywords, event_name, re.IGNORECASE) or \
@@ -154,7 +154,7 @@ async def parse_date3(date_str):
 from urllib.parse import urlparse
 import os
 
-def extract_file_name(file_url):
+async def extract_file_name(file_url):
     """Extracts the file name from a given URL."""
     parsed_url = urlparse(file_url)
     return os.path.basename(parsed_url.path)
@@ -162,7 +162,7 @@ def extract_file_name(file_url):
 import re
 from datetime import datetime
 
-def extract_date_from_filename(filename):
+async def extract_date_from_filename(filename):
     """
     Extracts a date from a given file name, handling multiple date formats.
     
@@ -214,6 +214,61 @@ def extract_date_from_filename(filename):
                     return parsed_date.strftime("%Y-%m-%d")
 
             except ValueError:
-                continue  # Skip to the next pattern if parsing fails
+                print('Error parsing date from file name')  # Skip to the next pattern if parsing fails
 
     return None  # Return None if no date is found
+
+
+import re
+from datetime import datetime
+
+async def extract_date_from_text(text):
+    """
+    Extracts a date from a given text string that contains a date in various formats.
+    Returns a datetime object if found, else returns None.
+    """
+
+    # Regular expression to match various date formats
+    date_patterns = [
+        r"(\d{1,2})\s(January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{4})",  # 12 May 2022
+        r"(\d{1,2})[-/](\d{1,2})[-/](\d{4})",  # 12/05/2022 or 12-05-2022
+        r"(January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{1,2}),\s(\d{4})",  # May 12, 2022
+    ]
+
+    for pattern in date_patterns:
+        match = re.search(pattern, text, re.IGNORECASE)
+        if match:
+            try:
+                # Format 1: "12 May 2022"
+                if len(match.groups()) == 3 and match.group(2).isalpha():
+                    day, month, year = match.groups()
+                    return datetime.strptime(f"{day} {month} {year}", "%d %B %Y")
+                
+                # Format 2: "12/05/2022" or "12-05-2022"
+                elif len(match.groups()) == 3 and match.group(2).isdigit():
+                    day, month, year = match.groups()
+                    return datetime.strptime(f"{day}-{month}-{year}", "%d-%m-%Y")
+                
+                # Format 3: "May 12, 2022"
+                elif len(match.groups()) == 3 and match.group(1).isalpha():
+                    month, day, year = match.groups()
+                    return datetime.strptime(f"{day} {month} {year}", "%d %B %Y")
+
+            except ValueError:
+                pass  # Skip if parsing fails
+
+    return None  # Return None if no date is found
+
+
+async def accept_cookies(page):
+    """Accepts cookies if a consent banner appears."""
+    try:
+        cookie_button = await page.query_selector("button:has-text('Accept')")
+        if cookie_button:
+            await cookie_button.click()
+            await asyncio.sleep(2)  # Wait to ensure banner disappears
+            print("✅ Accepted cookies.")
+    except Exception as e:
+        print(f"⚠️ No cookie consent banner found or error clicking it: {e}")
+
+import asyncio

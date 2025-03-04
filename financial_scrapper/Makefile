@@ -49,6 +49,17 @@ scrape_sy1_events:
 scrape_crda_sec:
 	python crda_sec.py "https://www.croda.com/en-gb/investors/results-presentations-and-reports/" "CRDA" --output crda_sec.json
 
+scrape_crda_news:
+	python crda_news.py "https://www.croda.com/en-gb/investors/regulatory-news" "CRDA" --output crda_news.json
+
+scrape_crda_esg:
+	python crda_esg.py "https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg" "CRDA" --output crda_esg.json
+
+scrape_dsm_press:
+	python dsm_press.py "https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html" "CRDA" --output dsm_press.json
+
+scrape_nvda_press:
+	python nvda_press.py "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx" "NVDA" --output nvda_press.json
 
 
 all: scrape_colgate scrape_cocacola
