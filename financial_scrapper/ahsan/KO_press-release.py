@@ -5,7 +5,7 @@ from common_utils import save_json, classify_frequency, ensure_absolute_url, KO_
 async def scrape_documents(url, filename):
     base_url = "https://investors.coca-colacompany.com"
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
         await page.goto(url)
         await KO_close_cookie_consent(page)

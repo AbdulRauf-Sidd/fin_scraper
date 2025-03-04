@@ -1,6 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
-from common_utils import save_json, classify_frequency, ensure_absolute_url
+from common_utils import save_json, classify_frequency, ensure_absolute_url, extract_date_from_text, categorize_event
 
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
@@ -17,19 +17,21 @@ async def scrape_documents(url, filename):
         for link in links:
             href = await link.get_attribute('href')
             text = await link.text_content()
+            date = await extract_date_from_text(text)
+            eventType = categorize_event(text)    
             if href:
                 absolute_url = ensure_absolute_url(base_url, href)
                 data_entry = {
                     "equity_ticker": "CL",
                     "source_type": "company_information",
                     "frequency": classify_frequency(text, href),
-                    "event_type": "annual general meeting",  # Assuming the context
+                    "event_type": eventType,  # Assuming the context
                     "event_name": text.strip(),
-                    "event_date": "NULL",
+                    "event_date": date,
                     "data": [{
                         "file_name": absolute_url.split('/')[-1],
                         "file_type": absolute_url.split('.')[-1] if '.' in absolute_url else 'link',
-                        "date": "NULL",
+                        "date": date,
                         "category": text.strip(),
                         "source_url": absolute_url,
                         "wissen_url": "NULL"

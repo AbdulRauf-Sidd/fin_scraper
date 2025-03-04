@@ -2,7 +2,6 @@ import re
 from dateutil.parser import parse
 from datetime import datetime
 
-
 def classify_frequency(event_name, event_url):
     # Define a regex pattern that matches the keywords indicating a periodic event
     periodic_keywords = r'\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|)\b'
@@ -12,7 +11,6 @@ def classify_frequency(event_name, event_url):
         return "periodic"
     else:
         return "non-periodic"   
-
 
 def classify_periodic_type(event_name, event_url):
     # Define regex patterns to detect 'annual' and 'quarterly' anywhere in the strings
@@ -68,9 +66,6 @@ def classify_euro_periodic_type(event_name, event_url):
 
     # Default to '3-month' if no specific pattern is found
     return "3-month"
-
-
-
 
 def format_quarter_string(event_date, event_name):
     try:

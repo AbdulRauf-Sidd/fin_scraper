@@ -1,6 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
-from common_utils import save_json, classify_frequency
+from common_utils import save_json, classify_frequency, extract_date_from_text, categorize_event
 
 async def scrape_responsibility_resources(url, filename):
     base_url = "https://www.pvh.com"
@@ -20,6 +20,9 @@ async def scrape_responsibility_resources(url, filename):
             for element in link_elements:
                 href = await element.get_attribute('href')
                 text = await element.text_content()
+                date = await extract_date_from_text(text)
+                eventType = categorize_event(text)    
+                
                 if href and not href.startswith('http'):
                     href = base_url + href
 
@@ -28,13 +31,13 @@ async def scrape_responsibility_resources(url, filename):
                     "equity_ticker": "PVH",
                     "source_type": "company_information",
                     "frequency": classify_frequency(text, href.split('/')[-1]),
-                    "event_type": "NULL",
+                    "event_type": eventType,
                     "event_name": text.strip(),
-                    "event_date": "NULL",
+                    "event_date": date,
                     "data": [{
                         "file_name": href.split('/')[-1],
                         "file_type": file_type,
-                        "date": "NULL",
+                        "date": date,
                         "category": "NULL",
                         "source_url": href,
                         "wissen_url": "NULL"
