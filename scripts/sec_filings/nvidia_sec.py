@@ -14,8 +14,22 @@ os.makedirs(os.path.dirname(JSON_FILENAME), exist_ok=True)
 
 # Calculate the last N years to scrape
 CURRENT_YEAR = datetime.now().year
-YEARS_LIST = list(range(CURRENT_YEAR, CURRENT_YEAR - YEARS_TO_SCRAPE, -1))  # e.g., [2025, 2024, 2023, 2022, 2021]
+YEARS_LIST = list(range(CURRENT_YEAR, CURRENT_YEAR - YEARS_TO_SCRAPE, -1))
 
+# MIME Type Mapping for File Extensions
+MIME_TYPE_MAPPING = {
+    "application/pdf": ".pdf",
+    "application/vnd.ms-excel": ".xls",
+    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
+    "text/html": ".html",
+    "application/zip": ".zip",
+    "application/xml": ".xml",
+    "application/json": ".json",
+    "application/msword": ".doc",
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
+    "audio/mpeg": ".mp3",
+    "video/mp4": ".mp4",
+}
 
 async def enable_stealth(page):
     """Inject JavaScript to evade bot detection."""
@@ -25,6 +39,15 @@ async def enable_stealth(page):
         });
     """)
 
+async def get_mime_type(page, url):
+    """Fetch MIME type from headers."""
+    try:
+        response = await page.request.head(url)
+        content_type = response.headers.get("content-type", "").split(";")[0]  # Extract MIME type
+        return MIME_TYPE_MAPPING.get(content_type, content_type)  # Return mapped extension or raw MIME type
+    except Exception as e:
+        print(f"⚠️ Error fetching MIME type for {url}: {e}")
+        return "unknown"
 
 async def parse_date(date_str):
     """Parse date in format: Dec 18, 2024."""
@@ -40,19 +63,15 @@ async def parse_date(date_str):
     print(f"⚠️ Error parsing date: {date_str}")
     return None
 
-
 async def select_year(page, year):
     """Select a specific year from the dropdown and wait for the page to update."""
     try:
         dropdown = await page.wait_for_selector("select")
         await dropdown.select_option(str(year))
-
-        # Wait for the filings list to update
         await asyncio.sleep(5)  # Allow time for content to load
         print(f"✅ Selected Year: {year}")
     except Exception as e:
         print(f"⚠️ Error selecting year {year}: {e}")
-
 
 async def extract_files_from_page(page, year):
     """Extracts filing dates, filing type, descriptions, and file links from SEC filings (div.module_item)."""
@@ -68,10 +87,9 @@ async def extract_files_from_page(page, year):
         for row in filing_rows:
             try:
                 # Extract Filing Date
-                date_element = await row.query_selector("div.filing-date, div.date, span")  # Different possible elements for date
+                date_element = await row.query_selector("div.filing-date, div.date, span")
                 filing_date = await date_element.inner_text() if date_element else ""
 
-                # Ensure we only process valid filing dates
                 filing_date_parsed = await parse_date(filing_date)
                 if not filing_date_parsed:
                     continue  # Skip this row if date is invalid
@@ -84,33 +102,25 @@ async def extract_files_from_page(page, year):
                 description_element = await row.query_selector("div.filing-desc, div.description, p")
                 description = await description_element.inner_text() if description_element else "No Description"
 
-                # Extract Download/View Links (PDF, Excel)
+                # Extract Download/View Links (PDF, Excel, Other)
                 file_links = []
                 link_elements = await row.query_selector_all("a[href]")
 
                 for link in link_elements:
                     file_url = await link.get_attribute("href")
-                    file_name = file_url.split("/")[-1] if file_url else "unknown"
+                    if file_url:
+                        full_url = file_url if file_url.startswith("http") else f"https://investor.nvidia.com{file_url}"
+                        mime_type = await get_mime_type(page, full_url)  # Detect document type
+                        file_name = full_url.split("/")[-1]
 
-                    # Determine file type (PDF, XLS)
-                    if ".pdf" in file_url.lower():
-                        file_type = "pdf"
-                    elif ".xls" in file_url.lower() or ".xlsx" in file_url.lower():
-                        file_type = "excel"
-                    else:
-                        file_type = "unknown"
-
-                    # Ensure absolute URL
-                    full_url = file_url if file_url.startswith("http") else f"https://investor.nvidia.com{file_url}"
-
-                    file_links.append({
-                        "file_name": file_name,
-                        "file_type": file_type,
-                        "date": filing_date_parsed.strftime("%Y/%m/%d"),
-                        "category": "report",
-                        "source_url": full_url,
-                        "wissen_url": "unknown"
-                    })
+                        file_links.append({
+                            "file_name": file_name,
+                            "file_type": mime_type,
+                            "date": filing_date_parsed.strftime("%Y/%m/%d"),
+                            "category": "report",
+                            "source_url": full_url,
+                            "wissen_url": "unknown"
+                        })
 
                 # Store extracted data
                 if file_links:
@@ -132,7 +142,6 @@ async def extract_files_from_page(page, year):
         print(f"⚠️ Error extracting files for year {year}: {e}")
         return []
 
-
 async def scrape_nvidia_sec_filings():
     """Main function to scrape NVIDIA SEC filings for multiple years."""
     async with async_playwright() as p:
@@ -148,8 +157,8 @@ async def scrape_nvidia_sec_filings():
             all_filings = []
             for year in YEARS_LIST:
                 await asyncio.sleep(5)  # Artificial delay to mimic human behavior
-                await select_year(page, year)  # Select the desired year
-                await asyncio.sleep(5)  # Another delay after selection
+                await select_year(page, year)
+                await asyncio.sleep(5)
 
                 filings_data = await extract_files_from_page(page, year)
                 if filings_data:
@@ -166,7 +175,6 @@ async def scrape_nvidia_sec_filings():
             print(f"⚠️ Error loading page: {e}")
 
         await browser.close()
-
 
 # Run the scraper
 asyncio.run(scrape_nvidia_sec_filings())

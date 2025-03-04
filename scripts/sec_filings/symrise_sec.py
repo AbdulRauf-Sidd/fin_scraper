@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 
 # URL for Symrise Financial Results Page
 BASE_URL = "https://www.symrise.com/investors/financial-results/"
-OUTPUT_FILE = "symrise_filings.json"
+OUTPUT_FILE = "JSONS/symrise_filings.json"
 
 # Calculate the date threshold for the last 5 years
 DATE_THRESHOLD = datetime.now() - timedelta(days=5*365)
