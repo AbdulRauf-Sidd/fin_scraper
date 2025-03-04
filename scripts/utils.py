@@ -107,6 +107,94 @@ def extract_quarter_from_name(event_name):
 
     return None
 
+def extract_euro_event_name(event_date, event_name):
+    """
+    Extract financial reporting period from event date or name.
+    
+    Supports extraction of:
+    - Fiscal Year (FY YYYY)
+    - Half-Year (H1 YYYY or H2 YYYY)
+    - Nine-Month Results (9M YYYY)
+    - Three-Month Results (3M YYYY)
+    
+    Args:
+        event_date (str): Date of the event
+        event_name (str): Name of the event
+    
+    Returns:
+        str or None: Formatted financial period or None if no match found
+    """
+    # Comprehensive list of patterns to match various financial period formats
+    financial_patterns = [
+        # Fiscal Year Patterns
+        r'\b(FY|Fiscal Year)\s*(\d{4})\b',  # "FY 2023", "Fiscal Year 2023"
+        
+        # Half-Year Patterns
+        r'\b(H[12])\s*(\d{4})\b',  # "H1 2023", "H2 2023"
+        r'\b(First|Second)\s*Half\s*(\d{4})\b',  # "First Half 2023", "Second Half 2023"
+        r'\b(Half-Year)\s*(?:Results)?\s*(\d{4})\b',  # "Half-Year Results 2023"
+        
+        # Nine-Month Patterns
+        r'\b(9M|Nine\s*(?:[-\s]?Months?|Mo))\s*(\d{4})\b',  # "9M 2023", "Nine Months 2023", "Nine-Months 2023"
+        r'\b(Nine\s*Months?)\s*(?:Results)?\s*(\d{4})\b',  # "Nine Months Results 2023"
+        
+        # Three-Month Patterns
+        r'\b(3M|Three\s*(?:[-\s]?Months?|Mo))\s*(\d{4})\b',  # "3M 2023", "Three Months 2023"
+        r'\b(Three\s*Months?)\s*(?:Results)?\s*(\d{4})\b',  # "Three Months Results 2023"
+        
+        # Additional variations with different word orders and spacing
+        r'\b(\d{4})\s*(FY|H[12]|9M|3M)\b',  # "2023 FY", "2023 H1"
+    ]
+    
+    # Try parsing from event date first
+    try:
+        parsed_date = parse(event_date, fuzzy=True)
+        # Determine fiscal year and half-year based on parsed date
+        fiscal_year = parsed_date.year
+        month = parsed_date.month
+        
+        # Fiscal year typically starts in different months based on company (e.g., October, January)
+        # Here we'll use a standard January start for fiscal year
+        if month >= 1 and month <= 6:
+            return f"H1 {fiscal_year}"
+        elif month >= 7 and month <= 12:
+            return f"H2 {fiscal_year}"
+    except (ValueError, TypeError):
+        pass
+    
+    # Try matching patterns in event name
+    for pattern in financial_patterns:
+        matches = re.findall(pattern, event_name, re.IGNORECASE)
+        for match in matches:
+            # Handle different match group orders
+            if len(match) == 2:
+                period, year = match
+            else:
+                year, period = match
+            
+            # Normalize period
+            period = period.upper().replace(' ', '')
+            
+            # Map variations to standard formats
+            period_map = {
+                'FISCALYEAR': f'FY {year}',
+                'FY': f'FY {year}',
+                'FIRSTHALF': f'H1 {year}',
+                'H1': f'H1 {year}',
+                'SECONDHALF': f'H2 {year}',
+                'H2': f'H2 {year}',
+                'NINEMONTHS': f'9M {year}',
+                '9M': f'9M {year}',
+                'THREEMONTHS': f'3M {year}',
+                '3M': f'3M {year}'
+            }
+            
+            # Return the first matching format
+            if period in period_map:
+                return period_map[period]
+    
+    return None
+
 
 async def parse_date(date_str):
     """Parse various date formats and return a standardized date."""
