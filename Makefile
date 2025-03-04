@@ -39,4 +39,6 @@ nvidia:
 crawford:
 	python scripts/sec_fillings/crawford_sec.py
 
+
+
 all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford

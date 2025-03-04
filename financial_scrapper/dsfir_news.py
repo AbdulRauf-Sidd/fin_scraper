@@ -51,93 +51,63 @@ async def accept_cookies(page):
 
 
 async def extract_files_from_page(page):
-    """Extracts investor results from the DSM-Firmenich page."""
+    """Extracts investor results from the DSM-Firmenich page, ensuring all file links are collected."""
     global stop_scraping
     try:
-        # Select all event-related elements in order
-        event_blocks = await page.query_selector_all(".cmp-title, .cmp-text, .cmp-image")
+        # Select all event list items
+        event_items = await page.query_selector_all(".cmp-list__item.common-list__item")
 
-        event_data = []
-        event_name, event_date = None, None
-        file_links = []
+        for event in event_items:
+            try:
+                # Extract event name
+                title_element = await event.query_selector(".cmp-list__item-title a")
+                event_name = await title_element.inner_text() if title_element else "Unknown Event"
 
-        for block in event_blocks:
-            # Extract event name (New event starts)
-            title_element = await block.query_selector(".cmp-title__text")
-            if title_element:
-                # If a previous event was collected, store it before moving to the new one
-                if event_name and file_links:
-                    file_links_collected.append({
-                        "equity_ticker": "DSM",
-                        "source_type": "company_information",
-                        "frequency": classify_frequency(event_name, file_links[0]["source_url"]),
-                        "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]),
-                        "event_name": event_name.strip(),
-                        "event_date": event_date if event_date else "null",
-                        "data": file_links
-                    })
-                    print(f"✅ Extracted event: {event_name}, Date: {event_date}")
+                # Extract event URL
+                event_url = await title_element.get_attribute("href") if title_element else None
+                if event_url and not event_url.startswith("http"):
+                    event_url = urljoin(SEC_FILINGS_URL, event_url)
 
-                # Start new event
-                event_name = await title_element.inner_text()
+                # No date in this structure
                 event_date = None
+
+                # Extract file links while they exist
                 file_links = []
-                continue
+                link_elements = await event.query_selector_all("a")  # Select all <a> tags
+                for link in link_elements:
+                    file_url = await link.get_attribute("href")
+                    if file_url:
+                        if not file_url.startswith("http"):
+                            file_url = urljoin(SEC_FILINGS_URL, file_url)
+                        file_type = "pdf" if file_url.endswith(".pdf") else "video" if "video" in file_url else "html"
 
-            # Extract event date
-            date_element = await block.query_selector(".cmp-text p b") or await block.query_selector(".cmp-text b") or await block.query_selector(".cmp-text")
-            if date_element:
-                event_date_text = await date_element.inner_text()
-                event_date_parsed = await parse_date3(event_date_text)
-                if event_date_parsed:
-                    event_date = event_date_parsed.strftime("%Y/%m/%d")
-                else:
-                    print(f"⚠️ Error parsing date: {event_date_text}")
-            else:
-                print(f"⚠️ No date found in block: {await block.inner_html()}")
-            if date_element:
-                event_date_text = await date_element.inner_text()
-                print(event_date_text)
-                event_date_parsed = await parse_date3(event_date_text)
-                if event_date_parsed:
-                    event_date = event_date_parsed.strftime("%Y/%m/%d")
-                continue
+                        file_links.append({
+                            "file_name": file_url.split("/")[-1],
+                            "file_type": file_type,
+                            "date": "null",
+                            "category": "financial report",
+                            "source_url": file_url,
+                            "wissen_url": "unknown"
+                        })
 
-            # Extract file links
-            link_element = await block.query_selector(".cmp-image__link")
-            if link_element:
-                file_url = await link_element.get_attribute("href")
-                if file_url:
-                    if not file_url.startswith("http"):
-                        file_url = urljoin(SEC_FILINGS_URL, file_url)
-                    file_type = "pdf" if file_url.endswith(".pdf") else "video" if "video" in file_url else "html"
-                    file_links.append({
-                        "file_name": file_url.split("/")[-1],
-                        "file_type": file_type,
-                        "date": event_date if event_date else "UNKNOWN DATE",
-                        "category": "financial report",
-                        "source_url": file_url,
-                        "wissen_url": "unknown"
-                    })
+                # Append structured event data
+                file_links_collected.append({
+                    "equity_ticker": "DSM",
+                    "source_type": "company_information",
+                    "frequency": classify_frequency(event_name, event_url),
+                    "event_type": classify_periodic_type(event_name, event_url),
+                    "event_name": event_name.strip(),
+                    "event_date": "null",
+                    "data": file_links
+                })
 
-        # Store the last event if it has files
-        if event_name and file_links:
-            file_links_collected.append({
-                "equity_ticker": "DSM",
-                "source_type": "company_information",
-                "frequency": classify_frequency(event_name, file_links[0]["source_url"]),
-                "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]),
-                "event_name": event_name.strip(),
-                "event_date": event_date if event_date else "null",
-                "data": file_links
-            })
-            print(f"✅ Extracted event: {event_name}, Date: {event_date}")
+                print(f"✅ Extracted event: {event_name}, Files: {len(file_links)}")
+
+            except Exception as e:
+                print(f"⚠️ Error processing an event: {e}")
 
     except Exception as e:
         print(f"⚠️ Error extracting events: {e}")
-
-
-
 
 
 async def scrape_all_years(page):
@@ -208,7 +178,7 @@ async def scrape_sec_filings():
             # await scrape_all_years(page)
             await asyncio.sleep(random.uniform(1, 3))  # Human-like delay
 
-            next_page = await find_next_page(page)
+            next_page = None
             if next_page and not stop_scraping:
                 current_url = next_page
             else:
