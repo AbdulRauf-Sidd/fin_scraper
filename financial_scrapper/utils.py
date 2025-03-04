@@ -104,3 +104,12 @@ async def parse_date2(date_str):
 
     print(f"⚠️ Error parsing date: {date_str}")
     return None
+
+
+from urllib.parse import urlparse
+import os
+
+def extract_file_name(file_url):
+    """Extracts the file name from a given URL."""
+    parsed_url = urlparse(file_url)
+    return os.path.basename(parsed_url.path)
