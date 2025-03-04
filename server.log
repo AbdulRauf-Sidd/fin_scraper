@@ -1,0 +1,42 @@
+INFO:     Started server process [937524]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:51142 - "GET /html?url=https://www.nestle.com/investors/pressreleases?page=%2C%2C%2C%2C%2C0 HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:60626 - "GET /html?url=https://www.nestle.com/investors/pressreleases?page=%2C%2C%2C%2C%2C1 HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:46566 - "GET /html?url=https://www.nestle.com/investors/results HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:43280 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2024-half-year-results HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:32938 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2024-three-month-sales HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:47258 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2023-full-year-results HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Error clicking verification button: 'NoneType' object is not callable
+Attempt 2: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:60388 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2023-nine-month-sales HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:42372 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2023-half-year-results HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:45992 - "GET /html?url=https://www.nestle.com/media/mediaeventscalendar/allevents/2023-three-month-sales HTTP/1.1" 200 OK
