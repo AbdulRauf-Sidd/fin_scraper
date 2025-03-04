@@ -1,0 +1,200 @@
+[
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2023 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2023.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2022 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2022.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2022.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2021 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2021.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2021.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2024 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2024.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2024.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2023 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2020.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2020.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2019 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2019.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2019.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2018 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2018.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2018.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2017 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2017.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2017.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2016 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2016.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2016.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2015 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2015.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2015.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "DSM",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Annual General Meeting of Shareholders 2014 | DSM",
+        "event_date": "null",
+        "data": [
+            {
+                "file_name": "annual-general-meeting-2014.html",
+                "file_type": "html",
+                "date": "null",
+                "category": "financial report",
+                "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2014.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]
