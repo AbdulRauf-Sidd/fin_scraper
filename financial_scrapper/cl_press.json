@@ -1,0 +1,218 @@
+[
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts Fireside Chat at the UBS Global Consumer and Retail Conference 2025",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-1",
+                "file_type": "html",
+                "date": "2025/02/26",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-1",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Company Announces Agreement to Acquire Prime100",
+        "event_date": "2025/02/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-company-announces-agreement-acquire-prime100",
+                "file_type": "html",
+                "date": "2025/02/18",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-company-announces-agreement-acquire-prime100",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts Presentation at The Consumer Analyst Group of New York Conference",
+        "event_date": "2025/02/07",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-consumer-analyst-15",
+                "file_type": "html",
+                "date": "2025/02/07",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-consumer-analyst-15",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate Announces 4th Quarter and Full Year 2024 Results",
+        "event_date": "2025/01/31",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-and-full-year-2024-results",
+                "file_type": "html",
+                "date": "2025/01/31",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-and-full-year-2024-results",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts 2024 Fourth Quarter & Full Year Earnings Conference Call January 31, 2025 \u2013 8:30 a.m. ET",
+        "event_date": "2025/01/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2024-fourth-quarter-full-year",
+                "file_type": "html",
+                "date": "2025/01/17",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2024-fourth-quarter-full-year",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate Declares Regular Quarterly Dividend",
+        "event_date": "2024/12/11",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-32",
+                "file_type": "html",
+                "date": "2024/12/11",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-32",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts Fireside Chat at the Morgan Stanley Global Consumer & Retail Conference",
+        "event_date": "2024/11/19",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-3",
+                "file_type": "html",
+                "date": "2024/11/19",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-3",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate Announces 3rd Quarter 2024 Results",
+        "event_date": "2024/10/25",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/10/25",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2024-results",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts 2024 Third Quarter Earnings Conference Call October 25, 2024 \u2013 8:30 a.m. ET",
+        "event_date": "2024/10/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2024-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2024/10/11",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2024-third-quarter-earnings",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Colgate-Palmolive Webcasts Fireside Chat at the J.P. Morgan 15th Annual U.S. All Stars Conference",
+        "event_date": "2024/09/13",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-jp-morgan-15th-annual",
+                "file_type": "html",
+                "date": "2024/09/13",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-jp-morgan-15th-annual",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate Declares Regular Quarterly Dividend",
+        "event_date": "2024/09/12",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-31",
+                "file_type": "html",
+                "date": "2024/09/12",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-31",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Colgate-Palmolive Webcasts Presentation at the Barclays 2024 Global Consumer Staples Conference",
+        "event_date": "2024/08/21",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-barclays-2024-global",
+                "file_type": "html",
+                "date": "2024/08/21",
+                "category": "event",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-barclays-2024-global",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]
