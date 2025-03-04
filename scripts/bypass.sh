@@ -23,6 +23,6 @@ else
     echo "Failed to kill all processes using port 8000"
 fi
 
-cd ../CloudflareBypassForScraping
+cd ..
 nohup python3 server.py > server.log 2>&1 &
 sleep 10
