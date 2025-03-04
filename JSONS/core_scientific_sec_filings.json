@@ -3,7 +3,25 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
+        "event_name": "Form 144: Report of proposed sale of securities",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "primary_doc.html",
+                "file_type": "unknown",
+                "date": "2025/03/03",
+                "category": "description_link",
+                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001957799-25-000051/primary_doc.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CLSK",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus [Rule 424(b)(3)]",
         "event_date": "2025/02/27",
         "data": [
@@ -21,7 +39,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus [Rule 424(b)(3)]",
         "event_date": "2025/02/27",
         "data": [
@@ -39,8 +57,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-K: Annual report [Section 13 and 15(d), not S-K Item 405]",
+        "event_type": "annual",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/27",
         "data": [
             {
@@ -65,8 +83,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/27",
         "data": [
             {
@@ -91,8 +109,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/26",
         "data": [
             {
@@ -117,7 +135,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form SCHEDULE 13G/A:",
         "event_date": "2025/02/13",
         "data": [
@@ -135,7 +153,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2025/02/05",
         "data": [
@@ -153,8 +171,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/05",
         "data": [
             {
@@ -179,7 +197,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form SCHEDULE 13G:",
         "event_date": "2025/01/30",
         "data": [
@@ -197,7 +215,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -215,7 +233,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -233,7 +251,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -251,7 +269,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -269,7 +287,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -287,7 +305,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -305,7 +323,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -323,7 +341,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/28",
         "data": [
@@ -341,7 +359,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/24",
         "data": [
@@ -359,7 +377,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/24",
         "data": [
@@ -377,7 +395,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/23",
         "data": [
@@ -395,7 +413,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/22",
         "data": [
@@ -413,7 +431,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2025/01/06",
         "data": [
@@ -431,8 +449,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/01/06",
         "data": [
             {
@@ -457,7 +475,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/03",
         "data": [
@@ -475,7 +493,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/03",
         "data": [
@@ -493,7 +511,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/03",
         "data": [
@@ -511,7 +529,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/02",
         "data": [
@@ -529,7 +547,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2025/01/02",
         "data": [
@@ -547,7 +565,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/12/16",
         "data": [
@@ -565,7 +583,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/12/09",
         "data": [
@@ -583,7 +601,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/06",
         "data": [
@@ -601,7 +619,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/06",
         "data": [
@@ -619,8 +637,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/05",
         "data": [
             {
@@ -645,8 +663,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/05",
         "data": [
             {
@@ -671,7 +689,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/03",
         "data": [
@@ -689,7 +707,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/03",
         "data": [
@@ -707,7 +725,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/03",
         "data": [
@@ -725,7 +743,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/12/02",
         "data": [
@@ -742,34 +760,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/11/25",
-        "data": [
-            {
-                "file_name": "0001628280-24-049126-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/11/25",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-049126/0001628280-24-049126-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20241120.htm",
-                "file_type": "unknown",
-                "date": "2024/11/25",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-049126/core-20241120.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/11/22",
         "data": [
@@ -787,7 +779,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/11/22",
         "data": [
@@ -805,7 +797,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/11/20",
         "data": [
@@ -823,7 +815,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/11/20",
         "data": [
@@ -841,7 +833,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/11/12",
         "data": [
@@ -859,7 +851,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2024/11/08",
         "data": [
@@ -877,8 +869,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/06",
         "data": [
             {
@@ -903,8 +895,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/06",
         "data": [
             {
@@ -929,8 +921,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/05",
         "data": [
             {
@@ -955,7 +947,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2024/10/24",
         "data": [
@@ -973,8 +965,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/23",
         "data": [
             {
@@ -999,7 +991,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/10/08",
         "data": [
@@ -1017,8 +1009,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/07",
         "data": [
             {
@@ -1043,7 +1035,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/30",
         "data": [
@@ -1061,7 +1053,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/16",
         "data": [
@@ -1079,7 +1071,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/12",
         "data": [
@@ -1097,7 +1089,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/11",
         "data": [
@@ -1115,7 +1107,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/10",
         "data": [
@@ -1133,7 +1125,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/09/09",
         "data": [
@@ -1150,34 +1142,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/09/06",
-        "data": [
-            {
-                "file_name": "0001628280-24-039711-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/09/06",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-039711/0001628280-24-039711-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240906.htm",
-                "file_type": "unknown",
-                "date": "2024/09/06",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-039711/core-20240906.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/09/05",
         "data": [
@@ -1195,25 +1161,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
-        "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
-        "event_date": "2024/09/05",
-        "data": [
-            {
-                "file_name": "prospectussupplement-9524.htm",
-                "file_type": "unknown",
-                "date": "2024/09/05",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-039561/prospectussupplement-9524.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/05",
         "data": [
@@ -1231,8 +1179,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/09/05",
         "data": [
             {
@@ -1257,7 +1205,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/04",
         "data": [
@@ -1275,7 +1223,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/03",
         "data": [
@@ -1293,7 +1241,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/08/29",
         "data": [
@@ -1311,7 +1259,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/08/22",
         "data": [
@@ -1329,7 +1277,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/08/20",
         "data": [
@@ -1347,7 +1295,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2024/08/19",
         "data": [
@@ -1365,7 +1313,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/08/19",
         "data": [
@@ -1383,7 +1331,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/08/19",
         "data": [
@@ -1401,7 +1349,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/08/19",
         "data": [
@@ -1419,8 +1367,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/19",
         "data": [
             {
@@ -1445,7 +1393,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/08/16",
         "data": [
@@ -1463,7 +1411,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/08/16",
         "data": [
@@ -1481,8 +1429,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/07",
         "data": [
             {
@@ -1507,7 +1455,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/08/07",
         "data": [
@@ -1525,8 +1473,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/07",
         "data": [
             {
@@ -1551,7 +1499,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/08/06",
         "data": [
@@ -1568,34 +1516,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/08/06",
-        "data": [
-            {
-                "file_name": "0001628280-24-034989-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/08/06",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-034989/0001628280-24-034989-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240806.htm",
-                "file_type": "unknown",
-                "date": "2024/08/06",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-034989/core-20240806.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/08/05",
         "data": [
@@ -1613,8 +1535,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/05",
         "data": [
             {
@@ -1639,7 +1561,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/07/23",
         "data": [
@@ -1657,8 +1579,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/23",
         "data": [
             {
@@ -1683,7 +1605,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/07/22",
         "data": [
@@ -1701,7 +1623,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/07/12",
         "data": [
@@ -1719,8 +1641,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/12",
         "data": [
             {
@@ -1745,7 +1667,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/07/08",
         "data": [
@@ -1763,8 +1685,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/08",
         "data": [
             {
@@ -1789,7 +1711,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/07/05",
         "data": [
@@ -1807,8 +1729,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/05",
         "data": [
             {
@@ -1833,7 +1755,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/06/27",
         "data": [
@@ -1851,7 +1773,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1869,7 +1791,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1887,7 +1809,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1905,7 +1827,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1923,7 +1845,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1941,7 +1863,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/06/26",
         "data": [
@@ -1959,8 +1881,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/25",
         "data": [
             {
@@ -1985,7 +1907,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/06/25",
         "data": [
@@ -2003,7 +1925,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/06/17",
         "data": [
@@ -2021,7 +1943,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/06/17",
         "data": [
@@ -2039,8 +1961,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/17",
         "data": [
             {
@@ -2065,7 +1987,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/06/14",
         "data": [
@@ -2083,7 +2005,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/06/13",
         "data": [
@@ -2101,8 +2023,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/12",
         "data": [
             {
@@ -2127,8 +2049,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/06",
         "data": [
             {
@@ -2153,8 +2075,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/05",
         "data": [
             {
@@ -2179,8 +2101,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/04",
         "data": [
             {
@@ -2205,7 +2127,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/29",
         "data": [
@@ -2223,7 +2145,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/29",
         "data": [
@@ -2241,7 +2163,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/29",
         "data": [
@@ -2259,7 +2181,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/28",
         "data": [
@@ -2277,7 +2199,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/28",
         "data": [
@@ -2295,7 +2217,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/28",
         "data": [
@@ -2313,7 +2235,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-8: Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
         "event_date": "2024/05/21",
         "data": [
@@ -2331,7 +2253,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/15",
         "data": [
@@ -2349,7 +2271,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/15",
         "data": [
@@ -2367,7 +2289,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/05/13",
         "data": [
@@ -2385,7 +2307,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/05/09",
         "data": [
@@ -2403,8 +2325,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/09",
         "data": [
             {
@@ -2429,8 +2351,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/08",
         "data": [
             {
@@ -2447,7 +2369,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2024/05/06",
         "data": [
@@ -2473,8 +2395,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/06",
         "data": [
             {
@@ -2491,7 +2413,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form EFFECT: Notice of Effectiveness",
         "event_date": "2024/05/02",
         "data": [
@@ -2517,8 +2439,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/02",
         "data": [
             {
@@ -2535,7 +2457,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2024/04/30",
         "data": [
@@ -2561,7 +2483,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2024/04/29",
         "data": [
@@ -2579,7 +2501,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2024/04/22",
         "data": [
@@ -2596,34 +2518,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/04/15",
-        "data": [
-            {
-                "file_name": "0001628280-24-016137-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/04/15",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-016137/0001628280-24-016137-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240415.htm",
-                "file_type": "unknown",
-                "date": "2024/04/15",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-016137/core-20240415.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2024/04/15",
         "data": [
@@ -2649,8 +2545,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/04/05",
         "data": [
             {
@@ -2675,8 +2571,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/04/03",
         "data": [
             {
@@ -2701,7 +2597,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/03/19",
         "data": [
@@ -2719,7 +2615,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/03/19",
         "data": [
@@ -2737,7 +2633,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/03/18",
         "data": [
@@ -2755,7 +2651,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/03/18",
         "data": [
@@ -2773,7 +2669,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/03/18",
         "data": [
@@ -2791,8 +2687,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-K: Annual report pursuant to Section 13 and 15(d)",
+        "event_type": "annual",
+        "event_name": "Q1 2024",
         "event_date": "2024/03/13",
         "data": [
             {
@@ -2816,86 +2712,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/03/12",
-        "data": [
-            {
-                "file_name": "0001628280-24-010544-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/03/12",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-010544/0001628280-24-010544-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240312.htm",
-                "file_type": "unknown",
-                "date": "2024/03/12",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-010544/core-20240312.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/03/06",
-        "data": [
-            {
-                "file_name": "0001628280-24-009396-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/03/06",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-009396/0001628280-24-009396-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240306.htm",
-                "file_type": "unknown",
-                "date": "2024/03/06",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-009396/core-20240306.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/03/05",
-        "data": [
-            {
-                "file_name": "0001628280-24-008906-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/03/05",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-008906/0001628280-24-008906-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20240305.htm",
-                "file_type": "unknown",
-                "date": "2024/03/05",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-24-008906/core-20240305.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/02/26",
         "data": [
@@ -2913,7 +2731,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/26",
         "data": [
@@ -2931,7 +2749,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/26",
         "data": [
@@ -2949,7 +2767,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 144: Filing for proposed sale of securities under Rule 144",
         "event_date": "2024/02/23",
         "data": [
@@ -2967,7 +2785,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2024/02/21",
         "data": [
@@ -2985,7 +2803,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2024/02/20",
         "data": [
@@ -3003,7 +2821,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2024/02/20",
         "data": [
@@ -3021,7 +2839,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3039,7 +2857,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3057,7 +2875,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3075,7 +2893,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3093,7 +2911,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3111,7 +2929,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3129,7 +2947,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4/A: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/16",
         "data": [
@@ -3147,7 +2965,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/07",
         "data": [
@@ -3165,8 +2983,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/05",
         "data": [
             {
@@ -3191,7 +3009,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2024/02/02",
         "data": [
@@ -3209,7 +3027,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -3227,7 +3045,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -3245,7 +3063,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -3263,7 +3081,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -3281,7 +3099,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -3299,8 +3117,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/01",
         "data": [
             {
@@ -3325,7 +3143,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2024/02/01",
         "data": [
@@ -3343,7 +3161,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3361,8 +3179,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/25",
         "data": [
             {
@@ -3387,7 +3205,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3405,7 +3223,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3423,7 +3241,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3441,7 +3259,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3459,7 +3277,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3477,7 +3295,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3495,7 +3313,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3513,7 +3331,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2024/01/25",
         "data": [
@@ -3531,7 +3349,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CERT:",
         "event_date": "2024/01/24",
         "data": [
@@ -3549,7 +3367,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form SEC STAFF ACTION:",
         "event_date": "2024/01/23",
         "data": [
@@ -3567,7 +3385,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 8-A12B/A: Form for the registration / listing of a class of securities on a national securities exchange pursuant to Section 12(b)",
         "event_date": "2024/01/23",
         "data": [
@@ -3584,34 +3402,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2024/01/23",
-        "data": [
-            {
-                "file_name": "0001193125-24-013078-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2024/01/23",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-24-013078/0001193125-24-013078-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d661343d8k.htm",
-                "file_type": "unknown",
-                "date": "2024/01/23",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-24-013078/d661343d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2024/01/17",
         "data": [
@@ -3629,7 +3421,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form T-3/A: Initial application for qualification of trust indentures",
         "event_date": "2024/01/17",
         "data": [
@@ -3647,8 +3439,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/17",
         "data": [
             {
@@ -3673,8 +3465,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/08",
         "data": [
             {
@@ -3699,8 +3491,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/05",
         "data": [
             {
@@ -3725,8 +3517,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/02",
         "data": [
             {
@@ -3751,8 +3543,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/12/29",
         "data": [
             {
@@ -3777,8 +3569,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/12/28",
         "data": [
             {
@@ -3803,8 +3595,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/12/21",
         "data": [
             {
@@ -3828,86 +3620,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/12/11",
-        "data": [
-            {
-                "file_name": "0001193125-23-292153-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/12/11",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-292153/0001193125-23-292153-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d608341d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/12/11",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-292153/d608341d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/12/04",
-        "data": [
-            {
-                "file_name": "0001193125-23-288040-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/12/04",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-288040/0001193125-23-288040-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d31518d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/12/04",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-288040/d31518d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/12/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-286685-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/12/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-286685/0001193125-23-286685-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d559964d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/12/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-286685/d559964d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2023/11/28",
         "data": [
@@ -3925,7 +3639,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2023/11/27",
         "data": [
@@ -3943,8 +3657,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/22",
         "data": [
             {
@@ -3969,8 +3683,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/21",
         "data": [
             {
@@ -3995,7 +3709,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form T-3: Initial application for qualification of trust indentures",
         "event_date": "2023/11/17",
         "data": [
@@ -4013,8 +3727,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/17",
         "data": [
             {
@@ -4039,8 +3753,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/15",
         "data": [
             {
@@ -4064,476 +3778,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/11/15",
-        "data": [
-            {
-                "file_name": "0001193125-23-277419-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/11/15",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-277419/0001193125-23-277419-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d494808d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/11/15",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-277419/d494808d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/11/13",
-        "data": [
-            {
-                "file_name": "0001193125-23-276107-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/11/13",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-276107/0001193125-23-276107-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d81375d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/11/13",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-276107/d81375d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
-        "event_date": "2023/11/06",
-        "data": [
-            {
-                "file_name": "0001628280-23-036849-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/11/06",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-036849/0001628280-23-036849-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20230930.htm",
-                "file_type": "unknown",
-                "date": "2023/11/06",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-036849/core-20230930.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/10/31",
-        "data": [
-            {
-                "file_name": "0001193125-23-267299-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/10/31",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-267299/0001193125-23-267299-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d461349d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/10/31",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-267299/d461349d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/10/30",
-        "data": [
-            {
-                "file_name": "0001193125-23-266221-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/10/30",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-266221/0001193125-23-266221-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d524676d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/10/30",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-266221/d524676d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/09/29",
-        "data": [
-            {
-                "file_name": "0001193125-23-247529-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/29",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-247529/0001193125-23-247529-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d331696d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/09/29",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-247529/d331696d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q/A: Quarterly report pursuant to Section 13 or 15(d)",
-        "event_date": "2023/09/21",
-        "data": [
-            {
-                "file_name": "0001628280-23-032799-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/21",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-032799/0001628280-23-032799-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20230630.htm",
-                "file_type": "unknown",
-                "date": "2023/09/21",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-032799/core-20230630.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/09/20",
-        "data": [
-            {
-                "file_name": "0001193125-23-238683-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/20",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-238683/0001193125-23-238683-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d523163d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/09/20",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-238683/d523163d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/09/20",
-        "data": [
-            {
-                "file_name": "0001193125-23-238132-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/20",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-238132/0001193125-23-238132-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d555900d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/09/20",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-238132/d555900d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/09/08",
-        "data": [
-            {
-                "file_name": "0001193125-23-231176-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/08",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-231176/0001193125-23-231176-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d509828d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/09/08",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-231176/d509828d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/09/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-226524-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/09/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-226524/0001193125-23-226524-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d523967d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/09/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-226524/d523967d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/08/08",
-        "data": [
-            {
-                "file_name": "0001193125-23-205678-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/08/08",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-205678/0001193125-23-205678-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d445582d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/08/08",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-205678/d445582d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/08/07",
-        "data": [
-            {
-                "file_name": "0001193125-23-204066-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/08/07",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-204066/0001193125-23-204066-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d542047d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/08/07",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-204066/d542047d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
-        "event_date": "2023/08/04",
-        "data": [
-            {
-                "file_name": "0001628280-23-027559-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/08/04",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-027559/0001628280-23-027559-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20230630.htm",
-                "file_type": "unknown",
-                "date": "2023/08/04",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-027559/core-20230630.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/07/31",
-        "data": [
-            {
-                "file_name": "0001193125-23-199397-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/07/31",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-199397/0001193125-23-199397-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d521817d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/07/31",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-199397/d521817d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/07/06",
-        "data": [
-            {
-                "file_name": "0001193125-23-182498-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/07/06",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-182498/0001193125-23-182498-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d530352d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/07/06",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-182498/d530352d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/06/30",
-        "data": [
-            {
-                "file_name": "0001193125-23-180611-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/06/30",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-180611/0001193125-23-180611-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d440851d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/06/30",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-180611/d440851d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/06/21",
-        "data": [
-            {
-                "file_name": "0001193125-23-170749-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/06/21",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-170749/0001193125-23-170749-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d398991d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/06/21",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-170749/d398991d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2023/06/08",
         "data": [
@@ -4551,8 +3797,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/31",
         "data": [
             {
@@ -4576,156 +3822,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/05/17",
-        "data": [
-            {
-                "file_name": "0001193125-23-147063-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/05/17",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-147063/0001193125-23-147063-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d445001d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/05/17",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-147063/d445001d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
-        "event_date": "2023/05/15",
-        "data": [
-            {
-                "file_name": "0001628280-23-017974-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/05/15",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-017974/0001628280-23-017974-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20230331.htm",
-                "file_type": "unknown",
-                "date": "2023/05/15",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-017974/core-20230331.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-Q: Notice under Rule 12b25 of inability to timely file all or part of a form 10-Q or 10-QSB",
-        "event_date": "2023/05/10",
-        "data": [
-            {
-                "file_name": "d290724dnt10q.htm",
-                "file_type": "unknown",
-                "date": "2023/05/10",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-140779/d290724dnt10q.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
-        "event_date": "2023/05/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-128651-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128651/0001193125-23-128651-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d463067d8ka.htm",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128651/d463067d8ka.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
-        "event_date": "2023/05/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-128647-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128647/0001193125-23-128647-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d463065d8ka.htm",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128647/d463065d8ka.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/05/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-128643-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128643/0001193125-23-128643-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d463047d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/05/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-128643/d463047d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 25-NSE: Notification filed by national security exchange to report the removal from listing and registration of matured, redeemed or retired securities",
         "event_date": "2023/04/12",
         "data": [
@@ -4743,8 +3841,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-K: Annual report pursuant to Section 13 and 15(d)",
+        "event_type": "annual",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/04",
         "data": [
             {
@@ -4769,8 +3867,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/03",
         "data": [
             {
@@ -4795,8 +3893,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-K: Notice under Rule 12b25 of inability to timely file all or part of a Form 10-K, 10-KSB, or 10-KT",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/03/16",
         "data": [
             {
@@ -4812,138 +3910,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
-        "event_date": "2023/03/03",
-        "data": [
-            {
-                "file_name": "0001193125-23-059162-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/03/03",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-059162/0001193125-23-059162-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d455219d8ka.htm",
-                "file_type": "unknown",
-                "date": "2023/03/03",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-059162/d455219d8ka.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/03/02",
-        "data": [
-            {
-                "file_name": "0001193125-23-058334-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/03/02",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-058334/0001193125-23-058334-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d411824d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/03/02",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-058334/d411824d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/03/01",
-        "data": [
-            {
-                "file_name": "0001193125-23-055811-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/03/01",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-055811/0001193125-23-055811-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d472137d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/03/01",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-055811/d472137d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/02/13",
-        "data": [
-            {
-                "file_name": "0001193125-23-034521-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/02/13",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-034521/0001193125-23-034521-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d424912d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/02/13",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-034521/d424912d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
-        "event_date": "2023/02/09",
-        "data": [
-            {
-                "file_name": "0001193125-23-030218-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2023/02/09",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-030218/0001193125-23-030218-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "d459265d8k.htm",
-                "file_type": "unknown",
-                "date": "2023/02/09",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001193125-23-030218/d459265d8k.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2023/02/09",
         "data": [
@@ -4961,8 +3929,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/02/07",
         "data": [
             {
@@ -4987,8 +3955,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/27",
         "data": [
             {
@@ -5013,8 +3981,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/09",
         "data": [
             {
@@ -5039,7 +4007,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2023/01/04",
         "data": [
@@ -5057,7 +4025,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/12/30",
         "data": [
@@ -5075,8 +4043,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/30",
         "data": [
             {
@@ -5101,7 +4069,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2022/12/30",
         "data": [
@@ -5119,8 +4087,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/27",
         "data": [
             {
@@ -5145,8 +4113,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/21",
         "data": [
             {
@@ -5171,8 +4139,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/21",
         "data": [
             {
@@ -5197,8 +4165,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/16",
         "data": [
             {
@@ -5223,7 +4191,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/12/02",
         "data": [
@@ -5241,8 +4209,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/28",
         "data": [
             {
@@ -5267,8 +4235,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/23",
         "data": [
             {
@@ -5292,34 +4260,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
-        "event_date": "2022/11/22",
-        "data": [
-            {
-                "file_name": "0001628280-22-030600-xbrl.zip",
-                "file_type": "unknown",
-                "date": "2022/11/22",
-                "category": "other",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-22-030600/0001628280-22-030600-xbrl.zip",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "core-20220930.htm",
-                "file_type": "unknown",
-                "date": "2022/11/22",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-22-030600/core-20220930.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/11/15",
         "data": [
@@ -5337,7 +4279,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/11/15",
         "data": [
@@ -5355,8 +4297,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/15",
         "data": [
             {
@@ -5381,8 +4323,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-Q: Notice under Rule 12b25 of inability to timely file all or part of a form 10-Q or 10-QSB",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/14",
         "data": [
             {
@@ -5399,8 +4341,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/07",
         "data": [
             {
@@ -5425,7 +4367,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/11/02",
         "data": [
@@ -5443,7 +4385,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/31",
         "data": [
@@ -5461,7 +4403,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/31",
         "data": [
@@ -5479,8 +4421,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/28",
         "data": [
             {
@@ -5497,7 +4439,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/27",
         "data": [
@@ -5515,7 +4457,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/27",
         "data": [
@@ -5533,7 +4475,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/27",
         "data": [
@@ -5551,8 +4493,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/27",
         "data": [
             {
@@ -5577,7 +4519,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/27",
         "data": [
@@ -5595,8 +4537,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/25",
         "data": [
             {
@@ -5621,7 +4563,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/12",
         "data": [
@@ -5639,7 +4581,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/10/12",
         "data": [
@@ -5657,8 +4599,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/12",
         "data": [
             {
@@ -5683,8 +4625,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/05",
         "data": [
             {
@@ -5709,7 +4651,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/10/04",
         "data": [
@@ -5727,7 +4669,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/20",
         "data": [
@@ -5745,7 +4687,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form D: Official notice of an offering of securities that is made without registration under the Securities Act in reliance on an exemption provided by Regulation D and Section 4(a)(5) under the Act.",
         "event_date": "2022/09/09",
         "data": [
@@ -5763,7 +4705,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/09/08",
         "data": [
@@ -5781,7 +4723,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form EFFECT: Notice of Effectiveness",
         "event_date": "2022/09/07",
         "data": [
@@ -5799,7 +4741,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2022/09/07",
         "data": [
@@ -5817,8 +4759,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/09/06",
         "data": [
             {
@@ -5843,7 +4785,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/06",
         "data": [
@@ -5861,7 +4803,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/06",
         "data": [
@@ -5879,7 +4821,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/06",
         "data": [
@@ -5897,7 +4839,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/06",
         "data": [
@@ -5915,7 +4857,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/08/26",
         "data": [
@@ -5933,7 +4875,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2022/08/25",
         "data": [
@@ -5959,7 +4901,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/08/22",
         "data": [
@@ -5977,8 +4919,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/22",
         "data": [
             {
@@ -6003,8 +4945,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/22",
         "data": [
             {
@@ -6029,7 +4971,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/08/17",
         "data": [
@@ -6047,7 +4989,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/08/17",
         "data": [
@@ -6065,7 +5007,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/08/17",
         "data": [
@@ -6083,8 +5025,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/17",
         "data": [
             {
@@ -6108,26 +5050,8 @@
     {
         "equity_ticker": "CLSK",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-Q: Notice under Rule 12b25 of inability to timely file all or part of a form 10-Q or 10-QSB",
-        "event_date": "2022/08/16",
-        "data": [
-            {
-                "file_name": "core_nt10q.htm",
-                "file_type": "unknown",
-                "date": "2022/08/16",
-                "category": "description_link",
-                "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-22-022989/core_nt10q.htm",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CLSK",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2022/08/16",
         "data": [
@@ -6145,8 +5069,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/12",
         "data": [
             {
@@ -6171,7 +5095,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2022/08/11",
         "data": [
@@ -6197,8 +5121,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/05",
         "data": [
             {
@@ -6223,7 +5147,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/08/04",
         "data": [
@@ -6241,8 +5165,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/04",
         "data": [
             {
@@ -6267,8 +5191,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/27",
         "data": [
             {
@@ -6293,7 +5217,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/07/21",
         "data": [
@@ -6311,8 +5235,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/21",
         "data": [
             {
@@ -6337,7 +5261,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/07/21",
         "data": [
@@ -6355,7 +5279,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/07/07",
         "data": [
@@ -6373,7 +5297,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/07/05",
         "data": [
@@ -6391,8 +5315,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/05",
         "data": [
             {
@@ -6417,7 +5341,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/27",
         "data": [
@@ -6435,7 +5359,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/27",
         "data": [
@@ -6453,7 +5377,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/16",
         "data": [
@@ -6471,7 +5395,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/16",
         "data": [
@@ -6489,7 +5413,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/16",
         "data": [
@@ -6507,8 +5431,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/14",
         "data": [
             {
@@ -6533,7 +5457,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/06",
         "data": [
@@ -6551,8 +5475,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/06",
         "data": [
             {
@@ -6577,8 +5501,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/06",
         "data": [
             {
@@ -6603,7 +5527,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 4: Statement of changes in beneficial ownership of securities",
         "event_date": "2022/06/01",
         "data": [
@@ -6621,7 +5545,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3/A: Initial statement of beneficial ownership of securities",
         "event_date": "2022/06/01",
         "data": [
@@ -6639,7 +5563,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/05/13",
         "data": [
@@ -6657,8 +5581,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/13",
         "data": [
             {
@@ -6683,7 +5607,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/05/13",
         "data": [
@@ -6701,8 +5625,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/12",
         "data": [
             {
@@ -6727,7 +5651,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form EFFECT: Notice of Effectiveness",
         "event_date": "2022/05/11",
         "data": [
@@ -6745,7 +5669,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2022/05/11",
         "data": [
@@ -6763,8 +5687,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/06",
         "data": [
             {
@@ -6789,7 +5713,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2022/05/05",
         "data": [
@@ -6807,7 +5731,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2022/05/05",
         "data": [
@@ -6825,7 +5749,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2022/04/29",
         "data": [
@@ -6843,7 +5767,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2022/04/21",
         "data": [
@@ -6869,8 +5793,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/20",
         "data": [
             {
@@ -6895,7 +5819,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-8: Initial registration statement for securities to be offered to employees pursuant to employee benefit plans",
         "event_date": "2022/04/20",
         "data": [
@@ -6913,7 +5837,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/04/12",
         "data": [
@@ -6931,8 +5855,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/08",
         "data": [
             {
@@ -6957,7 +5881,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form DEF 14A: Definitive proxy statements",
         "event_date": "2022/04/08",
         "data": [
@@ -6975,8 +5899,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/05",
         "data": [
             {
@@ -7001,8 +5925,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K/A: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/31",
         "data": [
             {
@@ -7027,8 +5951,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-K: Annual report pursuant to Section 13 and 15(d)",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/30",
         "data": [
             {
@@ -7053,8 +5977,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/29",
         "data": [
             {
@@ -7079,8 +6003,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/28",
         "data": [
             {
@@ -7105,8 +6029,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/07",
         "data": [
             {
@@ -7131,8 +6055,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/28",
         "data": [
             {
@@ -7157,7 +6081,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/02/14",
         "data": [
@@ -7175,7 +6099,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/02/14",
         "data": [
@@ -7193,7 +6117,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/02/11",
         "data": [
@@ -7211,7 +6135,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G/A: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/02/10",
         "data": [
@@ -7229,7 +6153,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2022/02/09",
         "data": [
@@ -7255,8 +6179,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/07",
         "data": [
             {
@@ -7281,7 +6205,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2022/02/03",
         "data": [
@@ -7299,7 +6223,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7317,7 +6241,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7335,7 +6259,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7353,7 +6277,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7371,7 +6295,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7389,7 +6313,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7407,7 +6331,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7425,7 +6349,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7443,7 +6367,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7461,7 +6385,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7479,7 +6403,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7497,7 +6421,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13D: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities",
         "event_date": "2022/01/31",
         "data": [
@@ -7515,8 +6439,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/24",
         "data": [
             {
@@ -7541,8 +6465,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/20",
         "data": [
             {
@@ -7567,7 +6491,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 25-NSE: Notification filed by national security exchange to report the removal from listing and registration of matured, redeemed or retired securities",
         "event_date": "2022/01/19",
         "data": [
@@ -7585,7 +6509,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2022/01/12",
         "data": [
@@ -7603,8 +6527,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/12",
         "data": [
             {
@@ -7629,7 +6553,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2022/01/05",
         "data": [
@@ -7647,7 +6571,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2022/01/03",
         "data": [
@@ -7665,7 +6589,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form DEFM14A: Definitive proxy statement relating to a merger, acquisition, or disposition",
         "event_date": "2022/01/03",
         "data": [
@@ -7683,7 +6607,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B3: Prospectus filed pursuant to Rule 424(b)(3)",
         "event_date": "2022/01/03",
         "data": [
@@ -7701,7 +6625,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form EFFECT: Notice of Effectiveness",
         "event_date": "2021/12/30",
         "data": [
@@ -7719,7 +6643,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/12/30",
         "data": [
@@ -7737,8 +6661,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/30",
         "data": [
             {
@@ -7763,7 +6687,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/12/30",
         "data": [
@@ -7781,7 +6705,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/12/30",
         "data": [
@@ -7807,7 +6731,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/12/27",
         "data": [
@@ -7825,7 +6749,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/12/23",
         "data": [
@@ -7843,7 +6767,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/12/22",
         "data": [
@@ -7861,7 +6785,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/12/10",
         "data": [
@@ -7879,7 +6803,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/12/10",
         "data": [
@@ -7897,7 +6821,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/12/10",
         "data": [
@@ -7923,7 +6847,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/12/09",
         "data": [
@@ -7941,7 +6865,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/12/02",
         "data": [
@@ -7959,7 +6883,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/11/19",
         "data": [
@@ -7985,7 +6909,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/11/18",
         "data": [
@@ -8003,7 +6927,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/11/17",
         "data": [
@@ -8021,8 +6945,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/15",
         "data": [
             {
@@ -8047,8 +6971,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/15",
         "data": [
             {
@@ -8073,7 +6997,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/11/12",
         "data": [
@@ -8091,7 +7015,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/11/09",
         "data": [
@@ -8109,7 +7033,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/10/29",
         "data": [
@@ -8135,7 +7059,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/10/28",
         "data": [
@@ -8153,7 +7077,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/10/25",
         "data": [
@@ -8171,7 +7095,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/10/20",
         "data": [
@@ -8189,7 +7113,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/10/07",
         "data": [
@@ -8207,7 +7131,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/10/05",
         "data": [
@@ -8225,7 +7149,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/10/04",
         "data": [
@@ -8243,7 +7167,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4/A: Registration of securities issued in business combination transactions",
         "event_date": "2021/10/04",
         "data": [
@@ -8269,7 +7193,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/09/13",
         "data": [
@@ -8287,8 +7211,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/08/23",
         "data": [
             {
@@ -8313,8 +7237,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-Q: Notice under Rule 12b25 of inability to timely file all or part of a form 10-Q or 10-QSB",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/08/17",
         "data": [
             {
@@ -8331,7 +7255,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/08/11",
         "data": [
@@ -8349,7 +7273,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-4: Registration of securities issued in business combination transactions",
         "event_date": "2021/08/11",
         "data": [
@@ -8367,7 +7291,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2021/08/06",
         "data": [
@@ -8385,7 +7309,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form DEFA14A: Additional definitive proxy soliciting materials and Rule 14(a)(12) material",
         "event_date": "2021/07/21",
         "data": [
@@ -8403,7 +7327,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 425: Filing under Securities Act Rule 425 of certain prospectuses and communications in connection with business combination transactions",
         "event_date": "2021/07/21",
         "data": [
@@ -8421,8 +7345,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/07/21",
         "data": [
             {
@@ -8439,8 +7363,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 10-Q: Quarterly report pursuant to Section 13 or 15(d)",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/05/25",
         "data": [
             {
@@ -8465,8 +7389,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form NT 10-Q: Notice under Rule 12b25 of inability to timely file all or part of a form 10-Q or 10-QSB",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/05/18",
         "data": [
             {
@@ -8483,8 +7407,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/04/05",
         "data": [
             {
@@ -8501,7 +7425,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": "acquisition",
+        "event_type": "other",
         "event_name": "Form SC 13G: Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
         "event_date": "2021/02/22",
         "data": [
@@ -8519,8 +7443,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/19",
         "data": [
             {
@@ -8537,8 +7461,8 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Form 8-K: Current report filing",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/12",
         "data": [
             {
@@ -8555,7 +7479,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 424B4: Prospectus filed pursuant to Rule 424(b)(4)",
         "event_date": "2021/02/11",
         "data": [
@@ -8573,7 +7497,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form EFFECT: Notice of Effectiveness",
         "event_date": "2021/02/09",
         "data": [
@@ -8591,7 +7515,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CERT:",
         "event_date": "2021/02/09",
         "data": [
@@ -8609,7 +7533,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1MEF: A new registration statement filed under Rule 462(b) to add securities to a prior related effective registration statement filed on Form S-1",
         "event_date": "2021/02/09",
         "data": [
@@ -8627,7 +7551,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8645,7 +7569,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8663,7 +7587,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8681,7 +7605,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8699,7 +7623,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8717,7 +7641,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8735,7 +7659,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8753,7 +7677,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8771,7 +7695,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8789,7 +7713,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 3: Initial statement of beneficial ownership of securities",
         "event_date": "2021/02/09",
         "data": [
@@ -8807,7 +7731,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form 8-A12B: Form for the registration / listing of a class of securities on a national securities exchange pursuant to Section 12(b)",
         "event_date": "2021/02/09",
         "data": [
@@ -8825,7 +7749,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/08",
         "data": [
@@ -8843,7 +7767,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/08",
         "data": [
@@ -8861,7 +7785,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/05",
         "data": [
@@ -8879,7 +7803,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/05",
         "data": [
@@ -8897,7 +7821,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/05",
         "data": [
@@ -8915,7 +7839,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/05",
         "data": [
@@ -8933,7 +7857,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2021/02/05",
         "data": [
@@ -8951,7 +7875,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form CORRESP: A correspondence can be sent as a document with another submission type or can be sent as a separate submission.",
         "event_date": "2021/02/04",
         "data": [
@@ -8969,7 +7893,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2021/02/04",
         "data": [
@@ -8987,7 +7911,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1/A: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2021/02/03",
         "data": [
@@ -9005,7 +7929,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form UPLOAD: SEC-generated letter",
         "event_date": "2021/02/03",
         "data": [
@@ -9023,7 +7947,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form S-1: General form of registration statement for all companies including face-amount certificate companies",
         "event_date": "2021/01/22",
         "data": [
@@ -9041,7 +7965,7 @@
         "equity_ticker": "CLSK",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form DRS: Draft registration statement submitted by Emerging Growth Company under Securities Act Section 6(e) or by Foreign Private Issuer under Division of Corporation Finance policy",
         "event_date": "2021/01/08",
         "data": [

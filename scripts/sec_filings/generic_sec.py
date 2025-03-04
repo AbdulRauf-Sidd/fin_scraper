@@ -7,6 +7,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
 import re
+import parse 
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -41,6 +42,7 @@ async def parse_date(date_str):
         "%m/%d/%y",       # Example: 12/31/24
         "%m/%d/%Y",       # Example: 12/31/2024
         "%b %d, %Y",      # Example: Feb 28, 2025
+        "%B %d, %Y",      # Example: April 28, 2025
         "%Y-%m-%d",       # Example: 2025-02-28
         "%d %b %Y"        # Example: 28 Feb 2025 
     ]
@@ -62,8 +64,11 @@ def normalize_headers(headers):
         "pdf": "view",
         "view": "view",
         "xbrl": "view",
+        "format": "view",
         "downloads": "view",
         "form": "form",
+        "filing": "form",
+        "title": "description",
         "description": "description"
     }
     return {mapping.get(h.lower().strip(), h.lower().strip()): i + 1 for i, h in enumerate(headers)}
@@ -96,20 +101,65 @@ def classify_filing_by_form(form_type):
     else:
         return "non-periodic"
 
-def classify_filing_by_event(event_name, form_type):
-    """Classifies a filing event based on event name and form type."""
-    event_name_lower = event_name.lower()
-
-    # Check for earnings report, conference calls, annual meetings, or acquisitions
-    if "earnings" in event_name_lower or "results" in event_name_lower:
-        return "earnings_call"
-    elif "conference" in event_name_lower or "call" in event_name_lower:
-        return "conference_call"
-    elif "annual meeting" in event_name_lower:
-        return "annual_meeting"
-    elif "acquisition" in event_name_lower or "merger" in event_name_lower:
-        return "acquisition"
+def classify_periodic_type(event_name, event_url):
+    # Define regex patterns to detect 'annual' and 'quarterly' anywhere in the strings
+    annual_keywords = r'annual'
+    quarterly_keywords = r'(quarterly|quarter|Q[1234])'
     
+    # Check for 'annual' keyword in the event name or URL
+    if re.search(annual_keywords, event_name, re.IGNORECASE) or \
+       re.search(annual_keywords, event_url, re.IGNORECASE):
+        return "annual"
+    
+    # Check for 'quarterly' keywords in the event name or URL
+    elif re.search(quarterly_keywords, event_name, re.IGNORECASE) or \
+         re.search(quarterly_keywords, event_url, re.IGNORECASE):
+        return "quarterly"
+    
+    # Fallback or default condition if no keywords found
+    else:
+        return 'quarterly'  # or another handling mechanism as required
+    
+def extract_quarter_from_name(event_name):
+    # Regular expressions to identify quarter and year from the event name
+    quarter_patterns = [
+         r'Q([1-4]).*(\d{4})',  # Loosely matches 'Q1 2020' and similar, with any amount of whitespace between
+        r'(\d{4}).*Q([1-4])',  # Matches '2020 Q1' and similar, with any amount of whitespace between
+        r'(first|second|third|fourth)\s+quarter.*?(\d{4})',  # Matches 'first quarter ... 2020'
+        r'(\d{4}).*?(first|second|third|fourth)\s+quarter'  # Matches '2020 ... first quarter'
+        r'(\bJan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?) \d{4}\b'  # Matches month names and abbreviations followed by a year
+    ]
+    for pattern in quarter_patterns:
+        match = re.search(pattern, event_name, re.IGNORECASE)
+        if match:
+            # Handle numeric and named quarters
+            quarter_map = {'first': '1', 'second': '2', 'third': '3', 'fourth': '4', 'Jan': '1', 'Feb': '1', 'Mar': '1', 'Apr': '2', 'May': '2', 'Jun': '2', 'Jul': '3', 'Aug': '3', 'Sep': '3', 'Oct': '4', 'Nov': '4', 'Dec': '4'}
+            quarter = match.group(1)
+            if quarter.lower() in quarter_map:
+                quarter = quarter_map[quarter.lower()]
+            year = match.group(2) if len(match.groups()) > 1 else match.group(0).split()[-1]
+            return f"Q{quarter} {year}"
+
+    return None
+
+def format_quarter_string(event_date, event_name):
+    try:
+        # Attempt to parse the event date considering common date formats including those with month abbreviations
+        # parsed_date = parse(event_date, fuzzy=True)
+        # print('jhhghjgjgjh', parsed_date)
+        # Determine the quarter from the parsed date
+        quarter = (event_date.month - 1) // 3 + 1
+        quarter_year_str = f"Q{quarter} {event_date.year}"
+    except (ValueError, TypeError):
+        # If date parsing fails, attempt to extract quarter from the event name
+        quarter_year_str = extract_quarter_from_name(event_name)
+        if not quarter_year_str:
+            # If no quarter info is found, try to extract just the year
+            year_match = re.search(r'(\b\d{4}\b)', event_name)
+            year = year_match.group(0) if year_match else "Unknown Year"
+            quarter_year_str = f"Year {year}"
+
+    return quarter_year_str
     
 async def extract_files_from_page(page):
     """Extracts filing dates, filing type, descriptions, and file links from the SEC filings table."""
@@ -172,8 +222,9 @@ async def extract_files_from_page(page):
                 description = await description_element.inner_text() if description_element else "No Description"
 
                 # Classify the event type using both event name and form type
-                event_type = classify_filing_by_event(description, filing_type)
-
+                event_type = classify_periodic_type(description, full_url) if filing_frequency == "periodic" else "other"
+                event_name = format_quarter_string(filing_date_parsed, description)
+                
                 description_link_element = await description_element.query_selector("a[href]") if description_element else None
                 description_link = await description_link_element.get_attribute("href") if description_link_element else None
 
@@ -208,9 +259,9 @@ async def extract_files_from_page(page):
                     full_url = urljoin(SEC_FILINGS_URL, description_link)
                     file_links.append({
                         "file_name": description_link.split("/")[-1],
-                        "file_type": "unknown",  # Could be HTML, PDF, etc.
+                        "file_type": file_ext,  # Could be HTML, PDF, etc.
                         "date": filing_date_parsed.strftime("%Y/%m/%d"),
-                        "category": "description_link",
+                        "category": category,
                         "source_url": full_url,
                         "wissen_url": "unknown"
                     })
@@ -222,11 +273,12 @@ async def extract_files_from_page(page):
                         "source_type": "company_information",
                         "frequency": filing_frequency,  # **Using the classification function**
                         "event_type": event_type,  # **Using the classification function**
-                        "event_name": description,
+                        "event_name": event_name if filing_frequency == "periodic" else description,  # **Using the classification function**
                         "event_date": filing_date_parsed.strftime("%Y/%m/%d"),
                         "data": file_links  # **All files in the same row grouped together**
                     })
                     print(f"📄 [Event Created] {filing_date} -> {len(file_links)} files")
+                    # print(event_name)
                 else:
                     print(f"❌ No valid files found for {filing_date}")
 
