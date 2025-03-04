@@ -1,0 +1,394 @@
+[
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2025/02/20",
+        "event_url": "https://example.com/news/events/fy2025-q4-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2025/01/14",
+        "event_url": "https://example.com/news/events/2025-icr-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/12/03",
+        "event_url": "https://example.com/news/events/2024-morgan-stanley-global-consumer-and-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/11/19",
+        "event_url": "https://example.com/news/events/fy2025-q3-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/09/26",
+        "event_url": "https://example.com/news/events/goldman-sachs-global-sustainability-forum"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/09/11",
+        "event_url": "https://example.com/news/events/goldman-sachs-communacopia-and-technology-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/09/04",
+        "event_url": "https://example.com/news/events/goldman-sachs-global-retailing-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/08/15",
+        "event_url": "https://example.com/news/events/fy2025-q2-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/25",
+        "event_url": "https://example.com/news/events/nyse-bank-of-america-london-investor-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/12",
+        "event_url": "https://example.com/news/events/4th-annual-evercore-isi-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/11",
+        "event_url": "https://example.com/news/events/oppenheimers-24th-annual-consumer-growth-and-e-commerce-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/07",
+        "event_url": "https://example.com/news/events/2024-q-a-session-with-the-investment-community"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/07",
+        "event_url": "https://example.com/news/events/2024-associates-week-and-associate-celebration"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/06/05",
+        "event_url": "https://example.com/news/events/2024-annual-shareholders-meeting"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/05/16",
+        "event_url": "https://example.com/news/events/fy2025-q1-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/03/07",
+        "event_url": "https://example.com/news/events/morgan-stanley-technology-media-telecom-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/02/20",
+        "event_url": "https://example.com/news/events/fy2024-q4-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2024/01/09",
+        "event_url": "https://example.com/news/events/walmart-keynote-at-ces-2024"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/12/06",
+        "event_url": "https://example.com/news/events/2023-morgan-stanley-global-consumer-and-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/11/16",
+        "event_url": "https://example.com/news/events/fy2024-q3-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/09/27",
+        "event_url": "https://example.com/news/events/2023-goldman-sachs-global-sustainability-forum"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/09/12",
+        "event_url": "https://example.com/news/events/2023-goldman-sachs-global-consumer-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/08/17",
+        "event_url": "https://example.com/news/events/fy2024-q2-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/06/14",
+        "event_url": "https://example.com/news/events/evercore-isi-consumer-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/06/07",
+        "event_url": "https://example.com/news/events/baird-2023-global-consumer-technology-services-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/06/06",
+        "event_url": "https://example.com/news/events/td-cowen-future-of-the-consumer-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/06/02",
+        "event_url": "https://example.com/news/events/2023-associates-week-and-associate-celebration"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/06/02",
+        "event_url": "https://example.com/news/events/2023-q-a-session-with-the-investment-community"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/05/31",
+        "event_url": "https://example.com/news/events/2023-annual-shareholders-meeting"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/05/18",
+        "event_url": "https://example.com/news/events/fy2024-q1-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/04/05",
+        "event_url": "https://example.com/news/events/2023-investment-community-meeting"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/03/07",
+        "event_url": "https://example.com/news/events/2023-raymond-james-institutional-investors-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2023/02/21",
+        "event_url": "https://example.com/news/events/fy2023-q4-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/12/07",
+        "event_url": "https://example.com/news/events/2022-morgan-stanley-global-consumer-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/11/15",
+        "event_url": "https://example.com/news/events/fy2023-q3-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/10/27",
+        "event_url": "https://example.com/news/events/2022-discussion-on-responsible-sourcing"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/08/16",
+        "event_url": "https://example.com/news/events/fy2023-q2-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/28",
+        "event_url": "https://example.com/news/events/2022-open-call-executive-session"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/07",
+        "event_url": "https://example.com/news/events/baird-2022-global-consumer-technology-services-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/03",
+        "event_url": "https://example.com/news/events/2022-q-a-session-with-the-investment-community"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/03",
+        "event_url": "https://example.com/news/events/2022-associate-celebration"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/01",
+        "event_url": "https://example.com/news/events/2022-annual-shareholders-meeting"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/06/01",
+        "event_url": "https://example.com/news/events/shareholders"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/05/17",
+        "event_url": "https://example.com/news/events/fy2023-q1-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/03/10",
+        "event_url": "https://example.com/news/events/2022-ubs-global-consumer-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/03/09",
+        "event_url": "https://example.com/news/events/bank-of-america-securities-2022-consumer-retail-technology-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2022/02/17",
+        "event_url": "https://example.com/news/events/fy2022-q4-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/12/10",
+        "event_url": "https://example.com/news/events/2021-esg-focused-discussion-on-climate-change"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/12/02",
+        "event_url": "https://example.com/news/events/2021-morgan-stanley-virtual-global-consumer-retail-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/12/01",
+        "event_url": "https://example.com/news/events/2021-stephens-investment-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/11/16",
+        "event_url": "https://example.com/news/events/fy2022-q3-earnings-release"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/10/21",
+        "event_url": "https://example.com/news/events/2021-keybanc-technology-leadership-forum"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/09/30",
+        "event_url": "https://example.com/news/events/2021-esg-and-human-capital-discussion"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/09/09",
+        "event_url": "https://example.com/news/events/goldman-sachs-28th-annual-global-retailing-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/09/08",
+        "event_url": "https://example.com/news/events/barclays-2021-global-consumer-staples-conference"
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_information",
+        "event_name": "",
+        "event_date": "2021/08/17",
+        "event_url": "https://example.com/news/events/fy2022-q2-earnings-release"
+    }
+]
