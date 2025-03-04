@@ -80,6 +80,11 @@ scrape_wmt_news:
 	python3 wmt_news.py "https://corporate.walmart.com/content/corporate/en_us/news.tag=corporate:finance.html" "WMT" --output wmt_news.json
 
 
+scrape_cpb_events:
+	python3 cpb_events.py "https://investor.thecampbellscompany.com/events-presentations" "CPB" --output cpb_events.json
+
+scrape_cpb_news:
+	python3 cpb_news.py "https://investor.thecampbellscompany.com/news/financial-news" "CPB" --output cpb_news.json
 
 
 all: scrape_colgate scrape_cocacola
