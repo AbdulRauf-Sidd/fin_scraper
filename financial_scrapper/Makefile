@@ -59,7 +59,11 @@ scrape_dsm_press:
 	python dsm_press.py "https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html" "CRDA" --output dsm_press.json
 
 scrape_nvda_press:
-	python nvda_press.py "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx" "NVDA" --output nvda_press.json
+	python3 nvda_press.py "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx" "NVDA" --output nvda_press.json
+
+scrape_wmt_events:
+	python3 wmt_events.py "https://corporate.walmart.com/news/events" "WMT" --output wmt_events.json
+
 
 
 all: scrape_colgate scrape_cocacola
