@@ -1,10 +1,10 @@
 .PHONY: scrape_colgate scrape_cocacola all
 
 scrape_colgate:
-	python scripts/sec_filings/generic_sec.py "https://investor.colgatepalmolive.com/sec-filings" "CL" --output JSONS/colgate_sec_filings.json
+	python scripts/sec_filings/generic_sec.py https://investor.colgatepalmolive.com/sec-filings "CL" --output JSONS/colgate_sec_filings.json
 
 scrape_cocacola:
-	python3 scripts/sec_filings/generic_sec.py "https://investors.coca-colacompany.com/filings-reports/all-sec-filings" "KO" --output JSONS/cocacola_sec_filings.json
+	python3 scripts/sec_filings/generic_sec.py https://investors.coca-colacompany.com/filings-reports/all-sec-filings "KO" --output JSONS/cocacola_sec_filings.json
 
 ralph_lauren:
 		python scripts/sec_filings/generic_sec.py https://investor.ralphlauren.com/financial-information/sec-filings "RL" --output JSONS/ralphlauren_sec_filings.json
@@ -30,6 +30,9 @@ core_scientific:
 pvh:
 	python scripts/sec_filings/generic_sec.py https://www.pvh.com/investor-relations/sec-filings "PVH" --output JSONS/pvh_sec_filings.json
 
+pinterest:
+	python3 scripts/sec_filings/generic_sec.py https://investor.pinterestinc.com/financials/sec-filings/default.aspx "PINS" --output JSONS/pinterest.json
+
 workday:
 	python scripts/sec_filings/workday_sec.py
 
@@ -40,6 +43,8 @@ crawford:
 	python scripts/sec_filings/crawford_sec.py
 
 sec_filings:
-	scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford
+	scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest
 
-all: sec_filings
+
+
+all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest

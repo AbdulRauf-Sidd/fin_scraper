@@ -3,6 +3,10 @@
 scrape_colgate:
 	python temp.py "https://investor.colgatepalmolive.com/sec-filings" "CL" --output colgate_sec_filings.json
 
+scrape_cl_press:
+	python3 cl_press.py "https://investor.colgatepalmolive.com/press-releases" "WMT" --output cl_press.json
+
+
 scrape_cocacola:
 	python temp.py "https://investors.coca-colacompany.com/filings-reports/all-sec-filings" "KO" --output cocacola_sec_filings.json
 
@@ -58,13 +62,40 @@ scrape_crda_esg:
 scrape_dsm_press:
 	python dsm_press.py "https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html" "CRDA" --output dsm_press.json
 
+scrape_dsfir_news:
+	python dsfir_news.py "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html" "NVDA" --output dsfir_news.json
+
 scrape_nvda_press:
 	python3 nvda_press.py "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx" "NVDA" --output nvda_press.json
+
+scrape_nvda_news:
+	python3 nvda_news.py "https://nvidianews.nvidia.com/news" "NVDA" --output nvda_news.json
 
 scrape_wmt_events:
 	python3 wmt_events.py "https://corporate.walmart.com/news/events" "WMT" --output wmt_events.json
 
+scrape_unlv_press:
+	python3 unlv_press.py "https://www.unilever.com/news/press-and-media/press-releases/" "UNLV" --output unlv_press.json
+scrape_wmt_esg:
+	python3 wmt_esg.py "https://stock.walmart.com/governance/governance-documents" "WMT" --output wmt_esg.json
 
+scrape_wmt_quarterly:
+	python3 wmt_quarterly.py "https://stock.walmart.com/financial-information/vizio-historical-financials" "WMT" --output wmt_quarterly.json
+
+scrape_wmt_news:
+	python3 wmt_news.py "https://corporate.walmart.com/content/corporate/en_us/news.tag=corporate:finance.html" "WMT" --output wmt_news.json
+
+
+scrape_cpb_events:
+	python3 cpb_events.py "https://investor.thecampbellscompany.com/events-presentations" "CPB" --output cpb_events.json
+
+scrape_cpb_news:
+	python3 cpb_news.py "https://investor.thecampbellscompany.com/news/financial-news" "CPB" --output cpb_news.json
+scrape_unlv_presentations:
+	python3 unlv_presentations.py "https://www.unilever.com/investors/results-presentations-webcasts/" "UNLV" --output unlv_presentations.json
+
+scrape_unlv_announcements:
+	python3 unlv_announcements.py "https://www.unilever.com/investors/news-and-announcements/regulatory-announcements/" "UNLV" --output unlv_announcements.json
 
 all: scrape_colgate scrape_cocacola
 
