@@ -61,6 +61,9 @@ scrape_dsm_press:
 scrape_nvda_press:
 	python3 nvda_press.py "https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx" "NVDA" --output nvda_press.json
 
+scrape_nvda_news:
+	python3 nvda_news.py "https://nvidianews.nvidia.com/news" "NVDA" --output nvda_news.json
+
 scrape_wmt_events:
 	python3 wmt_events.py "https://corporate.walmart.com/news/events" "WMT" --output wmt_events.json
 
