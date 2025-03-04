@@ -3,6 +3,10 @@
 scrape_colgate:
 	python temp.py "https://investor.colgatepalmolive.com/sec-filings" "CL" --output colgate_sec_filings.json
 
+scrape_cl_press:
+	python3 cl_press.py "https://investor.colgatepalmolive.com/press-releases" "WMT" --output cl_press.json
+
+
 scrape_cocacola:
 	python temp.py "https://investors.coca-colacompany.com/filings-reports/all-sec-filings" "KO" --output cocacola_sec_filings.json
 
@@ -70,8 +74,14 @@ scrape_nvda_news:
 scrape_wmt_events:
 	python3 wmt_events.py "https://corporate.walmart.com/news/events" "WMT" --output wmt_events.json
 
+scrape_unlv_press:
+	python3 unlv_press.py "https://www.unilever.com/news/press-and-media/press-releases/" "UNLV" --output unlv_press.json
 
+scrape_unlv_presentations:
+	python3 unlv_presentations.py "https://www.unilever.com/investors/results-presentations-webcasts/" "UNLV" --output unlv_presentations.json
 
+scrape_unlv_announcements:
+	python3 unlv_announcements.py "https://www.unilever.com/investors/news-and-announcements/regulatory-announcements/" "UNLV" --output unlv_announcements.json
 
 all: scrape_colgate scrape_cocacola
 
