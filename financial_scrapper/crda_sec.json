@@ -1,0 +1,138 @@
+[
+    {
+        "equity_ticker": "CRODA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "FULL YEAR ANNOUNCEMENT 2024",
+        "event_date": "2025/02/25",
+        "data": [
+            {
+                "file_name": "croda-2024-financial-results-statement-final-24-february-2025.pdf?la=en-GB&hash=0716E9CFB7194D620F04CFBDCFD4B91C",
+                "file_type": "html",
+                "date": "2025/02/25",
+                "category": "Announcement",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investors/2024-full-year-results/croda-2024-financial-results-statement-final-24-february-2025.pdf?la=en-GB&hash=0716E9CFB7194D620F04CFBDCFD4B91C",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "croda-fy24-results-analyst-presentation-25-feb-2025.pdf?la=en-GB&hash=D1B3C55CF98E5C212B43522F39331A4F",
+                "file_type": "html",
+                "date": "2025/02/25",
+                "category": "Presentations",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investors/2024-full-year-results/croda-fy24-results-analyst-presentation-25-feb-2025.pdf?la=en-GB&hash=D1B3C55CF98E5C212B43522F39331A4F",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "croda-international-fy24-results-call-transcript.pdf?la=en-GB&hash=F6ED8C106699CF7E95065C563A0625AF",
+                "file_type": "html",
+                "date": "2025/02/25",
+                "category": "Transcript",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investors/2024-full-year-results/croda-international-fy24-results-call-transcript.pdf?la=en-GB&hash=F6ED8C106699CF7E95065C563A0625AF",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "full-year-results-2024",
+                "file_type": "html",
+                "date": "2025/02/25",
+                "category": "Video",
+                "source_url": "https://www.croda.com/en-gb/investors/full-year-results-2024",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CRODA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "THIRD QUARTER 2024 SALES UPDATE",
+        "event_date": "2024/11/11",
+        "data": [
+            {
+                "file_name": "croda-q324-sales-update-final-11-november-2024.pdf?la=en-GB&hash=A23845A848CD08335396A98616BE7CA4",
+                "file_type": "html",
+                "date": "2024/11/11",
+                "category": "Announcement",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investors/croda-q324-sales-update-final-11-november-2024.pdf?la=en-GB&hash=A23845A848CD08335396A98616BE7CA4",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CRODA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "HALF YEAR RESULTS ANNOUNCEMENT 2024",
+        "event_date": "2024/07/30",
+        "data": [
+            {
+                "file_name": "croda-h1-2024-results-statement-final-30-july-2024.pdf?la=en-GB&hash=988AA8A3A28C8293828AD5EE85F7C50E",
+                "file_type": "html",
+                "date": "2024/07/30",
+                "category": "Announcement",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/hy24-results/croda-h1-2024-results-statement-final-30-july-2024.pdf?la=en-GB&hash=988AA8A3A28C8293828AD5EE85F7C50E",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "croda-h1-2024-analyst-presentation-final-1.pdf?la=en-GB&hash=243D72B861C1758083B97A8A8A968D85",
+                "file_type": "html",
+                "date": "2024/07/30",
+                "category": "Presentations",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/hy24-results/croda-h1-2024-analyst-presentation-final-1.pdf?la=en-GB&hash=243D72B861C1758083B97A8A8A968D85",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "croda-international-plc-h1-2024-results-transcript-1.pdf?la=en-GB&hash=5BB598E56401C1BACDB1BA6BB7409332",
+                "file_type": "html",
+                "date": "2024/07/30",
+                "category": "Transcript",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/hy24-results/croda-international-plc-h1-2024-results-transcript-1.pdf?la=en-GB&hash=5BB598E56401C1BACDB1BA6BB7409332",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "half-year-results-2024",
+                "file_type": "html",
+                "date": "2024/07/30",
+                "category": "Video",
+                "source_url": "https://www.croda.com/en-gb/investors/half-year-results-2024",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CRODA",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "FIRST QUARTER 2024 SALES UPDATE",
+        "event_date": "2024/04/24",
+        "data": [
+            {
+                "file_name": "croda-q124-statement.pdf?la=en-GB&hash=0D9A9BC939FA6A7BA4EF3FAACE010064",
+                "file_type": "html",
+                "date": "2024/04/24",
+                "category": "Announcement",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investor-result-downloads/2024/croda-q124-statement.pdf?la=en-GB&hash=0D9A9BC939FA6A7BA4EF3FAACE010064",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "croda-2024-first-quarter-update-transcript.pdf?la=en-GB&hash=9E972AA4C5D8100283E5EFD60FC41079",
+                "file_type": "html",
+                "date": "2024/04/24",
+                "category": "Transcript",
+                "source_url": "https://www.croda.com/mediaassets/files/corporate/investor-result-downloads/2024/croda-2024-first-quarter-update-transcript.pdf?la=en-GB&hash=9E972AA4C5D8100283E5EFD60FC41079",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "q1-2024-results-cal",
+                "file_type": "html",
+                "date": "2024/04/24",
+                "category": "Video",
+                "source_url": "https://www.croda.com/en-gb/investors/results-presentations-and-reports/q1-2024-results-cal",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]

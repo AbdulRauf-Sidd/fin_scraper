@@ -5,7 +5,7 @@ from datetime import datetime
 
 def classify_frequency(event_name, event_url):
     # Define a regex pattern that matches the keywords indicating a periodic event
-    periodic_keywords = r'\b(annual|quarterly|quarter|Q[1234])\b'
+    periodic_keywords = r'\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|)\b'
     
     # Check if the keywords are in the event name or file name
     if re.search(periodic_keywords, event_name, re.IGNORECASE) or re.search(periodic_keywords, event_url, re.IGNORECASE):
@@ -32,6 +32,43 @@ def classify_periodic_type(event_name, event_url):
     # Fallback or default condition if no keywords found
     else:
         return 'quarterly'  # or another handling mechanism as required
+    
+import re
+
+def classify_euro_periodic_type(event_name, event_url):
+    """
+    Classifies an event as 'half-year', 'nine-month', '3-month', or 'annual' 
+    based on the event name or URL.
+    """
+    # Define regex patterns for classification
+    annual_keywords = r'\b(annual|full year|FY|fiscal year)\b'
+    half_year_keywords = r'\b(half[-\s]?year|HY|6[-\s]?month|six[-\s]?month)\b'
+    nine_month_keywords = r'\b(nine[-\s]?month|9[-\s]?month)\b'
+    three_month_keywords = r'\b(first[-\s]?quarter|second[-\s]?quarter|third[-\s]?quarter|fourth[-\s]?quarter|Q[1234]|3[-\s]?month)\b'
+
+    # Check for 'annual' keywords first
+    if re.search(annual_keywords, event_name, re.IGNORECASE) or \
+       re.search(annual_keywords, event_url, re.IGNORECASE):
+        return "annual"
+    
+    # Check for 'half-year' keywords
+    if re.search(half_year_keywords, event_name, re.IGNORECASE) or \
+       re.search(half_year_keywords, event_url, re.IGNORECASE):
+        return "half-year"
+    
+    # Check for 'nine-month' keywords
+    if re.search(nine_month_keywords, event_name, re.IGNORECASE) or \
+       re.search(nine_month_keywords, event_url, re.IGNORECASE):
+        return "nine-month"
+    
+    # Check for '3-month' keywords
+    if re.search(three_month_keywords, event_name, re.IGNORECASE) or \
+       re.search(three_month_keywords, event_url, re.IGNORECASE):
+        return "3-month"
+
+    # Default to '3-month' if no specific pattern is found
+    return "3-month"
+
 
 
 
@@ -121,3 +158,62 @@ def extract_file_name(file_url):
     """Extracts the file name from a given URL."""
     parsed_url = urlparse(file_url)
     return os.path.basename(parsed_url.path)
+
+import re
+from datetime import datetime
+
+def extract_date_from_filename(filename):
+    """
+    Extracts a date from a given file name, handling multiple date formats.
+    
+    Supported formats include:
+    - YYYY-MM-DD, YYYY_MM_DD, YYYY.MM.DD
+    - DD-MM-YYYY, DD_MM_YYYY, DD.MM.YYYY
+    - Month DD, YYYY (e.g., March 15, 2024)
+    - YYYYQ1, YYYY-Q1 (Quarterly formats)
+    - FY YYYY (Fiscal Year formats)
+    
+    Returns:
+        Extracted date as a string in YYYY-MM-DD format, or None if no date is found.
+    """
+
+    # List of regex patterns to match different date formats
+    date_patterns = [
+        r'(\d{4})[-_.](\d{1,2})[-_.](\d{1,2})',       # YYYY-MM-DD, YYYY_MM_DD, YYYY.MM.DD
+        r'(\d{1,2})[-_.](\d{1,2})[-_.](\d{4})',       # DD-MM-YYYY, DD_MM_YYYY, DD.MM.YYYY
+        r'([A-Za-z]+)[\s_-]?(\d{1,2}),?\s?(\d{4})',   # Month DD, YYYY
+        r'(\d{4})[-_]?Q([1-4])',                      # YYYYQ1, YYYY-Q1 (Quarterly formats)
+        r'FY[_-\s]?(\d{4})'                           # FY YYYY (Fiscal Year formats)
+    ]
+
+    for pattern in date_patterns:
+        match = re.search(pattern, filename, re.IGNORECASE)
+        if match:
+            try:
+                if len(match.groups()) == 3:
+                    # Convert matched groups into a date string
+                    raw_date = "-".join(match.groups())
+                    parsed_date = datetime.strptime(raw_date, "%Y-%m-%d")
+                    return parsed_date.strftime("%Y-%m-%d")
+
+                elif len(match.groups()) == 2 and "Q" in match.group(0):
+                    # Handle quarterly format (e.g., "2024Q1")
+                    year, quarter = match.groups()
+                    month = {"1": "01", "2": "04", "3": "07", "4": "10"}[quarter]
+                    return f"{year}-{month}-01"
+
+                elif len(match.groups()) == 1 and "FY" in match.group(0):
+                    # Handle Fiscal Year format (FY 2024 → assume Jan 1st)
+                    year = match.groups()[0]
+                    return f"{year}-01-01"
+
+                else:
+                    # Handle named months (March 15, 2024 → 2024-03-15)
+                    month, day, year = match.groups()
+                    parsed_date = datetime.strptime(f"{month} {day} {year}", "%B %d %Y")
+                    return parsed_date.strftime("%Y-%m-%d")
+
+            except ValueError:
+                continue  # Skip to the next pattern if parsing fails
+
+    return None  # Return None if no date is found

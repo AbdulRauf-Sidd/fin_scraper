@@ -46,6 +46,9 @@ scrape_sy1_news:
 scrape_sy1_events:
 	python sy1_events.py "https://www.symrise.com/investors/financial-calendar-and-presentations/" "SY1" --output sy1_events.json
 
+scrape_crda_sec:
+	python crda_sec.py "https://www.croda.com/en-gb/investors/results-presentations-and-reports/" "CRDA" --output crda_sec.json
+
 
 
 all: scrape_colgate scrape_cocacola
