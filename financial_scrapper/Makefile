@@ -71,6 +71,12 @@ scrape_nvda_press:
 scrape_nvda_news:
 	python3 nvda_news.py "https://nvidianews.nvidia.com/news" "NVDA" --output nvda_news.json
 
+scrape_nvda_finaninfo:
+	python3 nvda_finaninfo.py "https://investor.nvidia.com/financial-info/Annual-Meeting/default.aspx" "NVDA" --output nvda_finaninfo.json
+
+scrape_nvda_gov:
+	python3 nvda_gov.py "https://investor.nvidia.com/governance/governance-documents/default.aspx" "NVDA" --output scrape_nvda_gov.json
+
 scrape_wmt_events:
 	python3 wmt_events.py "https://corporate.walmart.com/news/events" "WMT" --output wmt_events.json
 

@@ -1,0 +1,200 @@
+[
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Audit Committee Charter\n(Opens In New Window)",
+        "event_date": "2024/02/01",
+        "data": [
+            {
+                "file_name": "Audit Committee Charter\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/02/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2024/02/NVIDIA-Audit-Committee-Charter-of-the-Board-Feb-26-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Compensation Committee Charter\n(Opens In New Window)",
+        "event_date": "2024/05/01",
+        "data": [
+            {
+                "file_name": "Compensation Committee Charter\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/05/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_downloads/governance_documents/2024/05/NVIDIA-Compensation-Committee-Charter-May-13-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Nominating And Corporate Governance Committee Charter\n(Opens In New Window)",
+        "event_date": "2024/02/01",
+        "data": [
+            {
+                "file_name": "Nominating And Corporate Governance Committee Charter\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/02/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2024/02/NVIDIA-NCGC-Charter-Feb-26-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Global Tax Principles\n(Opens In New Window)",
+        "event_date": "2024/03/01",
+        "data": [
+            {
+                "file_name": "Global Tax Principles\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/03/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2024/03/Global-Tax-Principles-Final-as-reviewed-by-AC-on-February-20-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "FY24 Sustainability Report\n(Opens In New Window)",
+        "event_date": "UNKNOWN DATE",
+        "data": [
+            {
+                "file_name": "FY24 Sustainability Report\n(Opens In New Window)",
+                "file_type": "com/en-us/sustainability/",
+                "date": "UNKNOWN DATE",
+                "category": "corporate_governance",
+                "source_url": "https://www.nvidia.com/en-us/sustainability/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Certificate Of Incorporation\n(Opens In New Window)",
+        "event_date": "2024/06/01",
+        "data": [
+            {
+                "file_name": "Certificate Of Incorporation\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/06/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2024/06/NVIDIA-Corporation-Restated-Certificate-with-2022-and-2024-amendments.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Bylaws\n(Opens In New Window)",
+        "event_date": "2024/03/01",
+        "data": [
+            {
+                "file_name": "Bylaws\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/03/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_downloads/governance_documents/2024/03/NVIDIA-Amended-and-Restated-Bylaws-March-12-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Corporate Governance Policies\n(Opens In New Window)",
+        "event_date": "2024/06/01",
+        "data": [
+            {
+                "file_name": "Corporate Governance Policies\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2024/06/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2024/06/26/NVIDIA-Corporate-Governance-Policies-June-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Code Of Conduct\n(Opens In New Window)",
+        "event_date": "UNKNOWN DATE",
+        "data": [
+            {
+                "file_name": "Code Of Conduct\n(Opens In New Window)",
+                "file_type": "com/en-us/about-nvidia/company-policies/?modal=conductmodal",
+                "date": "UNKNOWN DATE",
+                "category": "corporate_governance",
+                "source_url": "https://www.nvidia.com/en-us/about-nvidia/company-policies/?modal=conductmodal",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Finance Team Code Of Conduct\n(Opens In New Window)",
+        "event_date": "2023/06/01",
+        "data": [
+            {
+                "file_name": "Finance Team Code Of Conduct\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2023/06/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2023/06/NVIDIA-Finance-Team-Code-of-Conduct.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "UNKNOWN",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "corporate_governance",
+        "event_name": "Political Contributions And Expenditures\n(Opens In New Window)",
+        "event_date": "2023/06/01",
+        "data": [
+            {
+                "file_name": "Political Contributions And Expenditures\n(Opens In New Window)",
+                "file_type": "pdf",
+                "date": "2023/06/01",
+                "category": "corporate_governance",
+                "source_url": "https://s201.q4cdn.com/141608511/files/doc_governance/2023/06/NVDA-Political-Contributions-and-Expenditures-Policy-External.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]

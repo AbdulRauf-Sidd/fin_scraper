@@ -2,92 +2,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2025/02/20",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2025/02/20",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/29441/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "5200910c-a139-4bb4-9554-f1ab2fdc1522",
-                "file_type": "pdf",
-                "date": "2025/02/20",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/5200910c-a139-4bb4-9554-f1ab2fdc1522",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "a823e564-31d2-44b8-aa3c-499f627fc7a4",
-                "file_type": "xls",
-                "date": "2025/02/20",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/a823e564-31d2-44b8-aa3c-499f627fc7a4",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001103982-25-000065",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2025/02/20",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001103982-25-000065",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2025/02/18",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2025/02/18",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/29436/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "cea18410-ffa5-44b8-a179-33cccc3f2663",
-                "file_type": "pdf",
-                "date": "2025/02/18",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/cea18410-ffa5-44b8-a179-33cccc3f2663",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "14388ba8-80a1-4a93-8553-6bf3189a2b88",
-                "file_type": "xls",
-                "date": "2025/02/18",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/14388ba8-80a1-4a93-8553-6bf3189a2b88",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001103982-25-000059",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2025/02/18",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001103982-25-000059",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -121,7 +37,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -155,7 +71,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -189,7 +105,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -223,7 +139,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -257,7 +173,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -291,7 +207,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -325,7 +241,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -359,7 +275,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/02/14",
         "data": [
@@ -393,7 +309,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent",
         "event_date": "2025/02/10",
         "data": [
@@ -427,8 +343,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/05",
         "data": [
             {
@@ -469,8 +385,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/04",
         "data": [
             {
@@ -511,8 +427,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/01/27",
         "data": [
             {
@@ -553,8 +469,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/01/15",
         "data": [
             {
@@ -595,7 +511,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2025/01/03",
         "data": [
@@ -629,8 +545,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/03",
         "data": [
             {
@@ -671,8 +587,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/29",
         "data": [
             {
@@ -713,8 +629,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/29",
         "data": [
             {
@@ -755,7 +671,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/09/11",
         "data": [
@@ -789,8 +705,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/28",
         "data": [
             {
@@ -831,7 +747,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/08/23",
         "data": [
@@ -865,8 +781,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/23",
         "data": [
             {
@@ -907,7 +823,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/08/22",
         "data": [
@@ -941,7 +857,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2024/08/22",
         "data": [
@@ -975,8 +891,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/30",
         "data": [
             {
@@ -1017,8 +933,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/30",
         "data": [
             {
@@ -1059,8 +975,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/03",
         "data": [
             {
@@ -1101,8 +1017,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/01",
         "data": [
             {
@@ -1143,7 +1059,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/06/28",
         "data": [
@@ -1177,7 +1093,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/06/26",
         "data": [
@@ -1211,7 +1127,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2024/06/26",
         "data": [
@@ -1245,7 +1161,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent",
         "event_date": "2024/05/31",
         "data": [
@@ -1279,7 +1195,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1313,7 +1229,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1347,7 +1263,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1381,7 +1297,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1415,7 +1331,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent",
         "event_date": "2024/05/24",
         "data": [
@@ -1449,7 +1365,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1483,7 +1399,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1517,7 +1433,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1551,7 +1467,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1585,7 +1501,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1619,7 +1535,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/05/24",
         "data": [
@@ -1653,8 +1569,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Amendment to a previously filed 8-K",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/23",
         "data": [
             {
@@ -1695,7 +1611,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Securities offered to employees pursuant to employee benefit plans",
         "event_date": "2024/05/22",
         "data": [
@@ -1729,8 +1645,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/22",
         "data": [
             {
@@ -1771,8 +1687,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/04/30",
         "data": [
             {
@@ -1813,8 +1729,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
         "event_date": "2024/04/30",
         "data": [
             {
@@ -1855,7 +1771,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2024/04/29",
         "data": [
@@ -1881,7 +1797,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2024/04/26",
         "data": [
@@ -1915,7 +1831,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2024/04/12",
         "data": [
@@ -1941,7 +1857,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An annual report to security holders",
         "event_date": "2024/04/05",
         "data": [
@@ -1967,7 +1883,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2024/04/05",
         "data": [
@@ -2001,7 +1917,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2024/04/05",
         "data": [
@@ -2043,7 +1959,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/04/04",
         "data": [
@@ -2077,7 +1993,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Filed by \"insiders\" prior intended sale of restricted stock. Non-EDGAR filing",
         "event_date": "2024/03/14",
         "data": [
@@ -2103,7 +2019,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2137,7 +2053,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2171,7 +2087,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2205,7 +2121,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2239,7 +2155,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2273,7 +2189,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2307,7 +2223,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2341,7 +2257,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2375,7 +2291,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2409,7 +2325,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/29",
         "data": [
@@ -2443,8 +2359,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/21",
         "data": [
             {
@@ -2485,8 +2401,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/20",
         "data": [
             {
@@ -2527,8 +2443,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/20",
         "data": [
             {
@@ -2569,7 +2485,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/02/16",
         "data": [
@@ -2603,7 +2519,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2024/02/15",
         "data": [
@@ -2637,7 +2553,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a 3 filing. Non-EDGAR filing",
         "event_date": "2024/02/15",
         "data": [
@@ -2671,7 +2587,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a 3 filing. Non-EDGAR filing",
         "event_date": "2024/02/15",
         "data": [
@@ -2705,7 +2621,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2024/02/15",
         "data": [
@@ -2739,7 +2655,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2024/02/13",
         "data": [
@@ -2765,7 +2681,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2024/02/13",
         "data": [
@@ -2791,8 +2707,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/02",
         "data": [
             {
@@ -2833,8 +2749,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/02",
         "data": [
             {
@@ -2875,7 +2791,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent",
         "event_date": "2024/02/02",
         "data": [
@@ -2909,7 +2825,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2024/02/02",
         "data": [
@@ -2943,8 +2859,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/30",
         "data": [
             {
@@ -2985,8 +2901,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
         "event_date": "2024/01/30",
         "data": [
             {
@@ -3027,7 +2943,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent",
         "event_date": "2024/01/16",
         "data": [
@@ -3061,8 +2977,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/01",
         "data": [
             {
@@ -3103,8 +3019,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/01",
         "data": [
             {
@@ -3145,8 +3061,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/10/18",
         "data": [
             {
@@ -3187,8 +3103,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
         "event_date": "2023/10/10",
         "data": [
             {
@@ -3229,8 +3145,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
         "event_date": "2023/07/27",
         "data": [
             {
@@ -3271,8 +3187,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
         "event_date": "2023/07/27",
         "data": [
             {
@@ -3313,7 +3229,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/07/24",
         "data": [
@@ -3347,7 +3263,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2023/07/24",
         "data": [
@@ -3381,8 +3297,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
         "event_date": "2023/07/20",
         "data": [
             {
@@ -3423,7 +3339,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2023/06/08",
         "data": [
@@ -3457,8 +3373,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/19",
         "data": [
             {
@@ -3499,7 +3415,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3533,7 +3449,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3567,7 +3483,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3601,7 +3517,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3635,7 +3551,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3669,7 +3585,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3703,7 +3619,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3737,7 +3653,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/18",
         "data": [
@@ -3771,7 +3687,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2023/05/08",
         "data": [
@@ -3797,7 +3713,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/05/05",
         "data": [
@@ -3831,8 +3747,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/02",
         "data": [
             {
@@ -3873,7 +3789,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2023/05/01",
         "data": [
@@ -3899,8 +3815,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/27",
         "data": [
             {
@@ -3941,8 +3857,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/27",
         "data": [
             {
@@ -3983,7 +3899,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2023/04/21",
         "data": [
@@ -4009,8 +3925,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/11",
         "data": [
             {
@@ -4051,7 +3967,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2023/04/11",
         "data": [
@@ -4077,7 +3993,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2023/04/07",
         "data": [
@@ -4103,7 +4019,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An annual report to security holders",
         "event_date": "2023/04/06",
         "data": [
@@ -4129,7 +4045,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2023/04/06",
         "data": [
@@ -4163,7 +4079,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2023/04/06",
         "data": [
@@ -4205,8 +4121,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/06",
         "data": [
             {
@@ -4247,7 +4163,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4281,7 +4197,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4315,7 +4231,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4349,7 +4265,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4383,7 +4299,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4417,7 +4333,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4451,7 +4367,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4485,7 +4401,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4519,7 +4435,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4553,7 +4469,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/06",
         "data": [
@@ -4587,7 +4503,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/03",
         "data": [
@@ -4621,7 +4537,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2023/03/02",
         "data": [
@@ -4655,7 +4571,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/03/01",
         "data": [
@@ -4689,7 +4605,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "S-3ASR",
         "event_date": "2023/02/27",
         "data": [
@@ -4723,7 +4639,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4757,7 +4673,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4791,7 +4707,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4825,7 +4741,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4859,7 +4775,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4893,7 +4809,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4927,7 +4843,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4961,7 +4877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/23",
         "data": [
@@ -4994,92 +4910,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2023/02/22",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2023/02/22",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/27446/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "63804c19-018d-4662-bc97-9d3bea4e3ba6",
-                "file_type": "pdf",
-                "date": "2023/02/22",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/63804c19-018d-4662-bc97-9d3bea4e3ba6",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "e9dbe67d-d22f-4033-ae45-ea228425deaa",
-                "file_type": "xls",
-                "date": "2023/02/22",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/e9dbe67d-d22f-4033-ae45-ea228425deaa",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-23-044916",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2023/02/22",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-23-044916",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2023/02/21",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2023/02/21",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/27426/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "5a48f07d-b320-4ccd-aa93-01c609999c32",
-                "file_type": "pdf",
-                "date": "2023/02/21",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/5a48f07d-b320-4ccd-aa93-01c609999c32",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "98f1fb82-e3f9-470f-9499-cd2066949baa",
-                "file_type": "xls",
-                "date": "2023/02/21",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/98f1fb82-e3f9-470f-9499-cd2066949baa",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-23-043056",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2023/02/21",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-23-043056",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2023/02/09",
         "data": [
@@ -5105,8 +4937,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Amendment to a previously filed 8-K",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/02/07",
         "data": [
             {
@@ -5147,7 +4979,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/02/06",
         "data": [
@@ -5181,8 +5013,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2023",
         "event_date": "2023/02/03",
         "data": [
             {
@@ -5223,7 +5055,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2023/01/31",
         "data": [
@@ -5249,8 +5081,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/31",
         "data": [
             {
@@ -5291,7 +5123,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2023/01/05",
         "data": [
@@ -5325,7 +5157,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2023/01/05",
         "data": [
@@ -5359,8 +5191,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/13",
         "data": [
             {
@@ -5401,7 +5233,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/12/08",
         "data": [
@@ -5435,7 +5267,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/12/07",
         "data": [
@@ -5469,7 +5301,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/12/06",
         "data": [
@@ -5503,7 +5335,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2022/11/10",
         "data": [
@@ -5537,7 +5369,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/11/10",
         "data": [
@@ -5571,8 +5403,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/01",
         "data": [
             {
@@ -5613,8 +5445,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/01",
         "data": [
             {
@@ -5655,8 +5487,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2022/10/24",
         "data": [
             {
@@ -5697,7 +5529,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "UPLOAD",
         "event_date": "2022/10/20",
         "data": [
@@ -5722,92 +5554,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2022/10/11",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2022/10/11",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/27116/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "50d73cf7-292a-4b4a-a67d-1c78824fdbc3",
-                "file_type": "pdf",
-                "date": "2022/10/11",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/50d73cf7-292a-4b4a-a67d-1c78824fdbc3",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "3f7e3188-65a9-48c3-a40c-3968584073b7",
-                "file_type": "xls",
-                "date": "2022/10/11",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/3f7e3188-65a9-48c3-a40c-3968584073b7",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-22-260616",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2022/10/11",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-22-260616",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2022/09/16",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2022/09/16",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/27086/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0ea66663-4431-4d88-a116-d95da45b4e53",
-                "file_type": "pdf",
-                "date": "2022/09/16",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/0ea66663-4431-4d88-a116-d95da45b4e53",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "e55fc443-bbc4-4b66-bb17-7152122dc8a2",
-                "file_type": "xls",
-                "date": "2022/09/16",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/e55fc443-bbc4-4b66-bb17-7152122dc8a2",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-22-246483",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2022/09/16",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-22-246483",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "CORRESP",
         "event_date": "2022/09/16",
         "data": [
@@ -5841,7 +5589,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/09/15",
         "data": [
@@ -5875,7 +5623,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "UPLOAD",
         "event_date": "2022/09/02",
         "data": [
@@ -5901,8 +5649,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/26",
         "data": [
             {
@@ -5943,8 +5691,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/26",
         "data": [
             {
@@ -5985,8 +5733,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/12",
         "data": [
             {
@@ -6027,7 +5775,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6061,7 +5809,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6095,7 +5843,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6129,7 +5877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6163,7 +5911,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6197,7 +5945,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6231,7 +5979,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6265,7 +6013,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6299,7 +6047,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/20",
         "data": [
@@ -6333,8 +6081,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/20",
         "data": [
             {
@@ -6375,7 +6123,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/12",
         "data": [
@@ -6409,8 +6157,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/10",
         "data": [
             {
@@ -6451,7 +6199,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2022/05/02",
         "data": [
@@ -6485,7 +6233,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/05/02",
         "data": [
@@ -6519,7 +6267,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2022/04/29",
         "data": [
@@ -6545,8 +6293,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/26",
         "data": [
             {
@@ -6587,8 +6335,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/26",
         "data": [
             {
@@ -6629,7 +6377,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2022/04/22",
         "data": [
@@ -6655,7 +6403,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/04/21",
         "data": [
@@ -6689,7 +6437,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2022/04/06",
         "data": [
@@ -6723,7 +6471,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2022/04/06",
         "data": [
@@ -6757,8 +6505,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/31",
         "data": [
             {
@@ -6799,8 +6547,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/17",
         "data": [
             {
@@ -6841,7 +6589,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2022/03/07",
         "data": [
@@ -6875,7 +6623,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/03/04",
         "data": [
@@ -6909,7 +6657,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2022/03/03",
         "data": [
@@ -6943,8 +6691,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/03",
         "data": [
             {
@@ -6985,7 +6733,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2022/03/03",
         "data": [
@@ -7019,7 +6767,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7053,7 +6801,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7087,7 +6835,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7121,7 +6869,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7155,7 +6903,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7189,7 +6937,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7223,7 +6971,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7257,7 +7005,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7291,7 +7039,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7325,7 +7073,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7359,7 +7107,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/02/28",
         "data": [
@@ -7393,8 +7141,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/23",
         "data": [
             {
@@ -7435,8 +7183,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/22",
         "data": [
             {
@@ -7477,7 +7225,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2022/02/10",
         "data": [
@@ -7503,8 +7251,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/04",
         "data": [
             {
@@ -7545,7 +7293,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2022/02/03",
         "data": [
@@ -7571,8 +7319,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/03",
         "data": [
             {
@@ -7613,8 +7361,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/27",
         "data": [
             {
@@ -7655,8 +7403,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/11",
         "data": [
             {
@@ -7697,7 +7445,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2022/01/07",
         "data": [
@@ -7731,7 +7479,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2022/01/07",
         "data": [
@@ -7765,7 +7513,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/12/27",
         "data": [
@@ -7799,7 +7547,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/12/15",
         "data": [
@@ -7833,8 +7581,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Amendment to a previously filed 8-K",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/14",
         "data": [
             {
@@ -7875,7 +7623,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/12/09",
         "data": [
@@ -7909,7 +7657,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/12/01",
         "data": [
@@ -7943,8 +7691,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/29",
         "data": [
             {
@@ -7985,7 +7733,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/11/29",
         "data": [
@@ -8019,7 +7767,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/11/19",
         "data": [
@@ -8053,7 +7801,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/11/18",
         "data": [
@@ -8087,7 +7835,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/11/09",
         "data": [
@@ -8121,8 +7869,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/02",
         "data": [
             {
@@ -8163,8 +7911,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/02",
         "data": [
             {
@@ -8205,8 +7953,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/10/12",
         "data": [
             {
@@ -8247,8 +7995,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/24",
         "data": [
             {
@@ -8289,7 +8037,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/09/16",
         "data": [
@@ -8323,7 +8071,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2021/09/16",
         "data": [
@@ -8357,8 +8105,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/13",
         "data": [
             {
@@ -8399,7 +8147,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/08/30",
         "data": [
@@ -8433,8 +8181,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/08/27",
         "data": [
             {
@@ -8475,8 +8223,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/08/25",
         "data": [
             {
@@ -8517,7 +8265,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/08/12",
         "data": [
@@ -8551,7 +8299,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2021/08/04",
         "data": [
@@ -8585,7 +8333,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/08/04",
         "data": [
@@ -8618,134 +8366,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2021/07/27",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/25701/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "535bcec4-b433-406a-afce-c2e043055d7c",
-                "file_type": "pdf",
-                "date": "2021/07/27",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/535bcec4-b433-406a-afce-c2e043055d7c",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0dc698cc-470d-4a1c-9615-7c907bc9189f",
-                "file_type": "xls",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/0dc698cc-470d-4a1c-9615-7c907bc9189f",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-21-225765",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-21-225765",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
-        "event_date": "2021/07/27",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/25706/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "87b3a0fd-6f6c-4222-bfe2-fcdb5a194b6e",
-                "file_type": "pdf",
-                "date": "2021/07/27",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/87b3a0fd-6f6c-4222-bfe2-fcdb5a194b6e",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "3d826ff5-df69-4cee-a759-049bcc47c8fe",
-                "file_type": "xls",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/3d826ff5-df69-4cee-a759-049bcc47c8fe",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001103982-21-000013",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2021/07/27",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/10-q/0001103982-21-000013",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2021/07/13",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2021/07/13",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/25671/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "08c2728d-0903-453e-80df-8499ccbaec29",
-                "file_type": "pdf",
-                "date": "2021/07/13",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/08c2728d-0903-453e-80df-8499ccbaec29",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "a51a6442-9aae-400c-9eba-1bd7619e00b7",
-                "file_type": "xls",
-                "date": "2021/07/13",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/a51a6442-9aae-400c-9eba-1bd7619e00b7",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-21-214119",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2021/07/13",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-21-214119",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/07/08",
         "data": [
@@ -8779,7 +8401,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/06/11",
         "data": [
@@ -8813,7 +8435,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/06/11",
         "data": [
@@ -8847,7 +8469,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2021/06/10",
         "data": [
@@ -8881,7 +8503,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/06/09",
         "data": [
@@ -8915,7 +8537,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/06/03",
         "data": [
@@ -8949,7 +8571,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/28",
         "data": [
@@ -8983,7 +8605,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Amendment to a previously filed 4",
         "event_date": "2021/05/27",
         "data": [
@@ -9009,8 +8631,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/05/21",
         "data": [
             {
@@ -9051,7 +8673,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9085,7 +8707,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9119,7 +8741,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9153,7 +8775,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9187,7 +8809,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2021/05/21",
         "data": [
@@ -9221,7 +8843,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9255,7 +8877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9289,7 +8911,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9323,7 +8945,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9349,7 +8971,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9383,7 +9005,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9417,7 +9039,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/05/21",
         "data": [
@@ -9451,8 +9073,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/04/28",
         "data": [
             {
@@ -9493,8 +9115,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/04/27",
         "data": [
             {
@@ -9535,8 +9157,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/04/08",
         "data": [
             {
@@ -9577,7 +9199,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2021/04/07",
         "data": [
@@ -9611,7 +9233,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2021/04/07",
         "data": [
@@ -9645,7 +9267,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "25-NSE",
         "event_date": "2021/03/30",
         "data": [
@@ -9679,8 +9301,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/26",
         "data": [
             {
@@ -9721,7 +9343,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Registration of certain classes of securities 12(b) of the Securities Exchange Act",
         "event_date": "2021/03/18",
         "data": [
@@ -9755,8 +9377,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/17",
         "data": [
             {
@@ -9797,7 +9419,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/03/05",
         "data": [
@@ -9831,7 +9453,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2021/03/04",
         "data": [
@@ -9865,7 +9487,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2021/03/03",
         "data": [
@@ -9899,7 +9521,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2021/03/03",
         "data": [
@@ -9933,8 +9555,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/01",
         "data": [
             {
@@ -9975,8 +9597,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/24",
         "data": [
             {
@@ -10017,7 +9639,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/24",
         "data": [
@@ -10051,7 +9673,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10085,7 +9707,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10119,7 +9741,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10153,7 +9775,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10187,7 +9809,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10221,7 +9843,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10255,7 +9877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10289,7 +9911,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10323,7 +9945,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10357,7 +9979,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10391,7 +10013,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/22",
         "data": [
@@ -10425,7 +10047,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/19",
         "data": [
@@ -10459,7 +10081,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/17",
         "data": [
@@ -10493,8 +10115,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/16",
         "data": [
             {
@@ -10535,7 +10157,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/02/11",
         "data": [
@@ -10569,7 +10191,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2021/02/10",
         "data": [
@@ -10595,8 +10217,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/05",
         "data": [
             {
@@ -10637,7 +10259,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Annual filing director officer or owner of more than ten percent.",
         "event_date": "2021/01/29",
         "data": [
@@ -10671,7 +10293,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2021/01/29",
         "data": [
@@ -10697,8 +10319,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/01/28",
         "data": [
             {
@@ -10739,7 +10361,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "25-NSE",
         "event_date": "2021/01/25",
         "data": [
@@ -10773,7 +10395,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2021/01/13",
         "data": [
@@ -10807,7 +10429,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2021/01/13",
         "data": [
@@ -10841,8 +10463,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/01/07",
         "data": [
             {
@@ -10883,7 +10505,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/12/09",
         "data": [
@@ -10917,7 +10539,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/12/07",
         "data": [
@@ -10951,7 +10573,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/11/30",
         "data": [
@@ -10985,7 +10607,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2020/11/19",
         "data": [
@@ -11019,7 +10641,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/11/19",
         "data": [
@@ -11053,8 +10675,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/11/04",
         "data": [
             {
@@ -11095,8 +10717,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/11/03",
         "data": [
             {
@@ -11137,8 +10759,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/11/02",
         "data": [
             {
@@ -11179,7 +10801,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/10/19",
         "data": [
@@ -11213,7 +10835,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/10/19",
         "data": [
@@ -11247,8 +10869,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/10/16",
         "data": [
             {
@@ -11289,8 +10911,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/10/08",
         "data": [
             {
@@ -11331,7 +10953,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Amendment to a previously filed 4",
         "event_date": "2020/10/07",
         "data": [
@@ -11365,7 +10987,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Amendment to a previously filed 4",
         "event_date": "2020/10/07",
         "data": [
@@ -11399,7 +11021,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/10/01",
         "data": [
@@ -11433,8 +11055,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/10/01",
         "data": [
             {
@@ -11475,7 +11097,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/09/30",
         "data": [
@@ -11509,7 +11131,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2020/09/30",
         "data": [
@@ -11543,8 +11165,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/24",
         "data": [
             {
@@ -11585,7 +11207,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2020/09/10",
         "data": [
@@ -11619,7 +11241,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/09/10",
         "data": [
@@ -11653,8 +11275,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/04",
         "data": [
             {
@@ -11695,7 +11317,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/09/03",
         "data": [
@@ -11729,7 +11351,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/09/02",
         "data": [
@@ -11763,7 +11385,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2020/09/02",
         "data": [
@@ -11797,7 +11419,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/18",
         "data": [
@@ -11831,7 +11453,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/14",
         "data": [
@@ -11865,7 +11487,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/14",
         "data": [
@@ -11899,7 +11521,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/13",
         "data": [
@@ -11933,7 +11555,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/11",
         "data": [
@@ -11967,7 +11589,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/06",
         "data": [
@@ -12001,7 +11623,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2020/08/03",
         "data": [
@@ -12035,7 +11657,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/03",
         "data": [
@@ -12069,7 +11691,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/08/03",
         "data": [
@@ -12103,8 +11725,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q3 2020",
         "event_date": "2020/07/29",
         "data": [
             {
@@ -12145,8 +11767,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2020",
         "event_date": "2020/07/28",
         "data": [
             {
@@ -12186,92 +11808,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2020/07/09",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2020/07/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/24351/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "f1e443e9-cfc1-496c-9a79-1a69065d32dd",
-                "file_type": "pdf",
-                "date": "2020/07/09",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/f1e443e9-cfc1-496c-9a79-1a69065d32dd",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "da798880-1fe6-47e6-b4ee-7636093f8652",
-                "file_type": "xls",
-                "date": "2020/07/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/da798880-1fe6-47e6-b4ee-7636093f8652",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-20-190451",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2020/07/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-20-190451",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2020/07/02",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2020/07/02",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/24326/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "4164622e-c027-4219-a4ab-df60112a2caf",
-                "file_type": "pdf",
-                "date": "2020/07/02",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/4164622e-c027-4219-a4ab-df60112a2caf",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "3a754b5e-5621-4718-8177-b526b0e8a073",
-                "file_type": "xls",
-                "date": "2020/07/02",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/3a754b5e-5621-4718-8177-b526b0e8a073",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-20-186900",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2020/07/02",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-20-186900",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/07/01",
         "data": [
@@ -12305,7 +11843,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/06/30",
         "data": [
@@ -12339,7 +11877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2020/06/30",
         "data": [
@@ -12373,7 +11911,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/06/12",
         "data": [
@@ -12407,7 +11945,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/06/11",
         "data": [
@@ -12441,8 +11979,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/06/02",
         "data": [
             {
@@ -12483,8 +12021,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/05/15",
         "data": [
             {
@@ -12525,7 +12063,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12559,7 +12097,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12593,7 +12131,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12627,7 +12165,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12661,7 +12199,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12695,7 +12233,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12729,7 +12267,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12763,7 +12301,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12797,7 +12335,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12831,7 +12369,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12865,7 +12403,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2020/05/14",
         "data": [
@@ -12899,7 +12437,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/14",
         "data": [
@@ -12933,8 +12471,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/05/06",
         "data": [
             {
@@ -12975,7 +12513,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/05/05",
         "data": [
@@ -13009,8 +12547,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/05/04",
         "data": [
             {
@@ -13051,7 +12589,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2020/05/01",
         "data": [
@@ -13085,7 +12623,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/05/01",
         "data": [
@@ -13119,7 +12657,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/04/30",
         "data": [
@@ -13153,8 +12691,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/04/29",
         "data": [
             {
@@ -13195,8 +12733,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/04/28",
         "data": [
             {
@@ -13237,8 +12775,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/04/13",
         "data": [
             {
@@ -13279,7 +12817,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/04/08",
         "data": [
@@ -13313,8 +12851,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/04/07",
         "data": [
             {
@@ -13355,7 +12893,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2020/04/07",
         "data": [
@@ -13389,7 +12927,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2020/04/07",
         "data": [
@@ -13423,7 +12961,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2020/04/01",
         "data": [
@@ -13457,7 +12995,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2020/04/01",
         "data": [
@@ -13491,8 +13029,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/26",
         "data": [
             {
@@ -13533,8 +13071,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/18",
         "data": [
             {
@@ -13575,7 +13113,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/03/13",
         "data": [
@@ -13609,7 +13147,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to a SC 13D filing",
         "event_date": "2020/03/10",
         "data": [
@@ -13642,50 +13180,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2020/03/09",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2020/03/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/23851/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "da1e70cd-7c13-49e6-b132-e85aaa5cb433",
-                "file_type": "pdf",
-                "date": "2020/03/09",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/da1e70cd-7c13-49e6-b132-e85aaa5cb433",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "b094d689-acee-4a02-b966-ae87cd9cd766",
-                "file_type": "xls",
-                "date": "2020/03/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/b094d689-acee-4a02-b966-ae87cd9cd766",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "0001193125-20-066234",
-                "file_type": "sch - xbrl taxonomy extension schema",
-                "date": "2020/03/09",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/sec-filings/sec-filing/8-k/0001193125-20-066234",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/03/06",
         "data": [
@@ -13719,7 +13215,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "S-3ASR",
         "event_date": "2020/02/28",
         "data": [
@@ -13753,8 +13249,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/02/27",
         "data": [
             {
@@ -13795,7 +13291,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13829,7 +13325,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13863,7 +13359,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13897,7 +13393,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13931,7 +13427,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13965,7 +13461,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -13999,7 +13495,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -14033,7 +13529,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -14067,7 +13563,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -14101,7 +13597,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -14135,7 +13631,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/24",
         "data": [
@@ -14169,7 +13665,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/19",
         "data": [
@@ -14195,7 +13691,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/19",
         "data": [
@@ -14221,8 +13717,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/02/18",
         "data": [
             {
@@ -14263,7 +13759,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2020/02/12",
         "data": [
@@ -14297,8 +13793,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2020",
         "event_date": "2020/02/07",
         "data": [
             {
@@ -14339,7 +13835,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/06",
         "data": [
@@ -14365,7 +13861,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/06",
         "data": [
@@ -14391,7 +13887,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2020/02/05",
         "data": [
@@ -14417,7 +13913,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/02/05",
         "data": [
@@ -14443,7 +13939,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2020/02/03",
         "data": [
@@ -14469,8 +13965,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/29",
         "data": [
             {
@@ -14511,7 +14007,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/01/03",
         "data": [
@@ -14537,7 +14033,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2020/01/03",
         "data": [
@@ -14563,7 +14059,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/11/21",
         "data": [
@@ -14589,8 +14085,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/30",
         "data": [
             {
@@ -14631,8 +14127,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/30",
         "data": [
             {
@@ -14673,8 +14169,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/02",
         "data": [
             {
@@ -14715,8 +14211,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/20",
         "data": [
             {
@@ -14757,8 +14253,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/13",
         "data": [
             {
@@ -14799,7 +14295,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/09/09",
         "data": [
@@ -14825,7 +14321,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/09/04",
         "data": [
@@ -14851,7 +14347,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/09/04",
         "data": [
@@ -14877,8 +14373,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/08/30",
         "data": [
             {
@@ -14919,8 +14415,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/07/31",
         "data": [
             {
@@ -14961,8 +14457,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/07/30",
         "data": [
             {
@@ -14994,76 +14490,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2019/07/18",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2019/07/18",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/23196/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "ffd0ef99-7f0e-40fc-ad07-064abd626019",
-                "file_type": "pdf",
-                "date": "2019/07/18",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/ffd0ef99-7f0e-40fc-ad07-064abd626019",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "5d8de2ad-d013-42d0-b61f-a3f89deedcc0",
-                "file_type": "xls",
-                "date": "2019/07/18",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/5d8de2ad-d013-42d0-b61f-a3f89deedcc0",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2019/07/11",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2019/07/11",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/23181/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "becfb311-02bd-4bcb-b5d8-ee32e085ced1",
-                "file_type": "pdf",
-                "date": "2019/07/11",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/becfb311-02bd-4bcb-b5d8-ee32e085ced1",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "6d057837-2f12-4962-b5fe-50146ca5dd4f",
-                "file_type": "xls",
-                "date": "2019/07/11",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/6d057837-2f12-4962-b5fe-50146ca5dd4f",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/06/14",
         "data": [
@@ -15089,7 +14517,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/06/12",
         "data": [
@@ -15115,7 +14543,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/06/11",
         "data": [
@@ -15141,7 +14569,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2019/06/11",
         "data": [
@@ -15167,7 +14595,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15193,7 +14621,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15219,7 +14647,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15245,7 +14673,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15271,7 +14699,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15297,7 +14725,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15323,7 +14751,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15349,7 +14777,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15375,7 +14803,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15401,7 +14829,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15427,7 +14855,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15453,7 +14881,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/17",
         "data": [
@@ -15479,8 +14907,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2019",
         "event_date": "2019/05/15",
         "data": [
             {
@@ -15513,7 +14941,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/05/06",
         "data": [
@@ -15539,7 +14967,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2019/05/03",
         "data": [
@@ -15573,8 +15001,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Quarterly report which provides a continuing view of a company's financial position",
+        "event_type": "quarterly",
+        "event_name": "Q2 2019",
         "event_date": "2019/05/01",
         "data": [
             {
@@ -15615,8 +15043,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q2 2019",
         "event_date": "2019/04/30",
         "data": [
             {
@@ -15649,7 +15077,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2019/04/29",
         "data": [
@@ -15683,7 +15111,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notice of exempt solicitation. Definitive material",
         "event_date": "2019/04/29",
         "data": [
@@ -15717,7 +15145,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "UPLOAD",
         "event_date": "2019/04/23",
         "data": [
@@ -15743,7 +15171,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Official notification to shareholders of matters to be brought to a vote (\"Proxy\")",
         "event_date": "2019/03/29",
         "data": [
@@ -15777,7 +15205,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Additional proxy soliciting materials - definitive",
         "event_date": "2019/03/29",
         "data": [
@@ -15811,7 +15239,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "CORRESP",
         "event_date": "2019/03/21",
         "data": [
@@ -15837,7 +15265,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "UPLOAD",
         "event_date": "2019/03/13",
         "data": [
@@ -15863,7 +15291,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/03/06",
         "data": [
@@ -15889,7 +15317,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/03/05",
         "data": [
@@ -15915,8 +15343,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/27",
         "data": [
             {
@@ -15949,7 +15377,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/27",
         "data": [
@@ -15975,7 +15403,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16001,7 +15429,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16027,7 +15455,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16053,7 +15481,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16079,7 +15507,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16105,7 +15533,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16131,7 +15559,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16157,7 +15585,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16183,7 +15611,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16209,7 +15637,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16235,7 +15663,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16261,7 +15689,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/26",
         "data": [
@@ -16287,7 +15715,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Registration of certain classes of securities 12(b) of the Securities Exchange Act",
         "event_date": "2019/02/25",
         "data": [
@@ -16321,7 +15749,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Notification filed by National Securities Exchange to report the removal from listing and registration on a national securities exchange",
         "event_date": "2019/02/25",
         "data": [
@@ -16355,8 +15783,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/19",
         "data": [
             {
@@ -16389,7 +15817,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/15",
         "data": [
@@ -16415,8 +15843,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
+        "event_type": "quarterly",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/13",
         "data": [
             {
@@ -16449,7 +15877,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2019/02/12",
         "data": [
@@ -16483,7 +15911,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Form of prospectus filed in connection with primary offering of securities on a delayed basis",
         "event_date": "2019/02/11",
         "data": [
@@ -16517,7 +15945,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2019/02/11",
         "data": [
@@ -16551,7 +15979,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "FWP",
         "event_date": "2019/02/11",
         "data": [
@@ -16585,8 +16013,8 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Annual report which provides a comprehensive overview of the company for the past year",
+        "event_type": "annual",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/08",
         "data": [
             {
@@ -16627,7 +16055,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "An amendment to the SC 13G filing",
         "event_date": "2019/02/06",
         "data": [
@@ -16653,7 +16081,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/05",
         "data": [
@@ -16679,7 +16107,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/05",
         "data": [
@@ -16705,7 +16133,7 @@
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Statement of changes in beneficial ownership of securities",
         "event_date": "2019/02/01",
         "data": [
@@ -16730,42 +16158,8 @@
     {
         "equity_ticker": "MDLZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": null,
-        "event_name": "Report of unscheduled material events or corporate event",
-        "event_date": "2019/01/30",
-        "data": [
-            {
-                "file_name": "html",
-                "file_type": "unknown",
-                "date": "2019/01/30",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/node/22576/html",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "96b15d5e-38c8-4a86-833d-d25835e7456a",
-                "file_type": "pdf",
-                "date": "2019/01/30",
-                "category": "report",
-                "source_url": "https://ir.mondelezinternational.com/static-files/96b15d5e-38c8-4a86-833d-d25835e7456a",
-                "wissen_url": "unknown"
-            },
-            {
-                "file_name": "50e15cc9-61e3-4255-9b83-069e16611ff5",
-                "file_type": "xls",
-                "date": "2019/01/30",
-                "category": "other",
-                "source_url": "https://ir.mondelezinternational.com/static-files/50e15cc9-61e3-4255-9b83-069e16611ff5",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "MDLZ",
-        "source_type": "company_information",
         "frequency": "non-periodic",
-        "event_type": null,
+        "event_type": "other",
         "event_name": "Initial filing by director officer or owner of more than ten percent.",
         "event_date": "2019/01/02",
         "data": [

@@ -7,7 +7,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
 import re
-from utils import *
+from utils import * 
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -30,7 +30,6 @@ stop_scraping = False
 
 
 
-
 async def enable_stealth(page):
     """Inject JavaScript to evade bot detection."""
     await page.add_init_script("""
@@ -40,61 +39,89 @@ async def enable_stealth(page):
     """)
 
 
+from dateutil.parser import parse
+
+import asyncio
+
+
+
+
+async def parse_date3(date_str):
+    """Parses a date string like 'Tuesday, February 25, 2025' into 'YYYY/MM/DD' format."""
+    try:
+        parsed_date = parse(date_str, fuzzy=True)
+        return parsed_date  # Returns a datetime object
+    except Exception as e:
+        print(f"⚠️ Error parsing date: {date_str} -> {e}")
+        return None  # Return None if parsing fails
+
+
+import re
+from urllib.parse import urljoin
+from datetime import datetime
+from playwright.async_api import async_playwright
+
+
+
 async def extract_files_from_page(page):
-    """Extracts events and associated PDF links from the page."""
+    """Extracts corporate governance documents and associated file links."""
     global stop_scraping
     try:
-        date_elements = await page.query_selector_all(".date time")
-        media_links = await page.query_selector_all(".media-heading a")
+        # Select all document download items
+        document_items = await page.query_selector_all(".module_item")
 
-        for date_element, media_link in zip(date_elements, media_links):
-            event_date = await date_element.get_attribute("datetime")
-            event_date_parsed = await parse_date2(event_date)
-            if not event_date_parsed:
-                print(f"⚠️ Error parsing date: {event_date}")
-                continue
+        for item in document_items:
+            try:
+                # Extract file link and name
+                link_element = await item.query_selector(":scope .module-downloads_title a")
+                file_name = await link_element.inner_text() if link_element else "Unknown Document"
+                file_url = await link_element.get_attribute("href") if link_element else None
 
-            event_name = await media_link.inner_text()
-            event_url = await media_link.get_attribute("href")
-            
-            # Navigate to the event URL
-        
+                if not file_url:
+                    print("⚠️ No valid URL found, skipping.")
+                    continue
 
-            # After navigation, gather the PDF links
-            data_files = []
-            for pdf_link in [event_url]:
-                
+                # Ensure full URL
+                if file_url.startswith("//"):
+                    file_url = "https:" + file_url
 
-                data_files.append({
-                    "file_name": event_name,
-                    "file_type": "pdf",
-                    "date": event_date_parsed.strftime("%Y/%m/%d"),
-                    "category": "report",
-                    "source_url": event_url,
+                # Extract date from file name (assumed format includes YYYY/MM)
+                date_match = re.search(r'(\d{4})/(\d{2})', file_url)
+                event_date = f"{date_match.group(1)}/{date_match.group(2)}/01" if date_match else "UNKNOWN DATE"
+
+                # Determine file type
+                file_type = file_url.split(".")[-1] if "." in file_url else "unknown"
+
+                # Construct JSON object
+                data_files = [{
+                    "file_name": file_name.strip(),
+                    "file_type": file_type,
+                    "date": event_date,
+                    "category": "corporate_governance",
+                    "source_url": file_url,
                     "wissen_url": "unknown"
-                })
+                }]
 
-            types = 'expansion'
-            freq = classify_frequency(event_name, event_url)
-            if freq == 'periodic':
-                types = classify_periodic_type(event_name, event_url)
-
-            if data_files:
+                # Append structured event data
                 file_links_collected.append({
-                    "equity_ticker": EQUITY_TICKER,
+                    "equity_ticker": "UNKNOWN",
                     "source_type": "company_information",
-                    "frequency": freq,
-                    "event_type": types,
-                    "event_name": event_name.strip(),
-                    "event_date": event_date_parsed.strftime("%Y/%m/%d"),
+                    "frequency": "non-periodic",
+                    "event_type": "corporate_governance",
+                    "event_name": file_name.strip(),
+                    "event_date": event_date,
                     "data": data_files
                 })
 
-            # Go back to the main page to continue processing other events
-              # Ensure the page is fully loaded after going back
+                print(f"✅ Extracted document: {file_name}, Date: {event_date}, URL: {file_url}")
+
+            except Exception as e:
+                print(f"⚠️ Error processing a document: {e}")
 
     except Exception as e:
         print(f"⚠️ Error extracting files: {e}")
+
+
 
 
 
@@ -116,7 +143,7 @@ async def find_next_page(page):
 async def scrape_sec_filings():
     """Main function to scrape SEC filings."""
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
         await context.set_extra_http_headers({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",

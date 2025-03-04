@@ -7,7 +7,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
 import re
-from utils import * 
+from utils import *
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -27,6 +27,7 @@ VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 visited_urls = set()
 file_links_collected = []
 stop_scraping = False
+
 
 
 
@@ -65,10 +66,10 @@ async def extract_files_from_page(page):
                 
 
                 data_files.append({
-                    "file_name": event_url,
+                    "file_name": event_name,
                     "file_type": "pdf",
                     "date": event_date_parsed.strftime("%Y/%m/%d"),
-                    "category": "null",
+                    "category": "report",
                     "source_url": event_url,
                     "wissen_url": "unknown"
                 })
@@ -83,7 +84,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": EQUITY_TICKER,
                     "source_type": "company_information",
                     "frequency": freq,
-                    "event_type": types,
+                    "event_type": "presentation",
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": data_files

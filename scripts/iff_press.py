@@ -38,95 +38,93 @@ async def enable_stealth(page):
         });
     """)
 
+
+from dateutil.parser import parse
+
 import asyncio
-import time
-from playwright.async_api import async_playwright
-
-async def is_browser_idle(page, timeout=5):
-    """
-    Detects if the browser has been idle for the given timeout period (default: 5 seconds).
-    Returns True if idle, otherwise False.
-    """
-    last_interaction_time = time.time()  # Initialize with the current time
-
-    async def reset_idle_timer():
-        """Resets the idle timer whenever a new interaction occurs."""
-        nonlocal last_interaction_time
-        last_interaction_time = time.time()
-
-    # Attach event listeners to detect activity
-    await page.expose_function("resetIdleTimer", reset_idle_timer)
-
-    await page.evaluate("""
-        () => {
-            ['click', 'mousemove', 'scroll', 'keydown', 'load', 'DOMContentLoaded'].forEach(event => {
-                document.addEventListener(event, () => window.resetIdleTimer(), { passive: true });
-            });
-        }
-    """)
-
-    while True:
-        await asyncio.sleep(1)  # Check every second
-        elapsed_time = time.time() - last_interaction_time
-        if elapsed_time >= timeout:
-            return True
 
 
 
 
-import re
-from urllib.parse import urljoin
-from datetime import datetime
+async def parse_date3(date_str):
+    """Parses a date string like 'Tuesday, February 25, 2025' into 'YYYY/MM/DD' format."""
+    try:
+        parsed_date = parse(date_str, fuzzy=True)
+        return parsed_date  # Returns a datetime object
+    except Exception as e:
+        print(f"⚠️ Error parsing date: {date_str} -> {e}")
+        return None  # Return None if parsing fails
+
+
 async def extract_files_from_page(page):
-    """Extracts investor events from the Colgate-Palmolive page."""
+    """Extracts IFF news releases and associated file links."""
     global stop_scraping
     try:
-        # Select all event blocks
-        event_blocks = await page.query_selector_all(".richText-content.mt-3.pt-5")
+        # Select all articles containing news events
+        news_articles = await page.query_selector_all(".nir-widget--list article")
 
-        for event in event_blocks:
+        for article in news_articles:
             try:
-                # Extract event name
-                title_element = await event.query_selector("h3 span.ss--font-size-21px")
-                event_name = await title_element.inner_text() if title_element else "Unknown Event"
+                # Extract Event Date
+                date_element = await article.query_selector(":scope .nir-widget--news--date-time")
+                event_date_text = await date_element.inner_text() if date_element else "UNKNOWN DATE"
+                event_date_parsed = await parse_date3(event_date_text)
 
-                # Extract event date
-                date_element = await event.query_selector("p span.ss--color-deep-grey")
-                event_date_text = await date_element.inner_text() if date_element else None
-                event_date_parsed = await parse_date3(event_date_text) if event_date_text else None
-                event_date = event_date_parsed.strftime("%Y/%m/%d") if event_date_parsed else "UNKNOWN DATE"
+                if event_date_parsed and event_date_parsed.year < 2019:
+                    print(f"🛑 Stopping: Found event from {event_date_parsed.year}, no need to continue.")
+                    stop_scraping = True  # Set global flag to stop further processing
+                    return  # Stop processing this event
 
-                # Extract event details URL
-                event_url_element = await event.query_selector("p a.cta.ss--arrow-icon")
-                event_url = await event_url_element.get_attribute("href") if event_url_element else None
+                if not event_date_parsed:
+                    print(f"⚠️ Error parsing date: {event_date_text}")
+                    continue
+
+                # Extract Event Name and Press Release URL
+                headline_element = await article.query_selector(":scope .nir-widget--news--headline a")
+                event_name = await headline_element.inner_text() if headline_element else "Unknown Event"
+                event_url = await headline_element.get_attribute("href") if headline_element else "Unknown URL"
+
+                # Ensure full URL
                 if event_url and not event_url.startswith("http"):
                     event_url = urljoin(SEC_FILINGS_URL, event_url)
 
-                # Store the extracted event
+                # Collect press release file
+                data_files = [{
+                    "file_name": event_name.strip(),
+                    "file_type": "html",
+                    "date": event_date_parsed.strftime("%Y/%m/%d"),
+                    "category": "press release",
+                    "source_url": event_url,
+                    "wissen_url": "unknown"
+                }]
+
+                # Classify event frequency and type
+                freq = classify_frequency(event_name, event_url)
+                event_type = "expansion"
+                if freq == "periodic":
+                    event_type = classify_periodic_type(event_name, event_url)
+
+                # Append structured event data
                 file_links_collected.append({
-                    "equity_ticker": "CL",
+                    "equity_ticker": "IFF",
                     "source_type": "company_information",
-                    "frequency": classify_frequency(event_name, event_url),
-                    "event_type": classify_periodic_type(event_name, event_url),
+                    "frequency": freq,
+                    "event_type": "press release",
                     "event_name": event_name.strip(),
-                    "event_date": event_date,
-                    "data": [{
-                        "file_name": event_url.split("/")[-1] if event_url else "N/A",
-                        "file_type": "html",
-                        "date": event_date,
-                        "category": "event",
-                        "source_url": event_url if event_url else "N/A",
-                        "wissen_url": "unknown"
-                    }]
+                    "event_date": event_date_parsed.strftime("%Y/%m/%d"),
+                    "data": data_files
                 })
 
-                print(f"✅ Extracted event: {event_name}, Date: {event_date}")
+                print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed}, URL: {event_url}")
 
             except Exception as e:
                 print(f"⚠️ Error processing an event: {e}")
 
     except Exception as e:
-        print(f"⚠️ Error extracting events: {e}")
+        print(f"⚠️ Error extracting files: {e}")
+
+
+
 
 async def find_next_page(page):
     """Finds and returns the next page URL if pagination exists."""
@@ -167,7 +165,6 @@ async def scrape_sec_filings():
                 print(f"⚠️ Failed to load {current_url}: {e}")
                 break
 
-            await accept_cookies(page)
             await extract_files_from_page(page)
             await asyncio.sleep(random.uniform(1, 3))  # Human-like delay
 

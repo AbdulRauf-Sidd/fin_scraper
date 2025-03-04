@@ -2,7 +2,6 @@ import re
 from dateutil.parser import parse
 from datetime import datetime
 
-
 def classify_frequency(event_name, event_url):
     # Define a regex pattern that matches the keywords indicating a periodic event
     periodic_keywords = r'\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|)\b'
@@ -12,7 +11,6 @@ def classify_frequency(event_name, event_url):
         return "periodic"
     else:
         return "non-periodic"   
-
 
 def classify_periodic_type(event_name, event_url):
     # Define regex patterns to detect 'annual' and 'quarterly' anywhere in the strings
@@ -68,9 +66,6 @@ def classify_euro_periodic_type(event_name, event_url):
 
     # Default to '3-month' if no specific pattern is found
     return "3-month"
-
-
-
 
 def format_quarter_string(event_date, event_name):
     try:
@@ -360,3 +355,91 @@ async def accept_cookies(page):
         print(f"⚠️ No cookie consent banner found or error clicking it: {e}")
 
 import asyncio
+import re
+
+def categorize_event(event_name: str) -> str:
+    """
+    Categorizes a non-periodic event name based on predefined event types.
+
+    :param event_name: The name of the event
+    :return: The category of the event
+    """
+
+    # **Step 1: Direct Matching for Core Event Names**
+    exact_matches = {
+        r"\bpress\b|\bpress release\b": "press_release",
+        r"\bcapital markets\b|\bcapital markets day\b": "capital_markets_day",
+        r"\bannual general\b|\bannual meeting\b|\bagm\b": "annual_general_meeting",
+        r"\bfact\b|\bfact sheet\b|\bfact book\b": "fact_sheet",
+        r"\btrading\b|\bupdate\b|\btrading update\b": "trading_updates",
+        r"\besg\b|\bsustainability\b|\bsustainability report\b": "esg",
+        r"\banalyst\b|\banalyst presentation\b|\banalyst event\b": "analyst_presentations"
+    }
+
+    event_name_lower = event_name.lower().strip()
+
+    for pattern, category in exact_matches.items():
+        if re.search(pattern, event_name_lower, re.IGNORECASE):
+            return category  # Return immediately if a direct match is found
+
+    # **Step 2: Pattern Matching for More Variations**
+    patterns = {
+        "press_release": re.compile(
+            r"(press|announce|approval|update|break ground|expansion|hire|transition|"
+            r"contract option|convertible notes|prices upsized|proposed senior notes|"
+            r"board changes|collaborates with|strategic partnership|merger|acquisition|"
+            r"regulatory approval|business update|new product launch|earnings release)", 
+            re.IGNORECASE
+        ),
+        "capital_markets_day": re.compile(
+            r"(capital markets|investor day|analyst day|seminar|conference|fireside chat|"
+            r"site visit|industry event|roadshow|investor presentation)", 
+            re.IGNORECASE
+        ),
+        "annual_general_meeting": re.compile(
+            r"(annual report|notification to shareholders|proxy|shareholder meeting|agm)", 
+            re.IGNORECASE
+        ),
+        "fact_sheet": re.compile(
+            r"(fact sheet|fact book|infographic|ratings and frameworks|awards|certifications|"
+            r"policies|procedures|ethics|summary report|key figures|performance highlights)", 
+            re.IGNORECASE
+        ),
+        "trading_updates": re.compile(
+            r"(trading update|full[\s\-]?year results|quarterly results|earnings call|"
+            r"financial highlights|business performance|quarterly earnings|interim report|"
+            r"half-year results|FY\d{2})",  # Matches things like "FY23"
+            re.IGNORECASE
+        ),
+        "esg": re.compile(
+            r"(sustainability report|sustainability strategy|carbon footprint|"
+            r"environmental impact|climate change|diversity and inclusion|social impact|"
+            r"corporate responsibility)", 
+            re.IGNORECASE
+        ),
+        "analyst_presentations": re.compile(
+            r"(analyst presentation|analyst event|fireside chat|banking conference|investor call|"
+            r"sell-side meeting|earnings call|broker conference)", 
+            re.IGNORECASE
+        ),
+        "other": re.compile(
+            r"(prospectus|notification filed|registration of securities|"
+            r"regulatory filing|ownership disclosure|securities update|legal filing)", 
+            re.IGNORECASE
+        ),
+    }
+
+    # **Step 3: Apply Pattern Matching**
+    for category, regex in patterns.items():
+        if regex.search(event_name_lower):
+            return category
+
+    # **Step 4: Fallback Categorization**
+    if "presentation" in event_name_lower:
+        return "fact_sheet"
+    if "meeting" in event_name_lower:
+        return "annual_general_meeting"
+    if "results" in event_name_lower or "update" in event_name_lower:
+        return "trading_updates"
+    
+    return "other"  # Default if no match is found

@@ -39,43 +39,92 @@ async def enable_stealth(page):
     """)
 
 
+from dateutil.parser import parse
+
+import asyncio
+
+
+
+
+async def parse_date3(date_str):
+    """Parses a date string like 'Tuesday, February 25, 2025' into 'YYYY/MM/DD' format."""
+    try:
+        parsed_date = parse(date_str, fuzzy=True)
+        return parsed_date  # Returns a datetime object
+    except Exception as e:
+        print(f"⚠️ Error parsing date: {date_str} -> {e}")
+        return None  # Return None if parsing fails
+
+
+import re
+from urllib.parse import urljoin
+
 async def extract_files_from_page(page):
-    """Extracts events and associated file links from the page."""
+    """Extracts IFF earnings events, conference calls, and related file links."""
     global stop_scraping
     try:
-        # Select all event items
-        event_items = await page.query_selector_all(".wd_item")
+        # Select all event articles
+        event_articles = await page.query_selector_all(".node--nir-event--nir-widget-list")
 
-        for event in event_items:
+        for article in event_articles:
+            if stop_scraping:
+                return  # Stop processing further events if flagged
+
             try:
-                # Extract event date
-                date_element = await event.query_selector(":scope .wd_date")
+                # Extract Event Date
+                date_element = await article.query_selector(":scope .press-date")
                 event_date_text = await date_element.inner_text() if date_element else "UNKNOWN DATE"
-                event_date_parsed = await parse_date2(event_date_text)
+                event_date_parsed = await parse_date3(event_date_text)
 
-                if not event_date_parsed:
-                    print(f"⚠️ Error parsing date: {event_date_text}")
-                    continue
+                if event_date_parsed and event_date_parsed.year < 2019:
+                    print(f"🛑 Stopping: Found event from {event_date_parsed.year}, stopping scraper.")
+                    stop_scraping = True  # Stop further processing
+                    return  # Exit function immediately
 
-                # Extract event name and file link
-                title_element = await event.query_selector(":scope .wd_title a")
+                # Extract Event Name and URL
+                title_element = await article.query_selector(":scope .field-nir-event-title a")
                 event_name = await title_element.inner_text() if title_element else "Unknown Event"
                 event_url = await title_element.get_attribute("href") if title_element else "Unknown URL"
 
-                # Extract file name from URL
-                file_name = extract_file_name(event_url)
+                # Ensure full event URL
+                if event_url and not event_url.startswith("http"):
+                    event_url = urljoin(SEC_FILINGS_URL, event_url)
 
-                # Store extracted data
-                data_files = [{
-                    "file_name": file_name,
-                    "file_type": "html",
-                    "date": event_date_parsed.strftime("%Y/%m/%d") if event_date_parsed else "UNKNOWN DATE",
-                    "category": "report",
-                    "source_url": event_url,
-                    "wissen_url": "unknown"
-                }]
+                # Collect related files
+                data_files = []
 
-                # Classify event frequency and type
+                # Extract webcast links
+                webcast_element = await article.query_selector(":scope .field-nir-event-url a")
+                if webcast_element:
+                    webcast_url = await webcast_element.get_attribute("href")
+                    webcast_name = await webcast_element.inner_text()
+
+                    data_files.append({
+                        "file_name": webcast_name.strip(),
+                        "file_type": "webcast",
+                        "date": event_date_parsed.strftime("%Y/%m/%d"),
+                        "category": "webcast",
+                        "source_url": webcast_url.strip(),
+                        "wissen_url": "unknown"
+                    })
+
+                # Extract PDF documents
+                pdf_links = await article.query_selector_all(":scope .field-nir-event-assets-ref a")
+                for pdf_link in pdf_links:
+                    file_url = await pdf_link.get_attribute("href")
+                    file_name = await pdf_link.inner_text()
+
+                    if file_url:
+                        data_files.append({
+                            "file_name": file_name.strip(),
+                            "file_type": "pdf",
+                            "date": event_date_parsed.strftime("%Y/%m/%d"),
+                            "category": "presentation" if "presentation" in file_name.lower() else "report",
+                            "source_url": urljoin(SEC_FILINGS_URL, file_url),
+                            "wissen_url": "unknown"
+                        })
+
+                # Classify event type
                 freq = classify_frequency(event_name, event_url)
                 event_type = "expansion"
                 if freq == "periodic":
@@ -83,16 +132,16 @@ async def extract_files_from_page(page):
 
                 # Append structured event data
                 file_links_collected.append({
-                    "equity_ticker": EQUITY_TICKER,
+                    "equity_ticker": "IFF",
                     "source_type": "company_information",
                     "frequency": freq,
-                    "event_type": event_type,
+                    "event_type": "presentation",
                     "event_name": event_name.strip(),
-                    "event_date": event_date_parsed.strftime("%Y/%m/%d") if event_date_parsed else "UNKNOWN DATE",
+                    "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": data_files
                 })
 
-                print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed}, URL: {event_url}")
+                print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed}, Files: {len(data_files)}")
 
             except Exception as e:
                 print(f"⚠️ Error processing an event: {e}")
@@ -106,38 +155,22 @@ async def extract_files_from_page(page):
 
 async def find_next_page(page):
     """Finds and returns the next page URL if pagination exists."""
-    global stop_scraping  # Ensures we can stop the entire scraping process
-
     try:
-        # Check the last event on the page to get the date
-        date_elements = await page.query_selector_all(".wd_date")
-        if date_elements:
-            last_date_text = await date_elements[-1].inner_text()
-            last_date_parsed = await parse_date2(last_date_text)
-
-            if last_date_parsed and last_date_parsed.year < 2019:
-                print(f"🛑 Stopping: Found event from {last_date_parsed.year}, no need to go further.")
-                stop_scraping = True
-                return None  # Stop pagination
-
-        # Look for the "Next Page" button
-        await page.wait_for_selector("a[aria-label='Show next page']", timeout=10000)
-        next_page_link = await page.query_selector("a[aria-label='Show next page']")
-
-        if next_page_link:
-            next_page_url = await next_page_link.get_attribute("href")
-            if next_page_url and not stop_scraping:
+        await page.wait_for_selector("a", timeout=10000)
+        all_links = await page.query_selector_all("a")
+        for link in all_links:
+            text = await link.inner_text()
+            if "Next" in text or ">" in text:
+                next_page_url = await link.get_attribute("href")
                 return urljoin(SEC_FILINGS_URL, next_page_url)
-
     except Exception as e:
         print(f"⚠️ Error finding next page: {e}")
-
     return None
 
 async def scrape_sec_filings():
     """Main function to scrape SEC filings."""
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
         await context.set_extra_http_headers({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
