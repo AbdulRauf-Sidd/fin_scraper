@@ -1,3 +1,8 @@
+include ../Makefile
+
+run_parent_makefile:
+	make -C .. all
+
 .PHONY: scrape_colgate scrape_cocacola all
 
 scrape_colgate:
@@ -106,6 +111,4 @@ scrape_unlv_announcements:
 scrape_nesn:
 	-sh bypass.sh; python3 nestle.py
 
-all: scrape_colgate scrape_cocacola
-
-
+all: scrape_colgate scrape_cocacola scrape_cl_press scrape_corescientific_press scrape_corescientific_presentation scrape_corescientific_finance scrape_wday_press scrape_wday_events scrape_wday_quarterly scrape_iff_press scrape_iff_presentations scrape_givd_sec scrape_givd_news scrape_sy1_sec scrape_sy1_news scrape_sy1_events scrape_crda_sec scrape_crda_news scrape_crda_esg scrape_dsm_press scrape_dsfir_news scrape_nvda_press scrape_nvda_news scrape_nvda_finaninfo scrape_nvda_gov scrape_wmt_events scrape_unlv_press scrape_wmt_esg scrape_wmt_quarterly scrape_wmt_news scrape_cpb_events scrape_cpb_news scrape_unlv_presentations scrape_unlv_announcements run_parent_makefile

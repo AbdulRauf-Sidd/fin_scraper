@@ -99,6 +99,7 @@ async def get_cookies(url: str, retries: int = 5, proxy: str = None):
         driver.quit()
         return CookieResponse(cookies=cookies, user_agent=user_agent)
     except Exception as e:
+        print('djsaldkjsalkdj', e)
         raise HTTPException(status_code=500, detail=str(e))
 
 
@@ -117,6 +118,7 @@ async def get_html(url: str, retries: int = 5, proxy: str = None):
         driver.quit()
         return response
     except Exception as e:
+        print('dskadhsajdhaskdskjda', e)
         raise HTTPException(status_code=500, detail=str(e))
 
 

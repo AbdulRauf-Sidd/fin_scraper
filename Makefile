@@ -1,10 +1,5 @@
 .PHONY: scrape_colgate scrape_cocacola all
 
-scrape_colgate:
-	python scripts/sec_filings/generic_sec.py https://investor.colgatepalmolive.com/sec-filings "CL" --output JSONS/colgate_sec_filings.json
-
-scrape_cocacola:
-	python3 scripts/sec_filings/generic_sec.py https://investors.coca-colacompany.com/filings-reports/all-sec-filings "KO" --output JSONS/cocacola_sec_filings.json
 
 ralph_lauren:
 		python scripts/sec_filings/generic_sec.py https://investor.ralphlauren.com/financial-information/sec-filings "RL" --output JSONS/ralphlauren_sec_filings.json
@@ -180,4 +175,4 @@ merge_all:
 remove_duplicateLinks:
 	python scripts/remove_duplicateLinks.py
 
-all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom cl_press corz_finance corz_presentation corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dsm_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly merge_all remove_duplicateLinks
+all: ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom cl_press corz_finance corz_presentation corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dsm_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly merge_all remove_duplicateLinks
