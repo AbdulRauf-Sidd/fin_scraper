@@ -45,6 +45,43 @@ crawford:
 sec_filings:
 	scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest
 
+CL_media-announcements:
+	python scripts/CL_media-announcements.py
 
+CL_shareholder-pattern:
+	python scripts/CL_shareholder-pattern.py
 
-all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest
+CL-investor-relations
+	python scripts/CL-investor-relations.py
+
+KO_company-updates:
+	python scripts/KO_company-updates.py
+
+KO_poclicies-practices-reports:
+	python scripts/KO_poclicies-practices-reports.py
+
+KO_press-release:
+	python scripts/KO_press-release.py
+
+KO_sustainable-resource-center:
+	python scripts/KO_sustainable-resource-center.py
+
+PVH_events:
+	python scripts/PVH_events.py
+
+PVH_news:
+	python scripts/PVH_news.py
+
+PVH_reports:
+	python scripts/PVH_reports.py
+
+PVH_resources:
+	python scripts/PVH_resources.py
+
+PVH_sustainable-finance:
+	python scripts/PVH_sustainable-finance.py
+
+RL_newsroom:
+	python scripts/RL_newsroom.py
+
+all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom
