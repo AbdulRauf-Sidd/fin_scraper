@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright
 
 EQUITY_TICKER = "NVDA"
 YEARS_TO_SCRAPE = 5
-JSON_FILENAME = "JSON/Nvidia.json"
+JSON_FILENAME = "JSONS/Nvidia.json"
 NVIDIA_SEC_FILINGS_URL = "https://investor.nvidia.com/financial-info/sec-filings/default.aspx"
 
 # Ensure the JSON directory exists
