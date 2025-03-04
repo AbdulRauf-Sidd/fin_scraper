@@ -84,4 +84,94 @@ PVH_sustainable-finance:
 RL_newsroom:
 	python scripts/RL_newsroom.py
 
-all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom
+cl_press:
+	python scripts/cl_press.py
+
+corz_finance:
+	python scripts/corz_finance.py
+
+corz_presentation:
+	python scripts/corz_presentation.py
+
+corz_press:
+	python scripts/corz_press.py
+
+cpb_events:
+	python scripts/cpb_events.py
+
+cpb_news:
+	python scripts/cpb_news.py
+
+crda_esg:
+	python scripts/crda_esg.py
+
+# crda_news_NOTCOMPLETE:
+# 	python scripts/crda_news_NOTCOMPLETE.py
+
+crda_sec:
+	python scripts/crda_sec.py
+
+dsfir_news:
+	python scripts/dsfir_news.py
+
+dsm_press:
+	python scripts/dsm_press.py
+
+givd_news:
+	python scripts/givd_news.py
+
+givd_sec:
+	python scripts/givd_sec.py
+
+iff_presentations:
+	python scripts/iff_presentations.py
+
+iff_press:
+	python scripts/iff_press.py
+
+nvda_news:
+	python scripts/nvda_news.py
+
+nvda_press:
+	python scripts/nvda_press.py
+
+pinterest_news:
+	python scripts/pinterest_news.py
+
+sy1_events:
+	python scripts/sy1_events.py
+
+sy1_news:
+	python scripts/sy1_news.py
+
+sy1_sec:
+	python scripts/sy1_sec.py
+
+unlv_presentations:
+	python scripts/unlv_presentations.py
+
+unlv_press:
+	python scripts/unlv_press.py
+
+wday_events:
+	python scripts/wday_events.py
+
+wday_press:
+	python scripts/wday_press.py
+
+wday_quaterly:
+	python scripts/wday_quaterly.py
+
+wmt_esg:
+	python scripts/wmt_esg.py
+
+wmt_events:
+	python scripts/wmt_events.py
+
+wmt_news:
+	python scripts/wmt_news.py
+
+wmt_quaterly:
+	python scripts/wmt_quaterly.py
+
+all: scrape_colgate scrape_cocacola ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom cl_press corz_finance corz_presentation corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dsm_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly
