@@ -470,9 +470,10 @@ def classify_document(event_name: str, url: str) -> str:
     - spreadsheet
     - other
     """
-
-    event_name = event_name.lower()
-    url = url.lower()
+    if event_name is not None:
+        event_name = event_name.lower()
+    if url is not None:
+        url = url.lower()
 
     patterns = {
         "presentation": [

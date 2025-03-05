@@ -147,21 +147,24 @@ async def extract_files_from_page(page):
                 # Extract additional event text
                 text_element = await event_block.query_selector(".text-row")
                 additional_text = await text_element.inner_text() if text_element else ""
-
+                print('2')
                 # Classify frequency and type
                 freq = classify_frequency(event_name, event_url)
+                print(freq)
                 if freq == "periodic":
                     event_type = classify_euro_periodic_type(event_name, event_url)
-                    event_name = extract_quarter_from_name(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                    print('5')
+                    event_name = extract_quarter_from_name(event_name)
                 else:
                     event_type = categorize_event(event_name)
 
-
+                print('3')
                 category = classify_document(event_name, event_url) 
+                print('4')
                 file_type = get_file_type(event_url)
-
+                print('6')
                 file_name = await extract_file_name(event_url)
-
+                print('7')
                 # Append structured event data
                 file_links_collected.append({
                     "equity_ticker": "GIVN",
