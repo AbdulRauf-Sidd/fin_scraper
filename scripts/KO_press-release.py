@@ -59,7 +59,7 @@ async def scrape_documents(url, filename):
 
 async def main():
     url = 'https://investors.coca-colacompany.com/news-events/press-releases'
-    filename = 'data.json'
+    filename = 'JSONS/ko_press-release.json'
     await scrape_documents(url, filename)
 
 if __name__ == "__main__":

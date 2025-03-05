@@ -52,7 +52,7 @@ async def scrape_responsibility_resources(url, filename):
 
 async def main():
     url = 'https://www.pvh.com/responsibility/resources'
-    filename = 'data.json'  # Path to the output file
+    filename = 'JSONS/pvh_resources.json'  # Path to the output file
     await scrape_responsibility_resources(url, filename)
 
 asyncio.run(main())

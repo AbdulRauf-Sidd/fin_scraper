@@ -95,7 +95,7 @@ async def scrape_documents(url, filename):
 
 async def main():
     url = 'https://nvidianews.nvidia.com/news'
-    filename = 'NVDA_PressReleases.json'
+    filename = 'JSONS/NVDA_PressReleases.json'
     await scrape_documents(url, filename)
 
 if __name__ == "__main__":

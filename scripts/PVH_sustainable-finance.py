@@ -51,7 +51,7 @@ async def scrape_content_main(url, filename):
 
 async def main():
     url = 'https://www.pvh.com/investor-relations/sustainable-finance'  # Place the actual URL here
-    filename = 'data.json'  # Path to the output file
+    filename = 'JSONS/pvh_sustainable-finance.json'  # Path to the output file
     await scrape_content_main(url, filename)
 
 asyncio.run(main())

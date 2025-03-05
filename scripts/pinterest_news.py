@@ -9,7 +9,7 @@ from playwright.async_api import async_playwright
 # Configurations
 BASE_URL = "https://investor.pinterestinc.com/news-and-events/events-and-presentations/default.aspx"
 EQUITY_TICKER = "PINS"
-OUTPUT_FILE = "pinterest_events-and-presentations.json"
+OUTPUT_FILE = "JSONS/pinterest_events-and-presentations.json"
 
 # Track visited pages
 visited_urls = set()

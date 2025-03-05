@@ -7,7 +7,7 @@ import random
 # Configure the SEC filings URL and the equity ticker
 SEC_FILINGS_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078239&owner=include&count=100&hidefilings=0"
 EQUITY_TICKER = "PVH"
-JSON_FILENAME = "sec_filings.json"
+JSON_FILENAME = "JSONS/pvh_sec.json"
 
 
 # Track visited pages and collected file links

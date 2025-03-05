@@ -61,7 +61,7 @@ async def scrape_news_events(url, filename):
 
 async def main():
     url = 'https://www.pvh.com/news?facets=content_type%3DEvents%7CPress%20Releases%7CStories%26'
-    filename = 'data.json'  # Path to the output file
+    filename = 'JSONS/pvh_news.json'  # Path to the output file
     await scrape_news_events(url, filename)
 
 asyncio.run(main())

@@ -157,7 +157,7 @@ async def scrape_pdfs(url, start_year, end_year):
         print(f"✅ Total events found: {len(pdf_data)}")
         with open("JSONS/crawford.json", "w") as f:
             json.dump(pdf_data, f, indent=4)
-            print("\n🎯 Data saved to `sec_filings.json`")
+            print("\n🎯 Data saved to `JSONS/crawford.json`")
     else:
         print("❌ No documents found.")
 
