@@ -6,14 +6,6 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "U
 
 from utils import *
 
-async def enable_stealth(page):
-    """Inject JavaScript to evade bot detection."""
-    await page.add_init_script("""
-        Object.defineProperty(navigator, 'webdriver', {
-            get: () => undefined
-        });
-    """)
-
 
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
@@ -52,7 +44,6 @@ async def scrape_documents(url, filename):
                     title = format_quarter_string(date, title)
                 else:
                     event_type = categorize_event(title)
-                    event_name = title
 
                 category = classify_document(title, href) 
                 file_type = get_file_type(href)
@@ -65,11 +56,11 @@ async def scrape_documents(url, filename):
                     "frequency": freq,
                     "event_type": event_type,
                     "event_name": title.strip(),
-                    "event_date": date,
+                    "event_date": str(date),
                     "data": [{
                         "file_name": file_name,
                         "file_type": file_type,
-                        "date": date,
+                        "date": str(date),
                         "category": category,
                         "source_url": absolute_url,
                         "wissen_url": "NULL"
