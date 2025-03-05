@@ -95,31 +95,47 @@ async def scrape_pdfs(url, start_year, end_year):
                     print(f"✅ Year: {year} | Date: {event_date} | Description: {description} | Filing Type: {filing_text}")
 
                     # ✅ Format JSON correctly
+
+                    freq = classify_frequency(event_name, 'abc')
+                    if freq == "periodic":
+                        event_type = classify_periodic_type(event_name, 'abc')
+                        event_name = format_quarter_string(event_date.strftime("%Y/%m/%d"), event_name)
+                    else:
+                        event_type = categorize_event(event_name)
+
                     event_data = {
                         "equity_ticker": "CRDA",
                         "source_type": "company_information",
-                        "frequency": filing_frequency,
+                        "frequency": freq,
                         "event_type": event_type,
                         "event_name": event_name,
                         "event_date": event_date.strip(),
                         "data": []
                     }
 
+                    
+
                     # Extract ALL document types
                     for doc in doc_elements:
                         doc_url = await doc.get_attribute("href")
                         if doc_url:
+
+                            category = classify_document(event_name, doc_url) 
+                            file_type = get_file_type(doc_url)
+
+                            file_name = await extract_file_name(doc_url)
+
                             doc_url = f"https:{doc_url}"
                             mime_type = await get_mime_type(page, doc_url)  # Detect document type
                             file_name = doc_url.split("/")[-1]
 
                             event_data["data"].append({
                                 "file_name": file_name,
-                                "file_type": mime_type,
+                                "file_type": file_type,
                                 "date": event_date.strip(),
-                                "category": "report",
+                                "category": category,
                                 "source_url": doc_url,
-                                "wissen_url": f"https://ourstorage.com/{file_name}"
+                                "wissen_url": f"https://ir.crawco.com/{file_name}"
                             })
 
                     # ✅ Append event_data instead of separate entries
