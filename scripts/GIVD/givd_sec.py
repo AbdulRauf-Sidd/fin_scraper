@@ -95,20 +95,11 @@ async def extract_files_from_page(page):
             if factsheet_url and not factsheet_url.startswith("http"):
                 factsheet_url = urljoin(SEC_FILINGS_URL, factsheet_url)
 
-            freq = classify_frequency(event_name, factsheet_url)
-            if freq == "periodic":
-                event_type = classify_periodic_type(event_name, factsheet_url)
-                event_name = classify(event_date_parsed.strftime("%Y/%m/%d"), event_name)
-            else:
-                event_type = categorize_event(event_name)
-            category = classify_document(event_name, factsheet_url) 
-            file_type = get_file_type(factsheet_url)
-
             factsheet_data = {
                 "equity_ticker": "GIVN",
                 "source_type": "company_information",
-                "frequency": freq,
-                "event_type": event_type,
+                "frequency": "non-periodic",
+                "event_type": "investor_factsheet",
                 "event_name": "Investor Factsheet",
                 "event_date": "NULL",
                 "data": [{
@@ -185,10 +176,16 @@ async def extract_files_from_page(page):
                         category = "financial_summary"
 
                     # Classify event type based on category name
-                    freq = classify_frequency(event_name, "")
-                    event_type = "expansion"
+                    freq = classify_frequency(event_name, file_link)
                     if freq == "periodic":
-                        event_type = classify_periodic_type(event_name, "")
+                        event_type = classify_euro_periodic_type(event_name, file_link)
+                        event_name = extract_quarter_from_name('', event_name)
+                    else:
+                        event_type = categorize_event(event_name)
+
+
+                    category = classify_document(event_name, file_link) 
+                    file_type = get_file_type(file_link)
 
                     # Append structured event data
                     file_links_collected.append({
