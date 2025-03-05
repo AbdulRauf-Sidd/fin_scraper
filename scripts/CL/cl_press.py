@@ -132,7 +132,7 @@ async def extract_files_from_page(page):
                         "file_type": file_type,
                         "date": event_date,
                         "category": category,
-                        "source_url": event_url if event_url else "N/A",
+                        "source_url": event_url if event_url else "NULL",
                         "wissen_url": "NULL"
                     }]
                 })

@@ -109,22 +109,38 @@ async def extract_events_from_page(page):
 
                         file_type = "pdf" if file_url.endswith(".pdf") else "html"
 
+                        freq = classify_frequency(event_name, file_url)
+                        if freq == "periodic":
+                            event_type = classify_periodic_type(event_name, file_url)
+                            event_name = extract_quarter_from_name(event_name)
+                        else:
+                            event_type = categorize_event(event_name)
+    
+    
+                        category = classify_document(event_name, file_url) 
+                        file_type = get_file_type(file_url)
+
                         file_links.append({
                             "file_name": file_name,
                             "file_type": file_type,
+                            "category": category,
                             "date": event_date_parsed.strftime("%Y/%m/%d"),
-                            "source_url": file_url
+                            "source_url": file_url,
+                            "wissen_url": "NULL",
                         })
 
                     # Skip events with no webcast or support materials
                     if not webcast_url and not file_links:
                         continue
 
+                    
+
                     # Append structured event data
                     file_links_collected.append({
                         "equity_ticker": "CPB",
                         "source_type": "company_events",
-                        "frequency": "periodic",
+                        "frequency": freq,
+                        "event_type": event_type,
                         "event_name": event_name.strip(),
                         "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                         "data": file_links
