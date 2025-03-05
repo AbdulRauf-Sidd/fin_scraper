@@ -110,14 +110,15 @@ async def extract_files_from_page(page):
                 if file_url:
                     if not file_url.startswith("http"):
                         file_url = urljoin(SEC_FILINGS_URL, file_url)
-                    file_type = "pdf" if file_url.endswith(".pdf") else "video" if "video" in file_url else "html"
+                    category = classify_document(event_name, file_url) 
+                    file_type = get_file_type(file_url)
                     file_links.append({
                         "file_name": file_url.split("/")[-1],
                         "file_type": file_type,
-                        "date": event_date if event_date else "UNKNOWN DATE",
-                        "category": "financial report",
+                        "date": event_date if event_date else "NULL",
+                        "category": category,
                         "source_url": file_url,
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     })
 
         # Store the last event if it has files
@@ -126,9 +127,9 @@ async def extract_files_from_page(page):
                 "equity_ticker": "DSFIR",
                 "source_type": "company_information",
                 "frequency": classify_frequency(event_name, file_links[0]["source_url"]),
-                "event_type": classify_periodic_type(event_name, file_links[0]["source_url"]),
+                "event_type": 'press release',
                 "event_name": event_name.strip(),
-                "event_date": event_date if event_date else "null",
+                "event_date": event_date if event_date else "NULL",
                 "data": file_links
             })
             print(f"✅ Extracted event: {event_name}, Date: {event_date}")
