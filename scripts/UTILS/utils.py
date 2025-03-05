@@ -70,18 +70,16 @@ def classify_euro_periodic_type(event_name, event_url):
 
 def format_quarter_string(event_date, event_name):
     try:
+        quarter_year_str = extract_quarter_from_name(event_name)
+        if not quarter_year_str:
+            raise Exception
+    except (ValueError, TypeError, Exception):
+        # If date parsing fails, attempt to extract quarter from the event name
         # Attempt to parse the event date considering common date formats including those with month abbreviations
         parsed_date = parse(event_date, fuzzy=True)
         # Determine the quarter from the parsed date
         quarter = (parsed_date.month - 1) // 3 + 1
         quarter_year_str = f"Q{quarter} {parsed_date.year}"
-    except (ValueError, TypeError):
-        # If date parsing fails, attempt to extract quarter from the event name
-        quarter_year_str = extract_quarter_from_name(event_name)
-        if not quarter_year_str:
-            # If no quarter info is found, try to extract just the year
-            return event_name
-
     return quarter_year_str
 
 def extract_quarter_from_name(event_name):

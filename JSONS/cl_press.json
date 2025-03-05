@@ -214,5 +214,3029 @@
                 "wissen_url": "NULL"
             }
         ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/07/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2024-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2024/07/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2024-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/13",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-30",
+                "file_type": "html",
+                "date": "2024/06/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-30",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/03",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer-1",
+                "file_type": "html",
+                "date": "2024/06/03",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer-1",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/05/22",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-dbaccess-global-2",
+                "file_type": "html",
+                "date": "2024/05/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-dbaccess-global-2",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/29",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2024-annual-meeting-stockholders-may",
+                "file_type": "html",
+                "date": "2024/04/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2024-annual-meeting-stockholders-may",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/04/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/12",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2024-first-quarter-earnings",
+                "file_type": "html",
+                "date": "2024/04/12",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2024-first-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/03/14",
+        "data": [
+            {
+                "file_name": "colgate-announces-dividend-increase-effective-2nd-quarter-2024",
+                "file_type": "html",
+                "date": "2024/03/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-dividend-increase-effective-2nd-quarter-2024",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/02/28",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-0",
+                "file_type": "html",
+                "date": "2024/02/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/02/15",
+        "data": [
+            {
+                "file_name": "colgate-elects-brian-newman-board-directors",
+                "file_type": "html",
+                "date": "2024/02/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-brian-newman-board-directors",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/02/07",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-consumer-analyst-14",
+                "file_type": "html",
+                "date": "2024/02/07",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-consumer-analyst-14",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-and-full-year-2023-results",
+                "file_type": "html",
+                "date": "2024/01/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-and-full-year-2023-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2023-fourth-quarter-full-year",
+                "file_type": "html",
+                "date": "2024/01/17",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2023-fourth-quarter-full-year",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/11",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-29",
+                "file_type": "html",
+                "date": "2024/01/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-29",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/11/20",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-2",
+                "file_type": "html",
+                "date": "2023/11/20",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-2",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/10/27",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2023-results",
+                "file_type": "html",
+                "date": "2023/10/27",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2023-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/10/13",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2023-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2023/10/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2023-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/15",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-continues-accelerate-action-towards-goal-net",
+                "file_type": "html",
+                "date": "2023/09/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-continues-accelerate-action-towards-goal-net",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/13",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-28",
+                "file_type": "html",
+                "date": "2023/09/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-28",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/08/24",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-barclays-2023-global",
+                "file_type": "html",
+                "date": "2023/08/24",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-barclays-2023-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/07/28",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2023-results",
+                "file_type": "html",
+                "date": "2023/07/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2023-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/07/14",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2023-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2023/07/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2023-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/06/08",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-27",
+                "file_type": "html",
+                "date": "2023/06/08",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-27",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/06/05",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer-0",
+                "file_type": "html",
+                "date": "2023/06/05",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/05/24",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-dbaccess-global-1",
+                "file_type": "html",
+                "date": "2023/05/24",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-dbaccess-global-1",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/05/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global-1",
+                "file_type": "html",
+                "date": "2023/05/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global-1",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/05/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2023-annual-meeting-stockholders-may",
+                "file_type": "html",
+                "date": "2023/05/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2023-annual-meeting-stockholders-may",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/04/28",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2023-results",
+                "file_type": "html",
+                "date": "2023/04/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2023-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/04/14",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2023-first-quarter-earnings",
+                "file_type": "html",
+                "date": "2023/04/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2023-first-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/03/09",
+        "data": [
+            {
+                "file_name": "colgate-announces-dividend-increase-effective-2nd-quarter-2023",
+                "file_type": "html",
+                "date": "2023/03/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-dividend-increase-effective-2nd-quarter-2023",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/03/06",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-and",
+                "file_type": "html",
+                "date": "2023/03/06",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-ubs-global-consumer-and",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/02/16",
+        "data": [
+            {
+                "file_name": "colgate-womens-games-returns-48th-season",
+                "file_type": "html",
+                "date": "2023/02/16",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-womens-games-returns-48th-season",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/02/10",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-consumer-analyst-13",
+                "file_type": "html",
+                "date": "2023/02/10",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-consumer-analyst-13",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/01/30",
+        "data": [
+            {
+                "file_name": "colgate-elects-steve-cahillane-board-directors",
+                "file_type": "html",
+                "date": "2023/01/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-steve-cahillane-board-directors",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/01/27",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-and-full-year-2022-results",
+                "file_type": "html",
+                "date": "2023/01/27",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-and-full-year-2022-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/01/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2022-fourth-quarter-year-end-earnings",
+                "file_type": "html",
+                "date": "2023/01/17",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2022-fourth-quarter-year-end-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/01/12",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-26",
+                "file_type": "html",
+                "date": "2023/01/12",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-26",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2023",
+        "event_date": "2023/01/03",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-company-appoints-lorrie-norrington-lead",
+                "file_type": "html",
+                "date": "2023/01/03",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-company-appoints-lorrie-norrington-lead",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2022",
+        "event_date": "2022/12/22",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-recognized-sp-dow-jones-indices-cdp-its",
+                "file_type": "html",
+                "date": "2022/12/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-recognized-sp-dow-jones-indices-cdp-its",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2022",
+        "event_date": "2022/11/28",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-1",
+                "file_type": "html",
+                "date": "2022/11/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-1",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2022",
+        "event_date": "2022/10/28",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2022-results",
+                "file_type": "html",
+                "date": "2022/10/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2022-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2022",
+        "event_date": "2022/10/14",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2022-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2022/10/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2022-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/09/14",
+        "data": [
+            {
+                "file_name": "colgate-palmolives-net-zero-targets-approved-science-based",
+                "file_type": "html",
+                "date": "2022/09/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolives-net-zero-targets-approved-science-based",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/09/09",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-25",
+                "file_type": "html",
+                "date": "2022/09/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-25",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/09/01",
+        "data": [
+            {
+                "file_name": "prabha-narasimhan-becomes-managing-director-and-ceo-cp-india",
+                "file_type": "html",
+                "date": "2022/09/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/prabha-narasimhan-becomes-managing-director-and-ceo-cp-india",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/08/19",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-barclays-2022-global",
+                "file_type": "html",
+                "date": "2022/08/19",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-barclays-2022-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/08/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-company-invests-growth-its-hills-pet-nutrition",
+                "file_type": "html",
+                "date": "2022/08/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-company-invests-growth-its-hills-pet-nutrition",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/07/29",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-company-names-stephan-habif-chief-technology",
+                "file_type": "html",
+                "date": "2022/07/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-company-names-stephan-habif-chief-technology",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/07/29",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2022-results",
+                "file_type": "html",
+                "date": "2022/07/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2022-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2022",
+        "event_date": "2022/07/15",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2022-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2022/07/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2022-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/06/09",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-24",
+                "file_type": "html",
+                "date": "2022/06/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-24",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/06/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-dbaccess-global-0",
+                "file_type": "html",
+                "date": "2022/06/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-dbaccess-global-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/06/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer",
+                "file_type": "html",
+                "date": "2022/06/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-evercore-isi-consumer",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/05/03",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global-0",
+                "file_type": "html",
+                "date": "2022/05/03",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/04/29",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2022-results",
+                "file_type": "html",
+                "date": "2022/04/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2022-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/04/22",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2022-annual-meeting-stockholders-may",
+                "file_type": "html",
+                "date": "2022/04/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2022-annual-meeting-stockholders-may",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/04/22",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-outlines-progress-toward-2025-environmental",
+                "file_type": "html",
+                "date": "2022/04/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-outlines-progress-toward-2025-environmental",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2022",
+        "event_date": "2022/04/15",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-announces-webcast-2022-first-quarter-results",
+                "file_type": "html",
+                "date": "2022/04/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-announces-webcast-2022-first-quarter-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/03/10",
+        "data": [
+            {
+                "file_name": "colgate-announces-its-60th-consecutive-annual-dividend-increase",
+                "file_type": "html",
+                "date": "2022/03/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-its-60th-consecutive-annual-dividend-increase",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/03/08",
+        "data": [
+            {
+                "file_name": "colgater-announces-2022-recipients-colgate-award-research",
+                "file_type": "html",
+                "date": "2022/03/08",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgater-announces-2022-recipients-colgate-award-research",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/03/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-11th-annual-ubs-global",
+                "file_type": "html",
+                "date": "2022/03/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-11th-annual-ubs-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-announces-new-inspire-our-future-scholarship",
+                "file_type": "html",
+                "date": "2022/02/18",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-announces-new-inspire-our-future-scholarship",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-presents-consumer-analyst-group-new-york-0",
+                "file_type": "html",
+                "date": "2022/02/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-presents-consumer-analyst-group-new-york-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/08",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-introduces-global-know-your-oqtm-campaign-part",
+                "file_type": "html",
+                "date": "2022/02/08",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-introduces-global-know-your-oqtm-campaign-part",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/31",
+        "data": [
+            {
+                "file_name": "colgate-womens-games-back-track-return-47th-season",
+                "file_type": "html",
+                "date": "2022/01/31",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-womens-games-back-track-return-47th-season",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/28",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-and-full-year-2021-results",
+                "file_type": "html",
+                "date": "2022/01/28",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-and-full-year-2021-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/24",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-partners-3shape-deliver-innovative",
+                "file_type": "html",
+                "date": "2022/01/24",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-partners-3shape-deliver-innovative",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2021-fourth-quarter-year-end-earnings",
+                "file_type": "html",
+                "date": "2022/01/18",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2021-fourth-quarter-year-end-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/13",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-23",
+                "file_type": "html",
+                "date": "2022/01/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-23",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2022",
+        "event_date": "2022/01/10",
+        "data": [
+            {
+                "file_name": "three-startups-win-first-ever-colgate-connect-challenge",
+                "file_type": "html",
+                "date": "2022/01/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/three-startups-win-first-ever-colgate-connect-challenge",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/12/06",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-citi-global-consumer",
+                "file_type": "html",
+                "date": "2021/12/06",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-citi-global-consumer",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/11/22",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-recognized-dow-jones-sustainability-indices",
+                "file_type": "html",
+                "date": "2021/11/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-recognized-dow-jones-sustainability-indices",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/11/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-0",
+                "file_type": "html",
+                "date": "2021/11/18",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/11/03",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-prices-inaugural-sustainability-bond",
+                "file_type": "html",
+                "date": "2021/11/03",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-prices-inaugural-sustainability-bond",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/10/29",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2021-results",
+                "file_type": "html",
+                "date": "2021/10/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2021-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/10/26",
+        "data": [
+            {
+                "file_name": "childhood-cavities-most-common-disease-among-children-lead",
+                "file_type": "html",
+                "date": "2021/10/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/childhood-cavities-most-common-disease-among-children-lead",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2021",
+        "event_date": "2021/10/15",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2021-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2021/10/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2021-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/09/10",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-22",
+                "file_type": "html",
+                "date": "2021/09/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-22",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/08/25",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-barclays-2021-global",
+                "file_type": "html",
+                "date": "2021/08/25",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-barclays-2021-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/08/06",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-leverage-verilys-baseline-platform-innovative",
+                "file_type": "html",
+                "date": "2021/08/06",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-leverage-verilys-baseline-platform-innovative",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/07/30",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2021-results",
+                "file_type": "html",
+                "date": "2021/07/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2021-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/07/22",
+        "data": [
+            {
+                "file_name": "colgate-recommends-shareholders-reject-mini-tender-offer-trc",
+                "file_type": "html",
+                "date": "2021/07/22",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-recommends-shareholders-reject-mini-tender-offer-trc",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2021",
+        "event_date": "2021/07/19",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2021-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2021/07/19",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2021-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/06/10",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-21",
+                "file_type": "html",
+                "date": "2021/06/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-21",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/06/09",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-evercore-isi-virtual",
+                "file_type": "html",
+                "date": "2021/06/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-evercore-isi-virtual",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/06/03",
+        "data": [
+            {
+                "file_name": "colgate-palmolives-sustainability-social-impact-report",
+                "file_type": "html",
+                "date": "2021/06/03",
+                "category": "report",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolives-sustainability-social-impact-report",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/05/26",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-dbaccess-global",
+                "file_type": "html",
+                "date": "2021/05/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-dbaccess-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/05/10",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global",
+                "file_type": "html",
+                "date": "2021/05/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-goldman-sachs-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/04/30",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2021-results",
+                "file_type": "html",
+                "date": "2021/04/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2021-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/04/26",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-its-2021-annual-meeting-stockholders",
+                "file_type": "html",
+                "date": "2021/04/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-its-2021-annual-meeting-stockholders",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/04/16",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2021-first-quarter-earnings",
+                "file_type": "html",
+                "date": "2021/04/16",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2021-first-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2021",
+        "event_date": "2021/04/13",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-earns-11th-consecutive-energy-starr-partner",
+                "file_type": "html",
+                "date": "2021/04/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-earns-11th-consecutive-energy-starr-partner",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/03/30",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-and-philips-join-forces-electric-toothbrushes",
+                "file_type": "html",
+                "date": "2021/03/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-and-philips-join-forces-electric-toothbrushes",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/03/11",
+        "data": [
+            {
+                "file_name": "colgate-announces-dividend-increase-effective-2nd-quarter-2021",
+                "file_type": "html",
+                "date": "2021/03/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-dividend-increase-effective-2nd-quarter-2021",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/03/11",
+        "data": [
+            {
+                "file_name": "colgate-elects-kimberly-nelson-board-directors",
+                "file_type": "html",
+                "date": "2021/03/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-kimberly-nelson-board-directors",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/03/09",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-honored-one-fast-companys-most-innovative",
+                "file_type": "html",
+                "date": "2021/03/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-honored-one-fast-companys-most-innovative",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/02/09",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-presents-consumer-analyst-group-new-york",
+                "file_type": "html",
+                "date": "2021/02/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-presents-consumer-analyst-group-new-york",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/01/29",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-2020-results",
+                "file_type": "html",
+                "date": "2021/01/29",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-2020-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/01/20",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2020-fourth-quarter-year-end-earnings",
+                "file_type": "html",
+                "date": "2021/01/20",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2020-fourth-quarter-year-end-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/01/14",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-20",
+                "file_type": "html",
+                "date": "2021/01/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-20",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2021",
+        "event_date": "2021/01/13",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-harvard-school-dental-medicine-establish",
+                "file_type": "html",
+                "date": "2021/01/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-harvard-school-dental-medicine-establish",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/11/19",
+        "data": [
+            {
+                "file_name": "colgate-laboratory-tests-show-toothpaste-and-mouthwash",
+                "file_type": "html",
+                "date": "2020/11/19",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-laboratory-tests-show-toothpaste-and-mouthwash",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/11/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-virtual",
+                "file_type": "html",
+                "date": "2020/11/18",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-virtual",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/11/18",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-earns-top-scores-2020-dow-jones-sustainability",
+                "file_type": "html",
+                "date": "2020/11/18",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-earns-top-scores-2020-dow-jones-sustainability",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/10/30",
+        "data": [
+            {
+                "file_name": "colgate-appoints-stanley-j-sutula-chief-financial-officer",
+                "file_type": "html",
+                "date": "2020/10/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-appoints-stanley-j-sutula-chief-financial-officer",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/10/30",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2020-results",
+                "file_type": "html",
+                "date": "2020/10/30",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2020-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2020",
+        "event_date": "2020/10/16",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2020-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2020/10/16",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2020-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2020",
+        "event_date": "2020/09/10",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-19",
+                "file_type": "html",
+                "date": "2020/09/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-19",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2020",
+        "event_date": "2020/08/25",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcast-presentation-barclays-2020-global",
+                "file_type": "html",
+                "date": "2020/08/25",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcast-presentation-barclays-2020-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2020",
+        "event_date": "2020/07/31",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2020-results",
+                "file_type": "html",
+                "date": "2020/07/31",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2020-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2020",
+        "event_date": "2020/07/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2020-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2020/07/17",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2020-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2020",
+        "event_date": "2020/07/06",
+        "data": [
+            {
+                "file_name": "colgate-mobilizes-its-dental-vans-and-partners-feeding-americar",
+                "file_type": "html",
+                "date": "2020/07/06",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-mobilizes-its-dental-vans-and-partners-feeding-americar",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/06/11",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-18",
+                "file_type": "html",
+                "date": "2020/06/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-18",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/06/01",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-dbaccess-global-4",
+                "file_type": "html",
+                "date": "2020/06/01",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-dbaccess-global-4",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/05/14",
+        "data": [
+            {
+                "file_name": "colgate-palmolives-2019-corporate-social-responsibility",
+                "file_type": "html",
+                "date": "2020/05/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolives-2019-corporate-social-responsibility",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/05/04",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-its-2020-annual-meeting",
+                "file_type": "html",
+                "date": "2020/05/04",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-its-2020-annual-meeting",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/05/01",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2020-results",
+                "file_type": "html",
+                "date": "2020/05/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2020-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/04/13",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2020-first-quarter-earnings",
+                "file_type": "html",
+                "date": "2020/04/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2020-first-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2020",
+        "event_date": "2020/04/03",
+        "data": [
+            {
+                "file_name": "colgate-supports-world-health-organization-who-safehands-effort",
+                "file_type": "html",
+                "date": "2020/04/03",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-supports-world-health-organization-who-safehands-effort",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/03/31",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-company-earns-10th-consecutive-energy-starr",
+                "file_type": "html",
+                "date": "2020/03/31",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-company-earns-10th-consecutive-energy-starr",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/03/11",
+        "data": [
+            {
+                "file_name": "colgate-announces-dividend-increase-effective-2nd-quarter-2020",
+                "file_type": "html",
+                "date": "2020/03/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-dividend-increase-effective-2nd-quarter-2020",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/03/11",
+        "data": [
+            {
+                "file_name": "colgate-elects-ceo-noel-wallace-board-chairman",
+                "file_type": "html",
+                "date": "2020/03/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-ceo-noel-wallace-board-chairman",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/03/09",
+        "data": [
+            {
+                "file_name": "colgater-optic-whiter-teams-multi-platinum-selling-artist-sheryl",
+                "file_type": "html",
+                "date": "2020/03/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgater-optic-whiter-teams-multi-platinum-selling-artist-sheryl",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/02/07",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-consumer-analyst-12",
+                "file_type": "html",
+                "date": "2020/02/07",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-consumer-analyst-12",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/01/31",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-2019-results",
+                "file_type": "html",
+                "date": "2020/01/31",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-2019-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/01/23",
+        "data": [
+            {
+                "file_name": "colgate-announces-agreement-acquire-hello-oral-care-brand",
+                "file_type": "html",
+                "date": "2020/01/23",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-agreement-acquire-hello-oral-care-brand",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/01/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2019-fourth-quarter-year-end-earnings",
+                "file_type": "html",
+                "date": "2020/01/17",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2019-fourth-quarter-year-end-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2020",
+        "event_date": "2020/01/09",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-17",
+                "file_type": "html",
+                "date": "2020/01/09",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-17",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/12/13",
+        "data": [
+            {
+                "file_name": "colgate-creates-build-bike-challenge-drive-quality-assurance-and",
+                "file_type": "html",
+                "date": "2019/12/13",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-creates-build-bike-challenge-drive-quality-assurance-and",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/11/21",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-receives-2019-leadership-award-us-green",
+                "file_type": "html",
+                "date": "2019/11/21",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-receives-2019-leadership-award-us-green",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/11/20",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-ships-worlds-first-tube-recognized-recyclable",
+                "file_type": "html",
+                "date": "2019/11/20",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-ships-worlds-first-tube-recognized-recyclable",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/11/20",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-0",
+                "file_type": "html",
+                "date": "2019/11/20",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global-0",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/11/01",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2019-results",
+                "file_type": "html",
+                "date": "2019/11/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2019-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/10/17",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2019-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2019/10/17",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2019-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2019",
+        "event_date": "2019/10/07",
+        "data": [
+            {
+                "file_name": "colgater-optic-whiter-cafe-serve-white-smiles-hispanicize-la",
+                "file_type": "html",
+                "date": "2019/10/07",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgater-optic-whiter-cafe-serve-white-smiles-hispanicize-la",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/09/26",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-named-industry-leader-dow-jones-sustainability",
+                "file_type": "html",
+                "date": "2019/09/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-named-industry-leader-dow-jones-sustainability",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/09/23",
+        "data": [
+            {
+                "file_name": "colgate-announces-conservation-impacts-save-water-campaign",
+                "file_type": "html",
+                "date": "2019/09/23",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-conservation-impacts-save-water-campaign",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/09/11",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-16",
+                "file_type": "html",
+                "date": "2019/09/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-16",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/08/21",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-barclays-2019-global",
+                "file_type": "html",
+                "date": "2019/08/21",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-barclays-2019-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/08/02",
+        "data": [
+            {
+                "file_name": "hot-summer-tips-keep-you-looking-cool",
+                "file_type": "html",
+                "date": "2019/08/02",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/hot-summer-tips-keep-you-looking-cool",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/07/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-2nd-quarter-2019-results",
+                "file_type": "html",
+                "date": "2019/07/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-2nd-quarter-2019-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/07/19",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2019-second-quarter-earnings",
+                "file_type": "html",
+                "date": "2019/07/19",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2019-second-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2019",
+        "event_date": "2019/07/11",
+        "data": [
+            {
+                "file_name": "colgate-announces-agreement-acquire-laboratoires-filorga",
+                "file_type": "html",
+                "date": "2019/07/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-agreement-acquire-laboratoires-filorga",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/06/24",
+        "data": [
+            {
+                "file_name": "applications-open-colgate-palmolives-annual-haz-la-utm",
+                "file_type": "html",
+                "date": "2019/06/24",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/applications-open-colgate-palmolives-annual-haz-la-utm",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/06/20",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-15",
+                "file_type": "html",
+                "date": "2019/06/20",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-15",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/06/11",
+        "data": [
+            {
+                "file_name": "colgates-recyclable-tube-first-be-recognized-association-plastic",
+                "file_type": "html",
+                "date": "2019/06/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgates-recyclable-tube-first-be-recognized-association-plastic",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/05/30",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-dbaccess-global-3",
+                "file_type": "html",
+                "date": "2019/05/30",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-dbaccess-global-3",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/05/21",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-joins-terracycles-loop-initiative-eliminate",
+                "file_type": "html",
+                "date": "2019/05/21",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-joins-terracycles-loop-initiative-eliminate",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/04/29",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-its-2019-annual-meeting",
+                "file_type": "html",
+                "date": "2019/04/29",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-its-2019-annual-meeting",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/04/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-1st-quarter-2019-results",
+                "file_type": "html",
+                "date": "2019/04/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2019-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/04/23",
+        "data": [
+            {
+                "file_name": "michael-phelps-continues-global-ambassador-colgates-save-water",
+                "file_type": "html",
+                "date": "2019/04/23",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/michael-phelps-continues-global-ambassador-colgates-save-water",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2019",
+        "event_date": "2019/04/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2019-first-quarter-earnings",
+                "file_type": "html",
+                "date": "2019/04/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2019-first-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/03/26",
+        "data": [
+            {
+                "file_name": "colgate-bright-smiles-bright-futuresr-sets-its-sights-next",
+                "file_type": "html",
+                "date": "2019/03/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-bright-smiles-bright-futuresr-sets-its-sights-next",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/03/14",
+        "data": [
+            {
+                "file_name": "colgate-announces-dividend-increase-effective-2nd-quarter-2019",
+                "file_type": "html",
+                "date": "2019/03/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-dividend-increase-effective-2nd-quarter-2019",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/03/14",
+        "data": [
+            {
+                "file_name": "colgate-brings-cirque-du-soleils-exclusive-philanthropic",
+                "file_type": "html",
+                "date": "2019/03/14",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-brings-cirque-du-soleils-exclusive-philanthropic",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/02/21",
+        "data": [
+            {
+                "file_name": "colgate-elects-lisa-m-edwards-board-directors",
+                "file_type": "html",
+                "date": "2019/02/21",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-lisa-m-edwards-board-directors",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/02/11",
+        "data": [
+            {
+                "file_name": "colgate-elects-noel-wallace-president-and-chief-executive",
+                "file_type": "html",
+                "date": "2019/02/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-elects-noel-wallace-president-and-chief-executive",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/02/06",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-presentation-consumer-analyst-11",
+                "file_type": "html",
+                "date": "2019/02/06",
+                "category": "presentation",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-presentation-consumer-analyst-11",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/01/25",
+        "data": [
+            {
+                "file_name": "colgate-announces-4th-quarter-2018-results",
+                "file_type": "html",
+                "date": "2019/01/25",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-4th-quarter-2018-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/01/11",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2018-fourth-quarter-year-end-earnings",
+                "file_type": "html",
+                "date": "2019/01/11",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2018-fourth-quarter-year-end-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2019",
+        "event_date": "2019/01/10",
+        "data": [
+            {
+                "file_name": "colgate-declares-regular-quarterly-dividend-14",
+                "file_type": "html",
+                "date": "2019/01/10",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-declares-regular-quarterly-dividend-14",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/11/12",
+        "data": [
+            {
+                "file_name": "colgate-totalr-joins-american-diabetes-associationr-and-award",
+                "file_type": "html",
+                "date": "2018/11/12",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-totalr-joins-american-diabetes-associationr-and-award",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/11/07",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global",
+                "file_type": "html",
+                "date": "2018/11/07",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-fireside-chat-morgan-stanley-global",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/11/01",
+        "data": [
+            {
+                "file_name": "colgate-save-water-message-hits-trail-mina-guli-ultra-runner",
+                "file_type": "html",
+                "date": "2018/11/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-save-water-message-hits-trail-mina-guli-ultra-runner",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/11/01",
+        "data": [
+            {
+                "file_name": "colgate-launches-uk-recycling-solution-oral-care-products-and",
+                "file_type": "html",
+                "date": "2018/11/01",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-launches-uk-recycling-solution-oral-care-products-and",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/10/26",
+        "data": [
+            {
+                "file_name": "colgate-announces-3rd-quarter-2018-results",
+                "file_type": "html",
+                "date": "2018/10/26",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-3rd-quarter-2018-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2018",
+        "event_date": "2018/10/15",
+        "data": [
+            {
+                "file_name": "colgate-palmolive-webcasts-2018-third-quarter-earnings",
+                "file_type": "html",
+                "date": "2018/10/15",
+                "category": "news",
+                "source_url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-palmolive-webcasts-2018-third-quarter-earnings",
+                "wissen_url": "NULL"
+            }
+        ]
     }
 ]

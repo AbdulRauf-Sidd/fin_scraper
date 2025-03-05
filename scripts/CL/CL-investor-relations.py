@@ -9,7 +9,7 @@ from utils import *
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
         await page.goto(url)
         await page.wait_for_selector("div.fusion-text")  # Ensure the div is loaded
