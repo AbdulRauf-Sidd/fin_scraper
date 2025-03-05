@@ -62,21 +62,29 @@ async def extract_files_from_page(page):
             # After navigation, gather the PDF links
             data_files = []
             for pdf_link in [event_url]:
+                category = classify_document(event_name, event_url) 
+
+                file_type = get_file_type(event_url)
+
+                file_name = extract_file_name(event_url)
                 
 
                 data_files.append({
-                    "file_name": event_url,
-                    "file_type": "pdf",
+                    "file_name": file_name,
+                    "file_type": file_type,
                     "date": event_date_parsed.strftime("%Y/%m/%d"),
-                    "category": "null",
+                    "category": category,
                     "source_url": event_url,
-                    "wissen_url": "unknown"
+                    "wissen_url": "NULL"
                 })
 
             
             freq = classify_frequency(event_name, event_url)
-            if freq == 'periodic':
-                types = classify_periodic_type(event_name, event_url)
+            if freq == "periodic":
+                event_type = classify_periodic_type(event_name, event_url)
+                event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+            else:
+                event_type = categorize_event(event_name)
 
             if data_files:
                 file_links_collected.append({
