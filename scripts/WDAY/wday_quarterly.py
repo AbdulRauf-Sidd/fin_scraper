@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -67,27 +67,12 @@ async def load_all_events(page):
     print("✅ All events are now loaded. Starting scraping...")
 
 
-
-async def parse_date3(date_str):
-    """Parses a date string like 'Tuesday, February 25, 2025' into 'YYYY/MM/DD' format."""
-    try:
-        parsed_date = parse(date_str, fuzzy=True)
-        return parsed_date  # Returns a datetime object
-    except Exception as e:
-        print(f"⚠️ Error parsing date: {date_str} -> {e}")
-        return None  # Return None if parsing fails
-
-import re
-from urllib.parse import urljoin
-
-import re
 from urllib.parse import urljoin
 
 async def extract_files_from_page(page):
     """Extracts Workday fiscal year events and associated file links."""
     global stop_scraping
     try:
-        # Select all fiscal year sections
         fiscal_categories = await page.query_selector_all(".wd_category")
 
         for fiscal_category in fiscal_categories:
@@ -96,7 +81,6 @@ async def extract_files_from_page(page):
                 header_element = await fiscal_category.query_selector(":scope .category_header")
                 fiscal_year_text = await header_element.inner_text() if header_element else "Unknown Fiscal Year"
                 
-                # Extract all quarters (items) within the fiscal category
                 quarter_items = await fiscal_category.query_selector_all(":scope .item")
 
                 for quarter_item in quarter_items:
@@ -107,8 +91,11 @@ async def extract_files_from_page(page):
 
                         # Extract Event Name
                         event_description = await quarter_item.inner_text()
-                        event_name = f"Workday {quarter_name} {fiscal_year_text} Earnings"
-                        event_name2 = format_quarter_string(None, event_name)
+                        event_name = f"{quarter_name} {fiscal_year_text}"
+
+                        # Extract Event Date
+                        event_date = fiscal_year_text.strip()
+                        formatted_event_name = utils.format_quarter_string(event_date, event_name)
 
                         # Extract Press Release URL
                         press_release_link = await quarter_item.query_selector(":scope a[href*='workday.com']")
@@ -120,8 +107,7 @@ async def extract_files_from_page(page):
                                 stop_scraping = True
                                 return None  # Stop pagination
                         except:
-                            print("error converting year")
-
+                            print("⚠️ Error converting year")
 
                         # Extract all related PDFs
                         data_files = []
@@ -132,27 +118,34 @@ async def extract_files_from_page(page):
                             file_name = await pdf_link.inner_text()
 
                             if file_url:
+                                # Extract File Type & Category
+                                file_type = utils.get_file_type(file_url)
+                                category = utils.classify_document(event_name, file_url)
+
                                 data_files.append({
-                                    "file_name": event_name,
-                                    "file_type": "pdf",
-                                    "date": "null",  # No specific date given per file, assuming fiscal year date
-                                    "category": "report",
+                                    "file_name": file_name.strip(),
+                                    "file_type": file_type,
+                                    "date": event_date,
+                                    "category": category,
                                     "source_url": file_url.strip(),
-                                    "wissen_url": "null"
+                                    "wissen_url": "NULL"
                                 })
 
-                        # Classify Event Type (Annual, Quarterly)
-                        freq = classify_frequency(event_name, "")
-                        event_type = classify_periodic_type(event_name, "")
+                        # 🔹 Classify Frequency & Event Type
+                        freq = utils.classify_frequency(event_name, SEC_FILINGS_URL)
+                        if freq == "periodic":
+                            event_type = utils.classify_periodic_type(event_name, SEC_FILINGS_URL)
+                        else:
+                            event_type = utils.categorize_event(event_name)
 
                         # Append structured event data
                         file_links_collected.append({
-                            "equity_ticker": "WDAY",  # Assuming Workday ticker
+                            "equity_ticker": EQUITY_TICKER,
                             "source_type": "company_information",
                             "frequency": freq,
                             "event_type": event_type,
-                            "event_name": event_name2,
-                            "event_date": "null",  # No specific date given in HTML
+                            "event_name": formatted_event_name,
+                            "event_date": event_date,
                             "data": data_files
                         })
 
@@ -166,7 +159,6 @@ async def extract_files_from_page(page):
 
     except Exception as e:
         print(f"⚠️ Error extracting files: {e}")
-
 
 
 async def find_next_page(page):
