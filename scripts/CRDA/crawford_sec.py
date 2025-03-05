@@ -3,6 +3,10 @@ import json
 import re
 from datetime import datetime
 from playwright.async_api import async_playwright
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+from utils import *
 
 # MIME Type to File Extension Mapping
 MIME_TYPE_MAPPING = {
