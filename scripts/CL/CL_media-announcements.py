@@ -6,12 +6,29 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "U
 
 from utils import *
 
+async def enable_stealth(page):
+    """Inject JavaScript to evade bot detection."""
+    await page.add_init_script("""
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        });
+    """)
+
+
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
-        page = await browser.new_page()
-        await page.goto(url,timeout= 100000)
+        context = await browser.new_context()
+        await context.set_extra_http_headers({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": base_url
+        })
+        page = await context.new_page()
+        await enable_stealth(page)
+        await page.goto(url, wait_until='load')
+        await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
         await page.wait_for_selector("table")  # Ensure the table is loaded
 
         data_collection = []
@@ -32,15 +49,15 @@ async def scrape_documents(url, filename):
                 freq = classify_frequency(title, href)
                 if freq == "periodic":
                     event_type = classify_periodic_type(title, href)
-                    event_name = format_quarter_string(date, event_name)
+                    title = format_quarter_string(date, title)
                 else:
-                    event_type = categorize_event(event_name)
+                    event_type = categorize_event(title)
                     event_name = title
 
-                category = classify_document(event_name, href) 
+                category = classify_document(title, href) 
                 file_type = get_file_type(href)
 
-                file_name = extract_file_name(href)
+                file_name = await extract_file_name(href)
                 
                 data_entry = {
                     "equity_ticker": "CL",
