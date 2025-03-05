@@ -1,0 +1,2282 @@
+[
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/03/05/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart leadership will participate in upcoming investor events.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2025/02/20",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-13-percent-to-0-94-per-share-marking-52nd-consecutive-year-of-dividen-increases",
+                "file_type": "html",
+                "date": "2025/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/20/walmart-raises-annual-dividend-13-percent-to-0-94-per-share-marking-52nd-consecutive-year-of-dividen-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The Board of Directors of Walmart Inc. (NYSE: WMT) approved an annual cash dividend for..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2025/02/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-fy25-earnings",
+                "file_type": "html",
+                "date": "2025/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/20/walmart-releases-q4-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q4 FY25 Earnings Release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2025",
+        "event_date": "2025/02/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2025",
+                "file_type": "html",
+                "date": "2025/02/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/13/walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2025",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart is hosting a live conference call Feb. 20 at 7 a.m. CST to discuss the company's fourth..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walton Enterprises, LLC Statement",
+        "event_date": "2024/12/19",
+        "data": [
+            {
+                "file_name": "walton-enterprises-llc-statement",
+                "file_type": "html",
+                "date": "2024/12/19",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2024/12/19/walton-enterprises-llc-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "As part of their commitment to Walmart\u2019s success, the Walton family believes responsible..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Walmart Completes Acquisition of VIZIO",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "walmart-completes-acquisition-of-vizio",
+                "file_type": "html",
+                "date": "2024/12/03",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/12/03/walmart-completes-acquisition-of-vizio",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The acquisition will introduce new customer entertainment experiences and accelerate..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/12/02",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/12/02",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/12/02/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart leadership will participate in upcoming investor events.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/11/19",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/11/19",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/11/19/walmart-releases-q3-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q3 FY25 Earnings Release.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
+        "event_date": "2024/11/12",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-19-2024",
+                "file_type": "html",
+                "date": "2024/11/12",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/11/12/walmart-to-host-third-quarter-earnings-conference-call-nov-19-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Inc. (NYSE: WMT) announced it will hold a live conference call Nov. 19 at 7 a.m. CST to..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/08/29",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/08/29",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/29/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 29, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/08/15",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/08/15",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/15/walmart-releases-q2-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q2 FY25 Earnings Release.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
+        "event_date": "2024/08/08",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-15-2024",
+                "file_type": "html",
+                "date": "2024/08/08",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/08/walmart-to-host-second-quarter-earnings-conference-call-aug-15-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 8, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/06/05",
+        "data": [
+            {
+                "file_name": "walmart-announces-2024-annual-shareholders-meeting-voting-results",
+                "file_type": "html",
+                "date": "2024/06/05",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/06/05/walmart-announces-2024-annual-shareholders-meeting-voting-results",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Announces 2024 Annual Shareholders\u2019 Meeting Voting Results."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/06/04",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/06/04",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/06/04/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., June 4, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/05/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/05/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/05/16/walmart-releases-q1-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q1 FY25 Earnings Release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
+        "event_date": "2024/05/09",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-may-16-2024",
+                "file_type": "html",
+                "date": "2024/05/09",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/05/09/walmart-to-host-first-quarter-earnings-conference-call-may-16-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 9, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/04/25",
+        "data": [
+            {
+                "file_name": "walmart-releases-2024-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2024/04/25",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 25, 2024 \u2014 Walmart Inc. (NYSE: WMT) issued its 2024 Annual Report and..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/04/11",
+        "data": [
+            {
+                "file_name": "walmart-announces-2024-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2024/04/11",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/04/11/walmart-announces-2024-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 11, 2024 \u2014 Walmart Inc. (NYSE: WMT) today announced that its Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/02/26",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/02/26",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/26/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 26, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Agrees To Acquire VIZIO HOLDING CORP. To Facilitate Accelerated Growth of Walmart Connect through VIZIO\u2019s SmartCast Operating System",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., and IRVINE, Calif., Feb. 20, 2024 \u2014 Today, Walmart and VIZIO announced..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-9-percent-to-83-per-share-the-largest-increase-in-over-10-years-marking-51st-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-raises-annual-dividend-9-percent-to-83-per-share-the-largest-increase-in-over-10-years-marking-51st-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The Board of Directors of Walmart Inc. (NYSE: WMT) approved an annual cash dividend for..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-releases-q4-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart's Q4 and FY24 Earnings release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
+        "event_date": "2024/02/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2024",
+                "file_type": "html",
+                "date": "2024/02/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/13/walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 13, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Walmart Announces 3-for-1 Stock Split",
+        "event_date": "2024/01/30",
+        "data": [
+            {
+                "file_name": "walmart-announces-3-for-1-stock-split",
+                "file_type": "html",
+                "date": "2024/01/30",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/01/30/walmart-announces-3-for-1-stock-split",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Jan. 30, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced that it will conduct a..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/11/22",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/11/22",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/22/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Nov. 22, 2023 \u2013 Walmart Inc. (NYSE: WMT) announced that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/11/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/11/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/16/walmart-releases-q3-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Strong revenue growth of 5.2% with strength across segments. eCommerce up 15% globally...."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
+        "event_date": "2023/11/09",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-16-2023",
+                "file_type": "html",
+                "date": "2023/11/09",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/09/walmart-to-host-third-quarter-earnings-conference-call-nov-16-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Nov. 9, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/08/23",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/08/23",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/23/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 23, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/08/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/17/walmart-releases-q2-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Strong revenue growth of 5.7%; operating income growing faster at 6.7%. eCommerce up 24%..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
+        "event_date": "2023/08/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-17-2023",
+                "file_type": "html",
+                "date": "2023/08/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/10/walmart-to-host-second-quarter-earnings-conference-call-aug-17-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 10, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/05/30",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/05/30",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/30/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 30, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Webcast Question-and-Answer Session With the Investment Community on June 2",
+        "event_date": "2023/05/26",
+        "data": [
+            {
+                "file_name": "walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-2",
+                "file_type": "html",
+                "date": "2023/05/26",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/26/walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-2",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 26, 2023 \u2014 Walmart Inc. (NYSE: WMT) will hold its Associate Celebration..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/05/18",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/05/18",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/18/walmart-releases-q1-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart revenue up 7.6%; operating income growing faster at 17.3%. eCommerce up 26%..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
+        "event_date": "2023/05/11",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-may-18-2023",
+                "file_type": "html",
+                "date": "2023/05/11",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/11/walmart-to-host-first-quarter-earnings-conference-call-may-18-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 11, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/04/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-2023-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2023/04/20",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 20, 2023 \u2014 Walmart Inc. (NYSE: WMT) today issued its 2023 Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "annual_general_meeting",
+        "event_name": "Walmart Outlines Growth Strategy, Unveils Next Generation Supply Chain at 2023 Investment Community Meeting",
+        "event_date": "2023/04/04",
+        "data": [
+            {
+                "file_name": "walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting",
+                "file_type": "html",
+                "date": "2023/04/04",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/04/04/walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "TAMPA, Fla., April 4, 2023\u202f\u2014 Walmart Inc. (NYSE: WMT) is kicking off its two-day 2023 Investment..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "annual_general_meeting",
+        "event_name": "Walmart to Host 2023 Investment Community Meeting",
+        "event_date": "2023/03/28",
+        "data": [
+            {
+                "file_name": "walmart-to-host-2023-investment-community-meeting",
+                "file_type": "html",
+                "date": "2023/03/28",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/03/28/walmart-to-host-2023-investment-community-meeting",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 28, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will host..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/03/17",
+        "data": [
+            {
+                "file_name": "walmart-announces-2023-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2023/03/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/03/17/walmart-announces-2023-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 17, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced that its Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart to Participate in Raymond James Institutional Investors Conference",
+        "event_date": "2023/02/28",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-raymond-james-institutional-investors-conference",
+                "file_type": "html",
+                "date": "2023/02/28",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/28/walmart-to-participate-in-raymond-james-institutional-investors-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Feb. 28, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today that John David..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/02/21",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-to-2-28-per-share-marking-50th-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2023/02/21",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/21/walmart-raises-annual-dividend-to-2-28-per-share-marking-50th-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 21, 2023 \u2014 The Board of Directors of Walmart Inc. (NYSE: WMT) approved..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/02/21",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy23-earnings",
+                "file_type": "html",
+                "date": "2023/02/21",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/21/walmart-releases-q4-and-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart revenue up 7.3% globally with broad-based strength across segments. Walmart U.S...."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
+        "event_date": "2023/02/14",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-21-2023",
+                "file_type": "html",
+                "date": "2023/02/14",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/14/walmart-to-host-fourth-quarter-earnings-conference-call-feb-21-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 14, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/11/15",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/11/15",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/11/15/walmart-releases-q3-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 8.2%, with unit growth in food, and eCommerce up 16%. Q3..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
+        "event_date": "2022/11/08",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-15-2022",
+                "file_type": "html",
+                "date": "2022/11/08",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/11/08/walmart-to-host-third-quarter-earnings-conference-call-nov-15-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Nov. 8, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Host Discussion on Responsible Sourcing",
+        "event_date": "2022/10/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-discussion-on-responsible-sourcing",
+                "file_type": "html",
+                "date": "2022/10/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/10/13/walmart-to-host-discussion-on-responsible-sourcing",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Oct. 13, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today that it will host a..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/08/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/08/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 6.5%, including mid-teens in food, and eCommerce up 12%. Q2..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
+        "event_date": "2022/08/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-16-2022",
+                "file_type": "html",
+                "date": "2022/08/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/08/09/walmart-to-host-second-quarter-earnings-conference-call-aug-16-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Aug. 9, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
+        "event_date": "2022/07/25",
+        "data": [
+            {
+                "file_name": "walmart-inc-provides-update-for-second-quarter-and-fiscal-year-2023",
+                "file_type": "html",
+                "date": "2022/07/25",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/07/25/walmart-inc-provides-update-for-second-quarter-and-fiscal-year-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. July 25, 2022 \u2014 Walmart Inc. (NYSE: WMT) provided a business update today..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Webcast Question-and-Answer Session with the Investment Community on June 3",
+        "event_date": "2022/05/31",
+        "data": [
+            {
+                "file_name": "walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-3",
+                "file_type": "html",
+                "date": "2022/05/31",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/31/walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-3",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. May 31, 2022 \u2014 Walmart Inc. (NYSE: WMT) will hold its Associate Celebration..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart To Participate in the Baird 2022 Global Consumer, Technology & Services Conference",
+        "event_date": "2022/05/31",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-the-baird-2022-global-consumer-technology-services-conference",
+                "file_type": "html",
+                "date": "2022/05/31",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/31/walmart-to-participate-in-the-baird-2022-global-consumer-technology-services-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 31, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today, Judith McKenna,..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/05/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/05/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/17/walmart-releases-q1-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 3.0% and gained market share in grocery. Q1 FY23 GAAP EPS of..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/05/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-on-may-17-2022",
+                "file_type": "html",
+                "date": "2022/05/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/10/walmart-to-host-first-quarter-earnings-conference-call-on-may-17-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. May 10, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/04/21",
+        "data": [
+            {
+                "file_name": "walmart-releases-2022-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2022/04/21",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2022/04/21/walmart-releases-2022-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 21, 2022 \u2014 Walmart Inc. (NYSE: WMT) today issued its 2022 Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "ABN Holdings, LLC, Statement",
+        "event_date": "2022/04/15",
+        "data": [
+            {
+                "file_name": "abn-holdings-llc-statement",
+                "file_type": "html",
+                "date": "2022/04/15",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2022/04/15/abn-holdings-llc-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "During an announcement on April 6 unveiling plans for Walmart\u2019s new Walton Family Whole..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Names John Rainey New Chief Financial Officer",
+        "event_date": "2022/04/12",
+        "data": [
+            {
+                "file_name": "walmart-names-john-rainey-new-chief-financial-officer",
+                "file_type": "html",
+                "date": "2022/04/12",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/04/12/walmart-names-john-rainey-new-chief-financial-officer",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 12, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today that John Rainey..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/03/29",
+        "data": [
+            {
+                "file_name": "walmart-announces-2022-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2022/03/29",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/03/29/walmart-announces-2022-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 29, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced that its..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart To Participate in Both the Bank of America Securities 2022 Consumer & Retail Technology Conference and the UBS Global Consumer & Retail Conference",
+        "event_date": "2022/03/02",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-both-the-bank-of-america-securities-2022-consumer-retail-technology-conference-and-the-ubs-global-consumer-retail-conference",
+                "file_type": "html",
+                "date": "2022/03/02",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/03/02/walmart-to-participate-in-both-the-bank-of-america-securities-2022-consumer-retail-technology-conference-and-the-ubs-global-consumer-retail-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Mar. 2, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today Brett Biggs,..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/17",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-to-2-24-per-share-marking-49th-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2022/02/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/17/walmart-raises-annual-dividend-to-2-24-per-share-marking-49th-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 17, 2022 \u2014 The board of directors of Walmart Inc. (NYSE: WMT) approved..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy22-earnings",
+                "file_type": "html",
+                "date": "2022/02/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/17/walmart-releases-q4-and-fy22-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Inc. net sales exceed $150 billion in Q4. Walmart U.S. net sales exceed $105 billion in Q4;..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
+        "event_date": "2022/02/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-on-feb-17-2022",
+                "file_type": "html",
+                "date": "2022/02/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/10/walmart-to-host-fourth-quarter-earnings-conference-call-on-feb-17-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 10, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/03/05/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart leadership will participate in upcoming investor events.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2025/02/20",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-13-percent-to-0-94-per-share-marking-52nd-consecutive-year-of-dividen-increases",
+                "file_type": "html",
+                "date": "2025/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/20/walmart-raises-annual-dividend-13-percent-to-0-94-per-share-marking-52nd-consecutive-year-of-dividen-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The Board of Directors of Walmart Inc. (NYSE: WMT) approved an annual cash dividend for..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2025/02/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-fy25-earnings",
+                "file_type": "html",
+                "date": "2025/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/20/walmart-releases-q4-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q4 FY25 Earnings Release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2025",
+        "event_date": "2025/02/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2025",
+                "file_type": "html",
+                "date": "2025/02/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2025/02/13/walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2025",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart is hosting a live conference call Feb. 20 at 7 a.m. CST to discuss the company's fourth..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walton Enterprises, LLC Statement",
+        "event_date": "2024/12/19",
+        "data": [
+            {
+                "file_name": "walton-enterprises-llc-statement",
+                "file_type": "html",
+                "date": "2024/12/19",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2024/12/19/walton-enterprises-llc-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "As part of their commitment to Walmart\u2019s success, the Walton family believes responsible..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Walmart Completes Acquisition of VIZIO",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "walmart-completes-acquisition-of-vizio",
+                "file_type": "html",
+                "date": "2024/12/03",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/12/03/walmart-completes-acquisition-of-vizio",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The acquisition will introduce new customer entertainment experiences and accelerate..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/12/02",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/12/02",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/12/02/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart leadership will participate in upcoming investor events.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/11/19",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/11/19",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/11/19/walmart-releases-q3-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q3 FY25 Earnings Release.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2024",
+        "event_date": "2024/11/12",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-19-2024",
+                "file_type": "html",
+                "date": "2024/11/12",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/11/12/walmart-to-host-third-quarter-earnings-conference-call-nov-19-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Inc. (NYSE: WMT) announced it will hold a live conference call Nov. 19 at 7 a.m. CST to..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/08/29",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/08/29",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/29/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 29, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/08/15",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/08/15",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/15/walmart-releases-q2-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q2 FY25 Earnings Release.."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2024",
+        "event_date": "2024/08/08",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-15-2024",
+                "file_type": "html",
+                "date": "2024/08/08",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/08/08/walmart-to-host-second-quarter-earnings-conference-call-aug-15-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 8, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/06/05",
+        "data": [
+            {
+                "file_name": "walmart-announces-2024-annual-shareholders-meeting-voting-results",
+                "file_type": "html",
+                "date": "2024/06/05",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/06/05/walmart-announces-2024-annual-shareholders-meeting-voting-results",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Announces 2024 Annual Shareholders\u2019 Meeting Voting Results."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/06/04",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/06/04",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/06/04/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., June 4, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/05/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-fy25-earnings",
+                "file_type": "html",
+                "date": "2024/05/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/05/16/walmart-releases-q1-fy25-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Q1 FY25 Earnings Release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2024",
+        "event_date": "2024/05/09",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-may-16-2024",
+                "file_type": "html",
+                "date": "2024/05/09",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/05/09/walmart-to-host-first-quarter-earnings-conference-call-may-16-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 9, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/04/25",
+        "data": [
+            {
+                "file_name": "walmart-releases-2024-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2024/04/25",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 25, 2024 \u2014 Walmart Inc. (NYSE: WMT) issued its 2024 Annual Report and..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/04/11",
+        "data": [
+            {
+                "file_name": "walmart-announces-2024-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2024/04/11",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/04/11/walmart-announces-2024-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 11, 2024 \u2014 Walmart Inc. (NYSE: WMT) today announced that its Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2024/02/26",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2024/02/26",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/26/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 26, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Agrees To Acquire VIZIO HOLDING CORP. To Facilitate Accelerated Growth of Walmart Connect through VIZIO\u2019s SmartCast Operating System",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-agrees-to-acquire-vizio-holding-corp-to-facilitate-accelerated-growth-of-walmart-connect-through-vizio-s-smartcast-operating-system",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., and IRVINE, Calif., Feb. 20, 2024 \u2014 Today, Walmart and VIZIO announced..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-9-percent-to-83-per-share-the-largest-increase-in-over-10-years-marking-51st-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-raises-annual-dividend-9-percent-to-83-per-share-the-largest-increase-in-over-10-years-marking-51st-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "The Board of Directors of Walmart Inc. (NYSE: WMT) approved an annual cash dividend for..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2024/02/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2024/02/20",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/20/walmart-releases-q4-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart's Q4 and FY24 Earnings release."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2024",
+        "event_date": "2024/02/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2024",
+                "file_type": "html",
+                "date": "2024/02/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/02/13/walmart-to-host-fourth-quarter-earnings-conference-call-feb-20-2024",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 13, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Walmart Announces 3-for-1 Stock Split",
+        "event_date": "2024/01/30",
+        "data": [
+            {
+                "file_name": "walmart-announces-3-for-1-stock-split",
+                "file_type": "html",
+                "date": "2024/01/30",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2024/01/30/walmart-announces-3-for-1-stock-split",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Jan. 30, 2024 \u2014 Walmart Inc. (NYSE: WMT) announced that it will conduct a..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/11/22",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/11/22",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/22/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Nov. 22, 2023 \u2013 Walmart Inc. (NYSE: WMT) announced that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/11/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/11/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/16/walmart-releases-q3-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Strong revenue growth of 5.2% with strength across segments. eCommerce up 15% globally...."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
+        "event_date": "2023/11/09",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-16-2023",
+                "file_type": "html",
+                "date": "2023/11/09",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/11/09/walmart-to-host-third-quarter-earnings-conference-call-nov-16-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Nov. 9, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/08/23",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/08/23",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/23/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 23, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today that company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/08/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/17/walmart-releases-q2-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Strong revenue growth of 5.7%; operating income growing faster at 6.7%. eCommerce up 24%..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
+        "event_date": "2023/08/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-17-2023",
+                "file_type": "html",
+                "date": "2023/08/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/08/10/walmart-to-host-second-quarter-earnings-conference-call-aug-17-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Aug. 10, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Leadership To Participate in Upcoming Investor Events",
+        "event_date": "2023/05/30",
+        "data": [
+            {
+                "file_name": "walmart-leadership-to-participate-in-upcoming-investor-events",
+                "file_type": "html",
+                "date": "2023/05/30",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/30/walmart-leadership-to-participate-in-upcoming-investor-events",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 30, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today company..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Webcast Question-and-Answer Session With the Investment Community on June 2",
+        "event_date": "2023/05/26",
+        "data": [
+            {
+                "file_name": "walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-2",
+                "file_type": "html",
+                "date": "2023/05/26",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/26/walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-2",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 26, 2023 \u2014 Walmart Inc. (NYSE: WMT) will hold its Associate Celebration..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/05/18",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-and-fy24-earnings",
+                "file_type": "html",
+                "date": "2023/05/18",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/18/walmart-releases-q1-and-fy24-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart revenue up 7.6%; operating income growing faster at 17.3%. eCommerce up 26%..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
+        "event_date": "2023/05/11",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-may-18-2023",
+                "file_type": "html",
+                "date": "2023/05/11",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/05/11/walmart-to-host-first-quarter-earnings-conference-call-may-18-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 11, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/04/20",
+        "data": [
+            {
+                "file_name": "walmart-releases-2023-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2023/04/20",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 20, 2023 \u2014 Walmart Inc. (NYSE: WMT) today issued its 2023 Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "annual_general_meeting",
+        "event_name": "Walmart Outlines Growth Strategy, Unveils Next Generation Supply Chain at 2023 Investment Community Meeting",
+        "event_date": "2023/04/04",
+        "data": [
+            {
+                "file_name": "walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting",
+                "file_type": "html",
+                "date": "2023/04/04",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/04/04/walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "TAMPA, Fla., April 4, 2023\u202f\u2014 Walmart Inc. (NYSE: WMT) is kicking off its two-day 2023 Investment..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "annual_general_meeting",
+        "event_name": "Walmart to Host 2023 Investment Community Meeting",
+        "event_date": "2023/03/28",
+        "data": [
+            {
+                "file_name": "walmart-to-host-2023-investment-community-meeting",
+                "file_type": "html",
+                "date": "2023/03/28",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/03/28/walmart-to-host-2023-investment-community-meeting",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 28, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will host..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/03/17",
+        "data": [
+            {
+                "file_name": "walmart-announces-2023-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2023/03/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/03/17/walmart-announces-2023-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 17, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced that its Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart to Participate in Raymond James Institutional Investors Conference",
+        "event_date": "2023/02/28",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-raymond-james-institutional-investors-conference",
+                "file_type": "html",
+                "date": "2023/02/28",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/28/walmart-to-participate-in-raymond-james-institutional-investors-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Feb. 28, 2023 \u2014 Walmart Inc. (NYSE: WMT) announced today that John David..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2023/02/21",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-to-2-28-per-share-marking-50th-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2023/02/21",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/21/walmart-raises-annual-dividend-to-2-28-per-share-marking-50th-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 21, 2023 \u2014 The Board of Directors of Walmart Inc. (NYSE: WMT) approved..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2023/02/21",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy23-earnings",
+                "file_type": "html",
+                "date": "2023/02/21",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/21/walmart-releases-q4-and-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart revenue up 7.3% globally with broad-based strength across segments. Walmart U.S...."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2023",
+        "event_date": "2023/02/14",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-feb-21-2023",
+                "file_type": "html",
+                "date": "2023/02/14",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2023/02/14/walmart-to-host-fourth-quarter-earnings-conference-call-feb-21-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 14, 2023 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/11/15",
+        "data": [
+            {
+                "file_name": "walmart-releases-q3-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/11/15",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/11/15/walmart-releases-q3-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 8.2%, with unit growth in food, and eCommerce up 16%. Q3..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
+        "event_date": "2022/11/08",
+        "data": [
+            {
+                "file_name": "walmart-to-host-third-quarter-earnings-conference-call-nov-15-2022",
+                "file_type": "html",
+                "date": "2022/11/08",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/11/08/walmart-to-host-third-quarter-earnings-conference-call-nov-15-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Nov. 8, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Host Discussion on Responsible Sourcing",
+        "event_date": "2022/10/13",
+        "data": [
+            {
+                "file_name": "walmart-to-host-discussion-on-responsible-sourcing",
+                "file_type": "html",
+                "date": "2022/10/13",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/10/13/walmart-to-host-discussion-on-responsible-sourcing",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Oct. 13, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today that it will host a..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/08/16",
+        "data": [
+            {
+                "file_name": "walmart-releases-q2-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/08/16",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 6.5%, including mid-teens in food, and eCommerce up 12%. Q2..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
+        "event_date": "2022/08/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-second-quarter-earnings-conference-call-aug-16-2022",
+                "file_type": "html",
+                "date": "2022/08/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/08/09/walmart-to-host-second-quarter-earnings-conference-call-aug-16-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. Aug. 9, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
+        "event_date": "2022/07/25",
+        "data": [
+            {
+                "file_name": "walmart-inc-provides-update-for-second-quarter-and-fiscal-year-2023",
+                "file_type": "html",
+                "date": "2022/07/25",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/07/25/walmart-inc-provides-update-for-second-quarter-and-fiscal-year-2023",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. July 25, 2022 \u2014 Walmart Inc. (NYSE: WMT) provided a business update today..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart To Webcast Question-and-Answer Session with the Investment Community on June 3",
+        "event_date": "2022/05/31",
+        "data": [
+            {
+                "file_name": "walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-3",
+                "file_type": "html",
+                "date": "2022/05/31",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/31/walmart-to-webcast-question-and-answer-session-with-the-investment-community-on-june-3",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. May 31, 2022 \u2014 Walmart Inc. (NYSE: WMT) will hold its Associate Celebration..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart To Participate in the Baird 2022 Global Consumer, Technology & Services Conference",
+        "event_date": "2022/05/31",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-the-baird-2022-global-consumer-technology-services-conference",
+                "file_type": "html",
+                "date": "2022/05/31",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/31/walmart-to-participate-in-the-baird-2022-global-consumer-technology-services-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., May 31, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today, Judith McKenna,..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/05/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q1-fy23-earnings",
+                "file_type": "html",
+                "date": "2022/05/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/17/walmart-releases-q1-fy23-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart U.S. comp sales1 grew 3.0% and gained market share in grocery. Q1 FY23 GAAP EPS of..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/05/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-first-quarter-earnings-conference-call-on-may-17-2022",
+                "file_type": "html",
+                "date": "2022/05/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/05/10/walmart-to-host-first-quarter-earnings-conference-call-on-may-17-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark. May 10, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/04/21",
+        "data": [
+            {
+                "file_name": "walmart-releases-2022-annual-report-and-proxy-statement",
+                "file_type": "html",
+                "date": "2022/04/21",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2022/04/21/walmart-releases-2022-annual-report-and-proxy-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 21, 2022 \u2014 Walmart Inc. (NYSE: WMT) today issued its 2022 Annual..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "ABN Holdings, LLC, Statement",
+        "event_date": "2022/04/15",
+        "data": [
+            {
+                "file_name": "abn-holdings-llc-statement",
+                "file_type": "html",
+                "date": "2022/04/15",
+                "category": "report",
+                "source_url": "https://corporate.walmart.com/news/2022/04/15/abn-holdings-llc-statement",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "During an announcement on April 6 unveiling plans for Walmart\u2019s new Walton Family Whole..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Walmart Names John Rainey New Chief Financial Officer",
+        "event_date": "2022/04/12",
+        "data": [
+            {
+                "file_name": "walmart-names-john-rainey-new-chief-financial-officer",
+                "file_type": "html",
+                "date": "2022/04/12",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/04/12/walmart-names-john-rainey-new-chief-financial-officer",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., April 12, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today that John Rainey..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/03/29",
+        "data": [
+            {
+                "file_name": "walmart-announces-2022-annual-shareholders-meeting-date",
+                "file_type": "html",
+                "date": "2022/03/29",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/03/29/walmart-announces-2022-annual-shareholders-meeting-date",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., March 29, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced that its..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Walmart To Participate in Both the Bank of America Securities 2022 Consumer & Retail Technology Conference and the UBS Global Consumer & Retail Conference",
+        "event_date": "2022/03/02",
+        "data": [
+            {
+                "file_name": "walmart-to-participate-in-both-the-bank-of-america-securities-2022-consumer-retail-technology-conference-and-the-ubs-global-consumer-retail-conference",
+                "file_type": "html",
+                "date": "2022/03/02",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/03/02/walmart-to-participate-in-both-the-bank-of-america-securities-2022-consumer-retail-technology-conference-and-the-ubs-global-consumer-retail-conference",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Mar. 2, 2022 \u2014 Walmart Inc. (NYSE: WMT) announced today Brett Biggs,..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/17",
+        "data": [
+            {
+                "file_name": "walmart-raises-annual-dividend-to-2-24-per-share-marking-49th-consecutive-year-of-dividend-increases",
+                "file_type": "html",
+                "date": "2022/02/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/17/walmart-raises-annual-dividend-to-2-24-per-share-marking-49th-consecutive-year-of-dividend-increases",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 17, 2022 \u2014 The board of directors of Walmart Inc. (NYSE: WMT) approved..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
+        "event_date": "2022/02/17",
+        "data": [
+            {
+                "file_name": "walmart-releases-q4-and-fy22-earnings",
+                "file_type": "html",
+                "date": "2022/02/17",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/17/walmart-releases-q4-and-fy22-earnings",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "Walmart Inc. net sales exceed $150 billion in Q4. Walmart U.S. net sales exceed $105 billion in Q4;..."
+    },
+    {
+        "equity_ticker": "WMT",
+        "source_type": "company_news",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
+        "event_date": "2022/02/10",
+        "data": [
+            {
+                "file_name": "walmart-to-host-fourth-quarter-earnings-conference-call-on-feb-17-2022",
+                "file_type": "html",
+                "date": "2022/02/10",
+                "category": "news",
+                "source_url": "https://corporate.walmart.com/news/2022/02/10/walmart-to-host-fourth-quarter-earnings-conference-call-on-feb-17-2022",
+                "wissen_url": "unknown"
+            }
+        ],
+        "additional_text": "BENTONVILLE, Ark., Feb. 10, 2022 \u2014 Walmart Inc. (NYSE: WMT) today announced it will hold a live..."
+    }
+]

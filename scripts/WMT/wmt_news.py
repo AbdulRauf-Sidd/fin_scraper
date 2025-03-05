@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -167,10 +167,21 @@ async def extract_files_from_page(page):
                         additional_text = await description_element.inner_text() if description_element else ""
 
                         # Classify event type
-                        freq = classify_frequency(event_name, event_url)
-                        event_type = "news"
+                        freq = utils.classify_frequency(event_name, event_url)
                         if freq == "periodic":
-                            event_type = classify_periodic_type(event_name, event_url)
+                            event_type = utils.classify_periodic_type(event_name, event_url)
+                            event_name = utils.format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                        else:
+                            event_type = utils.categorize_event(event_name)
+
+                        category = utils.classify_document(event_name, event_url) 
+                        file_type = utils.get_file_type(event_url)
+
+                        file_name = await utils.extract_file_name(event_url)
+
+                        category = utils.classify_document(event_name, event_url) 
+                        file_type = utils.get_file_type(event_url)
+
 
                         # Append structured event data
                         file_links_collected.append({
@@ -181,8 +192,8 @@ async def extract_files_from_page(page):
                             "event_name": event_name.strip(),
                             "event_date": formatted_date,
                             "data": [{
-                                "file_name": event_name,
-                                "file_type": "webpage",
+                                "file_name": file_name,
+                                "file_type": file_type,
                                 "date": formatted_date,
                                 "category": category,
                                 "source_url": event_url,
@@ -218,12 +229,12 @@ async def find_next_page(page):
                 next_button = await page.query_selector(".search-page-arrow.search-page-higher.js-load-more.active")
                 if not next_button:
                     print("✅ No more pages. Moving to the previous year.")
-                    return False  # No more pages
+                    return None  # No more pages
 
                 print("🔄 Moving to next page...")
                 await next_button.click()
                 await page.wait_for_load_state("domcontentloaded")
-                return True  # Indicates there are more pages
+                return await page.url()  # Return the updated page URL
 
             except Exception as e:
                 print(f"⚠️ Retrying page navigation due to error: {e}")
@@ -267,7 +278,7 @@ async def scrape_sec_filings():
             await asyncio.sleep(random.uniform(1, 3))  # Human-like delay
 
             next_page = await find_next_page(page)
-            if next_page and not stop_scraping:
+            if next_page and isinstance(next_page, str):  # Ensure next_page is a valid URL
                 current_url = next_page
             else:
                 break
