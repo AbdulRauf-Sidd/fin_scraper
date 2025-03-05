@@ -64,10 +64,10 @@ async def extract_files_from_page(page):
             data_files = []
             for pdf_link in [event_url]:
 
-                category = classify_document(event_name, pdf_link) 
-                file_type = get_file_type(pdf_link)
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
 
-                file_name = extract_file_name(pdf_link)
+                file_name = extract_file_name(event_url)
                 
 
                 data_files.append({
@@ -75,7 +75,7 @@ async def extract_files_from_page(page):
                     "file_type": file_type,
                     "date": event_date_parsed.strftime("%Y/%m/%d"),
                     "category": category,
-                    "source_url": pdf_link,
+                    "source_url": event_url,
                     "wissen_url": "NULL"
                 })
 
