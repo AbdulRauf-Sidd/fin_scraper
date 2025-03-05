@@ -566,5 +566,546 @@
                 "source_url": "https://investor.thecampbellscompany.com/static-files/9063eaf7-5179-4c29-a03c-a9b78eb0cfe6"
             }
         ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q2 Fiscal 2025 The Campbell\u2019s Company Earnings Conference Call",
+        "event_date": "2025/03/05",
+        "webcast_url": "https://edge.media-server.com/mmc/p/y7bp5f3p",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/ce57d35c-6636-4a91-90d2-ac243782e943"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/8308a045-2576-4789-a196-6cbde62bc1fa"
+            },
+            {
+                "file_name": "Prepared Remarks",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/d466b7ab-214b-404d-ac90-4efc2909d4a1"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Campbell at BofA Securities 2025 Consumer and Retail Conference",
+        "event_date": "2025/03/11",
+        "webcast_url": "https://bofa.veracast.com/webcasts/bofa/consumerretail2025/idf9E00K.cfm",
+        "support_materials": []
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Investor Day Fiscal 2022",
+        "event_date": "2021/12/14",
+        "webcast_url": "https://player.vimeo.com/video/656778223?h=1381c134d6",
+        "support_materials": [
+            {
+                "file_name": "Infographic",
+                "file_type": "html",
+                "date": "2021/12/14",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/6bd61381-99ff-4473-ad59-1a1b77728e83"
+            },
+            {
+                "file_name": "Presentations",
+                "file_type": "html",
+                "date": "2021/12/14",
+                "source_url": "https://investor.thecampbellscompany.com/fy22-investor-day-presentations"
+            },
+            {
+                "file_name": "Video Replays",
+                "file_type": "html",
+                "date": "2021/12/14",
+                "source_url": "https://investor.thecampbellscompany.com/fy22-investor-day-video-replays"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2021/12/14",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/b491e902-e5ce-4e77-8b8c-3954aac96d9b"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q1 2022 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2021/12/08",
+        "webcast_url": "https://event.on24.com/wcc/r/3406007/BFEC58072821F7347E8A8172A41C4856",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2021/12/08",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/e8ec4624-ba48-4c53-bf0d-161e168dba8f"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2021/12/08",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/07d221b8-244a-4291-aa28-8471e67a7985"
+            },
+            {
+                "file_name": "Fact Sheet",
+                "file_type": "html",
+                "date": "2021/12/08",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/577b06ad-9fca-4754-a15b-a0c3398b804c"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2021/12/08",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/1c2b7cda-b116-453e-a116-8d1ef88ee575"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q4 2021 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2021/09/01",
+        "webcast_url": "https://event.on24.com/wcc/r/3194326/4EB023954D9600AE9FCD8A46C50D67D7",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2021/09/01",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/aba135c2-105f-48cd-9c3c-f4e1185bd3c3"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2021/09/01",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/d49f0c00-6bcc-488b-88cc-3d2f02fecc81"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2021/09/01",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/8031bdcc-e9d1-4b3a-8cc1-00bd5e425aeb"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q3 2021 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2021/06/09",
+        "webcast_url": "https://event.on24.com/wcc/r/3124550/87696A3E43544B82D9F90BBAD20081AE",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2021/06/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/cf1d4681-0624-42b4-bbd9-8cae0b1b9b93"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2021/06/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/04136feb-f2f4-49c6-8df3-c3bcd67cfb4a"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2021/06/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/de662a8f-de6d-4906-a37d-cf6f4ee36a0c"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q2 2021 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2021/03/10",
+        "webcast_url": "https://edge.media-server.com/mmc/p/dmzamyr8",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2021/03/10",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/d946336a-8f6d-431e-a687-93c9d80c6d0a"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2021/03/10",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/216693c0-c6eb-4c1d-b495-9be88a8a16b0"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2021/03/10",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/e3fa2566-5ed8-4d02-beac-b6feb8c9240d"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q1 2021 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2020/12/09",
+        "webcast_url": "https://edge.media-server.com/mmc/p/vejzhp3q",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2020/12/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/c5bf85f2-0b9b-4df2-baff-b1c5daf5d361"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2020/12/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/7c0b5c47-eb2c-4f14-9d37-3162a37a2162"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/12/09",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/be9831af-65be-4023-96d8-c411905c184e"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q4 and Full-Year Fiscal 2020 Campbell Soup Company Earnings Q&A Session",
+        "event_date": "2020/09/03",
+        "webcast_url": "https://edge.media-server.com/mmc/p/n977bors",
+        "support_materials": [
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/09/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/bbcd7509-783b-4c1e-a6f3-3358f180a380"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q4 and Full-Year Fiscal 2020 Campbell Soup Company Earnings Presentation",
+        "event_date": "2020/09/03",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2020/09/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/c24b6ef8-2a60-47b3-b472-91a3e1c6b9c3"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2020/09/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/7299d7ca-f9d0-456f-ad5b-5153e8294e0e"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "CNBC Interview with Mark Clouse \u2013 June 15, 2020",
+        "event_date": "2020/06/15",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2020/06/15",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/eb09aee2-8831-49dd-b7b8-1db674fe299d"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/06/15",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/2cc1dc79-eeca-4b3e-a1c1-57edab2982b4"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q3 2020 Campbell Soup Company Earnings Q&A Session",
+        "event_date": "2020/06/03",
+        "webcast_url": "https://edge.media-server.com/mmc/p/cfvy5ewr",
+        "support_materials": [
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/06/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/c04ec01a-adb4-43e9-825e-7300ba9446d3"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q2 Fiscal 2025 The Campbell\u2019s Company Earnings Conference Call",
+        "event_date": "2025/03/05",
+        "webcast_url": "https://edge.media-server.com/mmc/p/y7bp5f3p",
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/ce57d35c-6636-4a91-90d2-ac243782e943"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/8308a045-2576-4789-a196-6cbde62bc1fa"
+            },
+            {
+                "file_name": "Prepared Remarks",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/d466b7ab-214b-404d-ac90-4efc2909d4a1"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Campbell at BofA Securities 2025 Consumer and Retail Conference",
+        "event_date": "2025/03/11",
+        "webcast_url": "https://bofa.veracast.com/webcasts/bofa/consumerretail2025/idf9E00K.cfm",
+        "support_materials": []
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q3 2020 Campbell Soup Company Earnings Presentation",
+        "event_date": "2020/06/03",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2020/06/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/eeb88eeb-a25e-4041-90ba-dd5a88e12665"
+            },
+            {
+                "file_name": "Press Release",
+                "file_type": "html",
+                "date": "2020/06/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/ce578110-af55-4908-87d8-366470857348"
+            },
+            {
+                "file_name": "Prepared Remarks",
+                "file_type": "html",
+                "date": "2020/06/03",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/ee5eb61b-d563-4dea-8dfb-0581f247151f"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Transcript - CNBC Interview with CEO Mark Clouse \u2013 April 29, 2020",
+        "event_date": "2020/04/29",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/04/29",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/6864d32f-5317-458b-88cc-96778481fe17"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Transcript - CNBC Interview with CEO Mark Clouse \u2013 March 24, 2020",
+        "event_date": "2020/03/24",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/03/24",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/4f75331c-d61d-42e9-b6b5-f2aeaf6ea5a5"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q2 2020 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2020/03/04",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2020/03/04",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/0713bac3-2a7d-4638-a319-73f85847fddd"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2020/03/04",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/8b91d9a4-01d5-4e1f-8836-d146cf2415aa"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q1 2020 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2019/12/04",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2019/12/04",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/72e6d486-259c-46f7-a560-f58cafab6b1c"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2019/12/04",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/cf378a52-e574-43c6-b5cb-e91f1ee22bca"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q4 Full-Year Fiscal 2019 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2019/08/30",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2019/08/30",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/db9145e2-1a74-4843-bb82-075e95e1d5cd"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2019/08/30",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/f0f5fd07-c7f7-4374-8716-85944c74ed04"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Campbell Institutional Investor Day 2019",
+        "event_date": "2019/06/13",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Infographic",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/e07c0d5a-0f98-4305-ac62-45f34e2adba9"
+            },
+            {
+                "file_name": "Agenda",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/53d4d732-5a10-4386-b39e-d7dd0605f9d9"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/f48d8503-2215-40b2-a299-038298e57f16"
+            },
+            {
+                "file_name": "Mark Clouse \u2013 CEO Overview",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/efb9aad3-b8b1-43c6-a2af-8ca695568092"
+            },
+            {
+                "file_name": "Carlos Abrams-Rivera \u2013 Campbell Snacks",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/93cda281-5fa2-45cc-a34a-3e0fd6c2bf44"
+            },
+            {
+                "file_name": "Mark Clouse \u2013 Meals & Beverages",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/40a877f6-1d04-4887-8bd2-1259ba4893da"
+            },
+            {
+                "file_name": "Craig Slavtcheff \u2013 R&D and Innovation",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/314a8522-dcf9-450c-b918-61d7a5aebbd6"
+            },
+            {
+                "file_name": "Anthony DiSilvestro \u2013 CFO Overview",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/f2b86425-0104-4fc8-b5f6-0ae3f771ae7e"
+            },
+            {
+                "file_name": "Investor Day Non-GAAP Reconciliations",
+                "file_type": "html",
+                "date": "2019/06/13",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/cb940422-a48e-4f09-928f-6207bf076ea2"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q3 2019 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2019/06/05",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2019/06/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/8f03bc41-aa54-4def-9b5b-5c417217cae8"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2019/06/05",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/834af23f-9f47-4f7a-85a1-f289291ddafe"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_events",
+        "event_name": "Q2 2019 Campbell Soup Company Earnings Conference Call",
+        "event_date": "2019/02/27",
+        "webcast_url": null,
+        "support_materials": [
+            {
+                "file_name": "Presentation",
+                "file_type": "html",
+                "date": "2019/02/27",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/7b5b40e0-e291-4a38-a3a9-59a0f2d28e3e"
+            },
+            {
+                "file_name": "Transcript",
+                "file_type": "html",
+                "date": "2019/02/27",
+                "source_url": "https://investor.thecampbellscompany.com/static-files/3ca5c87b-204c-442d-90b7-eb44862ea4ff"
+            }
+        ]
     }
 ]

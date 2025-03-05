@@ -9,9 +9,9 @@ from utils import *
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
-        await page.goto(url)
+        await page.goto(url,timeout= 100000)
         await page.wait_for_selector("table")  # Ensure the table is loaded
 
         data_collection = []
@@ -31,10 +31,11 @@ async def scrape_documents(url, filename):
 
                 freq = classify_frequency(title, href)
                 if freq == "periodic":
-                    event_type = classify_periodic_type(event_name, href)
+                    event_type = classify_periodic_type(title, href)
                     event_name = format_quarter_string(date, event_name)
                 else:
                     event_type = categorize_event(event_name)
+                    event_name = title
 
                 category = classify_document(event_name, href) 
                 file_type = get_file_type(href)
