@@ -7,7 +7,8 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
+
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
 # parser.add_argument("url", type=str, help="SEC Filings page URL")
@@ -62,6 +63,7 @@ async def extract_files_from_page(page):
                 # Extract document name
                 title_element = await document.query_selector("a .link-text")
                 document_name = await title_element.inner_text() if title_element else "Unknown Document"
+                document_name = document_name.strip()
 
                 # Extract document URL
                 document_link = await document.query_selector("a")
@@ -75,21 +77,38 @@ async def extract_files_from_page(page):
                     # Determine file type
                     file_type = "pdf" if file_url.endswith(".pdf") else "html"
 
+                    # Classify event type
+                    freq = utils.classify_frequency(document_name, file_url)
+                    
+                    # ✅ Ensure `event_name` is always initialized
+                    event_name = document_name  # Default to document name
+                    
+                    if freq == "periodic":
+                        event_type = utils.classify_periodic_type(document_name, file_url)
+                    else:
+                        event_type = utils.categorize_event(document_name)
+
+                    category = utils.classify_document(document_name, file_url)  
+                    file_type = utils.get_file_type(file_url)
+
+                    # ✅ Ensure `await` is used to resolve the coroutine
+                    file_name = await utils.extract_file_name(file_url)
+
                     # Append structured data
                     file_links_collected.append({
                         "equity_ticker": "WMT",  # Walmart
                         "source_type": "company_information",
-                        "frequency": "non-periodic",
-                        "event_type": "esg",
-                        "event_name": document_name.strip(),
-                        "event_date": "null",
+                        "frequency": freq,
+                        "event_type": event_type,
+                        "event_name": event_name,
+                        "event_date": "NULL",
                         "data": [{
-                            "file_name": file_url.split("/")[-1],
+                            "file_name": file_name,  # Fixed
                             "file_type": file_type,
                             "date": "null",
-                            "category": "governance",
+                            "category": category,
                             "source_url": file_url,
-                            "wissen_url": "null"
+                            "wissen_url": "NULL"
                         }]
                     })
 
@@ -100,6 +119,7 @@ async def extract_files_from_page(page):
 
     except Exception as e:
         print(f"⚠️ Error extracting governance documents: {e}")
+
 
 
 async def find_next_page(page):
@@ -141,7 +161,7 @@ async def scrape_sec_filings():
                 print(f"⚠️ Failed to load {current_url}: {e}")
                 break
 
-            await accept_cookies(page)
+            await utils.accept_cookies(page)
             await extract_files_from_page(page)
             await asyncio.sleep(random.uniform(1, 3))  # Human-like delay
 

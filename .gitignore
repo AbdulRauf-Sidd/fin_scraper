@@ -4,4 +4,4 @@
 /abc
 /.venv
 /CloudflareBypassForScraping
-scripts/UTILS/__pycache__
+scripts/UTILS/__pycache__/
