@@ -4,13 +4,21 @@ from datetime import datetime
 import json
 
 def classify_frequency(event_name, event_url):
+    print("event name: ", event_name)
+    print("URL: ", event_url)
     # Define a regex pattern that matches the keywords indicating a periodic event
-    periodic_keywords = r'\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|)\b'
+    periodic_keywords = r"\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear)\b"
     
+    matches = re.findall(periodic_keywords, event_name, re.IGNORECASE)
+    print(f"Matched keywords in '{event_name}': {matches}")
+
+
     # Check if the keywords are in the event name or file name
     if re.search(periodic_keywords, event_name, re.IGNORECASE) or re.search(periodic_keywords, event_url, re.IGNORECASE):
+        print("frequency:periodic")
         return "periodic"
     else:
+        print("frequency: non-periodic")
         return "non-periodic"   
 
 def classify_periodic_type(event_name, event_url):
