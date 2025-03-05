@@ -1,21 +1,14 @@
 import asyncio
 import random
 import json
-import argparse
-import traceback
-from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
-import re
-from utils import * 
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-# Argument Parsing
-# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
-# parser.add_argument("url", type=str, help="SEC Filings page URL")
-# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
-# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
+from utils import *
 
-# args = parser.parse_args()
 
 # Configurations
 SEC_FILINGS_URL = "https://investor.workday.com/press-releases"

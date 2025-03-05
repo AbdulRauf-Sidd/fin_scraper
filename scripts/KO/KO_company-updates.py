@@ -1,6 +1,10 @@
 import asyncio
 from playwright.async_api import async_playwright
-from common_utils import save_json, classify_frequency, ensure_absolute_url, KO_close_cookie_consent, extract_date_from_text, categorize_event 
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
+from utils import *
 
 async def scrape_documents(url, filename):
     base_url = "https://www.coca-colacompany.com"

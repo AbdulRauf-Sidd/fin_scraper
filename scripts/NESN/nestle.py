@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import re
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
 from utils import *
 
 def get_cloudflare_cookies(url):

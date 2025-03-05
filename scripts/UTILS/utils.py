@@ -80,9 +80,7 @@ def format_quarter_string(event_date, event_name):
         quarter_year_str = extract_quarter_from_name(event_name)
         if not quarter_year_str:
             # If no quarter info is found, try to extract just the year
-            year_match = re.search(r'(\b\d{4}\b)', event_name)
-            year = year_match.group(0) if year_match else "Unknown Year"
-            quarter_year_str = f"Year {year}"
+            return event_name
 
     return quarter_year_str
 
@@ -457,3 +455,81 @@ def save_json(data, filename):
             f.write(']')
         else:  # File does not exist, create new
             json.dump([data], f)  # Write data as a list of JSON objects
+
+
+def classify_document(event_name: str, url: str) -> str:
+    """
+    Classifies the document type based on the event name and URL.
+    
+    Possible categories:
+    - presentation
+    - report
+    - transcript
+    - financial statements
+    - news
+    - spreadsheet
+    - other
+    """
+
+    event_name = event_name.lower()
+    url = url.lower()
+
+    patterns = {
+        "presentation": [
+            r"presentation", r"slide\s*deck", r"slideshow", r"investor\s*day", r"earnings\s*deck"
+        ],
+        "report": [
+            r"annual\s*report", r"quarterly\s*report", r"10-?k", r"10-?q", r"financial\s*report",
+            r"earnings\s*report", r"sec\s*filing", r"disclosure", r"statement", r"report\b"
+        ],
+        "transcript": [
+            r"transcript", r"earnings\s*call", r"conference\s*call", r"call\s*notes"
+        ],
+        "financial statements": [
+            r"balance\s*sheet", r"cash\s*flow", r"income\s*statement", r"financial\s*statement",
+            r"statement\s*of\s*operations"
+        ],
+        "news": [
+            r"press\s*release", r"announcement", r"news", r"disclosure", r"media\s*statement"
+        ],
+        "spreadsheet": [
+            r"\.xlsx", r"\.xls", r"excel", r"spreadsheet", r"csv"
+        ]
+    }
+
+    for category, regex_list in patterns.items():
+        for pattern in regex_list:
+            if re.search(pattern, event_name) or re.search(pattern, url):
+                return category
+
+    return "other"
+
+
+def get_file_type(url: str) -> str:
+    """
+    Extracts the file type from a URL.
+    
+    Recognized types:
+    - pdf
+    - csv
+    - xlsx
+    - mp4
+    - etv
+    - html (default)
+    """
+
+    url = url.lower()
+
+    file_patterns = {
+        "pdf": r"\.pdf(\?|$)",
+        "csv": r"\.csv(\?|$)",
+        "xlsx": r"\.xlsx(\?|$)|\.xls(\?|$)",  # Covers .xls and .xlsx
+        "mp4": r"\.mp4(\?|$)",
+        "etv": r"\.etv(\?|$)"
+    }
+
+    for file_type, pattern in file_patterns.items():
+        if re.search(pattern, url):
+            return file_type
+
+    return "html"

@@ -1,13 +1,14 @@
 import asyncio
 import random
 import json
-import argparse
-import traceback
-from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
-import re
-from utils import * 
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
+from utils import *
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -164,10 +165,15 @@ async def extract_files_from_page(page):
 
                 # Classify event type
                 freq = classify_frequency(event_name, event_url)
-                event_type = "event"
                 if freq == "periodic":
                     event_type = classify_periodic_type(event_name, event_url)
+                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                else:
+                    event_type = categorize_event(event_name)
 
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
                 # Store structured event data
                 file_links_collected.append({
                     "equity_ticker": "CPB",  # Adjust the ticker if needed
@@ -178,11 +184,11 @@ async def extract_files_from_page(page):
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": [{
                         "file_name": event_name,
-                        "file_type": "webpage",
+                        "file_type": file_type,
                         "date": event_date_parsed.strftime("%Y/%m/%d"),
-                        "category": "financial report",
+                        "category": category,
                         "source_url": event_url,
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     }]
                 })
 

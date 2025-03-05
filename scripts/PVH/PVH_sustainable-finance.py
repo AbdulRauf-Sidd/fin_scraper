@@ -2,7 +2,11 @@ import asyncio
 from playwright.async_api import async_playwright
 import sys
 import os
-from common_utils import save_json, classify_frequency, extract_date_from_text, categorize_event
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
+from utils import *
 
 async def scrape_content_main(url, filename):
     base_url = "https://www.pvh.com"

@@ -1,10 +1,10 @@
 import asyncio
 import json
-import re
-import random
+
 from datetime import datetime
 from urllib.parse import urljoin
 from playwright.async_api import async_playwright
+
 
 # Configurations
 BASE_URL = "https://investor.pinterestinc.com/news-and-events/events-and-presentations/default.aspx"

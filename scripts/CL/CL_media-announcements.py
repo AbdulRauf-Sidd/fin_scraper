@@ -1,6 +1,10 @@
 import asyncio
 from playwright.async_api import async_playwright
-from common_utils import save_json, classify_frequency, ensure_absolute_url, extract_date_from_text, categorize_event
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
+from utils import *
 
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
@@ -21,22 +25,32 @@ async def scrape_documents(url, filename):
                 href = await link_element.get_attribute('href')
                 title = await title_element.text_content()
                 date = await extract_date_from_text(title)
-                eventType = categorize_event(title)
                 if href.startswith('/'):  # Handling relative URLs if found
                     href = base_url + href
                 absolute_url = ensure_absolute_url(base_url, href)
+
+                freq = classify_frequency(title, href)
+                if freq == "periodic":
+                    event_type = classify_periodic_type(event_name, href)
+                    event_name = format_quarter_string(date, event_name)
+                else:
+                    event_type = categorize_event(event_name)
+
+                category = classify_document(event_name, href) 
+                file_type = get_file_type(href)
+                
                 data_entry = {
                     "equity_ticker": "CL",
                     "source_type": "company_information",
-                    "frequency": classify_frequency(title, href),
-                    "event_type": eventType,
+                    "frequency": freq,
+                    "event_type": event_type,
                     "event_name": title.strip(),
                     "event_date": date,
                     "data": [{
                         "file_name": absolute_url.split('/')[-1],
-                        "file_type": absolute_url.split('.')[-1] if '.' in absolute_url else 'link',
+                        "file_type": file_type,
                         "date": date,
-                        "category": title.strip(),
+                        "category": category,
                         "source_url": absolute_url,
                         "wissen_url": "NULL"
                     }]

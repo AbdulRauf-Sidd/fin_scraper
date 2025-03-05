@@ -1,13 +1,13 @@
 import asyncio
 import random
 import json
-import argparse
-import traceback
-from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
-import re
-from utils import * 
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
+from utils import *
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
