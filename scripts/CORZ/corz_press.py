@@ -73,7 +73,7 @@ async def extract_files_from_page(page):
                     "wissen_url": "unknown"
                 })
 
-            types = 'expansion'
+            
             freq = classify_frequency(event_name, event_url)
             if freq == 'periodic':
                 types = classify_periodic_type(event_name, event_url)
