@@ -19,7 +19,7 @@ async def scrape_documents(url, filename):
         })
         page = await context.new_page()
         await enable_stealth(page)
-        await page.goto(url, wait_until='load')
+        await page.goto(url, wait_until='load', timeout=9000000)
         await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
         await page.wait_for_selector("table")  # Ensure the table is loaded
 

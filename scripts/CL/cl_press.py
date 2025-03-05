@@ -102,6 +102,10 @@ async def extract_files_from_page(page):
                 if event_url and not event_url.startswith("http"):
                     event_url = urljoin(SEC_FILINGS_URL, event_url)
 
+                if event_date_parsed.year < 2019:
+                    stop_scraping = True
+                    break
+
 
                 freq = classify_frequency(event_name, event_url)
                 if freq == "periodic":
@@ -170,11 +174,12 @@ async def scrape_sec_filings():
         await enable_stealth(page)
 
         current_url = SEC_FILINGS_URL
+        page_num = 0
         while current_url and current_url and not stop_scraping:
-            visited_urls.add(current_url)
+            visited_urls.add(current_url + "?page=" + str(page_num))
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url + "?page=" + str(page_num), wait_until="load", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")
@@ -183,12 +188,12 @@ async def scrape_sec_filings():
             await accept_cookies(page)
             await extract_files_from_page(page)
             await asyncio.sleep(random.uniform(1, 3))  # Human-like delay
-
-            next_page = await find_next_page(page)
-            if next_page and not stop_scraping:
-                current_url = next_page
-            else:
-                break
+            page_num += 1
+            # next_page = await find_next_page(page)
+            # if next_page and not stop_scraping:
+            #     current_url = next_page
+            # else:
+            #     break
 
         if file_links_collected:
             with open(JSON_FILENAME, "w", encoding="utf-8") as f:

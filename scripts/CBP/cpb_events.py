@@ -124,10 +124,10 @@ async def extract_events_from_page(page):
                     file_links_collected.append({
                         "equity_ticker": "CPB",
                         "source_type": "company_events",
+                        "frequency": "periodic",
                         "event_name": event_name.strip(),
                         "event_date": event_date_parsed.strftime("%Y/%m/%d"),
-                        "webcast_url": webcast_url,
-                        "support_materials": file_links
+                        "data": file_links
                     })
 
                     print(f"✅ Extracted: {event_name}, Date: {event_date_parsed.strftime('%Y/%m/%d')}")

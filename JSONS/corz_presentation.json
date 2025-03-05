@@ -4,7 +4,7 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Q1 2025",
+        "event_name": "Q4 2024",
         "event_date": "2025/02/26",
         "data": [
             {
@@ -40,7 +40,7 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "event_name": "Q3 2024",
         "event_date": "2024/11/06",
         "data": [
             {
@@ -58,7 +58,7 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "event_name": "Q2 2024",
         "event_date": "2024/08/07",
         "data": [
             {
@@ -148,7 +148,7 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "event_name": "Q1 2024",
         "event_date": "2024/05/08",
         "data": [
             {
@@ -166,7 +166,7 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "event_name": "Q4 2023",
         "event_date": "2024/03/12",
         "data": [
             {
