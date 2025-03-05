@@ -166,10 +166,10 @@ async def extract_files_from_page(page):
                 # Classify event type
                 freq = classify_frequency(event_name, event_url)
                 if freq == "periodic":
-                    event_type = classify_periodic_type(event_name, event_url)
-                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                    event_type = classify_euro_periodic_type(event_name, event_url)
+                    event_name = extract_euro_event_name(event_date_parsed)
                 else:
-                    event_type = categorize_event(event_name)
+                    event_type = categorize_event(event_date_parsed.strftime("%Y/%m/%d"), event_name)
 
 
                 category = classify_document(event_name, event_url) 
