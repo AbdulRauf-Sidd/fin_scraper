@@ -546,3 +546,11 @@ def ensure_absolute_url(base_url, url):
     else:
         # Combine the base URL with the relative URL to create an absolute URL
         return urljoin(base_url, url)
+    
+async def enable_stealth(page):
+    """Inject JavaScript to evade bot detection."""
+    await page.add_init_script("""
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        });
+    """)

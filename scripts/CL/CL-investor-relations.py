@@ -22,20 +22,20 @@ async def scrape_documents(url, filename):
             href = await link.get_attribute('href')
             text = await link.text_content()
             date = await extract_date_from_text(text)
-            eventType = categorize_event(text)    
             if href:
 
-                freq = classify_frequency(event_name, href)
+                freq = classify_frequency(text, href)
                 if freq == "periodic":
+                    event_name = format_quarter_string(date, text)
                     event_type = classify_periodic_type(event_name, href)
-                    event_name = format_quarter_string(date, event_name)
                 else:
                     event_type = categorize_event(event_name)
+                    event_name = text
 
                 category = classify_document(event_name, href) 
                 file_type = get_file_type(href)
 
-                file_name = extract_file_name(href)
+                file_name = await extract_file_name(href)
 
                 absolute_url = ensure_absolute_url(base_url, href)
                 data_entry = {
