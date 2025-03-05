@@ -7,7 +7,7 @@ async def scrape_file_links_and_data(url, filename):
     data_collection = []
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
         await page.goto(url)
 
@@ -47,7 +47,7 @@ async def scrape_file_links_and_data(url, filename):
 
 async def main():
     url = 'https://www.pvh.com/news?facets=content_type%3DEvents&nofilter=true'
-    filename = 'data.json'  # Change this as needed or make it configurable
+    filename = 'JSONS/pvh_events.json'  # Change this as needed or make it configurable
     await scrape_file_links_and_data(url, filename)
 
 asyncio.run(main())

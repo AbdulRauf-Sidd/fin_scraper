@@ -100,17 +100,14 @@ cpb_news:
 crda_esg:
 	python scripts/crda_esg.py
 
-# crda_news_NOTCOMPLETE:
-# 	python scripts/crda_news_NOTCOMPLETE.py
-
 crda_sec:
 	python scripts/crda_sec.py
 
 dsfir_news:
 	python scripts/dsfir_news.py
 
-dsm_press:
-	python scripts/dsm_press.py
+dsfir_press:
+	python scripts/dsfir_press.py
 
 givd_news:
 	python scripts/givd_news.py
@@ -175,4 +172,6 @@ merge_all:
 remove_duplicateLinks:
 	python scripts/remove_duplicateLinks.py
 
-all: ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom cl_press corz_finance corz_presentation corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dsm_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly merge_all remove_duplicateLinks
+all: ralph_lauren campbells mondelez walmart international_flavors iac core_scientific workday nvidia crawford pinterest CL_media-announcements CL_shareholder-pattern CL-investor-relations KO_company-updates KO_poclicies-practices-reports KO_press-release KO_sustainable-resource-center PVH_events PVH_news PVH_reports PVH_resources PVH_sustainable-finance RL_newsroom cl_press corz_finance corz_presentation corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dfirm_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly merge_all remove_duplicateLinks
+
+all2:  corz_press cpb_events cpb_news crda_esg crda_sec dsfir_news dsfir_press givd_news givd_sec iff_presentations iff_press nvda_news nvda_press pinterest_news sy1_events sy1_news sy1_sec unlv_presentations unlv_press wday_events wday_press wday_quaterly wmt_esg wmt_events wmt_news wmt_quaterly merge_all remove_duplicateLinks

@@ -76,7 +76,7 @@ async def scrape_ko_documents(url, filename):
 
 async def main():
     url = 'https://www.coca-colacompany.com/sustainability-resource-center#accordion-3b412a7c15-item-78a5345a7d'
-    filename = 'data.json'
+    filename = 'JSONS/ko_sustainable-resource-center.json'
     await scrape_ko_documents(url, filename)
 
 asyncio.run(main())

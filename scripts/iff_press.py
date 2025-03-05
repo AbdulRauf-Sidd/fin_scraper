@@ -10,17 +10,17 @@ import re
 from utils import * 
 
 # Argument Parsing
-parser = argparse.ArgumentParser(description="SEC Filings Scraper")
-parser.add_argument("url", type=str, help="SEC Filings page URL")
-parser.add_argument("ticker", type=str, help="Equity ticker symbol")
-parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
+# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
+# parser.add_argument("url", type=str, help="SEC Filings page URL")
+# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
+# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
 
-args = parser.parse_args()
+# args = parser.parse_args()
 
 # Configurations
-SEC_FILINGS_URL = args.url
-EQUITY_TICKER = args.ticker.upper()  # Convert to uppercase for standardization
-JSON_FILENAME = args.output
+SEC_FILINGS_URL = "https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base"
+EQUITY_TICKER = "IFF"  # Convert to uppercase for standardization
+JSON_FILENAME = "JSONS/iff_press.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages

@@ -10,17 +10,17 @@ import re
 from utils import * 
 
 # Argument Parsing
-parser = argparse.ArgumentParser(description="SEC Filings Scraper")
-parser.add_argument("url", type=str, help="SEC Filings page URL")
-parser.add_argument("ticker", type=str, help="Equity ticker symbol")
-parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
+# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
+# parser.add_argument("url", type=str, help="SEC Filings page URL")
+# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
+# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
 
-args = parser.parse_args()
+# args = parser.parse_args()
 
 # Configurations
-SEC_FILINGS_URL = args.url
-EQUITY_TICKER = args.ticker.upper()  # Convert to uppercase for standardization
-JSON_FILENAME = args.output
+SEC_FILINGS_URL = "https://our-company.dsm-firmenich.com/en/our-company/news.html"
+EQUITY_TICKER = "DSFIR"  # Convert to uppercase for standardization
+JSON_FILENAME = "JSONS/dsfir_news.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages
@@ -92,7 +92,7 @@ async def extract_files_from_page(page):
 
                 # Append structured event data
                 file_links_collected.append({
-                    "equity_ticker": "DSM",
+                    "equity_ticker": "DSFIR",
                     "source_type": "company_information",
                     "frequency": classify_frequency(event_name, event_url),
                     "event_type": classify_periodic_type(event_name, event_url),

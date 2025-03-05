@@ -57,7 +57,7 @@ async def scrape_documents(url, filename):
 
 async def main():
     url = 'https://corporate.ralphlauren.com/newsroom'
-    filename = 'data.json'
+    filename = 'JSONS/RL_newsroom.json'
     await scrape_documents(url, filename)
 
 if __name__ == "__main__":

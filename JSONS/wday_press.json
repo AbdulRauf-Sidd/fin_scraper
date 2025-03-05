@@ -1,0 +1,11 @@
+[
+    {
+        "equity_ticker": "WDAY",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "press release",
+        "event_name": "Talent Shortage Concerns Drive Shift to Skills-Based Strategies, Workday Research Finds",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": 

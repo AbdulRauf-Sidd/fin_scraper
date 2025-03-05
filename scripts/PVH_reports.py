@@ -50,7 +50,7 @@ async def scrape_investor_reports(url, filename):
 
 async def main():
     url = 'https://www.pvh.com/investor-relations/reports'
-    filename = 'data.json'  # Path to the output file
+    filename = 'JSONS/pvh_reports.json'  # Path to the output file
     await scrape_investor_reports(url, filename)
 
 asyncio.run(main())

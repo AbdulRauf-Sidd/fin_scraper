@@ -10,17 +10,17 @@ import re
 from utils import * 
 
 # Argument Parsing
-parser = argparse.ArgumentParser(description="SEC Filings Scraper")
-parser.add_argument("url", type=str, help="SEC Filings page URL")
-parser.add_argument("ticker", type=str, help="Equity ticker symbol")
-parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
+# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
+# parser.add_argument("url", type=str, help="SEC Filings page URL")
+# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
+# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
 
-args = parser.parse_args()
+# args = parser.parse_args()
 
 # Configurations
-SEC_FILINGS_URL = args.url
-EQUITY_TICKER = args.ticker.upper()  # Convert to uppercase for standardization
-JSON_FILENAME = args.output
+SEC_FILINGS_URL = "https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All"
+EQUITY_TICKER = "GIVD"  # Convert to uppercase for standardization
+JSON_FILENAME = "JSONS/givd_news.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages

@@ -47,7 +47,7 @@ async def scrape_documents(url, filename):
 
 async def main():
     url = 'https://colgate.com.pk/for-investors/investor-relations/'
-    filename = 'data.json'
+    filename = 'JSONS/cl_investor-relations.json'
     await scrape_documents(url, filename)
 
 if __name__ == "__main__":
