@@ -11,7 +11,8 @@ def classify_frequency(event_name, event_url):
     
     matches = re.findall(periodic_keywords, event_name, re.IGNORECASE)
     print(f"Matched keywords in '{event_name}': {matches}")
-
+    matches = re.findall(periodic_keywords, event_url, re.IGNORECASE)
+    print(f"Matched keywords in '{event_url}': {matches}")
 
     # Check if the keywords are in the event name or file name
     if re.search(periodic_keywords, event_name, re.IGNORECASE) or re.search(periodic_keywords, event_url, re.IGNORECASE):

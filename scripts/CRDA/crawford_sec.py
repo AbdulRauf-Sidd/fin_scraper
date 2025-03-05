@@ -158,7 +158,7 @@ async def scrape_pdfs(url, start_year, end_year):
                                 "date": event_date.strip(),
                                 "category": category,
                                 "source_url": doc_url,
-                                "wissen_url": f"https://ir.crawco.com/{file_name}"
+                                "wissen_url": "NULL"
                             })
 
                     # ✅ Append event_data instead of separate entries
@@ -194,9 +194,9 @@ async def scrape_pdfs(url, start_year, end_year):
 
     if pdf_data:
         print(f"✅ Total events found: {len(pdf_data)}")
-        with open("JSONS/crawford.json", "w") as f:
+        with open("JSONS/CRDA_sec.json", "w") as f:
             json.dump(pdf_data, f, indent=4)
-            print("\n🎯 Data saved to `JSONS/crawford.json`")
+            print("\n🎯 Data saved to `JSONS/CRDA_sec.json`")
     else:
         print("❌ No documents found.")
 
