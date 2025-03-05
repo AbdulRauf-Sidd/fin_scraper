@@ -119,7 +119,7 @@ async def extract_files_from_page(page):
                     freq = classify_frequency(event_name, file_links[0]["source_url"])
                     event_type = "event"
                     if freq == "periodic":
-                        event_type = classify_euro_periodic_type(event_name, file_links[0]["source_url"])
+                        event_type = classify_periodic_type(event_name, file_links[0]["source_url"])
 
                     event_name2 = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
 
