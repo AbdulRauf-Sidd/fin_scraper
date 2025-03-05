@@ -150,9 +150,15 @@ async def extract_files_from_page(page):
 
                 # Classify frequency and type
                 freq = classify_frequency(event_name, event_url)
-                event_type = "expansion"
                 if freq == "periodic":
                     event_type = classify_periodic_type(event_name, event_url)
+                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                else:
+                    event_type = categorize_event(event_name)
+
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
 
                 # Append structured event data
                 file_links_collected.append({
@@ -164,11 +170,11 @@ async def extract_files_from_page(page):
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": [{
                         "file_name": event_name,
-                        "file_type": "webpage",
+                        "file_type": file_type,
                         "date": event_date_parsed.strftime("%Y/%m/%d"),
-                        "category": ", ".join(categories),
+                        "category": category,
                         "source_url": event_url,
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     }],
                     "additional_text": additional_text.strip()
                 })

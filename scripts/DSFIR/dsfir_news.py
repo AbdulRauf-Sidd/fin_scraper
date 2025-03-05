@@ -81,14 +81,16 @@ async def extract_files_from_page(page):
                         if not file_url.startswith("http"):
                             file_url = urljoin(SEC_FILINGS_URL, file_url)
                         file_type = "pdf" if file_url.endswith(".pdf") else "video" if "video" in file_url else "html"
+                        category = classify_document(event_name, event_url) 
+                        file_type = get_file_type(event_url)
 
                         file_links.append({
                             "file_name": file_url.split("/")[-1],
                             "file_type": file_type,
-                            "date": "null",
-                            "category": "financial report",
+                            "date": "NULL",
+                            "category": category,
                             "source_url": file_url,
-                            "wissen_url": "unknown"
+                            "wissen_url": "NULL"
                         })
 
                 # Append structured event data
@@ -98,7 +100,7 @@ async def extract_files_from_page(page):
                     "frequency": classify_frequency(event_name, event_url),
                     "event_type": classify_periodic_type(event_name, event_url),
                     "event_name": event_name.strip(),
-                    "event_date": "null",
+                    "event_date": "NULL",
                     "data": file_links
                 })
 

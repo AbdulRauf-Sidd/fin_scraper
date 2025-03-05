@@ -108,7 +108,7 @@ async def extract_files_from_page(page):
                                 "date": event_date_parsed.strftime("%Y/%m/%d"),
                                 "category": col_name,
                                 "source_url": file_url,
-                                "wissen_url": "unknown"
+                                "wissen_url": "NULL"
                             })
 
                     # Skip events with no valid files
@@ -125,7 +125,7 @@ async def extract_files_from_page(page):
 
                     # Append structured event data
                     file_links_collected.append({
-                        "equity_ticker": "CRODA",
+                        "equity_ticker": "CRDA",
                         "source_type": "company_information",
                         "frequency": freq,
                         "event_type": event_type,

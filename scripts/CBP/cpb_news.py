@@ -175,6 +175,18 @@ async def extract_files_from_page(page):
                 category = classify_document(event_name, event_url) 
                 file_type = get_file_type(event_url)
 
+                file_name = extract_file_name(event_url)
+
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
+
+                file_name = extract_file_name(event_url)
+
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
+
                 file_name = await extract_file_name(event_url)
                 # Store structured event data
                 file_links_collected.append({
