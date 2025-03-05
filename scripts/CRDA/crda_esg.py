@@ -9,14 +9,6 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "U
 
 from utils import *
 
-# Argument Parsing
-# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
-# parser.add_argument("url", type=str, help="SEC Filings page URL")
-# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
-# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
-
-# args = parser.parse_args()
-
 # Configurations
 SEC_FILINGS_URL = "https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg"
 EQUITY_TICKER = "CRDA"  # Convert to uppercase for standardization
@@ -29,7 +21,6 @@ file_links_collected = []
 stop_scraping = False
 
 
-
 async def enable_stealth(page):
     """Inject JavaScript to evade bot detection."""
     await page.add_init_script("""
@@ -38,12 +29,6 @@ async def enable_stealth(page):
         });
     """)
 
-
-
-
-import re
-from urllib.parse import urljoin
-from datetime import datetime
 
 async def extract_files_from_page(page):
     """Extracts investor seminar events from the Croda page."""
@@ -66,6 +51,8 @@ async def extract_files_from_page(page):
 
                 # Extract event date and description
                 date_text_element = await seminar_card.query_selector("div.card-text")
+                date = date_text_element.inner_text()
+                event_date_parsed = await parse_date3(date)
                 
 
                 
@@ -79,25 +66,33 @@ async def extract_files_from_page(page):
 
                 # Classify event type
                 freq = classify_frequency(event_name, event_url)
-                event_type = "event"
                 if freq == "periodic":
-                    event_type = classify_euro_periodic_type(event_name, event_url)
+                    event_type = classify_periodic_type(event_name, event_url)
+                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                else:
+                    event_type = categorize_event(event_name)
+
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
+
+                file_name = extract_file_name(event_url)
 
                 # Append structured event data
                 file_links_collected.append({
                     "equity_ticker": "CRODA",
                     "source_type": "company_information",
-                    "frequency": 'non-periodic',
+                    "frequency": freq,
                     "event_type": 'esg',
                     "event_name": event_name.strip(),
-                    "event_date": 'null',
+                    "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": [{
-                        "file_name": "Investor Seminar Details",
-                        "file_type": "html",
-                        "date": 'null',
-                        "category": "html",
+                        "file_name": event_name,
+                        "file_type": file_type,
+                        "date": event_date_parsed.strftime("%Y/%m/%d"),
+                        "category": category,
                         "source_url": event_url,
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     }]
                 })
 
