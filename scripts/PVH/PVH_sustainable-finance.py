@@ -6,7 +6,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 async def scrape_content_main(url, filename):
     base_url = "https://www.pvh.com"
