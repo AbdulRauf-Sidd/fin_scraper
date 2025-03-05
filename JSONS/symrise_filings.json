@@ -1,771 +1,1209 @@
 [
     {
-        "year": "2025",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2025/01/30",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "250130-Symrise-PR-preliminary-financial-results-FY2024.pdf",
-                "file_type": "pdf (195 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NjgsImV4cCI6MTc0MTA0OTg2OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLVBSLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1yZXN1bHRzLUZZMjAyNC5wZGYiLCJwYWdlIjoxfQ.-Dyl3BlBHDbj7GOL6_wjieVFEIBaH0YHVTypHRne_gE/250130-Symrise-PR-preliminary-financial-results-FY2024.pdf"
+                "file_type": "pdf",
+                "date": "2025/01/30",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjQsImV4cCI6MTc0MTE4MTk2NCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLVBSLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1yZXN1bHRzLUZZMjAyNC5wZGYiLCJwYWdlIjoxfQ.iHt6l96vFGR4csSWpZM7_cqCRrFUfTKdNhax_Hr2MyM/250130-Symrise-PR-preliminary-financial-results-FY2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NjgsImV4cCI6MTc0MTA0OTg2OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLWFuYWx5c3QtYW5kLWludmVzdG9yLXByZXNlbnRhdGlvbi1GWTIwMjQucGRmIiwicGFnZSI6MX0.C-53PZKFmWh_Hq9OoncONaoxibXfzK35yUIe4fsF6bo/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf"
+                "file_type": "pdf",
+                "date": "2025/01/30",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjQsImV4cCI6MTc0MTE4MTk2NCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLWFuYWx5c3QtYW5kLWludmVzdG9yLXByZXNlbnRhdGlvbi1GWTIwMjQucGRmIiwicGFnZSI6MX0.Y09Qh-3YroIeT_ISdP8gu_5vMybmpY1cN6XfzM1u98Y/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "250130-Symrise-Pressepraesentation-GJ2024.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NjgsImV4cCI6MTc0MTA0OTg2OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tR0oyMDI0LnBkZiIsInBhZ2UiOjF9.pMfJ0goxh45vk4pLP6BmT5rIZ2gIO8DVdf_DBm_CU3g/250130-Symrise-Pressepraesentation-GJ2024.pdf"
+                "file_type": "pdf",
+                "date": "2025/01/30",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjQsImV4cCI6MTc0MTE4MTk2NCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tR0oyMDI0LnBkZiIsInBhZ2UiOjF9.upH0r4J_nCdD2h_bOrKVgBdgoHJJ3HWl8zOvfEOg9Gs/250130-Symrise-Pressepraesentation-GJ2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "250130-Symrise-preliminary-financial-information-FY2024.pdf",
-                "file_type": "pdf (262 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NjgsImV4cCI6MTc0MTA0OTg2OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1GWTIwMjQucGRmIiwicGFnZSI6MX0.yDhQcUeXAOgglNt5NBdZJ-wC3o5U-cas3aEZoa33ZSc/250130-Symrise-preliminary-financial-information-FY2024.pdf"
+                "file_type": "pdf",
+                "date": "2025/01/30",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjQsImV4cCI6MTc0MTE4MTk2NCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1GWTIwMjQucGRmIiwicGFnZSI6MX0.sHNeiHEhmjmwObrezGDcQOp6KXspfzRFEyxUJuQdzxA/250130-Symrise-preliminary-financial-information-FY2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "250130-Symrise-preliminary-financial-information-Q42024.pdf",
-                "file_type": "pdf (248 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NjgsImV4cCI6MTc0MTA0OTg2OCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RNDIwMjQucGRmIiwicGFnZSI6MX0.rKyHOMKzqrBRA-1ZruI-sKD98ExAKIkxK1ox1iuQ09I/250130-Symrise-preliminary-financial-information-Q42024.pdf"
+                "file_type": "pdf",
+                "date": "2025/01/30",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjQsImV4cCI6MTc0MTE4MTk2NCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RNDIwMjQucGRmIiwicGFnZSI6MX0.DaS9gyax4gB_HfQ7CjAjlFEm__PB_vHyGXuRucFVTUo/250130-Symrise-preliminary-financial-information-Q42024.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2024",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2024/10/24",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
-                "file_type": "pdf (539 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyNC5wZGYiLCJwYWdlIjoxfQ.fRU0rKNy_AUs3pT_FUZ_ArKewi-eiT_I9plDod48sf4/241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/10/24",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyNC5wZGYiLCJwYWdlIjoxfQ.W1EVoQlwjsqLIhNOVQ9RvqyKkJmcwEiF0uwZ7hSL6AU/241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "241024_Symrise-Financial-Information-9M-2024.pdf",
-                "file_type": "pdf (248 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDI0LnBkZiIsInBhZ2UiOjF9.wrH6VJdsZfkRL62A86LP1zbaGJj34NrF-CSj6W88bP0/241024_Symrise-Financial-Information-9M-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/10/24",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDI0LnBkZiIsInBhZ2UiOjF9.3KAt86z4hiw16u3iZgi8rv9K_aZqa1OTIPRscbxfM0Q/241024_Symrise-Financial-Information-9M-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "241024_Symrise-Financial-Information-Q3-2024.pdf",
-                "file_type": "pdf (249 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDI0LnBkZiIsInBhZ2UiOjF9.mk3oHCtk7T6_VMin8jZ7pkuK7z9waxhoeQT5b95dOb0/241024_Symrise-Financial-Information-Q3-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/10/24",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDI0LnBkZiIsInBhZ2UiOjF9.D5nJeNIPjjQfBSj3ImPXyiEyS8o5YCuw7ePxlbD0d9A/241024_Symrise-Financial-Information-Q3-2024.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2024",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2024/08/01",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "240801-Symrise-interim-group-report-January-July-2024.pdf",
-                "file_type": "pdf (553 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVseS0yMDI0LnBkZiIsInBhZ2UiOjF9.UxybBaeZsjSFVcCBDpHBj2ZQrYHPNnbGzmZWl9OTJxE/240801-Symrise-interim-group-report-January-July-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVseS0yMDI0LnBkZiIsInBhZ2UiOjF9.oeTgYK0i-7rXsW4_Gkj4PcX8SEwTeERb0JJRTLThYuc/240801-Symrise-interim-group-report-January-July-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-press-release-H1-2024.pdf",
-                "file_type": "pdf (870 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.jjFcd9yr7WVYbCTwKyEs13VPc0rfK26O-saNVI9oBmE/240801-Symrise-press-release-H1-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.2-NW5RCklSID9AdPYSUS3Ugi9nCtn-H4RX9jNVH3MnM/240801-Symrise-press-release-H1-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-analyst-presentation-H1-2024.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjQucGRmIiwicGFnZSI6MX0.av9gGLTaifldr_HdP3EpEVzcPqSA2RMjHsEoEYENapE/240801-Symrise-analyst-presentation-H1-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjQucGRmIiwicGFnZSI6MX0.dFCGnZ2TQGSA5YuIxI2jVeIHQPug20CBIFMV4yJCF6E/240801-Symrise-analyst-presentation-H1-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-Pressepraesentation-H1-2024.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.diMgOTl6K6D3gIb22yOdPP4DhyLotZTKs--sOs56sCg/240801-Symrise-Pressepraesentation-H1-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.ZT-ctGW92uKn_6GwsrvqBv6l0Vrf7YoX2hamehWqtoI/240801-Symrise-Pressepraesentation-H1-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-financial-information-H1-2024.pdf",
-                "file_type": "pdf (55 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDI0LnBkZiIsInBhZ2UiOjF9.ErdYuorP4pinLfNNXE2mKjPyLHlNbeTFumBJV-csR2Q/240801-Symrise-financial-information-H1-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDI0LnBkZiIsInBhZ2UiOjF9.iWn35wE3saT7OYcmniPM4u09VUxre0g2IOOw3Xp54ao/240801-Symrise-financial-information-H1-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-Financial-Information-Q1-2024.pdf",
-                "file_type": "pdf (143 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDI0LnBkZiIsInBhZ2UiOjF9.3WpVPSQvMY9Yd5KFoT71f_mMxMyLtlOFen0O6xeTheg/240801-Symrise-Financial-Information-Q1-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDI0LnBkZiIsInBhZ2UiOjF9.y4ov-wuiR0qrDzcGP2d3qrLK1bF4ZLePJ8yMMmzB_M8/240801-Symrise-Financial-Information-Q1-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240801-Symrise-financial-information-Q2-2024.pdf",
-                "file_type": "pdf (249 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDI0LnBkZiIsInBhZ2UiOjF9.ioNDeObAzIPs3SMZAUndKubbfrSZYaIqY5fs9y0ZrUc/240801-Symrise-financial-information-Q2-2024.pdf"
+                "file_type": "pdf",
+                "date": "2024/08/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDI0LnBkZiIsInBhZ2UiOjF9.4wxskhRN4tjt4SsvU7CcqERXqErCeOEBg6RW-YI8mgA/240801-Symrise-financial-information-Q2-2024.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "index.de.html",
-                "file_type": "html",
-                "source_url": "https://symrise-video.evisco.live/bpk-h1-2024/index.de.html"
+                "file_type": "unknown",
+                "date": "2024/08/01",
+                "category": "other",
+                "source_url": "https://symrise-video.evisco.live/bpk-h1-2024/index.de.html",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "index.en.html _blank",
-                "file_type": "html",
-                "source_url": "https://symrise-video.evisco.live/aik-h1-2024/index.en.html _blank"
+                "file_type": "unknown",
+                "date": "2024/08/01",
+                "category": "other",
+                "source_url": "https://symrise-video.evisco.live/aik-h1-2024/index.en.html _blank",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2024",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2024/03/06",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "240306-Symrise-Financial-Report-2023.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.sP_L4KY6sebSZ5vhj_pIlHpBQQU2nfDwmZaMEOZTPlM/240306-Symrise-Financial-Report-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.HEamzwwSno-_KYtwkpPRd7mtlzmONdTkJ_JjbRp5uNI/240306-Symrise-Financial-Report-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Press-Release-Financial-Results-2023.pdf",
-                "file_type": "pdf (476 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzLVJlbGVhc2UtRmluYW5jaWFsLVJlc3VsdHMtMjAyMy5wZGYiLCJwYWdlIjoxfQ.iIpcQxAwXTdkMNC0nR7BHICzeHyU5O7wHqXIchgciVU/240306-Symrise-Press-Release-Financial-Results-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzLVJlbGVhc2UtRmluYW5jaWFsLVJlc3VsdHMtMjAyMy5wZGYiLCJwYWdlIjoxfQ.ZbYGMRN_0LkLc1OGpWO01aClRv4syoqAz2qiIVEEb5c/240306-Symrise-Press-Release-Financial-Results-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLUZpbmFuY2lhbC1SZXN1bHRzLTIwMjMucGRmIiwicGFnZSI6MX0.OWED59GoWhsDtowzyI_gJh0RXjfX58gigheBHPuTvi8/240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLUZpbmFuY2lhbC1SZXN1bHRzLTIwMjMucGRmIiwicGFnZSI6MX0.VpuEF65kfWSnF3p8U2r5pya2Q4DC3IujpEfUI-RQrgA/240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Pressepraesentation-Finanzergebnisse-2023.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRmluYW56ZXJnZWJuaXNzZS0yMDIzLnBkZiIsInBhZ2UiOjF9.znqD9fPZAteyYz7B-Cn9hqQwOioHRX6pNywbeSMdYFc/240306-Symrise-Pressepraesentation-Finanzergebnisse-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRmluYW56ZXJnZWJuaXNzZS0yMDIzLnBkZiIsInBhZ2UiOjF9.KJqGI9xxgHayEmWmEEfKf2a-GyXDiEUybsyqtQ-rdZc/240306-Symrise-Pressepraesentation-Finanzergebnisse-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Financial-Information-FY-2023.pdf",
-                "file_type": "pdf (42 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIzLnBkZiIsInBhZ2UiOjF9.Td1nhgWB_mGPPtA6EbNHlayvlJDsjftTYYbf8ksiHzI/240306-Symrise-Financial-Information-FY-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIzLnBkZiIsInBhZ2UiOjF9.KhsDFxryLtzfhoPo0vj0sI7-Mtg08ee43LspHU4TMgA/240306-Symrise-Financial-Information-FY-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Financial-Information-Q4-2023.pdf",
-                "file_type": "pdf (31 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIzLnBkZiIsInBhZ2UiOjF9.glqvL2-uo87BdEI-eH-c_iYAPe3gFAm4nWDlv9_YbnE/240306-Symrise-Financial-Information-Q4-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIzLnBkZiIsInBhZ2UiOjF9.8oDW7Cm98veo7W1D0S5KE7YhAGVbsiokh95FMJetCiY/240306-Symrise-Financial-Information-Q4-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Jahresabschluss-2023-HGB.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIzLUhHQi5wZGYiLCJwYWdlIjoxfQ.XPtbTuEp9rIFYC1h1BtoAtgARvbY05dokBh2cTRDlzE/240306-Symrise-Jahresabschluss-2023-HGB.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIzLUhHQi5wZGYiLCJwYWdlIjoxfQ.pMQBbTBM73cMPig8lab_duDN4cAqeC8iYlGCRSRltIM/240306-Symrise-Jahresabschluss-2023-HGB.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Corporate-Report-2023.pdf",
-                "file_type": "pdf (11 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.iNSIoA2rhpzZJwP-Fg4_DESMJhGfBfPedu8mRLmXXmc/240306-Symrise-Corporate-Report-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.TCt6yeWPXoZrrcuOF8-u99RpuN07VEaxGIxEv9f9B_E/240306-Symrise-Corporate-Report-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230306-Symrise-Remuneration-Report-2023.pdf",
-                "file_type": "pdf (289 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzIzMDMwNi1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.ghA2U6Da93MtfHmvP5KC4VzTrXRyg-TNS_kmLhnT5j8/230306-Symrise-Remuneration-Report-2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzIzMDMwNi1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.62iVsXouEu1GHFV6uH3oj0qwxhFn9_-pOX8OAUMGG8E/230306-Symrise-Remuneration-Report-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240410-Symrise-FactBook-FY2023.pdf",
-                "file_type": "pdf (5 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDQxMC1TeW1yaXNlLUZhY3RCb29rLUZZMjAyMy5wZGYiLCJwYWdlIjoxfQ.nl1qnc_96mU9je8o7ZbrV0TA3iDKg2AeCNz2UPvQ4k4/240410-Symrise-FactBook-FY2023.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDQxMC1TeW1yaXNlLUZhY3RCb29rLUZZMjAyMy5wZGYiLCJwYWdlIjoxfQ.fLicCkRn9tvNRB87-NVCV-GrHadnoXz4gFRA1vjZHXk/240410-Symrise-FactBook-FY2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "240306-Symrise-Sustainability-Record-2023-GRI.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzEsImV4cCI6MTc0MTA0OTg3MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVN1c3RhaW5hYmlsaXR5LVJlY29yZC0yMDIzLUdSSS5wZGYiLCJwYWdlIjoxfQ.J2JwqD7xQNRqB4zej7ABEu_6AtovbDIw9Hqoo2Z1x1I/240306-Symrise-Sustainability-Record-2023-GRI.pdf"
+                "file_type": "pdf",
+                "date": "2024/03/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNjYsImV4cCI6MTc0MTE4MTk2NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVN1c3RhaW5hYmlsaXR5LVJlY29yZC0yMDIzLUdSSS5wZGYiLCJwYWdlIjoxfQ.lDjAbrRDlwsBXSJmXTWnar3Vhni0G1sZ6n2o77K4zdM/240306-Symrise-Sustainability-Record-2023-GRI.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "index.html",
-                "file_type": "html",
-                "source_url": "https://symrise.com/corporatereport/2023/company/sustainability-record/index.html"
+                "file_type": "unknown",
+                "date": "2024/03/06",
+                "category": "other",
+                "source_url": "https://symrise.com/corporatereport/2023/company/sustainability-record/index.html",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "index.html",
-                "file_type": "html",
-                "source_url": "https://symrise.com/corporatereport/2023/index.html"
+                "file_type": "unknown",
+                "date": "2024/03/06",
+                "category": "other",
+                "source_url": "https://symrise.com/corporatereport/2023/index.html",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2023",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2023/10/25",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
-                "file_type": "pdf (278 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMy5wZGYiLCJwYWdlIjoxfQ.VuD74-hkl3LrOadWaD4ZltXbacS-TcJVP0zAXJe5UC4/231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/10/25",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMy5wZGYiLCJwYWdlIjoxfQ.yllxzckw0MlUa85Y5SjAJedtkDJerhcAmhbnc8SjT4Q/231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "231025-Symrise-Financial-Information-9M-2023.pdf",
-                "file_type": "pdf (247 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIzLnBkZiIsInBhZ2UiOjF9.9UBv4FpmG_R3iZ9rYNyiM2UxmsMNu1ThaM-bm1UFMx0/231025-Symrise-Financial-Information-9M-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/10/25",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIzLnBkZiIsInBhZ2UiOjF9.aTBP3r_jWM_pcj5BKFpDiVppXTm6Q14nv4uukAjXjv0/231025-Symrise-Financial-Information-9M-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "231025-Symrise-Financial-Information-Q3-2023.pdf",
-                "file_type": "pdf (248 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIzLnBkZiIsInBhZ2UiOjF9.fviGnQQqpWAaeDG3ZiEOp9Cfm5-dXzok604v0OttYG0/231025-Symrise-Financial-Information-Q3-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/10/25",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIzLnBkZiIsInBhZ2UiOjF9.ODkI4TryqTWeCXXcfsDp_Ct1R0L1EN_2jy9XyfMY6F8/231025-Symrise-Financial-Information-Q3-2023.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2023",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2023/08/02",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "230802-Symrise-interim-group-report-January-June-2023.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVuZS0yMDIzLnBkZiIsInBhZ2UiOjF9.OPg5yh0A2P-JN1RKRMU-6P6ReQsx0FLfnG8Pm1eE2GM/230802-Symrise-interim-group-report-January-June-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVuZS0yMDIzLnBkZiIsInBhZ2UiOjF9.aNk0cfDRHMCrJJe68BbuvAWn4Fg-cwK2B6c8d3Y7H08/230802-Symrise-interim-group-report-January-June-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-press-release-H1-2023.pdf",
-                "file_type": "pdf (442 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.aIE6C8C4xT_RO8t53n1MW_ucToCrUxie4_XDGhDdu2c/230802-Symrise-press-release-H1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.Hxvt87w0QHpIuRFY5CXWOXofpqKUq74YqfTxKLS3fTI/230802-Symrise-press-release-H1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-analyst-presentation-H1-2023.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjMucGRmIiwicGFnZSI6MX0.cAleUBc7aTV-mefsvGUrhJlkschxqMjiZcQ5OywZcFA/230802-Symrise-analyst-presentation-H1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjMucGRmIiwicGFnZSI6MX0.Avs_jELo0qb6MeoXZjErIukXjQ6VlagMgXO06AaNYDQ/230802-Symrise-analyst-presentation-H1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-Pressepraesentation-H1-2023.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.OS_yHt-ChIbcyTbp25IGS0fMuLexRn6lZG8LmkrIDfg/230802-Symrise-Pressepraesentation-H1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.QXXNlRzJJiB_GFWCShiG6MORY3JiKX6Y6ekx_iRTBFA/230802-Symrise-Pressepraesentation-H1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-financial-information-H1-2023.pdf",
-                "file_type": "pdf (79 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDIzLnBkZiIsInBhZ2UiOjF9.uYtJYa9XISiTsyqPM2hGeeSgI7oe8So-YEC4tXfBx6E/230802-Symrise-financial-information-H1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDIzLnBkZiIsInBhZ2UiOjF9.xTg1I298kPwUUWiDi_IM9FEV_YIepPynePi4GOw4D-c/230802-Symrise-financial-information-H1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-Financial-Information-Q1-2023.pdf",
-                "file_type": "pdf (16 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.mmC-_Y_rF4r5uBsTheu8a9BiBcWGoMuOZUoQC2tbUFk/230802-Symrise-Financial-Information-Q1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.MrgF5J90xUUZE6zTMMlgodlJ6N00XhItWrGxMGqLKkA/230802-Symrise-Financial-Information-Q1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230802-Symrise-financial-information-Q2-2023.pdf",
-                "file_type": "pdf (50 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDIzLnBkZiIsInBhZ2UiOjF9.6a1NeKk9akiZkrF6pnGimF03aUSySe6TcmGgXxejqnM/230802-Symrise-financial-information-Q2-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDIzLnBkZiIsInBhZ2UiOjF9.bViPKmJfCYD-jQE4z3DmoqQwCeetNXGMKLUZDalmSv4/230802-Symrise-financial-information-Q2-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "index.de.html",
-                "file_type": "html",
-                "source_url": "https://interface.eviscomedia.com/player/1159/index.de.html"
+                "file_type": "unknown",
+                "date": "2023/08/02",
+                "category": "other",
+                "source_url": "https://interface.eviscomedia.com/player/1159/index.de.html",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2023",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2023/04/26",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "230426_Symrise-Trading-Statement-Q1-2023.pdf",
-                "file_type": "pdf (227 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjMucGRmIiwicGFnZSI6MX0.CwOzbtC9WM-gtObFnoBvDRi0PHkEaxvTkH4jD4LdJbA/230426_Symrise-Trading-Statement-Q1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/04/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjMucGRmIiwicGFnZSI6MX0.YjoAugIfMwJtDsY-Q4JvaovdAdLWS_cxESEDbFjGMdU/230426_Symrise-Trading-Statement-Q1-2023.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230426_Symrise-Financial-Information-Q1-2023.pdf",
-                "file_type": "pdf (16 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.PrBV8tD0ZAqMQBcPYXemt5e9NcKYVCWrTRDNOV20c1g/230426_Symrise-Financial-Information-Q1-2023.pdf"
+                "file_type": "pdf",
+                "date": "2023/04/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.FFw9FsLInxMZG3Nx6eVMp9GVY1l1ll-g8lEj3LXDWsM/230426_Symrise-Financial-Information-Q1-2023.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2023",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2023/03/08",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "230308-Symrise-Financial-Report-2022.pdf",
-                "file_type": "pdf (4 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.w3LgcnudSD76Op6hTHx_I1KcqZq2uC6o_UWiHhKE8Ss/230308-Symrise-Financial-Report-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.u4aF4__IYII4egZM7H1fsjDdNgEarg-6L81dhwm16m4/230308-Symrise-Financial-Report-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Press-Release-Results-2022.pdf",
-                "file_type": "pdf (330 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzLVJlbGVhc2UtUmVzdWx0cy0yMDIyLnBkZiIsInBhZ2UiOjF9.4f2vFmKGoFEHvQsd9hVqQdgcbJFIQvbOclbua4RPxeI/230308-Symrise-Press-Release-Results-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzLVJlbGVhc2UtUmVzdWx0cy0yMDIyLnBkZiIsInBhZ2UiOjF9.qU83jx89kfOA9DD9JQ8VAC0rd5HauPpEhfFbNwg34bw/230308-Symrise-Press-Release-Results-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Analyst-Presentation-Results-2022.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLVJlc3VsdHMtMjAyMi5wZGYiLCJwYWdlIjoxfQ.C6j62dSV2E5_UfayM69RowRDzJgMzuXxo0tx4Mw4g5w/230308-Symrise-Analyst-Presentation-Results-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLVJlc3VsdHMtMjAyMi5wZGYiLCJwYWdlIjoxfQ.q6Wjv8PPS0JIjsSHX_EfsFJs6tSX0CTypdtEK0IiBr8/230308-Symrise-Analyst-Presentation-Results-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Pressepraesentation-Ergebnisse-2022.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRXJnZWJuaXNzZS0yMDIyLnBkZiIsInBhZ2UiOjF9.-8ScAoC647XP_JPd8uReBPSVTDU8oWrwUSPIXMR1oLs/230308-Symrise-Pressepraesentation-Ergebnisse-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRXJnZWJuaXNzZS0yMDIyLnBkZiIsInBhZ2UiOjF9.biCwbUbyxHP8aMIbk1P2ycW_szvCLQhgOpFj3KFCqkE/230308-Symrise-Pressepraesentation-Ergebnisse-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Financial-Information-FY-2022.pdf",
-                "file_type": "pdf (77 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIyLnBkZiIsInBhZ2UiOjF9.7TRn9qUj7Ix7tnX026vZMCTRlqOCwhjfoXlkLCfa2og/230308-Symrise-Financial-Information-FY-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIyLnBkZiIsInBhZ2UiOjF9.C0lfAyq6tDY9oXqRv3UCG0S-eOK4PzSFiOMqNGcHiNc/230308-Symrise-Financial-Information-FY-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Financial-Information-Q4-2022.pdf",
-                "file_type": "pdf (46 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIyLnBkZiIsInBhZ2UiOjF9.yIJtSf0TEsZ918WT0sr4OoaaXfaKT-GNXjUcf-wYAjU/230308-Symrise-Financial-Information-Q4-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIyLnBkZiIsInBhZ2UiOjF9.UkZNQi8D8JcJmzW2TOYgA6dPj1TyPk5eVg53g9hCPCg/230308-Symrise-Financial-Information-Q4-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Jahresabschluss-2022-HGB.pdf",
-                "file_type": "pdf (5 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIyLUhHQi5wZGYiLCJwYWdlIjoxfQ.n5ZYR3jWHWaR2gL1TQ9RsR96mI_9pSMuAdzGoJud12Y/230308-Symrise-Jahresabschluss-2022-HGB.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIyLUhHQi5wZGYiLCJwYWdlIjoxfQ.Kg_FC-ssCCrbQJF58XXXRssdBzPxsPVVR3lBWpGrVs0/230308-Symrise-Jahresabschluss-2022-HGB.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Corporate-Report-2022.pdf",
-                "file_type": "pdf (18 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.YKWexmT-_YCJV251krED4RirE3fKanY3SEf7PZ1anUk/230308-Symrise-Corporate-Report-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.QImVlzvZkasVEozxb7STcGbBe0yoByRxgmxlT-habws/230308-Symrise-Corporate-Report-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-Remuneration-Report-2022.pdf",
-                "file_type": "pdf (300 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.AIO2vzBu4lVcvlF7gTXOjArRBJnvUmrP6rtZHq9ylZc/230308-Symrise-Remuneration-Report-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.BXzzyoLLzUwQGzQbpgC0iVmu8HiU5aquZXtjgphdb4k/230308-Symrise-Remuneration-Report-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-FactBook-2022.pdf",
-                "file_type": "pdf (4 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZhY3RCb29rLTIwMjIucGRmIiwicGFnZSI6MX0.st1do_4S12pzJTjcVnZ-JM-fklUxwt-zq8FaGaaktjE/230308-Symrise-FactBook-2022.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZhY3RCb29rLTIwMjIucGRmIiwicGFnZSI6MX0.HJKTQgyONzs6eXr2MV562ML-80dykRuJhJ0i7y6mGMI/230308-Symrise-FactBook-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "230308-Symrise-GRI-sustainability-record.pdf",
-                "file_type": "pdf (5 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzUsImV4cCI6MTc0MTA0OTg3NSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUdSSS1zdXN0YWluYWJpbGl0eS1yZWNvcmQucGRmIiwicGFnZSI6MX0.fsbBMzMsVueyjlUi3m9Xpg4HAm7etcSWNtD2sKWZR4I/230308-Symrise-GRI-sustainability-record.pdf"
+                "file_type": "pdf",
+                "date": "2023/03/08",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzAsImV4cCI6MTc0MTE4MTk3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUdSSS1zdXN0YWluYWJpbGl0eS1yZWNvcmQucGRmIiwicGFnZSI6MX0.KOPFwj8XOi3rzM4wJMKktDlOpqq0XF7UvMi1Z1-JTF4/230308-Symrise-GRI-sustainability-record.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "sustainability-record.html",
-                "file_type": "html",
-                "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-record.html"
+                "file_type": "unknown",
+                "date": "2023/03/08",
+                "category": "other",
+                "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-record.html",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "",
-                "file_type": "html",
-                "source_url": "https://symrise.com/corporatereport/2022/"
+                "file_type": "unknown",
+                "date": "2023/03/08",
+                "category": "other",
+                "source_url": "https://symrise.com/corporatereport/2022/",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2022",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2022/10/26",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
-                "file_type": "pdf (717 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX1BSX1RyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMi5wZGYiLCJwYWdlIjoxfQ.vq5zOAST7yWXFGCAY1nPITo3rzO8gshWxxMNWyaHexQ/221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX1BSX1RyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMi5wZGYiLCJwYWdlIjoxfQ.90fxnyXBcguAAw59c9MBi9jmvH5ugNYi4KSbA1DRBGY/221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "221026_Symrise_Financial-Information-9M-2022.pdf",
-                "file_type": "pdf (250 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIyLnBkZiIsInBhZ2UiOjF9.OlmErv_1UKn5ZJm92yQ2h6d2zOIYNnu6gae7d0Nnsg8/221026_Symrise_Financial-Information-9M-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIyLnBkZiIsInBhZ2UiOjF9.HmhaMBE3njcP_1Wb-JxnpfVlEndOQ53ET05DJS3lH6E/221026_Symrise_Financial-Information-9M-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "221026_Symrise_Financial-Information-Q3-2022.pdf",
-                "file_type": "pdf (252 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIyLnBkZiIsInBhZ2UiOjF9.lsE8yQwUoObSIGVFHsZvbHJAL6bEh0EvNdN3EXN4JQM/221026_Symrise_Financial-Information-Q3-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIyLnBkZiIsInBhZ2UiOjF9.qVMuyD3F0bC_q0JEjGpZT7WrnuRMqy1XpfWnWRqzTUY/221026_Symrise_Financial-Information-Q3-2022.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2022",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2022/08/02",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "220802_Interim-Group-Report-H1-2022.pdf",
-                "file_type": "pdf (605 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9JbnRlcmltLUdyb3VwLVJlcG9ydC1IMS0yMDIyLnBkZiIsInBhZ2UiOjF9.laMYjkZtBcwrHBwpkWzh0RMEkCu3n1PrXrJxI4CvY0k/220802_Interim-Group-Report-H1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9JbnRlcmltLUdyb3VwLVJlcG9ydC1IMS0yMDIyLnBkZiIsInBhZ2UiOjF9.Y8yORWXIc0uDRweEx_P1_uI74WiFFlYhBZoOx1pPIOE/220802_Interim-Group-Report-H1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Symrise_PR_H1-2022.pdf",
-                "file_type": "pdf (403 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9TeW1yaXNlX1BSX0gxLTIwMjIucGRmIiwicGFnZSI6MX0.WyXUvzzQjcOC0PFHWRF6BjOErvHzB4eLW0BYEDzAaso/220802_Symrise_PR_H1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9TeW1yaXNlX1BSX0gxLTIwMjIucGRmIiwicGFnZSI6MX0.UqMfd6__3sr2iZZ5ERyII1exjwqRwj6TINd1Hal0Q8o/220802_Symrise_PR_H1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Analystenpraesentation-H1-2022.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9BbmFseXN0ZW5wcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.XtqlKVgqxlJAUYQi_N2zvOX14EEu7ZLl8dc_G6SbyGo/220802_Analystenpraesentation-H1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9BbmFseXN0ZW5wcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.llcpJJ0ENyAS_h2OyLGr_1hD-p9igGLolYY4KBzPUn0/220802_Analystenpraesentation-H1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Pressepraesentation-H1-2022.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9QcmVzc2VwcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.t0qx4zZZMtY53Kt81n5BUsP72Rs5ZeUCetBMICJgFXk/220802_Pressepraesentation-H1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9QcmVzc2VwcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.oWROIEiHrMeWUNY5NNqm8fR40nGyMWu6dxNvCeYwWaQ/220802_Pressepraesentation-H1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Financial-Information-H1-2022.pdf",
-                "file_type": "pdf (75 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tSDEtMjAyMi5wZGYiLCJwYWdlIjoxfQ.-tpSBPNw7DJHWRIMkzwccbn9j418EYd3Bp8F87lHnNA/220802_Financial-Information-H1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tSDEtMjAyMi5wZGYiLCJwYWdlIjoxfQ.usGnZv2zHqXo6Jg2P0P0AKidbmeiwh9rppahlqCCsXg/220802_Financial-Information-H1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Financial-Information-Q1-2022.pdf",
-                "file_type": "pdf (61 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTEtMjAyMi5wZGYiLCJwYWdlIjoxfQ.6wyn1R5uT8z_ddlsDabBqQJeysD2pLXmBTJ3Z0RWTqQ/220802_Financial-Information-Q1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTEtMjAyMi5wZGYiLCJwYWdlIjoxfQ.1FTQ9U52AiEgycR2mf9D_DY_qCCHZ1_R6g7wLv4Q49A/220802_Financial-Information-Q1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220802_Financial-Information-Q2-2022.pdf",
-                "file_type": "pdf (50 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTItMjAyMi5wZGYiLCJwYWdlIjoxfQ.ZTKWF4DtA8m5hjNOTGR1Ul66_WJv3e_hmpTiJBwc2X0/220802_Financial-Information-Q2-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/08/02",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTItMjAyMi5wZGYiLCJwYWdlIjoxfQ.Rb8pkDnUZV7V6cGzWq77L6-q5x_rj9yowwjw7dOZM1w/220802_Financial-Information-Q2-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "087b0633-123b-11ed-99ef-3cecef385192",
-                "file_type": "html",
-                "source_url": "https://playout.3qsdn.com/embed/087b0633-123b-11ed-99ef-3cecef385192"
+                "file_type": "unknown",
+                "date": "2022/08/02",
+                "category": "other",
+                "source_url": "https://playout.3qsdn.com/embed/087b0633-123b-11ed-99ef-3cecef385192",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "9523c9a2-1250-11ed-99ef-3cecef385192",
-                "file_type": "html",
-                "source_url": "https://playout.3qsdn.com/embed/9523c9a2-1250-11ed-99ef-3cecef385192"
+                "file_type": "unknown",
+                "date": "2022/08/02",
+                "category": "other",
+                "source_url": "https://playout.3qsdn.com/embed/9523c9a2-1250-11ed-99ef-3cecef385192",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2022",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2022/04/27",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "220427_Symrise-Trading-Statement-Q1-2022.pdf",
-                "file_type": "pdf (239 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjIucGRmIiwicGFnZSI6MX0.C5i0CYDH0yykYVfpZDtBXo6ZIo91AXhzfnu_unIMymA/220427_Symrise-Trading-Statement-Q1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/04/27",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjIucGRmIiwicGFnZSI6MX0.Wtavwt_Gdf1vqNRi8joGZ99Jz1yxVqSAxJpFCk_4kiI/220427_Symrise-Trading-Statement-Q1-2022.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220427_Symrise-Financial-Information-Q1-2022.pdf",
-                "file_type": "pdf (61 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIyLnBkZiIsInBhZ2UiOjF9.u-9nSONdjsffXto8ex44mGpF5YolSObLgpnbxhNexew/220427_Symrise-Financial-Information-Q1-2022.pdf"
+                "file_type": "pdf",
+                "date": "2022/04/27",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIyLnBkZiIsInBhZ2UiOjF9.nD80HJS-ZuyaLM98bOtfWVuwPKj3zMuXRTUamORC-YE/220427_Symrise-Financial-Information-Q1-2022.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2022",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2022/03/01",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "220301_Symrise_Financial_Report_2021.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.J3GjxrGtUd_5OdB9Kip9XhSTSwEZL6zjbfnc96k90kA/220301_Symrise_Financial_Report_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.LqzLa9zmssLWqDcZ8_FVPQXdFlccuwbg8IsVUpmVRns/220301_Symrise_Financial_Report_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Press_Release_Results_2021.pdf",
-                "file_type": "pdf (455 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfUmVzdWx0c18yMDIxLnBkZiIsInBhZ2UiOjF9.M7r0RfyGypRfFKQ2zqwpvgMQgnAoyDQKRCteRwzaNPM/220301_Symrise_Press_Release_Results_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfUmVzdWx0c18yMDIxLnBkZiIsInBhZ2UiOjF9.zrDe74cUTtEqJ1ky2Fy8xIZV8NbRk-0vj4T1lop9VAU/220301_Symrise_Press_Release_Results_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Analyst_Presentation_Results_2021.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMS5wZGYiLCJwYWdlIjoxfQ.aQ8G0LrIHuz_Z0f79ykMvvGoZe6O84PoC8chOTtt4Gc/220301_Symrise_Analyst_Presentation_Results_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMS5wZGYiLCJwYWdlIjoxfQ.737D25Oqa0_KXFyMXARhi1p6Udq66bPOBPxyWux0Bsc/220301_Symrise_Analyst_Presentation_Results_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Pressepraesentation_Ergebnisse_2021.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fRXJnZWJuaXNzZV8yMDIxLnBkZiIsInBhZ2UiOjF9.jPxe_0bpX7G_t3UXJo87iVfIL2Q-yO00l27WdF5nxHA/220301_Symrise_Pressepraesentation_Ergebnisse_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fRXJnZWJuaXNzZV8yMDIxLnBkZiIsInBhZ2UiOjF9.5-yvZ6RkdJxUBn-Q74BVRVK67FKvwAIqLFB6fDnjkZQ/220301_Symrise_Pressepraesentation_Ergebnisse_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Financial_Information_FY2021.pdf",
-                "file_type": "pdf (60 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9GWTIwMjEucGRmIiwicGFnZSI6MX0.NONNGTkBpg45T1WZX6Sttk9hN8NEAMx8cYlMrGfZ7Y8/220301_Symrise_Financial_Information_FY2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9GWTIwMjEucGRmIiwicGFnZSI6MX0.zuD9HXoJHy_g4g3vbC_oZXII-xfEx1nZPPO44M8ENxg/220301_Symrise_Financial_Information_FY2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Financial_Information_Q42021.pdf",
-                "file_type": "pdf (45 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RNDIwMjEucGRmIiwicGFnZSI6MX0.bb47AHEUM7quRHhZsW5mEGM6hMtBcmiRiItQgbiosLA/220301_Symrise_Financial_Information_Q42021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RNDIwMjEucGRmIiwicGFnZSI6MX0.ChVeANGaHQCxLZaSDuZp4JfDmRxf3UNaPDFemvZ1svg/220301_Symrise_Financial_Information_Q42021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Jahresabschluss_2021_HGB.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0phaHJlc2Fic2NobHVzc18yMDIxX0hHQi5wZGYiLCJwYWdlIjoxfQ.rFUP2oqRto_GeIkqY-K5PhyhyZeaevbAVRc8OCXcUpo/220301_Symrise_Jahresabschluss_2021_HGB.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0phaHJlc2Fic2NobHVzc18yMDIxX0hHQi5wZGYiLCJwYWdlIjoxfQ.tunMplozH0wLnXon17gJreB_HzVbfhD8KIKrl2QxuQc/220301_Symrise_Jahresabschluss_2021_HGB.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Corporate_Report_2021.pdf",
-                "file_type": "pdf (12 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0NvcnBvcmF0ZV9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.JmNvOhmz99Nev3bH-bkf17umXnactYv4DEsgsBDCPfA/220301_Symrise_Corporate_Report_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0NvcnBvcmF0ZV9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.uJPu6xmA988PBWAJev2X7tIKvhKUXN9IzU_IDGOHRXU/220301_Symrise_Corporate_Report_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_Remuneration_Report_2021.pdf",
-                "file_type": "pdf (228 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1JlbXVuZXJhdGlvbl9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.5NkT54BD_FebS7UxQtRuDRns_WtOn-ceH8VvAmPXIjc/220301_Symrise_Remuneration_Report_2021.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1JlbXVuZXJhdGlvbl9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.wojy_HyCVVF4-joNyVySN78mnXe6yWvbNsHDK0x0vJM/220301_Symrise_Remuneration_Report_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "220301_Symrise_FactBook.pdf",
-                "file_type": "pdf (4 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5NzksImV4cCI6MTc0MTA0OTg3OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZhY3RCb29rLnBkZiIsInBhZ2UiOjF9.r52Dgk-Bxz1rECqLj0cXXfwo-QtJD35FksCMJqkm_7U/220301_Symrise_FactBook.pdf"
+                "file_type": "pdf",
+                "date": "2022/03/01",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzMsImV4cCI6MTc0MTE4MTk3MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZhY3RCb29rLnBkZiIsInBhZ2UiOjF9.TqMbqIWUKJ1owI8BGki9J9-bf-IAqX-JyHfXZTqm2rg/220301_Symrise_FactBook.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2021",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2021/10/26",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "211026_Symrise_Trading_Update_Jan-Sep_2021.pdf",
-                "file_type": "pdf (177 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX1RyYWRpbmdfVXBkYXRlX0phbi1TZXBfMjAyMS5wZGYiLCJwYWdlIjoxfQ.6F9Pu18VaR2YGprb_cbkuj9nkV4OA0h8qWCeCzBQgGk/211026_Symrise_Trading_Update_Jan-Sep_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX1RyYWRpbmdfVXBkYXRlX0phbi1TZXBfMjAyMS5wZGYiLCJwYWdlIjoxfQ.JggcAZmOAQZZzQhq8zp2_9oSXwZegH3198tpcZFbo38/211026_Symrise_Trading_Update_Jan-Sep_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "211026_Symrise_Financial_Information_9M_2021.pdf",
-                "file_type": "pdf (65 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl85TV8yMDIxLnBkZiIsInBhZ2UiOjF9.7dhw-v3XwVFLH7mas2PXsfKWsCsDCwUFpdEkhW1Wxtc/211026_Symrise_Financial_Information_9M_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl85TV8yMDIxLnBkZiIsInBhZ2UiOjF9.xhKytMYzN7CT9nFKyWKwfsY1kKasdKdkfptYZmMNGs4/211026_Symrise_Financial_Information_9M_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "211026_Symrise_Financial_Information_Q3_2021.pdf",
-                "file_type": "pdf (65 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RM18yMDIxLnBkZiIsInBhZ2UiOjF9.UBQHX9S0oDownjB21k7g2z_6CXDWR7tVHn3qenFpeF4/211026_Symrise_Financial_Information_Q3_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/10/26",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RM18yMDIxLnBkZiIsInBhZ2UiOjF9.d_NToeyDwf4uN1dVVA4ytPmX08GJRG-fo4jm1fqE0qg/211026_Symrise_Financial_Information_Q3_2021.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2021",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2021/08/05",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "210805_Symrise_Interim_Group_Report_H1_2021.pdf",
-                "file_type": "pdf (1 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ludGVyaW1fR3JvdXBfUmVwb3J0X0gxXzIwMjEucGRmIiwicGFnZSI6MX0.azB45X_b3F0UVKmyWyC0crRauLVgVA88sIKUcenVGxY/210805_Symrise_Interim_Group_Report_H1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ludGVyaW1fR3JvdXBfUmVwb3J0X0gxXzIwMjEucGRmIiwicGFnZSI6MX0._CgJYZ2VTl9qyfUUD0UFc6qgGUTpI5rLzObohGiLt2Y/210805_Symrise_Interim_Group_Report_H1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Press_Release_H1_2021.pdf",
-                "file_type": "pdf (409 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfSDFfMjAyMS5wZGYiLCJwYWdlIjoxfQ.ZBx7Jo3cFaxh9dp1S0SwIMCiQo_qDXnVfgwwXy7aAB0/210805_Symrise_Press_Release_H1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfSDFfMjAyMS5wZGYiLCJwYWdlIjoxfQ.bKrrmHF0v0Z_zee59WXOZe-hR_-YnQkUdq-FgqNO64g/210805_Symrise_Press_Release_H1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Analyst_Presentation_H1_2021.pdf",
-                "file_type": "pdf (1 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX0gxXzIwMjEucGRmIiwicGFnZSI6MX0.25YX4xQM4dn8Tggvfie_YhSNGkakxss9HHw3rYHtsu4/210805_Symrise_Analyst_Presentation_H1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX0gxXzIwMjEucGRmIiwicGFnZSI6MX0._EGmDQEOdwXngQXtBMYtVd3gN_26P5osptMlhg0f4QU/210805_Symrise_Analyst_Presentation_H1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Pressepraesentation_H1_2021.pdf",
-                "file_type": "pdf (1 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fSDFfMjAyMS5wZGYiLCJwYWdlIjoxfQ.cJq9WVpZZKheSfJ6LpgKqVDYRnH-RVyaIxESG7rAhKM/210805_Symrise_Pressepraesentation_H1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fSDFfMjAyMS5wZGYiLCJwYWdlIjoxfQ.F2oQMXRjwB4l-5994Pd5OGmJTdxbS0Y-g7O1OaKnDtE/210805_Symrise_Pressepraesentation_H1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Financial_Information_H1_2021.pdf",
-                "file_type": "pdf (74 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9IMV8yMDIxLnBkZiIsInBhZ2UiOjF9.HIEQd14XT5MdHg9aYM--Oagdv2QaHxJG4O1OlQ-cy5Y/210805_Symrise_Financial_Information_H1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9IMV8yMDIxLnBkZiIsInBhZ2UiOjF9.BZJeQBjytfSThj5EwHQ4BP_1T9Uzw9gixQONUJhdpMc/210805_Symrise_Financial_Information_H1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Financial_Information_Q1_2021.pdf",
-                "file_type": "pdf (46 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMV8yMDIxLnBkZiIsInBhZ2UiOjF9.mqOgvrthMI5YPbc67Gu4b2j8RfGMyj-sZyK9Nlb12Jw/210805_Symrise_Financial_Information_Q1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMV8yMDIxLnBkZiIsInBhZ2UiOjF9.VK-UvIqYTWysGdU11QdIjMbcqfCbxHjMHu-8hwJoDco/210805_Symrise_Financial_Information_Q1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Financial_Information_Q2_2021.pdf",
-                "file_type": "pdf (47 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMl8yMDIxLnBkZiIsInBhZ2UiOjF9.V0Xs2TKXtkVRP4KspCEcdxWecdUCsfZowAbdvKEqB4Q/210805_Symrise_Financial_Information_Q2_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/08/05",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDgwNV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMl8yMDIxLnBkZiIsInBhZ2UiOjF9.LpOTwo5fItoS9jPTJZkBY_RNRFNLutRdQxT2IKCS-Nc/210805_Symrise_Financial_Information_Q2_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210805_Symrise_Analyst_Conference_H1_2021.mp4",
-                "file_type": "mp4 (38 mb)",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2021/210805_Symrise_Analyst_Conference_H1_2021.mp4"
+                "file_type": "unknown",
+                "date": "2021/08/05",
+                "category": "other",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2021/210805_Symrise_Analyst_Conference_H1_2021.mp4",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200805_Symrise_Pressekonferenz_H1_2021.mp3",
-                "file_type": "mp3 (3 mb)",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2021/200805_Symrise_Pressekonferenz_H1_2021.mp3"
+                "file_type": "unknown",
+                "date": "2021/08/05",
+                "category": "other",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2021/200805_Symrise_Pressekonferenz_H1_2021.mp3",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2021",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2021/04/28",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "210428_Symrise_Trading_update_Q1_2021.pdf",
-                "file_type": "pdf (237 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDQyOF9TeW1yaXNlX1RyYWRpbmdfdXBkYXRlX1ExXzIwMjEucGRmIiwicGFnZSI6MX0.3BROiXoc4U40Arje_hTlMtn4GXt4op9vmcjVTG4oeF4/210428_Symrise_Trading_update_Q1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/04/28",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDQyOF9TeW1yaXNlX1RyYWRpbmdfdXBkYXRlX1ExXzIwMjEucGRmIiwicGFnZSI6MX0.sSRiqIm5XdImwqcIPY3VWn7zrSGkWQTFEDqhQMEHd5o/210428_Symrise_Trading_update_Q1_2021.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210428_Symrise_Financial_Information_Q1_2021.pdf",
-                "file_type": "pdf (62 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDQyOF9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMV8yMDIxLnBkZiIsInBhZ2UiOjF9.LYrA2DVgo98ocuaX-6DuASSPA79ki2C1-1eWgdwVHBw/210428_Symrise_Financial_Information_Q1_2021.pdf"
+                "file_type": "pdf",
+                "date": "2021/04/28",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDQyOF9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RMV8yMDIxLnBkZiIsInBhZ2UiOjF9.RZCfCG0fz7LRle-m_nph11XKiwAcA9PBpgQbyX4Nf_E/210428_Symrise_Financial_Information_Q1_2021.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2021",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2021/03/09",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "210309_Symrise_Financial_Report_2020.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9SZXBvcnRfMjAyMC5wZGYiLCJwYWdlIjoxfQ.IT2G47xarWdd4Z6tRZxBVnpHnw9erJoGdoRd-OKNqNI/210309_Symrise_Financial_Report_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9SZXBvcnRfMjAyMC5wZGYiLCJwYWdlIjoxfQ.1rbbvMnQEn-H0adWCiHWgHn4pBQqYmT-wjtIDRmbL28/210309_Symrise_Financial_Report_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Press_Release_Results_2020.pdf",
-                "file_type": "pdf (458 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfUmVzdWx0c18yMDIwLnBkZiIsInBhZ2UiOjF9.qL-GjnOEOBWyG_Vb-7PoMu29hbJPM4RSLBcmabfav6s/210309_Symrise_Press_Release_Results_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfUmVzdWx0c18yMDIwLnBkZiIsInBhZ2UiOjF9.lXJneTFM0LB0EClQUe-RcZQbf0Z0a1NQa76rt8ddXkc/210309_Symrise_Press_Release_Results_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Analyst_Presentation_Results_2020.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMC5wZGYiLCJwYWdlIjoxfQ.CLcTxps76pSSmPymatRBSoCXllT4fzcd_EXRxIu6QC4/210309_Symrise_Analyst_Presentation_Results_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMC5wZGYiLCJwYWdlIjoxfQ.YCwM_gbHALaeU5tmesTiGGFDh1Frw5M-xKp5MhddB5U/210309_Symrise_Analyst_Presentation_Results_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Pressepraesentation_Ergebnisse_2020.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fRXJnZWJuaXNzZV8yMDIwLnBkZiIsInBhZ2UiOjF9.vA5mEgsUIvPnggLq2IEdpEHzvz-t9Ryw2ChbhKV1K4g/210309_Symrise_Pressepraesentation_Ergebnisse_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fRXJnZWJuaXNzZV8yMDIwLnBkZiIsInBhZ2UiOjF9.BXUflIiHynj8HZ2QtZKY4U8b9G0IdMPTTu603pQa-9s/210309_Symrise_Pressepraesentation_Ergebnisse_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Financial_Information_FY2020.pdf",
-                "file_type": "pdf (41 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9GWTIwMjAucGRmIiwicGFnZSI6MX0.tApTHyIiFm8u0q93SxalT8i1xNMO3uc7hsZRbRfichA/210309_Symrise_Financial_Information_FY2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9GWTIwMjAucGRmIiwicGFnZSI6MX0.3RCbUuKYpW9DNWzEerwkZM42Xy861sT711m0W9pp8WA/210309_Symrise_Financial_Information_FY2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Financial_Information_Q4_2020.pdf",
-                "file_type": "pdf (29 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RNF8yMDIwLnBkZiIsInBhZ2UiOjF9.9awB2il5quD0BX1wwDZR6gEG3R1IgOFKjPlcs0CIDYo/210309_Symrise_Financial_Information_Q4_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RNF8yMDIwLnBkZiIsInBhZ2UiOjF9.6NB9z4Ns_TjtLD7MWNJS850BIC4TGM95pAcE9-9X2ZA/210309_Symrise_Financial_Information_Q4_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Jahresabschluss_2020_HGB.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0phaHJlc2Fic2NobHVzc18yMDIwX0hHQi5wZGYiLCJwYWdlIjoxfQ.yosRd21ocKRU-CGP197RF7flK_VVTLsHdpkLwakNuyc/210309_Symrise_Jahresabschluss_2020_HGB.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0phaHJlc2Fic2NobHVzc18yMDIwX0hHQi5wZGYiLCJwYWdlIjoxfQ.ahDtPM3pT402nscJm_yEWgb-ksUk7XblwO4yH1f6sok/210309_Symrise_Jahresabschluss_2020_HGB.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210614_Symrise_Company_Report_2020.pdf",
-                "file_type": "pdf (11 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDYxNF9TeW1yaXNlX0NvbXBhbnlfUmVwb3J0XzIwMjAucGRmIiwicGFnZSI6MX0.i4CVbEg0Hc8gtb_9PIesSSiYTsGUfH9OJYVdEFufyjI/210614_Symrise_Company_Report_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDYxNF9TeW1yaXNlX0NvbXBhbnlfUmVwb3J0XzIwMjAucGRmIiwicGFnZSI6MX0.nN9ji6xil3S9zM3Jf-wLLYXy2pkp7WwMMOM6P67Qv20/210614_Symrise_Company_Report_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Condensed_Financial_Report_2020.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0NvbmRlbnNlZF9GaW5hbmNpYWxfUmVwb3J0XzIwMjAucGRmIiwicGFnZSI6MX0.VuCrSweMPQm6hUAp2MU0t9wG6LlbhbA0spHEZ0cXUsU/210309_Symrise_Condensed_Financial_Report_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0NvbmRlbnNlZF9GaW5hbmNpYWxfUmVwb3J0XzIwMjAucGRmIiwicGFnZSI6MX0.O_ynYgkoG829KlXf8eKxydRoDZhQrwfRgIrPPj-msSU/210309_Symrise_Condensed_Financial_Report_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "210309_Symrise_Fact_Book_2020.pdf",
-                "file_type": "pdf (9 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODIsImV4cCI6MTc0MTA0OTg4MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZhY3RfQm9va18yMDIwLnBkZiIsInBhZ2UiOjF9.tMMfSmfe1FDb8Cvs0gG0GOgnvE-wDo-Bzole-LLNDTA/210309_Symrise_Fact_Book_2020.pdf"
+                "file_type": "pdf",
+                "date": "2021/03/09",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwNzcsImV4cCI6MTc0MTE4MTk3NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIxLzIxMDMwOV9TeW1yaXNlX0ZhY3RfQm9va18yMDIwLnBkZiIsInBhZ2UiOjF9.-wFFncFPhO9bZ2JyRSjxM7KuFf556MS5HttRVUsb5HE/210309_Symrise_Fact_Book_2020.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2020",
+        "equity_ticker": "SY1",
+ "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2020/10/29",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "201029_Symrise_Quarterly_Statement_9M_2020.pdf",
-                "file_type": "pdf (487 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX1F1YXJ0ZXJseV9TdGF0ZW1lbnRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.TO89EnRFe1tZNYxh5E1xmpdDzWlWmfHrYOWcwjzj6l4/201029_Symrise_Quarterly_Statement_9M_2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/10/29",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX1F1YXJ0ZXJseV9TdGF0ZW1lbnRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.aluHQplfhd6zG3nUnqzvGS--fZ4-jbS1c61zuhI64K8/201029_Symrise_Quarterly_Statement_9M_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "201029_Symrise_Fact_Sheet_9M_2020.pdf",
-                "file_type": "pdf (17 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.qdOWXm7JyC4NnDSdNrAYaDgkdtmO5SOex4Ea-f6H4SM/201029_Symrise_Fact_Sheet_9M_2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/10/29",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.uZog1RJk_f3M66knanVFHaFEWtIxmfsXG51rdQGU-4w/201029_Symrise_Fact_Sheet_9M_2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "201029_Symrise_Fact_Sheet_Q3_2020.pdf",
-                "file_type": "pdf (17 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfUTNfMjAyMC5wZGYiLCJwYWdlIjoxfQ.EEXOfH5Eq8vu_pfLtedxDWih4PWdBAL2keT_OYMhVWk/201029_Symrise_Fact_Sheet_Q3_2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/10/29",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfUTNfMjAyMC5wZGYiLCJwYWdlIjoxfQ.S5Wm-z5u8O1DG3XbY3Xw706gsA-cvDURez0vbKuZULc/201029_Symrise_Fact_Sheet_Q3_2020.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2020",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2020/08/06",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "200806_SYM_Interim_Group_Report_H1-2020.pdf",
-                "file_type": "pdf (975 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fSW50ZXJpbV9Hcm91cF9SZXBvcnRfSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.-bdYiyIZCl1DNGkqXaFmccYwLUqi60JB7snnDLXaKjE/200806_SYM_Interim_Group_Report_H1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fSW50ZXJpbV9Hcm91cF9SZXBvcnRfSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.Gq7XyNZUk52_86LkUkJZ52TguhP6ZpNyFPvAoQKCtnI/200806_SYM_Interim_Group_Report_H1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Press_Release_H1-2020.pdf",
-                "file_type": "pdf (599 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NfUmVsZWFzZV9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.zxMI7u3d3D0FLqxIO4uGiGxCgWQUpISAbeoXE5q3tv4/200806_SYM_Press_Release_H1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NfUmVsZWFzZV9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.HRlhvYtS2pCvH12zlBHZCvlUOuQ1ZN8PH3R_02mBCfQ/200806_SYM_Press_Release_H1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Analyst_Presentation_H1-2020.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.yyxeZxKFUgchPi3UjUG8z88CWSoLMrQltwm9jMuk7o0/200806_SYM_Analyst_Presentation_H1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.J7PK_HeEEgP_Nqj7ghRl7Yc8ts1xMEo3ZeegNbGdG40/200806_SYM_Analyst_Presentation_H1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Pressepraesentation_H1-2020.pdf",
-                "file_type": "pdf (2 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.ovA7uuMvYNKFizlErJV4ebQ3Ak_eq4KNO9Q7BWmZRTQ/200806_SYM_Pressepraesentation_H1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.CKQDy2FG9AtlYcGxNF8TBOm45RBtE_oAY8bmD1hGIvs/200806_SYM_Pressepraesentation_H1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Financial_Information_H1-2020.pdf",
-                "file_type": "pdf (54 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0gxLTIwMjAucGRmIiwicGFnZSI6MX0.jhqwPIau7S0B3RaM0Wl8gziyZez2SuQLt5YFRZzbwsQ/200806_SYM_Financial_Information_H1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0gxLTIwMjAucGRmIiwicGFnZSI6MX0.VGnvZeQ18WHykMIkxq45jCC2L9NrsQI3HQbFL5FWZto/200806_SYM_Financial_Information_H1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Financial_Information_Q2-2020.pdf",
-                "file_type": "pdf (33 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1EyLTIwMjAucGRmIiwicGFnZSI6MX0.NH6zAUVIAHWOqFqiQAnhl1jbo1aPIVv3V13UXBb4w8c/200806_SYM_Financial_Information_Q2-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/08/06",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1EyLTIwMjAucGRmIiwicGFnZSI6MX0.KuSXpE7oZ-I0WaLZySSlxazSBAWgYM2lALDWLnJeJ00/200806_SYM_Financial_Information_Q2-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Analyst_Conference.mp3",
-                "file_type": "mp3 (16 mb)",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2020/200806_SYM_Analyst_Conference.mp3"
+                "file_type": "unknown",
+                "date": "2020/08/06",
+                "category": "other",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2020/200806_SYM_Analyst_Conference.mp3",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2020",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2020/04/28",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "200428_SYM_Press_Release_Q1-2020.pdf",
-                "file_type": "pdf (328 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fUHJlc3NfUmVsZWFzZV9RMS0yMDIwLnBkZiIsInBhZ2UiOjF9.MPWlrH-qXc-9JdMFWU-y7zsac4VaJaaD0r9kT_qXtkg/200428_SYM_Press_Release_Q1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/04/28",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fUHJlc3NfUmVsZWFzZV9RMS0yMDIwLnBkZiIsInBhZ2UiOjF9.S7RwuBMnVgWfwifx6tXydHyZTAzDoMvFnSVZPlnvaGM/200428_SYM_Press_Release_Q1-2020.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200428_SYM_Financial_Information_Q1-2020.pdf",
-                "file_type": "pdf (63 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1ExLTIwMjAucGRmIiwicGFnZSI6MX0.DPTDEIdAGibfDQDYqaPCZoI7u-ZtRxkZU2HqBEjJkYA/200428_SYM_Financial_Information_Q1-2020.pdf"
+                "file_type": "pdf",
+                "date": "2020/04/28",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1ExLTIwMjAucGRmIiwicGFnZSI6MX0.1bNAk1Mt5K8kuekLNE8wBlDNVzYT-Nw4hdr5qRjyyHE/200428_SYM_Financial_Information_Q1-2020.pdf",
+                "wissen_url": "unknown"
             }
         ]
     },
     {
-        "year": "2020",
+        "equity_ticker": "SY1",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Unknown Event",
         "event_date": "2020/03/10",
-        "event_title": "Unknown Event",
-        "files": [
+        "data": [
             {
                 "file_name": "200310_SYM_Financial_Report_2019_.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX1JlcG9ydF8yMDE5Xy5wZGYiLCJwYWdlIjoxfQ.Mwyuh8EOIXds4A7-7OP_Q9pke1iVnrpVp3tls0L5hMg/200310_SYM_Financial_Report_2019_.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX1JlcG9ydF8yMDE5Xy5wZGYiLCJwYWdlIjoxfQ.RhoRmOlIXXQF-k1D9jjw_CMrHbxJYhwsVrbARy2RuiM/200310_SYM_Financial_Report_2019_.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Press_Release_Results_2019.pdf",
-                "file_type": "pdf (548 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NfUmVsZWFzZV9SZXN1bHRzXzIwMTkucGRmIiwicGFnZSI6MX0.laplj-eyWGP0RH7Sk7cdzUx9Xvyl-yoMm1TCvJbFkaA/200310_SYM_Press_Release_Results_2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NfUmVsZWFzZV9SZXN1bHRzXzIwMTkucGRmIiwicGFnZSI6MX0.J45fkcfr0CDMU_mFqxVqfD2Z27e9ubW5HglvpOfwQuo/200310_SYM_Press_Release_Results_2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Analyst_Presentation_FY2019.pdf",
-                "file_type": "pdf (4 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fRlkyMDE5LnBkZiIsInBhZ2UiOjF9.0NUKMnTzkNUSSR0_4iqOGzAUKmROGkwisRFSxCNjMH4/200310_SYM_Analyst_Presentation_FY2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fRlkyMDE5LnBkZiIsInBhZ2UiOjF9.XHIqiFt829ORRTP9eFccqz-_NcJA8VtGkZh3YiUNquU/200310_SYM_Analyst_Presentation_FY2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Pressepraesentation_GJ2019.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9HSjIwMTkucGRmIiwicGFnZSI6MX0.K7fIx3D4juzU1SIP3vc1WHCEG7OEXTrWnq19nfFxmg4/200310_SYM_Pressepraesentation_GJ2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9HSjIwMTkucGRmIiwicGFnZSI6MX0.SGQ8-_j84EirZTn2aTweOAkGds0i1s0L76tjINYCscs/200310_SYM_Pressepraesentation_GJ2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Financial_Information_FY2019.pdf",
-                "file_type": "pdf (43 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0ZZMjAxOS5wZGYiLCJwYWdlIjoxfQ.tDPKIffKCKoqpBE8cH73IyOrMGJHLcJN6mnSLGnmLOw/200310_SYM_Financial_Information_FY2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0ZZMjAxOS5wZGYiLCJwYWdlIjoxfQ.6VldUTv1UqddMMv1ueQOwkGdGhx_O9LVwjUZRx9zI64/200310_SYM_Financial_Information_FY2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Financial_Information_Q4_2019.pdf",
-                "file_type": "pdf (32 kb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1E0XzIwMTkucGRmIiwicGFnZSI6MX0.vrNSfI_B6EM9yUwYLfMOR1K8pmkR3HrHqDxwuyXKiK0/200310_SYM_Financial_Information_Q4_2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1E0XzIwMTkucGRmIiwicGFnZSI6MX0.lc74ZoULhzWmc0JVXHD9Q1dQlyA1iGCFWvUsatJGZZM/200310_SYM_Financial_Information_Q4_2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Jahresabschluss_2019_HGB.pdf",
-                "file_type": "pdf (3 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fSmFocmVzYWJzY2hsdXNzXzIwMTlfSEdCLnBkZiIsInBhZ2UiOjF9.M3biyV_zJiz572T6oGSngNckDJ3jodeAJLkjBwIkvt0/200310_SYM_Jahresabschluss_2019_HGB.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fSmFocmVzYWJzY2hsdXNzXzIwMTlfSEdCLnBkZiIsInBhZ2UiOjF9.2Vs9jQ_vxYEq86Ya5t4RaFlKkEMaFXjydz0mIruBe-0/200310_SYM_Jahresabschluss_2019_HGB.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200310_SYM_Company_Report_2019.pdf",
-                "file_type": "pdf (9 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQ29tcGFueV9SZXBvcnRfMjAxOS5wZGYiLCJwYWdlIjoxfQ.74MPsMdW8zCqbgrLNFrndoRMUgpAIzMLnVYvQf5U8jY/200310_SYM_Company_Report_2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQ29tcGFueV9SZXBvcnRfMjAxOS5wZGYiLCJwYWdlIjoxfQ.ssfvRR4Fw5ZLCRms6wmg-6xNTwHGS7U2PWyHcnQFk7I/200310_SYM_Company_Report_2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "200806_SYM_Fact_Book_2019.pdf",
-                "file_type": "pdf (8 mb)",
-                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDEwNDU5ODYsImV4cCI6MTc0MTA0OTg4NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmFjdF9Cb29rXzIwMTkucGRmIiwicGFnZSI6MX0.-U81HcpZHiX3lsQM6w8uhHyM5IvD9zfIvROMSF7CYX8/200806_SYM_Fact_Book_2019.pdf"
+                "file_type": "pdf",
+                "date": "2020/03/10",
+                "category": "report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzgwODEsImV4cCI6MTc0MTE4MTk4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmFjdF9Cb29rXzIwMTkucGRmIiwicGFnZSI6MX0.TNwhK_5QeVlHK5JR6antqfAZ4D9nkSpzo_OWAvHr8to/200806_SYM_Fact_Book_2019.pdf",
+                "wissen_url": "unknown"
             },
             {
                 "file_name": "symrise20200310",
-                "file_type": "html",
-                "source_url": "https://webcasts.eqs.com/symrise20200310"
+                "file_type": "unknown",
+                "date": "2020/03/10",
+                "category": "other",
+                "source_url": "https://webcasts.eqs.com/symrise20200310",
+                "wissen_url": "unknown"
             }
         ]
     }

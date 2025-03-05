@@ -3,6 +3,39 @@
         "equity_ticker": "NVDA",
         "source_type": "company_information",
         "event_name": "No Description",
+        "event_date": "2025/03/04",
+        "filing_type": "4",
+        "data": [
+            {
+                "file_name": "default.aspx?FilingId=18253844",
+                "file_type": ".html",
+                "date": "2025/03/04",
+                "category": "report",
+                "source_url": "https://investor.nvidia.com/financial-info/sec-filings/sec-filings-details/default.aspx?FilingId=18253844",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "41f11c7a-7988-4e52-b254-f5048a66d3c4.pdf",
+                "file_type": ".pdf",
+                "date": "2025/03/04",
+                "category": "report",
+                "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/41f11c7a-7988-4e52-b254-f5048a66d3c4.pdf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "e47746a7-0f3d-4bcc-a0ed-88cec9e95ddb.xls",
+                "file_type": ".xls",
+                "date": "2025/03/04",
+                "category": "report",
+                "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/e47746a7-0f3d-4bcc-a0ed-88cec9e95ddb.xls",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "event_name": "No Description",
         "event_date": "2025/02/26",
         "filing_type": "10-K",
         "data": [

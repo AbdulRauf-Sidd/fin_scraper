@@ -4280,5 +4280,795 @@
                 "wissen_url": "unknown"
             }
         ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "7059c888-6b60-42ff-8661-3da45879875c",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/7059c888-6b60-42ff-8661-3da45879875c",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "d760614e-4adc-43b0-9f4b-10d19905e606",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/d760614e-4adc-43b0-9f4b-10d19905e606",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "6499d065-d9e8-43ea-88f3-03446c37292d",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/6499d065-d9e8-43ea-88f3-03446c37292d",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "67d37347-d3bc-4b4c-922b-5a723d14729e",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/67d37347-d3bc-4b4c-922b-5a723d14729e",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "48d959e6-fd66-470e-b823-90b7f8f5d10d",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/48d959e6-fd66-470e-b823-90b7f8f5d10d",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "214c8773-33a5-4f63-8a59-268a087467d2",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/214c8773-33a5-4f63-8a59-268a087467d2",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "0ff7580a-b7ec-4981-9fcd-d578e2dc9011",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/0ff7580a-b7ec-4981-9fcd-d578e2dc9011",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "bd70b876-801c-4acc-aabe-de027c86f72a",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/bd70b876-801c-4acc-aabe-de027c86f72a",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "e997b90b-709e-41cc-b890-b108e8945712",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/e997b90b-709e-41cc-b890-b108e8945712",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "29ab3302-656b-4dfd-9366-527c46ae86bb",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/29ab3302-656b-4dfd-9366-527c46ae86bb",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "72f48aeb-f2f8-481e-bb5b-8bebbd92276a",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/72f48aeb-f2f8-481e-bb5b-8bebbd92276a",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "96b1a7b2-afb9-472f-9255-4628824dc994",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/96b1a7b2-afb9-472f-9255-4628824dc994",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "290473d7-7f07-4fd9-af54-8a5863beb2b3",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/290473d7-7f07-4fd9-af54-8a5863beb2b3",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "f6e740e3-d3ca-4249-a38e-130147383e96",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/f6e740e3-d3ca-4249-a38e-130147383e96",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "facb8cbd-39c6-4a0e-bef2-31ea266b3a61",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/facb8cbd-39c6-4a0e-bef2-31ea266b3a61",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "623e047a-3647-4a53-9442-b8b03ce9a0d1",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/623e047a-3647-4a53-9442-b8b03ce9a0d1",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "50dc4267-56af-4d16-973b-03a79ee1eca3",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/50dc4267-56af-4d16-973b-03a79ee1eca3",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "239bc53f-59d7-46c2-8f6e-8d620708d02f",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/239bc53f-59d7-46c2-8f6e-8d620708d02f",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "d53503f6-1c05-4db0-b4e3-f327fb43ebbc",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/d53503f6-1c05-4db0-b4e3-f327fb43ebbc",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "729ae0b1-f3de-4619-bf92-7f75701a687f",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/729ae0b1-f3de-4619-bf92-7f75701a687f",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "e501ef79-fb7d-4bce-bb35-227bac76e809",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/e501ef79-fb7d-4bce-bb35-227bac76e809",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "bd9b6b3f-0d2c-41c5-b463-048750381318",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/bd9b6b3f-0d2c-41c5-b463-048750381318",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "20cd12f6-e78d-4570-8609-6ffb07cc98cf",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/20cd12f6-e78d-4570-8609-6ffb07cc98cf",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "ea13e95b-09a5-4cd1-8d92-966e109eb6c4",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/ea13e95b-09a5-4cd1-8d92-966e109eb6c4",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/10/17",
+        "data": [
+            {
+                "file_name": "4e25fb63-5cbb-4bdc-819c-2ab682bfef9e",
+                "file_type": "rtf",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/4e25fb63-5cbb-4bdc-819c-2ab682bfef9e",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "73783c48-df33-48b6-87bb-e121529ca13f",
+                "file_type": "xls",
+                "date": "2023/10/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/73783c48-df33-48b6-87bb-e121529ca13f",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "13f07349-8538-423f-8f4c-88a186a209ed",
+                "file_type": "pdf",
+                "date": "2023/10/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/13f07349-8538-423f-8f4c-88a186a209ed",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "ec3b475c-7ee8-4a00-b364-8781c0593ea3",
+                "file_type": "rtf",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/ec3b475c-7ee8-4a00-b364-8781c0593ea3",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "de97dce3-2318-4c47-86cb-519ea09c2de1",
+                "file_type": "xls",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/de97dce3-2318-4c47-86cb-519ea09c2de1",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "22bd16ba-bc20-463e-a507-f399d84f9b22",
+                "file_type": "pdf",
+                "date": "2023/08/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/22bd16ba-bc20-463e-a507-f399d84f9b22",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "e58d91be-8143-42eb-88a5-09df7c18a59b",
+                "file_type": "rtf",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/e58d91be-8143-42eb-88a5-09df7c18a59b",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "4f9363fe-8aa9-4f28-b330-e8c0dc70f842",
+                "file_type": "xls",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/4f9363fe-8aa9-4f28-b330-e8c0dc70f842",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "6b138ae1-5cf8-4112-b37d-8c4982bccfa5",
+                "file_type": "pdf",
+                "date": "2023/08/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/6b138ae1-5cf8-4112-b37d-8c4982bccfa5",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "cfe16b8f-948b-4adf-9965-ef20a9d9f336",
+                "file_type": "rtf",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/cfe16b8f-948b-4adf-9965-ef20a9d9f336",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "9e89cd6c-c7a2-4dad-848c-792335dff3ae",
+                "file_type": "xls",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/9e89cd6c-c7a2-4dad-848c-792335dff3ae",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "f20d91ad-8707-416f-b8de-849ae708c202",
+                "file_type": "pdf",
+                "date": "2023/08/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/f20d91ad-8707-416f-b8de-849ae708c202",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "7bd68427-1d79-475e-8c4e-6c26d32fddf8",
+                "file_type": "rtf",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/7bd68427-1d79-475e-8c4e-6c26d32fddf8",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "95eb3758-bcfb-45c6-bb2d-dd35d0af7877",
+                "file_type": "xls",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/95eb3758-bcfb-45c6-bb2d-dd35d0af7877",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "0eba5628-f0dd-45a3-9398-3c5e0e5bc2f4",
+                "file_type": "pdf",
+                "date": "2023/08/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/0eba5628-f0dd-45a3-9398-3c5e0e5bc2f4",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/17",
+        "data": [
+            {
+                "file_name": "2d7e87d6-50f3-4808-82bc-7ce7be8c3426",
+                "file_type": "rtf",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/2d7e87d6-50f3-4808-82bc-7ce7be8c3426",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "cc810dec-8f80-4f99-88a1-120dd962a048",
+                "file_type": "xls",
+                "date": "2023/08/17",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/cc810dec-8f80-4f99-88a1-120dd962a048",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "a2249dbe-f807-4226-aa2a-34222c37fe06",
+                "file_type": "pdf",
+                "date": "2023/08/17",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/a2249dbe-f807-4226-aa2a-34222c37fe06",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
+        "event_date": "2023/08/10",
+        "data": [
+            {
+                "file_name": "e20125d1-f5a9-4167-9389-7f3dd6c5b23f",
+                "file_type": "rtf",
+                "date": "2023/08/10",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/e20125d1-f5a9-4167-9389-7f3dd6c5b23f",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "ebcd3e1c-c693-4e33-9c5f-ba18fc306fda",
+                "file_type": "xls",
+                "date": "2023/08/10",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/ebcd3e1c-c693-4e33-9c5f-ba18fc306fda",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "e13cf1ff-c051-4839-b9e4-2fdf70d4301b",
+                "file_type": "pdf",
+                "date": "2023/08/10",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/e13cf1ff-c051-4839-b9e4-2fdf70d4301b",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "0001037038-23-000021",
+                "file_type": "sch - xbrl taxonomy extension schema",
+                "date": "2023/08/10",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/sec-filings/sec-filing/8-k/0001037038-23-000021",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "8e7165e7-8ea0-48e3-bb24-2f1fd20481de",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/8e7165e7-8ea0-48e3-bb24-2f1fd20481de",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "81a7b145-b9be-47a9-b197-434aface0c59",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/81a7b145-b9be-47a9-b197-434aface0c59",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "db22c947-7a3d-4513-9351-79de594c6767",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/db22c947-7a3d-4513-9351-79de594c6767",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "201db528-0e54-42da-85fd-73c53062f5e7",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/201db528-0e54-42da-85fd-73c53062f5e7",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "73e7a26c-32d4-4d17-a5c6-cde3aa7af936",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/73e7a26c-32d4-4d17-a5c6-cde3aa7af936",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "8a8d0277-1284-4655-a3e4-f94417df11cd",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/8a8d0277-1284-4655-a3e4-f94417df11cd",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "f785606b-6d22-4ffd-96db-067461f34e35",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/f785606b-6d22-4ffd-96db-067461f34e35",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "a3796341-7210-45a9-a631-df568a67613e",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/a3796341-7210-45a9-a631-df568a67613e",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "9e78ffa9-dd6f-4574-86fe-312445d42b41",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/9e78ffa9-dd6f-4574-86fe-312445d42b41",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "cd7181f2-d628-4c06-939d-e1ea02dee14c",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/cd7181f2-d628-4c06-939d-e1ea02dee14c",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "0f2b708d-ad38-49b8-80d4-61a249b2df92",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/0f2b708d-ad38-49b8-80d4-61a249b2df92",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "419484e4-51cd-43ea-9e1c-bc19adfcf043",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/419484e4-51cd-43ea-9e1c-bc19adfcf043",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "c2dc085a-8799-4c9c-a1fd-f66fb2571b94",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/c2dc085a-8799-4c9c-a1fd-f66fb2571b94",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "99e91efb-d71b-4b99-b35d-b1d1f23953cd",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/99e91efb-d71b-4b99-b35d-b1d1f23953cd",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "3b7c43ab-7915-4011-8d14-cbaa8233ffae",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/3b7c43ab-7915-4011-8d14-cbaa8233ffae",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "4b3e817b-bda2-41a3-ba02-aaf14e024514",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/4b3e817b-bda2-41a3-ba02-aaf14e024514",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "ed386b4d-3077-4371-9de2-1c8de1c7c303",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/ed386b4d-3077-4371-9de2-1c8de1c7c303",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "5e989ae3-ee87-4e8f-b3d9-aeb5651d89f4",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/5e989ae3-ee87-4e8f-b3d9-aeb5651d89f4",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "f3f7b6a0-b7ad-4026-b0f7-d7d2abd6e497",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/f3f7b6a0-b7ad-4026-b0f7-d7d2abd6e497",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "3b5d0709-6d96-427e-81ba-c93cb461b787",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/3b5d0709-6d96-427e-81ba-c93cb461b787",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "30e0f025-be89-4695-ba14-07f792c5d2e5",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/30e0f025-be89-4695-ba14-07f792c5d2e5",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "RL",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Statement of changes in beneficial ownership of securities",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "4992be03-e87c-4953-bfdb-bd895cc91dc8",
+                "file_type": "rtf",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/4992be03-e87c-4953-bfdb-bd895cc91dc8",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "bbb5cf48-d620-4ede-a515-212146ee7e04",
+                "file_type": "xls",
+                "date": "2023/08/07",
+                "category": "other",
+                "source_url": "https://investor.ralphlauren.com/static-files/bbb5cf48-d620-4ede-a515-212146ee7e04",
+                "wissen_url": "unknown"
+            },
+            {
+                "file_name": "2df0befd-e5a5-42a2-98d0-5f98ef165d86",
+                "file_type": "pdf",
+                "date": "2023/08/07",
+                "category": "report",
+                "source_url": "https://investor.ralphlauren.com/static-files/2df0befd-e5a5-42a2-98d0-5f98ef165d86",
+                "wissen_url": "unknown"
+            }
+        ]
     }
 ]
