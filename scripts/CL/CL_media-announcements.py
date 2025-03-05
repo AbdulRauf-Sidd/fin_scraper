@@ -38,6 +38,8 @@ async def scrape_documents(url, filename):
 
                 category = classify_document(event_name, href) 
                 file_type = get_file_type(href)
+
+                file_name = extract_file_name(href)
                 
                 data_entry = {
                     "equity_ticker": "CL",
@@ -47,7 +49,7 @@ async def scrape_documents(url, filename):
                     "event_name": title.strip(),
                     "event_date": date,
                     "data": [{
-                        "file_name": absolute_url.split('/')[-1],
+                        "file_name": file_name,
                         "file_type": file_type,
                         "date": date,
                         "category": category,

@@ -102,21 +102,34 @@ async def extract_files_from_page(page):
                 if event_url and not event_url.startswith("http"):
                     event_url = urljoin(SEC_FILINGS_URL, event_url)
 
+
+                freq = classify_frequency(event_name, event_url)
+                if freq == "periodic":
+                    event_type = classify_periodic_type(event_name, event_url)
+                    event_name = format_quarter_string(event_date, event_name)
+                else:
+                    event_type = categorize_event(event_name)
+
+                category = classify_document(event_name, event_url) 
+                file_type = get_file_type(event_url)
+
+                file_name = extract_file_name(event_url)
+
                 # Store the extracted event
                 file_links_collected.append({
                     "equity_ticker": "CL",
                     "source_type": "company_information",
-                    "frequency": classify_frequency(event_name, event_url),
+                    "frequency": freq,
                     "event_type": "press release",
                     "event_name": event_name.strip(),
                     "event_date": event_date,
                     "data": [{
-                        "file_name": event_url.split("/")[-1] if event_url else "N/A",
-                        "file_type": "html",
+                        "file_name": file_name,
+                        "file_type": file_type,
                         "date": event_date,
-                        "category": "event",
+                        "category": category,
                         "source_url": event_url if event_url else "N/A",
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     }]
                 })
 

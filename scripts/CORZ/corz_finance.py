@@ -101,27 +101,31 @@ async def extract_files_from_page(page):
                         file_url = urljoin(SEC_FILINGS_URL, file_url)
 
                     file_name = extract_file_name(file_url)
+                    
+
+                    category = classify_document(file_url, file_url) 
+                    file_type = get_file_type(file_url)
+
 
                     file_links.append({
                         "file_name": file_name.strip(),
                         "file_type": file_type,
                         "date": event_date_parsed,
-                        "category": "report",
+                        "category": category,
                         "source_url": file_url,
-                        "wissen_url": "unknown"
+                        "wissen_url": "NULL"
                     })
 
-                #Determine frequency and event type
-                freq = classify_frequency(file_name, file_links[0]["source_url"])
-                event_type = classify_periodic_type(file_name, file_links[0]["source_url"]) if freq == "periodic" else "expansion"
+                    event_type = classify_periodic_type(file_url, file_url)
+                event_name = format_quarter_string(event_date_parsed, 'abcdef')
 
                 # Store the extracted event
                 file_links_collected.append({
                     "equity_ticker": EQUITY_TICKER,
                     "source_type": "company_information",
-                    "frequency": freq,
+                    "frequency": 'periodic',
                     "event_type": event_type,
-                    "event_name": file_name,  # Adjust this if there's a better event title
+                    "event_name": event_name,  # Adjust this if there's a better event title
                     "event_date": event_date_parsed,
                     "data": file_links
                 })
@@ -133,9 +137,6 @@ async def extract_files_from_page(page):
 
     except Exception as e:
         print(f"⚠️ Error extracting files: {e}")
-
-
-
 
 
 

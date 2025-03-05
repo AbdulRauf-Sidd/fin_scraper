@@ -63,28 +63,36 @@ async def extract_files_from_page(page):
             # After navigation, gather the PDF links
             data_files = []
             for pdf_link in [event_url]:
+
+                category = classify_document(event_name, pdf_link) 
+                file_type = get_file_type(pdf_link)
+
+                file_name = extract_file_name(pdf_link)
                 
 
                 data_files.append({
-                    "file_name": event_name,
-                    "file_type": "pdf",
+                    "file_name": file_name,
+                    "file_type": file_type,
                     "date": event_date_parsed.strftime("%Y/%m/%d"),
-                    "category": "report",
-                    "source_url": event_url,
-                    "wissen_url": "unknown"
+                    "category": category,
+                    "source_url": pdf_link,
+                    "wissen_url": "NULL"
                 })
 
-            types = 'expansion'
-            freq = classify_frequency(event_name, event_url)
-            if freq == 'periodic':
-                types = classify_periodic_type(event_name, event_url)
+            
+            freq = classify_frequency(event_name, str(event_url))
+            if freq == "periodic":
+                event_type = classify_periodic_type(event_name, str(event_url))
+                event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), str(event_url))
+            else:
+                event_type = categorize_event(event_name)
 
             if data_files:
                 file_links_collected.append({
                     "equity_ticker": EQUITY_TICKER,
                     "source_type": "company_information",
                     "frequency": freq,
-                    "event_type": "presentation",
+                    "event_type": event_type,
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": data_files

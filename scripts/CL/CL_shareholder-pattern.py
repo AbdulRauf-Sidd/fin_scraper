@@ -28,18 +28,32 @@ async def scrape_documents(url, filename):
                 if href.startswith('/'):  # Handling relative URLs if found
                     href = base_url + href
                 absolute_url = ensure_absolute_url(base_url, href)
+
+
+                freq = classify_frequency(event_name, href)
+                if freq == "periodic":
+                    event_type = classify_periodic_type(event_name, href)
+                    event_name = format_quarter_string(date, event_name)
+                else:
+                    event_type = categorize_event(event_name)
+
+                category = classify_document(event_name, href) 
+                file_type = get_file_type(href)
+
+                file_name = extract_file_name(href)
+
                 data_entry = {
                     "equity_ticker": "CL",
                     "source_type": "company_information",
-                    "frequency": classify_frequency(text, href),
-                    "event_type": eventType,
-                    "event_name": text.strip(),
+                    "frequency": freq,
+                    "event_type": event_type,
+                    "event_name": event_name,
                     "event_date": date,
                     "data": [{
-                        "file_name": absolute_url.split('/')[-1],
-                        "file_type": absolute_url.split('.')[-1] if '.' in absolute_url else 'link',
+                        "file_name": file_name,
+                        "file_type": file_type,
                         "date": date,
-                        "category": text.strip(),
+                        "category": category,
                         "source_url": absolute_url,
                         "wissen_url": "NULL"
                     }]
