@@ -101,14 +101,14 @@ async def extract_files_from_page(page):
                 "frequency": "non-periodic",
                 "event_type": "investor_factsheet",
                 "event_name": "Investor Factsheet",
-                "event_date": "UNKNOWN DATE",
+                "event_date": "NULL",
                 "data": [{
                     "file_name": "Investor Factsheet",
                     "file_type": "webpage",
-                    "date": "UNKNOWN DATE",
+                    "date": "NULL",
                     "category": "factsheet",
                     "source_url": factsheet_url,
-                    "wissen_url": "unknown"
+                    "wissen_url": "NULL"
                 }]
             }
 

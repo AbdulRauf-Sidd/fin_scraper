@@ -1,6 +1,7 @@
 import re
 from dateutil.parser import parse
 from datetime import datetime
+import json
 
 def classify_frequency(event_name, event_url):
     # Define a regex pattern that matches the keywords indicating a periodic event
@@ -340,7 +341,7 @@ async def extract_date_from_text(text):
             except ValueError:
                 pass  # Skip if parsing fails
 
-    return None  # Return None if no date is found
+    return "NULL"  # Return None if no date is found
 
 
 async def accept_cookies(page):
@@ -365,7 +366,7 @@ def categorize_event(event_name: str) -> str:
     :return: The category of the event
     """
 
-    # **Step 1: Direct Matching for Core Event Names**
+    # *Step 1: Direct Matching for Core Event Names*
     exact_matches = {
         r"\bpress\b|\bpress release\b": "press_release",
         r"\bcapital markets\b|\bcapital markets day\b": "capital_markets_day",
@@ -382,7 +383,7 @@ def categorize_event(event_name: str) -> str:
         if re.search(pattern, event_name_lower, re.IGNORECASE):
             return category  # Return immediately if a direct match is found
 
-    # **Step 2: Pattern Matching for More Variations**
+    # *Step 2: Pattern Matching for More Variations*
     patterns = {
         "press_release": re.compile(
             r"(press|announce|approval|update|break ground|expansion|hire|transition|"
@@ -429,12 +430,12 @@ def categorize_event(event_name: str) -> str:
         ),
     }
 
-    # **Step 3: Apply Pattern Matching**
+    # *Step 3: Apply Pattern Matching*
     for category, regex in patterns.items():
         if regex.search(event_name_lower):
             return category
 
-    # **Step 4: Fallback Categorization**
+    # *Step 4: Fallback Categorization*
     if "presentation" in event_name_lower:
         return "fact_sheet"
     if "meeting" in event_name_lower:
@@ -443,3 +444,16 @@ def categorize_event(event_name: str) -> str:
         return "trading_updates"
     
     return "other"  # Default if no match is found
+
+def save_json(data, filename):
+    file_mode = 'a' if os.path.exists(filename) else 'w'
+    with open(filename, file_mode) as f:
+        if file_mode == 'a':  # File exists, append to it
+            f.seek(0, os.SEEK_END)  # Seek to end of file
+            f.seek(f.tell() - 1, os.SEEK_SET)  # Go back one character from the end
+            f.truncate()  # Remove the last character (should be a closing bracket ])
+            f.write(',\n')  # Prepare for new JSON object
+            json.dump(data, f)
+            f.write(']')
+        else:  # File does not exist, create new
+            json.dump([data], f)  # Write data as a list of JSON objects
