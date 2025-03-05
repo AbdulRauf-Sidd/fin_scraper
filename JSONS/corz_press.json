@@ -1,0 +1,1442 @@
+[
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/03/03",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-planned-cfo-transition",
+                "file_type": "html",
+                "date": "2025/03/03",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/111/core-scientific-announces-planned-cfo-transition",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site",
+                "file_type": "html",
+                "date": "2025/02/26",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/02/26",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
+                "file_type": "html",
+                "date": "2025/02/26",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/109/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/02/21",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-schedules-fourth-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "file_type": "html",
+                "date": "2025/02/21",
+                "category": "transcript",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/108/core-scientific-inc-schedules-fourth-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/02/19",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-expansion-into-auburn-alabama-with-new-high-performance-computing-facility",
+                "file_type": "html",
+                "date": "2025/02/19",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/107/core-scientific-announces-expansion-into-auburn-alabama-with-new-high-performance-computing-facility",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/02/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-january-2025-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2025/02/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/106/core-scientific-announces-january-2025-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/01/09",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-strategic-marketing-hire-to-accelerate-growth-and-brand-leadership",
+                "file_type": "html",
+                "date": "2025/01/09",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/105/core-scientific-announces-strategic-marketing-hire-to-accelerate-growth-and-brand-leadership",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2025",
+        "event_date": "2025/01/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-december-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2025/01/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/104/core-scientific-announces-december-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/12/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-november-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/12/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/103/core-scientific-announces-november-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/12/03",
+        "data": [
+            {
+                "file_name": "core-scientific-prices-upsized-550-million-convertible-senior-notes-offering",
+                "file_type": "html",
+                "date": "2024/12/03",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/102/core-scientific-prices-upsized-550-million-convertible-senior-notes-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/12/02",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-proposed-convertible-senior-notes-offering",
+                "file_type": "html",
+                "date": "2024/12/02",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/101/core-scientific-announces-proposed-convertible-senior-notes-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/11/20",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion",
+                "file_type": "html",
+                "date": "2024/11/20",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/100/core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/11/18",
+        "data": [
+            {
+                "file_name": "core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center",
+                "file_type": "html",
+                "date": "2024/11/18",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/11/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-fiscal-third-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/11/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/98/core-scientific-announces-fiscal-third-quarter-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/11/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-october-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/11/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/97/core-scientific-announces-october-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/10/30",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "file_type": "html",
+                "date": "2024/10/30",
+                "category": "transcript",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/96/core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/10/22",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations",
+                "file_type": "html",
+                "date": "2024/10/22",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/95/core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2024",
+        "event_date": "2024/10/07",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-september-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/10/07",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/94/core-scientific-announces-september-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/09/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-extension-of-coreweave-option-for-118-megawatts-of-infrastructure-to-support-high-performance-computing",
+                "file_type": "html",
+                "date": "2024/09/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/93/core-scientific-announces-extension-of-coreweave-option-for-118-megawatts-of-infrastructure-to-support-high-performance-computing",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/09/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-cfo-transition-plan",
+                "file_type": "html",
+                "date": "2024/09/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/92/core-scientific-announces-cfo-transition-plan",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/09/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-august-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/09/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/91/core-scientific-announces-august-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/30",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-participate-in-september-investor-conferences",
+                "file_type": "html",
+                "date": "2024/08/30",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/90/core-scientific-inc-to-participate-in-september-investor-conferences",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/20",
+        "data": [
+            {
+                "file_name": "core-scientific-strengthens-balance-sheet-and-supports-growth-plans-with-proceeds-from-recent-convertible-notes-offering",
+                "file_type": "html",
+                "date": "2024/08/20",
+                "category": "financial statements",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/89/core-scientific-strengthens-balance-sheet-and-supports-growth-plans-with-proceeds-from-recent-convertible-notes-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/14",
+        "data": [
+            {
+                "file_name": "core-scientific-prices-upsized-400-million-convertible-senior-notes-offering",
+                "file_type": "html",
+                "date": "2024/08/14",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/88/core-scientific-prices-upsized-400-million-convertible-senior-notes-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/13",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-participate-in-the-44th-annual-cannacord-genuity-growth-conference",
+                "file_type": "html",
+                "date": "2024/08/13",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/87/core-scientific-inc-to-participate-in-the-44th-annual-cannacord-genuity-growth-conference",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/13",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-proposed-convertible-senior-notes-offering",
+                "file_type": "html",
+                "date": "2024/08/13",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/86/core-scientific-announces-proposed-convertible-senior-notes-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/07",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-fiscal-second-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/08/07",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/85/core-scientific-announces-fiscal-second-quarter-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-exercise-of-additional-contract-option-by-coreweave-for-delivery-of-approximately-112-mw-of-additional-infrastructure-to-host-high-performance-computing-operations",
+                "file_type": "html",
+                "date": "2024/08/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/84/core-scientific-announces-exercise-of-additional-contract-option-by-coreweave-for-delivery-of-approximately-112-mw-of-additional-infrastructure-to-host-high-performance-computing-operations",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/08/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-july-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/08/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/83/core-scientific-announces-july-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/31",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-schedules-second-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "file_type": "html",
+                "date": "2024/07/31",
+                "category": "transcript",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/82/core-scientific-inc-schedules-second-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/12",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-tranche-2-warrants-triggering-event",
+                "file_type": "html",
+                "date": "2024/07/12",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/81/core-scientific-announces-tranche-2-warrants-triggering-event",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/08",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-mandatory-conversion-of-outstanding-secured-convertible-notes",
+                "file_type": "html",
+                "date": "2024/07/08",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/80/core-scientific-announces-mandatory-conversion-of-outstanding-secured-convertible-notes",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2024",
+        "event_date": "2024/07/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-june-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/07/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/79/core-scientific-announces-june-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/25",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-new-contract-with-coreweave-for-delivery-of-approximately-70-mw-of-additional-infrastructure-to-host-high-performance-computing-operations",
+                "file_type": "html",
+                "date": "2024/06/25",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/78/core-scientific-announces-new-contract-with-coreweave-for-delivery-of-approximately-70-mw-of-additional-infrastructure-to-host-high-performance-computing-operations",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/10",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-webcast-investor-and-analyst-presentation",
+                "file_type": "html",
+                "date": "2024/06/10",
+                "category": "presentation",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/77/core-scientific-inc-to-webcast-investor-and-analyst-presentation",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/06",
+        "data": [
+            {
+                "file_name": "core-scientific-rejects-unsolicited-proposal-from-coreweave",
+                "file_type": "html",
+                "date": "2024/06/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/76/core-scientific-rejects-unsolicited-proposal-from-coreweave",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-may-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/06/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/75/core-scientific-announces-may-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/06/03",
+        "data": [
+            {
+                "file_name": "core-scientific-to-provide-approximately-200-mw-of-infrastructure-to-host-coreweaves-high-performance-computing-services-capturing-significant-ai-compute-opportunity",
+                "file_type": "html",
+                "date": "2024/06/03",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/74/core-scientific-to-provide-approximately-200-mw-of-infrastructure-to-host-coreweaves-high-performance-computing-services-capturing-significant-ai-compute-opportunity",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/05/15",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference",
+                "file_type": "html",
+                "date": "2024/05/15",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/73/core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/05/08",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-fiscal-first-quarter-2024-results",
+                "file_type": "html",
+                "date": "2024/05/08",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/72/core-scientific-announces-fiscal-first-quarter-2024-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/05/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-april-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/05/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/71/core-scientific-announces-april-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/05/03",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-schedules-first-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "file_type": "html",
+                "date": "2024/05/03",
+                "category": "transcript",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/70/core-scientific-inc-schedules-first-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/16",
+        "data": [
+            {
+                "file_name": "core-scientific-to-expand-its-denton-texas-bitcoin-mining-data-center-by-72-megawatts",
+                "file_type": "html",
+                "date": "2024/04/16",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/5/core-scientific-to-expand-its-denton-texas-bitcoin-mining-data-center-by-72-megawatts",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/15",
+        "data": [
+            {
+                "file_name": "core-scientific-files-registration-statement-for-shares-held-by-existing-shareholders",
+                "file_type": "html",
+                "date": "2024/04/15",
+                "category": "report",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/6/core-scientific-files-registration-statement-for-shares-held-by-existing-shareholders",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2024",
+        "event_date": "2024/04/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-march-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/04/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/7/core-scientific-announces-march-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/03/12",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
+                "file_type": "html",
+                "date": "2024/03/12",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/8/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/03/06",
+        "data": [
+            {
+                "file_name": "core-scientific-to-provide-coreweave-up-to-16-mw-of-data-center-infrastructure-to-support-ai-and-hpc-workloads-in-long-term-hosting-contract-with-potential-revenue-of-more-than-100-million",
+                "file_type": "html",
+                "date": "2024/03/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/9/core-scientific-to-provide-coreweave-up-to-16-mw-of-data-center-infrastructure-to-support-ai-and-hpc-workloads-in-long-term-hosting-contract-with-potential-revenue-of-more-than-100-million",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/03/05",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-schedules-full-fiscal-year-2023-earnings-release-conference-call-and-webcast",
+                "file_type": "html",
+                "date": "2024/03/05",
+                "category": "transcript",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/10/core-scientific-inc-schedules-full-fiscal-year-2023-earnings-release-conference-call-and-webcast",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/03/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-february-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/03/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/11/core-scientific-announces-february-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/02/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-january-2024-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/02/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/12/core-scientific-announces-january-2024-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/23",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-emerges-from-chapter-11-with-strengthened-balance-sheet-and-enhanced-competitive-position",
+                "file_type": "html",
+                "date": "2024/01/23",
+                "category": "financial statements",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/13/core-scientific-inc-emerges-from-chapter-11-with-strengthened-balance-sheet-and-enhanced-competitive-position",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/22",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-releases-webcast-and-presentation-with-updates-on-chapter-11-emergence",
+                "file_type": "html",
+                "date": "2024/01/22",
+                "category": "presentation",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/38/core-scientific-inc-releases-webcast-and-presentation-with-updates-on-chapter-11-emergence",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/16",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-plan-of-reorganization-confirmed-by-bankruptcy-court",
+                "file_type": "html",
+                "date": "2024/01/16",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/39/core-scientific-inc-plan-of-reorganization-confirmed-by-bankruptcy-court",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/16",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-present-at-26th-annual-needham-growth-conference",
+                "file_type": "html",
+                "date": "2024/01/16",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/40/core-scientific-inc-to-present-at-26th-annual-needham-growth-conference",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/08",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-announces-final-results-of-oversubscribed-55-million-equity-rights-offering",
+                "file_type": "html",
+                "date": "2024/01/08",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/41/core-scientific-inc-announces-final-results-of-oversubscribed-55-million-equity-rights-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-december-and-full-year-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2024/01/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/42/core-scientific-announces-december-and-full-year-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q1 2024",
+        "event_date": "2024/01/04",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-announces-full-pay-down-of-debtor-in-possession-financing",
+                "file_type": "html",
+                "date": "2024/01/04",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/43/core-scientific-inc-announces-full-pay-down-of-debtor-in-possession-financing",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/29",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-announces-filing-of-amended-plan-of-reorganization-and-extension-of-equity-rights-offering-subscription-deadline",
+                "file_type": "html",
+                "date": "2023/12/29",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/44/core-scientific-inc-announces-filing-of-amended-plan-of-reorganization-and-extension-of-equity-rights-offering-subscription-deadline",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/21",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-announces-agreement-in-principle-on-terms-of-chapter-11-global-plan-settlement-with-all-key-stakeholders-and-extension-of-equity-rights-offering-subscription-deadline",
+                "file_type": "html",
+                "date": "2023/12/21",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/45/core-scientific-inc-announces-agreement-in-principle-on-terms-of-chapter-11-global-plan-settlement-with-all-key-stakeholders-and-extension-of-equity-rights-offering-subscription-deadline",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/08",
+        "data": [
+            {
+                "file_name": "how-to-subscribe-to-core-scientifics-equity-rights-offering",
+                "file_type": "html",
+                "date": "2023/12/08",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/46/how-to-subscribe-to-core-scientifics-equity-rights-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/07",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-announces-extension-of-equity-rights-offering-subscription-period-to-december-15",
+                "file_type": "html",
+                "date": "2023/12/07",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/47/core-scientific-inc-announces-extension-of-equity-rights-offering-subscription-period-to-december-15",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-november-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/12/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/48/core-scientific-announces-november-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/12/04",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-releases-webcast-with-key-highlights-and-updates-on-planned-january-chapter-11-emergence",
+                "file_type": "html",
+                "date": "2023/12/04",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/49/core-scientific-inc-releases-webcast-with-key-highlights-and-updates-on-planned-january-chapter-11-emergence",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/11/20",
+        "data": [
+            {
+                "file_name": "correcting-and-replacing-core-scientific-inc-announces-55-million-equity-rights-offering",
+                "file_type": "html",
+                "date": "2023/11/20",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/50/correcting-and-replacing-core-scientific-inc-announces-55-million-equity-rights-offering",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/11/13",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-host-analyst-and-investor-presentation",
+                "file_type": "html",
+                "date": "2023/11/13",
+                "category": "presentation",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/51/core-scientific-inc-to-host-analyst-and-investor-presentation",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/11/06",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-october-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/11/06",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/52/core-scientific-announces-october-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/10/30",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-agreement-in-principle-with-key-constituencies-in-its-chapter-11-cases",
+                "file_type": "html",
+                "date": "2023/10/30",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/53/core-scientific-announces-agreement-in-principle-with-key-constituencies-in-its-chapter-11-cases",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q4 2023",
+        "event_date": "2023/10/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-september-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/10/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/54/core-scientific-announces-september-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/21",
+        "data": [
+            {
+                "file_name": "bitmain-to-invest-54-million-in-core-scientific-inc-as-part-of-new-supply-contract",
+                "file_type": "html",
+                "date": "2023/09/21",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/55/bitmain-to-invest-54-million-in-core-scientific-inc-as-part-of-new-supply-contract",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/15",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-and-celsius-mining-llc-enter-into-purchase-agreement-for-core-scientifics-texas-data-center-site-agree-to-settle-all-existing-litigation",
+                "file_type": "html",
+                "date": "2023/09/15",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/56/core-scientific-inc-and-celsius-mining-llc-enter-into-purchase-agreement-for-core-scientifics-texas-data-center-site-agree-to-settle-all-existing-litigation",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/12",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-present-at-h-c-wainwright-25th-annual-global-investment-conference",
+                "file_type": "html",
+                "date": "2023/09/12",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/57/core-scientific-inc-to-present-at-h-c-wainwright-25th-annual-global-investment-conference",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/08",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-to-participate-in-h-c-wainwright-global-investment-conference",
+                "file_type": "html",
+                "date": "2023/09/08",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/58/core-scientific-inc-to-participate-in-h-c-wainwright-global-investment-conference",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/09/07",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-august-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/09/07",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/59/core-scientific-announces-august-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/08/07",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-july-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/08/07",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/60/core-scientific-announces-july-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/08/04",
+        "data": [
+            {
+                "file_name": "core-scientific-inc-appoints-adam-sullivan-as-ceo-to-lead-the-companys-next-phase-of-growth",
+                "file_type": "html",
+                "date": "2023/08/04",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/61/core-scientific-inc-appoints-adam-sullivan-as-ceo-to-lead-the-companys-next-phase-of-growth",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q3 2023",
+        "event_date": "2023/07/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-june-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/07/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/62/core-scientific-announces-june-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/06/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-may-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/06/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/63/core-scientific-announces-may-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/05/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-april-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/05/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/64/core-scientific-announces-april-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/04/28",
+        "data": [
+            {
+                "file_name": "core-scientific-signs-hosting-contracts-with-three-public-companies-during-reorganization-maintains-industry-position-as-one-of-north-americas-largest-bitcoin-miners",
+                "file_type": "html",
+                "date": "2023/04/28",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/65/core-scientific-signs-hosting-contracts-with-three-public-companies-during-reorganization-maintains-industry-position-as-one-of-north-americas-largest-bitcoin-miners",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
+        "event_name": "Q2 2023",
+        "event_date": "2023/04/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-march-2023-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2023/04/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/66/core-scientific-announces-march-2023-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    }
+]
