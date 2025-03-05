@@ -76,7 +76,7 @@ async def extract_files_from_page(page):
                 category = classify_document(event_name, event_url) 
                 file_type = get_file_type(event_url)
 
-                file_name = extract_file_name(event_url)
+                file_name = await extract_file_name(event_url)
 
                 # Append structured event data
                 file_links_collected.append({
@@ -87,7 +87,7 @@ async def extract_files_from_page(page):
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": [{
-                        "file_name": event_name,
+                        "file_name": file_name,
                         "file_type": file_type,
                         "date": event_date_parsed.strftime("%Y/%m/%d"),
                         "category": category,

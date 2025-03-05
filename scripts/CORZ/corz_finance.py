@@ -100,7 +100,7 @@ async def extract_files_from_page(page):
                     if not file_url.startswith("http"):
                         file_url = urljoin(SEC_FILINGS_URL, file_url)
 
-                    file_name = extract_file_name(file_url)
+                    file_name = await extract_file_name(file_url)
                     
 
                     category = classify_document(file_url, file_url) 
