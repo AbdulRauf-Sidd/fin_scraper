@@ -4,16 +4,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell's Reports Second Quarter Fiscal 2025 Results",
+        "event_name": "Q1 2025",
         "event_date": "2025/03/05",
         "data": [
             {
-                "file_name": "Campbell's Reports Second Quarter Fiscal 2025 Results",
-                "file_type": "webpage",
+                "file_name": "campbells-reports-second-quarter-fiscal-2025-results",
+                "file_type": "html",
                 "date": "2025/03/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-reports-second-quarter-fiscal-2025-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -22,16 +22,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell\u2019s Company to Participate in a Fireside Chat at BofA Securities 2025 Consumer and Retail Conference on March 11",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/27",
         "data": [
             {
-                "file_name": "The Campbell\u2019s Company to Participate in a Fireside Chat at BofA Securities 2025 Consumer and Retail Conference on March 11",
-                "file_type": "webpage",
+                "file_name": "campbells-company-participate-fireside-chat-bofa-securities-2025",
+                "file_type": "html",
                 "date": "2025/02/27",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-company-participate-fireside-chat-bofa-securities-2025",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -40,16 +40,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell\u2019s Company Declares Quarterly Dividend",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/26",
         "data": [
             {
-                "file_name": "The Campbell\u2019s Company Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbells-company-declares-quarterly-dividend",
+                "file_type": "html",
                 "date": "2025/02/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-company-declares-quarterly-dividend",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -58,16 +58,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s Completes Sale of noosa Business to Lakeview Farms",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/24",
         "data": [
             {
-                "file_name": "Campbell\u2019s Completes Sale of noosa Business to Lakeview Farms",
-                "file_type": "webpage",
+                "file_name": "campbells-completes-sale-noosa-business-lakeview-farms",
+                "file_type": "html",
                 "date": "2025/02/24",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-completes-sale-noosa-business-lakeview-farms",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -76,16 +76,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell\u2019s Company to Report Second Quarter Fiscal 2025 Results on March 5, 2025",
+        "event_name": "Q1 2025",
         "event_date": "2025/02/19",
         "data": [
             {
-                "file_name": "The Campbell\u2019s Company to Report Second Quarter Fiscal 2025 Results on March 5, 2025",
-                "file_type": "webpage",
+                "file_name": "campbells-company-report-second-quarter-fiscal-2025-results",
+                "file_type": "html",
                 "date": "2025/02/19",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-company-report-second-quarter-fiscal-2025-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -94,16 +94,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s Appoints Risa Cretella President of Meals & Beverages Division",
+        "event_name": "Q1 2025",
         "event_date": "2025/01/22",
         "data": [
             {
-                "file_name": "Campbell\u2019s Appoints Risa Cretella President of Meals & Beverages Division",
-                "file_type": "webpage",
+                "file_name": "campbells-appoints-risa-cretella-president-meals-beverages",
+                "file_type": "html",
                 "date": "2025/01/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-appoints-risa-cretella-president-meals-beverages",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -112,16 +112,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Full Futures Partnership Advances School Nutrition in its Third Year",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/17",
         "data": [
             {
-                "file_name": "The Full Futures Partnership Advances School Nutrition in its Third Year",
-                "file_type": "webpage",
+                "file_name": "full-futures-partnership-advances-school-nutrition-its-third",
+                "file_type": "html",
                 "date": "2024/12/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/full-futures-partnership-advances-school-nutrition-its-third",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -130,16 +130,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell's Reports First-Quarter Fiscal 2025 Results; Reaffirms Full-Year Fiscal 2025 Guidance and Increases Quarterly Dividend",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/03",
         "data": [
             {
-                "file_name": "Campbell's Reports First-Quarter Fiscal 2025 Results; Reaffirms Full-Year Fiscal 2025 Guidance and Increases Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbells-reports-first-quarter-fiscal-2025-results-reaffirms",
+                "file_type": "html",
                 "date": "2024/12/03",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-reports-first-quarter-fiscal-2025-results-reaffirms",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -148,16 +148,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell\u2019s Company Board of Directors Elects Mick Beekhuizen Chief Executive Officer to Succeed Mark Clouse",
+        "event_name": "Q4 2024",
         "event_date": "2024/12/03",
         "data": [
             {
-                "file_name": "The Campbell\u2019s Company Board of Directors Elects Mick Beekhuizen Chief Executive Officer to Succeed Mark Clouse",
-                "file_type": "webpage",
+                "file_name": "campbells-company-board-directors-elects-mick-beekhuizen-chief",
+                "file_type": "html",
                 "date": "2024/12/03",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-company-board-directors-elects-mick-beekhuizen-chief",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -166,16 +166,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell\u2019s Company to Report First-Quarter Fiscal 2025 Results on December 4, 2024",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/20",
         "data": [
             {
-                "file_name": "The Campbell\u2019s Company to Report First-Quarter Fiscal 2025 Results on December 4, 2024",
-                "file_type": "webpage",
+                "file_name": "campbells-company-report-first-quarter-fiscal-2025-results",
+                "file_type": "html",
                 "date": "2024/11/20",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-company-report-first-quarter-fiscal-2025-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -184,16 +184,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "annual",
-        "event_name": "Shareholders Overwhelmingly Approve the Change in Company Name to The Campbell's Company at Annual Meeting",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/19",
         "data": [
             {
-                "file_name": "Shareholders Overwhelmingly Approve the Change in Company Name to The Campbell's Company at Annual Meeting",
-                "file_type": "webpage",
+                "file_name": "shareholders-overwhelmingly-approve-change-company-name",
+                "file_type": "html",
                 "date": "2024/11/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/shareholders-overwhelmingly-approve-change-company-name",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -202,16 +202,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s Appoints Daniel L. Poland Chief Enterprise Transformation Officer",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/14",
         "data": [
             {
-                "file_name": "Campbell\u2019s Appoints Daniel L. Poland Chief Enterprise Transformation Officer",
-                "file_type": "webpage",
+                "file_name": "campbells-appoints-daniel-l-poland-chief-enterprise",
+                "file_type": "html",
                 "date": "2024/11/14",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-appoints-daniel-l-poland-chief-enterprise",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -220,16 +220,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s to Sell noosa Business to Lakeview Farms",
+        "event_name": "Q4 2024",
         "event_date": "2024/11/12",
         "data": [
             {
-                "file_name": "Campbell\u2019s to Sell noosa Business to Lakeview Farms",
-                "file_type": "webpage",
+                "file_name": "campbells-sell-noosa-business-lakeview-farms",
+                "file_type": "html",
                 "date": "2024/11/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-sell-noosa-business-lakeview-farms",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -238,16 +238,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s and Partners Receive $3.4 Million USDA Grant to Support Sustainable Tomato-Growing Practices in California",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/28",
         "data": [
             {
-                "file_name": "Campbell\u2019s and Partners Receive $3.4 Million USDA Grant to Support Sustainable Tomato-Growing Practices in California",
-                "file_type": "webpage",
+                "file_name": "campbells-and-partners-receive-34-million-usda-grant-support",
+                "file_type": "html",
                 "date": "2024/10/28",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-and-partners-receive-34-million-usda-grant-support",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -256,16 +256,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s and Harris Blitzer Sports & Entertainment Announce Partnership Across Four Storied Franchises",
+        "event_name": "Q4 2024",
         "event_date": "2024/10/17",
         "data": [
             {
-                "file_name": "Campbell\u2019s and Harris Blitzer Sports & Entertainment Announce Partnership Across Four Storied Franchises",
-                "file_type": "webpage",
+                "file_name": "campbells-and-harris-blitzer-sports-entertainment-announce",
+                "file_type": "html",
                 "date": "2024/10/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-and-harris-blitzer-sports-entertainment-announce",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -274,16 +274,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2024",
         "event_date": "2024/09/18",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-34",
+                "file_type": "html",
                 "date": "2024/09/18",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-34",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -292,16 +292,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Launches Next Chapter of Growth at Fiscal 2025 Investor Day",
+        "event_name": "Q3 2024",
         "event_date": "2024/09/10",
         "data": [
             {
-                "file_name": "Campbell Launches Next Chapter of Growth at Fiscal 2025 Investor Day",
-                "file_type": "webpage",
+                "file_name": "campbell-launches-next-chapter-growth-fiscal-2025-investor-day",
+                "file_type": "html",
                 "date": "2024/09/10",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-launches-next-chapter-growth-fiscal-2025-investor-day",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -310,16 +310,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Share Next Chapter of Growth Strategy at Fiscal 2025 Investor Day",
+        "event_name": "Q3 2024",
         "event_date": "2024/09/09",
         "data": [
             {
-                "file_name": "Campbell to Share Next Chapter of Growth Strategy at Fiscal 2025 Investor Day",
-                "file_type": "webpage",
+                "file_name": "campbell-share-next-chapter-growth-strategy-fiscal-2025-investor",
+                "file_type": "html",
                 "date": "2024/09/09",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-share-next-chapter-growth-strategy-fiscal-2025-investor",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -328,16 +328,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "CORRECTING and REPLACING Campbell Reports Fourth-Quarter Fiscal 2024 Results; Provides Full-Year Fiscal 2025 Guidance",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/29",
         "data": [
             {
-                "file_name": "CORRECTING and REPLACING Campbell Reports Fourth-Quarter Fiscal 2024 Results; Provides Full-Year Fiscal 2025 Guidance",
-                "file_type": "webpage",
+                "file_name": "correcting-and-replacing-campbell-reports-fourth-quarter-fiscal",
+                "file_type": "html",
                 "date": "2024/08/29",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/correcting-and-replacing-campbell-reports-fourth-quarter-fiscal",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -346,16 +346,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Sells Pop Secret Business to Our Home",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/26",
         "data": [
             {
-                "file_name": "Campbell Sells Pop Secret Business to Our Home",
-                "file_type": "webpage",
+                "file_name": "campbell-sells-pop-secret-business-our-home",
+                "file_type": "html",
                 "date": "2024/08/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-sells-pop-secret-business-our-home",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -364,16 +364,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report Fourth-Quarter and Full-Year Fiscal 2024 Results on August 29, 2024",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/14",
         "data": [
             {
-                "file_name": "Campbell to Report Fourth-Quarter and Full-Year Fiscal 2024 Results on August 29, 2024",
-                "file_type": "webpage",
+                "file_name": "campbell-report-fourth-quarter-and-full-year-fiscal-2024-results",
+                "file_type": "html",
                 "date": "2024/08/14",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-fourth-quarter-and-full-year-fiscal-2024-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -382,16 +382,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Transfer Stock Exchange Listing to Nasdaq",
+        "event_name": "Q3 2024",
         "event_date": "2024/08/01",
         "data": [
             {
-                "file_name": "Campbell to Transfer Stock Exchange Listing to Nasdaq",
-                "file_type": "webpage",
+                "file_name": "campbell-transfer-stock-exchange-listing-nasdaq",
+                "file_type": "html",
                 "date": "2024/08/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-transfer-stock-exchange-listing-nasdaq",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -400,16 +400,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Names Jill Pratt Senior Vice President, Chief Marketing Officer, Meals & Beverages",
+        "event_name": "Q3 2024",
         "event_date": "2024/07/29",
         "data": [
             {
-                "file_name": "Campbell Names Jill Pratt Senior Vice President, Chief Marketing Officer, Meals & Beverages",
-                "file_type": "webpage",
+                "file_name": "campbell-names-jill-pratt-senior-vice-president-chief-marketing",
+                "file_type": "html",
                 "date": "2024/07/29",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-names-jill-pratt-senior-vice-president-chief-marketing",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -418,16 +418,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Fiscal 2024 Results",
+        "event_name": "Q2 2024",
         "event_date": "2024/06/05",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Fiscal 2024 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-fiscal-2024-results",
+                "file_type": "html",
                 "date": "2024/06/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-fiscal-2024-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -436,16 +436,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s Management to Participate in the Evercore ISI Consumer & Retail Conference",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/29",
         "data": [
             {
-                "file_name": "Campbell\u2019s Management to Participate in the Evercore ISI Consumer & Retail Conference",
-                "file_type": "webpage",
+                "file_name": "campbells-management-participate-evercore-isi-consumer-retail",
+                "file_type": "html",
                 "date": "2024/05/29",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-management-participate-evercore-isi-consumer-retail",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -454,16 +454,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Announces Supply Chain Optimization Plan to Fuel Growth",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/28",
         "data": [
             {
-                "file_name": "Campbell Announces Supply Chain Optimization Plan to Fuel Growth",
-                "file_type": "webpage",
+                "file_name": "campbell-announces-supply-chain-optimization-plan-fuel-growth",
+                "file_type": "html",
                 "date": "2024/05/28",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-announces-supply-chain-optimization-plan-fuel-growth",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -472,16 +472,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report Third Quarter Fiscal 2024 Results on June 5, 2024, and Host Investor Day in New York City in mid-September 2024",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/16",
         "data": [
             {
-                "file_name": "Campbell to Report Third Quarter Fiscal 2024 Results on June 5, 2024, and Host Investor Day in New York City in mid-September 2024",
-                "file_type": "webpage",
+                "file_name": "campbell-report-third-quarter-fiscal-2024-results-june-5-2024",
+                "file_type": "html",
                 "date": "2024/05/16",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-third-quarter-fiscal-2024-results-june-5-2024",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -490,16 +490,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2024",
         "event_date": "2024/05/13",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend",
+                "file_type": "html",
                 "date": "2024/05/13",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -508,16 +508,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s Awards $880,000 in Community Impact Grants",
+        "event_name": "Q2 2024",
         "event_date": "2024/04/17",
         "data": [
             {
-                "file_name": "Campbell\u2019s Awards $880,000 in Community Impact Grants",
-                "file_type": "webpage",
+                "file_name": "campbells-awards-880000-community-impact-grants",
+                "file_type": "html",
                 "date": "2024/04/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-awards-880000-community-impact-grants",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -526,16 +526,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Completes Acquisition of Sovos Brands, Inc.",
+        "event_name": "Q1 2024",
         "event_date": "2024/03/12",
         "data": [
             {
-                "file_name": "Campbell Completes Acquisition of Sovos Brands, Inc.",
-                "file_type": "webpage",
+                "file_name": "campbell-completes-acquisition-sovos-brands-inc",
+                "file_type": "html",
                 "date": "2024/03/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-completes-acquisition-sovos-brands-inc",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -544,16 +544,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Fiscal 2024 Results",
+        "event_name": "Q1 2024",
         "event_date": "2024/03/06",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Fiscal 2024 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-fiscal-2024-results",
+                "file_type": "html",
                 "date": "2024/03/06",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-fiscal-2024-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -562,16 +562,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Participate in a Fireside Chat at BofA Securities 2024 Consumer and Retail Conference on March 12",
+        "event_name": "Q1 2024",
         "event_date": "2024/03/05",
         "data": [
             {
-                "file_name": "Campbell to Participate in a Fireside Chat at BofA Securities 2024 Consumer and Retail Conference on March 12",
-                "file_type": "webpage",
+                "file_name": "campbell-participate-fireside-chat-bofa-securities-2024-consumer",
+                "file_type": "html",
                 "date": "2024/03/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-participate-fireside-chat-bofa-securities-2024-consumer",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -580,16 +580,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/28",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-0",
+                "file_type": "html",
                 "date": "2024/02/28",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -598,16 +598,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report Second Quarter Fiscal 2024 Results on March 6, 2024",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/21",
         "data": [
             {
-                "file_name": "Campbell to Report Second Quarter Fiscal 2024 Results on March 6, 2024",
-                "file_type": "webpage",
+                "file_name": "campbell-report-second-quarter-fiscal-2024-results-march-6-2024",
+                "file_type": "html",
                 "date": "2024/02/21",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-second-quarter-fiscal-2024-results-march-6-2024",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -616,16 +616,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Names Anthony Kyles Chief Customer Officer of Meals & Beverages",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/20",
         "data": [
             {
-                "file_name": "Campbell Names Anthony Kyles Chief Customer Officer of Meals & Beverages",
-                "file_type": "webpage",
+                "file_name": "campbell-names-anthony-kyles-chief-customer-officer-meals",
+                "file_type": "html",
                 "date": "2024/02/20",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-names-anthony-kyles-chief-customer-officer-meals",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -634,16 +634,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and Sovos Brands Certify Substantial Compliance with Second Request from FTC; Begins the Start of 30-Day Waiting Period",
+        "event_name": "Q1 2024",
         "event_date": "2024/02/13",
         "data": [
             {
-                "file_name": "Campbell and Sovos Brands Certify Substantial Compliance with Second Request from FTC; Begins the Start of 30-Day Waiting Period",
-                "file_type": "webpage",
+                "file_name": "campbell-and-sovos-brands-certify-substantial-compliance-second",
+                "file_type": "html",
                 "date": "2024/02/13",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-sovos-brands-certify-substantial-compliance-second",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -652,16 +652,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports First-Quarter Fiscal 2024 Results",
+        "event_name": "Q4 2023",
         "event_date": "2023/12/06",
         "data": [
             {
-                "file_name": "Campbell Reports First-Quarter Fiscal 2024 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-first-quarter-fiscal-2024-results",
+                "file_type": "html",
                 "date": "2023/12/06",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-first-quarter-fiscal-2024-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -670,16 +670,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/26",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-1",
+                "file_type": "html",
                 "date": "2023/11/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-1",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -688,16 +688,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report First-Quarter Fiscal 2024 Results on Dec. 6, 2023",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/21",
         "data": [
             {
-                "file_name": "Campbell to Report First-Quarter Fiscal 2024 Results on Dec. 6, 2023",
-                "file_type": "webpage",
+                "file_name": "campbell-report-first-quarter-fiscal-2024-results-dec-6-2023",
+                "file_type": "html",
                 "date": "2023/11/21",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-first-quarter-fiscal-2024-results-dec-6-2023",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -706,16 +706,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Charles A. Brawley, III Executive Vice President, General Counsel, and Corporate Secretary",
+        "event_name": "Q4 2023",
         "event_date": "2023/11/08",
         "data": [
             {
-                "file_name": "Campbell Appoints Charles A. Brawley, III Executive Vice President, General Counsel, and Corporate Secretary",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-charles-brawley-iii-executive-vice-president",
+                "file_type": "html",
                 "date": "2023/11/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-charles-brawley-iii-executive-vice-president",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -724,16 +724,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Receives Second Request from FTC Under HSR Act for Proposed Acquisition of Sovos Brands, Inc.",
+        "event_name": "Q4 2023",
         "event_date": "2023/10/23",
         "data": [
             {
-                "file_name": "Campbell Receives Second Request from FTC Under HSR Act for Proposed Acquisition of Sovos Brands, Inc.",
-                "file_type": "webpage",
+                "file_name": "campbell-receives-second-request-ftc-under-hsr-act-proposed",
+                "file_type": "html",
                 "date": "2023/10/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-receives-second-request-ftc-under-hsr-act-proposed",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -742,16 +742,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2023",
         "event_date": "2023/09/30",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-2",
+                "file_type": "html",
                 "date": "2023/09/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-2",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -760,16 +760,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell's Management to Participate in a Fireside Chat at TD Cowen Sipping & Snacking Summit",
+        "event_name": "Q3 2023",
         "event_date": "2023/09/12",
         "data": [
             {
-                "file_name": "Campbell's Management to Participate in a Fireside Chat at TD Cowen Sipping & Snacking Summit",
-                "file_type": "webpage",
+                "file_name": "campbells-management-participate-fireside-chat-td-cowen-sipping",
+                "file_type": "html",
                 "date": "2023/09/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbells-management-participate-fireside-chat-td-cowen-sipping",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -778,16 +778,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Fourth-Quarter Fiscal 2023 Results; Provides Full-Year Fiscal 2024 Guidance",
+        "event_name": "Q3 2023",
         "event_date": "2023/08/31",
         "data": [
             {
-                "file_name": "Campbell Reports Fourth-Quarter Fiscal 2023 Results; Provides Full-Year Fiscal 2024 Guidance",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-fourth-quarter-fiscal-2023-results-provides",
+                "file_type": "html",
                 "date": "2023/08/31",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-fourth-quarter-fiscal-2023-results-provides",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -796,16 +796,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report Fourth Quarter Fiscal 2023 Results on August 31, 2023",
+        "event_name": "Q3 2023",
         "event_date": "2023/08/17",
         "data": [
             {
-                "file_name": "Campbell to Report Fourth Quarter Fiscal 2023 Results on August 31, 2023",
-                "file_type": "webpage",
+                "file_name": "campbell-report-fourth-quarter-fiscal-2023-results-august-31",
+                "file_type": "html",
                 "date": "2023/08/17",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-fourth-quarter-fiscal-2023-results-august-31",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -814,16 +814,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Acquire Sovos Brands, Leader in High-Growth Premium Italian Sauces",
+        "event_name": "Q3 2023",
         "event_date": "2023/08/07",
         "data": [
             {
-                "file_name": "Campbell to Acquire Sovos Brands, Leader in High-Growth Premium Italian Sauces",
-                "file_type": "webpage",
+                "file_name": "campbell-acquire-sovos-brands-leader-high-growth-premium-italian",
+                "file_type": "html",
                 "date": "2023/08/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-acquire-sovos-brands-leader-high-growth-premium-italian",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -832,16 +832,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Expand Goldfish Production Capacity with $160 Million Investment in Richmond, Utah Bakery",
+        "event_name": "Q3 2023",
         "event_date": "2023/07/25",
         "data": [
             {
-                "file_name": "Campbell to Expand Goldfish Production Capacity with $160 Million Investment in Richmond, Utah Bakery",
-                "file_type": "webpage",
+                "file_name": "campbell-expand-goldfish-production-capacity-160-million",
+                "file_type": "html",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-expand-goldfish-production-capacity-160-million",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -850,16 +850,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Fiscal 2023 Results",
+        "event_name": "Q2 2023",
         "event_date": "2023/06/07",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Fiscal 2023 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2023/06/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -868,16 +868,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Management to Participate in a Fireside Chat at Evercore ISI Consumer and Retail Conference",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/31",
         "data": [
             {
-                "file_name": "Campbell Management to Participate in a Fireside Chat at Evercore ISI Consumer and Retail Conference",
-                "file_type": "webpage",
+                "file_name": "campbell-management-participate-fireside-chat-evercore-isi",
+                "file_type": "html",
                 "date": "2023/05/31",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-management-participate-fireside-chat-evercore-isi",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -886,16 +886,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Sells Emerald Nuts Business to Flagstone Foods",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/30",
         "data": [
             {
-                "file_name": "Campbell Sells Emerald Nuts Business to Flagstone Foods",
-                "file_type": "webpage",
+                "file_name": "campbell-sells-emerald-nuts-business-flagstone-foods",
+                "file_type": "html",
                 "date": "2023/05/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-sells-emerald-nuts-business-flagstone-foods",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -904,16 +904,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Third Quarter Fiscal 2023 Results on June 7, 2023",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/24",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Third Quarter Fiscal 2023 Results on June 7, 2023",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-third-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2023/05/24",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-third-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -922,16 +922,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2023",
         "event_date": "2023/05/23",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-3",
+                "file_type": "html",
                 "date": "2023/05/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -940,16 +940,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Former Campbell CEO Dale F. Morrison Passes Away",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/14",
         "data": [
             {
-                "file_name": "Former Campbell CEO Dale F. Morrison Passes Away",
-                "file_type": "webpage",
+                "file_name": "former-campbell-ceo-dale-f-morrison-passes-away",
+                "file_type": "html",
                 "date": "2023/04/14",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/former-campbell-ceo-dale-f-morrison-passes-away",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -958,16 +958,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Awards $800,000 in Community Impact Grants",
+        "event_name": "Q2 2023",
         "event_date": "2023/04/05",
         "data": [
             {
-                "file_name": "Campbell Awards $800,000 in Community Impact Grants",
-                "file_type": "webpage",
+                "file_name": "campbell-awards-800000-community-impact-grants",
+                "file_type": "html",
                 "date": "2023/04/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-awards-800000-community-impact-grants",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -976,16 +976,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Fiscal 2023 Results",
+        "event_name": "Q1 2023",
         "event_date": "2023/03/08",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Fiscal 2023 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2023/03/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -994,16 +994,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Participate in a Fireside Chat at BofA Securities 2023 Consumer and Retail Conference",
+        "event_name": "Q1 2023",
         "event_date": "2023/03/07",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Participate in a Fireside Chat at BofA Securities 2023 Consumer and Retail Conference",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-participate-fireside-chat-bofa-securities",
+                "file_type": "html",
                 "date": "2023/03/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-participate-fireside-chat-bofa-securities",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1012,16 +1012,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2023",
         "event_date": "2023/03/01",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-4",
+                "file_type": "html",
                 "date": "2023/03/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-4",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1030,16 +1030,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2023 Results on March 8, 2023",
+        "event_name": "Q1 2023",
         "event_date": "2023/02/22",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2023 Results on March 8, 2023",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-second-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2023/02/22",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-second-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1048,16 +1048,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named to 2023 Bloomberg Gender-Equality Index",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/31",
         "data": [
             {
-                "file_name": "Campbell Named to 2023 Bloomberg Gender-Equality Index",
-                "file_type": "webpage",
+                "file_name": "campbell-named-2023-bloomberg-gender-equality-index",
+                "file_type": "html",
                 "date": "2023/01/31",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-2023-bloomberg-gender-equality-index",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1066,16 +1066,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Carrie Anderson Chief Financial Officer",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/25",
         "data": [
             {
-                "file_name": "Campbell Appoints Carrie Anderson Chief Financial Officer",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-carrie-anderson-chief-financial-officer",
+                "file_type": "html",
                 "date": "2023/01/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-carrie-anderson-chief-financial-officer",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1084,16 +1084,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Consolidate Snacks Offices and Invest $50 Million in Camden Headquarters to Fuel Next Chapter of Growth",
+        "event_name": "Q1 2023",
         "event_date": "2023/01/18",
         "data": [
             {
-                "file_name": "Campbell to Consolidate Snacks Offices and Invest $50 Million in Camden Headquarters to Fuel Next Chapter of Growth",
-                "file_type": "webpage",
+                "file_name": "campbell-consolidate-snacks-offices-and-invest-50-million-camden",
+                "file_type": "html",
                 "date": "2023/01/18",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-consolidate-snacks-offices-and-invest-50-million-camden",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1102,16 +1102,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports First-Quarter Fiscal 2023 Results",
+        "event_name": "Q4 2022",
         "event_date": "2022/12/07",
         "data": [
             {
-                "file_name": "Campbell Reports First-Quarter Fiscal 2023 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-first-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2022/12/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-first-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1120,16 +1120,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/30",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-5",
+                "file_type": "html",
                 "date": "2022/11/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-5",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1138,16 +1138,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report First-Quarter Fiscal 2023 Results on Dec. 7, 2022",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/23",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report First-Quarter Fiscal 2023 Results on Dec. 7, 2022",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-first-quarter-fiscal-2023-results",
+                "file_type": "html",
                 "date": "2022/11/23",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-first-quarter-fiscal-2023-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1156,16 +1156,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Enters Into Renewable Energy Agreement With Enel North America to Advance Greenhouse Gas Reduction Targets",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/21",
         "data": [
             {
-                "file_name": "Campbell Enters Into Renewable Energy Agreement With Enel North America to Advance Greenhouse Gas Reduction Targets",
-                "file_type": "webpage",
+                "file_name": "campbell-enters-renewable-energy-agreement-enel-north-america",
+                "file_type": "html",
                 "date": "2022/11/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-enters-renewable-energy-agreement-enel-north-america",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1174,16 +1174,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Senior Divisional Leaders to Drive Continued Growth",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/01",
         "data": [
             {
-                "file_name": "Campbell Appoints Senior Divisional Leaders to Drive Continued Growth",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-senior-divisional-leaders-drive-continued",
+                "file_type": "html",
                 "date": "2022/11/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-senior-divisional-leaders-drive-continued",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1192,16 +1192,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2022",
         "event_date": "2022/09/21",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-6",
+                "file_type": "html",
                 "date": "2022/09/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-6",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1210,16 +1210,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Fourth-Quarter Fiscal 2022 Results Provides Full-year Fiscal 2023 Guidance",
+        "event_name": "Q3 2022",
         "event_date": "2022/09/01",
         "data": [
             {
-                "file_name": "Campbell Reports Fourth-Quarter Fiscal 2022 Results Provides Full-year Fiscal 2023 Guidance",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-fourth-quarter-fiscal-2022-results-provides",
+                "file_type": "html",
                 "date": "2022/09/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-fourth-quarter-fiscal-2022-results-provides",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1228,16 +1228,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Fourth-Quarter and Full-Year Fiscal 2022 Results on Sept. 1, 2022",
+        "event_name": "Q3 2022",
         "event_date": "2022/08/18",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Fourth-Quarter and Full-Year Fiscal 2022 Results on Sept. 1, 2022",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-fourth-quarter-and-full-year-fiscal",
+                "file_type": "html",
                 "date": "2022/08/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-fourth-quarter-and-full-year-fiscal",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1246,16 +1246,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Bennett Dorrance to Retire from Campbell Board of Directors",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/22",
         "data": [
             {
-                "file_name": "Bennett Dorrance to Retire from Campbell Board of Directors",
-                "file_type": "webpage",
+                "file_name": "bennett-dorrance-retire-campbell-board-directors",
+                "file_type": "html",
                 "date": "2022/07/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/bennett-dorrance-retire-campbell-board-directors",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1264,16 +1264,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Fiscal 2022 Results",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/08",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Fiscal 2022 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-fiscal-2022-results",
+                "file_type": "html",
                 "date": "2022/06/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-fiscal-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1282,16 +1282,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "annual",
-        "event_name": "Campbell to Participate in a Fireside Chat at Deutsche Bank\u2019s 19th Annual dbAccess Global Consumer Conference",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/26",
         "data": [
             {
-                "file_name": "Campbell to Participate in a Fireside Chat at Deutsche Bank\u2019s 19th Annual dbAccess Global Consumer Conference",
-                "file_type": "webpage",
+                "file_name": "campbell-participate-fireside-chat-deutsche-banks-19th-annual",
+                "file_type": "html",
                 "date": "2022/05/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-participate-fireside-chat-deutsche-banks-19th-annual",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1300,16 +1300,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Report Third-Quarter Fiscal 2022 Results on June 8, 2022",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/25",
         "data": [
             {
-                "file_name": "Campbell to Report Third-Quarter Fiscal 2022 Results on June 8, 2022",
-                "file_type": "webpage",
+                "file_name": "campbell-report-third-quarter-fiscal-2022-results-june-8-2022",
+                "file_type": "html",
                 "date": "2022/05/25",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-report-third-quarter-fiscal-2022-results-june-8-2022",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1318,16 +1318,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2022",
         "event_date": "2022/05/24",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-7",
+                "file_type": "html",
                 "date": "2022/05/24",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-7",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1336,16 +1336,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Announces New Round of Grants, Bringing Fiscal 2022 Total to Over $2 Million",
+        "event_name": "Q2 2022",
         "event_date": "2022/04/05",
         "data": [
             {
-                "file_name": "Campbell Announces New Round of Grants, Bringing Fiscal 2022 Total to Over $2 Million",
-                "file_type": "webpage",
+                "file_name": "campbell-announces-new-round-grants-bringing-fiscal-2022-total",
+                "file_type": "html",
                 "date": "2022/04/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-announces-new-round-grants-bringing-fiscal-2022-total",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1354,16 +1354,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Sets Science-based Greenhouse Gas Reduction Targets to Combat Climate Change",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/24",
         "data": [
             {
-                "file_name": "Campbell Sets Science-based Greenhouse Gas Reduction Targets to Combat Climate Change",
-                "file_type": "webpage",
+                "file_name": "campbell-sets-science-based-greenhouse-gas-reduction-targets",
+                "file_type": "html",
                 "date": "2022/03/24",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-sets-science-based-greenhouse-gas-reduction-targets",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1372,16 +1372,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of America\u2019s Most Trusted Companies by Newsweek",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/23",
         "data": [
             {
-                "file_name": "Campbell Named One of America\u2019s Most Trusted Companies by Newsweek",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-americas-most-trusted-companies-newsweek",
+                "file_type": "html",
                 "date": "2022/03/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-americas-most-trusted-companies-newsweek",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1390,16 +1390,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Kate Barrett to Lead Community Affairs",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/17",
         "data": [
             {
-                "file_name": "Campbell Appoints Kate Barrett to Lead Community Affairs",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-kate-barrett-lead-community-affairs",
+                "file_type": "html",
                 "date": "2022/03/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-kate-barrett-lead-community-affairs",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1408,16 +1408,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Fiscal 2022 Results",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/09",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Fiscal 2022 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-fiscal-2022-results",
+                "file_type": "html",
                 "date": "2022/03/09",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-fiscal-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1426,16 +1426,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2022",
         "event_date": "2022/03/02",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-8",
+                "file_type": "html",
                 "date": "2022/03/02",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-8",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1444,16 +1444,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2022 Results on March 9, 2022",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/23",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2022 Results on March 9, 2022",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-second-quarter-fiscal-2022-results",
+                "file_type": "html",
                 "date": "2022/02/23",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-second-quarter-fiscal-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1462,16 +1462,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named to 2022 Bloomberg Gender-Equality Index",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/26",
         "data": [
             {
-                "file_name": "Campbell Named to 2022 Bloomberg Gender-Equality Index",
-                "file_type": "webpage",
+                "file_name": "campbell-named-2022-bloomberg-gender-equality-index",
+                "file_type": "html",
                 "date": "2022/01/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-2022-bloomberg-gender-equality-index",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1480,16 +1480,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/19",
         "data": [
             {
-                "file_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-worlds-most-sustainable-corporations",
+                "file_type": "html",
                 "date": "2022/01/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-worlds-most-sustainable-corporations",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1498,16 +1498,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of America\u2019s Most JUST Companies by JUST Capital and CNBC",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/12",
         "data": [
             {
-                "file_name": "Campbell Named One of America\u2019s Most JUST Companies by JUST Capital and CNBC",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-americas-most-just-companies-just-capital-and",
+                "file_type": "html",
                 "date": "2022/01/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-americas-most-just-companies-just-capital-and",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1516,16 +1516,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Daniel L. Poland Executive Vice President and Chief Supply Chain Officer",
+        "event_name": "Q1 2022",
         "event_date": "2022/01/04",
         "data": [
             {
-                "file_name": "Campbell Appoints Daniel L. Poland Executive Vice President and Chief Supply Chain Officer",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-daniel-l-poland-executive-vice-president-and",
+                "file_type": "html",
                 "date": "2022/01/04",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-daniel-l-poland-executive-vice-president-and",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1534,16 +1534,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Outlines Next Phase of Strategy to Drive Profitable Growth",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/14",
         "data": [
             {
-                "file_name": "Campbell Outlines Next Phase of Strategy to Drive Profitable Growth",
-                "file_type": "webpage",
+                "file_name": "campbell-outlines-next-phase-strategy-drive-profitable-growth",
+                "file_type": "html",
                 "date": "2021/12/14",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-outlines-next-phase-strategy-drive-profitable-growth",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1552,16 +1552,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Share Next Phase of Growth Strategy at Investor Day",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/13",
         "data": [
             {
-                "file_name": "Campbell to Share Next Phase of Growth Strategy at Investor Day",
-                "file_type": "webpage",
+                "file_name": "campbell-share-next-phase-growth-strategy-investor-day",
+                "file_type": "html",
                 "date": "2021/12/13",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-share-next-phase-growth-strategy-investor-day",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1570,16 +1570,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports First-Quarter Fiscal 2022 Results",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/08",
         "data": [
             {
-                "file_name": "Campbell Reports First-Quarter Fiscal 2022 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-first-quarter-fiscal-2022-results",
+                "file_type": "html",
                 "date": "2021/12/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-first-quarter-fiscal-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1588,16 +1588,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q4 2021",
         "event_date": "2021/12/01",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-9",
+                "file_type": "html",
                 "date": "2021/12/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-9",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1606,16 +1606,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Stewart Lindsay Vice President, Corporate Responsibility and Sustainability",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/23",
         "data": [
             {
-                "file_name": "Campbell Appoints Stewart Lindsay Vice President, Corporate Responsibility and Sustainability",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-stewart-lindsay-vice-president-corporate",
+                "file_type": "html",
                 "date": "2021/11/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-stewart-lindsay-vice-president-corporate",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1624,16 +1624,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report First-Quarter Fiscal 2022 Results on Dec. 8, 2021",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/18",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report First-Quarter Fiscal 2022 Results on Dec. 8, 2021",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-first-quarter-fiscal-2022-results",
+                "file_type": "html",
                 "date": "2021/11/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-first-quarter-fiscal-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1642,16 +1642,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Host Investor Day on Dec. 14, 2021",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/11",
         "data": [
             {
-                "file_name": "Campbell to Host Investor Day on Dec. 14, 2021",
-                "file_type": "webpage",
+                "file_name": "campbell-host-investor-day-dec-14-2021",
+                "file_type": "html",
                 "date": "2021/11/11",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-host-investor-day-dec-14-2021",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1660,16 +1660,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Names Charles Nevin Chief Customer Officer of Meals & Beverages",
+        "event_name": "Q4 2021",
         "event_date": "2021/11/08",
         "data": [
             {
-                "file_name": "Campbell Names Charles Nevin Chief Customer Officer of Meals & Beverages",
-                "file_type": "webpage",
+                "file_name": "campbell-names-charles-nevin-chief-customer-officer-meals",
+                "file_type": "html",
                 "date": "2021/11/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-names-charles-nevin-chief-customer-officer-meals",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1678,16 +1678,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Diane Johnson May Chief Human Resources Officer",
+        "event_name": "Q4 2021",
         "event_date": "2021/10/21",
         "data": [
             {
-                "file_name": "Campbell Appoints Diane Johnson May Chief Human Resources Officer",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-diane-johnson-may-chief-human-resources",
+                "file_type": "html",
                 "date": "2021/10/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-diane-johnson-may-chief-human-resources",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1696,16 +1696,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Launches Program to Advance School Nutrition",
+        "event_name": "Q4 2021",
         "event_date": "2021/10/19",
         "data": [
             {
-                "file_name": "Campbell Soup Company Launches Program to Advance School Nutrition",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-launches-program-advance-school-nutrition",
+                "file_type": "html",
                 "date": "2021/10/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-launches-program-advance-school-nutrition",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1714,16 +1714,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/22",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-10",
+                "file_type": "html",
                 "date": "2021/09/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-10",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1732,16 +1732,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Present at the 2021 Barclays Global Consumer Staples Conference",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/07",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Present at the 2021 Barclays Global Consumer Staples Conference",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-present-2021-barclays-global-consumer",
+                "file_type": "html",
                 "date": "2021/09/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-present-2021-barclays-global-consumer",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1750,16 +1750,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Fourth-Quarter and Full-Year Fiscal 2021 Results; Provides Full-Year Fiscal 2022 Guidance",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/01",
         "data": [
             {
-                "file_name": "Campbell Reports Fourth-Quarter and Full-Year Fiscal 2021 Results; Provides Full-Year Fiscal 2022 Guidance",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-fourth-quarter-and-full-year-fiscal-2021",
+                "file_type": "html",
                 "date": "2021/09/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-fourth-quarter-and-full-year-fiscal-2021",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1768,16 +1768,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Fourth-Quarter and Full-Year Fiscal 2021 Results on Sept. 1, 2021",
+        "event_name": "Q3 2021",
         "event_date": "2021/08/18",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Fourth-Quarter and Full-Year Fiscal 2021 Results on Sept. 1, 2021",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-fourth-quarter-and-full-year-0",
+                "file_type": "html",
                 "date": "2021/08/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-fourth-quarter-and-full-year-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1786,16 +1786,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Fiscal 2021 Results",
+        "event_name": "Q2 2021",
         "event_date": "2021/06/09",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Fiscal 2021 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-fiscal-2021-results",
+                "file_type": "html",
                 "date": "2021/06/09",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-fiscal-2021-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1804,16 +1804,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Third-Quarter Fiscal 2021 Results on June 9, 2021",
+        "event_name": "Q2 2021",
         "event_date": "2021/05/26",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Third-Quarter Fiscal 2021 Results on June 9, 2021",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-third-quarter-fiscal-2021-results",
+                "file_type": "html",
                 "date": "2021/05/26",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-third-quarter-fiscal-2021-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1822,16 +1822,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2021",
         "event_date": "2021/05/25",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-11",
+                "file_type": "html",
                 "date": "2021/05/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-11",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1840,16 +1840,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Sun-Maid Growers of California Acquires Plum Organics From Campbell Soup Company",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/31",
         "data": [
             {
-                "file_name": "Sun-Maid Growers of California Acquires Plum Organics From Campbell Soup Company",
-                "file_type": "webpage",
+                "file_name": "sun-maid-growers-california-acquires-plum-organics-campbell-0",
+                "file_type": "html",
                 "date": "2021/03/31",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/sun-maid-growers-california-acquires-plum-organics-campbell-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1858,16 +1858,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Fiscal 2021 Results; Provides Fiscal 2021 Guidance",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/10",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Fiscal 2021 Results; Provides Fiscal 2021 Guidance",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-fiscal-2021-results-provides",
+                "file_type": "html",
                 "date": "2021/03/10",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-fiscal-2021-results-provides",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1876,16 +1876,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/04",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-12",
+                "file_type": "html",
                 "date": "2021/03/04",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-12",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1894,16 +1894,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2021 Results on March 10, 2021",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/24",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report Second-Quarter Fiscal 2021 Results on March 10, 2021",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-second-quarter-fiscal-2021-results",
+                "file_type": "html",
                 "date": "2021/02/24",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-second-quarter-fiscal-2021-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1912,16 +1912,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Board Elects Grant H. Hill As Director",
+        "event_name": "Q1 2021",
         "event_date": "2021/01/28",
         "data": [
             {
-                "file_name": "Campbell Board Elects Grant H. Hill As Director",
-                "file_type": "webpage",
+                "file_name": "campbell-board-elects-grant-h-hill-director",
+                "file_type": "html",
                 "date": "2021/01/28",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-board-elects-grant-h-hill-director",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1930,16 +1930,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Named To 2021 Bloomberg Gender-Equality Index",
+        "event_name": "Q1 2021",
         "event_date": "2021/01/27",
         "data": [
             {
-                "file_name": "Campbell Soup Company Named To 2021 Bloomberg Gender-Equality Index",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-named-2021-bloomberg-gender-equality-index",
+                "file_type": "html",
                 "date": "2021/01/27",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-named-2021-bloomberg-gender-equality-index",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1948,16 +1948,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports First-Quarter Fiscal 2021 Results and Increases Quarterly Dividend",
+        "event_name": "Q4 2020",
         "event_date": "2020/12/09",
         "data": [
             {
-                "file_name": "Campbell Reports First-Quarter Fiscal 2021 Results and Increases Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-first-quarter-fiscal-2021-results-and-increases",
+                "file_type": "html",
                 "date": "2020/12/09",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-first-quarter-fiscal-2021-results-and-increases",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1966,16 +1966,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell's\u00ae Soup Unveils #SavetheSnowDay to Preserve \"Day of Play\" for Kids Across America",
+        "event_name": "Q4 2020",
         "event_date": "2020/12/02",
         "data": [
             {
-                "file_name": "Campbell's\u00ae Soup Unveils #SavetheSnowDay to Preserve \"Day of Play\" for Kids Across America",
-                "file_type": "webpage",
+                "file_name": "campbellsr-soup-unveils-savethesnowday-preserve-day-play-kids",
+                "file_type": "html",
                 "date": "2020/12/02",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbellsr-soup-unveils-savethesnowday-preserve-day-play-kids",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -1984,16 +1984,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company to Report First-Quarter Fiscal 2021 Results on Dec. 9, 2020",
+        "event_name": "Q4 2020",
         "event_date": "2020/11/24",
         "data": [
             {
-                "file_name": "Campbell Soup Company to Report First-Quarter Fiscal 2021 Results on Dec. 9, 2020",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-report-first-quarter-fiscal-2021-results",
+                "file_type": "html",
                 "date": "2020/11/24",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-report-first-quarter-fiscal-2021-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2002,16 +2002,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Reveals More Than a Third of First Time Hosts are Nervous to Cook for the Holidays, with 66% Worried about an Epic Cooking Fail",
+        "event_name": "Q4 2020",
         "event_date": "2020/11/13",
         "data": [
             {
-                "file_name": "Campbell Soup Company Reveals More Than a Third of First Time Hosts are Nervous to Cook for the Holidays, with 66% Worried about an Epic Cooking Fail",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-reveals-more-third-first-time-hosts-are",
+                "file_type": "html",
                 "date": "2020/11/13",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-reveals-more-third-first-time-hosts-are",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2020,16 +2020,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of America\u2019s Most JUST Companies by Forbes and JUST Capital",
+        "event_name": "Q4 2020",
         "event_date": "2020/10/14",
         "data": [
             {
-                "file_name": "Campbell Named One of America\u2019s Most JUST Companies by Forbes and JUST Capital",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-americas-most-just-companies-forbes-and-just",
+                "file_type": "html",
                 "date": "2020/10/14",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-americas-most-just-companies-forbes-and-just",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2038,16 +2038,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/23",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-13",
+                "file_type": "html",
                 "date": "2020/09/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-13",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2056,16 +2056,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Camille Pierce as Chief Culture Officer",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/17",
         "data": [
             {
-                "file_name": "Campbell Appoints Camille Pierce as Chief Culture Officer",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-camille-pierce-chief-culture-officer",
+                "file_type": "html",
                 "date": "2020/09/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-camille-pierce-chief-culture-officer",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2074,16 +2074,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Fourth-Quarter and Full-Year Fiscal 2020 Results",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/03",
         "data": [
             {
-                "file_name": "Campbell Reports Fourth-Quarter and Full-Year Fiscal 2020 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-fourth-quarter-and-full-year-fiscal-2020",
+                "file_type": "html",
                 "date": "2020/09/03",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-fourth-quarter-and-full-year-fiscal-2020",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2092,16 +2092,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Release Fourth-Quarter and Full-Year Fiscal 2020 Results on Sept. 3, 2020",
+        "event_name": "Q3 2020",
         "event_date": "2020/08/20",
         "data": [
             {
-                "file_name": "Campbell to Release Fourth-Quarter and Full-Year Fiscal 2020 Results on Sept. 3, 2020",
-                "file_type": "webpage",
+                "file_name": "campbell-release-fourth-quarter-and-full-year-fiscal-2020",
+                "file_type": "html",
                 "date": "2020/08/20",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-release-fourth-quarter-and-full-year-fiscal-2020",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2110,16 +2110,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2020",
         "event_date": "2020/06/24",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-14",
+                "file_type": "html",
                 "date": "2020/06/24",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-14",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2128,16 +2128,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Results",
+        "event_name": "Q2 2020",
         "event_date": "2020/06/03",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-results",
+                "file_type": "html",
                 "date": "2020/06/03",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2146,16 +2146,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell to Release Third-Quarter Fiscal 2020 Results on June 3, 2020",
+        "event_name": "Q2 2020",
         "event_date": "2020/05/21",
         "data": [
             {
-                "file_name": "Campbell to Release Third-Quarter Fiscal 2020 Results on June 3, 2020",
-                "file_type": "webpage",
+                "file_name": "campbell-release-third-quarter-fiscal-2020-results-june-3-2020",
+                "file_type": "html",
                 "date": "2020/05/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-release-third-quarter-fiscal-2020-results-june-3-2020",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2164,16 +2164,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Announces New Sustainable Packaging Goals",
+        "event_name": "Q2 2020",
         "event_date": "2020/05/06",
         "data": [
             {
-                "file_name": "Campbell Announces New Sustainable Packaging Goals",
-                "file_type": "webpage",
+                "file_name": "campbell-announces-new-sustainable-packaging-goals",
+                "file_type": "html",
                 "date": "2020/05/06",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-announces-new-sustainable-packaging-goals",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2182,16 +2182,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Releases 2020 Corporate Responsibility Report",
+        "event_name": "Q2 2020",
         "event_date": "2020/04/24",
         "data": [
             {
-                "file_name": "Campbell Soup Company Releases 2020 Corporate Responsibility Report",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-releases-2020-corporate-responsibility",
+                "file_type": "html",
                 "date": "2020/04/24",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-releases-2020-corporate-responsibility",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2200,16 +2200,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/25",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-15",
+                "file_type": "html",
                 "date": "2020/03/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-15",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2218,16 +2218,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Results",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/04",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-results",
+                "file_type": "html",
                 "date": "2020/03/04",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2236,16 +2236,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Rebecca Gardy Vice President, Investor Relations",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/03",
         "data": [
             {
-                "file_name": "Campbell Appoints Rebecca Gardy Vice President, Investor Relations",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-rebecca-gardy-vice-president-investor",
+                "file_type": "html",
                 "date": "2020/03/03",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-rebecca-gardy-vice-president-investor",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2254,16 +2254,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Valerie Oswalt President of Campbell Snacks",
+        "event_name": "Q1 2020",
         "event_date": "2020/03/02",
         "data": [
             {
-                "file_name": "Campbell Appoints Valerie Oswalt President of Campbell Snacks",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-valerie-oswalt-president-campbell-snacks",
+                "file_type": "html",
                 "date": "2020/03/02",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-valerie-oswalt-president-campbell-snacks",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2272,16 +2272,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its Second-Quarter Fiscal 2020 Results",
+        "event_name": "Q1 2020",
         "event_date": "2020/02/19",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its Second-Quarter Fiscal 2020 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-second-quarter",
+                "file_type": "html",
                 "date": "2020/02/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-second-quarter",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2290,34 +2290,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces Pricing of its Debt Tender Offers",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/23",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces Pricing of its Debt Tender Offers",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-upsize-and-early-tender-results",
+                "file_type": "html",
                 "date": "2020/01/23",
-                "category": "financial report",
-                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CPB",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces Upsize and Early Tender Results of its Debt Tender Offers",
-        "event_date": "2020/01/23",
-        "data": [
-            {
-                "file_name": "Campbell Soup Company Announces Upsize and Early Tender Results of its Debt Tender Offers",
-                "file_type": "webpage",
-                "date": "2020/01/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-upsize-and-early-tender-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2326,16 +2308,34 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
+        "event_name": "Q1 2020",
+        "event_date": "2020/01/23",
+        "data": [
+            {
+                "file_name": "campbell-soup-company-announces-pricing-its-debt-tender-offers",
+                "file_type": "html",
+                "date": "2020/01/23",
+                "category": "news",
+                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/22",
         "data": [
             {
-                "file_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-worlds-most-sustainable-corporations-0",
+                "file_type": "html",
                 "date": "2020/01/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-worlds-most-sustainable-corporations-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2344,16 +2344,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Named to 2020 Bloomberg Gender-Equality Index",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/21",
         "data": [
             {
-                "file_name": "Campbell Soup Company Named to 2020 Bloomberg Gender-Equality Index",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-named-2020-bloomberg-gender-equality-index",
+                "file_type": "html",
                 "date": "2020/01/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-named-2020-bloomberg-gender-equality-index",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2362,16 +2362,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces Debt Tender Offers",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/08",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces Debt Tender Offers",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-debt-tender-offers",
+                "file_type": "html",
                 "date": "2020/01/08",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-debt-tender-offers",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2380,16 +2380,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Announces Departure of Carlos Abrams-Rivera as President of Campbell Snacks",
+        "event_name": "Q1 2020",
         "event_date": "2020/01/07",
         "data": [
             {
-                "file_name": "Campbell Announces Departure of Carlos Abrams-Rivera as President of Campbell Snacks",
-                "file_type": "webpage",
+                "file_name": "campbell-announces-departure-carlos-abrams-rivera-president",
+                "file_type": "html",
                 "date": "2020/01/07",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-announces-departure-carlos-abrams-rivera-president",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2398,16 +2398,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Completes Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations to KKR for Approximately $2.2 Billion",
+        "event_name": "Q4 2019",
         "event_date": "2019/12/23",
         "data": [
             {
-                "file_name": "Campbell Completes Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations to KKR for Approximately $2.2 Billion",
-                "file_type": "webpage",
+                "file_name": "campbell-completes-sale-arnotts-and-certain-campbells",
+                "file_type": "html",
                 "date": "2019/12/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-completes-sale-arnotts-and-certain-campbells",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2416,16 +2416,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Foundation Recognizes Camden Organizations for Improving Lives of City Residents",
+        "event_name": "Q4 2019",
         "event_date": "2019/12/13",
         "data": [
             {
-                "file_name": "Campbell Soup Foundation Recognizes Camden Organizations for Improving Lives of City Residents",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-foundation-recognizes-camden-organizations",
+                "file_type": "html",
                 "date": "2019/12/13",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-foundation-recognizes-camden-organizations",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2434,16 +2434,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell's\u00ae Soup and Chef Geoffrey Zakarian Announce 'Kids in the Kitchen' Family Cooking Initiative",
+        "event_name": "Q4 2019",
         "event_date": "2019/12/11",
         "data": [
             {
-                "file_name": "Campbell's\u00ae Soup and Chef Geoffrey Zakarian Announce 'Kids in the Kitchen' Family Cooking Initiative",
-                "file_type": "webpage",
+                "file_name": "campbellsr-soup-and-chef-geoffrey-zakarian-announce-kids-kitchen",
+                "file_type": "html",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbellsr-soup-and-chef-geoffrey-zakarian-announce-kids-kitchen",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2452,16 +2452,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports First-Quarter Results",
+        "event_name": "Q4 2019",
         "event_date": "2019/12/04",
         "data": [
             {
-                "file_name": "Campbell Reports First-Quarter Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-first-quarter-results",
+                "file_type": "html",
                 "date": "2019/12/04",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-first-quarter-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2470,16 +2470,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q4 2019",
         "event_date": "2019/11/21",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-16",
+                "file_type": "html",
                 "date": "2019/11/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-16",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2488,16 +2488,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its First-Quarter Fiscal 2020 Results",
+        "event_name": "Q4 2019",
         "event_date": "2019/11/12",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its First-Quarter Fiscal 2020 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-first-quarter-fiscal",
+                "file_type": "html",
                 "date": "2019/11/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-first-quarter-fiscal",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2506,16 +2506,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Ken Gosnell, Vice President \u2013 Finance Strategy and Investor Relations, to Retire From Campbell",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/23",
         "data": [
             {
-                "file_name": "Ken Gosnell, Vice President \u2013 Finance Strategy and Investor Relations, to Retire From Campbell",
-                "file_type": "webpage",
+                "file_name": "ken-gosnell-vice-president-finance-strategy-and-investor",
+                "file_type": "html",
                 "date": "2019/10/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/ken-gosnell-vice-president-finance-strategy-and-investor",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2524,16 +2524,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "The Campbell Soup Foundation Announces $1.5 Million in Grants to Strengthen and Empower Healthy Communities",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/17",
         "data": [
             {
-                "file_name": "The Campbell Soup Foundation Announces $1.5 Million in Grants to Strengthen and Empower Healthy Communities",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-foundation-announces-15-million-grants-strengthen",
+                "file_type": "html",
                 "date": "2019/10/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-foundation-announces-15-million-grants-strengthen",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2542,16 +2542,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Completes Sale of European Chips Business to Valeo Foods",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/11",
         "data": [
             {
-                "file_name": "Campbell Completes Sale of European Chips Business to Valeo Foods",
-                "file_type": "webpage",
+                "file_name": "campbell-completes-sale-european-chips-business-valeo-foods",
+                "file_type": "html",
                 "date": "2019/10/11",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-completes-sale-european-chips-business-valeo-foods",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2560,16 +2560,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/25",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-17",
+                "file_type": "html",
                 "date": "2019/09/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-17",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2578,16 +2578,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Completes Sale of Kelsen Group",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/23",
         "data": [
             {
-                "file_name": "Campbell Completes Sale of Kelsen Group",
-                "file_type": "webpage",
+                "file_name": "campbell-completes-sale-kelsen-group",
+                "file_type": "html",
                 "date": "2019/09/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-completes-sale-kelsen-group",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2596,16 +2596,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Announces Retirement of Nick Shreiber From Board of Directors",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/19",
         "data": [
             {
-                "file_name": "Campbell Announces Retirement of Nick Shreiber From Board of Directors",
-                "file_type": "webpage",
+                "file_name": "campbell-announces-retirement-nick-shreiber-board-directors",
+                "file_type": "html",
                 "date": "2019/09/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-announces-retirement-nick-shreiber-board-directors",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2614,16 +2614,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell\u2019s\u00ae Chunky\u00ae Soup Launches New \u201cChampions of Chunky\u201d Brand Platform",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/05",
         "data": [
             {
-                "file_name": "Campbell\u2019s\u00ae Chunky\u00ae Soup Launches New \u201cChampions of Chunky\u201d Brand Platform",
-                "file_type": "webpage",
+                "file_name": "campbellsr-chunkyr-soup-launches-new-champions-chunky-brand",
+                "file_type": "html",
                 "date": "2019/09/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbellsr-chunkyr-soup-launches-new-champions-chunky-brand",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2632,16 +2632,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and Valeo Foods Sign Agreement for Intended Sale of Campbell\u2019s European Chips Business",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/02",
         "data": [
             {
-                "file_name": "Campbell and Valeo Foods Sign Agreement for Intended Sale of Campbell\u2019s European Chips Business",
-                "file_type": "webpage",
+                "file_name": "campbell-and-valeo-foods-sign-agreement-intended-sale-campbells",
+                "file_type": "html",
                 "date": "2019/09/02",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-valeo-foods-sign-agreement-intended-sale-campbells",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2650,16 +2650,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Fourth-Quarter and Full-Year Results",
+        "event_name": "Q3 2019",
         "event_date": "2019/08/30",
         "data": [
             {
-                "file_name": "Campbell Reports Fourth-Quarter and Full-Year Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-fourth-quarter-and-full-year-results",
+                "file_type": "html",
                 "date": "2019/08/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-fourth-quarter-and-full-year-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2668,16 +2668,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Mick Beekhuizen Chief Financial Officer",
+        "event_name": "Q3 2019",
         "event_date": "2019/08/29",
         "data": [
             {
-                "file_name": "Campbell Appoints Mick Beekhuizen Chief Financial Officer",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-mick-beekhuizen-chief-financial-officer",
+                "file_type": "html",
                 "date": "2019/08/29",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-mick-beekhuizen-chief-financial-officer",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2686,16 +2686,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its Fourth-Quarter and Full-Year Fiscal 2019 Results",
+        "event_name": "Q3 2019",
         "event_date": "2019/08/19",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its Fourth-Quarter and Full-Year Fiscal 2019 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-fourth-quarter-and",
+                "file_type": "html",
                 "date": "2019/08/19",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-fourth-quarter-and",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2704,16 +2704,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and KKR Sign Definitive Agreement for Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations for $2.2 Billion",
+        "event_name": "Q3 2019",
         "event_date": "2019/08/02",
         "data": [
             {
-                "file_name": "Campbell and KKR Sign Definitive Agreement for Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations for $2.2 Billion",
-                "file_type": "webpage",
+                "file_name": "campbell-and-kkr-sign-definitive-agreement-sale-arnotts-and",
+                "file_type": "html",
                 "date": "2019/08/02",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-kkr-sign-definitive-agreement-sale-arnotts-and",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2722,16 +2722,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and a Ferrero Affiliated Company Sign Definitive Agreement for Sale of Kelsen Group for $300 Million",
+        "event_name": "Q3 2019",
         "event_date": "2019/07/12",
         "data": [
             {
-                "file_name": "Campbell and a Ferrero Affiliated Company Sign Definitive Agreement for Sale of Kelsen Group for $300 Million",
-                "file_type": "webpage",
+                "file_name": "campbell-and-ferrero-affiliated-company-sign-definitive",
+                "file_type": "html",
                 "date": "2019/07/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-ferrero-affiliated-company-sign-definitive",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2740,16 +2740,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q2 2019",
         "event_date": "2019/06/26",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-18",
+                "file_type": "html",
                 "date": "2019/06/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-18",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2758,16 +2758,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Closes Sale of Bolthouse Farms, Completing the Divestiture of Campbell Fresh Division",
+        "event_name": "Q2 2019",
         "event_date": "2019/06/17",
         "data": [
             {
-                "file_name": "Campbell Closes Sale of Bolthouse Farms, Completing the Divestiture of Campbell Fresh Division",
-                "file_type": "webpage",
+                "file_name": "campbell-closes-sale-bolthouse-farms-completing-divestiture",
+                "file_type": "html",
                 "date": "2019/06/17",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-closes-sale-bolthouse-farms-completing-divestiture",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2776,16 +2776,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Appoints Chris Foley President \u2013 Meals & Beverages",
+        "event_name": "Q2 2019",
         "event_date": "2019/06/10",
         "data": [
             {
-                "file_name": "Campbell Appoints Chris Foley President \u2013 Meals & Beverages",
-                "file_type": "webpage",
+                "file_name": "campbell-appoints-chris-foley-president-meals-beverages",
+                "file_type": "html",
                 "date": "2019/06/10",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-appoints-chris-foley-president-meals-beverages",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2794,16 +2794,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Third-Quarter Results",
+        "event_name": "Q2 2019",
         "event_date": "2019/06/05",
         "data": [
             {
-                "file_name": "Campbell Reports Third-Quarter Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-third-quarter-results-0",
+                "file_type": "html",
                 "date": "2019/06/05",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-third-quarter-results-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2812,16 +2812,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its Investor Day Presentation",
+        "event_name": "Q2 2019",
         "event_date": "2019/05/30",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its Investor Day Presentation",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-investor-day",
+                "file_type": "html",
                 "date": "2019/05/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-investor-day",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2830,16 +2830,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Again Named to 100 Best Corporate Citizens List",
+        "event_name": "Q2 2019",
         "event_date": "2019/05/15",
         "data": [
             {
-                "file_name": "Campbell Again Named to 100 Best Corporate Citizens List",
-                "file_type": "webpage",
+                "file_name": "campbell-again-named-100-best-corporate-citizens-list",
+                "file_type": "html",
                 "date": "2019/05/15",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-again-named-100-best-corporate-citizens-list",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2848,16 +2848,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Foundation Announces 2019 Grant Recipients",
+        "event_name": "Q2 2019",
         "event_date": "2019/05/01",
         "data": [
             {
-                "file_name": "Campbell Soup Foundation Announces 2019 Grant Recipients",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-foundation-announces-2019-grant-recipients",
+                "file_type": "html",
                 "date": "2019/05/01",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-foundation-announces-2019-grant-recipients",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2866,16 +2866,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its Third-Quarter Fiscal 2019 Results",
+        "event_name": "Q2 2019",
         "event_date": "2019/04/30",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its Third-Quarter Fiscal 2019 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-third-quarter-fiscal",
+                "file_type": "html",
                 "date": "2019/04/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-third-quarter-fiscal",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2884,16 +2884,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and Affiliate of Butterfly Equity Sign Definitive Agreement for Sale of Bolthouse Farms for $510 Million",
+        "event_name": "Q2 2019",
         "event_date": "2019/04/12",
         "data": [
             {
-                "file_name": "Campbell and Affiliate of Butterfly Equity Sign Definitive Agreement for Sale of Bolthouse Farms for $510 Million",
-                "file_type": "webpage",
+                "file_name": "campbell-and-affiliate-butterfly-equity-sign-definitive",
+                "file_type": "html",
                 "date": "2019/04/12",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-affiliate-butterfly-equity-sign-definitive",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2902,16 +2902,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Les Vinney to Retire as Chairman of Campbell\u2019s Board of Directors; Keith McLoughlin to Become Chairman",
+        "event_name": "Q1 2019",
         "event_date": "2019/03/28",
         "data": [
             {
-                "file_name": "Les Vinney to Retire as Chairman of Campbell\u2019s Board of Directors; Keith McLoughlin to Become Chairman",
-                "file_type": "webpage",
+                "file_name": "les-vinney-retire-chairman-campbells-board-directors-keith",
+                "file_type": "html",
                 "date": "2019/03/28",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/les-vinney-retire-chairman-campbells-board-directors-keith",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2920,16 +2920,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Declares Quarterly Dividend",
+        "event_name": "Q1 2019",
         "event_date": "2019/03/27",
         "data": [
             {
-                "file_name": "Campbell Declares Quarterly Dividend",
-                "file_type": "webpage",
+                "file_name": "campbell-declares-quarterly-dividend-19",
+                "file_type": "html",
                 "date": "2019/03/27",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-declares-quarterly-dividend-19",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2938,16 +2938,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Reports Second-Quarter Results",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/27",
         "data": [
             {
-                "file_name": "Campbell Reports Second-Quarter Results",
-                "file_type": "webpage",
+                "file_name": "campbell-reports-second-quarter-results-0",
+                "file_type": "html",
                 "date": "2019/02/27",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-reports-second-quarter-results-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2956,16 +2956,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and Affiliate of Fountain of Health USA Sign Definitive Agreement for Sale of Garden Fresh Gourmet",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/26",
         "data": [
             {
-                "file_name": "Campbell and Affiliate of Fountain of Health USA Sign Definitive Agreement for Sale of Garden Fresh Gourmet",
-                "file_type": "webpage",
+                "file_name": "campbell-and-affiliate-fountain-health-usa-sign-definitive",
+                "file_type": "html",
                 "date": "2019/02/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-affiliate-fountain-health-usa-sign-definitive",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2974,16 +2974,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell and Joshua Green Corporation Sign Definitive Agreement for Sale of Campbell Fresh Plant",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/21",
         "data": [
             {
-                "file_name": "Campbell and Joshua Green Corporation Sign Definitive Agreement for Sale of Campbell Fresh Plant",
-                "file_type": "webpage",
+                "file_name": "campbell-and-joshua-green-corporation-sign-definitive-agreement",
+                "file_type": "html",
                 "date": "2019/02/21",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-and-joshua-green-corporation-sign-definitive-agreement",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -2992,16 +2992,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Soup Company Announces the Webcast of Its Second-Quarter Fiscal 2019 Results",
+        "event_name": "Q1 2019",
         "event_date": "2019/01/29",
         "data": [
             {
-                "file_name": "Campbell Soup Company Announces the Webcast of Its Second-Quarter Fiscal 2019 Results",
-                "file_type": "webpage",
+                "file_name": "campbell-soup-company-announces-webcast-its-second-quarter-0",
+                "file_type": "html",
                 "date": "2019/01/29",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-second-quarter-0",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -3010,16 +3010,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations by Corporate Knights",
+        "event_name": "Q1 2019",
         "event_date": "2019/01/22",
         "data": [
             {
-                "file_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations by Corporate Knights",
-                "file_type": "webpage",
+                "file_name": "campbell-named-one-worlds-most-sustainable-corporations-1",
+                "file_type": "html",
                 "date": "2019/01/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-one-worlds-most-sustainable-corporations-1",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -3028,16 +3028,16 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "quarterly",
-        "event_name": "Campbell Named to 2019 Bloomberg Gender-Equality Index",
+        "event_name": "Q1 2019",
         "event_date": "2019/01/16",
         "data": [
             {
-                "file_name": "Campbell Named to 2019 Bloomberg Gender-Equality Index",
-                "file_type": "webpage",
+                "file_name": "campbell-named-2019-bloomberg-gender-equality-index",
+                "file_type": "html",
                 "date": "2019/01/16",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-named-2019-bloomberg-gender-equality-index",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     }

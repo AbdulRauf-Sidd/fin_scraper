@@ -533,3 +533,13 @@ def get_file_type(url: str) -> str:
             return file_type
 
     return "html"
+
+def ensure_absolute_url(base_url, url):
+    from urllib.parse import urljoin
+
+    # Check if the URL is already absolute
+    if url.startswith('http'):
+        return url
+    else:
+        # Combine the base URL with the relative URL to create an absolute URL
+        return urljoin(base_url, url)
