@@ -51,8 +51,12 @@ async def extract_files_from_page(page):
 
                 # Extract event date and description
                 date_text_element = await seminar_card.query_selector("div.card-text")
-                date = date_text_element.inner_text()
+                date = await date_text_element.inner_text()
                 event_date_parsed = await parse_date3(date)
+                if event_date_parsed is None:
+                    event_date_parsed = await parse_date2(date)
+                    if event_date_parsed is None:
+                        event_date_parsed = await parse_date(date)
                 
 
                 
@@ -68,7 +72,7 @@ async def extract_files_from_page(page):
                 freq = classify_frequency(event_name, event_url)
                 if freq == "periodic":
                     event_type = classify_periodic_type(event_name, event_url)
-                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                    event_name = format_quarter_string(event_date_parsed, event_name)
                 else:
                     event_type = categorize_event(event_name)
 
@@ -85,11 +89,11 @@ async def extract_files_from_page(page):
                     "frequency": freq,
                     "event_type": 'esg',
                     "event_name": event_name.strip(),
-                    "event_date": event_date_parsed.strftime("%Y/%m/%d"),
+                    "event_date": event_date_parsed if event_date_parsed is not None else "NULL",
                     "data": [{
                         "file_name": file_name,
                         "file_type": file_type,
-                        "date": event_date_parsed.strftime("%Y/%m/%d"),
+                        "date": event_date_parsed if event_date_parsed is not None else "NULL",
                         "category": category,
                         "source_url": event_url,
                         "wissen_url": "NULL"

@@ -3,9 +3,11 @@ import json
 import re
 from datetime import datetime
 from playwright.async_api import async_playwright
-import os
 import sys
+import os
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+
 from utils import *
 
 # MIME Type to File Extension Mapping
@@ -22,6 +24,14 @@ MIME_TYPE_MAPPING = {
     "audio/mpeg": ".mp3",
     "video/mp4": ".mp4",
 }
+
+async def enable_stealth(page):
+    """Inject JavaScript to evade bot detection."""
+    await page.add_init_script("""
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        });
+    """)
 
 def classify_filing_by_form(form_type):
     """Classifies a filing as 'periodic' or 'non-periodic' based on form type."""
@@ -59,7 +69,15 @@ async def scrape_pdfs(url, start_year, end_year):
     pdf_data = []
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)  # Run headless for efficiency
-        page = await browser.new_page()
+        context = await browser.new_context()
+        await context.set_extra_http_headers({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": url
+        })
+
+        page = await context.new_page()
+        await enable_stealth(page)
         await page.goto(url, timeout=60000)
         await asyncio.sleep(3)  # Initial Wait
 
@@ -89,6 +107,7 @@ async def scrape_pdfs(url, start_year, end_year):
                     doc_elements = await row.query_selector_all("li.module-sec_download-list-item a")  # All docs
                     
                     event_date = await date_element.inner_text() if date_element else "No Date"
+                    date = await parse_date3(event_date)
                     description = await desc_element.inner_text() if desc_element else "No Description"
                     filing_text = await filing_element.inner_text() if filing_element else "Unknown"
 
@@ -103,7 +122,7 @@ async def scrape_pdfs(url, start_year, end_year):
                     freq = classify_frequency(event_name, 'abc')
                     if freq == "periodic":
                         event_type = classify_periodic_type(event_name, 'abc')
-                        event_name = format_quarter_string(event_date.strftime("%Y/%m/%d"), event_name)
+                        event_name = format_quarter_string(date, event_name)
                     else:
                         event_type = categorize_event(event_name)
 

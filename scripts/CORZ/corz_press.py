@@ -79,18 +79,18 @@ async def extract_files_from_page(page):
                 })
 
             
-            freq = classify_frequency(event_name, event_url)
-            if freq == "periodic":
-                event_type = classify_periodic_type(event_name, event_url)
-                event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
-            else:
-                event_type = categorize_event(event_name)
+            # freq = classify_frequency(event_name, event_url)
+            # if freq == "periodic":
+            #     event_type = classify_periodic_type(event_name, event_url)
+            #     event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+            # else:
+            #     event_type = categorize_event(event_name)
 
             if data_files:
                 file_links_collected.append({
                     "equity_ticker": EQUITY_TICKER,
                     "source_type": "company_information",
-                    "frequency": freq,
+                    "frequency": 'non-periodic',
                     "event_type": "press release",
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
