@@ -90,7 +90,7 @@ async def extract_files_from_page(page):
                             "date": "null",
                             "category": "governance",
                             "source_url": file_url,
-                            "wissen_url": "unknown"
+                            "wissen_url": "null"
                         }]
                     })
 

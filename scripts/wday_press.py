@@ -63,7 +63,7 @@ async def extract_files_from_page(page):
                 event_url = await title_element.get_attribute("href") if title_element else "Unknown URL"
 
                 # Extract file name from URL
-                file_name = extract_file_name(event_url)
+                file_name = await extract_file_name(event_url)
 
                 # Store extracted data
                 data_files = [{
@@ -77,9 +77,7 @@ async def extract_files_from_page(page):
 
                 # Classify event frequency and type
                 freq = classify_frequency(event_name, event_url)
-                event_type = "expansion"
-                if freq == "periodic":
-                    event_type = classify_periodic_type(event_name, event_url)
+                
 
                 # Append structured event data
                 file_links_collected.append({

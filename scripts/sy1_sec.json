@@ -1,0 +1,1748 @@
+[
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Trading Update January - September 2024",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyNC5wZGYiLCJwYWdlIjoxfQ.ZE2BfXBBfKwJJkT6rszJlFs9PjzwpLMjD0gn7cCqfU0/241024_Symrise-PR-Trading-Update-Jan-Sep-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information 9M 2024",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "241024_Symrise-Financial-Information-9M-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDI0LnBkZiIsInBhZ2UiOjF9.bmNS1Oye5M-V_ajXKdYKObGONiUEGioZq1COJLBh3MQ/241024_Symrise-Financial-Information-9M-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q3 2024",
+        "event_date": "2024/01/01",
+        "data": [
+            {
+                "file_name": "241024_Symrise-Financial-Information-Q3-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MTAyNF9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDI0LnBkZiIsInBhZ2UiOjF9.h6mWI3PcZgk-KqhCohBGJJNm5li05mcjmQUgVgqaEao/241024_Symrise-Financial-Information-Q3-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Interim Group Report January-June 2024",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-interim-group-report-January-July-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVseS0yMDI0LnBkZiIsInBhZ2UiOjF9.vIrl0jmqP40SOn26C8eSrjru1-Mn5iONfwENeCzi6Dg/240801-Symrise-interim-group-report-January-July-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Press Release Interim Group Report January-June 2024",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-press-release-H1-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.3qlBOAA_k1HVWbalN2ugtMvC0R76eu7a68AO-hZnPgs/240801-Symrise-press-release-H1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-analyst-presentation-H1-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjQucGRmIiwicGFnZSI6MX0.VSck5_zLJrj9YLbqlZ_pqz8698w-L4jnRmhVHUyyjEU/240801-Symrise-analyst-presentation-H1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-Pressepraesentation-H1-2024.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyNC5wZGYiLCJwYWdlIjoxfQ.p15_O5XpyxqQmUC5hScWFNDMbx3EovXb0q1HHRaovPU/240801-Symrise-Pressepraesentation-H1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet H1 2024",
+        "event_date": "2024/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-financial-information-H1-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDI0LnBkZiIsInBhZ2UiOjF9.5yx9JEoxkTw40g8iFwzqiRbtHTXQs_POpbjTM99BnVo/240801-Symrise-financial-information-H1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q1 2024",
+        "event_date": "2024/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-Financial-Information-Q1-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDI0LnBkZiIsInBhZ2UiOjF9.jVNeFeY7KGC6So0dyvcnQwDk1KQxum-ts3Ku_uEucPA/240801-Symrise-Financial-Information-Q1-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q2 2024",
+        "event_date": "2024/01/01",
+        "data": [
+            {
+                "file_name": "240801-Symrise-financial-information-Q2-2024.pdf",
+                "file_type": "pdf",
+                "date": "2024/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDgwMS1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDI0LnBkZiIsInBhZ2UiOjF9.T2Xmi9zrcCcy4qDhIIJ5-9TmctlGeyg2eB9Ae-d3z-w/240801-Symrise-financial-information-Q2-2024.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the press conference (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "index.de.html",
+                "file_type": "html",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise-video.evisco.live/bpk-h1-2024/index.de.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the analyst conference",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "index.en.html _blank",
+                "file_type": "html _blank",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise-video.evisco.live/aik-h1-2024/index.en.html _blank",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Report 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Financial-Report-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.3mq1XZpQS6HUPj_5RXn5iYrnNHu7X551Kp-ahxIFbzo/240306-Symrise-Financial-Report-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Press Release Annual Report 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Press-Release-Financial-Results-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzLVJlbGVhc2UtRmluYW5jaWFsLVJlc3VsdHMtMjAyMy5wZGYiLCJwYWdlIjoxfQ.CiK4mmp46ycpwJ6e8hjOurQ5fKz87SRRyK_l-REsonw/240306-Symrise-Press-Release-Financial-Results-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation Fiscal Year 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLUZpbmFuY2lhbC1SZXN1bHRzLTIwMjMucGRmIiwicGFnZSI6MX0.K9qutQjbO9NGFohMAHNmXpNoyTiGv1IHdkHjzScQYaM/240306-Symrise-Analyst-Presentation-Financial-Results-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Pressepraesentation-Finanzergebnisse-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRmluYW56ZXJnZWJuaXNzZS0yMDIzLnBkZiIsInBhZ2UiOjF9.d4Ll2MtKn3PZooFtDVhV2yrS7jVASYGppxY5fh0jREQ/240306-Symrise-Pressepraesentation-Finanzergebnisse-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Fiscal Year 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Financial-Information-FY-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIzLnBkZiIsInBhZ2UiOjF9.ewifxUemngi73PR5soVxp4FVevsOdB2h9cYiKFlB7zI/240306-Symrise-Financial-Information-FY-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Q4 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Financial-Information-Q4-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIzLnBkZiIsInBhZ2UiOjF9.ODw7YKd0JiorlIPtKur_erHxID_-r8oylwPqPwf07Xs/240306-Symrise-Financial-Information-Q4-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Statements 2023 (HGB - in German)",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Jahresabschluss-2023-HGB.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIzLUhHQi5wZGYiLCJwYWdlIjoxfQ.AgxWfWByTx3Ht-OkL7CAw0Qe136K3FSSyrVzI9DQZG4/240306-Symrise-Jahresabschluss-2023-HGB.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Corporate-Report-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.IHOyZxsNOPHT0MC9Up3xE35b2Ohx75wzHTOdBaeraxQ/240306-Symrise-Corporate-Report-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Remuneration Report 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "230306-Symrise-Remuneration-Report-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzIzMDMwNi1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMy5wZGYiLCJwYWdlIjoxfQ.wvgZLwZS5z0O05qUwyHdO0lq019wiU4JvqPeMsNKdSE/230306-Symrise-Remuneration-Report-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Book 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "240410-Symrise-FactBook-FY2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDQxMC1TeW1yaXNlLUZhY3RCb29rLUZZMjAyMy5wZGYiLCJwYWdlIjoxfQ.ISq66b_pdp0bbzoGYr3LLaZlDWH5mynT18UnX1xWYD0/240410-Symrise-FactBook-FY2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Sustainability Record \u2013 GRI",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "240306-Symrise-Sustainability-Record-2023-GRI.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzAsImV4cCI6MTc0MTE3NTY3MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI0LzI0MDMwNi1TeW1yaXNlLVN1c3RhaW5hYmlsaXR5LVJlY29yZC0yMDIzLUdSSS5wZGYiLCJwYWdlIjoxfQ.Zhqg-kxOBMe1N0l2uKqeoyVLObBKe4GcJRapQzxeUdg/240306-Symrise-Sustainability-Record-2023-GRI.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Separate non-financial report \u2013 GRI",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "index.html",
+                "file_type": "html",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise.com/corporatereport/2023/company/sustainability-record/index.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2023 (extended online version)",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "index.html",
+                "file_type": "html",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise.com/corporatereport/2023/index.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Trading Update January - September 2023",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLVBSLVRyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMy5wZGYiLCJwYWdlIjoxfQ.U1Oz6iSAssGiu_uUa8hgx4SQJYXoEXo80kzDZMrnwao/231025-Symrise-PR-Trading-Update-Jan-Sep-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information 9M 2023",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "231025-Symrise-Financial-Information-9M-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIzLnBkZiIsInBhZ2UiOjF9.68vupPdWZVdc8ZAr-BForOOYOEtFtEOpXehPJWtpNrw/231025-Symrise-Financial-Information-9M-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q3 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "231025-Symrise-Financial-Information-Q3-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMTAyNS1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIzLnBkZiIsInBhZ2UiOjF9.FwDaAi0a_TmTPBChXeahJxAcYkcQEx15gSwVwU0tmHQ/231025-Symrise-Financial-Information-Q3-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Interim Group Report January-June 2023",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-interim-group-report-January-June-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWludGVyaW0tZ3JvdXAtcmVwb3J0LUphbnVhcnktSnVuZS0yMDIzLnBkZiIsInBhZ2UiOjF9.SV2olYnpyaA3i6jgrqHRQFlfo82j1aGmFALDVnwYeJo/230802-Symrise-interim-group-report-January-June-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Press Release Interim Group Report January-June 2023",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-press-release-H1-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLXByZXNzLXJlbGVhc2UtSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.3i1mTqMJNJCRxdT0DAPUOjVOktdrlG_aWX0VL6Aiulc/230802-Symrise-press-release-H1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-analyst-presentation-H1-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWFuYWx5c3QtcHJlc2VudGF0aW9uLUgxLTIwMjMucGRmIiwicGFnZSI6MX0.Cim5nQ99J-E5yo6XOY5CWUqawpOjsLGDfXzgwa6_d_M/230802-Symrise-analyst-presentation-H1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-Pressepraesentation-H1-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tSDEtMjAyMy5wZGYiLCJwYWdlIjoxfQ.sCWulueDo4bisPyBwomdMrxysX7lqLVuXcjbhss6H1s/230802-Symrise-Pressepraesentation-H1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet H1 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-financial-information-H1-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1IMS0yMDIzLnBkZiIsInBhZ2UiOjF9.xnO_q3GyZH3km-DQ608R8vprMwyAemfkBH3fA-TJxPg/230802-Symrise-financial-information-H1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q1 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-Financial-Information-Q1-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.DyaMxqCbFb2P75OljhD3MnGGVOgaGMvNKZEfjMFPX-Q/230802-Symrise-Financial-Information-Q1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q2 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "230802-Symrise-financial-information-Q2-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDgwMi1TeW1yaXNlLWZpbmFuY2lhbC1pbmZvcm1hdGlvbi1RMi0yMDIzLnBkZiIsInBhZ2UiOjF9.UsBVXfjYLD_Q1d3npKIiBJn9M9-SJpH1gqJ8nEG85L0/230802-Symrise-financial-information-Q2-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the analyst conference (in English)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "index.de.html",
+                "file_type": "html",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://interface.eviscomedia.com/player/1159/index.de.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Trading Statement January - March 2023",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230426_Symrise-Trading-Statement-Q1-2023.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjMucGRmIiwicGFnZSI6MX0.T3HapQ_h2yQTxZhT3qqmwBc0kVesWhBlM8pbtitLEiI/230426_Symrise-Trading-Statement-Q1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q1 2023",
+        "event_date": "2023/01/01",
+        "data": [
+            {
+                "file_name": "230426_Symrise-Financial-Information-Q1-2023.pdf",
+                "file_type": "pdf",
+                "date": "2023/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDQyNl9TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIzLnBkZiIsInBhZ2UiOjF9.sDOc2npGnocFL_LrnfvyX719CAKTNbuHNWfmoBxAPCE/230426_Symrise-Financial-Information-Q1-2023.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Report 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Financial-Report-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.yRBIYbFOcrGR3oNlQcdbMqVAcD1jd5LXcjFD4Ag4J58/230308-Symrise-Financial-Report-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Press Release Annual Report 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Press-Release-Results-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzLVJlbGVhc2UtUmVzdWx0cy0yMDIyLnBkZiIsInBhZ2UiOjF9.guTVYvOHO6adco8j-58FuL_Ly-Rw63gKlWfqTDpBjt0/230308-Symrise-Press-Release-Results-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation Fiscal Year 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Analyst-Presentation-Results-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUFuYWx5c3QtUHJlc2VudGF0aW9uLVJlc3VsdHMtMjAyMi5wZGYiLCJwYWdlIjoxfQ.gXOp6-jUBjhLbBPt7goh7hfecIQqDApKJXUwNms7omw/230308-Symrise-Analyst-Presentation-Results-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Pressepraesentation-Ergebnisse-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVByZXNzZXByYWVzZW50YXRpb24tRXJnZWJuaXNzZS0yMDIyLnBkZiIsInBhZ2UiOjF9.ooSmZMaDEzg9KzTcdabpBQ1YlDlFJmzm-_4O52e8xK8/230308-Symrise-Pressepraesentation-Ergebnisse-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Fiscal Year 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Financial-Information-FY-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1GWS0yMDIyLnBkZiIsInBhZ2UiOjF9.Xn9iLQoebDR_Z5849ec2cMDAlPC1JrXX5n2eO2el7wM/230308-Symrise-Financial-Information-FY-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Q4 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Financial-Information-Q4-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RNC0yMDIyLnBkZiIsInBhZ2UiOjF9.X8hyoP8WfnWs-T9hRO4Qb7-AXouCjKKnLPkO_aWUE7U/230308-Symrise-Financial-Information-Q4-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Statements 2022 (HGB - in German)",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Jahresabschluss-2022-HGB.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUphaHJlc2Fic2NobHVzcy0yMDIyLUhHQi5wZGYiLCJwYWdlIjoxfQ.jc8scLEzt-lDdQoSBZLniXQwyuwC0cTO0q-Sh4WKjEI/230308-Symrise-Jahresabschluss-2022-HGB.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Corporate-Report-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUNvcnBvcmF0ZS1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.tvpTvcUZvuNbUf3xMaesI1lJnTCxyO5P4QO_dRGaw0M/230308-Symrise-Corporate-Report-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Remuneration Report 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-Remuneration-Report-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLVJlbXVuZXJhdGlvbi1SZXBvcnQtMjAyMi5wZGYiLCJwYWdlIjoxfQ.SMzivi2k3Nb-3ajia_Yaaj47P5YrTZ_onvDfJFyFknM/230308-Symrise-Remuneration-Report-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Book 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-FactBook-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUZhY3RCb29rLTIwMjIucGRmIiwicGFnZSI6MX0.auQNNZfJYvrk7AADUMFlHRqxBLVpQ-wYOQK_UI3crrQ/230308-Symrise-FactBook-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Sustainability Record \u2013 GRI",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "230308-Symrise-GRI-sustainability-record.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3NzYsImV4cCI6MTc0MTE3NTY3NiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIzLzIzMDMwOC1TeW1yaXNlLUdSSS1zdXN0YWluYWJpbGl0eS1yZWNvcmQucGRmIiwicGFnZSI6MX0.Up1anDK2NCypRkBsXf37RJZVmHUu8YEO2-jwXx0LwLc/230308-Symrise-GRI-sustainability-record.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Separate non-financial report \u2013 GRI",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "sustainability-record.html",
+                "file_type": "html",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-record.html",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2022 (extended online version)",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "",
+                "file_type": "unknown",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://symrise.com/corporatereport/2022/",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Trading Update January - September 2022",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX1BSX1RyYWRpbmctVXBkYXRlLUphbi1TZXAtMjAyMi5wZGYiLCJwYWdlIjoxfQ.QjWpHNgX7pPK0pMorOj0yd9oXUuoKdfIxa2eQ9koF5E/221026_Symrise_PR_Trading-Update-Jan-Sep-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information 9M 2022",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "221026_Symrise_Financial-Information-9M-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi05TS0yMDIyLnBkZiIsInBhZ2UiOjF9.5cfXnZ_BI3Y17TFfRt0y1vatFMBcrMo0Ckutr0IasEo/221026_Symrise_Financial-Information-9M-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q3 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "221026_Symrise_Financial-Information-Q3-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMTAyNl9TeW1yaXNlX0ZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMy0yMDIyLnBkZiIsInBhZ2UiOjF9.DRPMSFlL3RRZ0qsRyvmoh_amWSLyGQX8FFzEpxY-rOY/221026_Symrise_Financial-Information-Q3-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Interim Group Report January-June 2022",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220802_Interim-Group-Report-H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9JbnRlcmltLUdyb3VwLVJlcG9ydC1IMS0yMDIyLnBkZiIsInBhZ2UiOjF9._J9wawI0MZ9r5KyA1yqqtw5M4QYY1XSkOw7QK_rxmFg/220802_Interim-Group-Report-H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Press Release Interim Group Report January-June 2022",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220802_Symrise_PR_H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9TeW1yaXNlX1BSX0gxLTIwMjIucGRmIiwicGFnZSI6MX0.d7WNkVavS9GNfxK3bdnjIwuIhBycu2qttO8a7j9g6Ek/220802_Symrise_PR_H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220802_Analystenpraesentation-H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9BbmFseXN0ZW5wcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.tkogtSpQybxvgADRPqqxvPo95iKEi0PfRb_05gpa0s4/220802_Analystenpraesentation-H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220802_Pressepraesentation-H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9QcmVzc2VwcmFlc2VudGF0aW9uLUgxLTIwMjIucGRmIiwicGFnZSI6MX0.nij0hSro9iO-cirT81umxR_a_gddRByg8YLZuCqtd9I/220802_Pressepraesentation-H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet H1 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "220802_Financial-Information-H1-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tSDEtMjAyMi5wZGYiLCJwYWdlIjoxfQ.M2omXHjjFpZ0-wUaAGSPUxg5np4EBYeFukTwJ5V-hQc/220802_Financial-Information-H1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q1 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "220802_Financial-Information-Q1-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTEtMjAyMi5wZGYiLCJwYWdlIjoxfQ._z-6HiD7gmu3W4PX37HSpdKM0NLWQqFOy_f-v-Ejirg/220802_Financial-Information-Q1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q2 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "220802_Financial-Information-Q2-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDgwMl9GaW5hbmNpYWwtSW5mb3JtYXRpb24tUTItMjAyMi5wZGYiLCJwYWdlIjoxfQ.d8QLLMQdU4PNmMVY24nIxAYzVZRncLwClnFNKXsTHYE/220802_Financial-Information-Q2-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the press conference (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "087b0633-123b-11ed-99ef-3cecef385192",
+                "file_type": "unknown",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://playout.3qsdn.com/embed/087b0633-123b-11ed-99ef-3cecef385192",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the analyst conference (in English)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "9523c9a2-1250-11ed-99ef-3cecef385192",
+                "file_type": "unknown",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://playout.3qsdn.com/embed/9523c9a2-1250-11ed-99ef-3cecef385192",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Trading Statement January - March 2022",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220427_Symrise-Trading-Statement-Q1-2022.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLVRyYWRpbmctU3RhdGVtZW50LVExLTIwMjIucGRmIiwicGFnZSI6MX0.jwnqzQXI_yVYCn-KKXu-DmZGagP--_--3WL3KvDU_Dk/220427_Symrise-Trading-Statement-Q1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q1 2022",
+        "event_date": "2022/01/01",
+        "data": [
+            {
+                "file_name": "220427_Symrise-Financial-Information-Q1-2022.pdf",
+                "file_type": "pdf",
+                "date": "2022/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDQyN19TeW1yaXNlLUZpbmFuY2lhbC1JbmZvcm1hdGlvbi1RMS0yMDIyLnBkZiIsInBhZ2UiOjF9.H8trvsJJE_p7897Ek-29k__5sX0PX4LY9YAjm9O2meE/220427_Symrise-Financial-Information-Q1-2022.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Report 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Financial_Report_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.UepEtb-00nfIgLazafFwkvwp6Fu2lu2bk6Lry_ra5HU/220301_Symrise_Financial_Report_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Press Release Annual Report 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Press_Release_Results_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzX1JlbGVhc2VfUmVzdWx0c18yMDIxLnBkZiIsInBhZ2UiOjF9.FDTnaFEvJ07Vi1g1OwUqUDHoKfIihvG3RswLHtLET98/220301_Symrise_Press_Release_Results_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation Fiscal Year 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Analyst_Presentation_Results_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0FuYWx5c3RfUHJlc2VudGF0aW9uX1Jlc3VsdHNfMjAyMS5wZGYiLCJwYWdlIjoxfQ.Z8mOROv5nystCQLASue5gK4gFixOeinfayv2kF_MPLI/220301_Symrise_Analyst_Presentation_Results_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Pressepraesentation_Ergebnisse_2021.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1ByZXNzZXByYWVzZW50YXRpb25fRXJnZWJuaXNzZV8yMDIxLnBkZiIsInBhZ2UiOjF9.2TieCyqQ7Brx-XF4ZBoJqmBZHsJ84XjotrvjRSYKj50/220301_Symrise_Pressepraesentation_Ergebnisse_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Fiscal Year 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Financial_Information_FY2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9GWTIwMjEucGRmIiwicGFnZSI6MX0.Sh-fEJ7JhiqgjS8XlLTmOaPXJLPHoepjNcdyEyM-LPk/220301_Symrise_Financial_Information_FY2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Q4 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Financial_Information_Q42021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZpbmFuY2lhbF9JbmZvcm1hdGlvbl9RNDIwMjEucGRmIiwicGFnZSI6MX0.wur7anujeF_O6-Vw05i2Vw4G_s2rKblDFNijudEhCFI/220301_Symrise_Financial_Information_Q42021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Statements 2021 (HGB - in German)",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Jahresabschluss_2021_HGB.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0phaHJlc2Fic2NobHVzc18yMDIxX0hHQi5wZGYiLCJwYWdlIjoxfQ.CCqb745VQ6djUmXEoVw2yD-G9a5yXH5l0t5eX26xVgY/220301_Symrise_Jahresabschluss_2021_HGB.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Corporate_Report_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0NvcnBvcmF0ZV9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.usdRX5ahGEvVw1It4n31S-_Ue6SaJZ19SKkbwSsP9tE/220301_Symrise_Corporate_Report_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Remuneration Report 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_Remuneration_Report_2021.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX1JlbXVuZXJhdGlvbl9SZXBvcnRfMjAyMS5wZGYiLCJwYWdlIjoxfQ.mShhlOdFoaC8EVLiIl02vqtqu6eoAi4JMdievI1Y4WY/220301_Symrise_Remuneration_Report_2021.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Book 2021",
+        "event_date": "2021/01/01",
+        "data": [
+            {
+                "file_name": "220301_Symrise_FactBook.pdf",
+                "file_type": "pdf",
+                "date": "2021/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3ODEsImV4cCI6MTc0MTE3NTY4MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIyLzIyMDMwMV9TeW1yaXNlX0ZhY3RCb29rLnBkZiIsInBhZ2UiOjF9.unlBrycw7XBz--Y6YkItWVS_xtyVtMV9MTJ-dh3ZidI/220301_Symrise_FactBook.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Quarterly Statement 9M 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "201029_Symrise_Quarterly_Statement_9M_2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX1F1YXJ0ZXJseV9TdGF0ZW1lbnRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.qBDfT9pck17QhhJwi-fricDuB2_-C7_7axuwssfxLH8/201029_Symrise_Quarterly_Statement_9M_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Sheet 9M 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "201029_Symrise_Fact_Sheet_9M_2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfOU1fMjAyMC5wZGYiLCJwYWdlIjoxfQ.UdKboKXAVdvn2bi9Rx7FyhGYG69SDKL4RrEy8Zt59I8/201029_Symrise_Fact_Sheet_9M_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Sheet Q3 2020",
+        "event_date": "2020/01/01",
+        "data": [
+            {
+                "file_name": "201029_Symrise_Fact_Sheet_Q3_2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMTAyOV9TeW1yaXNlX0ZhY3RfU2hlZXRfUTNfMjAyMC5wZGYiLCJwYWdlIjoxfQ.s2SWgsrnsbh1-H26wG4r6xO73kcVEOUwjcOdbf7MZWw/201029_Symrise_Fact_Sheet_Q3_2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Interim Group Report January-June 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Interim_Group_Report_H1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fSW50ZXJpbV9Hcm91cF9SZXBvcnRfSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.4DNQdpnDINr9C-YgM69wHTlfldBVE6tYlDiB8DB8dGI/200806_SYM_Interim_Group_Report_H1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Press Release Interim Group Report January-June 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Press_Release_H1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NfUmVsZWFzZV9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.Px_q-hbVV2_Z0rv5Spp5TqakZzWZOjBqoLmNTWEjsBQ/200806_SYM_Press_Release_H1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Analyst_Presentation_H1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fSDEtMjAyMC5wZGYiLCJwYWdlIjoxfQ.Erz4tO57gYxZIJBobpCZ655jUfPdb3lGFIFidZgiofA/200806_SYM_Analyst_Presentation_H1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Pressepraesentation_H1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9IMS0yMDIwLnBkZiIsInBhZ2UiOjF9.MUkGy2qK8Nbfxa-E3ZlCjXG9QlOb7_lpw8n6ZpIdoO8/200806_SYM_Pressepraesentation_H1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet H1 2020",
+        "event_date": "2020/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Financial_Information_H1-2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0gxLTIwMjAucGRmIiwicGFnZSI6MX0.wXM8dvcQ0utBpufvfZiAcdHTGHWf_xggZ453UQVE2RI/200806_SYM_Financial_Information_H1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Information Q2 2020",
+        "event_date": "2020/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Financial_Information_Q2-2020.pdf",
+                "file_type": "pdf",
+                "date": "2020/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1EyLTIwMjAucGRmIiwicGFnZSI6MX0.MVBYVWj2VLUvXfsCkJeg2Ylb-a_s82PJOXpwlmYbjOc/200806_SYM_Financial_Information_Q2-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Audio recording of the analyst conference",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Analyst_Conference.mp3",
+                "file_type": "mp3",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/fileadmin/symrise/Audio/2020/200806_SYM_Analyst_Conference.mp3",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Quarterly Statement \u2013 January-March 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200428_SYM_Press_Release_Q1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fUHJlc3NfUmVsZWFzZV9RMS0yMDIwLnBkZiIsInBhZ2UiOjF9.GIAraVje5epfwgdRhIvyxZGU0u2QauT8oZOK8giaj80/200428_SYM_Press_Release_Q1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Sheet Quarterly Statement \u2013 January-March 2020",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200428_SYM_Financial_Information_Q1-2020.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDQyOF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1ExLTIwMjAucGRmIiwicGFnZSI6MX0.mtj01LqaeoyZ8LZPzOpK1erdQ-qT2_6KARg0yJC96vI/200428_SYM_Financial_Information_Q1-2020.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Report 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Financial_Report_2019_.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX1JlcG9ydF8yMDE5Xy5wZGYiLCJwYWdlIjoxfQ.Lbd6Wu2j_rF6o0ljO9OjEsbyO-xg80QD0Os1-JpDEtY/200310_SYM_Financial_Report_2019_.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "annual",
+        "event_name": "Press Release Annual Report 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Press_Release_Results_2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NfUmVsZWFzZV9SZXN1bHRzXzIwMTkucGRmIiwicGFnZSI6MX0.jSaHe7x5ZoEnoinF-sgmeWBywfZag89leUOAix_nRmE/200310_SYM_Press_Release_Results_2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst Presentation Fiscal Year 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Analyst_Presentation_FY2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQW5hbHlzdF9QcmVzZW50YXRpb25fRlkyMDE5LnBkZiIsInBhZ2UiOjF9.ek8MpzLfoLUpnI37cxaxJjH9D4vnfU1NX6L95lDCsXA/200310_SYM_Analyst_Presentation_FY2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Symrise Press Presentation (in German)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Pressepraesentation_GJ2019.pdf",
+                "file_type": "pdf",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fUHJlc3NlcHJhZXNlbnRhdGlvbl9HSjIwMTkucGRmIiwicGFnZSI6MX0.Qu588hX2M_3ZEXaD8F94MyE5Zg4DmkkdRzcBUYT4-OI/200310_SYM_Pressepraesentation_GJ2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Fiscal Year 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Financial_Information_FY2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX0ZZMjAxOS5wZGYiLCJwYWdlIjoxfQ.W9iQbF_BLjuCvfGyhnQwx_lfCzwN3g7rvieeajDMyT0/200310_SYM_Financial_Information_FY2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Reporting Fact Sheet Q4 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Financial_Information_Q4_2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fRmluYW5jaWFsX0luZm9ybWF0aW9uX1E0XzIwMTkucGRmIiwicGFnZSI6MX0.Nt2BDmQCOfITfTbpoI2Vv6JV39l9s17rCx88JzYknT8/200310_SYM_Financial_Information_Q4_2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Financial Statements 2019 (HGB - in German)",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Jahresabschluss_2019_HGB.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fSmFocmVzYWJzY2hsdXNzXzIwMTlfSEdCLnBkZiIsInBhZ2UiOjF9.-0CWE33fuAOQDlDHXzjDxIFk8T8v3YMN0OY6WvGibtw/200310_SYM_Jahresabschluss_2019_HGB.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Corporate Report 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200310_SYM_Company_Report_2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fQ29tcGFueV9SZXBvcnRfMjAxOS5wZGYiLCJwYWdlIjoxfQ.RjpU-zzKtJ68VUUFOeMKvdZZymZUDssTUM6t8DuG65A/200310_SYM_Company_Report_2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Fact Book 2019",
+        "event_date": "2019/01/01",
+        "data": [
+            {
+                "file_name": "200806_SYM_Fact_Book_2019.pdf",
+                "file_type": "pdf",
+                "date": "2019/01/01",
+                "category": "financial_report",
+                "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDExNzE3OTEsImV4cCI6MTc0MTE3NTY5MSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDgwNl9TWU1fRmFjdF9Cb29rXzIwMTkucGRmIiwicGFnZSI6MX0.hq4bWnu3WeCo-RX8OQkKv6vidaX1P000fNy_I57cC_U/200806_SYM_Fact_Book_2019.pdf",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "SYMRISE",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "quarterly",
+        "event_name": "Analyst conference (audio webcast)",
+        "event_date": "UNKNOWN/01/01",
+        "data": [
+            {
+                "file_name": "symrise20200310",
+                "file_type": "unknown",
+                "date": "UNKNOWN/01/01",
+                "category": "financial_report",
+                "source_url": "https://webcasts.eqs.com/symrise20200310",
+                "wissen_url": "unknown"
+            }
+        ]
+    }
+]
