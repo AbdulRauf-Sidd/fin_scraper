@@ -10,10 +10,10 @@
             {
                 "file_name": "dsm-annual-report-2023.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-reports/dsm-annual-report-2023.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -28,10 +28,10 @@
             {
                 "file_name": "annual-general-meeting-2023.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -46,18 +46,18 @@
             {
                 "file_name": "q1-2023-trading-update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/results-center/q1-2023-trading-update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-q1-2023-trading-update",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://kvgo.com/corporate-services/dsm-q1-2023-trading-update",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -72,18 +72,18 @@
             {
                 "file_name": "",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2022/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "entire-dsm-ar22.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2022/_assets/downloads/entire-dsm-ar22.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -98,26 +98,26 @@
             {
                 "file_name": "dsm-reports-2022-results",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dsm-firmenich/en/our-company-test/news/press-releases/legacy-archive/2023/dsm-reports-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-fy-2022.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-fy-2022.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-fy-results-2022",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://kvgo.com/corporate-services/dsm-fy-results-2022",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -132,26 +132,26 @@
             {
                 "file_name": "dsm-provides-q3-2022-trading-update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/dsm-provides-q3-2022-trading-update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-presentation-to-investors-q3-2022.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/dsm-presentation-to-investors-q3-2022.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "05e663d8590d49abbb6d769b752923bf",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://view.knowledgevision.com/presentation/05e663d8590d49abbb6d769b752923bf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -166,26 +166,26 @@
             {
                 "file_name": "dsm-reports-h1-2022-results",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dsm-firmenich/en/our-company-test/news/press-releases/legacy-archive/2022/dsm-reports-h1-2022-results",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "DSM-presentation-to-investors-h1-2022.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/DSM-presentation-to-investors-h1-2022.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "4a6b32db68a246d3aa76c7946b2a5fbf",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://clicktime.symantec.com/15siF8j8GPjunTG1uycTN?h=pbAnNJCGIYH3HTvObwj2SfwnF9IzpsSv1gtgnkGidkc=&u=https://view.knowledgevision.com/presentation/4a6b32db68a246d3aa76c7946b2a5fbf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -200,18 +200,18 @@
             {
                 "file_name": "annual-general-meeting-2022.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2022.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "DSM%20AGM%202022.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-general-meetings/DSM%20AGM%202022.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -226,10 +226,10 @@
             {
                 "file_name": "DSM%20provides%20Q1%202022%20trading%20update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/corporate/documents/our-company/news/press-releases/legacy-archive/dsm/DSM%20provides%20Q1%202022%20trading%20update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -244,18 +244,18 @@
             {
                 "file_name": "",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2021/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "entire-dsm-ar21.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2021/_assets/downloads/entire-dsm-ar21.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -270,26 +270,26 @@
             {
                 "file_name": "DSM-fy-2021-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/DSM-fy-2021-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "DSM-presentation-to-investors-fy-2021.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/DSM-presentation-to-investors-fy-2021.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-full-year-results-feb-2022",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://kvgo.com/corporate-services/dsm-full-year-results-feb-2022",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -304,10 +304,10 @@
             {
                 "file_name": "33-21-q3-2021-trading-update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/corporate/documents/our-company/news/press-releases/legacy-archive/dsm/33-21-q3-2021-trading-update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -322,26 +322,26 @@
             {
                 "file_name": "30-21-dsm-accelerates-its-strategic-journey-to-a-fully-focused-health-nutrition-and-bioscience-company",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dsm-firmenich/en/our-company-test/news/press-releases/legacy-archive/2021/30-21-dsm-accelerates-its-strategic-journey-to-a-fully-focused-health-nutrition-and-bioscience-company",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-dsm-accelerates-its-purpose-led-performance-driven-journey.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-dsm-accelerates-its-purpose-led-performance-driven-journey.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-september-communications",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://kvgo.com/openexchange-inc/dsm-september-communications",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -356,18 +356,18 @@
             {
                 "file_name": "29-21-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dsm-firmenich/en/our-company-test/news/press-releases/legacy-archive/2021/29-21-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-%20pressreleases-publications/presentation-to-investors-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -382,26 +382,26 @@
             {
                 "file_name": "23-21-dsm-h1-2021-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/23-21-dsm-h1-2021-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-h1-2021.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-h1-2021.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-half-year-results-aug-2021",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "other",
                 "source_url": "https://kvgo.com/openexchange-inc/dsm-half-year-results-aug-2021",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -416,18 +416,18 @@
             {
                 "file_name": "annual-general-meeting-2021.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2021/annual-general-meeting-2021.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "annual-general-meeting-2021-presentation-co-ceos.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-general-meetings/2021/annual-general-meeting-2021-presentation-co-ceos.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -442,10 +442,10 @@
             {
                 "file_name": "09-21-q1-2021-trading-update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/09-21-q1-2021-trading-update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -460,18 +460,18 @@
             {
                 "file_name": "",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2020/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "entire-dsm-ar20.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2020/_assets/downloads/entire-dsm-ar20.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -486,26 +486,26 @@
             {
                 "file_name": "02-21-dsm-reports-2020-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/02-21-dsm-reports-2020-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-fy-2020.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-fy-2020.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "09-21-q1-2021-trading-update.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/09-21-q1-2021-trading-update.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -520,42 +520,42 @@
             {
                 "file_name": "2020-11-04-cmd-co-ceos-keynote.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-co-ceos-keynote.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-11-04-cmd-goppelsroeder-nutrition.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-goppelsroeder-nutrition.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-11-04-cmd-niels-food-beverage.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-niels-food-beverage.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-11-04-cmd-malarkey-innovation.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-malarkey-innovation.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-11-04-cmd-co-ceos-keynote.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-co-ceos-keynote.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -570,26 +570,26 @@
             {
                 "file_name": "33-20-dsm-q3-2020-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/33-20-dsm-q3-2020-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-q3-2020.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-q3-2020.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "q3-2020-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/q3-2020-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -604,26 +604,26 @@
             {
                 "file_name": "25-20-dsm-h1-2020-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/25-20-dsm-h1-2020-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-h1-2020.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-h1-2020.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "h1-2020-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/h1-2020-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -638,18 +638,18 @@
             {
                 "file_name": "22-20-dsm-to-add-world-leading-animal-nutrition-and-health-specialty-businesses-with-acquisition-of-erber-group.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2020/22-20-dsm-to-add-world-leading-animal-nutrition-and-health-specialty-businesses-with-acquisition-of-erber-group.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-06-12-presentation-to-investors-erber-group-acquisition.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-06-12-presentation-to-investors-erber-group-acquisition.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -664,18 +664,18 @@
             {
                 "file_name": "annual-general-meeting-2020.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2020/annual-general-meeting-2020.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2020-05-08-presentation-co-ceos-agm-2020-annual-results-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-general-meetings/2020/2020-05-08-presentation-co-ceos-agm-2020-annual-results-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -690,26 +690,26 @@
             {
                 "file_name": "19-20-dsm-q1-2020-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/19-20-dsm-q1-2020-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-q1-2020.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-q1-2020.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "q1-2020-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/q1-2020-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -724,18 +724,18 @@
             {
                 "file_name": "ar2019",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2019",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "DSM-Annual-Report-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -750,18 +750,18 @@
             {
                 "file_name": "10-20-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2020/10-20-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -776,26 +776,26 @@
             {
                 "file_name": "08e-20-dsm-reports-2019-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/08e-20-dsm-reports-2019-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-fy-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-fy-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "analysts-call-fy-2019-results.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/analysts-call-fy-2019-results.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -810,26 +810,26 @@
             {
                 "file_name": "48-19-dsm-q3-2019-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/48-19-dsm-q3-2019-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-q3-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-q3-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "q3-2019-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/q3-2019-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -844,26 +844,26 @@
             {
                 "file_name": "32-19-dsm-h1-2019-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/32-19-dsm-h1-2019-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-h1-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-h1-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "h1-2019-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/h1-2019-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -878,18 +878,18 @@
             {
                 "file_name": "annual-general-meeting-2019.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2019/annual-general-meeting-2019.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "2019-05-08-presentation-feike-sijbesma-ceo-agm-2019-annual-results-2018.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-general-meetings/2019/2019-05-08-presentation-feike-sijbesma-ceo-agm-2019-annual-results-2018.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -904,26 +904,26 @@
             {
                 "file_name": "15-19-dsm-q1-2019-results.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/15-19-dsm-q1-2019-results.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-q1-2019.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-q1-2019.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "q1-2019-results-analysts-call.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/q1-2019-results-analysts-call.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -938,18 +938,18 @@
             {
                 "file_name": "index.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://annualreport.dsm.com/ar2018/en_US/index.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "dsm-annual-report-2018.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "report",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/annual-reports/dsm-annual-report-2018.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -964,34 +964,34 @@
             {
                 "file_name": "04-19-dsm-q4-and-annual-results-2018.html",
                 "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://our-company.dsm-firmenich.com/en/our-company/news/press-releases/legacy-archive/2019/04-19-dsm-q4-and-annual-results-2018.html",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "04-19-dsm-q4-and-annual-results-2018.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/04-19-dsm-q4-and-annual-results-2018.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "presentation-to-investors-fy-2018.pdf",
                 "file_type": "pdf",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "date": "NULL",
+                "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-fy-2018.pdf",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             },
             {
                 "file_name": "analysts-call-fy-2018-results.mp3",
-                "file_type": "video",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
+                "file_type": "html",
+                "date": "NULL",
+                "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/videos/historical-information/results-pressreleases-publications/analysts-call-fy-2018-results.mp3",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     }

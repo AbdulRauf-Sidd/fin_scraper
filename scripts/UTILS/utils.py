@@ -525,7 +525,9 @@ def get_file_type(url: str) -> str:
         "csv": r"\.csv(\?|$)",
         "xlsx": r"\.xlsx(\?|$)|\.xls(\?|$)",  # Covers .xls and .xlsx
         "mp4": r"\.mp4(\?|$)",
-        "etv": r"\.etv(\?|$)"
+        "etv": r"\.etv(\?|$)",
+        "zip": r"\.zip(\?|$)",
+        "htm": r"\.htm(\?|$)"
     }
 
     for file_type, pattern in file_patterns.items():
