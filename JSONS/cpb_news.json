@@ -20,9 +20,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2025",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "The Campbell\u2019s Company to Participate in a Fireside Chat at BofA Securities 2025 Consumer and Retail Conference on March 11",
         "event_date": "2025/02/27",
         "data": [
             {
@@ -56,9 +56,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2025",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s Completes Sale of noosa Business to Lakeview Farms",
         "event_date": "2025/02/24",
         "data": [
             {
@@ -92,9 +92,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2025",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s Appoints Risa Cretella President of Meals & Beverages Division",
         "event_date": "2025/01/22",
         "data": [
             {
@@ -110,9 +110,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "The Full Futures Partnership Advances School Nutrition in its Third Year",
         "event_date": "2024/12/17",
         "data": [
             {
@@ -146,9 +146,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "The Campbell\u2019s Company Board of Directors Elects Mick Beekhuizen Chief Executive Officer to Succeed Mark Clouse",
         "event_date": "2024/12/03",
         "data": [
             {
@@ -200,9 +200,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s Appoints Daniel L. Poland Chief Enterprise Transformation Officer",
         "event_date": "2024/11/14",
         "data": [
             {
@@ -218,9 +218,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s to Sell noosa Business to Lakeview Farms",
         "event_date": "2024/11/12",
         "data": [
             {
@@ -236,9 +236,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s and Partners Receive $3.4 Million USDA Grant to Support Sustainable Tomato-Growing Practices in California",
         "event_date": "2024/10/28",
         "data": [
             {
@@ -254,9 +254,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell\u2019s and Harris Blitzer Sports & Entertainment Announce Partnership Across Four Storied Franchises",
         "event_date": "2024/10/17",
         "data": [
             {
@@ -290,16 +290,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell Launches Next Chapter of Growth at Fiscal 2025 Investor Day",
         "event_date": "2024/09/10",
         "data": [
             {
                 "file_name": "campbell-launches-next-chapter-growth-fiscal-2025-investor-day",
                 "file_type": "html",
                 "date": "2024/09/10",
-                "category": "news",
+                "category": "presentation",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-launches-next-chapter-growth-fiscal-2025-investor-day",
                 "wissen_url": "NULL"
             }
@@ -308,16 +308,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell to Share Next Chapter of Growth Strategy at Fiscal 2025 Investor Day",
         "event_date": "2024/09/09",
         "data": [
             {
                 "file_name": "campbell-share-next-chapter-growth-strategy-fiscal-2025-investor",
                 "file_type": "html",
                 "date": "2024/09/09",
-                "category": "news",
+                "category": "presentation",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-share-next-chapter-growth-strategy-fiscal-2025-investor",
                 "wissen_url": "NULL"
             }
@@ -344,9 +344,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Sells Pop Secret Business to Our Home",
         "event_date": "2024/08/26",
         "data": [
             {
@@ -380,9 +380,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell to Transfer Stock Exchange Listing to Nasdaq",
         "event_date": "2024/08/01",
         "data": [
             {
@@ -398,9 +398,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Names Jill Pratt Senior Vice President, Chief Marketing Officer, Meals & Beverages",
         "event_date": "2024/07/29",
         "data": [
             {
@@ -434,9 +434,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell\u2019s Management to Participate in the Evercore ISI Consumer & Retail Conference",
         "event_date": "2024/05/29",
         "data": [
             {
@@ -452,9 +452,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Announces Supply Chain Optimization Plan to Fuel Growth",
         "event_date": "2024/05/28",
         "data": [
             {
@@ -506,9 +506,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Campbell\u2019s Awards $880,000 in Community Impact Grants",
         "event_date": "2024/04/17",
         "data": [
             {
@@ -524,9 +524,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Completes Acquisition of Sovos Brands, Inc.",
         "event_date": "2024/03/12",
         "data": [
             {
@@ -560,9 +560,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell to Participate in a Fireside Chat at BofA Securities 2024 Consumer and Retail Conference on March 12",
         "event_date": "2024/03/05",
         "data": [
             {
@@ -614,9 +614,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Names Anthony Kyles Chief Customer Officer of Meals & Beverages",
         "event_date": "2024/02/20",
         "data": [
             {
@@ -632,9 +632,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and Sovos Brands Certify Substantial Compliance with Second Request from FTC; Begins the Start of 30-Day Waiting Period",
         "event_date": "2024/02/13",
         "data": [
             {
@@ -704,9 +704,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Charles A. Brawley, III Executive Vice President, General Counsel, and Corporate Secretary",
         "event_date": "2023/11/08",
         "data": [
             {
@@ -722,9 +722,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2023",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Receives Second Request from FTC Under HSR Act for Proposed Acquisition of Sovos Brands, Inc.",
         "event_date": "2023/10/23",
         "data": [
             {
@@ -758,9 +758,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2023",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell's Management to Participate in a Fireside Chat at TD Cowen Sipping & Snacking Summit",
         "event_date": "2023/09/12",
         "data": [
             {
@@ -812,9 +812,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell to Acquire Sovos Brands, Leader in High-Growth Premium Italian Sauces",
         "event_date": "2023/08/07",
         "data": [
             {
@@ -830,9 +830,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell to Expand Goldfish Production Capacity with $160 Million Investment in Richmond, Utah Bakery",
         "event_date": "2023/07/25",
         "data": [
             {
@@ -866,9 +866,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2023",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell Management to Participate in a Fireside Chat at Evercore ISI Consumer and Retail Conference",
         "event_date": "2023/05/31",
         "data": [
             {
@@ -884,9 +884,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Sells Emerald Nuts Business to Flagstone Foods",
         "event_date": "2023/05/30",
         "data": [
             {
@@ -938,9 +938,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Former Campbell CEO Dale F. Morrison Passes Away",
         "event_date": "2023/04/14",
         "data": [
             {
@@ -956,9 +956,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2023",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Campbell Awards $800,000 in Community Impact Grants",
         "event_date": "2023/04/05",
         "data": [
             {
@@ -992,9 +992,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2023",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell Soup Company to Participate in a Fireside Chat at BofA Securities 2023 Consumer and Retail Conference",
         "event_date": "2023/03/07",
         "data": [
             {
@@ -1046,9 +1046,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named to 2023 Bloomberg Gender-Equality Index",
         "event_date": "2023/01/31",
         "data": [
             {
@@ -1064,9 +1064,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Carrie Anderson Chief Financial Officer",
         "event_date": "2023/01/25",
         "data": [
             {
@@ -1082,9 +1082,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2023",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell to Consolidate Snacks Offices and Invest $50 Million in Camden Headquarters to Fuel Next Chapter of Growth",
         "event_date": "2023/01/18",
         "data": [
             {
@@ -1154,9 +1154,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Enters Into Renewable Energy Agreement With Enel North America to Advance Greenhouse Gas Reduction Targets",
         "event_date": "2022/11/21",
         "data": [
             {
@@ -1172,9 +1172,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Senior Divisional Leaders to Drive Continued Growth",
         "event_date": "2022/11/01",
         "data": [
             {
@@ -1244,9 +1244,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Bennett Dorrance to Retire from Campbell Board of Directors",
         "event_date": "2022/07/22",
         "data": [
             {
@@ -1334,9 +1334,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2022",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Announces New Round of Grants, Bringing Fiscal 2022 Total to Over $2 Million",
         "event_date": "2022/04/05",
         "data": [
             {
@@ -1352,9 +1352,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Campbell Sets Science-based Greenhouse Gas Reduction Targets to Combat Climate Change",
         "event_date": "2022/03/24",
         "data": [
             {
@@ -1370,9 +1370,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of America\u2019s Most Trusted Companies by Newsweek",
         "event_date": "2022/03/23",
         "data": [
             {
@@ -1388,9 +1388,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Kate Barrett to Lead Community Affairs",
         "event_date": "2022/03/17",
         "data": [
             {
@@ -1460,9 +1460,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named to 2022 Bloomberg Gender-Equality Index",
         "event_date": "2022/01/26",
         "data": [
             {
@@ -1478,9 +1478,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
         "event_date": "2022/01/19",
         "data": [
             {
@@ -1496,9 +1496,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of America\u2019s Most JUST Companies by JUST Capital and CNBC",
         "event_date": "2022/01/12",
         "data": [
             {
@@ -1514,9 +1514,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Daniel L. Poland Executive Vice President and Chief Supply Chain Officer",
         "event_date": "2022/01/04",
         "data": [
             {
@@ -1532,9 +1532,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Outlines Next Phase of Strategy to Drive Profitable Growth",
         "event_date": "2021/12/14",
         "data": [
             {
@@ -1550,16 +1550,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell to Share Next Phase of Growth Strategy at Investor Day",
         "event_date": "2021/12/13",
         "data": [
             {
                 "file_name": "campbell-share-next-phase-growth-strategy-investor-day",
                 "file_type": "html",
                 "date": "2021/12/13",
-                "category": "news",
+                "category": "presentation",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-share-next-phase-growth-strategy-investor-day",
                 "wissen_url": "NULL"
             }
@@ -1604,9 +1604,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Campbell Appoints Stewart Lindsay Vice President, Corporate Responsibility and Sustainability",
         "event_date": "2021/11/23",
         "data": [
             {
@@ -1640,16 +1640,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell to Host Investor Day on Dec. 14, 2021",
         "event_date": "2021/11/11",
         "data": [
             {
                 "file_name": "campbell-host-investor-day-dec-14-2021",
                 "file_type": "html",
                 "date": "2021/11/11",
-                "category": "news",
+                "category": "presentation",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-host-investor-day-dec-14-2021",
                 "wissen_url": "NULL"
             }
@@ -1658,9 +1658,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Names Charles Nevin Chief Customer Officer of Meals & Beverages",
         "event_date": "2021/11/08",
         "data": [
             {
@@ -1676,9 +1676,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Diane Johnson May Chief Human Resources Officer",
         "event_date": "2021/10/21",
         "data": [
             {
@@ -1694,9 +1694,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Soup Company Launches Program to Advance School Nutrition",
         "event_date": "2021/10/19",
         "data": [
             {
@@ -1730,9 +1730,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2021",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Campbell Soup Company to Present at the 2021 Barclays Global Consumer Staples Conference",
         "event_date": "2021/09/07",
         "data": [
             {
@@ -1838,9 +1838,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Sun-Maid Growers of California Acquires Plum Organics From Campbell Soup Company",
         "event_date": "2021/03/31",
         "data": [
             {
@@ -1910,9 +1910,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Board Elects Grant H. Hill As Director",
         "event_date": "2021/01/28",
         "data": [
             {
@@ -1928,9 +1928,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2021",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Soup Company Named To 2021 Bloomberg Gender-Equality Index",
         "event_date": "2021/01/27",
         "data": [
             {
@@ -1964,9 +1964,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell's\u00ae Soup Unveils #SavetheSnowDay to Preserve \"Day of Play\" for Kids Across America",
         "event_date": "2020/12/02",
         "data": [
             {
@@ -2000,9 +2000,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Soup Company Reveals More Than a Third of First Time Hosts are Nervous to Cook for the Holidays, with 66% Worried about an Epic Cooking Fail",
         "event_date": "2020/11/13",
         "data": [
             {
@@ -2018,9 +2018,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of America\u2019s Most JUST Companies by Forbes and JUST Capital",
         "event_date": "2020/10/14",
         "data": [
             {
@@ -2054,9 +2054,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Camille Pierce as Chief Culture Officer",
         "event_date": "2020/09/17",
         "data": [
             {
@@ -2162,9 +2162,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2020",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Announces New Sustainable Packaging Goals",
         "event_date": "2020/05/06",
         "data": [
             {
@@ -2180,16 +2180,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2020",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Campbell Soup Company Releases 2020 Corporate Responsibility Report",
         "event_date": "2020/04/24",
         "data": [
             {
                 "file_name": "campbell-soup-company-releases-2020-corporate-responsibility",
                 "file_type": "html",
                 "date": "2020/04/24",
-                "category": "news",
+                "category": "report",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-releases-2020-corporate-responsibility",
                 "wissen_url": "NULL"
             }
@@ -2234,9 +2234,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Rebecca Gardy Vice President, Investor Relations",
         "event_date": "2020/03/03",
         "data": [
             {
@@ -2252,9 +2252,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Valerie Oswalt President of Campbell Snacks",
         "event_date": "2020/03/02",
         "data": [
             {
@@ -2288,27 +2288,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
-        "event_date": "2020/01/23",
-        "data": [
-            {
-                "file_name": "campbell-soup-company-announces-pricing-its-debt-tender-offers",
-                "file_type": "html",
-                "date": "2020/01/23",
-                "category": "news",
-                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
-                "wissen_url": "NULL"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CPB",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Company Announces Upsize and Early Tender Results of its Debt Tender Offers",
         "event_date": "2020/01/23",
         "data": [
             {
@@ -2324,9 +2306,27 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Company Announces Pricing of its Debt Tender Offers",
+        "event_date": "2020/01/23",
+        "data": [
+            {
+                "file_name": "campbell-soup-company-announces-pricing-its-debt-tender-offers",
+                "file_type": "html",
+                "date": "2020/01/23",
+                "category": "news",
+                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations",
         "event_date": "2020/01/22",
         "data": [
             {
@@ -2342,9 +2342,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Soup Company Named to 2020 Bloomberg Gender-Equality Index",
         "event_date": "2020/01/21",
         "data": [
             {
@@ -2360,9 +2360,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Company Announces Debt Tender Offers",
         "event_date": "2020/01/08",
         "data": [
             {
@@ -2378,9 +2378,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2020",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Announces Departure of Carlos Abrams-Rivera as President of Campbell Snacks",
         "event_date": "2020/01/07",
         "data": [
             {
@@ -2396,9 +2396,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Completes Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations to KKR for Approximately $2.2 Billion",
         "event_date": "2019/12/23",
         "data": [
             {
@@ -2414,9 +2414,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Soup Foundation Recognizes Camden Organizations for Improving Lives of City Residents",
         "event_date": "2019/12/13",
         "data": [
             {
@@ -2432,9 +2432,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell's\u00ae Soup and Chef Geoffrey Zakarian Announce 'Kids in the Kitchen' Family Cooking Initiative",
         "event_date": "2019/12/11",
         "data": [
             {
@@ -2504,9 +2504,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Ken Gosnell, Vice President \u2013 Finance Strategy and Investor Relations, to Retire From Campbell",
         "event_date": "2019/10/23",
         "data": [
             {
@@ -2522,9 +2522,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "The Campbell Soup Foundation Announces $1.5 Million in Grants to Strengthen and Empower Healthy Communities",
         "event_date": "2019/10/17",
         "data": [
             {
@@ -2540,9 +2540,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Completes Sale of European Chips Business to Valeo Foods",
         "event_date": "2019/10/11",
         "data": [
             {
@@ -2576,9 +2576,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Completes Sale of Kelsen Group",
         "event_date": "2019/09/23",
         "data": [
             {
@@ -2594,9 +2594,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Announces Retirement of Nick Shreiber From Board of Directors",
         "event_date": "2019/09/19",
         "data": [
             {
@@ -2612,9 +2612,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell\u2019s\u00ae Chunky\u00ae Soup Launches New \u201cChampions of Chunky\u201d Brand Platform",
         "event_date": "2019/09/05",
         "data": [
             {
@@ -2630,9 +2630,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and Valeo Foods Sign Agreement for Intended Sale of Campbell\u2019s European Chips Business",
         "event_date": "2019/09/02",
         "data": [
             {
@@ -2666,9 +2666,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Mick Beekhuizen Chief Financial Officer",
         "event_date": "2019/08/29",
         "data": [
             {
@@ -2702,9 +2702,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and KKR Sign Definitive Agreement for Sale of Arnott\u2019s and Certain of Campbell\u2019s International Operations for $2.2 Billion",
         "event_date": "2019/08/02",
         "data": [
             {
@@ -2720,9 +2720,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q3 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and a Ferrero Affiliated Company Sign Definitive Agreement for Sale of Kelsen Group for $300 Million",
         "event_date": "2019/07/12",
         "data": [
             {
@@ -2756,9 +2756,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Closes Sale of Bolthouse Farms, Completing the Divestiture of Campbell Fresh Division",
         "event_date": "2019/06/17",
         "data": [
             {
@@ -2774,9 +2774,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Appoints Chris Foley President \u2013 Meals & Beverages",
         "event_date": "2019/06/10",
         "data": [
             {
@@ -2810,16 +2810,16 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Company Announces the Webcast of Its Investor Day Presentation",
         "event_date": "2019/05/30",
         "data": [
             {
                 "file_name": "campbell-soup-company-announces-webcast-its-investor-day",
                 "file_type": "html",
                 "date": "2019/05/30",
-                "category": "news",
+                "category": "presentation",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-webcast-its-investor-day",
                 "wissen_url": "NULL"
             }
@@ -2828,9 +2828,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Again Named to 100 Best Corporate Citizens List",
         "event_date": "2019/05/15",
         "data": [
             {
@@ -2846,9 +2846,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Foundation Announces 2019 Grant Recipients",
         "event_date": "2019/05/01",
         "data": [
             {
@@ -2882,9 +2882,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and Affiliate of Butterfly Equity Sign Definitive Agreement for Sale of Bolthouse Farms for $510 Million",
         "event_date": "2019/04/12",
         "data": [
             {
@@ -2900,9 +2900,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Les Vinney to Retire as Chairman of Campbell\u2019s Board of Directors; Keith McLoughlin to Become Chairman",
         "event_date": "2019/03/28",
         "data": [
             {
@@ -2954,9 +2954,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and Affiliate of Fountain of Health USA Sign Definitive Agreement for Sale of Garden Fresh Gourmet",
         "event_date": "2019/02/26",
         "data": [
             {
@@ -2972,9 +2972,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell and Joshua Green Corporation Sign Definitive Agreement for Sale of Campbell Fresh Plant",
         "event_date": "2019/02/21",
         "data": [
             {
@@ -3008,9 +3008,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named One of the World\u2019s Most Sustainable Corporations by Corporate Knights",
         "event_date": "2019/01/22",
         "data": [
             {
@@ -3026,9 +3026,9 @@
     {
         "equity_ticker": "CPB",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Campbell Named to 2019 Bloomberg Gender-Equality Index",
         "event_date": "2019/01/16",
         "data": [
             {
