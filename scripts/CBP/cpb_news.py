@@ -206,7 +206,7 @@ async def extract_files_from_page(page):
                     }]
                 })
 
-                print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed.strftime('%Y/%m/%d')}")
+                # print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed.strftime('%Y/%m/%d')}")
 
             except Exception as e:
                 print(f"⚠️ Error processing an event: {e}")
