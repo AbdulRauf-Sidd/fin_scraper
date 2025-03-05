@@ -179,7 +179,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url + "?page=" + str(page_num))
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url + "?page=" + str(page_num), wait_until="load", timeout=120000)
+                await page.goto(current_url + "?page=" + str(page_num), wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")

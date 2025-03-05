@@ -125,7 +125,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
                 await extract_data_from_page(page)  # Extract the data from the current page
                 # await asyncio.sleep(random.uniform(0,1))  # Human-like delay
