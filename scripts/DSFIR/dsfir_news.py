@@ -19,7 +19,7 @@ from scripts.UTILS import utils
 # args = parser.parse_args()
 
 # Configurations
-SEC_FILINGS_URL = "https://our-company.dsm-firmenich.com/en/our-company/news.html"
+SEC_FILINGS_URL = "https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html"
 EQUITY_TICKER = "DSFIR"  # Convert to uppercase for standardization
 JSON_FILENAME = "JSONS/dsfir_news.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025

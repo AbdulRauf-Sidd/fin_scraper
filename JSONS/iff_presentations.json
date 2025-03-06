@@ -2,7 +2,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "presentation",
         "event_name": "2025 CAGNY Conference",
         "event_date": "2025/02/20",
@@ -112,7 +112,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "presentation",
         "event_name": "Barclays Global Consumer Staples Conference",
         "event_date": "2024/09/05",

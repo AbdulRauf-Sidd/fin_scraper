@@ -28,6 +28,7 @@ async def scrape_news_events(url, filename):
                     text = await element.text_content()
                     date_element = await div.query_selector('p.list__date')
                     date_text = await date_element.text_content() if date_element else "Unknown Date"
+                    category = classify_document(text,href)
 
                     if href and not href.startswith('http'):
                         href = base_url + href
@@ -43,7 +44,7 @@ async def scrape_news_events(url, filename):
                             "file_name": href.split('/')[-1],
                             "file_type": "link",
                             "date": date_text,
-                            "category": "NULL",
+                            "category": category,
                             "source_url": href,
                             "wissen_url": "NULL"
                         }]

@@ -24,6 +24,7 @@ async def scrape_investor_reports(url, filename):
                 text = await element.text_content()
                 date = await extract_date_from_text(text)
                 eventType = categorize_event(text)    
+                category = classify_document(text,href)
                 
                 if href and not href.startswith('http'):
                     href = base_url + href
@@ -40,7 +41,7 @@ async def scrape_investor_reports(url, filename):
                         "file_name": href.split('/')[-1],
                         "file_type": file_type,
                         "date": date,
-                        "category": "NULL",
+                        "category": category,
                         "source_url": href,
                         "wissen_url": "NULL"
                     }]

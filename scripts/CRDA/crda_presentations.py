@@ -20,7 +20,7 @@ from scripts.UTILS import utils
 # Configurations
 SEC_FILINGS_URL = "https://www.croda.com/en-gb/investors/results-presentations-and-reports"
 EQUITY_TICKER = "CRDA"  # Convert to uppercase for standardization
-JSON_FILENAME = "JSONS/CRDA_sec.json"
+JSON_FILENAME = "JSONS/crda_presentations.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages
