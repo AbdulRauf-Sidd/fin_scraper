@@ -7,7 +7,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
 import re
-from scripts.UTILS import utils 
+from utils import * 
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")

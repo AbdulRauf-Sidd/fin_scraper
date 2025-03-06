@@ -7,7 +7,7 @@ import sys
 
 # Import Utility Functions
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
-from scripts.UTILS import utils
+from utils import *
 
 BASE_URL = "https://investor.workday.com/sec-filings?year={year}"
 START_YEAR = 2019

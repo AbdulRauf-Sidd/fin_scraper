@@ -1374,16 +1374,7 @@
         "event_type": "quarterly",
         "event_name": "Statement of changes in beneficial ownership of securities\nAcc-no: 0002008973-24-000006\u00a0(34 Act)\u00a0 Size: 7 KB",
         "event_date": "2024-04-09",
-        "data": [
-            {
-                "file_name": "0002008973-24-000006-index.htm",
-                "file_type": "htm",
-                "date": "2024-04-09",
-                "category": "Determine how to set",
-                "source_url": "https://www.sec.gov/Archives/edgar/data/78239/000200897324000006/0002008973-24-000006-index.htm",
-                "wissen_url": "NULL"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "PVH",
@@ -1446,16 +1437,7 @@
         "event_type": "quarterly",
         "event_name": "Statement of changes in beneficial ownership of securities\nAcc-no: 0002008973-24-000004 Size: 7 KB",
         "event_date": "2024-04-09",
-        "data": [
-            {
-                "file_name": "0002008973-24-000004-index.htm",
-                "file_type": "htm",
-                "date": "2024-04-09",
-                "category": "Determine how to set",
-                "source_url": "https://www.sec.gov/Archives/edgar/data/78239/000200897324000004/0002008973-24-000004-index.htm",
-                "wissen_url": "NULL"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "PVH",
@@ -1752,16 +1734,7 @@
         "event_type": "quarterly",
         "event_name": "Initial statement of beneficial ownership of securities\nAcc-no: 0002008973-24-000002 Size: 4 KB",
         "event_date": "2024-02-06",
-        "data": [
-            {
-                "file_name": "0002008973-24-000002-index.htm",
-                "file_type": "htm",
-                "date": "2024-02-06",
-                "category": "Determine how to set",
-                "source_url": "https://www.sec.gov/Archives/edgar/data/78239/000200897324000002/0002008973-24-000002-index.htm",
-                "wissen_url": "NULL"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "PVH",

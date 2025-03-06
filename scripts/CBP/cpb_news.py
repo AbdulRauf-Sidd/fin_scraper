@@ -8,7 +8,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -206,7 +206,7 @@ async def extract_files_from_page(page):
                     }]
                 })
 
-                printw(f"✅ Extracted event: {event_name}, Date: {event_date_parsed.strftime('%Y/%m/%d')}")
+                print(f"✅ Extracted event: {event_name}, Date: {event_date_parsed.strftime('%Y/%m/%d')}")
 
             except Exception as e:
                 print(f"⚠️ Error processing an event: {e}")

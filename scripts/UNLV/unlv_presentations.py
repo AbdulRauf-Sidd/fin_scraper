@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
 # parser.add_argument("url", type=str, help="SEC Filings page URL")

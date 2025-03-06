@@ -2290,24 +2290,6 @@
         "source_type": "company_information",
         "frequency": "non-periodic",
         "event_type": "press_release",
-        "event_name": "Campbell Soup Company Announces Pricing of its Debt Tender Offers",
-        "event_date": "2020/01/23",
-        "data": [
-            {
-                "file_name": "campbell-soup-company-announces-pricing-its-debt-tender-offers",
-                "file_type": "html",
-                "date": "2020/01/23",
-                "category": "news",
-                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
-                "wissen_url": "NULL"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CPB",
-        "source_type": "company_information",
-        "frequency": "non-periodic",
-        "event_type": "press_release",
         "event_name": "Campbell Soup Company Announces Upsize and Early Tender Results of its Debt Tender Offers",
         "event_date": "2020/01/23",
         "data": [
@@ -2317,6 +2299,24 @@
                 "date": "2020/01/23",
                 "category": "news",
                 "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-upsize-and-early-tender-results",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CPB",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Campbell Soup Company Announces Pricing of its Debt Tender Offers",
+        "event_date": "2020/01/23",
+        "data": [
+            {
+                "file_name": "campbell-soup-company-announces-pricing-its-debt-tender-offers",
+                "file_type": "html",
+                "date": "2020/01/23",
+                "category": "news",
+                "source_url": "https://investor.thecampbellscompany.com/news-releases/news-release-details/campbell-soup-company-announces-pricing-its-debt-tender-offers",
                 "wissen_url": "NULL"
             }
         ]

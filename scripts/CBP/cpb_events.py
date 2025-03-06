@@ -8,7 +8,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 
 # Configurations
 SEC_FILINGS_URL = "https://investor.thecampbellscompany.com/events-presentations"

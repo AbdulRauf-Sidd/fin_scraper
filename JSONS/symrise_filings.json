@@ -993,7 +993,7 @@
     },
     {
         "equity_ticker": "SY1",
- "source_type": "company_information",
+        "source_type": "company_information",
         "frequency": "non-periodic",
         "event_type": "other",
         "event_name": "Unknown Event",
