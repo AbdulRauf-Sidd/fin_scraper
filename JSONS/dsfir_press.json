@@ -90,7 +90,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "2023 results",
         "event_date": "null",
@@ -158,7 +158,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "H1 2022 results",
         "event_date": "null",
@@ -314,7 +314,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "DSM accelerates its purpose-led, performance-driven strategic journey",
         "event_date": "null",
@@ -348,7 +348,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "DSM to acquire First Choice Ingredients",
         "event_date": "null",
@@ -374,7 +374,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "H1 2021 results",
         "event_date": "null",
@@ -498,21 +498,13 @@
                 "category": "presentation",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/presentation-to-investors-fy-2020.pdf",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "09-21-q1-2021-trading-update.pdf",
-                "file_type": "pdf",
-                "date": "NULL",
-                "category": "news",
-                "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/09-21-q1-2021-trading-update.pdf",
-                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "(Virtual) Investor Event",
         "event_date": "null",
@@ -547,14 +539,6 @@
                 "date": "NULL",
                 "category": "news",
                 "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-malarkey-innovation.pdf",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "2020-11-04-cmd-co-ceos-keynote.pdf",
-                "file_type": "pdf",
-                "date": "NULL",
-                "category": "news",
-                "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/results-pressreleases-publications/2020-11-04-cmd-co-ceos-keynote.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -596,7 +580,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "H1 results",
         "event_date": "null",
@@ -630,7 +614,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "DSM to acquire the Erber Group",
         "event_date": "null",
@@ -742,7 +726,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "DSM to acquire Glycom A/S Denmark",
         "event_date": "null",
@@ -836,7 +820,7 @@
     {
         "equity_ticker": "DSFIR",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "H1 results",
         "event_date": "null",

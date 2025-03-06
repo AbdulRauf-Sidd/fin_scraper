@@ -20,7 +20,7 @@ from utils import *
 # Configurations
 SEC_FILINGS_URL = "https://www.croda.com/en-gb/investors/results-presentations-and-reports"
 EQUITY_TICKER = "CRDA"  # Convert to uppercase for standardization
-JSON_FILENAME = "JSONS/CRDA_sec.json"
+JSON_FILENAME = "JSONS/crda_presentations.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages
@@ -177,7 +177,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")

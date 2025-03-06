@@ -20,7 +20,7 @@ from utils import *
 # Configurations
 SEC_FILINGS_URL = "https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html"
 EQUITY_TICKER = "DSFIR"  # Convert to uppercase for standardization
-JSON_FILENAME = "JSONS/DSFIR_press.json"
+JSON_FILENAME = "JSONS/dsfir_press.json"
 VALID_YEARS = {str(year) for year in range(2019, 2026)}  # 2019-2025
 
 # Track visited pages
@@ -198,7 +198,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")

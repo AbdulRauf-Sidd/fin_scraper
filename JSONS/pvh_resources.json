@@ -1,0 +1,596 @@
+[
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Forward Fashion Targets",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Forward-Fashion-Targets.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Forward-Fashion-Targets.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Forward Fashion Targets",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-A-Shared-Commitment.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-A-Shared-Commitment.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our approach to governance and stakeholder engagement.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "CR-Governance-and-Stakeholder-Engagement.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/CR-Governance-and-Stakeholder-Engagement.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "We are guided by the principle that success in business is dependent on putting 'human' issues first. Read our commitment to corporate responsibility.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Statement-of-Corporate-Responsibility.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-of-Corporate-Responsibility.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners.",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our approach to governance and stakeholder engagement.",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "We are guided by the principle that success in business is dependent on putting 'human' issues first. Read our commitment to corporate responsibility.",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our supply chain standards and expectations of our suppliers provide guidance on how we support them in moving beyond compliance.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Supply-Guidelines.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Supply-Guidelines.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "We address environmental and climate change impacts across our owned and operated facilities, products and packaging, and supply chain.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Environment-Policy.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Environment-Policy.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "CR is central to how we conduct business, and we believe human rights are non-negotiable.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "Approach-to-CR-and-Human-Rights.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/Approach-to-CR-and-Human-Rights.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are committed to using safer substances in the materials used to manufacture our products and within the manufacturing process.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Restricted-Substance-List.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Restricted-Substance-List.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Our commitment and policy on the use of conflict minerals in our products.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Conflict-Minerals-Policy.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Conflict-Minerals-Policy.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We source materials of animal origin in a humane, ethical, and sustainable manner, with respect for animal welfare and species conservation.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Animal-Welfare-Policy-Statement.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Animal-Welfare-Policy-Statement.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are working to make sure that slavery and human trafficking does not take place in our business or our supply chain.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Modern-Slavery-Statement.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Modern-Slavery-Statement.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are committed to better protecting forests through sustainable sourcing practices, both in our supply chain and company-operated facilities.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Forest-Protection-Policy.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Forest-Protection-Policy.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Guidance based on best practices from the International Labor Organization (ILO), World Health Organization (WHO), and other international guidelines on CR considerations when addressing COVID-19 impacts.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "CR-Guidelines-for-a-Healthy-Work-Environment.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/CR-Guidelines-for-a-Healthy-Work-Environment.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are committed to using safer substances in the materials and processes required to manufacture our products and protect our consumers, workers, sourcing communities, and the natural environment.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PFAS-Policy.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PFAS-Policy.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are building stable, long-term relationships, increasing accountability and efficiency and allowing us to be transparent about where we source from.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Suppliers-Disclosure.xlsx",
+                "file_type": "xlsx",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Suppliers-Disclosure.xlsx",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We disclose our Higg Brand & Retail Module scores for transparency around our social and environmental performance.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Higg-Brand-and-Retail-Module-Scores.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Higg-Brand-and-Retail-Module-Scores.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "We disclose through CDP Climate to measure and act on our environmental impact.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CDP-Disclosure---Climate.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CDP-Disclosure---Climate.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "We disclose through CDP Water to measure and act on our environmental impact.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CDP-Disclosure---Water-Security.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CDP-Disclosure---Water-Security.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are deeply concerned about the impact of this unprecedented situation on workers across the apparel supply chain.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Statement-on-COVID-19-Supply-Chain.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-COVID-19-Supply-Chain.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "PVH Corp. is committed to our Forward Fashion strategy that supports sustainability and human rights around the world.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Statement-on-Human-Rights.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-Human-Rights.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We have discontinued the use of angora in our products unless and until we can confirm that the angora fibers have been humanely obtained.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Statement-on-Angora.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-Angora.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "We are working to ensure that every worker has a right to compensation that is sufficient to meet basic needs and provide some discretionary income.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Living-Wage-Strategy.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Living-Wage-Strategy.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2022 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2022.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2022.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2021 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2021.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2021.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2020 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2020.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2020.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2019 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2019.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2019.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2018 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2018.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2018.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2017 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2017.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2017.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2016 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2016.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2016.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2015 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2015.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2015.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Read our 2014 Corporate Responsibility Report.",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-CR-Report-2014.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "report",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2014.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    }
+]

@@ -570,3 +570,19 @@ async def enable_stealth(page):
             get: () => undefined
         });
     """)
+
+async def KO_close_cookie_consent(page):
+    # Check if the cookie consent form is visible
+    cookie_consent_selector = "#onetrust-pc-sdk"
+    close_button_selector = "#close-pc-btn-handler"
+    try:
+        # Wait for the cookie consent form to appear (up to 5 seconds)
+        cookie_consent = await page.wait_for_selector(cookie_consent_selector, state="attached", timeout=5000)
+        if cookie_consent:
+            print("Cookie consent form found. Attempting to close...")
+            await page.click(close_button_selector)
+            print("Cookie consent form closed.")
+        else:
+            print("No cookie consent form found.")
+    except Exception as e:
+        print(f"No cookie consent form to close or an error occurred: {str(e)}")

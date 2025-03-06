@@ -1,0 +1,245 @@
+[
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "CORRECTED+TRANSCRIPT_+The+Coca-Cola+Co.%28KO-US%29%2C+Consumer+Analyst+Group+of+New+York+Conference%2C+18-February-2025+10_00+AM+ET.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "Transcript",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_82701f49a4b208ab3189a4a82e2995cc/cocacolacompany/db/702/8192/file/CORRECTED+TRANSCRIPT_+The+Coca-Cola+Co.%28KO-US%29%2C+Consumer+Analyst+Group+of+New+York+Conference%2C+18-February-2025+10_00+AM+ET.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "starthere.jsp?ei=1703875&tp_key=1136b734d5",
+                "file_type": "jsp?ei=1703875&tp_key=1136b734d5",
+                "date": "NULL",
+                "category": "Audio",
+                "source_url": "https://event.webcasts.com/starthere.jsp?ei=1703875&tp_key=1136b734d5",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "The+Coca-Cola+Company+CAGNY+2025+Presentation_static.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "Presentation",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_82701f49a4b208ab3189a4a82e2995cc/cocacolacompany/db/701/8178/presentation/The+Coca-Cola+Company+CAGNY+2025+Presentation_static.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    },
+    {
+        "equity_ticker": "KO",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Consumer Analyst Group of New York (CAGNY) Conference",
+        "event_date": "NULL",
+        "data": []
+    }
+]
