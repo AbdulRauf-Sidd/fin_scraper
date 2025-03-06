@@ -172,14 +172,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/sec-filings?year=2025",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Feb 25, 2025",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2025",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -221,22 +213,6 @@
                 "date": "Feb 25, 2025",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318948411&type=XLS&symbol=WDAY&cdn=42efde1e159f7b6888334e7ef0c5a6e8&companyName=Workday+Inc.&formType=8-K&dateFiled=2025-02-25",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Feb 25, 2025",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2025",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Feb 25, 2025",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2025",
                 "wissen_url": "NULL"
             }
         ]
@@ -489,22 +465,6 @@
                 "date": "Feb 5, 2025",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318890592&type=XLS&symbol=WDAY&cdn=b72ab77960baafd3ad9c959fa756f55e&companyName=Workday+Inc.&formType=8-K&dateFiled=2025-02-05",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Feb 5, 2025",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2025",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Feb 5, 2025",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2025",
                 "wissen_url": "NULL"
             }
         ]
@@ -2068,14 +2028,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/sec-filings?year=2024",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 5, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -2201,22 +2153,6 @@
                 "date": "Dec 3, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318763943&type=XLS&symbol=WDAY&cdn=b27ec39b141f194ba53dd8673893e22d&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-12-03",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 3, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 3, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -2344,22 +2280,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318749932&type=XLS&symbol=WDAY&cdn=bf3113df52d603236ade59dbc4255fbd&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-11-26",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -2401,22 +2321,6 @@
                 "date": "Nov 26, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318750111&type=XLS&symbol=WDAY&cdn=9aaab5e91e4f2228f96e265f35b0f54c&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-11-26",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -3308,14 +3212,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2024",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Oct 1, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -3693,14 +3589,6 @@
                 "date": "Sep 10, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318584681&type=XLS&symbol=WDAY&cdn=a4f53d0d0edebd632b61875f7569d5b4&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-09-10",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Sep 10, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
                 "wissen_url": "NULL"
             },
             {
@@ -4088,22 +3976,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318557754&type=XLS&symbol=WDAY&cdn=af60c51dc1d078743fc71ac8d4e41df5&companyName=Workday+Inc.&formType=10-Q&dateFiled=2024-08-28",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 28, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 28, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -4230,22 +4102,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318542058&type=XLS&symbol=WDAY&cdn=1b0a9365d6c38b204dea0584fecdc338&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-08-22",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 22, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 22, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -4371,22 +4227,6 @@
                 "date": "Aug 1, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318488571&type=XLS&symbol=WDAY&cdn=2a608d92e2fc4e04306b44412412a6d4&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-08-01",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 1, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 1, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -4933,14 +4773,6 @@
                 "date": "Jul 5, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318438949&type=XLS&symbol=WDAY&cdn=64c331afc200032d69dae6ffb0418b18&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-07-05",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jul 5, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2024",
                 "wissen_url": "NULL"
             },
             {
@@ -5664,22 +5496,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318404816&type=XLS&symbol=WDAY&cdn=f64b262490789d3f3ad746463ca4a7d6&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-06-20",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 20, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 20, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -6066,14 +5882,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 29, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -6157,22 +5965,6 @@
                 "date": "May 23, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318344301&type=XLS&symbol=WDAY&cdn=742fdd6865ed9ac7a98bd3646e5a57b7&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-05-23",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 23, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 23, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -6342,22 +6134,6 @@
                 "category": "other",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318298607&type=XLS&symbol=WDAY&cdn=4cc244ce19e7c8cf849615d55b4372f5&companyName=Workday+Inc.&formType=DEF+14A&dateFiled=2024-05-07",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 7, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 7, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -6484,22 +6260,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318265358&type=XLS&symbol=WDAY&cdn=caca4b4b6bf6af9ba99aef12bc286ece&companyName=Workday+Inc.&formType=PRE+14A&dateFiled=2024-04-26",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -6541,22 +6301,6 @@
                 "date": "Apr 25, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318257405&type=XLS&symbol=WDAY&cdn=3a5978b3ad87c9fb6139703854516ada&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-04-25",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 25, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 25, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -7742,14 +7486,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2024",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 8, 2024",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -8052,14 +7788,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -8101,22 +7829,6 @@
                 "date": "Feb 26, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318101308&type=XLS&symbol=WDAY&cdn=f409c07b32f0c2556fe2579377092705&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-02-26",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 26, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -8285,22 +7997,6 @@
                 "date": "Jan 31, 2024",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=318021102&type=XLS&symbol=WDAY&cdn=0da146fafd3cdcea49482b25a6dc3cc9&companyName=Workday+Inc.&formType=8-K&dateFiled=2024-01-31",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 31, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 31, 2024",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=150&s=127&year=2024",
                 "wissen_url": "NULL"
             }
         ]
@@ -9822,14 +9518,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/sec-filings?year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 1, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -9914,22 +9602,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317895490&type=XLS&symbol=WDAY&cdn=bcb439f7c425f048f677bfc2579b6ccb&companyName=Workday+Inc.&formType=10-Q&dateFiled=2023-11-28",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 28, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 28, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -9971,22 +9643,6 @@
                 "date": "Nov 28, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317894433&type=XLS&symbol=WDAY&cdn=6fcc7cb36a03de3f6798662091092eb8&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-11-28",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 28, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 28, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -11298,14 +10954,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Sep 7, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -11608,14 +11256,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 24, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -11657,22 +11297,6 @@
                 "date": "Aug 24, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317710670&type=XLS&symbol=WDAY&cdn=d43c30c7323681e2908ed7750f19e604&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-08-24",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 24, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 24, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -12774,14 +12398,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 26, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -13756,14 +13372,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 25, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -13805,22 +13413,6 @@
                 "date": "May 25, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317520008&type=XLS&symbol=WDAY&cdn=b841ca337dce955ef1ac5bc26916a820&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-05-25",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 25, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 25, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -13864,22 +13456,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317520111&type=XLS&symbol=WDAY&cdn=307ea4128f5b3fa16c1b203a294942af&companyName=Workday+Inc.&formType=10-Q&dateFiled=2023-05-25",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 25, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 25, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -13921,22 +13497,6 @@
                 "date": "May 10, 2023",
                 "category": "other",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=317477925&type=XLS&symbol=WDAY&cdn=861fec0a734c64d564e6c7106c22657a&companyName=Workday+Inc.&formType=DEF+14A&dateFiled=2023-05-10",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 10, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 10, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=100&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -14912,14 +14472,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 3, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -14961,22 +14513,6 @@
                 "date": "Feb 27, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117287352&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-02-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -15020,22 +14556,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117287404&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-02-27&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -15077,22 +14597,6 @@
                 "date": "Feb 27, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117287473&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-K&dateFiled=2023-02-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2023",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -15304,22 +14808,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117200706&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-01-31&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 31, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 31, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -15361,22 +14849,6 @@
                 "date": "Jan 27, 2023",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117195191&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2023-01-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 27, 2023",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=125&s=127&year=2023",
                 "wissen_url": "NULL"
             }
         ]
@@ -15722,14 +15194,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/sec-filings?year=2022",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 20, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -16024,22 +15488,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117090659&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-11-29&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 29, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 29, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -16081,22 +15529,6 @@
                 "date": "Nov 29, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=117090694&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2022-11-29&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 29, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 29, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -16602,22 +16034,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116912047&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2022-08-25&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Aug 25, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Aug 25, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -16659,22 +16075,6 @@
                 "date": "Aug 25, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116911858&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-08-25&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Aug 25, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Aug 25, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -17566,14 +16966,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2022",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 24, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -17657,22 +17049,6 @@
                 "date": "Jun 22, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116785816&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-06-22&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 22, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 22, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -17976,14 +17352,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -18025,22 +17393,6 @@
                 "date": "May 26, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116734530&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-05-26&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -18798,22 +18150,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116611279&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-04-07&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 7, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 7, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -18939,22 +18275,6 @@
                 "date": "Apr 1, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116598426&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-04-01&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 1, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 1, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -19636,14 +18956,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 28, 2022",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -19728,22 +19040,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116502148&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-02-28&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 28, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 28, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -19785,22 +19081,6 @@
                 "date": "Feb 28, 2022",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116497987&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2022-02-28&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 28, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 28, 2022",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2022",
                 "wissen_url": "NULL"
             }
         ]
@@ -20776,14 +20056,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/sec-filings?year=2021",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -20825,22 +20097,6 @@
                 "date": "Nov 18, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116268011&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2021-11-18&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -20884,22 +20140,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116268027&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-11-18&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -20941,22 +20181,6 @@
                 "date": "Nov 18, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116268045&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-11-18&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 18, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -21251,22 +20475,6 @@
                 "date": "Sep 20, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116144416&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-09-20&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Sep 20, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Sep 20, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -21612,14 +20820,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 26, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -21661,22 +20861,6 @@
                 "date": "Aug 26, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=116103955&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2021-08-26&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 26, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 26, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -22055,22 +21239,6 @@
                 "date": "Jun 11, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115937530&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-06-11&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 11, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 11, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -22836,14 +22004,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -22885,22 +22045,6 @@
                 "date": "May 26, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115900833&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2021-05-26&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 26, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -23406,22 +22550,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115767376&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-04-01&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 1, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 1, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -23682,14 +22810,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 2, 2021",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -23774,22 +22894,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115670191&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-02-25&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 25, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 25, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -23831,22 +22935,6 @@
                 "date": "Feb 24, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115665289&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-02-24&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 24, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 24, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -24141,22 +23229,6 @@
                 "date": "Jan 28, 2021",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115576483&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2021-01-28&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 28, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jan 28, 2021",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2021",
                 "wissen_url": "NULL"
             }
         ]
@@ -24796,14 +23868,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/sec-filings?year=2020",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 20, 2020",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -24845,22 +23909,6 @@
                 "date": "Nov 19, 2020",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115452913&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-11-19&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 19, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 19, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2020",
                 "wissen_url": "NULL"
             }
         ]
@@ -25584,14 +24632,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 28, 2020",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -25634,22 +24674,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115209516&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-08-27&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -25691,22 +24715,6 @@
                 "date": "Aug 27, 2020",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115209481&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-08-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
                 "wissen_url": "NULL"
             }
         ]
@@ -26464,22 +25472,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115070869&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-06-11&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 11, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Jun 11, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -26698,14 +25690,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 28, 2020",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -26747,22 +25731,6 @@
                 "date": "May 27, 2020",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=115038271&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-05-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
                 "wissen_url": "NULL"
             }
         ]
@@ -27268,22 +26236,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114927270&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-04-06&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 6, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Apr 6, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -27452,22 +26404,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114878820&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-03-16&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 16, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 16, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -27594,22 +26530,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114848954&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-K&dateFiled=2020-03-03&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 3, 2020",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 3, 2020",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -27651,22 +26571,6 @@
                 "date": "Feb 27, 2020",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114832093&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2020-02-27&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Feb 27, 2020",
-                "category": "report",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2020",
                 "wissen_url": "NULL"
             }
         ]
@@ -28432,14 +27336,6 @@
                 "category": "report",
                 "source_url": "https://investor.workday.com/sec-filings?year=2019",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 10, 2019",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -28692,22 +27588,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114661074&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2019-12-04&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 4, 2019",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 4, 2019",
-                "category": "other",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -28750,22 +27630,6 @@
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114658968&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2019-12-03&CK=1327811",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 3, 2019",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Dec 3, 2019",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -28807,22 +27671,6 @@
                 "date": "Nov 4, 2019",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114601524&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=8-K&dateFiled=2019-11-04&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 4, 2019",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "sec-filings",
-                "file_type": "html",
-                "date": "Nov 4, 2019",
-                "category": "report",
-                "source_url": "https://investor.workday.com/sec-filings?year=2019",
                 "wissen_url": "NULL"
             }
         ]
@@ -29495,14 +28343,6 @@
                 "date": "Aug 30, 2019",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=114397289&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-Q&dateFiled=2019-08-30&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Aug 30, 2019",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=25&s=127&year=2019",
                 "wissen_url": "NULL"
             },
             {
@@ -30864,14 +29704,6 @@
                 "category": "other",
                 "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2019",
                 "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "May 30, 2019",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=50&s=127&year=2019",
-                "wissen_url": "NULL"
             }
         ]
     },
@@ -32089,14 +30921,6 @@
                 "date": "Mar 18, 2019",
                 "category": "report",
                 "source_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=112828944&type=XLS&symbol=WDAY&companyName=Workday+Inc.&formType=10-K&dateFiled=2019-03-18&CK=1327811",
-                "wissen_url": "NULL"
-            },
-            {
-                "file_name": "index.php",
-                "file_type": "html",
-                "date": "Mar 18, 2019",
-                "category": "other",
-                "source_url": "https://investor.workday.com/index.php?o=75&s=127&year=2019",
                 "wissen_url": "NULL"
             },
             {

@@ -1,3 +1,56 @@
-[{"equity_ticker": "PVH", "source_type": "company_information", "frequency": "non-periodic", "event_type": "other", "event_name": "2023 Year in Review", "event_date": "NULL", "data": [{"file_name": "PVH-Year-in-Review-2023.pdf", "file_type": "pdf", "date": "NULL", "category": "other", "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Year-in-Review-2023.pdf", "wissen_url": "NULL"}]},
-{"equity_ticker": "PVH", "source_type": "company_information", "frequency": "periodic", "event_type": "other", "event_name": "2024 3Q Earnings", "event_date": "NULL", "data": [{"file_name": "PVH-Q3-2024-Earnings.pdf", "file_type": "pdf", "date": "NULL", "category": "other", "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q3-2024-Earnings.pdf", "wissen_url": "NULL"}]},
-{"equity_ticker": "PVH", "source_type": "company_information", "frequency": "periodic", "event_type": "other", "event_name": "2024 2Q Earnings", "event_date": "NULL", "data": [{"file_name": "PVH-Q2-2024-Earnings.pdf", "file_type": "pdf", "date": "NULL", "category": "other", "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q2-2024-Earnings.pdf", "wissen_url": "NULL"}]}]
+[
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "2023 Year in Review",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Year-in-Review-2023.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Year-in-Review-2023.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "other",
+        "event_name": "2024 3Q Earnings",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Q3-2024-Earnings.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q3-2024-Earnings.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "PVH",
+        "source_type": "company_information",
+        "frequency": "periodic",
+        "event_type": "other",
+        "event_name": "2024 2Q Earnings",
+        "event_date": "NULL",
+        "data": [
+            {
+                "file_name": "PVH-Q2-2024-Earnings.pdf",
+                "file_type": "pdf",
+                "date": "NULL",
+                "category": "other",
+                "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q2-2024-Earnings.pdf",
+                "wissen_url": "NULL"
+            }
+        ]
+    }
+]

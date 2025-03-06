@@ -12,7 +12,7 @@
                 "file_type": "pdf",
                 "date": "2025/02/26",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9336/pdf/CORZ+Earnings+Presentation+Q4+2024.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9336/pdf/CORZ+Earnings+Presentation+Q4+2024.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -20,9 +20,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q4 2024",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "December 2024 Convertible Note Presentation",
         "event_date": "2024/12/03",
         "data": [
             {
@@ -30,7 +30,7 @@
                 "file_type": "pdf",
                 "date": "2024/12/03",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9325/pdf/Core+Scientific+December+2024+Company+Presentation.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9325/pdf/Core+Scientific+December+2024+Company+Presentation.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -48,7 +48,7 @@
                 "file_type": "pdf",
                 "date": "2024/11/06",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9321/pdf/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9321/pdf/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -66,7 +66,7 @@
                 "file_type": "pdf",
                 "date": "2024/08/07",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9306/pdf/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9306/pdf/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -74,9 +74,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Core Scientific, Inc. Investor and Analyst Event June 12, 2024 Transcript",
         "event_date": "2024/06/12",
         "data": [
             {
@@ -84,7 +84,7 @@
                 "file_type": "pdf",
                 "date": "2024/06/12",
                 "category": "transcript",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9297/pdf/June+2024+Investor+Day+Transcript+061224.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9297/pdf/June+2024+Investor+Day+Transcript+061224.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -92,9 +92,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Core Scientific Investor and Analyst Presentation June 12, 2024",
         "event_date": "2024/06/12",
         "data": [
             {
@@ -102,7 +102,7 @@
                 "file_type": "pdf",
                 "date": "2024/06/12",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9294/pdf/Core+Scientific+Investor+Day+Presentation+2024.06.12.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9294/pdf/Core+Scientific+Investor+Day+Presentation+2024.06.12.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -110,9 +110,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Core Scientific & CoreWeave 200MW HPC Hosting Agreement Infographic",
         "event_date": "2024/06/05",
         "data": [
             {
@@ -120,7 +120,7 @@
                 "file_type": "pdf",
                 "date": "2024/06/05",
                 "category": "other",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9293/pdf/FINAL+CORZ+CoreWeave+Agreements+Infographic.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9293/pdf/FINAL+CORZ+CoreWeave+Agreements+Infographic.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -128,9 +128,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q2 2024",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "Core Scientific HPC Hosting Announcement Presentation",
         "event_date": "2024/06/03",
         "data": [
             {
@@ -138,7 +138,7 @@
                 "file_type": "pdf",
                 "date": "2024/06/03",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9288/pdf/FINAL+CORZ+HPC+Release+Slides.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9288/pdf/FINAL+CORZ+HPC+Release+Slides.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -156,7 +156,7 @@
                 "file_type": "pdf",
                 "date": "2024/05/08",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9265/pdf/Q1FY2024-Earnings-Presentation.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9265/pdf/Q1FY2024-Earnings-Presentation.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -174,7 +174,7 @@
                 "file_type": "pdf",
                 "date": "2024/03/12",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9133/pdf/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9133/pdf/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -182,9 +182,9 @@
     {
         "equity_ticker": "CORZ",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "Q1 2024",
+        "frequency": "non-periodic",
+        "event_type": "trading_updates",
+        "event_name": "Core Scientific, Inc. Chapter 11 Emergence Update Webcast",
         "event_date": "2024/01/22",
         "data": [
             {
@@ -192,7 +192,7 @@
                 "file_type": "pdf",
                 "date": "2024/01/22",
                 "category": "other",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9132/pdf/FINAL-CORZ-Emergence-Update-Slides-012224.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9132/pdf/FINAL-CORZ-Emergence-Update-Slides-012224.pdf",
                 "wissen_url": "NULL"
             }
         ]
@@ -210,7 +210,7 @@
                 "file_type": "pdf",
                 "date": "2023/09/12",
                 "category": "presentation",
-                "source_url": "https://d1io3yog0oux5.cloudfront.net/_5ac9e262697f54db3dcf4bf920cc5684/corescientific/db/923/9131/pdf/final-corz-hc-wainwright-conference-091223-1130.pdf",
+                "source_url": "https://d1io3yog0oux5.cloudfront.net/_56b216cf02369859bb1df90b24eaff80/corescientific/db/923/9131/pdf/final-corz-hc-wainwright-conference-091223-1130.pdf",
                 "wissen_url": "NULL"
             }
         ]

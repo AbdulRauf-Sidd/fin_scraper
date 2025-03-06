@@ -2,8 +2,44 @@
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Roboflow Helps Unlock Computer Vision for Every Kind of AI Builder",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "Roboflow Helps Unlock Computer Vision for Every Kind of AI Builder",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "other",
+                "source_url": "https://blogs.nvidia.com/blog/roboflow-computer-vision/",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "NVIDIA CEO Jensen Huang and Industry Visionaries to Unveil What\u2019s Next in AI at GTC 2025",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "NVIDIA CEO Jensen Huang and Industry Visionaries to Unveil What\u2019s Next in AI at GTC 2025",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "news",
+                "source_url": "/news/nvidia-ceo-jensen-huang-and-industry-visionaries-to-unveil-whats-next-in-ai-at-gtc-2025",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "NVDA",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "Animals Crossing: AI Helps Protect Wildlife Across the Globe",
         "event_date": "2025/03/03",
         "data": [
@@ -11,17 +47,17 @@
                 "file_name": "Animals Crossing: AI Helps Protect Wildlife Across the Globe",
                 "file_type": "html",
                 "date": "2025/03/03",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/ai-protects-wildlife/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "CUDA Accelerated: How CUDA Libraries Bolster Cybersecurity With AI",
         "event_date": "2025/02/28",
         "data": [
@@ -29,17 +65,17 @@
                 "file_name": "CUDA Accelerated: How CUDA Libraries Bolster Cybersecurity With AI",
                 "file_type": "html",
                 "date": "2025/02/28",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/cuda-accelerated-ai-cybersecurity/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
         "event_name": "NVIDIA Announces Upcoming Events for Financial Community",
         "event_date": "2025/02/27",
         "data": [
@@ -47,17 +83,17 @@
                 "file_name": "NVIDIA Announces Upcoming Events for Financial Community",
                 "file_type": "html",
                 "date": "2025/02/27",
-                "category": "blog",
+                "category": "news",
                 "source_url": "/news/nvidia-announces-upcoming-events-for-financial-community-6908970",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "Agentic AI Leaders to Showcase Latest Advancements at NVIDIA GTC",
         "event_date": "2025/02/27",
         "data": [
@@ -65,17 +101,17 @@
                 "file_name": "Agentic AI Leaders to Showcase Latest Advancements at NVIDIA GTC",
                 "file_type": "html",
                 "date": "2025/02/27",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/agentic-ai-gtc-2025/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "Telenor Builds Norway\u2019s First AI Factory, Offering Sustainable and Sovereign Data Processing",
         "event_date": "2025/02/27",
         "data": [
@@ -83,17 +119,17 @@
                 "file_name": "Telenor Builds Norway\u2019s First AI Factory, Offering Sustainable and Sovereign Data Processing",
                 "file_type": "html",
                 "date": "2025/02/27",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/telenor-ai-factory/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "March Into Gaming With GeForce NOW\u2019s 14 Must-Play Titles for Spring",
         "event_date": "2025/02/27",
         "data": [
@@ -101,9 +137,9 @@
                 "file_name": "March Into Gaming With GeForce NOW\u2019s 14 Must-Play Titles for Spring",
                 "file_type": "html",
                 "date": "2025/02/27",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2025/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -111,25 +147,25 @@
         "equity_ticker": "NVDA",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2025",
+        "event_type": "quarterly",
+        "event_name": "Q4 2025",
         "event_date": "2025/02/26",
         "data": [
             {
-                "file_name": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2025",
+                "file_name": "Q4 2025",
                 "file_type": "html",
                 "date": "2025/02/26",
-                "category": "blog",
+                "category": "news",
                 "source_url": "/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "Explore How RTX AI PCs and Workstations Supercharge AI Development at NVIDIA GTC 2025",
         "event_date": "2025/02/26",
         "data": [
@@ -137,27 +173,27 @@
                 "file_name": "Explore How RTX AI PCs and Workstations Supercharge AI Development at NVIDIA GTC 2025",
                 "file_type": "html",
                 "date": "2025/02/26",
-                "category": "blog",
+                "category": "other",
                 "source_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2025-sessions/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Earth-2 Features First Gen AI to Power Weather Super-Resolution for Continental US",
-        "event_date": "2025/02/24",
+        "frequency": "non-periodic",
+        "event_type": "press_release",
+        "event_name": "NVIDIA Announces Upcoming Events for Financial Community",
+        "event_date": "2025/02/27",
         "data": [
             {
-                "file_name": "NVIDIA Earth-2 Features First Gen AI to Power Weather Super-Resolution for Continental US",
+                "file_name": "NVIDIA Announces Upcoming Events for Financial Community",
                 "file_type": "html",
-                "date": "2025/02/24",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/earth-2-ai-high-resolution-forecasts/",
-                "wissen_url": "unknown"
+                "date": "2025/02/27",
+                "category": "news",
+                "source_url": "/news/nvidia-announces-upcoming-events-for-financial-community-6908970",
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -165,349 +201,25 @@
         "equity_ticker": "NVDA",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "It\u2019s a Sign: AI Platform for Teaching American Sign Language Aims to Bridge Communication Gaps",
-        "event_date": "2025/02/20",
+        "event_type": "quarterly",
+        "event_name": "Q4 2025",
+        "event_date": "2025/02/26",
         "data": [
             {
-                "file_name": "It\u2019s a Sign: AI Platform for Teaching American Sign Language Aims to Bridge Communication Gaps",
+                "file_name": "Q4 2025",
                 "file_type": "html",
-                "date": "2025/02/20",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-sign-language/",
-                "wissen_url": "unknown"
+                "date": "2025/02/26",
+                "category": "news",
+                "source_url": "/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025",
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Step Into the World of \u2018Avowed\u2019 on GeForce NOW",
-        "event_date": "2025/02/20",
-        "data": [
-            {
-                "file_name": "Step Into the World of \u2018Avowed\u2019 on GeForce NOW",
-                "file_type": "html",
-                "date": "2025/02/20",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-avowed/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Into the Omniverse: How OpenUSD and Synthetic Data Are Shaping the Future for Humanoid Robots",
-        "event_date": "2025/02/20",
-        "data": [
-            {
-                "file_name": "Into the Omniverse: How OpenUSD and Synthetic Data Are Shaping the Future for Humanoid Robots",
-                "file_type": "html",
-                "date": "2025/02/20",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/openusd-synthetic-data-for-humanoid-robots/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Calling All Creators: GeForce RTX 5070 Ti GPU Accelerates Generative AI and Content Creation Workflows in Video Editing, 3D and More",
-        "event_date": "2025/02/20",
-        "data": [
-            {
-                "file_name": "Calling All Creators: GeForce RTX 5070 Ti GPU Accelerates Generative AI and Content Creation Workflows in Video Editing, 3D and More",
-                "file_type": "html",
-                "date": "2025/02/20",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/studio-ai-geforce-rtx-5070-ti-gpu-dlss/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Temenos\u2019 Barb Morgan Shares How Chatbots and AI Agents Are Reshaping Customer Service in Banking",
-        "event_date": "2025/02/19",
-        "data": [
-            {
-                "file_name": "Temenos\u2019 Barb Morgan Shares How Chatbots and AI Agents Are Reshaping Customer Service in Banking",
-                "file_type": "html",
-                "date": "2025/02/19",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/temenos-ai-customer-service-banking/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Massive Foundation Model for Biomolecular Sciences Now Available via NVIDIA BioNeMo",
-        "event_date": "2025/02/19",
-        "data": [
-            {
-                "file_name": "Massive Foundation Model for Biomolecular Sciences Now Available via NVIDIA BioNeMo",
-                "file_type": "html",
-                "date": "2025/02/19",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Telcos Dial Up AI: NVIDIA Survey Unveils Industry\u2019s AI Trends",
-        "event_date": "2025/02/19",
-        "data": [
-            {
-                "file_name": "Telcos Dial Up AI: NVIDIA Survey Unveils Industry\u2019s AI Trends",
-                "file_type": "html",
-                "date": "2025/02/19",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-telcos-survey-2025/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Physicists Tap James Webb Space Telescope to Track New Asteroids and City-Killer Rock",
-        "event_date": "2025/02/13",
-        "data": [
-            {
-                "file_name": "Physicists Tap James Webb Space Telescope to Track New Asteroids and City-Killer Rock",
-                "file_type": "html",
-                "date": "2025/02/13",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/mit-james-webb-space-telescope-asteroids/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "GeForce NOW Welcomes Warner Bros. Games to the Cloud With \u2018Batman: Arkham\u2019 Series",
-        "event_date": "2025/02/13",
-        "data": [
-            {
-                "file_name": "GeForce NOW Welcomes Warner Bros. Games to the Cloud With \u2018Batman: Arkham\u2019 Series",
-                "file_type": "html",
-                "date": "2025/02/13",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-batman-arkham-series/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "How Scaling Laws Drive Smarter, More Powerful AI",
-        "event_date": "2025/02/12",
-        "data": [
-            {
-                "file_name": "How Scaling Laws Drive Smarter, More Powerful AI",
-                "file_type": "html",
-                "date": "2025/02/12",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-scaling-laws/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Safety First: Leading Partners Adopt NVIDIA Cybersecurity AI to Safeguard Critical Infrastructure",
-        "event_date": "2025/02/12",
-        "data": [
-            {
-                "file_name": "Safety First: Leading Partners Adopt NVIDIA Cybersecurity AI to Safeguard Critical Infrastructure",
-                "file_type": "html",
-                "date": "2025/02/12",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/cybersecurity-ai-critical-infrastructure/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA CEO Awarded for Advancing Precision Medicine With Accelerated Computing, AI",
-        "event_date": "2025/02/11",
-        "data": [
-            {
-                "file_name": "NVIDIA CEO Awarded for Advancing Precision Medicine With Accelerated Computing, AI",
-                "file_type": "html",
-                "date": "2025/02/11",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/precision-medicine-ai-award/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Technovation Empowers Girls in AI, Making AI Education More Inclusive and Engaging",
-        "event_date": "2025/02/11",
-        "data": [
-            {
-                "file_name": "Technovation Empowers Girls in AI, Making AI Education More Inclusive and Engaging",
-                "file_type": "html",
-                "date": "2025/02/11",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/technovation-inclusive-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "AI-Designed Proteins Take on Deadly Snake Venom",
-        "event_date": "2025/02/07",
-        "data": [
-            {
-                "file_name": "AI-Designed Proteins Take on Deadly Snake Venom",
-                "file_type": "html",
-                "date": "2025/02/07",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-designed-proteins-snake-venom/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Medieval Mayhem Arrives With \u2018Kingdom Come: Deliverance II\u2019 on GeForce NOW",
-        "event_date": "2025/02/06",
-        "data": [
-            {
-                "file_name": "Medieval Mayhem Arrives With \u2018Kingdom Come: Deliverance II\u2019 on GeForce NOW",
-                "file_type": "html",
-                "date": "2025/02/06",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-kingdom-come-deliverance-2/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "When the Earth Talks, AI Listens",
-        "event_date": "2025/02/06",
-        "data": [
-            {
-                "file_name": "When the Earth Talks, AI Listens",
-                "file_type": "html",
-                "date": "2025/02/06",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/earth-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Building More Builders: Gooey.AI Makes AI More Accessible Across Communities",
-        "event_date": "2025/02/05",
-        "data": [
-            {
-                "file_name": "Building More Builders: Gooey.AI Makes AI More Accessible Across Communities",
-                "file_type": "html",
-                "date": "2025/02/05",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/gooeyai-makes-ai-more-accessible/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "How GeForce RTX 50 Series GPUs Are Built to Supercharge Generative AI on PCs",
-        "event_date": "2025/02/05",
-        "data": [
-            {
-                "file_name": "How GeForce RTX 50 Series GPUs Are Built to Supercharge Generative AI on PCs",
-                "file_type": "html",
-                "date": "2025/02/05",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-blackwell-nim-blueprints-pc/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "AI Pays Off: Survey Reveals Financial Industry\u2019s Latest Technological Trends",
-        "event_date": "2025/02/05",
-        "data": [
-            {
-                "file_name": "AI Pays Off: Survey Reveals Financial Industry\u2019s Latest Technological Trends",
-                "file_type": "html",
-                "date": "2025/02/05",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-pays-off-survey-reveals-financial-industrys-latest-technological-trends/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "NVIDIA Responds to TRC Capital\u2019s \u2018Mini-Tender\u2019 Offer",
         "event_date": "2025/02/04",
         "data": [
@@ -515,9 +227,9 @@
                 "file_name": "NVIDIA Responds to TRC Capital\u2019s \u2018Mini-Tender\u2019 Offer",
                 "file_type": "html",
                 "date": "2025/02/04",
-                "category": "blog",
+                "category": "news",
                 "source_url": "/news/nvidia-responds-to-trc-capitals-mini-tender-offer-6908422",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
@@ -525,385 +237,25 @@
         "equity_ticker": "NVDA",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Blackwell Now Generally Available in the Cloud",
-        "event_date": "2025/02/04",
-        "data": [
-            {
-                "file_name": "NVIDIA Blackwell Now Generally Available in the Cloud",
-                "file_type": "html",
-                "date": "2025/02/04",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/blackwell-coreweave-gb200-nvl72-instances-cloud/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Accelerate DeepSeek Reasoning Models With NVIDIA GeForce RTX 50 Series AI PCs",
-        "event_date": "2025/01/31",
-        "data": [
-            {
-                "file_name": "Accelerate DeepSeek Reasoning Models With NVIDIA GeForce RTX 50 Series AI PCs",
-                "file_type": "html",
-                "date": "2025/01/31",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/deepseek-r1-rtx-ai-pc/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "DeepSeek-R1 Now Live With NVIDIA NIM",
-        "event_date": "2025/01/30",
-        "data": [
-            {
-                "file_name": "DeepSeek-R1 Now Live With NVIDIA NIM",
-                "file_type": "html",
-                "date": "2025/01/30",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/deepseek-r1-nim-microservice/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Lights, Camera, Action: New NVIDIA Broadcast AI Features Now Streaming With GeForce RTX 50 Series GPUs",
-        "event_date": "2025/01/30",
-        "data": [
-            {
-                "file_name": "Lights, Camera, Action: New NVIDIA Broadcast AI Features Now Streaming With GeForce RTX 50 Series GPUs",
-                "file_type": "html",
-                "date": "2025/01/30",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/studio-ai-geforce-rtx-50-series-broadcast/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "GeForce NOW Celebrates Five Years of Cloud Gaming With AAA Blockbusters",
-        "event_date": "2025/01/30",
-        "data": [
-            {
-                "file_name": "GeForce NOW Celebrates Five Years of Cloud Gaming With AAA Blockbusters",
-                "file_type": "html",
-                "date": "2025/01/30",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2025-games/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Sets Conference Call for Fourth-Quarter Financial Results",
+        "event_type": "quarterly",
+        "event_name": "Q1 2025",
         "event_date": "2025/01/29",
         "data": [
             {
-                "file_name": "NVIDIA Sets Conference Call for Fourth-Quarter Financial Results",
+                "file_name": "Q1 2025",
                 "file_type": "html",
                 "date": "2025/01/29",
-                "category": "blog",
+                "category": "news",
                 "source_url": "/news/nvidia-sets-conference-call-for-fourth-quarter-financial-results-6908112",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     },
     {
         "equity_ticker": "NVDA",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Leveling Up User Experiences With Agentic AI, From Bots to Autonomous Agents",
-        "event_date": "2025/01/29",
-        "data": [
-            {
-                "file_name": "Leveling Up User Experiences With Agentic AI, From Bots to Autonomous Agents",
-                "file_type": "html",
-                "date": "2025/01/29",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/agentic-ai-enhances-user-experience/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Amphitrite Rides AI Wave to Boost Maritime Shipping, Ocean Cleanup With Real-Time Weather Prediction and Simulation",
-        "event_date": "2025/01/27",
-        "data": [
-            {
-                "file_name": "Amphitrite Rides AI Wave to Boost Maritime Shipping, Ocean Cleanup With Real-Time Weather Prediction and Simulation",
-                "file_type": "html",
-                "date": "2025/01/27",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/amphitrite-ocean-simulation-prediction/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Fast, Low-Cost Inference Offers Key to Profitable AI",
-        "event_date": "2025/01/23",
-        "data": [
-            {
-                "file_name": "Fast, Low-Cost Inference Offers Key to Profitable AI",
-                "file_type": "html",
-                "date": "2025/01/23",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-inference-platform/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "\u2018Baldur\u2019s Gate 3\u2019 Mod Support Launches in the Cloud",
-        "event_date": "2025/01/23",
-        "data": [
-            {
-                "file_name": "\u2018Baldur\u2019s Gate 3\u2019 Mod Support Launches in the Cloud",
-                "file_type": "html",
-                "date": "2025/01/23",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-baldurs-gate-3-mods/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "How AI Helps Fight Fraud in Financial Services, Healthcare, Government and More",
-        "event_date": "2025/01/22",
-        "data": [
-            {
-                "file_name": "How AI Helps Fight Fraud in Financial Services, Healthcare, Government and More",
-                "file_type": "html",
-                "date": "2025/01/22",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/how-ai-helps-fight-fraud/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "The Future of Marketing: How AI Agents Can Enhance Customer Journeys in Retail",
-        "event_date": "2025/01/22",
-        "data": [
-            {
-                "file_name": "The Future of Marketing: How AI Agents Can Enhance Customer Journeys in Retail",
-                "file_type": "html",
-                "date": "2025/01/22",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/how-ai-transforms-customer-journeys-retail/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Into the Omniverse: OpenUSD Workflows Advance Physical AI for Robotics, Autonomous Vehicles",
-        "event_date": "2025/01/22",
-        "data": [
-            {
-                "file_name": "Into the Omniverse: OpenUSD Workflows Advance Physical AI for Robotics, Autonomous Vehicles",
-                "file_type": "html",
-                "date": "2025/01/22",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/openusd-advances-physical-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NoTraffic Reduces Road Delays, Carbon Emissions With NVIDIA AI and Accelerated Computing",
-        "event_date": "2025/01/21",
-        "data": [
-            {
-                "file_name": "NoTraffic Reduces Road Delays, Carbon Emissions With NVIDIA AI and Accelerated Computing",
-                "file_type": "html",
-                "date": "2025/01/21",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/notraffic-reduces-road-delays-carbon-emissions/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Releases NIM Microservices to Safeguard Applications for Agentic AI",
-        "event_date": "2025/01/16",
-        "data": [
-            {
-                "file_name": "NVIDIA Releases NIM Microservices to Safeguard Applications for Agentic AI",
-                "file_type": "html",
-                "date": "2025/01/16",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/nemo-guardrails-nim-microservices/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Fantastic Four-ce Awakens: Season One of \u2018Marvel Rivals\u2019 Joins GeForce NOW",
-        "event_date": "2025/01/16",
-        "data": [
-            {
-                "file_name": "Fantastic Four-ce Awakens: Season One of \u2018Marvel Rivals\u2019 Joins GeForce NOW",
-                "file_type": "html",
-                "date": "2025/01/16",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-marvel-rivals-s1/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "How AI Is Enhancing Surgical Safety and Education",
-        "event_date": "2025/01/15",
-        "data": [
-            {
-                "file_name": "How AI Is Enhancing Surgical Safety and Education",
-                "file_type": "html",
-                "date": "2025/01/15",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/how-ai-enhances-surgical-safety-education/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA GTC 2025: Quantum Day to Illuminate the Future of Quantum Computing",
-        "event_date": "2025/01/14",
-        "data": [
-            {
-                "file_name": "NVIDIA GTC 2025: Quantum Day to Illuminate the Future of Quantum Computing",
-                "file_type": "html",
-                "date": "2025/01/14",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/gtc-2025-quantum-day/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Healthcare Leaders, NVIDIA CEO Share AI Innovation Across the Industry",
-        "event_date": "2025/01/14",
-        "data": [
-            {
-                "file_name": "Healthcare Leaders, NVIDIA CEO Share AI Innovation Across the Industry",
-                "file_type": "html",
-                "date": "2025/01/14",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/jp-morgan-healthcare-2025/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "AI Maps Titan\u2019s Methane Clouds in Record Time",
-        "event_date": "2025/01/14",
-        "data": [
-            {
-                "file_name": "AI Maps Titan\u2019s Methane Clouds in Record Time",
-                "file_type": "html",
-                "date": "2025/01/14",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-maps-titan-clouds/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA and IQVIA Build Domain-Expert Agentic AI for Healthcare and Life Sciences",
-        "event_date": "2025/01/13",
-        "data": [
-            {
-                "file_name": "NVIDIA and IQVIA Build Domain-Expert Agentic AI for Healthcare and Life Sciences",
-                "file_type": "html",
-                "date": "2025/01/13",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/iqvia-agentic-ai-healthcare/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
+        "frequency": "non-periodic",
+        "event_type": "other",
         "event_name": "NVIDIA Partners With Industry Leaders to Advance Genomics, Drug Discovery and Healthcare",
         "event_date": "2025/01/13",
         "data": [
@@ -911,171 +263,9 @@
                 "file_name": "NVIDIA Partners With Industry Leaders to Advance Genomics, Drug Discovery and Healthcare",
                 "file_type": "html",
                 "date": "2025/01/13",
-                "category": "blog",
+                "category": "news",
                 "source_url": "/news/nvidia-partners-with-industry-leaders-to-advance-genomics-drug-discovery-and-healthcare",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule",
-        "event_date": "2025/01/13",
-        "data": [
-            {
-                "file_name": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule",
-                "file_type": "html",
-                "date": "2025/01/13",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-policy/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "AI Gets Real for Retailers: 9 Out of 10 Retailers Now Adopting or Piloting AI, Latest NVIDIA Survey Finds",
-        "event_date": "2025/01/10",
-        "data": [
-            {
-                "file_name": "AI Gets Real for Retailers: 9 Out of 10 Retailers Now Adopting or Piloting AI, Latest NVIDIA Survey Finds",
-                "file_type": "html",
-                "date": "2025/01/10",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-in-retail-cpg-survey-2025/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Announces Blueprint for AI Retail Shopping Assistants",
-        "event_date": "2025/01/10",
-        "data": [
-            {
-                "file_name": "NVIDIA Announces Blueprint for AI Retail Shopping Assistants",
-                "file_type": "html",
-                "date": "2025/01/10",
-                "category": "blog",
-                "source_url": "/news/nvidia-announces-blueprint-for-ai-retail-shopping-assistants",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Hyundai Motor Group Embraces NVIDIA AI and Omniverse for Next-Gen Mobility",
-        "event_date": "2025/01/09",
-        "data": [
-            {
-                "file_name": "Hyundai Motor Group Embraces NVIDIA AI and Omniverse for Next-Gen Mobility",
-                "file_type": "html",
-                "date": "2025/01/09",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/hyundai-motor-group-ces/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "GeForce NOW at CES: Bring PC RTX Gaming Everywhere With the Power of GeForce NOW",
-        "event_date": "2025/01/09",
-        "data": [
-            {
-                "file_name": "GeForce NOW at CES: Bring PC RTX Gaming Everywhere With the Power of GeForce NOW",
-                "file_type": "html",
-                "date": "2025/01/09",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2025-recap/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Unveiling a New Era of Local AI With NVIDIA NIM Microservices and AI Blueprints",
-        "event_date": "2025/01/08",
-        "data": [
-            {
-                "file_name": "Unveiling a New Era of Local AI With NVIDIA NIM Microservices and AI Blueprints",
-                "file_type": "html",
-                "date": "2025/01/08",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-ces-pc-nim-blueprints/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Why World Foundation Models Will Be Key to Advancing Physical AI",
-        "event_date": "2025/01/07",
-        "data": [
-            {
-                "file_name": "Why World Foundation Models Will Be Key to Advancing Physical AI",
-                "file_type": "html",
-                "date": "2025/01/07",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/world-foundation-models-advance-physical-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "Why Enterprises Need AI Query Engines to Fuel Agentic AI",
-        "event_date": "2025/01/07",
-        "data": [
-            {
-                "file_name": "Why Enterprises Need AI Query Engines to Fuel Agentic AI",
-                "file_type": "html",
-                "date": "2025/01/07",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/ai-query-engines-agentic-ai/",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "NVDA",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "blog",
-        "event_name": "NVIDIA Unveils \u2018Mega\u2019 Omniverse Blueprint for Building Industrial Robot Fleet Digital Twins",
-        "event_date": "2025/01/06",
-        "data": [
-            {
-                "file_name": "NVIDIA Unveils \u2018Mega\u2019 Omniverse Blueprint for Building Industrial Robot Fleet Digital Twins",
-                "file_type": "html",
-                "date": "2025/01/06",
-                "category": "blog",
-                "source_url": "https://blogs.nvidia.com/blog/mega-omniverse-blueprint/",
-                "wissen_url": "unknown"
+                "wissen_url": "NULL"
             }
         ]
     }

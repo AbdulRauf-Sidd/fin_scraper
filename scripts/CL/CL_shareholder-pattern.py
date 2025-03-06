@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 
 async def scrape_documents(url, filename):
     base_url = "https://colgate.com.pk"
@@ -40,13 +40,13 @@ async def scrape_documents(url, filename):
                 freq = classify_frequency(text, href)
                 if freq == "periodic":
                     event_name = format_quarter_string(date, text)
-                    event_type = classify_periodic_type(event_name, href)
+                    event_type = classify_periodic_type(text, href)
 
                 else:
-                    event_type = categorize_event(event_name)
+                    event_type = categorize_event(text)
                     event_name = text
 
-                category = classify_document(event_name, href) 
+                category = classify_document(text, href) 
                 file_type = get_file_type(href)
 
                 file_name = await extract_file_name(href)

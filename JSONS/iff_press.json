@@ -1626,16 +1626,7 @@
         "event_type": "press release",
         "event_name": "IFF Reports Fourth Quarter and Full Year 2021 Results",
         "event_date": "2022/02/09",
-        "data": [
-            {
-                "file_name": "IFF Reports Fourth Quarter and Full Year 2021 Results",
-                "file_type": "html",
-                "date": "2022/02/09",
-                "category": "press release",
-                "source_url": "https://ir.iff.com/news-releases/news-release-details/iff-reports-fourth-quarter-and-full-year-2021-results",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "IFF",

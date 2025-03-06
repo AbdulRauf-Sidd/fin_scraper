@@ -11,7 +11,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 # Configurations
 SEC_FILINGS_URL = "https://nvidianews.nvidia.com/news"
 EQUITY_TICKER = "NVDA"  # Convert to uppercase for standardization
@@ -82,14 +82,24 @@ async def extract_files_from_page(page):
                 file_link_element = await article.query_selector(".index-item-text-link a")
                 file_url = await file_link_element.get_attribute("href") if file_link_element else event_url
 
+                freq = classify_frequency(event_name, file_url)
+                if freq == "periodic":
+                    event_type = classify_periodic_type(event_name, file_url)
+                    event_name = format_quarter_string(event_date_parsed.strftime("%Y/%m/%d"), event_name)
+                else:
+                    event_type = categorize_event(event_name)
+                
+                category = classify_document(event_name, file_url) 
+                file_type = get_file_type(file_url)
+
                 # Collect blog file
                 data_files = [{
                     "file_name": event_name.strip(),
-                    "file_type": "html",
+                    "file_type": file_type,
                     "date": event_date_parsed.strftime("%Y/%m/%d"),
-                    "category": "blog",
+                    "category": category,
                     "source_url": file_url,
-                    "wissen_url": "unknown"
+                    "wissen_url": "NULL"
                 }]
 
                 # Append structured event data
@@ -97,7 +107,7 @@ async def extract_files_from_page(page):
                     "equity_ticker": EQUITY_TICKER,
                     "source_type": "company_information",
                     "frequency": classify_frequency(event_name, event_url),
-                    "event_type": "blog",
+                    "event_type": event_type,
                     "event_name": event_name.strip(),
                     "event_date": event_date_parsed.strftime("%Y/%m/%d"),
                     "data": data_files

@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 
 # Argument Parsing
 # parser = argparse.ArgumentParser(description="SEC Filings Scraper")
@@ -167,26 +167,18 @@ async def extract_files_from_page(page):
                     file_type = "pdf" if file_url.endswith(".pdf") else "webcast"
 
                     # Determine category type (report, presentation, webcast, etc.)
-                    category = "report"
-                    if "presentation" in file_name.lower():
-                        category = "presentation"
-                    elif "webcast" in file_name.lower() or "video" in file_url:
-                        category = "webcast"
-                    elif "summary" in file_name.lower():
-                        category = "financial_summary"
+                    
 
                     # Classify event type based on category name
-                    freq = classify_frequency(event_name, file_link)
+                    freq = classify_frequency(event_name, file_url)
                     if freq == "periodic":
-                        event_type = classify_euro_periodic_type(event_name, file_link)
-                        event_name = extract_quarter_from_name('', event_name)
+                        event_type = classify_euro_periodic_type(event_name, file_url)
+                        event_name = extract_euro_event_name('', event_name)
                     else:
                         event_type = categorize_event(event_name)
 
-
-                    category = classify_document(event_name, file_link) 
-                    file_type = get_file_type(file_link)
-
+                    category = classify_document(event_name, file_url) 
+                    file_type = get_file_type(file_url)
                     # Append structured event data
                     file_links_collected.append({
                         "equity_ticker": "GIVN",

@@ -492,16 +492,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -510,16 +501,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -528,16 +510,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -762,16 +735,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -780,16 +744,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -798,16 +753,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1032,16 +978,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1050,16 +987,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1068,16 +996,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1302,16 +1221,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1320,16 +1230,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1338,16 +1239,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1572,16 +1464,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1590,16 +1473,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1608,16 +1482,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1842,16 +1707,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1860,16 +1716,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -1878,16 +1725,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2112,16 +1950,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2130,16 +1959,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2148,16 +1968,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2382,16 +2193,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2400,16 +2202,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2418,16 +2211,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2652,16 +2436,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2670,16 +2445,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2688,16 +2454,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2922,16 +2679,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2940,16 +2688,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -2958,16 +2697,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3192,16 +2922,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3210,16 +2931,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3228,16 +2940,7 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3462,16 +3165,7 @@
         "event_type": "press release",
         "event_name": "Sign up for press release alerts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/sign-up-for-alerts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3480,16 +3174,7 @@
         "event_type": "press release",
         "event_name": "Regulatory news",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/investor-relations/understanding-unilever/news-and-announcements/plc-regulatory-announcements/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "UNKNOWN",
@@ -3498,15 +3183,6 @@
         "event_type": "press release",
         "event_name": "Media contacts",
         "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "",
-                "file_type": "html",
-                "date": "UNKNOWN DATE",
-                "category": "financial report",
-                "source_url": "https://www.unilever.com/news/press-and-media/media-contacts/",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     }
 ]

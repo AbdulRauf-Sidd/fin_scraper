@@ -132,16 +132,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2022/09/20",
-        "data": [
-            {
-                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
-                "file_type": "pdf",
-                "date": "2022/09/20",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",
@@ -150,16 +141,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2022/09/13",
-        "data": [
-            {
-                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
-                "file_type": "pdf",
-                "date": "2022/09/13",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",
@@ -168,16 +150,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2022/09/07",
-        "data": [
-            {
-                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
-                "file_type": "pdf",
-                "date": "2022/09/07",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",
@@ -186,16 +159,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2022/09/06",
-        "data": [
-            {
-                "file_name": "220910-Symrise-IR-Presentation-September-2022.pdf",
-                "file_type": "pdf",
-                "date": "2022/09/06",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/220910-Symrise-IR-Presentation-September-2022.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",
@@ -420,16 +384,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2019/09/25",
-        "data": [
-            {
-                "file_name": "190905_Symrise_IR_presentation_after_H1.pdf",
-                "file_type": "pdf",
-                "date": "2019/09/25",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190905_Symrise_IR_presentation_after_H1.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",
@@ -438,16 +393,7 @@
         "event_type": "quarterly",
         "event_name": "Financial",
         "event_date": "2019/09/24",
-        "data": [
-            {
-                "file_name": "190905_Symrise_IR_presentation_after_H1.pdf",
-                "file_type": "pdf",
-                "date": "2019/09/24",
-                "category": "Financial",
-                "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/190905_Symrise_IR_presentation_after_H1.pdf",
-                "wissen_url": "unknown"
-            }
-        ]
+        "data": []
     },
     {
         "equity_ticker": "SYMRISE",

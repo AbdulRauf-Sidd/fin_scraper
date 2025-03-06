@@ -4,6 +4,24 @@
         "source_type": "company_information",
         "frequency": "non-periodic",
         "event_type": "press release",
+        "event_name": "Core Scientific Announces February 2025 Production and Operations Updates",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "core-scientific-announces-february-2025-production-and-operations-updates",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "news",
+                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/112/core-scientific-announces-february-2025-production-and-operations-updates",
+                "wissen_url": "NULL"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "CORZ",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
         "event_name": "Core Scientific Announces Planned CFO Transition",
         "event_date": "2025/03/03",
         "data": [
@@ -1417,24 +1435,6 @@
                 "date": "2023/04/28",
                 "category": "news",
                 "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/65/core-scientific-signs-hosting-contracts-with-three-public-companies-during-reorganization-maintains-industry-position-as-one-of-north-americas-largest-bitcoin-miners",
-                "wissen_url": "NULL"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "CORZ",
-        "source_type": "company_information",
-        "frequency": "non-periodic",
-        "event_type": "press release",
-        "event_name": "Core Scientific Announces March 2023 Production and Operations Updates",
-        "event_date": "2023/04/05",
-        "data": [
-            {
-                "file_name": "core-scientific-announces-march-2023-production-and-operations-updates",
-                "file_type": "html",
-                "date": "2023/04/05",
-                "category": "news",
-                "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/66/core-scientific-announces-march-2023-production-and-operations-updates",
                 "wissen_url": "NULL"
             }
         ]

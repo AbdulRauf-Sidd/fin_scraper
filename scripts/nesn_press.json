@@ -1,0 +1,362 @@
+[
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Solid 2024 performance; executing on plan to accelerate growth",
+    "event_date": "2025/02/13",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/full-year-results-2024",
+        "file_type": "html",
+        "date": "2025/02/13",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Capital Markets Day: Nestlé presents plan to fuel and accelerate growth",
+    "event_date": "2024/11/19",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/capital-markets-day-2024",
+        "file_type": "html",
+        "date": "2024/11/19",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/capital-markets-day-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/capital-markets-day-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé announces changes to its organization and its Executive Board",
+    "event_date": "2024/10/17",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/executive-board-changes-october-2024",
+        "file_type": "html",
+        "date": "2024/10/17",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-october-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-october-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports nine-month sales for 2024",
+    "event_date": "2024/10/17",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/nine-month-sales-2024",
+        "file_type": "html",
+        "date": "2024/10/17",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nine-month-sales-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nine-month-sales-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé appoints Laurent Freixe as CEO of Nestlé S.A., Mark Schneider leaves the company",
+    "event_date": "2024/08/22",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/laurent-freixe-appointed-ceo",
+        "file_type": "html",
+        "date": "2024/08/22",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/laurent-freixe-appointed-ceo",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/laurent-freixe-appointed-ceo"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports half-year results for 2024",
+    "event_date": "2024/07/25",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/half-year-results-2024",
+        "file_type": "html",
+        "date": "2024/07/25",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/half-year-results-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/half-year-results-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports three-month sales for 2024",
+    "event_date": "2024/04/25",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/three-month-sales-2024",
+        "file_type": "html",
+        "date": "2024/04/25",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/three-month-sales-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/three-month-sales-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé announces retirement of Marco Settembri, appointment of Guillaume Le Cunff as CEO Zone Europe",
+    "event_date": "2024/04/18",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/executive-board-changes-april-2024",
+        "file_type": "html",
+        "date": "2024/04/18",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-april-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-april-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé releases the results from its Annual General Meeting",
+    "event_date": "2024/04/18",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/annual-general-meeting-2024",
+        "file_type": "html",
+        "date": "2024/04/18",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/annual-general-meeting-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/annual-general-meeting-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé proposes Geraldine Matchett as new independent member of its Board of Directors",
+    "event_date": "2024/02/22",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/board-directors-changes-2024",
+        "file_type": "html",
+        "date": "2024/02/22",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/board-directors-changes-2024",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/board-directors-changes-2024"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports full-year results for 2023",
+    "event_date": "2024/02/22",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/full-year-results-2023",
+        "file_type": "html",
+        "date": "2024/02/22",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2023",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/full-year-results-2023"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "First KitKat using cocoa from the Nestlé Income Accelerator launches in Europe",
+    "event_date": "2024/01/19",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/kitkat-cocoa-farming-traceability-income-accelerator",
+        "file_type": "html",
+        "date": "2024/01/19",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/kitkat-cocoa-farming-traceability-income-accelerator",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/kitkat-cocoa-farming-traceability-income-accelerator"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports nine-month sales for 2023",
+    "event_date": "2023/10/19",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/nine-month-sales-2023",
+        "file_type": "html",
+        "date": "2023/10/19",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nine-month-sales-2023",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nine-month-sales-2023"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Changes in the Executive Board of Nestlé S.A.",
+    "event_date": "2023/09/22",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/executive-board-changes-september-2023",
+        "file_type": "html",
+        "date": "2023/09/22",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-september-2023",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-changes-september-2023"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé to acquire a majority stake in premium chocolate company in Brazil",
+    "event_date": "2023/09/07",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/majority-stake-acquired-chocolate-company-brazil",
+        "file_type": "html",
+        "date": "2023/09/07",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/majority-stake-acquired-chocolate-company-brazil",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/majority-stake-acquired-chocolate-company-brazil"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé divests its Palforzia business",
+    "event_date": "2023/09/04",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/nestle-divests-palforzia-business",
+        "file_type": "html",
+        "date": "2023/09/04",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nestle-divests-palforzia-business",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/nestle-divests-palforzia-business"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé reports half-year results for 2023",
+    "event_date": "2023/07/27",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/half-year-results-2023",
+        "file_type": "html",
+        "date": "2023/07/27",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/half-year-results-2023",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/half-year-results-2023"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Restoring forests and empowering communities in Côte d'Ivoire's cocoa industry",
+    "event_date": "2023/06/27",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/cavally-forest-restoration-cocoa-communities-empowerment",
+        "file_type": "html",
+        "date": "2023/06/27",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/cavally-forest-restoration-cocoa-communities-empowerment",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/cavally-forest-restoration-cocoa-communities-empowerment"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé announces François-Xavier Roger stepping down, Anna Manz named as CFO",
+    "event_date": "2023/05/30",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/anna-manz-named-cfo",
+        "file_type": "html",
+        "date": "2023/05/30",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/anna-manz-named-cfo",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/anna-manz-named-cfo"
+      }
+    ]
+  },
+  {
+    "equity_ticker": "NESN",
+    "source_type": "company_information",
+    "frequency": "non-periodic",
+    "event_type": "press release",
+    "event_name": "Nestlé announces retirement of Magdi Batato, Stephanie Pullings Hart appointed as next Head of Operations",
+    "event_date": "2023/05/23",
+    "data": [
+      {
+        "file_name": "/media/pressreleases/allpressreleases/executive-board-change-may-2023",
+        "file_type": "html",
+        "date": "2023/05/23",
+        "category": "report",
+        "source_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-change-may-2023",
+        "wissen_url": "https://www.nestle.com/media/pressreleases/allpressreleases/executive-board-change-may-2023"
+      }
+    ]
+  }
+]

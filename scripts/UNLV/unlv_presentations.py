@@ -9,7 +9,14 @@ import sys
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
+# Argument Parsing
+# parser = argparse.ArgumentParser(description="SEC Filings Scraper")
+# parser.add_argument("url", type=str, help="SEC Filings page URL")
+# parser.add_argument("ticker", type=str, help="Equity ticker symbol")
+# parser.add_argument("--output", type=str, default="sec_filings.json", help="Output JSON file name")
+
+# args = parser.parse_args()
 
 # Configurations
 SEC_FILINGS_URL = "https://www.unilever.com/investors/results-presentations-webcasts/"

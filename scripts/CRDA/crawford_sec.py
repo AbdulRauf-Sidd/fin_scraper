@@ -8,7 +8,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from scripts.UTILS import utils
+from utils import *
 
 # MIME Type to File Extension Mapping
 MIME_TYPE_MAPPING = {

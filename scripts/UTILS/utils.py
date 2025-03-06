@@ -7,19 +7,23 @@ def classify_frequency(event_name, event_url):
     print("event name: ", event_name)
     print("URL: ", event_url)
     # Define a regex pattern that matches the keywords indicating a periodic event
-    periodic_keywords = r"\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear)\b"
+    periodic_keywords = r"\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|hy|fy|3m|9m|half[-\s]?year|HY|6[-\s]?month|six[-\s]?month)\b"
     
-    # matches = re.findall(periodic_keywords, event_name, re.IGNORECASE)
-    # print(f"Matched keywords in '{event_name}': {matches}")
-    # matches = re.findall(periodic_keywords, event_url, re.IGNORECASE)
-    # print(f"Matched keywords in '{event_url}': {matches}")
+    
+    
+    
+    
+    matches = re.findall(periodic_keywords, event_name, re.IGNORECASE)
+    print(f"Matched keywords in '{event_name}': {matches}")
+    matches = re.findall(periodic_keywords, event_url, re.IGNORECASE)
+    print(f"Matched keywords in '{event_url}': {matches}")
 
     # Check if the keywords are in the event name or file name
     if re.search(periodic_keywords, event_name, re.IGNORECASE) or re.search(periodic_keywords, event_url, re.IGNORECASE):
-        # print("frequency:periodic")
+        print("frequency:periodic")
         return "periodic"
     else:
-        # print("frequency: non-periodic")
+        print("frequency: non-periodic")
         return "non-periodic"   
 
 def classify_periodic_type(event_name, event_url):
@@ -85,10 +89,15 @@ def format_quarter_string(event_date, event_name):
     except (ValueError, TypeError, Exception):
         # If date parsing fails, attempt to extract quarter from the event name
         # Attempt to parse the event date considering common date formats including those with month abbreviations
-        parsed_date = parse(event_date, fuzzy=True)
-        # Determine the quarter from the parsed date
-        quarter = (parsed_date.month - 1) // 3 + 1
-        quarter_year_str = f"Q{quarter} {parsed_date.year}"
+        try:
+            if event_date is None:
+                return event_name
+            parsed_date = parse(event_date, fuzzy=True)
+            # Determine the quarter from the parsed date
+            quarter = (parsed_date.month - 1) // 3 + 1
+            quarter_year_str = f"Q{quarter} {parsed_date.year}"
+        except:
+            return event_name
     return quarter_year_str
 
 def extract_quarter_from_name(event_name):
@@ -96,7 +105,7 @@ def extract_quarter_from_name(event_name):
     quarter_patterns = [
          r'Q([1-4]).*(\d{4})',  # Loosely matches 'Q1 2020' and similar, with any amount of whitespace between
         r'(\d{4}).*Q([1-4])',  # Matches '2020 Q1' and similar, with any amount of whitespace between
-        r'(first|second|third|fourth)\s+quarter.*?(\d{4})',  # Matches 'first quarter ... 2020'
+        r'(first|second|third|fourth|1st|2nd|3rd|4th)\s+quarter.*?(\d{4})',  # Matches 'first quarter ... 2020'
         r'(\d{4}).*?(first|second|third|fourth)\s+quarter'  # Matches '2020 ... first quarter'
         r'(\bJan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?) \d{4}\b'  # Matches month names and abbreviations followed by a year
     ]
