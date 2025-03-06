@@ -4,6 +4,24 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "press release",
+        "event_name": "IFF Declares Dividend for First Quarter 2025",
+        "event_date": "2025/03/05",
+        "data": [
+            {
+                "file_name": "IFF Declares Dividend for First Quarter 2025",
+                "file_type": "html",
+                "date": "2025/03/05",
+                "category": "press release",
+                "source_url": "https://ir.iff.com/news-releases/news-release-details/iff-declares-dividend-first-quarter-2025",
+                "wissen_url": "unknown"
+            }
+        ]
+    },
+    {
+        "equity_ticker": "IFF",
+        "source_type": "company_information",
+        "frequency": "non-periodic",
+        "event_type": "press release",
         "event_name": "IFF Announces Expansion of Cedar Rapids, Iowa Ingredients Facility",
         "event_date": "2025/02/25",
         "data": [
@@ -20,7 +38,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Executive Leadership Team Aligned With New Operating Model",
         "event_date": "2025/02/20",
@@ -74,7 +92,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Board of Directors Changes",
         "event_date": "2024/12/19",
@@ -92,7 +110,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names Michael DeVeau Chief Financial Officer",
         "event_date": "2024/12/10",
@@ -164,7 +182,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Fireside Chat at Barclays Global Consumer Staples Conference on Sept. 5",
         "event_date": "2024/08/15",
@@ -200,7 +218,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF To Open New State-of-the-Art Center for Innovation in Shanghai",
         "event_date": "2024/07/30",
@@ -254,7 +272,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Margarita Pal\u00e1u-Hern\u00e1ndez to Board of Directors",
         "event_date": "2024/05/30",
@@ -272,7 +290,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Details Sustainability Leadership in 2023 Do More Good Report",
         "event_date": "2024/05/29",
@@ -290,7 +308,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Chief Financial and Business Transformation Officer Glenn Richter to retire year end 2024",
         "event_date": "2024/05/06",
@@ -362,7 +380,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completes Divestiture of Cosmetics Ingredients Business",
         "event_date": "2024/04/03",
@@ -380,7 +398,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names Ana Paula Mendon\u00e7a President, Scent",
         "event_date": "2024/03/21",
@@ -398,7 +416,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Sale of its Pharma Solutions Business to Roquette",
         "event_date": "2024/03/19",
@@ -416,7 +434,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Grant of Employment Inducement Awards",
         "event_date": "2024/03/01",
@@ -434,7 +452,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Named Top Company in the U.S. for Gender Equality in 2024",
         "event_date": "2024/02/29",
@@ -488,7 +506,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Partners with Environmental NGO Bellona to Restore Norwegian Seaweed Forests",
         "event_date": "2024/01/19",
@@ -542,7 +560,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Continuation of Cooperation Agreement with Icahn Capital",
         "event_date": "2023/11/06",
@@ -578,7 +596,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Clariant Has Agreed to Purchase IFF\u2019s Cosmetic Ingredients Business Unit",
         "event_date": "2023/10/30",
@@ -614,7 +632,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Fireside Chat at Barclays Global Consumer Staples Conference on Sept. 7",
         "event_date": "2023/08/21",
@@ -650,7 +668,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Dr. Casper Vroemen to Succeed Dr. Gregory Yep as Chief R&D and Sustainability Officer",
         "event_date": "2023/08/03",
@@ -668,7 +686,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completes Divestiture of Flavor Specialty Ingredients Business",
         "event_date": "2023/08/02",
@@ -704,7 +722,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names New President of Nourish and Introduces Leadership Structure Aligned to New Operating Model",
         "event_date": "2023/06/07",
@@ -722,7 +740,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completed Divestiture of Savory Solutions Business",
         "event_date": "2023/05/31",
@@ -740,7 +758,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Highlights Progress Against ESG+ Strategy in New Do More Good Report",
         "event_date": "2023/05/22",
@@ -812,7 +830,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Mourns the Passing of Board Chair Dale F. Morrison",
         "event_date": "2023/04/12",
@@ -830,7 +848,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Recommends Stockholders Reject Mini-Tender Offer by TRC Capital Investment Corporation",
         "event_date": "2023/03/21",
@@ -866,7 +884,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Further Evolution of its Board of Directors",
         "event_date": "2023/02/27",
@@ -884,7 +902,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces the Sale of Flavor Specialty Ingredients Business to Exponent",
         "event_date": "2023/02/16",
@@ -902,7 +920,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at 2023 CAGNY Conference",
         "event_date": "2023/02/13",
@@ -938,7 +956,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Provides Update on Evolution of Board of Directors",
         "event_date": "2023/02/02",
@@ -956,7 +974,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Gary Hu to Board of Directors",
         "event_date": "2023/02/02",
@@ -974,7 +992,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Dawn Willoughby to Board of Directors",
         "event_date": "2023/01/24",
@@ -1010,7 +1028,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Recognized for Achieving Sustainability Leadership Throughout Transformational Year",
         "event_date": "2023/01/11",
@@ -1028,7 +1046,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF\u2019s Philippe Horvath Inducted into The National Inventors Hall of Fame",
         "event_date": "2023/01/09",
@@ -1046,7 +1064,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces the Sale of Its Savory Solutions Group to PAI Partners",
         "event_date": "2022/12/20",
@@ -1064,7 +1082,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names Sabrya Meflah President, Fine Fragrance",
         "event_date": "2022/12/19",
@@ -1100,7 +1118,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Recognized by EDGE for Commitment to Workplace Diversity",
         "event_date": "2022/12/12",
@@ -1118,7 +1136,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Long-Term Strategic & Financial Vision",
         "event_date": "2022/12/07",
@@ -1136,7 +1154,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Nourish Division Leadership Transition",
         "event_date": "2022/12/07",
@@ -1154,7 +1172,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names Dennis Maroney Master Perfumer",
         "event_date": "2022/11/30",
@@ -1172,7 +1190,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast 2022 Investor Day Presentations on December 7",
         "event_date": "2022/11/28",
@@ -1208,7 +1226,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF and Florida Polytechnic University Celebrate Beginning of Construction on State-of-the-Art Global Citrus Innovation Center",
         "event_date": "2022/10/25",
@@ -1244,7 +1262,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Ralf Finzel Appointed IFF\u2019s Executive Vice President, Global Operations Officer",
         "event_date": "2022/10/18",
@@ -1262,7 +1280,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Invests $30 Million to Expand Regional Footprint in Singapore",
         "event_date": "2022/10/12",
@@ -1280,7 +1298,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Fireside Chat at Barclays Global Consumer Staples Conference on Sept. 8",
         "event_date": "2022/09/06",
@@ -1298,7 +1316,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Unveils Nourish Innovation Lab in Union Beach, New Jersey",
         "event_date": "2022/08/19",
@@ -1334,7 +1352,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Deborah Borg Appointed IFF\u2019s EVP, Chief Human Resources and Diversity & Inclusion Officer",
         "event_date": "2022/07/26",
@@ -1370,7 +1388,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completed Divestiture of Microbial Control Business",
         "event_date": "2022/07/01",
@@ -1388,7 +1406,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Showcases First Year of ESG Performance as a Combined Company in Report, Webcast",
         "event_date": "2022/06/02",
@@ -1406,7 +1424,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Fireside Chat at Bernstein Strategic Decisions Conference on June 1",
         "event_date": "2022/05/24",
@@ -1478,7 +1496,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completes Acquisition of Health Wright Products",
         "event_date": "2022/04/04",
@@ -1496,7 +1514,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Global Price Increases Across All Divisions",
         "event_date": "2022/03/17",
@@ -1514,7 +1532,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Chief Human Resources Officer Transition",
         "event_date": "2022/03/15",
@@ -1550,7 +1568,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Acquire Health Wright Products",
         "event_date": "2022/02/16",
@@ -1568,7 +1586,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at 2022 CAGNY Conference",
         "event_date": "2022/02/15",
@@ -1588,15 +1606,15 @@
         "source_type": "company_information",
         "frequency": "periodic",
         "event_type": "press release",
-        "event_name": "IFF Appoints Barry A. Bruno to Board of Directors",
+        "event_name": "IFF Reports Fourth Quarter and Full Year 2021 Results",
         "event_date": "2022/02/09",
         "data": [
             {
-                "file_name": "IFF Appoints Barry A. Bruno to Board of Directors",
+                "file_name": "IFF Reports Fourth Quarter and Full Year 2021 Results",
                 "file_type": "html",
                 "date": "2022/02/09",
                 "category": "press release",
-                "source_url": "https://ir.iff.com/news-releases/news-release-details/iff-appoints-barry-bruno-board-directors",
+                "source_url": "https://ir.iff.com/news-releases/news-release-details/iff-reports-fourth-quarter-and-full-year-2021-results",
                 "wissen_url": "unknown"
             }
         ]
@@ -1640,7 +1658,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Frank Clyburn as Chief Executive Officer and Board Director; Separates Chairman and Chief Executive Officer Roles",
         "event_date": "2022/01/20",
@@ -1658,7 +1676,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF and SleepScore Labs to Unveil Validated Scent Solutions to Support Improved Sleep at CES 2022",
         "event_date": "2022/01/03",
@@ -1676,7 +1694,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Launches ESG 2030 \u2018Do More Good Plan\u2019",
         "event_date": "2021/12/13",
@@ -1712,7 +1730,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Invests $87 Million in Indonesia to Support Growth in Greater Asia",
         "event_date": "2021/11/17",
@@ -1766,7 +1784,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Chairman and Chief Executive Officer Andreas Fibig to Retire",
         "event_date": "2021/09/30",
@@ -1784,7 +1802,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Glenn Richter as Executive Vice President and Chief Financial Officer",
         "event_date": "2021/09/16",
@@ -1802,7 +1820,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Virtual Fireside Chat at Barclays Global Consumer Staples Conference on September 9",
         "event_date": "2021/09/01",
@@ -1820,7 +1838,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Sale of Microbial Control Business",
         "event_date": "2021/08/23",
@@ -1856,7 +1874,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Nicolas Mirzayantz President of IFF\u2019s Nourish Division",
         "event_date": "2021/07/28",
@@ -1892,7 +1910,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Scent Division Launches Science of Wellness Program",
         "event_date": "2021/05/20",
@@ -1910,7 +1928,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Achieves Key 2020 Sustainability Goals",
         "event_date": "2021/05/13",
@@ -1982,7 +2000,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Presents \u201cLearning Labs\u201d Video Series to Demonstrate Potential of New Company",
         "event_date": "2021/04/15",
@@ -2000,7 +2018,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Agreement With Sachem Head",
         "event_date": "2021/03/08",
@@ -2036,7 +2054,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Names Dirk Lauven Master Perfumer",
         "event_date": "2021/02/22",
@@ -2054,7 +2072,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at 2021 CAGNY Conference",
         "event_date": "2021/02/11",
@@ -2090,7 +2108,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Unveils New Brand Identity to Accelerate Strategic Transformation",
         "event_date": "2021/02/01",
@@ -2108,7 +2126,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Complete Merger With DuPont\u2019s Nutrition & Biosciences Business",
         "event_date": "2021/02/01",
@@ -2144,7 +2162,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Previews Financial Profile, Governance and Strategic Transformation Initiatives Effective at Completion of Combination with DuPont N&B",
         "event_date": "2021/01/11",
@@ -2162,7 +2180,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Achieves EcoVadis Platinum Rating for Corporate Social Responsibility Leadership",
         "event_date": "2020/12/21",
@@ -2180,7 +2198,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Champions Gender Equality in the Workplace, Becomes First Company to Achieve Global EDGE Move Certification",
         "event_date": "2020/12/10",
@@ -2216,7 +2234,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Receives All Required Antitrust Clearances for Intended Combination with DuPont\u2019s Nutrition & Biosciences Business",
         "event_date": "2020/12/07",
@@ -2234,7 +2252,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Voluntary Delisting From Euronext Paris",
         "event_date": "2020/11/19",
@@ -2252,7 +2270,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Named to the Dow Jones Sustainability Index World and North America",
         "event_date": "2020/11/19",
@@ -2306,7 +2324,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Opens New Dubai Taste Creative Center",
         "event_date": "2020/10/22",
@@ -2324,7 +2342,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Voluntary Delisting from the Tel Aviv Stock Exchange in January 2021",
         "event_date": "2020/10/20",
@@ -2360,7 +2378,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF & DuPont Announce Pricing of $6.25 Billion Senior Notes Offering by Nutrition & Biosciences, Inc.",
         "event_date": "2020/09/09",
@@ -2378,7 +2396,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Shareholders Approve Merger with DuPont\u2019s Nutrition & Biosciences Business",
         "event_date": "2020/08/27",
@@ -2396,7 +2414,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Appoints Kathy Fortmann Divisional CEO, Taste",
         "event_date": "2020/08/21",
@@ -2414,7 +2432,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Hold Virtual Special Meeting of Shareholders on August 27",
         "event_date": "2020/08/13",
@@ -2450,7 +2468,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Date for Special Meeting of Shareholders",
         "event_date": "2020/07/27",
@@ -2486,7 +2504,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Hold Sustainability Webcast on June 30, 2020",
         "event_date": "2020/06/25",
@@ -2504,7 +2522,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Embraces \u201cDo More Good\u201d in 2019 Sustainability Report",
         "event_date": "2020/06/25",
@@ -2522,7 +2540,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Provides Business Update",
         "event_date": "2020/06/08",
@@ -2540,7 +2558,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast Fireside Chat at Stifel Virtual Cross Sector Insight Conference June 8",
         "event_date": "2020/06/02",
@@ -2558,7 +2576,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Smell Test Being Developed at Boston Hospitals Could Hold the Key to Early Covid-19 Detection",
         "event_date": "2020/05/29",
@@ -2594,7 +2612,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF and DuPont Nutrition & Biosciences Announce Purpose and Vision, Operating Model & Executive Committee for Future Combined Company",
         "event_date": "2020/05/11",
@@ -2612,7 +2630,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Shoji Kumasaka Named IFF Master Perfumer, Celebrated for Contributions to Perfumery",
         "event_date": "2020/05/07",
@@ -2684,7 +2702,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Evolva enters a new agreement with International Flavors & Fragrances",
         "event_date": "2020/03/25",
@@ -2738,7 +2756,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Named to Barron\u2019s 100 Most Sustainable Companies List for Third Consecutive Year",
         "event_date": "2020/02/10",
@@ -2756,7 +2774,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at CAGNY Conference February 18",
         "event_date": "2020/02/05",
@@ -2774,7 +2792,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Franc Schiet Named IFF Master Perfumer, Honored for Contributions to Perfumery",
         "event_date": "2020/01/29",
@@ -2810,7 +2828,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Drives Sustainability Leadership with New Milestones",
         "event_date": "2020/01/20",
@@ -2828,7 +2846,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "SleepScore Labs and IFF Innovate in Groundbreaking Sleep Partnership",
         "event_date": "2020/01/05",
@@ -2846,7 +2864,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces First Milestone to Successfully Integrate with DuPont\u2019s Nutrition & Biosciences Business",
         "event_date": "2019/12/19",
@@ -2864,7 +2882,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Merge with DuPont\u2019s Nutrition & Biosciences Business",
         "event_date": "2019/12/15",
@@ -2900,7 +2918,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Expand Tastepoint Blueprint, Serving Mid-size Customers Around the World",
         "event_date": "2019/12/02",
@@ -2918,7 +2936,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Strengthens Commitment to Gender Parity, Adopts UN Women\u2019s Empowerment Principles and Pledges to Achieve EDGE Certification Globally",
         "event_date": "2019/11/06",
@@ -2954,7 +2972,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Elects Dr. Li-Huei Tsai to Board of Directors",
         "event_date": "2019/10/30",
@@ -2972,7 +2990,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Expands Offerings at New Center of Excellence for Food Service and Seasonings",
         "event_date": "2019/10/24",
@@ -3008,7 +3026,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Reconfirms Sustainability Goals as it Celebrates Climate Week; Signs UN\u2019s Business Ambition for 1.5\u00b0C: Our Only Future",
         "event_date": "2019/09/24",
@@ -3026,7 +3044,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at Bernstein Strategic Decisions Conference September 25",
         "event_date": "2019/09/18",
@@ -3044,7 +3062,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF-Lucas Meyer Cosmetics Acquires Speximo AB",
         "event_date": "2019/09/17",
@@ -3062,7 +3080,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Celebrates Opening of New Innovation Center in Holmdel\u2019s Historic Bell Works",
         "event_date": "2019/09/16",
@@ -3080,7 +3098,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at Barclays Global Consumer Staples Conference September 5",
         "event_date": "2019/08/20",
@@ -3134,7 +3152,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF and ISIPCA Celebrate First Master of Scent Design Graduating Class",
         "event_date": "2019/06/24",
@@ -3152,7 +3170,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Master Perfumer Dominique Ropion Celebrated at The Fragrance Foundation Awards; Creates Historic First Bespoke Scent for Event",
         "event_date": "2019/06/05",
@@ -3170,7 +3188,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Announces Vision 2021 and Confirms 2019 and Long-Term Guidance",
         "event_date": "2019/06/05",
@@ -3188,7 +3206,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Launches a New Purpose and Brand Identity Designed to Challenge the Industry",
         "event_date": "2019/06/04",
@@ -3206,7 +3224,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Completes Buyout of Remaining Shares of Wiberg Corporation",
         "event_date": "2019/06/03",
@@ -3224,7 +3242,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Webcast 2019 Investor Day Presentations on June 5",
         "event_date": "2019/05/28",
@@ -3242,7 +3260,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "2018 Sustainability Report Captures IFF Advancement \u201cToward a Circular Future\u201d",
         "event_date": "2019/05/09",
@@ -3278,7 +3296,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Establishes Creative Haven for Fine Fragrances in Grasse",
         "event_date": "2019/05/02",
@@ -3332,7 +3350,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Signs UN Global LGBTI Standards of Conduct for Business",
         "event_date": "2019/04/17",
@@ -3350,7 +3368,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Michelle Pfeiffer Launches Henry Rose, a Fine Fragrance Line that Sets a New Precedent for Personal Care Transparency",
         "event_date": "2019/04/08",
@@ -3368,7 +3386,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Caswell-Massey, IFF & Yellowstone Forever Launch Yellowstone Living Florals Collection",
         "event_date": "2019/04/02",
@@ -3386,7 +3404,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Opens Global Service Center in Budapest",
         "event_date": "2019/04/02",
@@ -3404,7 +3422,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Acquires Major Stake in Leagel",
         "event_date": "2019/03/13",
@@ -3440,7 +3458,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Acquires The Additive Advantage; Expands Scent, Taste, and Actives Delivery Capabilities",
         "event_date": "2019/02/19",
@@ -3458,7 +3476,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Recognized by SAM\u2019s 2019 \u201cIndustry Mover\u201d Sustainability Award",
         "event_date": "2019/02/15",
@@ -3494,7 +3512,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Named to Barron\u2019s 100 Most Sustainable Companies List for Second Consecutive Year",
         "event_date": "2019/02/11",
@@ -3512,7 +3530,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Recognizes Anne Flipo with Master Perfumer Designation",
         "event_date": "2019/02/07",
@@ -3530,7 +3548,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "Annatto Color Certified Organic for IFF\u2019s Frutarom Division",
         "event_date": "2019/02/06",
@@ -3548,7 +3566,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF to Present at CAGNY Conference February 19",
         "event_date": "2019/01/31",
@@ -3566,7 +3584,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Shares 130 Years of its Storied History and Limitless Future",
         "event_date": "2019/01/28",
@@ -3584,7 +3602,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF-LMR Gains Industry-First FairWild Certification for Peru Balsam",
         "event_date": "2019/01/24",
@@ -3620,7 +3638,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Named to CDP\u2019s A List for Climate Change and Water Security, Confirming Global Leadership for Sustainability",
         "event_date": "2019/01/21",
@@ -3638,7 +3656,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF\u2019s Frutarom Division Completes Acquisition of 60% of Thailand-based Mighty",
         "event_date": "2019/01/18",
@@ -3656,7 +3674,7 @@
     {
         "equity_ticker": "IFF",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "press release",
         "event_name": "IFF Collaborates with Aryballe on \u201cDigital Nose\u201d",
         "event_date": "2019/01/07",

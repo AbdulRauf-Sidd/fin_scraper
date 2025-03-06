@@ -28,7 +28,7 @@ async def scrape_content_main(url, filename):
                 eventType = categorize_event(text)    
                 if href and not href.startswith('http'):
                     href = base_url + href
-
+                category = classify_document(text,href)
                 file_type = href.split('.')[-1] if '.' in href else 'unknown'
                 data_entry = {
                     "equity_ticker": "PVH",
@@ -41,7 +41,7 @@ async def scrape_content_main(url, filename):
                         "file_name": href.split('/')[-1],
                         "file_type": file_type,
                         "date": date,
-                        "category": "NULL",
+                        "category": category,
                         "source_url": href,
                         "wissen_url": "NULL"
                     }]
