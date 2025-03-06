@@ -3,15 +3,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Third quarter Trading Statement 2023",
+        "event_type": "quarterly",
+        "event_name": "Q3 2023",
         "event_date": "2023/10/26",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/overview-q3-2023/",
                 "wissen_url": "unknown"
             },
@@ -19,7 +19,7 @@
                 "file_name": "ir-q3-2023-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/6e7c3e28-0eb0-4b59-b958-ed7f3cff1a62/ir-q3-2023-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -27,7 +27,7 @@
                 "file_name": "ir-q3-2023-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/7b6ff17f-9065-4563-8c9e-117558c48179/ir-q3-2023-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -35,7 +35,7 @@
                 "file_name": "ir-q3-2023-results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/25be8683-a33e-4116-b01b-ec13e419da24/ir-q3-2023-results-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -43,15 +43,15 @@
                 "file_name": "q3-2023-transcript.pdf",
                 "file_type": "pdf",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/c6199b43-3a75-4e5a-baf2-dc454c8d9716/q3-2023-transcript.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=L7TQnyfLuoY",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2023/10/26",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.youtube.com/watch?v=L7TQnyfLuoY",
                 "wissen_url": "unknown"
             }
@@ -61,15 +61,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Second quarter and half-year results 2023",
+        "event_type": "quarterly",
+        "event_name": "Q2 2023",
         "event_date": "2023/07/25",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/overview-q2-2023/",
                 "wissen_url": "unknown"
             },
@@ -77,7 +77,7 @@
                 "file_name": "ir-q2-2023-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/a571e841-b3c1-400d-b818-962b81c512e5/ir-q2-2023-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -85,7 +85,7 @@
                 "file_name": "ir-q2-2023-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/a60933ca-ac23-4e72-9854-13e0ade6cfe7/ir-q2-2023-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -93,15 +93,15 @@
                 "file_name": "unilever-h1-2023-results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/784279d3-6134-48b1-a7c6-521389c68758/unilever-h1-2023-results-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=31sFYV3ublE",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2023/07/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=31sFYV3ublE",
                 "wissen_url": "unknown"
             }
@@ -110,16 +110,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Paris BNPP Exane CEO Conference 2023",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2023",
         "event_date": "2023/06/07",
         "data": [
             {
-                "file_name": "watch?v=QjXqYv1Vdc0",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2023/06/07",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=QjXqYv1Vdc0",
                 "wissen_url": "unknown"
             }
@@ -128,24 +128,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Deutsche Bank Global Consumer Conference 2023",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2023",
         "event_date": "2023/06/06",
         "data": [
             {
                 "file_name": "unilever-deutsche-global-consumer-conference-2023.pdf",
                 "file_type": "pdf",
                 "date": "2023/06/06",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/a4eb6ce1-4165-4f55-af5b-0c6f428b4d6d/unilever-deutsche-global-consumer-conference-2023.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=-khFEtHB4bk",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2023/06/06",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=-khFEtHB4bk",
                 "wissen_url": "unknown"
             }
@@ -155,15 +155,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "First quarter Trading Statement 2023",
+        "event_type": "quarterly",
+        "event_name": "Q1 2023",
         "event_date": "2023/04/27",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2023/04/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/overview-q1-2023/",
                 "wissen_url": "unknown"
             },
@@ -171,7 +171,7 @@
                 "file_name": "ir-q1-2023-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2023/04/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/9beca798-0d56-48a1-a390-0260ae42f546/ir-q1-2023-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -179,7 +179,7 @@
                 "file_name": "ir-q1-2023-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2023/04/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/72e0467e-5f48-4d6d-b2b8-5446c48c5b3a/ir-q1-2023-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -187,7 +187,7 @@
                 "file_name": "q1-2023-results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2023/04/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/023b9a3e-9e0c-4e03-8aea-6c4c69e679fd/q1-2023-results-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -195,7 +195,7 @@
                 "file_name": "dvqIPgkzoJA",
                 "file_type": "html",
                 "date": "2023/04/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://youtu.be/dvqIPgkzoJA",
                 "wissen_url": "unknown"
             }
@@ -205,15 +205,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Q4 and Full Year 2022 Results",
+        "event_type": "quarterly",
+        "event_name": "Q4 2022",
         "event_date": "2023/02/09",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2023/02/09",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/overview-full-year-2022/",
                 "wissen_url": "unknown"
             },
@@ -221,7 +221,7 @@
                 "file_name": "ir-q4-2022-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2023/02/09",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/91ad891b-a5cd-4a79-823d-83b82b31615a/ir-q4-2022-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -229,7 +229,7 @@
                 "file_name": "ir-q4-2022-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2023/02/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/45dbe1f5-b4e6-4b27-ad80-95405b2c1fd3/ir-q4-2022-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -237,7 +237,7 @@
                 "file_name": "q4-2022-results-presentation---final.pdf",
                 "file_type": "pdf",
                 "date": "2023/02/09",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/f96cc2be-f14b-4f95-b2b9-4ff50e6589d0/q4-2022-results-presentation---final.pdf",
                 "wissen_url": "unknown"
             },
@@ -245,7 +245,7 @@
                 "file_name": "fX0BGO-20tM",
                 "file_type": "html",
                 "date": "2023/02/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/fX0BGO-20tM",
                 "wissen_url": "unknown"
             }
@@ -254,16 +254,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever Investor Event 2022",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q4 2022",
         "event_date": "2022/11/25",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2022/11/25",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/unilever-investor-event-2022/",
                 "wissen_url": "unknown"
             }
@@ -273,15 +273,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Third quarter Trading Statement 2022",
+        "event_type": "quarterly",
+        "event_name": "Q3 2022",
         "event_date": "2022/10/27",
         "data": [
             {
                 "file_name": "",
-                "file_type": "video",
+                "file_type": "html",
                 "date": "2022/10/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/investors/results-presentations-webcasts/overview-q3-2022/",
                 "wissen_url": "unknown"
             },
@@ -289,7 +289,7 @@
                 "file_name": "ir-q3-2022-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2022/10/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/ab36a5b7-ee73-4845-bd6a-65068a988bea/ir-q3-2022-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -297,7 +297,7 @@
                 "file_name": "ir-q3-2022-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2022/10/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/ab36a5b7-ee73-4845-bd6a-65068a988bea/ir-q3-2022-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -305,7 +305,7 @@
                 "file_name": "unilever-q3-22-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/10/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/15b3ac9d-329b-4e15-b480-3ce0a9b0a1fc/unilever-q3-22-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -313,7 +313,7 @@
                 "file_name": "9hdR1xgbjsg",
                 "file_type": "html",
                 "date": "2022/10/27",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://youtu.be/9hdR1xgbjsg",
                 "wissen_url": "unknown"
             }
@@ -322,16 +322,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Barclays Global Consumer Staples Conference 2022",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2022",
         "event_date": "2022/09/06",
         "data": [
             {
                 "file_name": "barclays-global-consumer-staples-conference-webcast-mp4.mp4",
-                "file_type": "video",
+                "file_type": "mp4",
                 "date": "2022/09/06",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/91966844-7816-48a9-8c03-de5f943e991e/barclays-global-consumer-staples-conference-webcast-mp4.mp4",
                 "wissen_url": "unknown"
             }
@@ -341,15 +341,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Second quarter and half-year results 2022",
+        "event_type": "quarterly",
+        "event_name": "Q2 2022",
         "event_date": "2022/07/26",
         "data": [
             {
                 "file_name": "ir-q2-2022-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2022/07/26",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/c285e622-5096-4908-a487-1179421ca33c/ir-q2-2022-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -357,7 +357,7 @@
                 "file_name": "ir-q2-2022-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2022/07/26",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/616febb5-d523-4ba7-ac1b-86ee1c4e4114/ir-q2-2022-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -365,15 +365,15 @@
                 "file_name": "unilever-h1-2022-results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/07/26",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/25107613-ed5d-4d93-8345-ffa1281f0346/unilever-h1-2022-results-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=0PT98Sov-dE",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2022/07/26",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=0PT98Sov-dE",
                 "wissen_url": "unknown"
             }
@@ -382,16 +382,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever Health & Wellbeing: a presentation for investors",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Q3 2022",
         "event_date": "2022/07/06",
         "data": [
             {
                 "file_name": "health---wellbeing-investor-relations-deep-dive.pdf",
                 "file_type": "pdf",
                 "date": "2022/07/06",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/c58f5a09-1677-4586-95ef-f93e9ec1c929/health---wellbeing-investor-relations-deep-dive.pdf",
                 "wissen_url": "unknown"
             },
@@ -399,7 +399,7 @@
                 "file_name": "6QEMUdAapsA",
                 "file_type": "html",
                 "date": "2022/07/06",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://youtu.be/6QEMUdAapsA",
                 "wissen_url": "unknown"
             }
@@ -408,16 +408,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Paris BNPP Exane CEO Conference 2022",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/28",
         "data": [
             {
-                "file_name": "watch?v=rR4qPrtTu6A",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2022/06/28",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=rR4qPrtTu6A",
                 "wissen_url": "unknown"
             }
@@ -426,16 +426,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Deutsche Bank Global Consumer Conference 2022",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/15",
         "data": [
             {
                 "file_name": "deutsche-bank-global-consumer-conference-2022-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/06/15",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/8e022540-adb9-48ea-99b3-324b0c6eb253/deutsche-bank-global-consumer-conference-2022-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -443,7 +443,7 @@
                 "file_name": "sQmcz-JbXHg",
                 "file_type": "html",
                 "date": "2022/06/15",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/sQmcz-JbXHg",
                 "wissen_url": "unknown"
             }
@@ -452,24 +452,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever Prestige Beauty: a presentation for Investors",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Q2 2022",
         "event_date": "2022/06/06",
         "data": [
             {
                 "file_name": "unilever-prestige---a-presenation-for-investors.pdf",
                 "file_type": "pdf",
                 "date": "2022/06/06",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/d923a2e5-215c-42b1-93b3-da908c931c91/unilever-prestige---a-presenation-for-investors.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=Gx5_iLyM4lw",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2022/06/06",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.youtube.com/watch?v=Gx5_iLyM4lw",
                 "wissen_url": "unknown"
             }
@@ -479,15 +479,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "First quarter Trading Statement, Thursday 28th April 2022",
+        "event_type": "quarterly",
+        "event_name": "Q1 2022",
         "event_date": "2022/04/28",
         "data": [
             {
                 "file_name": "ir-q1-2022-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2022/04/28",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/3ad23272-5f8e-4fd3-b34a-31eded525e07/ir-q1-2022-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -495,7 +495,7 @@
                 "file_name": "ir-q1-2022-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2022/04/28",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/70599e17-6773-42e3-ae82-e6ab4ebe7611/ir-q1-2022-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -503,7 +503,7 @@
                 "file_name": "unilever-q1-2022-trading-statement-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/04/28",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/5b888521-3f6d-4d0b-a00c-33baaed3e00f/unilever-q1-2022-trading-statement-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -511,7 +511,7 @@
                 "file_name": "MMkvSW9lKcE",
                 "file_type": "html",
                 "date": "2022/04/28",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://youtu.be/MMkvSW9lKcE",
                 "wissen_url": "unknown"
             }
@@ -520,24 +520,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Consumer Analyst Group of New York Conference 2022",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Q1 2022",
         "event_date": "2022/02/22",
         "data": [
             {
                 "file_name": "Consumer Analyst Group of New York Conference 2022 presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/02/22",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/afc40e13a5a5e05d89a10bb9cd9a801dc907c57a.pdf/Consumer Analyst Group of New York Conference 2022 presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=UFZjoJ5_xXY",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2022/02/22",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=UFZjoJ5_xXY",
                 "wissen_url": "unknown"
             }
@@ -547,15 +547,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Q4 & Full Year 2021 results",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2022/02/10",
         "data": [
             {
                 "file_name": "ir-q4-2021-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2022/02/10",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/5b9872cf-337a-4bb4-9692-02a1b0a1b7fe/ir-q4-2021-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -563,7 +563,7 @@
                 "file_name": "ir-q4-2021-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2022/02/10",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/aef2ea1a-722a-47ac-8fd7-698fd02ee2e5/ir-q4-2021-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -571,7 +571,7 @@
                 "file_name": "ir-q4-2021-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2022/02/10",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/b202c274-9123-4ce0-b255-bafee039d45b/ir-q4-2021-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -579,7 +579,7 @@
                 "file_name": "srmcs4sOQ-0",
                 "file_type": "html",
                 "date": "2022/02/10",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/srmcs4sOQ-0",
                 "wissen_url": "unknown"
             }
@@ -589,15 +589,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Third quarter 2021 Trading Statement, Thursday 21st October 2021",
+        "event_type": "quarterly",
+        "event_name": "Q3 2021",
         "event_date": "2021/10/21",
         "data": [
             {
                 "file_name": "ir-q3-2021-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2021/10/21",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/d0b8a039cb071bac1a1cb89d5d9ab7afd9e8e54b.pdf/ir-q3-2021-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -605,7 +605,7 @@
                 "file_name": "ir-q3-2021-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2021/10/21",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/5deef2cae3b4399d6bf51f9af45c039ab0e62a5b.pdf/ir-q3-2021-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -613,7 +613,7 @@
                 "file_name": "Unilever-Q3-2021-Trading-Statement-Presentation-Final.pdf",
                 "file_type": "pdf",
                 "date": "2021/10/21",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/29b177b4ab91add46dbf324734989729bcf98cc9.pdf/Unilever-Q3-2021-Trading-Statement-Presentation-Final.pdf",
                 "wissen_url": "unknown"
             },
@@ -621,7 +621,7 @@
                 "file_name": "ho79eBaN_fg",
                 "file_type": "html",
                 "date": "2021/10/21",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://youtu.be/ho79eBaN_fg",
                 "wissen_url": "unknown"
             }
@@ -630,16 +630,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever China: a presentation for investors",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/27",
         "data": [
             {
                 "file_name": "unilever-china-a-presentation-for-investors.pdf",
                 "file_type": "pdf",
                 "date": "2021/09/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/b869ed563060ddff23c5012ff952bb44ab60f5e5.pdf/unilever-china-a-presentation-for-investors.pdf",
                 "wissen_url": "unknown"
             },
@@ -647,7 +647,7 @@
                 "file_name": "register",
                 "file_type": "html",
                 "date": "2021/09/27",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://streams.eventcdn.net/unilever/china-investor-presentation/register",
                 "wissen_url": "unknown"
             }
@@ -656,16 +656,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Use science, not animals",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/15",
         "data": [
             {
                 "file_name": "use-science-not-animals.pdf",
                 "file_type": "pdf",
                 "date": "2021/09/15",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/326fd5438b8736abbf3d530231813cbc24016061.pdf/use-science-not-animals.pdf",
                 "wissen_url": "unknown"
             },
@@ -673,7 +673,7 @@
                 "file_name": "98kleKZFew8",
                 "file_type": "html",
                 "date": "2021/09/15",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/98kleKZFew8",
                 "wissen_url": "unknown"
             }
@@ -682,16 +682,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Barclays Global Consumer Staples Conference 2021",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2021",
         "event_date": "2021/09/08",
         "data": [
             {
                 "file_name": "9uWC8fh9J4s",
                 "file_type": "html",
                 "date": "2021/09/08",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/9uWC8fh9J4s",
                 "wissen_url": "unknown"
             }
@@ -701,15 +701,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Second quarter and half-year results, Thursday 22nd July 2021",
+        "event_type": "quarterly",
+        "event_name": "Q2 2021",
         "event_date": "2021/07/22",
         "data": [
             {
                 "file_name": "ir-q2-2021-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2021/07/22",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/a2ecdd9888bff77f3fcc2086bb5186f3af31defa.pdf/ir-q2-2021-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -717,7 +717,7 @@
                 "file_name": "ir-q2-2021-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2021/07/22",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/0c206d24e59e7b638fbcd6f39e73e2bf7f6f29a0.pdf/ir-q2-2021-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -725,7 +725,7 @@
                 "file_name": "ir-q2-2021-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2021/07/22",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/29d3a20e9cc74e2d3534cd1d787c28a88b05091f.pdf/ir-q2-2021-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -733,7 +733,7 @@
                 "file_name": "f5YxTSKKObw",
                 "file_type": "html",
                 "date": "2021/07/22",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/f5YxTSKKObw",
                 "wissen_url": "unknown"
             }
@@ -742,16 +742,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Innovation at Unilever: a presentation for investors",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Q2 2021",
         "event_date": "2021/06/23",
         "data": [
             {
                 "file_name": "Unilever-Investor-Deep-Dive-Innovation.pdf",
                 "file_type": "pdf",
                 "date": "2021/06/23",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/4485627c5559b69daa6de95b06979392dd6df2b2.pdf/Unilever-Investor-Deep-Dive-Innovation.pdf",
                 "wissen_url": "unknown"
             },
@@ -759,7 +759,7 @@
                 "file_name": "lQUqwkb_jn0",
                 "file_type": "html",
                 "date": "2021/06/23",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://youtu.be/lQUqwkb_jn0",
                 "wissen_url": "unknown"
             }
@@ -768,16 +768,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Deutsche Bank Global Consumer Conference 2021",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2021",
         "event_date": "2021/06/07",
         "data": [
             {
                 "file_name": "unilever-at-deutsche-bank-global-consumer-conference-2021.pdf",
                 "file_type": "pdf",
                 "date": "2021/06/07",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/387b42bc0dede8409124b0bf9004178f21c7fcd4.pdf/unilever-at-deutsche-bank-global-consumer-conference-2021.pdf",
                 "wissen_url": "unknown"
             },
@@ -785,7 +785,7 @@
                 "file_name": "QlbwJlRyLQY",
                 "file_type": "html",
                 "date": "2021/06/07",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/QlbwJlRyLQY",
                 "wissen_url": "unknown"
             }
@@ -795,15 +795,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "First quarter trading statement, Thursday 29th April 2021",
+        "event_type": "quarterly",
+        "event_name": "Q1 2021",
         "event_date": "2021/04/29",
         "data": [
             {
                 "file_name": "ir-q1-2021-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2021/04/29",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/195abb1261088bf60d7fabe324a3424f51dd361f.pdf/ir-q1-2021-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -811,7 +811,7 @@
                 "file_name": "ir-q1-2021-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2021/04/29",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/360982aa19444b6fa067801cc51037fb8c1a8847.pdf/ir-q1-2021-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -819,15 +819,15 @@
                 "file_name": "Unilever-Q1-2021-Trading-Statement-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2021/04/29",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/39440c73fdadf9b06699ba6af18fb0ab200c044b.pdf/Unilever-Q1-2021-Trading-Statement-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=7HQ3D4CX4UE",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2021/04/29",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.youtube.com/watch?v=7HQ3D4CX4UE",
                 "wissen_url": "unknown"
             }
@@ -836,16 +836,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever USA: a presentation for investors",
+        "frequency": "non-periodic",
+        "event_type": "fact_sheet",
+        "event_name": "Q1 2021",
         "event_date": "2021/03/22",
         "data": [
             {
                 "file_name": "Unilever-USA-a-presentation-for-investors.pdf",
                 "file_type": "pdf",
                 "date": "2021/03/22",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/7866ebef9c1616cb681e8d5926a1eb552b4caba0.pdf/Unilever-USA-a-presentation-for-investors.pdf",
                 "wissen_url": "unknown"
             },
@@ -853,7 +853,7 @@
                 "file_name": "q1bQWaJW5jQ",
                 "file_type": "html",
                 "date": "2021/03/22",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://youtu.be/q1bQWaJW5jQ",
                 "wissen_url": "unknown"
             }
@@ -862,24 +862,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Consumer Analyst Group of New York Conference 2021",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Q1 2021",
         "event_date": "2021/02/16",
         "data": [
             {
                 "file_name": "Unilever-at-CAGNY-2021.pdf",
                 "file_type": "pdf",
                 "date": "2021/02/16",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/3543dc4657afed0472fdfee882d0a641ed44ba4a.pdf/Unilever-at-CAGNY-2021.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=yuWBGYonYCo&list=PLncvI6F_uW_pl58YhJ4ZDh0YVKesTGOEo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2021/02/16",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=yuWBGYonYCo&list=PLncvI6F_uW_pl58YhJ4ZDh0YVKesTGOEo",
                 "wissen_url": "unknown"
             }
@@ -889,15 +889,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Full year & fourth quarter results, 4th February 2021",
+        "event_type": "quarterly",
+        "event_name": "Q4 2021",
         "event_date": "2021/02/04",
         "data": [
             {
                 "file_name": "ir-Q4-2020-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2021/02/04",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/ce7b91861c2f58f2903ed24538e87079e61c18a8.pdf/ir-Q4-2020-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -905,7 +905,7 @@
                 "file_name": "ir-Q4-2020-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2021/02/04",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/02d6bcf93963df77c5943667f8585e55f6451c5a.pdf/ir-Q4-2020-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -913,7 +913,7 @@
                 "file_name": "Unilever-Q4 -and-Full-Year-2020-Results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2021/02/04",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/413c31587571cb8a00b446a272170b60c9f09cba.pdf/Unilever-Q4 -and-Full-Year-2020-Results-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -921,7 +921,7 @@
                 "file_name": "CUnfGqMSL3o",
                 "file_type": "html",
                 "date": "2021/02/04",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/CUnfGqMSL3o",
                 "wissen_url": "unknown"
             }
@@ -930,16 +930,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Morgan Stanley Global Consumer & Retail Conference",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q4 2020",
         "event_date": "2020/12/01",
         "data": [
             {
                 "file_name": "qj5j9ny217Y",
                 "file_type": "html",
                 "date": "2020/12/01",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/qj5j9ny217Y",
                 "wissen_url": "unknown"
             }
@@ -949,15 +949,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Third quarter 2020 trading statement, Thursday 22nd October 2020",
+        "event_type": "quarterly",
+        "event_name": "Q3 2020",
         "event_date": "2020/10/22",
         "data": [
             {
                 "file_name": "ir-Q3-2020-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2020/10/22",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/331687faf4d6628d28b72a1372698a6378fd234d.pdf/ir-Q3-2020-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -965,7 +965,7 @@
                 "file_name": "ir-Q3-2020-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2020/10/22",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/267e9567b9414db246980b68cb85685b891369c4.pdf/ir-Q3-2020-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -973,15 +973,15 @@
                 "file_name": "ir-Q3-2020-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2020/10/22",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/ada01cafb45dd7fb5b347fc0a49d30380c93ebab.pdf/ir-Q3-2020-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=yB_1U9O4Ruo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/10/22",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.youtube.com/watch?v=yB_1U9O4Ruo",
                 "wissen_url": "unknown"
             }
@@ -990,24 +990,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Climate Action: a Unilever Briefing for Investors",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/25",
         "data": [
             {
                 "file_name": "Climate Action - a Unilever briefing.pdf",
                 "file_type": "pdf",
                 "date": "2020/09/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/c5fd1c556447257432fd9c16eb61a51494fc0ff8.pdf/Climate Action - a Unilever briefing.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=s6sUUHR8NJY",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/09/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=s6sUUHR8NJY",
                 "wissen_url": "unknown"
             }
@@ -1016,24 +1016,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Bernstein Strategic Decisions Conference 2020",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/23",
         "data": [
             {
                 "file_name": "Unilever-at-Bernstein-European-Strategic-Decisions-Conference-2020.pdf",
                 "file_type": "pdf",
                 "date": "2020/09/23",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/ff4b64fefbc3962bccadc7c88e1fae538508b4cd.pdf/Unilever-at-Bernstein-European-Strategic-Decisions-Conference-2020.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=fSGAfEQr2ZQ",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/09/23",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=fSGAfEQr2ZQ",
                 "wissen_url": "unknown"
             }
@@ -1042,16 +1042,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Barclays Global Consumer Staples Conference 2020",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2020",
         "event_date": "2020/09/08",
         "data": [
             {
                 "file_name": "f5162_tPagA",
                 "file_type": "html",
                 "date": "2020/09/08",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://youtu.be/f5162_tPagA",
                 "wissen_url": "unknown"
             }
@@ -1061,15 +1061,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Second quarter and half-year results, Thursday 23rd July 2020",
+        "event_type": "quarterly",
+        "event_name": "Q2 2020",
         "event_date": "2020/07/23",
         "data": [
             {
                 "file_name": "ir-Q2-2020-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2020/07/23",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/55b4ffcb723cccab5b54b65c90f570f1aa22f2e6.pdf/ir-Q2-2020-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1077,7 +1077,7 @@
                 "file_name": "ir-Q2-2020-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2020/07/23",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/d69589d5cb1e745a07bc03f705abc96221a598b6.pdf/ir-Q2-2020-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1085,15 +1085,15 @@
                 "file_name": "H1-2020-Results-Presentation.pdf",
                 "file_type": "pdf",
                 "date": "2020/07/23",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/5954f12de48953138426acaa4c0738170c0230f2.pdf/H1-2020-Results-Presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=xlYWlzZ7IZo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/07/23",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=xlYWlzZ7IZo",
                 "wissen_url": "unknown"
             }
@@ -1102,16 +1102,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unification of Unilever\u2019s legal structure",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q2 2020",
         "event_date": "2020/06/11",
         "data": [
             {
                 "file_name": "announcement-unification-of-unilevers-legal-structure.pdf",
                 "file_type": "pdf",
                 "date": "2020/06/11",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/e6f5fd944b2a8f17bc8513150f63151a22020e8c.pdf/announcement-unification-of-unilevers-legal-structure.pdf",
                 "wissen_url": "unknown"
             },
@@ -1119,7 +1119,7 @@
                 "file_name": "Reference-deck-Unification-of-Unilevers-legal-structure.pdf",
                 "file_type": "pdf",
                 "date": "2020/06/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/a9735fa6705571ebb6db8c1ab36a06b750485a0a.pdf/Reference-deck-Unification-of-Unilevers-legal-structure.pdf",
                 "wissen_url": "unknown"
             },
@@ -1127,7 +1127,7 @@
                 "file_name": "faq-for-private-shareholders-unification-of-unilevers-legal-structure.pdf",
                 "file_type": "pdf",
                 "date": "2020/06/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/ae992fe1ed81ca598f9041675c50cc098047a242.pdf/faq-for-private-shareholders-unification-of-unilevers-legal-structure.pdf",
                 "wissen_url": "unknown"
             },
@@ -1135,7 +1135,7 @@
                 "file_name": "Letter-Unification-of-Unilevers-legal-structure.pdf",
                 "file_type": "pdf",
                 "date": "2020/06/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/06b5a454ed50c897926b71295b9d9ae98eb8ca89.pdf/Letter-Unification-of-Unilevers-legal-structure.pdf",
                 "wissen_url": "unknown"
             }
@@ -1144,24 +1144,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Deutsche Bank Global Consumer Conference 2020",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q2 2020",
         "event_date": "2020/06/09",
         "data": [
             {
                 "file_name": "Unilever at DB Global Consumer Conference 2020.pdf",
                 "file_type": "pdf",
                 "date": "2020/06/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/68dd960fde0f0cfdb032bb96c5dced9aa65df85d.pdf/Unilever at DB Global Consumer Conference 2020.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=eNKujTPllbE",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/06/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=eNKujTPllbE",
                 "wissen_url": "unknown"
             }
@@ -1171,15 +1171,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "First quarter trading statement, Thursday 23rd April 2020",
+        "event_type": "quarterly",
+        "event_name": "Q1 2020",
         "event_date": "2020/04/23",
         "data": [
             {
                 "file_name": "ir-q1-2020-full-announcement_en.pdf",
                 "file_type": "pdf",
                 "date": "2020/04/23",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/eaa1d1bbe611d62bd419116f804808002b28b3cf.pdf/ir-q1-2020-full-announcement_en.pdf",
                 "wissen_url": "unknown"
             },
@@ -1187,7 +1187,7 @@
                 "file_name": "ir-Q1-2020-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2020/04/23",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/a9111af9a7bb0649f2226c45b6df81821337ac20.pdf/ir-Q1-2020-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1195,7 +1195,7 @@
                 "file_name": "ir-Q1-2020-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2020/04/23",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/af91761f336342c6d63d7d546d609a751f7f4db1.pdf/ir-Q1-2020-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -1203,7 +1203,7 @@
                 "file_name": "y1zIWZMlfMA",
                 "file_type": "html",
                 "date": "2020/04/23",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://youtu.be/y1zIWZMlfMA",
                 "wissen_url": "unknown"
             }
@@ -1212,24 +1212,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Consumer Analyst Group of New York Conference 2020",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Q1 2020",
         "event_date": "2020/02/18",
         "data": [
             {
                 "file_name": "cagny-2020-17022020.pdf",
                 "file_type": "pdf",
                 "date": "2020/02/18",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/48fe5675030a6f2ea04b4623cf10f95590fbc6c5.pdf/cagny-2020-17022020.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "starthere.jsp?ei=1281168&tp_key=44bdd32b38",
-                "file_type": "video",
+                "file_name": "starthere.jsp",
+                "file_type": "html",
                 "date": "2020/02/18",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://event.webcasts.com/starthere.jsp?ei=1281168&tp_key=44bdd32b38",
                 "wissen_url": "unknown"
             }
@@ -1239,15 +1239,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Full year & fourth quarter results, 30th January 2020",
+        "event_type": "quarterly",
+        "event_name": "Q4 2020",
         "event_date": "2020/01/30",
         "data": [
             {
                 "file_name": "ir-Q4-2019-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2020/01/30",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/213b038763ea511f062f0d1a8844101d7a7e2947.pdf/ir-Q4-2019-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1255,7 +1255,7 @@
                 "file_name": "ir-q4-2019-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2020/01/30",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/3421bd81994a771307177f15ef3629de3b73be45.pdf/ir-q4-2019-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1263,15 +1263,15 @@
                 "file_name": "ir-q4-2019-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2020/01/30",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/aa187145af3c9568f3f53effa86c5f015e6f4fd9.pdf/ir-q4-2019-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=OooP7SGOcGM",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2020/01/30",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=OooP7SGOcGM",
                 "wissen_url": "unknown"
             }
@@ -1280,16 +1280,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Sustainability Event 2019",
+        "frequency": "non-periodic",
+        "event_type": "esg",
+        "event_name": "Q4 2019",
         "event_date": "2019/12/11",
         "data": [
             {
                 "file_name": "sustainable-business-driving-superior-performance.pdf",
                 "file_type": "pdf",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/900a94631f3b43160e820affcbbdc17f7794cd0a.pdf/sustainable-business-driving-superior-performance.pdf",
                 "wissen_url": "unknown"
             },
@@ -1297,7 +1297,7 @@
                 "file_name": "Foods-and-refreshment-a-force-for-good.pdf",
                 "file_type": "pdf",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/b8e29f842a443ddfa04ab85767d30aba929f52b0.pdf/Foods-and-refreshment-a-force-for-good.pdf",
                 "wissen_url": "unknown"
             },
@@ -1305,7 +1305,7 @@
                 "file_name": "sustainable-business-a-cfo-view.pdf",
                 "file_type": "pdf",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/c7539bc2b94681087aa65f70bc17a12a3775fbad.pdf/sustainable-business-a-cfo-view.pdf",
                 "wissen_url": "unknown"
             },
@@ -1313,7 +1313,7 @@
                 "file_name": "sustainable-business-how-we-do-it.pdf",
                 "file_type": "pdf",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/b253158852af94e7c0f39d60a965a84ee15fe2af.pdf/sustainable-business-how-we-do-it.pdf",
                 "wissen_url": "unknown"
             },
@@ -1321,15 +1321,15 @@
                 "file_name": "tackling-plastic-waste-richard-slater.pdf",
                 "file_type": "pdf",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/22a5dafce9e258b4e98654765657d7e3ba57cb02.pdf/tackling-plastic-waste-richard-slater.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=mfylrJJMId4",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/12/11",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=mfylrJJMId4",
                 "wissen_url": "unknown"
             }
@@ -1338,16 +1338,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Investor Event 2019",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q4 2019",
         "event_date": "2019/11/13",
         "data": [
             {
                 "file_name": "Investor-Event-2019-Rohit-Jawa-China.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/2279de21cc0da0a3f0fb9f86a07fb94b6cebd81c.pdf/Investor-Event-2019-Rohit-Jawa-China.pdf",
                 "wissen_url": "unknown"
             },
@@ -1355,7 +1355,7 @@
                 "file_name": "Investor-Event-2019-Amanda-Sourry-USA.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/b5bc452f0d2e1fd2a934057f5c2eb4cb622e323e.pdf/Investor-Event-2019-Amanda-Sourry-USA.pdf",
                 "wissen_url": "unknown"
             },
@@ -1363,7 +1363,7 @@
                 "file_name": "Investor-Event-2019-Graeme-Pitkethly.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/83f9c3be4bf1f10dbaa50fe62489430de03b55ef.pdf/Investor-Event-2019-Graeme-Pitkethly.pdf",
                 "wissen_url": "unknown"
             },
@@ -1371,7 +1371,7 @@
                 "file_name": "investor-event-2019-peter-ter-kulve-home-care-updated.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/edac50866cd63ca607095d6bc9a71105026f7d16.pdf/investor-event-2019-peter-ter-kulve-home-care-updated.pdf",
                 "wissen_url": "unknown"
             },
@@ -1379,7 +1379,7 @@
                 "file_name": "Investor-Event-2019-Hanneke-Faber-Foods-and-Refreshment-updated.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/39931f205fb195c5fbdf3a74ee29c16213c2f63d.pdf/Investor-Event-2019-Hanneke-Faber-Foods-and-Refreshment-updated.pdf",
                 "wissen_url": "unknown"
             },
@@ -1387,7 +1387,7 @@
                 "file_name": "Investor-Event-2019-Sunny-Jain-Beauty-&-Personal-Care.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/7490302e2c918a7d8bdd381b286b5718c60e02f4.pdf/Investor-Event-2019-Sunny-Jain-Beauty-&-Personal-Care.pdf",
                 "wissen_url": "unknown"
             },
@@ -1395,7 +1395,7 @@
                 "file_name": "Investor-Event-2019-Marc-Engel-Supply-Chain.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/aa2b7261b82d3493319d4f46176e4e245a45c051.pdf/Investor-Event-2019-Marc-Engel-Supply-Chain.pdf",
                 "wissen_url": "unknown"
             },
@@ -1403,7 +1403,7 @@
                 "file_name": "Investor-Event-2019-Nitin-Paranjpe.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/66b8ff6d08685d6e43ac20129150621ce1a96452.pdf/Investor-Event-2019-Nitin-Paranjpe.pdf",
                 "wissen_url": "unknown"
             },
@@ -1411,15 +1411,15 @@
                 "file_name": "Investor-Event-2019-Alan-Jope.pdf",
                 "file_type": "pdf",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/7c695ba12acdacb33f1936ac949f79a7146a3db4.pdf/Investor-Event-2019-Alan-Jope.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "playlist?list=PLncvI6F_uW_qR0tkQiUD5f7cpHoi22rzU",
+                "file_name": "playlist",
                 "file_type": "html",
                 "date": "2019/11/13",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/playlist?list=PLncvI6F_uW_qR0tkQiUD5f7cpHoi22rzU",
                 "wissen_url": "unknown"
             }
@@ -1429,15 +1429,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Third quarter 2019 trading statement, Thursday 17th October 2019",
+        "event_type": "quarterly",
+        "event_name": "Q3 2019",
         "event_date": "2019/10/17",
         "data": [
             {
                 "file_name": "ir-Q3-2019-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2019/10/17",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/b948ceebde4bf303cbbecceced78ecea741bc842.pdf/ir-Q3-2019-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1445,7 +1445,7 @@
                 "file_name": "ir-q3-2019-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2019/10/17",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/2ff51330a6969b43e7a3477e29ba53fed0b6a7de.pdf/ir-q3-2019-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1453,15 +1453,15 @@
                 "file_name": "q3-2019-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2019/10/17",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/18fd9d2b1cb3111abb2aa3f13a7eecd340b7bc2d.pdf/q3-2019-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=BkHfUIlq4bM&feature=youtu.be",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/10/17",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.youtube.com/watch?v=BkHfUIlq4bM&feature=youtu.be",
                 "wissen_url": "unknown"
             }
@@ -1470,24 +1470,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Transforming the Palm Oil Industry",
+        "frequency": "non-periodic",
+        "event_type": "other",
+        "event_name": "Q4 2019",
         "event_date": "2019/10/09",
         "data": [
             {
                 "file_name": "transforming-the-palm-oil-industry.pdf",
                 "file_type": "pdf",
                 "date": "2019/10/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/916ab0335769f4497b2538377259e0eaad08bd06.pdf/transforming-the-palm-oil-industry.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=BoCntpoqyo0&feature=emb_logo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/10/09",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=BoCntpoqyo0&feature=emb_logo",
                 "wissen_url": "unknown"
             }
@@ -1496,24 +1496,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Bernstein Strategic Decisions Conference 2019",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/26",
         "data": [
             {
                 "file_name": "Unilever at Bernstein Strategic Decisions 2019.pdf",
                 "file_type": "pdf",
                 "date": "2019/09/26",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/26d3ce08b29afc721a8d6b5fc9cf9dbfd3a98505.pdf/Unilever at Bernstein Strategic Decisions 2019.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=tSOmLrocZ00&feature=emb_logo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/09/26",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=tSOmLrocZ00&feature=emb_logo",
                 "wissen_url": "unknown"
             }
@@ -1522,24 +1522,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Barclays Consumer Staples Conference 2019",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2019",
         "event_date": "2019/09/03",
         "data": [
             {
                 "file_name": "Barclays Global Consumer conference 2019.pdf",
                 "file_type": "pdf",
                 "date": "2019/09/03",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/0888397aebad78ed81c65025314f433b2b400389.pdf/Barclays Global Consumer conference 2019.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=8Ew6gyV62Pc&feature=emb_logo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/09/03",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=8Ew6gyV62Pc&feature=emb_logo",
                 "wissen_url": "unknown"
             }
@@ -1549,15 +1549,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Second quarter and half-year results, Thursday 25th July 2019",
+        "event_type": "quarterly",
+        "event_name": "Q2 2019",
         "event_date": "2019/07/25",
         "data": [
             {
                 "file_name": "ir-q2-2019-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2019/07/25",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/0e20e25a94c4500ee2b7fb9983339fc8ac3f8acb.pdf/ir-q2-2019-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1565,7 +1565,7 @@
                 "file_name": "ir-q2-2019-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2019/07/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/8a9c01951b6ff9efb3f5f98e6ae3fb31f77ef077.pdf/ir-q2-2019-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1573,15 +1573,15 @@
                 "file_name": "Q2-2019-results-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2019/07/25",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/9376fe77f0e4d11c090d45d2b3af753168b5d1ab.pdf/Q2-2019-results-presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=CWWfWVkDXpc",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/07/25",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=CWWfWVkDXpc",
                 "wissen_url": "unknown"
             }
@@ -1590,24 +1590,24 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Unilever at the Deutsche Bank Global Consumer Conference, Paris 2019",
+        "frequency": "non-periodic",
+        "event_type": "capital_markets_day",
+        "event_name": "Q3 2019",
         "event_date": "2019/07/17",
         "data": [
             {
                 "file_name": "deutsche-bank-global-consumer-conference-2019.pdf",
                 "file_type": "pdf",
                 "date": "2019/07/17",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/f6301fec0815cfb512da081abbe517e05b0bcfe8.pdf/deutsche-bank-global-consumer-conference-2019.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=jM5RpkTB9yI&feature=emb_logo",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/07/17",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=jM5RpkTB9yI&feature=emb_logo",
                 "wissen_url": "unknown"
             }
@@ -1617,15 +1617,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "First quarter trading statement, Thursday 18th April 2019",
+        "event_type": "quarterly",
+        "event_name": "Q1 2019",
         "event_date": "2019/04/18",
         "data": [
             {
                 "file_name": "ir-q1-2019-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2019/04/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/6192bd2cb3c76444d4d7107653023fb55fe6a4ed.pdf/ir-q1-2019-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1633,7 +1633,7 @@
                 "file_name": "ir-Q1-2019-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2019/04/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.unilever.com/files/origin/c268763b3457e033dfb72296ac56dfab382d6974.pdf/ir-Q1-2019-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1641,15 +1641,15 @@
                 "file_name": "2019-Q1-Presentation.pdf",
                 "file_type": "pdf",
                 "date": "2019/04/18",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/347c60048816535535ac6b94ed19e8817c8d97f6.pdf/2019-Q1-Presentation.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=InqukaRJ1rE",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/04/18",
-                "category": "financial report",
+                "category": "report",
                 "source_url": "https://www.youtube.com/watch?v=InqukaRJ1rE",
                 "wissen_url": "unknown"
             }
@@ -1658,16 +1658,16 @@
     {
         "equity_ticker": "ULVR",
         "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Consumer Analyst Group of New York Conference 2019",
+        "frequency": "non-periodic",
+        "event_type": "analyst_presentations",
+        "event_name": "Q1 2019",
         "event_date": "2019/02/20",
         "data": [
             {
                 "file_name": "consumer-analyst-group-of-new-york-conference-2019.pdf",
                 "file_type": "pdf",
                 "date": "2019/02/20",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/a080cbc6bba75927087d14e4d8681fe58940271f.pdf/consumer-analyst-group-of-new-york-conference-2019.pdf",
                 "wissen_url": "unknown"
             }
@@ -1677,15 +1677,15 @@
         "equity_ticker": "ULVR",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "presentation",
-        "event_name": "Full year & fourth quarter results, 31st January 2019",
+        "event_type": "quarterly",
+        "event_name": "Q4 2019",
         "event_date": "2019/01/31",
         "data": [
             {
                 "file_name": "ir-q4-2018-full-announcement.pdf",
                 "file_type": "pdf",
                 "date": "2019/01/31",
-                "category": "financial report",
+                "category": "news",
                 "source_url": "https://www.unilever.com/files/origin/7346d3ccbda2a5aaf59aac742b27bf9d1e10bdbf.pdf/ir-q4-2018-full-announcement.pdf",
                 "wissen_url": "unknown"
             },
@@ -1693,7 +1693,7 @@
                 "file_name": "ir-Q4-2018-highlights.pdf",
                 "file_type": "pdf",
                 "date": "2019/01/31",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/1fdc2c14da09fac4a313b14f6a5f6cc1d139ffeb.pdf/ir-Q4-2018-highlights.pdf",
                 "wissen_url": "unknown"
             },
@@ -1701,7 +1701,7 @@
                 "file_name": "unilever-full-year-results-2018-presentation.pdf",
                 "file_type": "pdf",
                 "date": "2019/01/31",
-                "category": "financial report",
+                "category": "presentation",
                 "source_url": "https://www.unilever.com/files/origin/8c629f07ed53332ad96515e15e89102f05b0015e.pdf/unilever-full-year-results-2018-presentation.pdf",
                 "wissen_url": "unknown"
             },
@@ -1709,15 +1709,15 @@
                 "file_name": "unilever-application-of-IAS29.pdf",
                 "file_type": "pdf",
                 "date": "2019/01/31",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.unilever.com/files/origin/8991f29d216b09f2e5fd58e469c4fc3832c96ac1.pdf/unilever-application-of-IAS29.pdf",
                 "wissen_url": "unknown"
             },
             {
-                "file_name": "watch?v=PEYjA9oG-1Y",
+                "file_name": "watch",
                 "file_type": "html",
                 "date": "2019/01/31",
-                "category": "financial report",
+                "category": "other",
                 "source_url": "https://www.youtube.com/watch?v=PEYjA9oG-1Y",
                 "wissen_url": "unknown"
             }

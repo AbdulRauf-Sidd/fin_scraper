@@ -70,7 +70,7 @@ async def extract_files_from_page(page):
                     "date": event_date_str,  # ✅ Converted to string
                     "category": category,
                     "source_url": event_url,
-                    "wissen_url": "unknown"
+                    "wissen_url": "NULL"
                 }]
 
                 # Classify event frequency and type
