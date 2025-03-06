@@ -1,5 +1,11 @@
 {
     "files.watcherExclude": {
         "**/target": true
+    },
+    "files.exclude": {
+      "**/*.pyc": true
     }
 }
+
+  
+  

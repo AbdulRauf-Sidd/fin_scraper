@@ -2,47 +2,31 @@ import asyncio
 import json
 from playwright.async_api import async_playwright
 from urllib.parse import urljoin
+import os
+import sys
+
+# Import Utility Functions
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
+from scripts.UTILS import utils
 
 BASE_URL = "https://investor.workday.com/sec-filings?year={year}"
 START_YEAR = 2019
 END_YEAR = 2025
 
 # MIME Type Mapping for File Extensions
-MIME_TYPE_MAPPING = {
-    "application/pdf": ".pdf",
-    "application/vnd.ms-excel": ".xls",
-    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
-    "text/html": ".html",
-    "application/zip": ".zip",
-    "application/xml": ".xml",
-    "application/json": ".json",
-    "application/msword": ".doc",
-    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
-    "audio/mpeg": ".mp3",
-    "video/mp4": ".mp4",
-}
-
-async def get_mime_type(page, url):
-    """Fetch MIME type from headers."""
-    try:
-        response = await page.request.head(url)
-        content_type = response.headers.get("content-type", "").split(";")[0]  # Extract MIME type
-        return MIME_TYPE_MAPPING.get(content_type, content_type)  # Return mapped extension or raw MIME type
-    except Exception as e:
-        print(f"⚠️ Error fetching MIME type for {url}: {e}")
-        return "unknown"
 
 async def extract_document_links(year):
     """Extracts all filing events and document links for a given year."""
     filing_data = []
     
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
+        browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
-        
+
         url = BASE_URL.format(year=year)
         print(f"\n🔍 Visiting: {url}")
-        await page.goto(url, wait_until="load", timeout=60000)
+        await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        await utils.accept_cookies(page)  # Handle cookie consent popups
         await page.wait_for_selector("table tbody tr", timeout=10000)
 
         # Extract pagination links
@@ -61,7 +45,7 @@ async def extract_document_links(year):
 
         for page_url in pagination_urls:
             print(f"➡️ Visiting Page: {page_url}")
-            await page.goto(page_url, wait_until="load", timeout=60000)
+            await page.goto(page_url, wait_until="domcontentloaded", timeout=60000)
             await asyncio.sleep(3)
 
             rows = await page.query_selector_all("table tbody tr")
@@ -76,29 +60,46 @@ async def extract_document_links(year):
                     event_date = (await date_element.inner_text()).strip()
                     event_name = (await desc_element.inner_text()).strip()
 
+                    # ✅ Determine the frequency of the event
+                    freq = utils.classify_frequency(event_name, BASE_URL)
+
+                    # ✅ Determine event type based on frequency
+                    if freq == "periodic":
+                        event_type = utils.classify_periodic_type(event_name, BASE_URL)
+                        event_name = utils.format_quarter_string(event_date, event_name)
+                    else:
+                        event_type = utils.categorize_event(event_name)
+                    
                     data_files = []
                     for doc in doc_elements:
                         doc_url = await doc.get_attribute("href")
                         if doc_url:
                             full_url = urljoin(page_url, doc_url)
-                            mime_type = await get_mime_type(page, full_url)  # Detect document type
-                            file_name = full_url.split("/")[-1]
+
+                            # ✅ Fetch MIME type & map to file extension
+                            file_type = utils.get_file_type(full_url)
+
+                            # ✅ Extract file name
+                            file_name = await utils.extract_file_name(full_url)
+
+                            # ✅ Classify document category
+                            category = utils.classify_document(event_name, full_url)
 
                             data_files.append({
                                 "file_name": file_name,
-                                "file_type": mime_type,
+                                "file_type": file_type,
                                 "date": event_date,
-                                "category": "report",
+                                "category": category,
                                 "source_url": full_url,
-                                "wissen_url": ""
+                                "wissen_url": "NULL"
                             })
 
                     if data_files:
                         filing_data.append({
                             "equity_ticker": "WDAY",
                             "source_type": "company_information",
-                            "frequency": "non-periodic",
-                            "event_type": "company_filing",
+                            "frequency": freq,
+                            "event_type": event_type,
                             "event_name": event_name,
                             "event_date": event_date,
                             "data": data_files

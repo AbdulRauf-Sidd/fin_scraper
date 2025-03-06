@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 # Configurations
 SEC_FILINGS_URL = "https://stock.walmart.com/financial-information/vizio-historical-financials"
@@ -97,7 +97,7 @@ async def extract_files_from_page(page):
                         quarter_element = await quarter.query_selector(":scope .results-info h3")
                         quarter_name = await quarter_element.inner_text() if quarter_element else "Unknown Quarter"
 
-                        event_name = f"Vizio {quarter_name} {fiscal_year} Earnings"
+                        event_name = f"{quarter_name}"
 
                         # Extract all related PDFs (Press Releases, Earnings Presentations, etc.)
                         data_files = []
@@ -108,28 +108,51 @@ async def extract_files_from_page(page):
                             file_name_element = await pdf_link.query_selector(":scope .headline")
                             file_name = await file_name_element.inner_text() if file_name_element else "Unknown File"
 
+                            freq = utils.classify_frequency(event_name, file_url)
+                            if freq == "periodic":
+                                event_type = utils.classify_periodic_type(event_name, file_url)
+                            else:
+                                event_type = utils.categorize_event(event_name)
+
+
+                            category = utils.classify_document(event_name, file_url) 
+                            file_type = utils.get_file_type(file_url)
+
+                            file_name = utils.extract_file_name(file_url)
+
+
+                            category = utils.classify_document(event_name, file_url) 
+                            file_type = utils.get_file_type(file_url)
+
+                            file_name = utils.extract_file_name(file_url)
+
+
+                            category = utils.classify_document(event_name, file_url) 
+                            file_type = utils.get_file_type(file_url)
+
+                            file_name = await utils.extract_file_name(file_url)
                             if file_url:
                                 data_files.append({
                                     "file_name": file_name,
-                                    "file_type": "pdf",
-                                    "date": "null",  # No specific date per file
-                                    "category": "financial report",
+                                    "file_type": file_type,
+                                    "date": "NULL",
+                                    "category": category,
                                     "source_url": file_url.strip(),
                                     "wissen_url": "unknown"
                                 })
 
                         # Classify Event Type (Annual, Quarterly)
-                        freq = classify_frequency(event_name, "")
-                        event_type = classify_periodic_type(event_name, "")
+                        freq = utils.classify_frequency(event_name, "")
+                        event_type = utils.classify_periodic_type(event_name, "")
 
                         # Append structured event data
                         file_links_collected.append({
-                            "equity_ticker": "VZIO",  # Vizio ticker
+                            "equity_ticker": "WMT",  # Vizio ticker
                             "source_type": "company_information",
                             "frequency": freq,
                             "event_type": event_type,
                             "event_name": event_name,
-                            "event_date": "null",  # No specific date given
+                            "event_date": "NULL",  # No specific date given
                             "data": data_files
                         })
 
@@ -195,7 +218,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")

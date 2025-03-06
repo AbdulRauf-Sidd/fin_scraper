@@ -152,7 +152,7 @@ async def scrape_nvidia_sec_filings():
 
         print(f"🔍 Navigating to {NVIDIA_SEC_FILINGS_URL}")
         try:
-            await page.goto(NVIDIA_SEC_FILINGS_URL, wait_until="load", timeout=120000)
+            await page.goto(NVIDIA_SEC_FILINGS_URL, wait_until="domcontentloaded", timeout=120000)
 
             all_filings = []
             for year in YEARS_LIST:

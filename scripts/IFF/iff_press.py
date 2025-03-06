@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 # Configurations
 SEC_FILINGS_URL = "https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base"
@@ -151,7 +151,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")

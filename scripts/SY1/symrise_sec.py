@@ -149,7 +149,7 @@ async def scrape_symrise():
 
         try:
             print(f"🔍 Visiting: {BASE_URL}")
-            await page.goto(BASE_URL, wait_until="load", timeout=30000)  # Faster timeout
+            await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=30000)  # Faster timeout
             await asyncio.sleep(5)  # Ensure page content loads
 
             filings = await extract_data_from_page(page)

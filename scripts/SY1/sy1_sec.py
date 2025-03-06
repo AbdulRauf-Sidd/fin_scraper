@@ -7,7 +7,7 @@ import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "UTILS")))
 
-from utils import *
+from scripts.UTILS import utils
 
 # Configurations
 SEC_FILINGS_URL = "https://www.symrise.com/investors/financial-results/"
@@ -174,7 +174,7 @@ async def scrape_sec_filings():
             visited_urls.add(current_url)
             print(f"\n🔍 Visiting: {current_url}")
             try:
-                await page.goto(current_url, wait_until="load", timeout=120000)
+                await page.goto(current_url, wait_until="domcontentloaded", timeout=120000)
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight);")
             except Exception as e:
                 print(f"⚠️ Failed to load {current_url}: {e}")
