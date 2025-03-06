@@ -2,7 +2,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "RATINGS AND FRAMEWORKS",
         "event_date": "NULL",
@@ -20,7 +20,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "AWARDS AND CERTIFICATIONS",
         "event_date": "NULL",
@@ -38,7 +38,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "NON-FINANCIAL PERFORMANCE AND REPORTS",
         "event_date": "NULL",
@@ -56,7 +56,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "POLICIES AND PROCEDURES",
         "event_date": "NULL",
@@ -74,7 +74,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "OUR PURPOSE",
         "event_date": "NULL",
@@ -92,7 +92,7 @@
     {
         "equity_ticker": "CRDA",
         "source_type": "company_information",
-        "frequency": "periodic",
+        "frequency": "non-periodic",
         "event_type": "esg",
         "event_name": "ETHICS",
         "event_date": "NULL",

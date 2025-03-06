@@ -7,11 +7,16 @@ def classify_frequency(event_name, event_url):
     print("event name: ", event_name)
     print("URL: ", event_url)
     # Define a regex pattern that matches the keywords indicating a periodic event
-    periodic_keywords = r"\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear)\b"
+    periodic_keywords = r"\b(annual|quarterly|quarter|Q[1234]|full year|full_year|fullyear|hy|fy|3m|9m|half[-\s]?year|HY|6[-\s]?month|six[-\s]?month)\b"
+    
+    
+    
+    
     
     matches = re.findall(periodic_keywords, event_name, re.IGNORECASE)
     print(f"Matched keywords in '{event_name}': {matches}")
-
+    matches = re.findall(periodic_keywords, event_url, re.IGNORECASE)
+    print(f"Matched keywords in '{event_url}': {matches}")
 
     # Check if the keywords are in the event name or file name
     if re.search(periodic_keywords, event_name, re.IGNORECASE) or re.search(periodic_keywords, event_url, re.IGNORECASE):
@@ -100,7 +105,7 @@ def extract_quarter_from_name(event_name):
     quarter_patterns = [
          r'Q([1-4]).*(\d{4})',  # Loosely matches 'Q1 2020' and similar, with any amount of whitespace between
         r'(\d{4}).*Q([1-4])',  # Matches '2020 Q1' and similar, with any amount of whitespace between
-        r'(first|second|third|fourth)\s+quarter.*?(\d{4})',  # Matches 'first quarter ... 2020'
+        r'(first|second|third|fourth|1st|2nd|3rd|4th)\s+quarter.*?(\d{4})',  # Matches 'first quarter ... 2020'
         r'(\d{4}).*?(first|second|third|fourth)\s+quarter'  # Matches '2020 ... first quarter'
         r'(\bJan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?) \d{4}\b'  # Matches month names and abbreviations followed by a year
     ]
