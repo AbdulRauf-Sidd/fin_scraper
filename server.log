@@ -1,0 +1,43 @@
+INFO:     Started server process [1282099]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:50154 - "GET /html?url=https://www.nestle.com/investors/pressreleases?page=%2C%2C%2C%2C%2C0 HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Error clicking verification button: 页面被刷新，请操作前尝试等待页面刷新或加载完成。
+Attempt 2: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:40392 - "GET /html?url=https://www.nestle.com/investors/pressreleases?page=%2C%2C%2C%2C%2C1 HTTP/1.1" 200 OK
+Attempt 1: Verification page detected. Trying to bypass...
+Verification button found. Attempting to click.
+Bypass successful.
+INFO:     127.0.0.1:55804 - "GET /html?url=https://www.nestle.com/investors/results HTTP/1.1" 200 OK
+Exception in thread Thread-102 (_handle_immediate_event_loop):
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/anaconda3/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/home/abdulrauf/Projects/anaconda3/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_base/driver.py", line 164, in _handle_immediate_event_loop
+    function(**kwargs)
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_pages/chromium_frame.py", line 189, in _onInspectorDetached
+    self._reload()
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_pages/chromium_frame.py", line 116, in _reload
+    self._frame_ele = ChromiumElement(self._target_page, backend_id=self._backend_id)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_elements/chromium_element.py", line 74, in __init__
+    self._node_id = self._get_node_id(obj_id=self._obj_id)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_elements/chromium_element.py", line 822, in _get_node_id
+    return self.owner.run_cdp('DOM.requestNode', objectId=obj_id)['nodeId']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_pages/chromium_base.py", line 424, in run_cdp
+    return r if __ERROR__ not in r else raise_error(r, ignore)
+                                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Desktop/financial_scrapper/play_env/lib/python3.12/site-packages/DrissionPage/_functions/tools.py", line 241, in raise_error
+    raise r
+DrissionPage.errors.ContextLostError: 页面被刷新，请操作前尝试等待页面刷新或加载完成。

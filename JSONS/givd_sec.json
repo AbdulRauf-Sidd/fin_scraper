@@ -2,26 +2,8 @@
     {
         "equity_ticker": "GIVN",
         "source_type": "company_information",
-        "frequency": "non-periodic",
-        "event_type": "investor_factsheet",
-        "event_name": "Investor Factsheet",
-        "event_date": "UNKNOWN DATE",
-        "data": [
-            {
-                "file_name": "Investor Factsheet",
-                "file_type": "webpage",
-                "date": "UNKNOWN DATE",
-                "category": "factsheet",
-                "source_url": "https://tools.euroland.com/factsheet/ch-givn/factsheethtml.asp?lang=english",
-                "wissen_url": "unknown"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2024",
         "event_date": "null",
         "data": [
@@ -29,7 +11,7 @@
                 "file_name": "giv-2024-first-quarter-sales-en.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2024-first-quarter-sales-en.pdf",
                 "wissen_url": "null"
             }
@@ -39,133 +21,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-hyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2024-hyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-nine-month-sales-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2024-nine-month-sales-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-fyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2024-fyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-hy-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2024-hy-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-fyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2024-fyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-hy-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2024-hy-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-integrated-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2024-integrated-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2024",
         "event_date": "null",
         "data": [
@@ -173,7 +29,7 @@
                 "file_name": "giv-2024-gcfr.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2024-gcfr.pdf",
                 "wissen_url": "null"
             }
@@ -183,43 +39,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-hy-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2024-hy-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2024",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2024-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2024-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2023",
         "event_date": "null",
         "data": [
@@ -227,7 +47,7 @@
                 "file_name": "GIV_2023_FirstQuarterSales_EN.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/GIV_2023_FirstQuarterSales_EN.pdf",
                 "wissen_url": "null"
             }
@@ -237,133 +57,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2023_HY_Results_EN.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2023_HY_Results_EN.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2023_NineMonthSales_EN.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2023_NineMonthSales_EN.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2023-fyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2023-fyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2023_HY_Presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/GIV_2023_HY_Presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2023-fyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2023-fyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2023_HY_Report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2023_HY_Report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2023-integrated-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2023-integrated-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2023",
         "event_date": "null",
         "data": [
@@ -371,7 +65,7 @@
                 "file_name": "giv-2023-gcfr.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2023-gcfr.pdf",
                 "wissen_url": "null"
             }
@@ -381,43 +75,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2023_HY_FinancialSummary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/GIV_2023_HY_FinancialSummary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2023",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2023-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2023-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2023",
         "event_date": "null",
         "data": [
@@ -435,7 +93,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2022",
         "event_date": "null",
         "data": [
@@ -443,7 +101,7 @@
                 "file_name": "GIV_2022_FirstQuarterSales_EN.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/GIV_2022_FirstQuarterSales_EN.pdf",
                 "wissen_url": "null"
             }
@@ -453,169 +111,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_HY_Results_EN.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2022_HY_Results_EN.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_NineMonthSales_EN.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2022_NineMonthSales_EN.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2022-fyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/specials/file/giv-2022-fyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_HY_Presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/GIV_2022_HY_Presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2022-fyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://pcontentweb.givaudan.com/files/giv-2022-fyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_HalfYearResults.mp3",
-                "file_type": "webcast",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2022-07/GIV_2022_HalfYearResults.mp3",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_FYRWebcast.mp3",
-                "file_type": "webcast",
-                "date": "null",
-                "category": "webcast",
-                "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2023-01/GIV_2022_FYRWebcast.mp3",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_HY_Report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2022_HY_Report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2022-integrated-annual-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2022-integrated-annual-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2022",
         "event_date": "null",
         "data": [
@@ -623,7 +119,7 @@
                 "file_name": "giv-2022-gcfr.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2022-gcfr.pdf",
                 "wissen_url": "null"
             }
@@ -633,43 +129,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2022_HY_FinancialSummary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/GIV_2022_HY_FinancialSummary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2022",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2022-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2022-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2022",
         "event_date": "null",
         "data": [
@@ -687,7 +147,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2021",
         "event_date": "null",
         "data": [
@@ -695,7 +155,7 @@
                 "file_name": "giv-2021-first-quarter-sales-en.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2021-first-quarter-sales-en.pdf",
                 "wissen_url": "null"
             }
@@ -705,169 +165,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2021-hy-results-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2021-hy-results-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2021-nine-month-sales-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2021-nine-month-sales-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_FYR_EN.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2021_FYR_EN.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2021-hy-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2021-hy-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_FYRPresentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/GIV_2021_FYRPresentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_HalfYearResults.mp3",
-                "file_type": "webcast",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2021_HalfYearResults.mp3",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_FYRWebcast.mp3",
-                "file_type": "webcast",
-                "date": "null",
-                "category": "webcast",
-                "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2022-01/GIV_2021_FYRWebcast.mp3",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2021-hy-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2021-hy-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_IntegratedAnnualReport.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/GIV_2021_IntegratedAnnualReport.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2021",
         "event_date": "null",
         "data": [
@@ -875,7 +173,7 @@
                 "file_name": "GIV_2021_GCFR.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/GIV_2021_GCFR.pdf",
                 "wissen_url": "null"
             }
@@ -885,43 +183,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2021-hy-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2021-hy-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2021",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2021_FinancialSummary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/GIV_2021_FinancialSummary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2021",
         "event_date": "null",
         "data": [
@@ -939,7 +201,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2021",
         "event_date": "null",
         "data": [
@@ -957,15 +219,15 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2021",
         "event_date": "null",
         "data": [
             {
                 "file_name": "2021-full-year-results",
-                "file_type": "webcast",
+                "file_type": "html",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/investors/financial-results/results-centre/2021-full-year-results",
                 "wissen_url": "null"
             }
@@ -975,7 +237,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2020",
         "event_date": "null",
         "data": [
@@ -983,7 +245,7 @@
                 "file_name": "giv-2020-first-quarter-sales-en.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2020-first-quarter-sales-en.pdf",
                 "wissen_url": "null"
             }
@@ -993,151 +255,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-hy-results-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2020-hy-results-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-nine-month-sales-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2020-nine-month-sales-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-fyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2020-fyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-hy-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2020-hy-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-fyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/specials/file/giv-2020-fyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "GIV_2020_HalfYearResults.mp3",
-                "file_type": "webcast",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2020_HalfYearResults.mp3",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-hy-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2020-hy-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-integrated_annual_report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2020-integrated_annual_report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2020",
         "event_date": "null",
         "data": [
@@ -1145,7 +263,7 @@
                 "file_name": "giv-2020-gcfr.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2020-gcfr.pdf",
                 "wissen_url": "null"
             }
@@ -1155,43 +273,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-hy-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2020-hy-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2020",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2020-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2020-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2020",
         "event_date": "null",
         "data": [
@@ -1209,15 +291,15 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2020",
         "event_date": "null",
         "data": [
             {
                 "file_name": "2020-full-year-results",
-                "file_type": "webcast",
+                "file_type": "html",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/investors/financial-results/results-centre/2020-full-year-results",
                 "wissen_url": "null"
             }
@@ -1227,7 +309,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "3-month",
         "event_name": "3M 2019",
         "event_date": "null",
         "data": [
@@ -1235,7 +317,7 @@
                 "file_name": "giv-2019-first-quarter-sales-en.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2019-first-quarter-sales-en.pdf",
                 "wissen_url": "null"
             }
@@ -1245,105 +327,15 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-hyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2019-hyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "9M 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-nine-month-sales-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2019-nine-month-sales-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-fyr-en.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2019-fyr-en.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-hyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2019-hyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-fyr-presentation.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "presentation",
-                "source_url": "https://www.givaudan.com/files/giv-2019-fyr-presentation.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2019",
         "event_date": "null",
         "data": [
             {
                 "file_name": "GIV_2019_FullYearResults.mp3",
-                "file_type": "webcast",
+                "file_type": "html",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2019_FullYearResults.mp3",
                 "wissen_url": "null"
             }
@@ -1353,43 +345,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-half-year-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2019-half-year-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-integrated-annual-report.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "report",
-                "source_url": "https://www.givaudan.com/files/giv-2019-integrated-annual-report.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2019",
         "event_date": "null",
         "data": [
@@ -1397,7 +353,7 @@
                 "file_name": "giv-2019-gcfr.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2019-gcfr.pdf",
                 "wissen_url": "null"
             }
@@ -1407,43 +363,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "HY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-hyr-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2019-hyr-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
-        "event_name": "FY 2019",
-        "event_date": "null",
-        "data": [
-            {
-                "file_name": "giv-2019-financial-summary.pdf",
-                "file_type": "pdf",
-                "date": "null",
-                "category": "financial_summary",
-                "source_url": "https://www.givaudan.com/files/giv-2019-financial-summary.pdf",
-                "wissen_url": "null"
-            }
-        ]
-    },
-    {
-        "equity_ticker": "GIVN",
-        "source_type": "company_information",
-        "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2019",
         "event_date": "null",
         "data": [
@@ -1451,7 +371,7 @@
                 "file_name": "giv-2019-company-highlights-en.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2019-company-highlights-en.pdf",
                 "wissen_url": "null"
             }
@@ -1461,7 +381,7 @@
         "equity_ticker": "GIVN",
         "source_type": "company_information",
         "frequency": "periodic",
-        "event_type": "quarterly",
+        "event_type": "annual",
         "event_name": "FY 2019",
         "event_date": "null",
         "data": [
@@ -1469,7 +389,7 @@
                 "file_name": "giv-2019-sustainability-gri-index.pdf",
                 "file_type": "pdf",
                 "date": "null",
-                "category": "report",
+                "category": "other",
                 "source_url": "https://www.givaudan.com/files/giv-2019-sustainability-gri-index.pdf",
                 "wissen_url": "null"
             }

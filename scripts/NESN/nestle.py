@@ -125,6 +125,9 @@ def parse_press_releases(html_content):
             except ValueError:
                 formatted_date = ''
         
+
+        category = classify_document(event_name, href) 
+        file_type = get_file_type(href)
         # Construct event JSON
         event = {
             "equity_ticker": "NESN",  # Nestle's ticker symbol
@@ -136,9 +139,9 @@ def parse_press_releases(html_content):
             "data": [
                 {
                     "file_name": href,
-                    "file_type": "html",
+                    "file_type": file_type,
                     "date": formatted_date,
-                    "category": "report",
+                    "category": category,
                     "source_url": "https://www.nestle.com" + href,
                     "wissen_url": "https://www.nestle.com" + href
                 }
@@ -294,14 +297,18 @@ def extract_data_files(event_url):
             
             # Extract file details
             file_name = link.text.strip() or link.get('download') or file_url.split('/')[-1]
-            file_type = file_url.split('.')[-1].lower()
+            # file_type = file_url.split('.')[-1].lower()
+
+            category = classify_document(event_name, href) 
+            file_type = get_file_type(href)
             
             data_files.append({
                 "file_name": file_name,
                 "file_type": file_type,
+                "date": "NULL",
+                "category": category,
                 "source_url": file_url,
-                "wissen_url": 'null',
-                "category": "report"
+                "wissen_url": 'NULL'
             })
         
         return data_files
