@@ -87,9 +87,11 @@ class FlatListScraper:
                 print(f"🔍 Visiting: {self.base_url}")
                 await self.load_page(page, self.base_url)
 
+                # Extract data from the single page
                 events = await self.extract_data_from_page(page)
 
                 if events:
+                    # Process and save events
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
