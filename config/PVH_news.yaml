@@ -1,17 +1,17 @@
 PVH_news:
   ticker: PVH
   scraper: FlatListScraper
-  url: https://www.pvh.com/news
-  output: output/PVH_news.json
+  url: https://www.pvh.com/news?facets=content_type%3DEvents&nofilter=true
+  output: data/PVH_news.json
   selectors:
-    event_block: div.row.content__container
-    event_name: a
-    event_date: p.list__date
-    file_links: a
+    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
+    event_name: h3                              # Event name is in <h3> tag
+    event_date: p.list__date                    # Event date is in <p class="list__date">
+    file_links: p.list__description a           # The link inside <p class="list__description">
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
   defaults:
-    event_type: press_release
+    event_type: webcast
   cutoff:
     years_back: 5

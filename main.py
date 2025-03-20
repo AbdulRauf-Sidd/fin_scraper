@@ -1,28 +1,50 @@
+import asyncio
 import yaml
-from scrapers.flatlist_scraper import FlatListScraper
-from scrapers.detailpage_scraper import DetailPageScraper
-from scrapers.tablescraper import TableScraper
+import importlib
+import sys
+from pathlib import Path
 
-# Load config from YAML file
-def load_config(config_file):
-    with open(config_file, 'r') as f:
-        return yaml.safe_load(f)
+# Add 'scrapers' folder to sys.path so that the module can be found
+sys.path.append(str(Path(__file__).parent / 'scrapers'))
 
-def main():
-    equity_ticker = "PVH_news"  # Example ticker
-    config_file = f"config/{equity_ticker}.yaml"  # Load specific config file
-    config = load_config(config_file)
+def load_scraper(scraper_name):
+    """Dynamically loads the scraper class based on the scraper name in the config."""
+    module = importlib.import_module(scraper_name)  # Import the module using the scraper name
+    class_ = getattr(module, scraper_name)  # Get the class from the module
+    return class_
 
-    # Initialize scraper based on configuration
-    if config['scraper'] == 'FlatListScraper':
-        scraper = FlatListScraper(config, db_client, cloudflare_client)
-    elif config['scraper'] == 'DetailPageScraper':
-        scraper = DetailPageScraper(config, db_client, cloudflare_client)
-    elif config['scraper'] == 'TableScraper':
-        scraper = TableScraper(config, db_client, cloudflare_client)
+# Main function to scrape based on the config
+async def run_scraper():
+    # Load the config file
+    config_path = 'config/PVH_news.yaml'  # Path to the YAML config file
+    with open(config_path, 'r') as file:
+        config = yaml.safe_load(file)
 
-    # Assuming we have a page object
-    scraper.scrape(page)
+    # Read scraper settings
+    scraper_config = config['PVH_news']
+    ticker = scraper_config['ticker']
+    scraper_name = scraper_config['scraper']
+    url = scraper_config['url']
+    output_file = scraper_config['output']
+    selectors = scraper_config['selectors']
+    pagination = scraper_config['pagination']
+    defaults = scraper_config['defaults']
+    cutoff_years_back = scraper_config['cutoff']['years_back']
 
+    # Load the scraper dynamically
+    scraper_class = load_scraper(scraper_name)
+    scraper = scraper_class(
+        base_url=url,
+        output_file=output_file,
+        selectors=selectors,
+        pagination=pagination,
+        defaults=defaults,
+        cutoff_years_back=cutoff_years_back
+    )
+
+    # Run the scraper
+    await scraper.scrape()
+
+# Run the main function
 if __name__ == "__main__":
-    main()
+    asyncio.run(run_scraper())

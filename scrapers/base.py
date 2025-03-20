@@ -17,6 +17,11 @@ class AbstractScraper(ABC):
         self.db_client = db_client
         self.cloudflare_client = cloudflare_client
         self.data_collection = []
+        
+    @abstractmethod
+    def load_page(self, page, url: str):
+        """Load the page based on the given URL."""
+        pass
 
     @abstractmethod
     def download_pdf(self, url, save_to):
