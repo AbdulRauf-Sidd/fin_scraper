@@ -1,9 +1,7 @@
 __pycache__/
 *.log
 fin_scraper/*
-<<<<<<< Updated upstream
 venv/*
-=======
 fin_env/
 .env
->>>>>>> Stashed changes
+new_env/
