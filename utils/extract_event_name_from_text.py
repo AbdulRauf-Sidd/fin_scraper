@@ -37,7 +37,7 @@ def refine_event_name(raw_name):
     # Return a cleaned-up version of the event name
     return refined_name.strip()
 
-def extract_event_name(text):
+def extract_event_name_from_text(text):
     """
     Extract event names from the given HTML or plain text using NLP techniques (SpaCy NER).
     First, remove HTML tags using BeautifulSoup.
@@ -88,7 +88,7 @@ test_inputs = [
     '<p> The Goldman Sachs Global Retailing Conference event will be held on October 5, 2024. Join us! </p>'
 ]
 
-event_name = extract_event_name(test_inputs)
+event_name = extract_event_name_from_text(test_inputs)
 if event_name:
     print(f"Extracted Event Name: {event_name}")
 else:
