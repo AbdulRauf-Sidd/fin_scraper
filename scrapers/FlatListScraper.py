@@ -10,35 +10,29 @@ nlp = spacy.load("en_core_web_sm")
 
 def refine_event_name(raw_name):
     """
-    Refine the raw event name extracted by filtering out irrelevant words or fragments.
-    Uses SpaCy's part-of-speech tagging to remove non-noun tokens like verbs and adjectives.
+    Refine the raw event name by retaining key context (like quarter and event type).
     
     Arguments:
     raw_name -- the initially extracted raw event name string.
     
     Returns:
-    refined_name -- the filtered event name with only relevant entities.
+    refined_name -- the filtered event name with all key terms.
     """
     # Process the raw name again with SpaCy
     doc = nlp(raw_name)
 
-    # Define a list of irrelevant words or fragments to discard
-    discard_keywords = [
-        # "view",  
-        # "sep", "am", "pm", "edt", "pdt", 
-        # "date", "link", "forum", "details"
-    ]
-    
-    # Filter tokens: keep only proper nouns, event-related terms, and named entities
+    # Define a list of important keywords to keep for event name
+    important_keywords = ["conference call", "earnings", "webcast", "presentation"]
+
+    # Add important keywords to refined name if they're part of the original event name
     refined_tokens = [
         token.text for token in doc 
-        if (token.pos_ == 'PROPN' or token.pos_ == 'NOUN') and token.text.lower() not in discard_keywords
+        if (token.pos_ == 'PROPN' or token.pos_ == 'NOUN') or any(keyword in token.text.lower() for keyword in important_keywords)
     ]
 
-    # Reconstruct the refined event name from the remaining tokens
+    # Rebuild the event name while ensuring important terms remain
     refined_name = " ".join(refined_tokens)
 
-    # Return a cleaned-up version of the event name
     return refined_name.strip()
 
 def extract_event_name_from_text(text):
@@ -67,7 +61,7 @@ def extract_event_name_from_text(text):
     event_names = []
     for ent in doc.ents:
         # We are looking for named entities that might be event names, such as 'ORG', 'EVENT', 'WORK_OF_ART'
-        if ent.label_ in ['ORG', 'EVENT', 'WORK_OF_ART', 'CONFERENCE CALL']:  # These labels are more likely to be event-related
+        if ent.label_ in ['ORG', 'EVENT', 'WORK_OF_ART']:  # These labels are more likely to be event-related
             raw_event_name = ent.text.strip()
             refined_event_name = refine_event_name(raw_event_name)
             event_names.append(refined_event_name)
@@ -83,6 +77,8 @@ def extract_event_name_from_text(text):
     
     # If no event name found, return None
     return None
+
+
 
 class FlatListScraper:
     def __init__(self, base_url, output_file, selectors, pagination, defaults, cutoff_years_back):
