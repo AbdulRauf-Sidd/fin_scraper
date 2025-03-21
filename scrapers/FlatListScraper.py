@@ -110,9 +110,10 @@ class FlatListScraper:
             try:
                 # Get the inner HTML of the event block
                 event_html = await block.inner_html()
-                print('inner HTML: ', (event_html), '\n')
-                print('extarcted:', extract_event_name_from_text(event_html))
-                print('\n\n')
+                # print('inner HTML: ', (event_html), '\n')
+                # print('extarcted:', extract_event_name_from_text(event_html))
+                # print('\n\n')
+                print('EXTRACTED: ')
 
                 # Add a separator after each event block
                 events.append(event_html)
