@@ -5,9 +5,6 @@ PVH_news:
   output: data/PVH_news.json
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
-    event_name: h3                              # Event name is in <h3> tag
-    event_date: p.list__date                    # Event date is in <p class="list__date">
-    file_links: p.list__description a           # The link inside <p class="list__description">
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
@@ -23,8 +20,22 @@ PVH_reports:
   output: data/PVH_reports.json
   selectors:
     event_block: div.tile__text  # Selector for the event block containing the link
-    event_name: a.tile__category.tile--mainLink  # The <a> tag with event name
-    file_link: a.tile__category.tile--mainLink  # The same <a> tag containing the link
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+PVH_sustainable_finance:
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/investor-relations/sustainable-finance
+  output: data/PVH_sustainable_finance.json
+  selectors:
+    event_block: li
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)

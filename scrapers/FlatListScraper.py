@@ -1,5 +1,4 @@
-from utils.date_utils import parse_date, extract_file_name, get_file_type, ensure_absolute_url, accept_cookies, enable_stealth
-from datetime import datetime
+from utils.date_utils import accept_cookies, enable_stealth
 import json
 import asyncio
 from playwright.async_api import async_playwright
