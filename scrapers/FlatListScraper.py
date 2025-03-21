@@ -8,8 +8,6 @@ from bs4 import BeautifulSoup
 
 nlp = spacy.load("en_core_web_sm")
 
-nlp = spacy.load("en_core_web_sm")
-
 def refine_event_name(raw_name):
     """
     Refine the raw event name extracted by filtering out irrelevant words or fragments.
@@ -26,9 +24,9 @@ def refine_event_name(raw_name):
 
     # Define a list of irrelevant words or fragments to discard
     discard_keywords = [
-        "view", "webcast", "session", "presentation", "video", "online", "stream", 
-        "sep", "am", "pm", "edt", "pdt", "conference", "event", "schedule", "live", 
-        "broadcast", "watch", "date", "details", "link", "forum", "webinar", "details"
+        # "view",  
+        # "sep", "am", "pm", "edt", "pdt", 
+        # "date", "link", "forum", "details"
     ]
     
     # Filter tokens: keep only proper nouns, event-related terms, and named entities
@@ -69,7 +67,7 @@ def extract_event_name_from_text(text):
     event_names = []
     for ent in doc.ents:
         # We are looking for named entities that might be event names, such as 'ORG', 'EVENT', 'WORK_OF_ART'
-        if ent.label_ in ['ORG', 'EVENT', 'WORK_OF_ART']:  # These labels are more likely to be event-related
+        if ent.label_ in ['ORG', 'EVENT', 'WORK_OF_ART', 'CONFERENCE CALL']:  # These labels are more likely to be event-related
             raw_event_name = ent.text.strip()
             refined_event_name = refine_event_name(raw_event_name)
             event_names.append(refined_event_name)
@@ -117,7 +115,8 @@ class FlatListScraper:
             try:
                 # Get the inner HTML of the event block
                 event_html = await block.inner_html()
-                print(extract_event_name_from_text(event_html))
+                print('inner HTML: ', (event_html), '\n')
+                print('extarcted:', extract_event_name_from_text(event_html))
                 print('\n\n')
 
                 # Add a separator after each event block
