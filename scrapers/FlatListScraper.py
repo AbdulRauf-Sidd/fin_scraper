@@ -2,6 +2,86 @@ from utils.date_utils import accept_cookies, enable_stealth
 import json
 import asyncio
 from playwright.async_api import async_playwright
+import spacy
+from bs4 import BeautifulSoup
+
+nlp = spacy.load("en_core_web_sm")
+
+def refine_event_name(raw_name):
+    """
+    Refine the raw event name extracted by filtering out irrelevant words or fragments.
+    Uses SpaCy's part-of-speech tagging to remove non-noun tokens like verbs and adjectives.
+    
+    Arguments:
+    raw_name -- the initially extracted raw event name string.
+    
+    Returns:
+    refined_name -- the filtered event name with only relevant entities.
+    """
+    # Process the raw name again with SpaCy
+    doc = nlp(raw_name)
+
+    # Define a list of irrelevant words or fragments to discard
+    discard_keywords = [
+        # "view",  
+        # "sep", "am", "pm", "edt", "pdt", 
+        # "date", "link", "forum", "details"
+    ]
+    
+    # Filter tokens: keep only proper nouns, event-related terms, and named entities
+    refined_tokens = [
+        token.text for token in doc 
+        if (token.pos_ == 'PROPN' or token.pos_ == 'NOUN') and token.text.lower() not in discard_keywords
+    ]
+
+    # Reconstruct the refined event name from the remaining tokens
+    refined_name = " ".join(refined_tokens)
+
+    # Return a cleaned-up version of the event name
+    return refined_name.strip()
+
+def extract_event_name_from_text(text):
+    """
+    Extract event names from the given HTML or plain text using NLP techniques (SpaCy NER).
+    First, remove HTML tags using BeautifulSoup.
+
+    Arguments:
+    text -- the input string or list of strings that may contain event information.
+
+    Returns:
+    event_name -- extracted event name or None if not found.
+    """
+    # If the input is a list of strings, combine them
+    if isinstance(text, list):
+        text = " ".join(text)
+
+    # Clean the HTML tags from the input text (if any)
+    soup = BeautifulSoup(text, "html.parser")
+    cleaned_text = soup.get_text()
+
+    # Process the cleaned text with SpaCy NLP model
+    doc = nlp(cleaned_text)
+
+    # Extract potential event names (using named entities)
+    event_names = []
+    for ent in doc.ents:
+        # We are looking for named entities that might be event names, such as 'ORG', 'EVENT', 'WORK_OF_ART'
+        if ent.label_ in ['ORG', 'EVENT', 'WORK_OF_ART', 'CONFERENCE CALL']:  # These labels are more likely to be event-related
+            raw_event_name = ent.text.strip()
+            refined_event_name = refine_event_name(raw_event_name)
+            event_names.append(refined_event_name)
+
+    # If we have multiple event names, deduplicate and choose the most relevant one
+    if event_names:
+        # Remove duplicates by converting the list to a set, then back to a list
+        event_names = list(set(event_names))
+
+        # Choose the longest event name as the most likely candidate (more complete)
+        event_name = max(event_names, key=len)
+        return event_name.strip()
+    
+    # If no event name found, return None
+    return None
 
 class FlatListScraper:
     def __init__(self, base_url, output_file, selectors, pagination, defaults, cutoff_years_back):
@@ -34,6 +114,9 @@ class FlatListScraper:
             try:
                 # Get the inner HTML of the event block
                 event_html = await block.inner_html()
+                print('inner HTML: ', (event_html), '\n')
+                print('extarcted:', extract_event_name_from_text(event_html))
+                print('\n\n')
 
                 # Add a separator after each event block
                 events.append(event_html)

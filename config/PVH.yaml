@@ -13,33 +13,19 @@ PVH_news:
   cutoff:
     years_back: 5
 
-PVH_reports:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/investor-relations/reports
-  output: data/PVH_reports.json
-  selectors:
-    event_block: div.tile__text  # Selector for the event block containing the link
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-PVH_sustainable_finance:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/investor-relations/sustainable-finance
-  output: data/PVH_sustainable_finance.json
-  selectors:
-    event_block: li
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+# PVH_reports:
+#   ticker: PVH
+#   scraper: FlatListScraper
+#   url: https://www.pvh.com/investor-relations/reports
+#   output: data/PVH_reports.json
+#   selectors:
+#     event_block: div.tile__text  # Selector for the event block containing the link
+#     event_name: a.tile__category.tile--mainLink  # The <a> tag with event name
+#     file_link: a.tile__category.tile--mainLink  # The same <a> tag containing the link
+#   pagination:
+#     type: button
+#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5
