@@ -72,4 +72,21 @@ class PaginationHandler:
             except Exception as e:
                 print(f"⚠️ Error clicking pagination button: {e}")
                 break  # Stop pagination on error
-            
+    
+    async def find_and_navigate_next_page(self, page, base_url):
+        """Finds the next page URL and navigates to it."""
+        try:
+            await page.wait_for_selector("a", timeout=5000)
+            all_links = await page.query_selector_all("a")
+            for link in all_links:
+                text = await link.inner_text()
+                if "Next" in text or ">" in text:
+                    next_page_url = await link.get_attribute("href")
+                    if next_page_url:
+                        full_url = urljoin(base_url, next_page_url)
+                        print(f"🔄 Navigating to next page: {full_url}")
+                        await page.goto(full_url, wait_until="domcontentloaded")
+                        return True
+        except Exception as e:
+            print(f"⚠️ Error finding next page: {e}")
+        return False

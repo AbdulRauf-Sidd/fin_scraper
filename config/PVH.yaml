@@ -13,19 +13,77 @@ PVH_news:
   cutoff:
     years_back: 5
 
-# PVH_reports:
-#   ticker: PVH
-#   scraper: FlatListScraper
-#   url: https://www.pvh.com/investor-relations/reports
-#   output: data/PVH_reports.json
-#   selectors:
-#     event_block: div.tile__text  # Selector for the event block containing the link
-#     event_name: a.tile__category.tile--mainLink  # The <a> tag with event name
-#     file_link: a.tile__category.tile--mainLink  # The same <a> tag containing the link
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
+PVH_reports:
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/investor-relations/reports
+  output: data/PVH_reports.json
+  selectors:
+    event_block: div.col-md-6
+  pagination:
+    type: null
+    next_button: null
+  defaults:
+    source_type: company_information
+  cutoff:
+    years_back: 5
+
+PVH_resources:
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/responsibility/resources
+  output: data/PVH_resources.json
+  selectors:
+    event_block: .layout__wrap.story-well.ready, .container.layout
+  pagination:
+    type: null
+    next_button: null
+  defaults:
+    source_type: company_information
+  cutoff:
+    years_back: 5
+
+CORZ_financial-information:
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/financial-information/financial-results
+  output: data/CORZ_financial-information.json
+  selectors:
+    event_block: xpath=//div[@class=" row"]
+  pagination:
+    type: null
+    next_button: null
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+CORZ_presentations:
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/presentations
+  output: data/CORZ_presentations.json
+  selectors:
+    event_block: article.media
+  pagination:
+    type: next_page_url
+    next_button: page-link
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5 
+
+CORZ_press:         # Pagination not being handled correctly
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/press-releases
+  output: data/CORZ_press.json
+  selectors:
+    event_block: article.media
+  pagination:
+    type: next_page_url
+    next_button: page-link
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5 
