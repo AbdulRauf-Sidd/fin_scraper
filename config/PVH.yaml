@@ -1,7 +1,7 @@
 PVH_news:
   ticker: PVH
   scraper: FlatListScraper
-  url: https://www.pvh.com/news?facets=content_type%3DEvents&nofilter=true
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
