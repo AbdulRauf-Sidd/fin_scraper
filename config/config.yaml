@@ -1,0 +1,189 @@
+#NESN
+NESN_pressreleases:
+  ticker: NESN
+  scraper: null
+  url: https://www.nestle.com/investors/pressreleases
+  output: data/NESN_pressreleases.json
+  selectors:
+    event_block: table.table table-hover table-striped
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#CBP
+CBP_events:
+  ticker: CBP
+  scraper: null
+  url: https://investor.thecampbellscompany.com/events-presentations
+  output: data/CBP_events.json
+  selectors:
+    event_block: article.clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list nir-widget-article llf-border
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+CBP_news:
+  ticker: CBP
+  scraper: null
+  url: https://investor.thecampbellscompany.com/news/financial-news
+  output: data/CBP_news.json
+  selectors:
+    event_block: article.clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted nir-widget-article llf-p-0
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#CORZ
+CORZ_information:
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/financial-information/financial-results
+  output: data/CORZ_financial-information.json
+  selectors:
+    event_block: div.row
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+  
+
+CORZ_presentations:
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/presentations
+  output: data/CORZ_presentations.json
+  selectors:
+    event_block: article.media
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5 
+
+
+
+CORZ_press:
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/press-releases
+  output: data/CORZ_press.json
+  selectors:
+    event_block: article.media
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5 
+
+
+
+#CRDA
+CRDA_esg:
+  ticker: CRDA
+  scraper: null
+  url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
+  output: data/CRDA_esg.json
+  selectors:
+    event_block: div.card-body
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+CRDA_presentations:
+  ticker: CRDA
+  scraper: null
+  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+  output: data/CRDA_presentations.json
+  selectors:
+    event_block: table.c-responsive-table
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#DSFIR
+DSFIR_news:
+  ticker: DSFIR
+  scraper: null
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
+  output: data/DSFIR_news.json
+  selectors:
+    event_block: li.cmp-list__item common-list__item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+DSFIR_press:
+  ticker: DSFIR
+  scraper: null
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+  output: data/DSFIR_press.json
+  selectors:
+    event_block: div.aem-Grid aem-Grid--12 aem-Grid--default--12
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#GIVD
+GIVD_news:
+  ticker: GIVD
+  scraper: null
+  url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
+  output: data/GIVD_news.json
+  selectors:
+    event_block: div.views-row show
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+  
+

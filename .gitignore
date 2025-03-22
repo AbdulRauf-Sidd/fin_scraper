@@ -5,3 +5,4 @@ venv/*
 fin_env/
 .env
 new_env/
+.python-version
