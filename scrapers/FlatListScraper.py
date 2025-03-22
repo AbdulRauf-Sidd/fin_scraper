@@ -1,4 +1,4 @@
-from utils.date_utils import accept_cookies, enable_stealth
+from utils.utils import accept_cookies, enable_stealth
 import json
 import asyncio
 from playwright.async_api import async_playwright
