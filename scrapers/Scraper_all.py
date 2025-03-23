@@ -26,9 +26,13 @@ class Scraper:
         self.selector = self.config['selectors']['event_block']
         self.selector_all = self.config['selectors']['parent_event_block']
         self.periodic = self.config['periodic']
+        if self.periodic:
+            self.periodicity = "periodic_event"
+        else:
+            self.periodicity = "non_periodic_event" 
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
-        self.category = self.config['']
+        self.category = self.config['category']
         # print(self.selector_all)
         self.pagination = self.config.get('pagination', {})
 
@@ -45,28 +49,35 @@ class Scraper:
                 else:
                     event_name = event['event_name']
                     date = event['date']
-                    equity_ticker = self.ticker
-                    geography = self.geography
-                    periodicity = 'non_periodic_event'
                     # data = []
                     hrefs = event['files']
+                    data_list = []
+                    print(hrefs)
                     for href in hrefs:
+                        print(href, "\n\n")
                         url = join_url(self.base_url, href)
                         if url is not None:
-                            file_path, file_name, file_type = download_file(url)
+                            file_path, file_name, file_type = download_file(url, 'downloads/')
                             if file_path is not None:
-                                r2_url = upload_file_to_r2(file_path, f"{equity_ticker}/{date}/{file_name}/{file_name}")
+                                r2_url = upload_file_to_r2(file_path, f"{self.ticker}/{date}/{file_name}/{file_name}")
                                 if r2_url is not None:
-                                    categories = get_content_type_from_element(event_name, )
-                                    create_file_metadata(file_name, file_type, date, r2_url)
-
-
-                        
-
-                
-
-
-            return events
+                                    categories = get_content_type_from_element(event_name, self.category)
+                                    data = create_file_metadata(file_name, file_type, date, r2_url, categories)
+                                    data_list.append(data)
+                                    print('DATA APPENDED')
+                                else:
+                                    print('R2 URL IS NONE')
+                            else:
+                                print('FILE PATH IS NONE')
+                        else:
+                            print('URL IS NONE')
+                    if len(data_list) == 0:
+                        print('NO DATA OBJECTS FOR EVENT: ', event_name)
+                        continue
+                    event = create_event(event_name, self.ticker, self.geography, self.periodicity, data_list)
+                    event_list.append(event)
+                    print('EVENT: ', event, " ADDED")
+            
         else:
             print("⚠️ No blocks found")
             return None
