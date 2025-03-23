@@ -3,6 +3,8 @@ PVH_news:
   scraper: FlatListScraper
   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
+  base_address: https://www.pvh.com/
+  periodic: true
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
   pagination:
@@ -18,6 +20,7 @@ PVH_reports:
   scraper: FlatListScraper
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
+<<<<<<< Updated upstream
   selectors:
     event_block: div.col-md-6
   pagination:
@@ -87,3 +90,18 @@ CORZ_press:         # Pagination not being handled correctly
     event_type: webcast
   cutoff:
     years_back: 5 
+=======
+  base_address: https://www.pvh.com/
+  periodic: false
+  selectors:
+    event_block: div.tile__text  # Selector for the event block containing the link
+    event_name: a.tile__category.tile--mainLink  # The <a> tag with event name
+    file_link: a.tile__category.tile--mainLink  # The same <a> tag containing the link
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+>>>>>>> Stashed changes

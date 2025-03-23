@@ -2,12 +2,12 @@ import os
 from mistralai import Mistral
 
 
-def llm(html):
+async def llm(html):
 
     api_key = os.getenv('API_KEY')
     model = "mistral-large-latest"
 
-    client = Mistral(api_key=api_key)
+    client = Mistral(api_key='eMbFOheAKGHjaEE7thfEr9nkGFWvlbwi')
 
     chat_response = client.chat.complete(
         model= model,

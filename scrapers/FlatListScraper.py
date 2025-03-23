@@ -4,6 +4,7 @@ import asyncio
 from playwright.async_api import async_playwright
 import spacy
 from bs4 import BeautifulSoup
+from llm import llm
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -111,9 +112,10 @@ class FlatListScraper:
                 # Get the inner HTML of the event block
                 event_html = await block.inner_html()
                 # print('inner HTML: ', (event_html), '\n')
-                # print('extarcted:', extract_event_name_from_text(event_html))
+                print('extarcted:', extract_event_name_from_text(event_html))
                 # print('\n\n')
-                print('EXTRACTED: ')
+                jso = await llm(event_html)
+                print('EXTRACTED: ', jso)
 
                 # Add a separator after each event block
                 events.append(event_html)
