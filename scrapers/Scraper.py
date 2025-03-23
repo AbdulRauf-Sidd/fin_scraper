@@ -16,6 +16,7 @@ class Scraper:
             self.config = next(iter(config.values()))
 
         self.base_url = self.config['url']
+        self.base_address = self.config['base_address']
         self.output_file = self.config['output']
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
@@ -129,7 +130,9 @@ class Scraper:
                         output_json_file=self.output_json,
                         equity_ticker=self.ticker,
                         geography=self.geography,
-                        periodicity=self.periodicity)
+                        periodicity=self.periodicity,
+                        base_url = self.base_address
+                        )
                 else:
                     print("\n❌ No events found.")
 

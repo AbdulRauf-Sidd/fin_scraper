@@ -17,7 +17,7 @@ def construct_event_json(
     equity_ticker: str,
     geography: str,
     periodicity: str,
-    base_url: str = "https://www.pvh.com/",
+    base_url: str
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -129,7 +129,8 @@ async def output_event_JSON_to_file(
     output_json_file: str,
     equity_ticker: str,
     geography: str,
-    periodicity: str
+    periodicity: str,
+    base_url: str
 ) -> None:
     """
     1) Reads a JSON file containing an array of HTML snippets
@@ -154,7 +155,8 @@ async def output_event_JSON_to_file(
             html_element=snippet,
             equity_ticker=equity_ticker,
             geography=geography,
-            periodicity=periodicity
+            periodicity=periodicity,
+            base_url=base_url
         )
 
         if result is None:
@@ -169,7 +171,7 @@ async def output_event_JSON_to_file(
 
     logger.info(f"Done! Wrote {len(final_results)} items to {output_json_file}")
 
-#
+
 # Example usage/call, in the same file
 # #
 # if __name__ == "__main__":

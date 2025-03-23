@@ -68,6 +68,7 @@ CORZ_financial-information:
   url: https://investors.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
   output_json: JSONS/CORZ_financial-information.json
+  base_address: https://investors.corescientific.com/
   periodic: false
   geography: "US"
   selectors:
