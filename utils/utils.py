@@ -31,7 +31,7 @@ def download_file(url, download_folder):
     Returns:
         file_path (str): The full path of the downloaded file.
         filename (str): The name of the file.
-        file_type (str): The MIME type of the file.
+        file_type (str): The file extension (e.g., "pdf", "docx").
     """
     filename = os.path.basename(url)
     file_path = os.path.join(download_folder, filename)
@@ -48,8 +48,14 @@ def download_file(url, download_folder):
 
         # Get file type from response headers or infer from filename
         file_type = response.headers.get('Content-Type')
-        if not file_type:
-            file_type, _ = mimetypes.guess_type(file_path)
+        if file_type:
+            file_extension = mimetypes.guess_extension(file_type)
+            if file_extension:
+                file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
+            else:
+                file_type = None
+        else:
+            file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
 
         return file_path, filename, file_type
     else:
