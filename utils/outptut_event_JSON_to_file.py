@@ -27,7 +27,7 @@ def construct_event_json(
         "periodicity": {periodicity},
         "data": [
             {
-                "file_name": "Moiz",     # temporarily not None, so skip logic won't fire
+                "file_name": null,     # temporarily not None, so skip logic won't fire
                 "file_type": null,
                 "published_date": "YYYY-MM-DD",
                 "r2_path": null,
