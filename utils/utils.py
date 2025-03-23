@@ -32,7 +32,7 @@ def download_file(url, download_folder):
     Returns:
         file_path (str): The full path of the downloaded file.
         filename (str): The name of the file.
-        file_type (str): The MIME type of the file.
+        file_type (str): The file extension (e.g., "pdf", "docx").
     """
     filename = os.path.basename(url)
     file_path = os.path.join(download_folder, filename)
@@ -50,20 +50,19 @@ def download_file(url, download_folder):
                     f.write(response.content)
                 print(f"Downloaded: {file_path}")
 
-                # Get file type from response headers or infer from filename
-                file_type = response.headers.get('Content-Type')
-                if not file_type:
-                    file_type, _ = mimetypes.guess_type(file_path)
-
-                return file_path, filename, file_type
-            else:
-                print(f"Failed to download: {url} with status code {response.status_code}")
-                attempts += 1
-                if attempts < 3:
-                    print("Retrying in 5 seconds...")
-                    time.sleep(5)
+               
+        # Get file type from response headers or infer from filename
+            file_type = response.headers.get('Content-Type')
+            if file_type:
+                file_extension = mimetypes.guess_extension(file_type)
+                if file_extension:
+                    file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
                 else:
-                    print("Maximum retry attempts reached, failed to download.")
+                    file_type = None
+            else:
+                file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
+                return file_path, filename, file_type
+            
         except Exception as e:
             attempts += 1
             print(f"Attempt {attempts}: Failed to download file. Error: {str(e)}")

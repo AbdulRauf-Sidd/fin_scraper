@@ -2,8 +2,10 @@ import logging
 from get_content_type_from_element import get_content_type_from_element
 from get_date_from_element import get_date_from_element
 from get_event_name_from_element import get_event_name_from_element
+from get_url_from_element import get_urls_from_element
 from typing import Optional, List, Dict
 import json
+from utils import download_file
 logger = logging.getLogger(__name__)
 
 # Hypothetical imports of your extraction functions (adjust as needed)
@@ -14,6 +16,7 @@ def construct_event_json(
     equity_ticker: str,
     geography: str,
     periodicity: str,
+    base_url: str = "https://www.pvh.com/",
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -27,7 +30,7 @@ def construct_event_json(
         "periodicity": {periodicity},
         "data": [
             {
-                "file_name": "Moiz",     # temporarily not None, so skip logic won't fire
+                "file_name": null,     # temporarily not None, so skip logic won't fire
                 "file_type": null,
                 "published_date": "YYYY-MM-DD",
                 "r2_path": null,
@@ -50,6 +53,7 @@ def construct_event_json(
     # ~~~~~~~~~~~~~~~~~~~~~~
 
     event_name = get_event_name_from_element(html_element)
+    print(html_element)
     logger.debug(f"Extracted event_name={event_name}")
 
     published_date = get_date_from_element(html_element)
@@ -59,7 +63,7 @@ def construct_event_json(
     logger.debug(f"Extracted content_type={content_type}")
 
     # If event_name is missing or empty, skip entirely
-    if not event_name:
+    if (not event_name) or (event_name in ("None", "null")):
         logger.debug("No event_name found. Skipping JSON construction -> return None.")
         return None
 
@@ -72,25 +76,27 @@ def construct_event_json(
     # We'll build one data dict:
     data_objects = []
 
-    # Let’s define file_name = "Moiz" so that it's never None
-    file_name = "Moiz"   # placeholder
-    file_type = None
-    r2_path = None
+    file_url = get_urls_from_element(html_element, base_url)
 
-    # If file_name is None => skip. But we just forced it to "Moiz."
-    if file_name:
-        # Build the data object
-        single_data = {
-            "file_name": file_name,
-            "file_type": file_type,
-            "published_date": published_date if published_date else "",  # or "Null"
-            "r2_path": r2_path,
-            "content_type": content_type if content_type else []
-        }
-        data_objects.append(single_data)
-        logger.debug(f"Constructed data object: {single_data}")
-    else:
-        logger.debug("file_name is None -> skip adding data object")
+    for url in file_url: 
+        # Let’s define file_name = "Moiz" so that it's never None
+        file_path, file_name, file_type = download_file(url, "downloads/")
+        # If file_name is None => skip. But we just forced it to "Moiz."
+        if file_name not in (None, "Null", "null", "None" , "none" ):
+            # Build the data object
+            r2_path = file_path
+            single_data = {
+                "file_name": file_name,
+                "file_type": file_type,
+                "published_date": published_date if published_date else "",  # or "Null"
+                "r2_path": r2_path,
+                "url": url,
+                "content_type": content_type if content_type else []
+            }
+            data_objects.append(single_data)
+            logger.debug(f"Constructed data object: {single_data}")
+        else:
+            logger.debug("file_name is None -> skip adding data object")
 
     # If after this logic we have no data objects, skip returning JSON
     if len(data_objects) == 0:
@@ -167,7 +173,7 @@ def output_event_JSON_to_file(
 #
 if __name__ == "__main__":
     # Hard-coded example usage
-    input_file = "data/PVH_resources.json"    # This is the JSON file containing the array of HTML strings
+    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
     output_file = "output_results.json"   # We'll write the results here
 
     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file

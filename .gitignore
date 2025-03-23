@@ -5,3 +5,5 @@ fin_env/
 .env
 new_env/
 .python-version
+downloads/*
+content_type_extraction.log
