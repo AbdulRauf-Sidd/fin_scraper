@@ -2,8 +2,10 @@ import logging
 from get_content_type_from_element import get_content_type_from_element
 from get_date_from_element import get_date_from_element
 from get_event_name_from_element import get_event_name_from_element
+from get_url_from_element import get_urls_from_element
 from typing import Optional, List, Dict
 import json
+from utils import download_file
 logger = logging.getLogger(__name__)
 
 # Hypothetical imports of your extraction functions (adjust as needed)
@@ -14,6 +16,7 @@ def construct_event_json(
     equity_ticker: str,
     geography: str,
     periodicity: str,
+    base_url: str = "https://www.pvh.com/",
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -76,6 +79,7 @@ def construct_event_json(
     file_name = "Moiz"   # placeholder
     file_type = None
     r2_path = None
+    file_url = get_urls_from_element(html_element, base_url)
 
     # If file_name is None => skip. But we just forced it to "Moiz."
     if file_name:
@@ -85,6 +89,7 @@ def construct_event_json(
             "file_type": file_type,
             "published_date": published_date if published_date else "",  # or "Null"
             "r2_path": r2_path,
+            "url": file_url,
             "content_type": content_type if content_type else []
         }
         data_objects.append(single_data)
