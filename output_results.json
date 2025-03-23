@@ -1,259 +1,462 @@
 [
   {
-    "event_name": "Null",
+    "event_name": "FY 2024 Fiscal Year Ended Dec 31, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-K HTML PDF XBRL Zip",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
     "data": [
       {
-        "file_name": "Moiz",
+        "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
         "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Climate Human Rights Inclusion & Diversity Resources All of our most up-to-date resources, including policies and guidelines, positions, progress, and data",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/responsibility",
-          "https://www.pvh.com/responsibility/climate",
-          "https://www.pvh.com/responsibility/human-rights",
-          "https://www.pvh.com/responsibility/inclusion-diversity"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Targets",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Forward-Fashion-Targets.pdf"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Targets",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Forward-Fashion-Targets.pdf"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-A-Shared-Commitment.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/CR-Governance-and-Stakeholder-Engagement.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-of-Corporate-Responsibility.pdf"
-        ],
+        "published_date": "2024-12-31",
+        "r2_path": "downloads/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/109/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
         "content_type": [
-          "news"
+          "webcast",
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-31",
+        "r2_path": "downloads/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
+        "content_type": [
+          "webcast",
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=ymDjLEm1",
+        "file_type": null,
+        "published_date": "2024-12-31",
+        "r2_path": "downloads/webcast.html?webcastid=ymDjLEm1",
+        "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=ymDjLEm1",
+        "content_type": [
+          "webcast",
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-31",
+        "r2_path": "downloads/CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9334/presentation/CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "content_type": [
+          "webcast",
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
         ]
       }
     ]
   },
   {
-    "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
+    "event_name": "Q3 2024 Quarter Ended Sep 30, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
     "data": [
       {
-        "file_name": "Moiz",
+        "file_name": "core-scientific-announces-fiscal-third-quarter-2024-results",
         "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-A-Shared-Commitment.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/CR-Governance-and-Stakeholder-Engagement.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-of-Corporate-Responsibility.pdf"
-        ],
+        "published_date": "2024-09-30",
+        "r2_path": "downloads/core-scientific-announces-fiscal-third-quarter-2024-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/98/core-scientific-announces-fiscal-third-quarter-2024-results",
         "content_type": [
-          "news"
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09-30",
+        "r2_path": "downloads/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=HW5MvP6u",
+        "file_type": null,
+        "published_date": "2024-09-30",
+        "r2_path": "downloads/webcast.html?webcastid=HW5MvP6u",
+        "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=HW5MvP6u",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09-30",
+        "r2_path": "downloads/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9319/presentation/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
         ]
       }
     ]
   },
   {
-    "event_name": "We address environmental and climate change impacts across our owned and operated facilities, products and packaging, and supply chain",
+    "event_name": "Q2 2024 Quarter Ended Jun 30, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
     "data": [
       {
-        "file_name": "Moiz",
+        "file_name": "core-scientific-announces-fiscal-second-quarter-2024-results",
         "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Supply-Guidelines.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Environment-Policy.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/Approach-to-CR-and-Human-Rights.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Restricted-Substance-List.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Conflict-Minerals-Policy.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Animal-Welfare-Policy-Statement.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Modern-Slavery-Statement.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Forest-Protection-Policy.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/CR-Guidelines-for-a-Healthy-Work-Environment.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PFAS-Policy.pdf"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "We are building stable, long-term relationships, increasing accountability and efficiency and allowing us to be transparent about where we source from",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Suppliers-Disclosure.xlsx",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Higg-Brand-and-Retail-Module-Scores.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CDP-Disclosure---Climate.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CDP-Disclosure---Water-Security.pdf"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. is committed to our Forward Fashion strategy that supports sustainability and human rights around the world",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-COVID-19-Supply-Chain.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-Human-Rights.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Statement-on-Angora.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-Living-Wage-Strategy.pdf"
-        ],
-        "content_type": []
-      }
-    ]
-  },
-  {
-    "event_name": "Read our 2022 Corporate Responsibility Report",
-    "equity_ticker": "COOL",
-    "geography": "US",
-    "periodicity": "periodic_event",
-    "data": [
-      {
-        "file_name": "Moiz",
-        "file_type": null,
-        "published_date": "2022",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2022.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2021.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2020.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2019.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2018.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2017.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2016.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2015.pdf",
-          "https://www.pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2014.pdf"
-        ],
+        "published_date": "2024-06-30",
+        "r2_path": "downloads/core-scientific-announces-fiscal-second-quarter-2024-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/85/core-scientific-announces-fiscal-second-quarter-2024-results",
         "content_type": [
-          "news",
-          "financial_filing"
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-30",
+        "r2_path": "downloads/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=EJ4HZWZo",
+        "file_type": null,
+        "published_date": "2024-06-30",
+        "r2_path": "downloads/webcast.html?webcastid=EJ4HZWZo",
+        "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=EJ4HZWZo",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-30",
+        "r2_path": "downloads/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9301/presentation/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
         ]
       }
     ]
   },
   {
-    "event_name": "More We Are PVH Brands News",
+    "event_name": "Q1 2024 Quarter Ended Mar 31, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
     "data": [
       {
-        "file_name": "Moiz",
+        "file_name": "core-scientific-announces-fiscal-first-quarter-2024-results",
         "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/company/we-are-pvh",
-          "https://www.pvh.com/brands",
-          "https://www.pvh.com/news"
-        ],
+        "published_date": "2024-03-31",
+        "r2_path": "downloads/core-scientific-announces-fiscal-first-quarter-2024-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/72/core-scientific-announces-fiscal-first-quarter-2024-results",
         "content_type": [
-          "news"
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-31",
+        "r2_path": "downloads/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "954677374",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "r2_path": "downloads/954677374",
+        "url": "https://events.q4inc.com/attendee/954677374",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "Q1FY2024-Earnings-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-31",
+        "r2_path": "downloads/Q1FY2024-Earnings-Presentation.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9233/presentation/Q1FY2024-Earnings-Presentation.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
         ]
       }
     ]
   },
   {
-    "event_name": "We Are PVH Brands News",
+    "event_name": "FY 2023 Fiscal Year Ended Dec 31, 2023 Earnings Release HTML PDF Presentation PDF 10-K HTML PDF XBRL Zip",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
     "data": [
       {
-        "file_name": "Moiz",
+        "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
         "file_type": null,
-        "published_date": "Null",
-        "r2_path": null,
-        "url": [
-          "https://www.pvh.com/company/we-are-pvh",
-          "https://www.pvh.com/brands",
-          "https://www.pvh.com/news"
-        ],
+        "published_date": "2023-12-31",
+        "r2_path": "downloads/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/8/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
         "content_type": [
-          "news"
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-31",
+        "r2_path": "downloads/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
+        "content_type": [
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-31",
+        "r2_path": "downloads/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9130/presentation/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "content_type": [
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2022 Quarter Ended Jun 30, 2022 Earnings Release HTML PDF Presentation PDF 10-Q HTML PDF XBRL Zip",
+    "equity_ticker": "COOL",
+    "geography": "US",
+    "periodicity": "periodic_event",
+    "data": [
+      {
+        "file_name": "correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
+        "file_type": null,
+        "published_date": "2022-06-30",
+        "r2_path": "downloads/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/18/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-30",
+        "r2_path": "downloads/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-30",
+        "r2_path": "downloads/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9124/presentation/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2022 Quarter Ended Mar 31",
+    "equity_ticker": "COOL",
+    "geography": "US",
+    "periodicity": "periodic_event",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-first-quarter-2022-results",
+        "file_type": null,
+        "published_date": "2022-03-31",
+        "r2_path": "downloads/core-scientific-announces-first-quarter-2022-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/27/core-scientific-announces-first-quarter-2022-results",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-31",
+        "r2_path": "downloads/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-31",
+        "r2_path": "downloads/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9123/presentation/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
+        "content_type": [
+          "three-month-results",
+          "financial_filing",
+          "presentation",
+          "sec_filing",
+          "10-Q"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021 Fiscal Year Ended Dec 31, 2021 Earnings Release HTML PDF Presentation PDF 10-K HTML PDF XBRL Zip",
+    "equity_ticker": "COOL",
+    "geography": "US",
+    "periodicity": "periodic_event",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-full-fiscal-year-2021-results",
+        "file_type": null,
+        "published_date": "2021-12-31",
+        "r2_path": "downloads/core-scientific-announces-full-fiscal-year-2021-results",
+        "url": "https://investors.corescientific.com/news-events/press-releases/detail/32/core-scientific-announces-full-fiscal-year-2021-results",
+        "content_type": [
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-12-31",
+        "r2_path": "downloads/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
+        "content_type": [
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-12-31",
+        "r2_path": "downloads/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
+        "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9122/presentation/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
+        "content_type": [
+          "financial_filing",
+          "10-K",
+          "sec_filing",
+          "presentation"
         ]
       }
     ]

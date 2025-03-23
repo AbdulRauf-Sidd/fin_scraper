@@ -1,0 +1,945 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html browser="unknown" lang="en" dir="ltr">
+	<head>
+		
+
+<!-- Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<link rel="shortcut icon" href="https://78449.choruscall.com/dataconf/dmf/1.5.3/images/icons/Dynamic_Media_Frame.ico" />
+
+<title tl="tit">Registration | Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call</title>
+
+<!-- SEO -->
+<meta name="author" content="Chorus Call" />
+<meta name="keywords" content="Webcast, Webinar, Presentation, Event" />
+<meta name="robots" content="noindex, nofollow" />
+
+<!-- Social Media -->
+<meta property="og:title" content="Registration | Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call" />
+<meta property="og:description" content="Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call" />
+
+
+	
+		<meta property="og:image" content="https://78449.choruscall.com/dataconf/productusers/core/staticImgs/02 - core_static[16x9].png" />
+	
+	
+
+
+
+	
+		<meta property="og:url" content="https://event.choruscall.com/mediaframe/webcast.html?webcastid=HW5MvP6u" />
+	
+	
+	
+
+
+<meta name="twitter:card" content="Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call" />
+
+<!-- CSS -->
+
+	
+		<link rel="stylesheet" type="text/css" href="/mediaframe/css/frame/font-awesome-5.8.2/css/all.min.css" />
+	
+	
+
+
+
+<!-- JS -->
+<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/ua-parser-0.7.31.min.js"></script>
+<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/js.cookie-2.2.0.min.js"></script>
+
+<!-- Bootstrap -->
+
+	<link rel="stylesheet" type="text/css" href="https://78449.choruscall.com/dataconf/dmf/1.5.3/css/frame/bootstrap-3.3.7.min.css" />
+	<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/bootstrap-3.3.7.min.js"></script>
+
+
+
+
+
+
+<!-- Application Styles -->
+<link rel="stylesheet" type="text/css" href="https://78449.choruscall.com/dataconf/dmf/1.5.3/css/frame/baseStyles.css?cb=1.5.3" />
+<link rel="stylesheet" type="text/css" href="https://78449.choruscall.com/dataconf/dmf/1.5.3/css/frame/commonStyles.css?cb=1.5.3" />
+
+
+
+<!-- Application Scripts -->
+
+
+<script type="text/javascript">
+	// Global variables
+	var	debugInfo = {},
+		defaultLocale = "en-US",
+		defaultLanguageObject = {code3: "ENG", code2: "EN", direction: "LTR", locale: defaultLocale, name: "English"},
+		defaultTimezone = 'America/New_York',
+		enhancedLogging = false,
+		websocketBypass = false;
+
+	// Window
+	var wLoc = window.location,	wHost = wLoc.host, wHref = wLoc.href, wOrigin = wLoc.origin, wProtocol = wLoc.protocol.slice(0, -1),
+		isLocalHost = wHost.indexOf('localhost') > -1;
+
+	// Functions
+	function compareByKey(key, order) { // Useful for sorting arrays containing objects
+		return function(a, b) {
+			if (!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {return 0;}
+
+			var keyA = typeof a[key] == 'string' ? a[key].toLowerCase() : a[key],
+				keyB = typeof b[key] == 'string' ? b[key].toLowerCase() : b[key];
+
+			var comparison = 0;
+
+			if (keyA > keyB) {
+				comparison = 1;
+			} else if (keyA < keyB) {
+				comparison = -1;
+			}
+
+			return order == 'desc' ? comparison * -1 : comparison;
+		};
+	}
+
+	function getLocale(locale) {
+		/* Notes:
+			- The browser's locale is passed to this function.
+			- Since the browser's locale might not match a more standard locale, we match the first part of the reported locale to one of the locales in the allLanguages array.
+		*/
+		if (locale.length == 5) {
+			var localeToReturn = locale.replace('_', '-').split('-')[0].toLowerCase();
+
+			for (var i = 0, l = webcastConfig.allLanguages.length; i < l; i++) {
+				var langaugeObject = webcastConfig.allLanguages[i];
+
+				if (langaugeObject.locale.indexOf(localeToReturn) == 0) {
+					localeToReturn = langaugeObject.locale;
+					break;
+				}
+			}
+
+			return localeToReturn.length == 5 ? localeToReturn : defaultLocale;
+		} else {
+			return defaultLocale;
+		}
+	}
+
+	function isNumber(n) {
+		return !isNaN(parseFloat(n)) && isFinite(n);
+	}
+
+	// Product domain
+	var productDomain = '//',
+		productDomainCDN = "//78449.choruscall.com",
+		productDomainIsServices,
+	    webcastDomain,
+	    secondaryDomain;
+
+	switch(wHost) {
+        case 'event.choruscall.com': case 'services.choruscall.com': case 'services.themediaframe.com': case 'themediaframe.com': case 'media.c-conf.com': case 'media.choruscall.eu': case 'media.choruscall.com.au': case 'iframe.choruscall.com' :
+			productDomain += wHost;
+			productDomainIsServices = true;
+			webcastDomain = 'webcast.choruscall.com';
+			if(wHost.indexOf("eu") > -1){
+			   secondaryDomain = 'https://media2.choruscall.eu';
+			}else if(wHost.indexOf("au") > -1){
+			   secondaryDomain = '';
+			}else{
+			   secondaryDomain = 'https://event2.choruscall.com';
+			}
+
+		break;
+		case 'qa.choruscall.com': case 'qa2.choruscall.com': case 'test-tomcat-2:8080': case 'test-tomcat-2-clone:8080': case 'localhost:8080':
+			productDomain += 'qa.choruscall.com';
+			productDomainIsServices = false;
+	        webcastDomain = 'cmt2-test.c-meeting.com';
+	        secondaryDomain = 'https://qa3.choruscall.com';
+		break;
+		default:
+		    if (wHost.indexOf("test") > -1 || wHost.indexOf("qa2") > -1) {
+                productDomain += 'qa.choruscall.com';
+                productDomainIsServices = false;
+                webcastDomain = 'cmt2-test.c-meeting.com';
+                secondaryDomain = 'https://qa3.choruscall.com';
+		    } else {
+		    	productDomain += 'services.choruscall.com';
+                productDomainIsServices = true;
+                webcastDomain = 'webcast.choruscall.com';
+                secondaryDomain = 'https://event2.choruscall.com';
+            }
+
+	}
+
+
+
+
+	debugInfo.productDomain = productDomain;
+	debugInfo.productDomainIsServices = productDomainIsServices;
+
+	// Webcast Config
+	var webcastConfig = {
+		allLanguages: [{code3:'ENG',code2:'EN',direction:'LTR',locale:'en-US',name:'English'},{code3:'FRE',code2:'FR',direction:'LTR',locale:'fr-FR',name:'Français'},{code3:'GER',code2:'DE',direction:'LTR',locale:'de-DE',name:'Deutsch'},{code3:'SPA',code2:'ES',direction:'LTR',locale:'es-MX',name:'Español'},{code3:'ITA',code2:'IT',direction:'LTR',locale:'it-IT',name:'Italiano'},{code3:'POL',code2:'PL',direction:'LTR',locale:'pl-PL',name:'Polski'},{code3:'NOR',code2:'NO',direction:'LTR',locale:'no-NO',name:'Norsk'},{code3:'MAG',code2:'HU',direction:'LTR',locale:'hu-HU',name:'Magyar'},{code3:'POR',code2:'PR',direction:'LTR',locale:'pt-BR',name:'Português'},{code3:'GRK',code2:'EL',direction:'LTR',locale:'el-GR',name:'Greek'},{code3:'TUR',code2:'TR',direction:'LTR',locale:'tr-TR',name:'Turkish'},{code3:'RUS',code2:'RU',direction:'LTR',locale:'ru-RU',name:'Russian'},{code3:'JPN',code2:'JA',direction:'LTR',locale:'ja-JP',name:'Japanese'},{code3:'CHI',code2:'ZH',direction:'LTR',locale:'zh-CN',name:'Chinese'}],
+		defaultLanguage: "ENG",
+		eventDateExpirationFormatted: "2025-05-06",
+		frameVersion: "1.5.3",
+		use78449: true,
+		mediaType: 0,
+		pageId: "register",
+		pathToRoot: "https://78449.choruscall.com/dataconf/dmf/1.5.3/",
+        relativePathToRoot: "/mediaframe/",
+		slideType: 1,
+		translationLanguages: "ENG".split(','),
+		translations: undefined,
+		virtualHelpDeskEnabled: false
+	};
+
+	// Useful shorthand variables
+	var configuredForSlides = true;
+		configuredForMedia = true,
+		webcastIsBeingArchived = webcastConfig.eventDateExpirationFormatted != '9999-12-31' && (Date.parse(webcastConfig.eventDateExpirationFormatted) - Date.parse(new Date()) > 0);
+
+	
+		webcastConfig.accountImage = "//78449.choruscall.com/dataconf/productusers/core/acctImgs/01 - core_logo.png";
+		webcastConfig.accountName = "Core Scientific";
+		webcastConfig.eventDate = new Date("Wed Nov 06 16:30:00 EST 2024");
+		webcastConfig.eventDateDuration = parseInt("60") * 60 * 1000;
+		webcastConfig.eventDateLabel = "";
+		webcastConfig.eventDateTimezone = "America/New_York";
+		webcastConfig.eventStatus = 3;
+		webcastConfig.eventTitle = "Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call";
+		webcastConfig.frameId = 19163;
+		webcastConfig.loginType = 1;
+		webcastConfig.localizationId = 1;
+		webcastConfig.productUserRoot = "/dataconf/productusers/core";
+		webcastConfig.webcastId = "HW5MvP6u";
+		webcastConfig.webcastLink = wOrigin + '/mediaframe/webcast.html?webcastid=HW5MvP6u';
+
+		// Calculate eventDateEnd
+		if (isNumber(webcastConfig.eventDate.getTime()) && isNumber(webcastConfig.eventDateDuration)) {
+			webcastConfig.eventDateEnd = new Date(webcastConfig.eventDate.getTime() + webcastConfig.eventDateDuration);
+		} else {
+			webcastConfig.eventDateEnd = undefined;
+		}
+
+		// Useful shorthand variables
+		var isUpcomingOrLive = false,
+			isArchivingOrArchived = true;
+	
+
+	
+
+	
+
+	
+		webcastConfig.accessCodeRequired = false;
+		webcastConfig.allowedEmailDomains = "".split(/[\s,]+/).filter(Boolean);
+		webcastConfig.CAPTCHAEnabled = false;
+	
+
+	
+		// Custom Registration
+		var customRegFields = {
+			udef1: {
+				udef1enabled: false,
+				udef1label: "",
+				udef1required: false,
+				udef1type: 0,
+				udef1values: ""
+			},
+			udef2: {
+				udef2enabled: false,
+				udef2label: "",
+				udef2required: false,
+				udef2type: 0,
+				udef2values: ""
+			},
+			udef3: {
+                udef3enabled: false,
+                udef3label: "",
+                udef3required: false,
+                udef3type: 0,
+                udef3values: ""
+            },
+            udef4: {
+                udef4enabled: false,
+                udef4label: "",
+                udef4required: false,
+                udef4type: 0,
+                udef4values: ""
+            },
+            udef5: {
+                udef5enabled: false,
+                udef5label: "",
+                udef5required: false,
+                udef5type: 0,
+                udef5values: ""
+            },
+            udef6: {
+                udef6enabled: false,
+                udef6label: "",
+                udef6required: false,
+                udef6type: 0,
+                udef6values: ""
+            },
+		};
+
+		webcastConfig.customRegFields = customRegFields;
+	
+
+	
+
+	// Webcast User
+	var webcastUser = {
+		languagePreference: undefined,
+		locale: getLocale("en_US")
+	};
+
+	debugInfo.webcastConfig = webcastConfig;
+	debugInfo.webcastUser = webcastUser;
+</script>
+<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/commonScripts.js?cb=1.5.3"></script>
+
+
+	
+
+	<!-- Custom Theming -->
+	
+
+<style type="text/css">
+	/* Common Theming (shared between pages: register, frame, etc.) */
+		/* primaryColor */
+			#content a:not(.btn):not(.ignoreTheme) {
+				color: rgb(51,122,183);
+			}
+
+		/* highlightColor
+			Note: Some of these don't apply to the registration page, or other non-frame pages. Just seems simpler to leave these here. Use unique IDs!
+		*/
+			#navigation a:hover, #navigation li.active a, #navigation #mainMenuExpansionButton.open, #navigation #mainMenuExpansionButton.onlyPresTab, #navigation li.open a, #setup[lights="off"] #navigation #mainMenuExpansionButton.open, #setup[lights="off"] #navigation #mainMenuExpansionButton:hover, #setup[lights="off"] #navigation #returnButton:hover, #setup[lights="off"] #navigation li:not(.active):not(.open) a:hover, #setup[lights="off"] #navigation #collapseChatButton:hover, #content a:not(.btn):not(.ignoreTheme):active, #content a:not(.btn):not(.ignoreTheme):focus, #content a:not(.btn):not(.ignoreTheme):hover, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover, #warningWrapper #warningDismiss:hover {
+				color: rgb(35,82,124);
+			}
+
+			/* Underline animation & Thumnails */
+			#navigation[mode="inline"] #mainMenuList a:before, a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+				background-color: rgb(35,82,124);
+			}
+
+			/* Toggles */
+				.onOffToggle-checkbox:checked + .onOffToggle-label {
+					background-color: rgb(35,82,124);
+				}
+
+				.onOffToggle-checkbox:checked + .onOffToggle-label, .onOffToggle-checkbox:checked + .onOffToggle-label:before {
+				   border-color: rgb(35,82,124);
+				}
+
+		/* Background */
+			#header {
+				background-color: rgb(255,255,255);
+			}
+
+			
+
+		
+
+		/* Selection */
+			::-webkit-selection {background-color: rgba(35,82,124,0.33);}
+			::-moz-selection {background-color: rgba(35,82,124,0.33);}
+			::selection {background-color: rgba(35,82,124,0.33);}
+
+	
+		/* registration-specific theming */
+		
+	
+
+	
+
+	/* Custom CSS */
+	
+		
+	
+</style>
+
+		<link rel="stylesheet" type="text/css" href="https://78449.choruscall.com/dataconf/dmf/1.5.3/css/frame/registerStyles.css?cb=1.5.3" />
+		
+		<script type="text/javascript" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/scripts/frame/registerScripts.js?cb=1.5.3"></script>
+	</head>
+	<body id="setup" pageId="register">
+
+		
+
+
+
+<div id="warningModal" class="modal fade" tabindex="-1"><!-- Last modal so that its z-index is natively on top. -->
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header alert alert-warning">
+				<h3 id="warningModalTitle" class="modal-title" tl="mod-0"><span class="fas fa-exclamation-circle marginRight"></span>Warning</h3>
+				<a id="dismissWarningModal" class="close" data-dismiss="modal">
+					<span class="fas fa-times"></span>
+				</a>
+			</div>
+			<div class="modal-body">
+				<p id="warningModalMessage"></p>
+			</div>
+			<div class="modal-footer">
+				
+				<button type="button" class="btn btn-default" tl="mod-2" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<div id="loading"></div><!-- / #loading -->
+
+		<div id="mainWrapper" class="container-fluid">
+
+			
+
+<header id="header" class="backgroundColorControl" >
+
+	
+		<div class="row">
+			<div class="col-xs-12">
+
+				<div class="constrainment">
+
+					<img id="accountImage" delaySrc="//78449.choruscall.com/dataconf/productusers/core/acctImgs/01 - core_logo.png" alt="logo" />
+
+				</div><!-- / .constrainment -->
+
+			</div><!-- / .col -->
+		</div><!-- / .row -->
+	
+
+</header><!-- / #header -->
+
+			
+
+<nav id="navigation" class="backgroundColorControl" mode="inline">
+	<div class="light darker"></div><!-- / .light -->
+	<div id="navigationConstrainment" class="constrainment">
+
+		<div id="menusWrapper">
+
+			
+
+			
+				<div id="mainMenu">
+					<ul id="mainMenuList" role="tablist">
+						<li id="registrationTab" class="active" role="tab">
+							<a class="colorControl" href="#registrationForms" data-toggle="tab" tl="nav-1" tabindex="0">
+								<span class="far fa-edit marginRight"></span>Registration
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+
+			
+
+		</div><!-- / #menusWrapper -->
+
+	</div><!-- / #navigationConstrainment -->
+</nav><!-- #navigation -->
+
+			
+
+<div id="content">
+	<div id="contentConstrainment" class="constrainment">
+		<div id="contentCanvas" class="tab-content backgroundColorControl">
+
+			
+				
+				
+					
+						
+						
+						
+							
+
+<div id="registrationForms" class="tab-pane fade in active" role="tabpanel">
+
+	<div class="row rowMod">
+
+		
+
+		<form id="registrationForm" onsubmit="secondaryRegistrationInitialize()" method="post" action="registration/submit" autocomplete="off">
+			<div class="col-xs-12 colMod ">
+
+				<div id="registration">
+
+					<h1 id="registrationHeading" class="eventTitle colorControl">Core Scientific Third Quarter Fiscal Year 2024 Earnings Conference Call</h1>
+					<h4 id="registrationDate" class="eventDate colorControl">Wed Nov 06 16:30:00 EST 2024</h4>
+
+					<hr>
+
+					
+						
+							<p id="registrationSubHeading" class="eventSubHeading colorControl" tl="livArc-reg-2">To view this presentation, provide the requested information below.</p>
+						
+						
+						
+					
+
+					<div id="registrationInputsWrapper">
+
+						<!-- Hidden inputs -->
+						<input id="streamId" name="streamId" type="hidden" value="19163">
+						<input id="loginType" name="loginType" type="hidden" value="1">
+
+						<!-- Sorted -->
+						<input id="disableCacheBusting" name="disabledCacheBusting" type="hidden" value="">
+						<input id="listenByPhone" name="listenByPhone" type="hidden" value="">
+						<input id="logging" name="logging" type="hidden" value="">
+						<input id="overrideActivation" name="overrideActivation" type="hidden" value="">
+						<input id="showBetaElements" name="showBetaElements" type="hidden" value="">
+						<input id="time" name="time" type="hidden" value="">
+
+						
+							<div id="nameWrapper" class="row rowMod">
+								<div id="firstNameWrapper" class="col-xs-12 col-sm-6 colMod">
+
+									<div class="form-group">
+										<label for="firstName" class="colorControl" tl="livArc-reg-3">First name*</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<span class="fas fa-info"></span>
+											</div>
+											<input id="firstName" class="form-control" tl="livArc-reg-pla-2" name="firstName" type="text" placeholder="Your first name" pattern="[^\d]+" maxlength="50" required />
+										</div>
+									</div>
+
+								</div><!-- / .col -->
+								<div id="lastNameWrapper" class="col-xs-12 col-sm-6 colMod">
+
+									<div class="form-group">
+										<label for="lastName" class="colorControl" tl="livArc-reg-4">Last name*</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<span class="fas fa-info"></span>
+											</div>
+											<input id="lastName" class="form-control" tl="livArc-reg-pla-3" name="lastName" type="text" placeholder="Your last name" pattern="[^\d]+" maxlength="50" required />
+										</div>
+									</div>
+
+								</div><!-- / .col -->
+							</div><!-- / .row -->
+						
+
+						
+							<div id="emailWrapper" class="row rowMod">
+								<div class="col-xs-12 colMod">
+
+									<div class="form-group">
+										<label for="email" class="colorControl" tl="livArc-reg-0">Email*</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<span class="far fa-envelope"></span>
+											</div>
+											<input id="email" class="form-control" tl="livArc-reg-pla-0" name="email" type="email" placeholder="Your email address" title="Please enter a valid email address." maxlength="50" required>
+										</div>
+									</div>
+
+								</div><!-- / .col -->
+							</div><!-- / .row -->
+						
+
+						
+
+						
+
+						
+							<div id="companyWrapper" class="row rowMod">
+								<div class="col-xs-12 colMod">
+
+									<div class="form-group">
+										<label for="company" class="colorControl" tl="livArc-reg-11">Company*</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<span class="fas fa-briefcase"></span>
+											</div>
+											<input id="company" class="form-control" tl="livArc-reg-pla-7" name="company" type="text" placeholder="Your company" maxlength="50" required />
+										</div>
+									</div>
+
+								</div><!-- / .col -->
+							</div><!-- / .row -->
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						<div id="customRegFields"></div>
+
+						
+
+					</div><!-- / #registrationInputsWrapper -->
+
+				</div><!-- / #registration -->
+
+			</div><!-- / .col -->
+
+			<div class="col-xs-12 colMod ">
+
+				
+
+			</div><!-- / .col -->
+
+			<div class="col-xs-12"></div>
+
+			<div class="col-xs-12 colMod ">
+
+				<div id="registrationBottomWrapper">
+
+					<button id="registrationSubmit" class="btn btn-lg btn-primary" tl="com-4" type="submit"><span class="fas fa-paper-plane marginRight"></span>Submit</button>
+
+					
+
+					<div id="GDPRWrapper">
+						<p id="GDPRStatement" class="colorControl" tl="livArc-reg-27">Your data will be processed according to the European GDPR, the Swiss LPD, and the Brazilian LGPD. For more information, please refer to the Chorus Call website.</p>
+					</div>
+
+				</div><!-- / #registrationBottomWrapper -->
+
+			</div><!-- / .col -->
+
+		</form><!-- / #registrationForm -->
+
+	</div><!-- / .row -->
+
+</div><!-- / #registrationForms -->
+						
+						
+					
+				
+			
+
+			<div id="customHtmlWrapper" class="row rowMod">
+				<div class="col-xs-12 colMod">
+					<div id="customHtml">
+						<script type='text/javascript'>
+                $(document).on('initializeRegistrationComplete', function() {
+                                $('#GDPRStatement').html("Your data will be processed with the European GDPR guidelines. For more information please contact the organizer.");
+                });
+</script>
+
+<script type="text/javascript">
+    $(document).on('initializeRegistrationComplete', function() {
+        // Replace %40 with the @ symbol
+        $('#registrationForm #email').val(function(){return this.value.replace('%40', '@')});
+        // If the form is valid, auto click the submit button. 
+        if ($('#registrationForm')[0].checkValidity()) {
+            $('#registrationSubmit').click();
+        }
+    });
+</script>
+
+					</div>
+				</div><!-- / .col -->
+			</div><!-- / .row -->
+
+			<p id="bottomText" class="colorControl">
+				
+				<span id="copyright">&copy; 2025 Core Scientific</span></p>
+
+		</div><!-- / #contentCanvas -->
+	</div><!-- / #contentConstrainment -->
+
+</div><!-- / #content -->
+
+			
+
+<div id="helpDeskContent" enabled="false">
+
+    <!-- Cece -->
+    <div id="cece-container">
+        <div id="cece-header">
+            <img id="cece-header-logo" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/images/helpdesk/cece_logo_circle.png" alt="Cece logo" />
+            <div id="cece-header-content">
+                <div id="cece-header-text-main"><b><span tl="vir-0">Webcast Support</span></b></div>
+                <div id="cece-online-wrapper">
+                    <div id="cece-online-indicator"></div>
+                    <div id="cece-header-text-sub" tl="vir-1">Online Now</div>
+                </div>
+            </div>
+            <button id="cece-minimize" class="btn btn-link"><i class="fas fa-chevron-down" type="button"></i></button>
+        </div>
+
+        <div id="cece-botui-container" class="botui-app-container">
+            <div class="light"></div><!-- / .light -->
+            <bot-ui></bot-ui>
+        </div>
+
+        <div id="cece-footer">
+            <button id="cece-back-button" class="btn btn-link cece-footer-button cece-footer-button-inactive" type="button"><i class="fas fa-undo-alt"></i></button>
+            <button id="cece-home-button" class="btn btn-link cece-footer-button cece-footer-button-inactive" type="button"><i class="fas fa-home"></i></button>
+            <img id="cece-logo-footer" src="https://78449.choruscall.com/dataconf/dmf/1.5.3/images/helpdesk/cece_text_logo.png" alt="Cece logo" />
+        </div>
+    </div>
+
+</div><!-- / #helpDeskContent -->
+
+			
+
+<footer id="footer" class="backgroundColorControl">
+	<div class="light darker"></div><!-- / .light -->
+
+	<div class="row">
+		<div class="col-xs-12">
+
+			<div id="footerConstrainment" class="constrainment">
+
+				<div id="footerCanvas">
+
+					<div id="footerWrapperLeft">
+
+						
+
+<style type="text/css">
+	#languageWrapper {
+		width: 262px;
+		position: relative;
+		display: inline-block;
+		vertical-align: middle;
+		background-color: #F8F9FA;
+	}
+
+	#languageInputGroupAddon {
+		border: 1px solid #ced4da;
+		border-right: none;
+		padding: .375rem .75rem;
+	}
+
+	#languageWrapper label[for=languageSelect] {
+		color: #212529;
+		margin-bottom: 0;
+	}
+
+	#languageWrapper.disabledFeature label[for=languageSelect], #languageWrapper.disabledFeature #languageSelect {
+		color: #95A5A6;
+	}
+
+	#languageSelect {
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	#translatePopover {
+		width: 238px;
+	}
+
+	#translatePopover .ellipsis {
+		width: 15px;
+		position: relative;
+		top: 3px; left: 1px;
+	}
+</style>
+
+<div id="languageWrapper" enabled="false">
+	<div id="languageInputGroup" class="input-group">
+		<div id="languageInputGroupAddon" class="input-group-addon">
+			<label for="languageSelect">
+				<span class="fas fa-language marginRight"></span><span id="languageSelectLabelText" tl="foo-0">Language</span>
+			</label>
+		</div>
+		<select id="languageSelect" class="form-control" autocomplete="off">
+			<option id="languageSelectPlaceholder" value="" tl="com-2" disabled>-- Select a language --</option>
+			<!-- Populated via JavaScript -->
+		</select>
+	</div>
+</div><!-- / #languageWrapper -->
+
+						
+					</div>
+
+					<div id="footerWrapperRight">
+						
+							<div id="footerMediaryWrapper" class="">
+								<a id="mediaryLink" href="http://www.incommconferencing.com" target="_blank" tabindex="-1">
+									<img id="mediaryImage" delaySrc="//78449.choruscall.com/dataconf/resources/dynamicframe/mediaries/InComm/poweredby_incomm.png" alt="branded decorative" />
+								</a>
+							</div>
+						
+
+						
+					</div>
+
+				</div><!-- / #footerCanvas -->
+
+			</div><!-- / .constrainment -->
+
+		</div><!-- / .col -->
+	</div><!-- / .row -->
+
+</footer><!-- / #footer -->
+
+		</div><!-- / #mainWrapper -->
+
+	</body>
+</html>

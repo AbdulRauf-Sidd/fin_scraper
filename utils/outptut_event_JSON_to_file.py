@@ -53,6 +53,7 @@ def construct_event_json(
     # ~~~~~~~~~~~~~~~~~~~~~~
 
     event_name = get_event_name_from_element(html_element)
+    print(html_element)
     logger.debug(f"Extracted event_name={event_name}")
 
     published_date = get_date_from_element(html_element)
@@ -79,18 +80,17 @@ def construct_event_json(
 
     for url in file_url: 
         # Let’s define file_name = "Moiz" so that it's never None
-        file_name = None   # placeholder
-        file_type = None
+        file_path, file_name, file_type = download_file(url, "downloads/")
         # If file_name is None => skip. But we just forced it to "Moiz."
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
-            r2_path = None
+            r2_path = file_path
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
                 "published_date": published_date if published_date else "",  # or "Null"
                 "r2_path": r2_path,
-                "url": file_url,
+                "url": url,
                 "content_type": content_type if content_type else []
             }
             data_objects.append(single_data)
@@ -173,7 +173,7 @@ def output_event_JSON_to_file(
 #
 if __name__ == "__main__":
     # Hard-coded example usage
-    input_file = "data/PVH_resources.json"    # This is the JSON file containing the array of HTML strings
+    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
     output_file = "output_results.json"   # We'll write the results here
 
     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
