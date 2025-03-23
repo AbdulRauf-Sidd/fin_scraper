@@ -2,6 +2,7 @@ import json
 import asyncio
 from playwright.async_api import async_playwright
 from utils.utils import accept_cookies, enable_stealth
+from utils.outptut_event_JSON_to_file import output_event_JSON_to_file
 import yaml
 from scrapers.PaginationHandler import PaginationHandler
 
@@ -9,15 +10,19 @@ class Scraper:
     def __init__(self, utils_module, config_path):
         self.utils = utils_module
         self.pagination_handler = PaginationHandler()
-
+        
         with open(config_path, 'r') as file:
             config = yaml.safe_load(file)
             self.config = next(iter(config.values()))
 
         self.base_url = self.config['url']
         self.output_file = self.config['output']
+        self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
+        self.ticker = self.config['ticker']
+        self.geography = self.config['geography']
+        self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
 
     async def _extract_inner_html(self, page, selector):
         print(f"🔍 Extracting blocks using selector: '{selector}'")
@@ -114,9 +119,17 @@ class Scraper:
                     all_events.extend(events)
 
                 if all_events:
+                    print("sdjfksdjfksdjf")
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
+                    
+                    await output_event_JSON_to_file(
+                        input_json_file=self.output_file,
+                        output_json_file=self.output_json,
+                        equity_ticker=self.ticker,
+                        geography=self.geography,
+                        periodicity=self.periodicity)
                 else:
                     print("\n❌ No events found.")
 

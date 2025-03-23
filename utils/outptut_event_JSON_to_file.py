@@ -1,11 +1,12 @@
 import logging
-from get_content_type_from_element import get_content_type_from_element
-from get_date_from_element import get_date_from_element
-from get_event_name_from_element import get_event_name_from_element
-from get_url_from_element import get_urls_from_element
+from utils.get_content_type_from_element import get_content_type_from_element
+from utils.get_date_from_element import get_date_from_element
+from utils.get_event_name_from_element import get_event_name_from_element
+from utils.get_url_from_element import get_urls_from_element
 from typing import Optional, List, Dict
 import json
-from utils import download_file
+from utils.utils import download_file
+from utils.upload_to_r2 import upload_file_to_r2
 logger = logging.getLogger(__name__)
 
 # Hypothetical imports of your extraction functions (adjust as needed)
@@ -33,7 +34,7 @@ def construct_event_json(
                 "file_name": null,     # temporarily not None, so skip logic won't fire
                 "file_type": null,
                 "published_date": "YYYY-MM-DD",
-                "r2_path": null,
+                "url": null,
                 "content_type": [...multiple content types...]
             },
             ...
@@ -84,13 +85,13 @@ def construct_event_json(
         # If file_name is None => skip. But we just forced it to "Moiz."
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
-            r2_path = file_path
+            r2_path = f"{equity_ticker}/{published_date}/{file_name}/"
+            r2_url = upload_file_to_r2(file_path, r2_path)
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
                 "published_date": published_date if published_date else "",  # or "Null"
-                "r2_path": r2_path,
-                "url": url,
+                "url": r2_url,
                 "content_type": content_type if content_type else []
             }
             data_objects.append(single_data)
@@ -123,7 +124,7 @@ def construct_event_json(
     logger.debug("Returning constructed JSON.")
     return result_json
 
-def output_event_JSON_to_file(
+async def output_event_JSON_to_file(
     input_json_file: str,
     output_json_file: str,
     equity_ticker: str,
@@ -170,21 +171,21 @@ def output_event_JSON_to_file(
 
 #
 # Example usage/call, in the same file
-#
-if __name__ == "__main__":
-    # Hard-coded example usage
-    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
-    output_file = "output_results.json"   # We'll write the results here
+# #
+# if __name__ == "__main__":
+#     # Hard-coded example usage
+#     input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
+#     output_file = "output_results.json"   # We'll write the results here
 
-    # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
-    ticker = "COOL"
-    geo = "US"
-    period = "periodic_event"
+#     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
+#     ticker = "COOL"
+#     geo = "US"
+#     period = "periodic_event"
 
-    output_event_JSON_to_file(
-        input_json_file=input_file,
-        output_json_file=output_file,
-        equity_ticker=ticker,
-        geography=geo,
-        periodicity=period
-    )
+#     output_event_JSON_to_file(
+#         input_json_file=input_file,
+#         output_json_file=output_file,
+#         equity_ticker=ticker,
+#         geography=geo,
+#         periodicity=period
+#     )

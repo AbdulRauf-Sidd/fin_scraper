@@ -1,0 +1,1109 @@
+[
+  {
+    "event_name": "FY 2024 Fiscal Year Ended Dec 31, 2024 Earnings Release Earnings Webcast Presentation 10-K",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
+        "file_type": "html",
+        "published_date": "2024-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=ymDjLEm1",
+        "file_type": "html",
+        "published_date": "2024-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/webcast.html?webcastid=ymDjLEm1/webcast.html?webcastid=ymDjLEm1",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/CORZ+Earnings+Presentation+Q4+2024.pdf/CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "core-20241231.htm",
+        "file_type": "html",
+        "published_date": "2024-12-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-25-008302.pdf",
+        "file_type": "html",
+        "published_date": "2024-12-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-25-008302-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2024-12-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2024 Quarter Ended Sep 30, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-fiscal-third-quarter-2024-results",
+        "file_type": "html",
+        "published_date": "2024-09-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/core-scientific-announces-fiscal-third-quarter-2024-results/core-scientific-announces-fiscal-third-quarter-2024-results",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=HW5MvP6u",
+        "file_type": "html",
+        "published_date": "2024-09-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/webcast.html?webcastid=HW5MvP6u/webcast.html?webcastid=HW5MvP6u",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/Core+Scientific+Q3+2024+Earnings+Presentation.pdf/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20240930.htm",
+        "file_type": "html",
+        "published_date": "2024-09-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-045811.pdf",
+        "file_type": "html",
+        "published_date": "2024-09-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-045811-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2024-09-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2024 Quarter Ended Jun 30, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-fiscal-second-quarter-2024-results",
+        "file_type": "html",
+        "published_date": "2024-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/core-scientific-announces-fiscal-second-quarter-2024-results/core-scientific-announces-fiscal-second-quarter-2024-results",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "webcast.html?webcastid=EJ4HZWZo",
+        "file_type": "html",
+        "published_date": "2024-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/webcast.html?webcastid=EJ4HZWZo/webcast.html?webcastid=EJ4HZWZo",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/Core+Scientific+Q2+2024+Earnings+Presentation.pdf/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20240630.htm",
+        "file_type": "html",
+        "published_date": "2024-06-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-035714.pdf",
+        "file_type": "html",
+        "published_date": "2024-06-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-035714-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2024-06-30",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2024 Quarter Ended Mar 31, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-fiscal-first-quarter-2024-results",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/core-scientific-announces-fiscal-first-quarter-2024-results/core-scientific-announces-fiscal-first-quarter-2024-results",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "954677374",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/954677374/954677374",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "Q1FY2024-Earnings-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/Q1FY2024-Earnings-Presentation.pdf/Q1FY2024-Earnings-Presentation.pdf",
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20240331.htm",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-021848.pdf",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-021848-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2024-03-31",
+        "url": null,
+        "content_type": [
+          "webcast",
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023 Fiscal Year Ended Dec 31, 2023 Earnings Release Presentation 10-K",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
+        "file_type": "html",
+        "published_date": "2023-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "core-20231231.htm",
+        "file_type": "html",
+        "published_date": "2023-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-010682.pdf",
+        "file_type": "html",
+        "published_date": "2023-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-24-010682-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2023-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2023 Quarter Ended Sep 30, 2023 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-20230930.htm",
+        "file_type": "html",
+        "published_date": "2023-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-036849.pdf",
+        "file_type": "html",
+        "published_date": "2023-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-036849-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2023-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2023 Quarter Ended Jun 30, 2023 10-Q 10-Q/A",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-20230630.htm",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-027559.pdf",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-032799-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20230630.htm",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-032799.pdf",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-032799-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2023-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2023 Quarter Ended Mar 31, 2023 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-20230331.htm",
+        "file_type": "html",
+        "published_date": "2023-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-017974.pdf",
+        "file_type": "html",
+        "published_date": "2023-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-017974-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2023-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022 Fiscal Year Ended Dec 31, 2022 10-K",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-20221231.htm",
+        "file_type": "html",
+        "published_date": "2022-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-010454.pdf",
+        "file_type": "html",
+        "published_date": "2022-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001628280-23-010454-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2022-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "10-K"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2022 Quarter Ended Sep 30, 2022 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-20220930.htm",
+        "file_type": "html",
+        "published_date": "2022-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-030600.pdf",
+        "file_type": "html",
+        "published_date": "2022-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-030600-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2022-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2022 Quarter Ended Jun 30, 2022 Earnings Release Presentation 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
+        "file_type": "html",
+        "published_date": "2022-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-30",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20220630.htm",
+        "file_type": "html",
+        "published_date": "2022-06-30",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-023382.pdf",
+        "file_type": "html",
+        "published_date": "2022-06-30",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-023382-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2022-06-30",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2022 Quarter Ended Mar 31",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-first-quarter-2022-results",
+        "file_type": "html",
+        "published_date": "2022-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/core-scientific-announces-first-quarter-2022-results/core-scientific-announces-first-quarter-2022-results",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "core-20220331.htm",
+        "file_type": "html",
+        "published_date": "2022-03-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-014350.pdf",
+        "file_type": "html",
+        "published_date": "2022-03-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001628280-22-014350-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2022-03-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-Q",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021 Fiscal Year Ended Dec 31, 2021 Earnings Release Presentation 10-K",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "core-scientific-announces-full-fiscal-year-2021-results",
+        "file_type": "html",
+        "published_date": "2021-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/core-scientific-announces-full-fiscal-year-2021-results/core-scientific-announces-full-fiscal-year-2021-results",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-12-31",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "d268076d10k.htm",
+        "file_type": "html",
+        "published_date": "2021-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001193125-22-088850.pdf",
+        "file_type": "html",
+        "published_date": "2021-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      },
+      {
+        "file_name": "0001193125-22-088850-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2021-12-31",
+        "url": null,
+        "content_type": [
+          "sec_filing",
+          "financial_filing",
+          "presentation",
+          "10-K"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2021 Quarter Ended Sep 30, 2021 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "f10q0921_poweranddigital.htm",
+        "file_type": "html",
+        "published_date": "2021-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-059558.pdf",
+        "file_type": "html",
+        "published_date": "2021-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-059558-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2021-09-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2021 Quarter Ended Jun 30, 2021 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "f10q0621_poweranddigital.htm",
+        "file_type": "html",
+        "published_date": "2021-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-044122.pdf",
+        "file_type": "html",
+        "published_date": "2021-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-044122-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2021-06-30",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2021 Quarter Ended Mar 31, 2021 10-Q",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "f10q0321_poweranddig.htm",
+        "file_type": "html",
+        "published_date": "2021-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-028906.pdf",
+        "file_type": "html",
+        "published_date": "2021-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0001213900-21-028906-xbrl.zip",
+        "file_type": "html",
+        "published_date": "2021-03-31",
+        "url": null,
+        "content_type": [
+          "10-Q",
+          "sec_filing",
+          "three-month-results"
+        ]
+      }
+    ]
+  }
+]

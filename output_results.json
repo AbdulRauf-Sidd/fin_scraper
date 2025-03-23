@@ -1,6 +1,6 @@
 [
   {
-    "event_name": "FY 2024 Fiscal Year Ended Dec 31, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-K HTML PDF XBRL Zip",
+    "event_name": "FY 2024 Fiscal Year Ended Dec 31, 2024 Earnings Release Earnings Webcast Presentation 10-K",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -14,9 +14,9 @@
         "content_type": [
           "webcast",
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -28,9 +28,9 @@
         "content_type": [
           "webcast",
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -42,9 +42,9 @@
         "content_type": [
           "webcast",
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -56,15 +56,15 @@
         "content_type": [
           "webcast",
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "Q3 2024 Quarter Ended Sep 30, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
+    "event_name": "Q3 2024 Quarter Ended Sep 30, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -76,12 +76,12 @@
         "r2_path": "downloads/core-scientific-announces-fiscal-third-quarter-2024-results",
         "url": "https://investors.corescientific.com/news-events/press-releases/detail/98/core-scientific-announces-fiscal-third-quarter-2024-results",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -91,12 +91,12 @@
         "r2_path": "downloads/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -106,12 +106,12 @@
         "r2_path": "downloads/webcast.html?webcastid=HW5MvP6u",
         "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=HW5MvP6u",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -121,18 +121,18 @@
         "r2_path": "downloads/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9319/presentation/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "Q2 2024 Quarter Ended Jun 30, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
+    "event_name": "Q2 2024 Quarter Ended Jun 30, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -144,12 +144,12 @@
         "r2_path": "downloads/core-scientific-announces-fiscal-second-quarter-2024-results",
         "url": "https://investors.corescientific.com/news-events/press-releases/detail/85/core-scientific-announces-fiscal-second-quarter-2024-results",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -159,12 +159,12 @@
         "r2_path": "downloads/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -174,12 +174,12 @@
         "r2_path": "downloads/webcast.html?webcastid=EJ4HZWZo",
         "url": "https://event.choruscall.com/mediaframe/webcast.html?webcastid=EJ4HZWZo",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -189,18 +189,18 @@
         "r2_path": "downloads/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9301/presentation/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "Q1 2024 Quarter Ended Mar 31, 2024 Earnings Release HTML PDF Earnings Webcast Audio Presentation PDF 10-Q HTML PDF XBRL Zip",
+    "event_name": "Q1 2024 Quarter Ended Mar 31, 2024 Earnings Release Earnings Webcast Presentation 10-Q",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -212,12 +212,12 @@
         "r2_path": "downloads/core-scientific-announces-fiscal-first-quarter-2024-results",
         "url": "https://investors.corescientific.com/news-events/press-releases/detail/72/core-scientific-announces-fiscal-first-quarter-2024-results",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -227,12 +227,12 @@
         "r2_path": "downloads/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -242,12 +242,12 @@
         "r2_path": "downloads/954677374",
         "url": "https://events.q4inc.com/attendee/954677374",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -257,18 +257,18 @@
         "r2_path": "downloads/Q1FY2024-Earnings-Presentation.pdf",
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9233/presentation/Q1FY2024-Earnings-Presentation.pdf",
         "content_type": [
-          "three-month-results",
           "webcast",
           "financial_filing",
+          "three-month-results",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "FY 2023 Fiscal Year Ended Dec 31, 2023 Earnings Release HTML PDF Presentation PDF 10-K HTML PDF XBRL Zip",
+    "event_name": "FY 2023 Fiscal Year Ended Dec 31, 2023 Earnings Release Presentation 10-K",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -281,9 +281,9 @@
         "url": "https://investors.corescientific.com/news-events/press-releases/detail/8/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -294,9 +294,9 @@
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -307,15 +307,15 @@
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9130/presentation/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "Q2 2022 Quarter Ended Jun 30, 2022 Earnings Release HTML PDF Presentation PDF 10-Q HTML PDF XBRL Zip",
+    "event_name": "Q2 2022 Quarter Ended Jun 30, 2022 Earnings Release Presentation 10-Q",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -329,9 +329,9 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -343,9 +343,9 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -357,9 +357,9 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       }
     ]
@@ -379,9 +379,9 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -393,9 +393,9 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       },
       {
@@ -407,15 +407,15 @@
         "content_type": [
           "three-month-results",
           "financial_filing",
+          "10-Q",
           "presentation",
-          "sec_filing",
-          "10-Q"
+          "sec_filing"
         ]
       }
     ]
   },
   {
-    "event_name": "FY 2021 Fiscal Year Ended Dec 31, 2021 Earnings Release HTML PDF Presentation PDF 10-K HTML PDF XBRL Zip",
+    "event_name": "FY 2021 Fiscal Year Ended Dec 31, 2021 Earnings Release Presentation 10-K",
     "equity_ticker": "COOL",
     "geography": "US",
     "periodicity": "periodic_event",
@@ -428,9 +428,9 @@
         "url": "https://investors.corescientific.com/news-events/press-releases/detail/32/core-scientific-announces-full-fiscal-year-2021-results",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -441,9 +441,9 @@
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/news/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       },
       {
@@ -454,9 +454,9 @@
         "url": "https://d1io3yog0oux5.cloudfront.net/_1809aef3bf74227ab43f8f02a5800c1a/corescientific/db/946/9122/presentation/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
         "content_type": [
           "financial_filing",
+          "presentation",
           "10-K",
-          "sec_filing",
-          "presentation"
+          "sec_filing"
         ]
       }
     ]

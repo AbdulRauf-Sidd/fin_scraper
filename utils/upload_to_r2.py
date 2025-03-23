@@ -4,13 +4,13 @@ from pathlib import Path
 import time
 
 # Set up your Cloudflare R2 credentials and endpoint
-access_key = os.getenv('R2_ACCESS_KEY')
-secret_key = os.getenv('R2_SECRET_KEY')
-endpoint_url = os.getenv('R2_ENDPOINT_URL')
+access_key = 'f1ac1dc043a240f996be558cfba72868'
+secret_key = 'de1dd032fe83dc7bc8b8f8b207ca54807fa851b07483428396c141ebaf46d8bb'
+endpoint_url = 'https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com'
 
 # Create a session using your credentials
 
-r2_folder = 'why/bye/world/'  # Set your desired folder path within R2
+# r2_folder = 'why/bye/world/'  # Set your desired folder path within R2
 
 
 # Function to upload a single file and return the R2 URL
@@ -21,8 +21,9 @@ def upload_file_to_r2(file_path, r2_folder):
                    aws_secret_access_key=secret_key, 
                    endpoint_url=endpoint_url)   
     # Check if the file exists
-    if not os.path.isfile(file_path):
-        raise FileNotFoundError(f"The file {file_path} does not exist.")
+    # if not os.path.isfile(file_path):
+    #     continue
+        # raise FileNotFoundError(f"The file {file_path} does not exist.")
 
     # Extract the filename from the file path
     filename = os.path.basename(file_path)
@@ -53,4 +54,4 @@ def upload_file_to_r2(file_path, r2_folder):
                 print("Maximum retry attempts reached, failed to upload.")
                 return None
 
-upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)
+# upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)

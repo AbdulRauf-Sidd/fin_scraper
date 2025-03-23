@@ -1,72 +1,75 @@
-PVH_news:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
-  output: data/PVH_news.json
-  base_address: https://www.pvh.com/
-  periodic: true
-  selectors:
-    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+# PVH_news:
+#   ticker: PVH
+#   scraper: FlatListScraper
+#   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
+#   output: data/PVH_news.json
+#   base_address: https://www.pvh.com/
+#   periodic: true
+#   selectors:
+#     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
+#   pagination:
+#     type: button
+#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5
 
-PVH_press:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
-  output: data/PVH_news.json
-  base_address: https://www.pvh.com/
-  periodic: false
-  category: 'news'
-  geography: "US"
-  llm: true
-  selectors:
-    event_block: li.list__item
-    parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+# PVH_press:
+#   ticker: PVH
+#   scraper: FlatListScraper
+#   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
+#   output: data/PVH_news.json
+#   base_address: https://www.pvh.com/
+#   periodic: false
+#   category: 'news'
+#   geography: "US"
+#   llm: true
+#   selectors:
+#     event_block: li.list__item
+#     parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
+#   pagination:
+#     type: button
+#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
-PVH_reports:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/investor-relations/reports
-  output: data/PVH_reports.json
-  selectors:
-    event_block: div.col-md-6
-  pagination:
-    type: null
-    next_button: null
-  defaults:
-    source_type: company_information
-  cutoff:
-    years_back: 5
+# PVH_reports:
+#   ticker: PVH
+#   scraper: FlatListScraper
+#   url: https://www.pvh.com/investor-relations/reports
+#   output: data/PVH_reports.json
+#   selectors:
+#     event_block: div.col-md-6
+#   pagination:
+#     type: null
+#     next_button: null
+#   defaults:
+#     source_type: company_information
+#   cutoff:
+#     years_back: 5
 
-PVH_resources:
-  ticker: PVH
-  scraper: FlatListScraper
-  url: https://www.pvh.com/responsibility/resources
-  output: data/PVH_resources.json
-  selectors:
-    event_block: .layout__wrap.story-well.ready, .container.layout
-  pagination:
-    type: null
-    next_button: null
-  defaults:
-    source_type: company_information
-  cutoff:
-    years_back: 5
+# PVH_resources:
+#   ticker: PVH
+#   scraper: FlatListScraper
+#   url: https://www.pvh.com/responsibility/resources
+#   output: data/PVH_resources.json
+#   selectors:
+#     event_block: .layout__wrap.story-well.ready, .container.layout
+#   pagination:
+#     type: null
+#     next_button: null
+#   defaults:
+#     source_type: company_information
+#   cutoff:
+#     years_back: 5
 
 CORZ_financial-information:
   ticker: CORZ
   scraper: null
   url: https://investors.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
+  output_json: JSONS/CORZ_financial-information.json
+  periodic: false
+  geography: "US"
   selectors:
     event_block: xpath=//div[@class=" row"]
   pagination:
@@ -77,49 +80,49 @@ CORZ_financial-information:
   cutoff:
     years_back: 5
 
-CORZ_presentations:
-  ticker: CORZ
-  scraper: null
-  url: https://investors.corescientific.com/news-events/presentations
-  output: data/CORZ_presentations.json
-  selectors:
-    event_block: article.media
-  pagination:
-    type: next_page_url
-    next_button: page-link
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5 
+# CORZ_presentations:
+#   ticker: CORZ
+#   scraper: null
+#   url: https://investors.corescientific.com/news-events/presentations
+#   output: data/CORZ_presentations.json
+#   selectors:
+#     event_block: article.media
+#   pagination:
+#     type: next_page_url
+#     next_button: page-link
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5 
 
-CORZ_press:         # Pagination not being handled correctly
-  ticker: CORZ
-  scraper: null
-  url: https://investors.corescientific.com/news-events/press-releases
-  output: data/CORZ_press.json
-  selectors:
-    event_block: article.media
-  pagination:
-    type: next_page_url
-    next_button: page-link
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5 
+# CORZ_press:         # Pagination not being handled correctly
+#   ticker: CORZ
+#   scraper: null
+#   url: https://investors.corescientific.com/news-events/press-releases
+#   output: data/CORZ_press.json
+#   selectors:
+#     event_block: article.media
+#   pagination:
+#     type: next_page_url
+#     next_button: page-link
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5 
 
-CRDA_esg:
-  ticker: CRDA
-  scraper: null
-  url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
-  output: data/CRDA_esg.json
-  base_address: https://www.pvh.com/
-  periodic: false
-  selectors:
-    event_block: div.card-body
-  pagination:
-    type: null
-    next_button: null
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+# CRDA_esg:
+#   ticker: CRDA
+#   scraper: null
+#   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
+#   output: data/CRDA_esg.json
+#   base_address: https://www.pvh.com/
+#   periodic: false
+#   selectors:
+#     event_block: div.card-body
+#   pagination:
+#     type: null
+#     next_button: null
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5
