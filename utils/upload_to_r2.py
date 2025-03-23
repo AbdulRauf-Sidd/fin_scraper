@@ -10,7 +10,7 @@ endpoint_url = os.getenv('R2_ENDPOINT_URL')
 
 # Create a session using your credentials
 
-r2_folder = 'why/bye/world/'  # Set your desired folder path within R2
+# r2_folder = 'why/bye/world/'  # Set your desired folder path within R2
 
 
 # Function to upload a single file and return the R2 URL
@@ -53,4 +53,4 @@ def upload_file_to_r2(file_path, r2_folder):
                 print("Maximum retry attempts reached, failed to upload.")
                 return None
 
-upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)
+# upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)

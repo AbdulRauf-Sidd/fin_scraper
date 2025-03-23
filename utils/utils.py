@@ -58,10 +58,11 @@ def download_file(url, download_folder):
                 if file_extension:
                     file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
                 else:
-                    file_type = None
+                    file_type = 'html'
             else:
                 file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
-                return file_path, filename, file_type
+            
+            return file_path, filename, file_type
             
         except Exception as e:
             attempts += 1
