@@ -185,5 +185,439 @@ GIVD_news:
 
 
 
-  
+#IFF
+IFF_presentations:
+  ticker: IFF
+  scraper: null
+  url: https://ir.iff.com/events-presentations
+  output: data/IFF_presentations.json
+  selectors:
+    event_block: article.clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
 
+
+IFF_press:
+  ticker: IFF
+  scraper: null
+  url: https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base
+  output: data/IFF_press.json
+  selectors:
+    event_block: article.clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#KO
+KO_company-updates:
+  ticker: KO
+  scraper: null
+  url: https://investors.coca-colacompany.com/
+  output: data/KO_company-updates.json
+  selectors:
+    event_block: #hassan
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+KO_poclicies-practices-reports:
+  ticker: KO
+  scraper: null
+  url: https://www.coca-colacompany.com/policies-and-practic
+  output: data/KO_poclicies-practices-reports.json
+  selectors:
+    event_block: div.cmp-accordion__item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+KO_press:
+  ticker: KO
+  scraper: null
+  url: https://investors.coca-colacompany.com/news-events/press-releases
+  output: data/KO_press.json
+  selectors:
+    event_block: article.media
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#NVDA
+NVDA_news:
+  ticker: NVDA
+  scraper: null
+  url: https://nvidianews.nvidia.com/news
+  output: data/NVDA_news.json
+  selectors:
+    event_block: div.index-item-wrapper
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+NVDA_press_TODO:
+  ticker: NVDA
+  scraper: null
+  url: https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx
+  output: data/NVDA_press_TODO.json
+  selectors:
+    event_block: div.module_item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#PINS
+PINS_news:
+  ticker: PINS
+  scraper: null
+  url: https://investor.pinterestinc.com/news-and-events/events-and-presentations/default.aspx
+  output: data/PINS_news.json
+  selectors:
+    event_block: div.module_item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#PVH
+PVH_events:
+  ticker: PVH
+  scraper: null
+  url: https://www.pvh.com/news?facets=content_type%3DEvents&nofilter=true
+  output: data/PVH_events.json
+  selectors:
+    event_block: div.list__item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+PVH_news:
+  ticker: PVH
+  scraper: null
+  url: https://www.pvh.com/news?facets=content_type%3DEvents%7CPress%20Releases%7CStories%26
+  output: data/PVH_news.json
+  selectors:
+    event_block: div.list__item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+PVH_reports:
+  ticker: PVH
+  scraper: null
+  url: https://www.pvh.com/investor-relations/reports
+  output: data/PVH_reports.json
+  selectors:
+    event_block: div.tile ready
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+PVH_resources:
+  ticker: PVH
+  scraper: null
+  url: https://www.pvh.com/responsibility/resources
+  output: data/PVH_resources.json
+  selectors:
+    event_block: div.tile tile--aspect-square ready
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+PVH_sustainable-finance:
+  ticker: PVH
+  scraper: null
+  url: https://www.pvh.com/investor-relations/sustainable-finance
+  output: data/PVH_sustainable-finance.json
+  selectors:
+    event_block: div.content__main
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#RL
+RL_newsroom:
+  ticker: RL
+  scraper: null
+  url: https://corporate.ralphlauren.com/newsroom
+  output: data/RL_newsroom.json
+  selectors:
+    event_block: div.corp-news
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#SY1
+SY1_events:
+  ticker: SY1
+  scraper: null
+  url: https://www.symrise.com/investors/financial-calendar-and-presentations/
+  output: data/SY1_events.json
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+SY1_news:
+  ticker: SY1
+  scraper: null
+  url: https://www.symrise.com/newsroom/press-releases/
+  output: data/SY1_news.json
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+SY1_news:
+  ticker: SY1
+  scraper: null
+  url: https://www.symrise.com/newsroom/press-releases/
+  output: data/SY1_news.json
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+#UNLV
+UNLV_presentations:
+  ticker: UNLV
+  scraper: null
+  url: https://www.unilever.com/investors/results-presentations-webcasts/
+  output: data/UNLV_presentations.json
+  selectors:
+    event_block: article.uol-c-card uol-c-card--horizontal uol-c-card--ghost is-mounted ush-c-results__result ush-c-results__result--sep
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+  
+UNLV_press:
+  ticker: UNLV
+  scraper: null
+  url: https://www.unilever.com/news/press-and-media/press-releases/
+  output: data/UNLV_press.json
+  selectors:
+    event_block: article.class="uol-c-card uol-c-card--horizontal uol-c-card--ghost is-clickable is-mounted ush-c-results__result ush-c-results__result--sep"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#WDAY
+WDAY_events:
+  ticker: WDAY
+  scraper: null
+  url: https://investor.workday.com/events#past:2025:3
+  output: data/WDAY_events.json
+  selectors:
+    event_block: div.wd_events_month
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+  
+WDAY_press:
+  ticker: WDAY
+  scraper: null
+  url: https://investor.workday.com/press-releases
+  output: data/WDAY_press.json
+  selectors:
+    event_block: div.wd_item_wrapper
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+WDAY_quarterly:
+  ticker: WDAY
+  scraper: null
+  url: https://investor.workday.com/quarterly-results
+  output: data/WDAY_quarterly.json
+  selectors:
+    event_block: div.item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+#WMT
+WMT_esg:
+  ticker: WMT
+  scraper: null
+  url: https://stock.walmart.com/governance/governance-documents
+  output: data/WMT_esg.json
+  selectors:
+    event_block: div.asset
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+ 
+WMT_events:
+  ticker: WMT
+  scraper: null
+  url: https://corporate.walmart.com/news/events
+  output: data/WMT_events.json
+  selectors:
+    event_block: li.ListEvents-items-item
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+WMT_news:
+  ticker: WMT
+  scraper: null
+  url: https://corporate.walmart.com/content/corporate/en_us/news.tag=corporate:finance.html
+  output: data/WMT_news.json
+  selectors:
+    event_block: li.in-page__card search-result-tag
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+WMT_quarterly:
+  ticker: WMT
+  scraper: null
+  url: https://stock.walmart.com/financial-information/vizio-historical-financials
+  output: data/WMT_quarterly.json
+  selectors:
+    event_block: div.box quarterly-results
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+
+
+
+
+ 
