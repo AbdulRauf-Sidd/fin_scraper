@@ -147,13 +147,16 @@ def _best_content_type_for_token(token_vec):
 ## MAIN CONTENT-TYPE METHOD ##
 ##############################
 
-def get_content_type_from_snippet(html_snippet: str) -> List[str]:
+def get_content_type_from_element(
+    html_snippet: str,
+    forced_type: str = None
+) -> List[str]:
     """
-    1) Extract full text from the snippet, including anchor <a> text + the href content
-    2) Dictionary-based approach: match patterns in the text to add content types
-    3) Then do a similarity approach for synonyms
-    4) Return the union of both sets
-    5) Log steps in a neater format
+    1) Extract full text from the snippet ...
+    2) Dictionary-based approach ...
+    3) Similarity approach ...
+    4) Union them.
+    5) If forced_type is provided, add it to the final set.
     """
     # Log a condensed snippet
     snippet_short = (html_snippet[:300] + '...') if len(html_snippet) > 300 else html_snippet
@@ -190,8 +193,10 @@ def get_content_type_from_snippet(html_snippet: str) -> List[str]:
 
     # -- 3) Union
     all_ctypes = dict_matches.union(sim_matches)
-    logger.debug(f"[UNION] Final content types = {all_ctypes}")
+    if forced_type:  # i.e., if forced_type is not None or empty
+        all_ctypes.add(forced_type)
 
+    logger.debug(f"[UNION] Final content types = {all_ctypes}")
     return list(all_ctypes)
 
 ##################
@@ -423,6 +428,6 @@ if __name__ == "__main__":
     ]
     for x in input_text:
         print(x)
-        ctypes = get_content_type_from_snippet(x)
+        ctypes = get_content_type_from_element(x, "Moiz Lala")
         print("Content Types Detected:", ctypes)
         print("\n")
