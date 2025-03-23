@@ -158,22 +158,38 @@ def _extract_text_from_html(html_snippet: str) -> str:
 ## CLEANUP FUNCTION ##
 ######################
 
+# A regex to remove times/timezones, e.g. "8:00 am", "pm", "EST", "EDT".
+# Tweak as needed to capture e.g. "10:20am EST".
+REMOVE_TIME_REGEX = re.compile(r"(\d{1,2}:\d{2}\s?[ap]\.?m\.?|est|edt|pst|am|pm)", re.IGNORECASE)
+
+# A regex to remove file references, e.g. "HTML", "PDF", "XBRL", "Zip", "MP3", etc.
+# Feel free to add or remove file types you want to filter out.
+REMOVE_FILE_TYPE_REGEX = re.compile(
+    r"\b(?:html|pdf|xbrl|zip|mp3|mp4|doc|docx|xlsx|audio)\b", 
+    re.IGNORECASE
+)
+
 def _cleanup_sentence(sentence: str) -> str:
     """
-    Removes time references (e.g. 8:00 am, pm, EST...) 
-    and optional file extensions from the entire sentence.
-    Keeps the date references (Nov 20, 2024) intact.
+    Removes:
+      1) time references (e.g. "8:00 am", "EST", "pm", etc.)
+      2) common file types/references (e.g. "HTML", "PDF", "XBRL", "Zip", etc.)
+    Keeps date references (e.g. "Nov 20, 2024") intact.
     """
     logger.debug(f"Cleaning up sentence: '{sentence}'")
 
-    # Remove times/timezones
-    s = REMOVE_REGEX.sub("", sentence)
-    # Optional: remove file extensions like .pdf/.html
-    s = REMOVE_FILE_EXT_REGEX.sub("", s)
+    # 1) Remove times/timezones like "8:00 am", "pm", "EST", etc.
+    s = REMOVE_TIME_REGEX.sub("", sentence)
 
-    # Trim extra spaces, punctuation
+    # 2) Remove references to common file types (HTML, PDF, XBRL, Zip, etc.)
+    s = REMOVE_FILE_TYPE_REGEX.sub("", s)
+
+    # 3) Normalize spaces and punctuation:
+    #    - collapse multiple whitespace -> single space
+    #    - strip leading/trailing punctuation/spaces
     s = re.sub(r"\s+", " ", s).strip(" ,.-").strip()
 
+    # If the result is empty after cleaning, use "Null"
     return s if s else "Null"
 
 ########################
