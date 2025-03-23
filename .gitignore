@@ -1,5 +1,4 @@
 __pycache__/
-*.log
 fin_scraper/*
 venv/*
 fin_env/
