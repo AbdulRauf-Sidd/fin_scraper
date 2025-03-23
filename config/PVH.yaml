@@ -87,3 +87,18 @@ CORZ_press:         # Pagination not being handled correctly
     event_type: webcast
   cutoff:
     years_back: 5 
+
+CRDA_esg:
+  ticker: CRDA
+  scraper: null
+  url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
+  output: data/CRDA_esg.json
+  selectors:
+    event_block: div.card-body
+  pagination:
+    type: null
+    next_button: null
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5

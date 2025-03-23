@@ -82,24 +82,24 @@
 
 
 
-CORZ_press:
-  ticker: CORZ
-  scraper: null
-  url: https://investors.corescientific.com/news-events/press-releases
-  output: data/CORZ_press.json
-  selectors:
-    event_block: article.media
-  pagination:
-    type: next_page_url
-    next_button: page-link
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5 
+# CORZ_press:
+#   ticker: CORZ
+#   scraper: null
+#   url: https://investors.corescientific.com/news-events/press-releases
+#   output: data/CORZ_press.json
+#   selectors:
+#     event_block: article.media
+#   pagination:
+#     type: next_page_url
+#     next_button: page-link
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5 
 
 
 
-# #CRDA
+#CRDA
 # CRDA_esg:
 #   ticker: CRDA
 #   scraper: null
@@ -108,28 +108,33 @@ CORZ_press:
 #   selectors:
 #     event_block: div.card-body
 #   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+#     type: null
+#     next_button: null
 #   defaults:
 #     event_type: webcast
 #   cutoff:
 #     years_back: 5
 
 
-# CRDA_presentations:
-#   ticker: CRDA
-#   scraper: null
-#   url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
-#   output: data/CRDA_presentations.json
-#   selectors:
-#     event_block: table.c-responsive-table
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
+CRDA_presentations:
+  ticker: CRDA
+  scraper: null
+  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+  output: data/CRDA_presentations.json
+  selectors:
+    event_block:
+      - table.c-responsive-table
+      # - div.event-list  # Additional selector example
+  pagination:
+    type: year_tabs
+    next_button: null
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
+  retries: 3
+  scroll_delay: 2
+
 
 
 

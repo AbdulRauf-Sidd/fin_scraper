@@ -72,14 +72,11 @@ class Scraper:
                 selector = self.pagination.get("next_button")
 
                 if pag_type == "year_tabs":
-                    years = self.pagination.get("years", [])
-                    template = self.pagination.get("selector_template")
-                    if years and template:
-                        async for _ in self.pagination_handler.switch_year_tabs(page, years, template):
-                            print(f"\n📄 Scraping year tab")
-                            events = await self.extract_data_from_page(page)
-                            all_events.extend(events)
-
+                    async for year_url in self.pagination_handler.navigate_to_years(page, self.base_url):
+                        print(f"\n📄 Scraping year tab: {year_url}")
+                        events = await self.extract_data_from_page(page)
+                        all_events.extend(events)
+                
                 elif pag_type == "button" and selector:
                     while True:
                         print(f"\n📄 Scraping page {page_num}")
@@ -105,7 +102,7 @@ class Scraper:
                         events = await self.extract_data_from_page(page)
                         all_events.extend(events)
                         print(f"✅ Scraped {len(events)} items from page {page_num}")
-                
+
                         success = await self.pagination_handler.find_and_navigate_next_page(page, self.base_url)
                         if not success:
                             print("✅ No more pages.")
