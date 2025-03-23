@@ -143,6 +143,37 @@ def _best_content_type_for_token(token_vec):
             best_label = ct_label
     return best_label, best_score
 
+##################
+## TEXT PARSING ##
+##################
+
+def _extract_full_text_including_urls(html_snippet: str) -> str:
+    """
+    Extract text from the snippet's visible text
+    AND also from the <a> tags' href to incorporate
+    any content words that appear in the URL.
+    """
+    soup = BeautifulSoup(html_snippet, 'html.parser')
+
+    parts = []
+
+    # 1) Visible text
+    visible_text = soup.get_text(separator=' ', strip=True)
+    parts.append(visible_text)
+
+    # 2) For each <a> tag, also include the href
+    for a_tag in soup.find_all('a', href=True):
+        anchor_text = a_tag.get_text(separator=' ', strip=True)
+        if anchor_text:
+            parts.append(anchor_text)
+
+        href_val = a_tag['href']
+        parts.append(href_val)
+
+    full_text = " ".join(parts)
+    return full_text
+
+
 ##############################
 ## MAIN CONTENT-TYPE METHOD ##
 ##############################
@@ -199,40 +230,13 @@ def get_content_type_from_element(
     logger.debug(f"[UNION] Final content types = {all_ctypes}")
     return list(all_ctypes)
 
-##################
-## TEXT PARSING ##
-##################
 
-def _extract_full_text_including_urls(html_snippet: str) -> str:
-    """
-    Extract text from the snippet's visible text
-    AND also from the <a> tags' href to incorporate
-    any content words that appear in the URL.
-    """
-    soup = BeautifulSoup(html_snippet, 'html.parser')
-
-    parts = []
-
-    # 1) Visible text
-    visible_text = soup.get_text(separator=' ', strip=True)
-    parts.append(visible_text)
-
-    # 2) For each <a> tag, also include the href
-    for a_tag in soup.find_all('a', href=True):
-        anchor_text = a_tag.get_text(separator=' ', strip=True)
-        if anchor_text:
-            parts.append(anchor_text)
-
-        href_val = a_tag['href']
-        parts.append(href_val)
-
-    full_text = " ".join(parts)
-    return full_text
 
 ########################
 ##  DEMO / EXAMPLE    ##
 ########################
 if __name__ == "__main__":
+    # print(get_content_type_from_element("PVH Corp. Reports 2020 Third Quarter Results and Provides Update Relating to the Impact of the Pandemic"))
     # Test with your input example
     input_text = [
         "<!----><div class=\"list__content\"><h3> Q4 2024 PVH Corp. Earnings Conference Call </h3><!----><!----><p class=\"list__date\"> Apr 01, 2025 9am EDT / 6am PDT </p></div>",

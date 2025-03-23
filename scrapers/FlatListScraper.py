@@ -114,7 +114,17 @@ class FlatListScraper:
                 # print('inner HTML: ', (event_html), '\n')
                 print('extarcted:', extract_event_name_from_text(event_html))
                 # print('\n\n')
-                jso = await llm(event_html)
+                jso = await llm('''<article class="media">
+    <div class="media-body" bis_skin_checked="1">
+    
+        <h2 class="media-heading">
+            <a href="/news-events/press-releases/detail/1119/the-coca-cola-company-announces-timing-of-third-quarter">
+                The Coca-Cola Company Announces Timing of Third Quarter 2024 Earnings Release            </a>
+        </h2>
+                <div class="date" bis_skin_checked="1"><time datetime="2024-09-25 10:00:00">Sep 25, 2024 10:00am EDT</time></div>
+                
+    </div>
+</article>''')
                 print('EXTRACTED: ', jso)
 
                 # Add a separator after each event block

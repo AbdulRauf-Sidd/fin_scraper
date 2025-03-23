@@ -2,7 +2,7 @@ import os
 from mistralai import Mistral
 
 
-async def llm(html):
+def llm(html):
 
     api_key = os.getenv('API_KEY')
     model = "mistral-large-latest"
@@ -75,3 +75,15 @@ async def llm(html):
         ]
     )
     return chat_response.choices[0].message.content
+
+print(llm('''<article class="media">
+    <div class="media-body" bis_skin_checked="1">
+    
+        <h2 class="media-heading">
+            <a href="/news-events/press-releases/detail/1119/the-coca-cola-company-announces-timing-of-third-quarter">
+                The Coca-Cola Company Announces Timing of Third Quarter 2024 Earnings Release            </a>
+        </h2>
+                <div class="date" bis_skin_checked="1"><time datetime="2024-09-25 10:00:00">Sep 25, 2024 10:00am EDT</time></div>
+                
+    </div>
+</article>'''))

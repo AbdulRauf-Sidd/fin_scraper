@@ -5,6 +5,7 @@ from urllib.parse import urlparse
 import os
 import mimetypes
 import requests
+import time 
 
 async def accept_cookies(page):
     """Accepts cookies if a consent banner appears."""
@@ -39,19 +40,49 @@ def download_file(url, download_folder):
     # Ensure the folder exists
     os.makedirs(download_folder, exist_ok=True)
 
-    # Download the file
-    response = requests.get(url)
-    if response.status_code == 200:
-        with open(file_path, 'wb') as f:
-            f.write(response.content)
-        print(f"Downloaded: {file_path}")
+    attempts = 0
+    while attempts < 3:
+        try:
+            # Download the file
+            response = requests.get(url)
+            if response.status_code == 200:
+                with open(file_path, 'wb') as f:
+                    f.write(response.content)
+                print(f"Downloaded: {file_path}")
 
-        # Get file type from response headers or infer from filename
-        file_type = response.headers.get('Content-Type')
-        if not file_type:
-            file_type, _ = mimetypes.guess_type(file_path)
+                # Get file type from response headers or infer from filename
+                file_type = response.headers.get('Content-Type')
+                if not file_type:
+                    file_type, _ = mimetypes.guess_type(file_path)
 
-        return file_path, filename, file_type
-    else:
-        print(f"Failed to download: {url}")
-        return None, None, None  # Return None values if download fails
+                return file_path, filename, file_type
+            else:
+                print(f"Failed to download: {url} with status code {response.status_code}")
+                attempts += 1
+                if attempts < 3:
+                    print("Retrying in 5 seconds...")
+                    time.sleep(5)
+                else:
+                    print("Maximum retry attempts reached, failed to download.")
+        except Exception as e:
+            attempts += 1
+            print(f"Attempt {attempts}: Failed to download file. Error: {str(e)}")
+            if attempts < 3:
+                print("Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                print("Maximum retry attempts reached, failed to download.")
+                return None, None, None
+    
+
+from urllib.parse import urljoin, urlparse
+
+def join_url(base_url, href):
+    if href is None:
+        return None
+    # Check if the href is already an absolute URL
+    if urlparse(href).scheme:
+        return href  # Return the href directly as it's already absolute
+    
+    # Otherwise, join the base_url with the href
+    return urljoin(base_url, href)

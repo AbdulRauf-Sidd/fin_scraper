@@ -1,6 +1,7 @@
 import os
 import boto3
 from pathlib import Path
+import time
 
 # Set up your Cloudflare R2 credentials and endpoint
 access_key = os.getenv('R2_ACCESS_KEY')
@@ -30,13 +31,26 @@ def upload_file_to_r2(file_path, r2_folder):
     r2_file_key = os.path.join(r2_folder, filename)
 
     # Upload the file to R2
-    with open(file_path, 'rb') as data:
-        s3.put_object(Bucket='fin-scraping-bucket', Key=r2_file_key, Body=data)
+    attempts = 0
+    while attempts < 3:
+        try:
+            # Upload the file to R2
+            with open(file_path, 'rb') as data:
+                s3.put_object(Bucket='fin-scraping-bucket', Key=r2_file_key, Body=data)
 
-    # Construct the URL of the uploaded file
-    file_url = f'{endpoint_url}/fin-scraping-bucket/{r2_file_key}'
-    print(f"Uploaded: {r2_file_key}, URL: {file_url}")
-    
-    return file_url
+            # Construct the URL of the uploaded file
+            file_url = f'{endpoint_url}/fin-scraping-bucket/{r2_file_key}'
+            print(f"Uploaded: {r2_file_key}, URL: {file_url}")
+            return file_url
+
+        except Exception as e:
+            attempts += 1
+            print(f"Attempt {attempts}: Failed to upload file. Error: {str(e)}")
+            if attempts < 3:
+                print("Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                print("Maximum retry attempts reached, failed to upload.")
+                return None
 
 upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)

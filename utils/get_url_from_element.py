@@ -135,5 +135,5 @@ html_example = [
     "<a href=\"/-/media/Files/pvh/footer/Ireland-Gender-Pay-Gap-Report.pdf\" target=\"_blank\">Ireland Gender Pay Gap Report</a>"
 ]
 for x in html_example:
-    found_links = get_urls_from_element(x,"https://www.BASEURLTEST.com/")
+    found_links = get_urls_from_element("/news/press-releases/Tommy-Hilfiger-Appoints-Avery-Baker-as-President-and-Chief-Brand-Officer","https://www.BASEURLTEST.com/")
     print(found_links)

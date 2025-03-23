@@ -15,12 +15,28 @@ PVH_news:
   cutoff:
     years_back: 5
 
+PVH_press:
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
+  output: data/PVH_news.json
+  base_address: https://www.pvh.com/
+  periodic: false
+  category: 'news'
+  geography: "US"
+  llm: true
+  selectors:
+    event_block: li.list__item
+    parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+
 PVH_reports:
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
-<<<<<<< Updated upstream
   selectors:
     event_block: div.col-md-6
   pagination:
@@ -96,6 +112,8 @@ CRDA_esg:
   scraper: null
   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
   output: data/CRDA_esg.json
+  base_address: https://www.pvh.com/
+  periodic: false
   selectors:
     event_block: div.card-body
   pagination:
