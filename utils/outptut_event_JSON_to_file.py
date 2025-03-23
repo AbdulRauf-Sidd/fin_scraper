@@ -62,7 +62,7 @@ def construct_event_json(
     logger.debug(f"Extracted content_type={content_type}")
 
     # If event_name is missing or empty, skip entirely
-    if not event_name:
+    if (not event_name) or (event_name in ("None", "null")):
         logger.debug("No event_name found. Skipping JSON construction -> return None.")
         return None
 
@@ -75,27 +75,28 @@ def construct_event_json(
     # We'll build one data dict:
     data_objects = []
 
-    # Let’s define file_name = "Moiz" so that it's never None
-    file_name = "Moiz"   # placeholder
-    file_type = None
-    r2_path = None
     file_url = get_urls_from_element(html_element, base_url)
 
-    # If file_name is None => skip. But we just forced it to "Moiz."
-    if file_name:
-        # Build the data object
-        single_data = {
-            "file_name": file_name,
-            "file_type": file_type,
-            "published_date": published_date if published_date else "",  # or "Null"
-            "r2_path": r2_path,
-            "url": file_url,
-            "content_type": content_type if content_type else []
-        }
-        data_objects.append(single_data)
-        logger.debug(f"Constructed data object: {single_data}")
-    else:
-        logger.debug("file_name is None -> skip adding data object")
+    for url in file_url: 
+        # Let’s define file_name = "Moiz" so that it's never None
+        file_name = None   # placeholder
+        file_type = None
+        # If file_name is None => skip. But we just forced it to "Moiz."
+        if file_name not in (None, "Null", "null", "None" , "none" ):
+            # Build the data object
+            r2_path = None
+            single_data = {
+                "file_name": file_name,
+                "file_type": file_type,
+                "published_date": published_date if published_date else "",  # or "Null"
+                "r2_path": r2_path,
+                "url": file_url,
+                "content_type": content_type if content_type else []
+            }
+            data_objects.append(single_data)
+            logger.debug(f"Constructed data object: {single_data}")
+        else:
+            logger.debug("file_name is None -> skip adding data object")
 
     # If after this logic we have no data objects, skip returning JSON
     if len(data_objects) == 0:
