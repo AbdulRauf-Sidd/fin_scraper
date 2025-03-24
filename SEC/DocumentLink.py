@@ -3,7 +3,7 @@ import asyncio
 import csv
 import os
 
-NUM_CONCURRENT_TASKS = 50  # Control concurrency
+NUM_CONCURRENT_TASKS = 100  # Control concurrency
 input_file_path = "SEC/sec_data.csv"
 output_file_path = "SEC/extracted_file_links.csv"
 
