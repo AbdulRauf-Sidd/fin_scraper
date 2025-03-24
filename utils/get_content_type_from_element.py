@@ -106,13 +106,14 @@ CONTENT_TYPE_CONCEPTS = [
     "presentation",
     "webcast",
     "spreadsheet",
-    "sellside_conference",
-    "industry_conference",
-    "investor_day_presentation",
-    # Additional optional synonyms or new categories:
+    "sellside-conference",
+    "industry-conference",
+    "investor-day-presentation",
     "news",
     "announcement",
-    # "financials" could also be here if you like
+    "seminar",
+    "annual-general-meeting",
+    "agm",
 ]
 
 def _precompute_content_type_embeddings(labels: List[str]):
