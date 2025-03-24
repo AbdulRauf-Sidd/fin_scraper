@@ -52,7 +52,7 @@ PVH_press:
 #     type: null
 #     next_button: null
 
-# PVH_events:       # working
+# PVH_events:       # COMPLETED
 #   ticker: PVH
 #   scraper: null
 #   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
@@ -190,7 +190,7 @@ PVH_press:
 #     next_button: a.button.use-ajax[rel='next']
 
 # #DSFIR
-# DSFIR_news:       #working
+# DSFIR_news:       #COMPLETED
 #   ticker: DSFIR
 #   url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
 #   output: data/DSFIR_news.json
@@ -219,7 +219,7 @@ PVH_press:
 #     type: year_tabs
 #     next_button: "li.cmp-tabs__tab"
 
-# GIVN_news:          # load more button not working
+# GIVN_news:          # load more button not COMPLETED
 #   ticker: GIVN
 #   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
 #   output: data/GIVN_news.json
@@ -233,7 +233,7 @@ PVH_press:
 #     type: load_more
 #     next_button: div.load-more-news button
 
-# IFF_presentations:    # working
+# IFF_presentations:    # COMPLETED
 #   ticker: IFF
 #   url: https://ir.iff.com/events-presentations
 #   output: data/IFF_presentations.json
@@ -291,7 +291,7 @@ PVH_press:
 #     type: null
 #     next_button: null
 
-# KO_press:     # working
+# KO_press:     # COMPLETED
 #   ticker: KO
 #   url: https://investors.coca-colacompany.com/news-events/press-releases
 #   output: data/KO_press.json
@@ -305,7 +305,7 @@ PVH_press:
 #     type: button
 #     next_button: div.control.next a
 
-# RL_newsroom:      # working
+# RL_newsroom:      # COMPLETED
 #   ticker: RL
 #   url: https://corporate.ralphlauren.com/newsroom
 #   output: data/RL_newsroom.json
@@ -320,7 +320,7 @@ PVH_press:
 #     next_button: div.corp-secondary-button a
 
 #SY1
-# SY1_events:     # WORKING
+# SY1_events:     # COMPLETED
 #   ticker: SY1
 #   scraper: null
 #   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
@@ -335,21 +335,21 @@ PVH_press:
 #     type: null
 #     next_button: null
 
-# SY1_news:         # pagination not handled correctly
-#   ticker: SY1
-#   url: https://www.symrise.com/newsroom/press-releases/
-#   output: data/SY1_news.json
-#   output_json: JSONS/SY1_news.json
-#   base_address: https://www.symrise.com/
-#   periodic: false
-#   geography: "US"
-#   selectors:
-#     event_block: div.t-table
-#   pagination:
-#     type: year_tabs
-#     next_button: .tab-titles:not(.panel-inverted) a
+SY1_news:         # pagination not handled correctly
+  ticker: SY1
+  url: https://www.symrise.com/newsroom/press-releases/
+  output: data/SY1_news.json
+  output_json: JSONS/SY1_news.json
+  base_address: https://www.symrise.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
 
-WDAY_events:
+WDAY_events: #COMPLETED
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
