@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 # Hypothetical imports of your extraction functions (adjust as needed)
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
 
-def construct_event_json(
+async def construct_event_json(
     html_element: str,
     equity_ticker: str,
     geography: str,
@@ -81,7 +81,7 @@ def construct_event_json(
 
     for url in file_url: 
         # Let’s define file_name = "Moiz" so that it's never None
-        file_path, file_name, file_type = download_file(url, "downloads/")
+        file_path, file_name, file_type = await download_file(url, "downloads/")
         # If file_name is None => skip. But we just forced it to "Moiz."
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
@@ -151,7 +151,7 @@ async def output_event_JSON_to_file(
     for idx, snippet in enumerate(snippet_list, start=1):
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
         # We assume 'construct_event_json' is imported or defined in the same file
-        result = construct_event_json(
+        result = await construct_event_json(
             html_element=snippet,
             equity_ticker=equity_ticker,
             geography=geography,

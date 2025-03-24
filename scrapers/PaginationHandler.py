@@ -56,7 +56,7 @@ class PaginationHandler:
             pass
         return False
 
-    async def switch_all_tabs(self, page, tab_selector):
+    async def switch_all_tabs(self, page, tab_selector, timeout=None):
         """Switches through all tabs without scraping, handling potential blockers."""
         
         # Handle consent banner if present
@@ -73,7 +73,9 @@ class PaginationHandler:
         tabs = await page.query_selector_all(tab_selector)
     
         for tab in tabs:
+
             year = await tab.inner_text()
+            print('SADHKJSADHKSJAHDKJS', year)
             
             # Check if the tab is already active
             class_attr = await tab.get_attribute("class") or ""
@@ -85,11 +87,14 @@ class PaginationHandler:
     
             try:
                 # Ensure tab is in view
-                await tab.scroll_into_view_if_needed()
+                # await tab.scroll_into_view_if_needed()
     
                 # Click the tab
                 await tab.click(force=True)  # `force=True` bypasses overlays if possible
                 
+                # if timeout:
+                await asyncio.sleep(5)
+
                 # Wait for new content to load (adjust selector)
                 await page.wait_for_selector("div.t-table", timeout=5000)
     
