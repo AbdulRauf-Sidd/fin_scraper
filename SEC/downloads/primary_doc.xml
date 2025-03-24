@@ -1,0 +1,235 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><style id="xml-viewer-style">/* Copyright 2014 The Chromium Authors
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+:root {
+  color-scheme: light dark;
+}
+
+div.header {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    margin: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  div.header {
+    border-bottom: 2px solid white;
+  }
+}
+
+div.folder &gt; div.hidden {
+    display:none;
+}
+
+div.folder &gt; span.hidden {
+    display:none;
+}
+
+.pretty-print {
+    margin-top: 1em;
+    margin-left: 20px;
+    font-family: monospace;
+    font-size: 13px;
+}
+
+#webkit-xml-viewer-source-xml {
+    display: none;
+}
+
+.opened {
+    margin-left: 1em;
+}
+
+.comment {
+    white-space: pre;
+}
+
+.folder-button {
+    user-select: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: -10px;
+    width: 10px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    vertical-align: bottom;
+}
+
+.fold {
+    background: url("data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' fill='%23909090' width='10' height='10'&gt;&lt;path d='M0 0 L8 0 L4 7 Z'/&gt;&lt;/svg&gt;");
+    height: 10px;
+}
+
+.open {
+    background: url("data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' fill='%23909090' width='10' height='10'&gt;&lt;path d='M0 0 L0 8 L7 4 Z'/&gt;&lt;/svg&gt;");
+    height: 10px;
+}
+</style></head><body><div id="webkit-xml-viewer-source-xml"><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>144</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0001760329</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <issuerInfo>
+            <issuerCik>0000021344</issuerCik>
+            <issuerName>THE COCA-COLA COMPANY</issuerName>
+            <secFileNumber>001-02217</secFileNumber>
+            <issuerAddress>
+                <ns2:street1>One Coca-Cola Plaza</ns2:street1>
+                <ns2:city>Atlanta</ns2:city>
+                <ns2:stateOrCountry>GA</ns2:stateOrCountry>
+                <ns2:zipCode>30313</ns2:zipCode>
+            </issuerAddress>
+            <issuerContactPhone>404-676-2121</issuerContactPhone>
+            <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>NIKOLAOS KOUMETTIS</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+            <relationshipsToIssuer>
+                <relationshipToIssuer>Officer</relationshipToIssuer>
+            </relationshipsToIssuer>
+        </issuerInfo>
+        <securitiesInformation>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <brokerOrMarketmakerDetails>
+                <name>Morgan Stanley Smith Barney LLC Executive Financial Services</name>
+                <address>
+                    <ns2:street1>1 New York Plaza</ns2:street1>
+                    <ns2:street2>8th Floor</ns2:street2>
+                    <ns2:city>New York</ns2:city>
+                    <ns2:stateOrCountry>NY</ns2:stateOrCountry>
+                    <ns2:zipCode>10004</ns2:zipCode>
+                </address>
+            </brokerOrMarketmakerDetails>
+            <noOfUnitsSold>55500</noOfUnitsSold>
+            <aggregateMarketValue>3940938.45</aggregateMarketValue>
+            <noOfUnitsOutstanding>4301000395</noOfUnitsOutstanding>
+            <approxSaleDate>03/07/2025</approxSaleDate>
+            <securitiesExchangeName>NYSE</securitiesExchangeName>
+        </securitiesInformation>
+        <securitiesToBeSold>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <acquiredDate>03/07/2025</acquiredDate>
+            <natureOfAcquisitionTransaction>Exercise of options under a registered plan</natureOfAcquisitionTransaction>
+            <nameOfPersonfromWhomAcquired>Issuer</nameOfPersonfromWhomAcquired>
+            <isGiftTransaction>N</isGiftTransaction>
+            <amountOfSecuritiesAcquired>55500</amountOfSecuritiesAcquired>
+            <paymentDate>03/07/2025</paymentDate>
+            <natureOfPayment>Cash</natureOfPayment>
+        </securitiesToBeSold>
+        <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+        <securitiesSoldInPast3Months>
+            <sellerDetails>
+                <name>NIKOLAOS KOUMETTIS</name>
+                <address>
+                    <ns2:street1>One Coca-Cola Plaza</ns2:street1>
+                    <ns2:city>Atlanta</ns2:city>
+                    <ns2:stateOrCountry>GA</ns2:stateOrCountry>
+                    <ns2:zipCode>30313</ns2:zipCode>
+                </address>
+            </sellerDetails>
+            <securitiesClassTitle>Common</securitiesClassTitle>
+            <saleDate>02/26/2025</saleDate>
+            <amountOfSecuritiesSold>54708</amountOfSecuritiesSold>
+            <grossProceeds>3882074.21</grossProceeds>
+        </securitiesSoldInPast3Months>
+        <noticeSignature>
+            <noticeDate>03/07/2025</noticeDate>
+            <planAdoptionDates/>
+            <signature>/s/ Nikolaos Koumettis</signature>
+        </noticeSignature>
+    </formData>
+</edgarSubmission></div><div class="header"><span>This XML file does not appear to have any style information associated with it. The document tree is shown below.</span><br /></div><div class="pretty-print"><div class="folder" id="folder0"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;edgarSubmission<span class="html-attribute"> <span class="html-attribute-name">xmlns</span>="<span class="html-attribute-value">http://www.sec.gov/edgar/ownership</span>"</span><span class="html-attribute"> <span class="html-attribute-name">xmlns:ns2</span>="<span class="html-attribute-value">http://www.sec.gov/edgar/common</span>"</span>&gt;</span></div><div class="opened"><span>
+    </span><div class="folder" id="folder1"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;headerData&gt;</span></div><div class="opened"><span>
+        </span><div class="line"><span class="html-tag">&lt;submissionType&gt;</span><span>144</span><span class="html-tag">&lt;/submissionType&gt;</span></div><span>
+        </span><div class="folder" id="folder2"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;filerInfo&gt;</span></div><div class="opened"><span>
+            </span><div class="folder" id="folder3"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;filer&gt;</span></div><div class="opened"><span>
+                </span><div class="folder" id="folder4"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;filerCredentials&gt;</span></div><div class="opened"><span>
+                    </span><div class="line"><span class="html-tag">&lt;cik&gt;</span><span>0001760329</span><span class="html-tag">&lt;/cik&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ccc&gt;</span><span>XXXXXXXX</span><span class="html-tag">&lt;/ccc&gt;</span></div><span>
+                </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/filerCredentials&gt;</span></div></div><span>
+            </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/filer&gt;</span></div></div><span>
+            </span><div class="line"><span class="html-tag">&lt;liveTestFlag&gt;</span><span>LIVE</span><span class="html-tag">&lt;/liveTestFlag&gt;</span></div><span>
+
+
+
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/filerInfo&gt;</span></div></div><span>
+    </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/headerData&gt;</span></div></div><span>
+    </span><div class="folder" id="folder5"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;formData&gt;</span></div><div class="opened"><span>
+        </span><div class="folder" id="folder6"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;issuerInfo&gt;</span></div><div class="opened"><span>
+            </span><div class="line"><span class="html-tag">&lt;issuerCik&gt;</span><span>0000021344</span><span class="html-tag">&lt;/issuerCik&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;issuerName&gt;</span><span>THE COCA-COLA COMPANY</span><span class="html-tag">&lt;/issuerName&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;secFileNumber&gt;</span><span>001-02217</span><span class="html-tag">&lt;/secFileNumber&gt;</span></div><span>
+            </span><div class="folder" id="folder7"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;issuerAddress&gt;</span></div><div class="opened"><span>
+                </span><div class="line"><span class="html-tag">&lt;ns2:street1&gt;</span><span>One Coca-Cola Plaza</span><span class="html-tag">&lt;/ns2:street1&gt;</span></div><span>
+                </span><div class="line"><span class="html-tag">&lt;ns2:city&gt;</span><span>Atlanta</span><span class="html-tag">&lt;/ns2:city&gt;</span></div><span>
+                </span><div class="line"><span class="html-tag">&lt;ns2:stateOrCountry&gt;</span><span>GA</span><span class="html-tag">&lt;/ns2:stateOrCountry&gt;</span></div><span>
+                </span><div class="line"><span class="html-tag">&lt;ns2:zipCode&gt;</span><span>30313</span><span class="html-tag">&lt;/ns2:zipCode&gt;</span></div><span>
+            </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/issuerAddress&gt;</span></div></div><span>
+            </span><div class="line"><span class="html-tag">&lt;issuerContactPhone&gt;</span><span>404-676-2121</span><span class="html-tag">&lt;/issuerContactPhone&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold&gt;</span><span>NIKOLAOS KOUMETTIS</span><span class="html-tag">&lt;/nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold&gt;</span></div><span>
+            </span><div class="folder" id="folder8"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;relationshipsToIssuer&gt;</span></div><div class="opened"><span>
+                </span><div class="line"><span class="html-tag">&lt;relationshipToIssuer&gt;</span><span>Officer</span><span class="html-tag">&lt;/relationshipToIssuer&gt;</span></div><span>
+            </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/relationshipsToIssuer&gt;</span></div></div><span>
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/issuerInfo&gt;</span></div></div><span>
+        </span><div class="folder" id="folder9"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;securitiesInformation&gt;</span></div><div class="opened"><span>
+            </span><div class="line"><span class="html-tag">&lt;securitiesClassTitle&gt;</span><span>Common</span><span class="html-tag">&lt;/securitiesClassTitle&gt;</span></div><span>
+            </span><div class="folder" id="folder10"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;brokerOrMarketmakerDetails&gt;</span></div><div class="opened"><span>
+                </span><div class="line"><span class="html-tag">&lt;name&gt;</span><span>Morgan Stanley Smith Barney LLC Executive Financial Services</span><span class="html-tag">&lt;/name&gt;</span></div><span>
+                </span><div class="folder" id="folder11"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;address&gt;</span></div><div class="opened"><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:street1&gt;</span><span>1 New York Plaza</span><span class="html-tag">&lt;/ns2:street1&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:street2&gt;</span><span>8th Floor</span><span class="html-tag">&lt;/ns2:street2&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:city&gt;</span><span>New York</span><span class="html-tag">&lt;/ns2:city&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:stateOrCountry&gt;</span><span>NY</span><span class="html-tag">&lt;/ns2:stateOrCountry&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:zipCode&gt;</span><span>10004</span><span class="html-tag">&lt;/ns2:zipCode&gt;</span></div><span>
+                </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/address&gt;</span></div></div><span>
+            </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/brokerOrMarketmakerDetails&gt;</span></div></div><span>
+            </span><div class="line"><span class="html-tag">&lt;noOfUnitsSold&gt;</span><span>55500</span><span class="html-tag">&lt;/noOfUnitsSold&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;aggregateMarketValue&gt;</span><span>3940938.45</span><span class="html-tag">&lt;/aggregateMarketValue&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;noOfUnitsOutstanding&gt;</span><span>4301000395</span><span class="html-tag">&lt;/noOfUnitsOutstanding&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;approxSaleDate&gt;</span><span>03/07/2025</span><span class="html-tag">&lt;/approxSaleDate&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;securitiesExchangeName&gt;</span><span>NYSE</span><span class="html-tag">&lt;/securitiesExchangeName&gt;</span></div><span>
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/securitiesInformation&gt;</span></div></div><span>
+        </span><div class="folder" id="folder12"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;securitiesToBeSold&gt;</span></div><div class="opened"><span>
+            </span><div class="line"><span class="html-tag">&lt;securitiesClassTitle&gt;</span><span>Common</span><span class="html-tag">&lt;/securitiesClassTitle&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;acquiredDate&gt;</span><span>03/07/2025</span><span class="html-tag">&lt;/acquiredDate&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;natureOfAcquisitionTransaction&gt;</span><span>Exercise of options under a registered plan</span><span class="html-tag">&lt;/natureOfAcquisitionTransaction&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;nameOfPersonfromWhomAcquired&gt;</span><span>Issuer</span><span class="html-tag">&lt;/nameOfPersonfromWhomAcquired&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;isGiftTransaction&gt;</span><span>N</span><span class="html-tag">&lt;/isGiftTransaction&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;amountOfSecuritiesAcquired&gt;</span><span>55500</span><span class="html-tag">&lt;/amountOfSecuritiesAcquired&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;paymentDate&gt;</span><span>03/07/2025</span><span class="html-tag">&lt;/paymentDate&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;natureOfPayment&gt;</span><span>Cash</span><span class="html-tag">&lt;/natureOfPayment&gt;</span></div><span>
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/securitiesToBeSold&gt;</span></div></div><span>
+        </span><div class="line"><span class="html-tag">&lt;nothingToReportFlagOnSecuritiesSoldInPast3Months&gt;</span><span>N</span><span class="html-tag">&lt;/nothingToReportFlagOnSecuritiesSoldInPast3Months&gt;</span></div><span>
+        </span><div class="folder" id="folder13"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;securitiesSoldInPast3Months&gt;</span></div><div class="opened"><span>
+            </span><div class="folder" id="folder14"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;sellerDetails&gt;</span></div><div class="opened"><span>
+                </span><div class="line"><span class="html-tag">&lt;name&gt;</span><span>NIKOLAOS KOUMETTIS</span><span class="html-tag">&lt;/name&gt;</span></div><span>
+                </span><div class="folder" id="folder15"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;address&gt;</span></div><div class="opened"><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:street1&gt;</span><span>One Coca-Cola Plaza</span><span class="html-tag">&lt;/ns2:street1&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:city&gt;</span><span>Atlanta</span><span class="html-tag">&lt;/ns2:city&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:stateOrCountry&gt;</span><span>GA</span><span class="html-tag">&lt;/ns2:stateOrCountry&gt;</span></div><span>
+                    </span><div class="line"><span class="html-tag">&lt;ns2:zipCode&gt;</span><span>30313</span><span class="html-tag">&lt;/ns2:zipCode&gt;</span></div><span>
+                </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/address&gt;</span></div></div><span>
+            </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/sellerDetails&gt;</span></div></div><span>
+            </span><div class="line"><span class="html-tag">&lt;securitiesClassTitle&gt;</span><span>Common</span><span class="html-tag">&lt;/securitiesClassTitle&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;saleDate&gt;</span><span>02/26/2025</span><span class="html-tag">&lt;/saleDate&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;amountOfSecuritiesSold&gt;</span><span>54708</span><span class="html-tag">&lt;/amountOfSecuritiesSold&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;grossProceeds&gt;</span><span>3882074.21</span><span class="html-tag">&lt;/grossProceeds&gt;</span></div><span>
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/securitiesSoldInPast3Months&gt;</span></div></div><span>
+        </span><div class="folder" id="folder16"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;noticeSignature&gt;</span></div><div class="opened"><span>
+            </span><div class="line"><span class="html-tag">&lt;noticeDate&gt;</span><span>03/07/2025</span><span class="html-tag">&lt;/noticeDate&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;planAdoptionDates/&gt;</span></div><span>
+            </span><div class="line"><span class="html-tag">&lt;signature&gt;</span><span>/s/ Nikolaos Koumettis</span><span class="html-tag">&lt;/signature&gt;</span></div><span>
+        </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/noticeSignature&gt;</span></div></div><span>
+    </span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/formData&gt;</span></div></div><span>
+</span></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/edgarSubmission&gt;</span></div></div></div></body></html>

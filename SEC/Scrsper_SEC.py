@@ -2,8 +2,19 @@ from playwright.async_api import async_playwright
 import asyncio
 import csv
 import os
+import sys
+import importlib
+from pathlib import Path
 
-NUM_CONCURRENT_TASKS = 100  # Control concurrency
+# Add root directory to sys.path
+ROOT_DIR = Path(__file__).resolve().parent.parent  # This gets the root directory
+sys.path.append(str(ROOT_DIR))
+
+# Import the downloads function dynamically
+utils_module = importlib.import_module("utils.utils")
+download_file = getattr(utils_module, "download_file")
+
+NUM_CONCURRENT_TASKS = 10  # Control concurrency
 input_file_path = "SEC/sec_data.csv"
 output_file_path = "SEC/extracted_file_links.csv"
 
@@ -24,7 +35,7 @@ if os.path.exists(output_file_path):
                 processed_links.add(row[0])
 
 # Async function
-async def process_link(sem, browser, doc_link, index, total_links):
+async def process_link(sem, browser, doc_link, index, total_links, download_folder):
     if doc_link in processed_links:
         print(f"🔄 [{index}] Skipping already processed: {doc_link}")
         return
@@ -38,7 +49,6 @@ async def process_link(sem, browser, doc_link, index, total_links):
             await asyncio.sleep(2)
 
             rows = await page.locator("table.tableFile tbody tr").all()
-            found_links = []
 
             for row_index, row in enumerate(rows, start=1):
                 link_element = row.locator("td:nth-child(3) a")
@@ -51,16 +61,11 @@ async def process_link(sem, browser, doc_link, index, total_links):
                         if ext in not_allowed_extensions:
                             print(f"🚫 [{index}-Row {row_index}] Skipped image: {full_url}")
                         else:
-                            found_links.append(full_url)
-                            print(f"✅ [{index}-Row {row_index}] Extracted: {full_url}")
+                            print(f"✅ [{index}-Row {row_index}] Downloading: {full_url}")
+                            await download_file(full_url, download_folder)  # Call download function
 
-            if found_links:
-                with open(output_file_path, "a", newline="", encoding="utf-8-sig") as file:
-                    writer = csv.writer(file)
-                    for file_link in found_links:
-                        writer.writerow([doc_link, file_link])
-            else:
-                print(f"⚠️ [{index}] No valid links found.")
+            print(f"✅ [{index}] Finished processing: {doc_link}")
+
         except Exception as e:
             print(f"❌ [{index}] Error: {e}")
         finally:
@@ -68,10 +73,11 @@ async def process_link(sem, browser, doc_link, index, total_links):
 
 async def main():
     sem = asyncio.Semaphore(NUM_CONCURRENT_TASKS)
+    download_folder = "SEC/downloads"
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         tasks = [
-            process_link(sem, browser, doc_link, index, len(document_links))
+            process_link(sem, browser, doc_link, index, len(document_links), download_folder)
             for index, doc_link in enumerate(document_links, start=1)
         ]
         await asyncio.gather(*tasks)
