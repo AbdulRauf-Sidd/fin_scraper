@@ -1,0 +1,3773 @@
+[
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-annual-report-2023.pdf/dsm-annual-report-2023.pdf",
+        "content_type": [
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2023.html/annual-general-meeting-2023.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q1-2023-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q1-2023-trading-update.pdf/q1-2023-trading-update.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-q1-2023-trading-update",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-q1-2023-trading-update/dsm-q1-2023-trading-update",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "entire-dsm-ar22.pdf",
+        "file_type": "bin",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/entire-dsm-ar22.pdf/entire-dsm-ar22.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-reports-2022-results",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "news",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-fy-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-fy-2022.pdf/presentation-to-investors-fy-2022.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-fy-results-2022",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-fy-results-2022/dsm-fy-results-2022",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-provides-q3-2022-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-provides-q3-2022-trading-update.pdf/dsm-provides-q3-2022-trading-update.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-presentation-to-investors-q3-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-presentation-to-investors-q3-2022.pdf/dsm-presentation-to-investors-q3-2022.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "05e663d8590d49abbb6d769b752923bf",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/05e663d8590d49abbb6d769b752923bf/05e663d8590d49abbb6d769b752923bf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-reports-h1-2022-results",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "news",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM-presentation-to-investors-h1-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM-presentation-to-investors-h1-2022.pdf/DSM-presentation-to-investors-h1-2022.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "4a6b32db68a246d3aa76c7946b2a5fbf",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/4a6b32db68a246d3aa76c7946b2a5fbf/4a6b32db68a246d3aa76c7946b2a5fbf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2022.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2022.html/annual-general-meeting-2022.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM%20AGM%202022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM%20AGM%202022.pdf/DSM%20AGM%202022.pdf",
+        "content_type": [
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM%20provides%20Q1%202022%20trading%20update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM%20provides%20Q1%202022%20trading%20update.pdf/DSM%20provides%20Q1%202022%20trading%20update.pdf",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "entire-dsm-ar21.pdf",
+        "file_type": "bin",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/entire-dsm-ar21.pdf/entire-dsm-ar21.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM-fy-2021-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM-fy-2021-results.pdf/DSM-fy-2021-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM-presentation-to-investors-fy-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM-presentation-to-investors-fy-2021.pdf/DSM-presentation-to-investors-fy-2021.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-full-year-results-feb-2022",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-full-year-results-feb-2022/dsm-full-year-results-feb-2022",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "33-21-q3-2021-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/33-21-q3-2021-trading-update.pdf/33-21-q3-2021-trading-update.pdf",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "30-21-dsm-accelerates-its-strategic-journey-to-a-fully-focused-health-nutrition-and-bioscience-company",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-dsm-accelerates-its-purpose-led-performance-driven-journey.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-dsm-accelerates-its-purpose-led-performance-driven-journey.pdf/presentation-to-investors-dsm-accelerates-its-purpose-led-performance-driven-journey.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-september-communications",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-september-communications/dsm-september-communications",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "29-21-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-dsm-to-acquire-first-choice-ingredients-to-accelerate-growth-in-food-and-beverage.pdf",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "23-21-dsm-h1-2021-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/23-21-dsm-h1-2021-results.pdf/23-21-dsm-h1-2021-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-h1-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-h1-2021.pdf/presentation-to-investors-h1-2021.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-half-year-results-aug-2021",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-half-year-results-aug-2021/dsm-half-year-results-aug-2021",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2021.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2021.html/annual-general-meeting-2021.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2021-presentation-co-ceos.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2021-presentation-co-ceos.pdf/annual-general-meeting-2021-presentation-co-ceos.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "09-21-q1-2021-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/09-21-q1-2021-trading-update.pdf/09-21-q1-2021-trading-update.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "entire-dsm-ar20.pdf",
+        "file_type": "bin",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/entire-dsm-ar20.pdf/entire-dsm-ar20.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "02-21-dsm-reports-2020-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/02-21-dsm-reports-2020-results.pdf/02-21-dsm-reports-2020-results.pdf",
+        "content_type": [
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-fy-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-fy-2020.pdf/presentation-to-investors-fy-2020.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "09-21-q1-2021-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/09-21-q1-2021-trading-update.pdf/09-21-q1-2021-trading-update.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-11-04-cmd-co-ceos-keynote.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-11-04-cmd-co-ceos-keynote.pdf/2020-11-04-cmd-co-ceos-keynote.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-11-04-cmd-goppelsroeder-nutrition.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-11-04-cmd-goppelsroeder-nutrition.pdf/2020-11-04-cmd-goppelsroeder-nutrition.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-11-04-cmd-niels-food-beverage.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-11-04-cmd-niels-food-beverage.pdf/2020-11-04-cmd-niels-food-beverage.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-11-04-cmd-malarkey-innovation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-11-04-cmd-malarkey-innovation.pdf/2020-11-04-cmd-malarkey-innovation.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-11-04-cmd-co-ceos-keynote.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-11-04-cmd-co-ceos-keynote.pdf/2020-11-04-cmd-co-ceos-keynote.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "33-20-dsm-q3-2020-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/33-20-dsm-q3-2020-results.pdf/33-20-dsm-q3-2020-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-q3-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2020.pdf/presentation-to-investors-q3-2020.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q3-2020-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q3-2020-results-analysts-call.mp3/q3-2020-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "25-20-dsm-h1-2020-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/25-20-dsm-h1-2020-results.pdf/25-20-dsm-h1-2020-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-h1-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-h1-2020.pdf/presentation-to-investors-h1-2020.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "h1-2020-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/h1-2020-results-analysts-call.mp3/h1-2020-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "22-20-dsm-to-add-world-leading-animal-nutrition-and-health-specialty-businesses-with-acquisition-of-erber-group.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/22-20-dsm-to-add-world-leading-animal-nutrition-and-health-specialty-businesses-with-acquisition-of-erber-group.html/22-20-dsm-to-add-world-leading-animal-nutrition-and-health-specialty-businesses-with-acquisition-of-erber-group.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-06-12-presentation-to-investors-erber-group-acquisition.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-06-12-presentation-to-investors-erber-group-acquisition.pdf/2020-06-12-presentation-to-investors-erber-group-acquisition.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2020.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2020.html/annual-general-meeting-2020.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-05-08-presentation-co-ceos-agm-2020-annual-results-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2020-05-08-presentation-co-ceos-agm-2020-annual-results-2019.pdf/2020-05-08-presentation-co-ceos-agm-2020-annual-results-2019.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "19-20-dsm-q1-2020-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/19-20-dsm-q1-2020-results.pdf/19-20-dsm-q1-2020-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-q1-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2020.pdf/presentation-to-investors-q1-2020.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q1-2020-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q1-2020-results-analysts-call.mp3/q1-2020-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ar2019",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/ar2019/ar2019",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DSM-Annual-Report-2019.pdf",
+        "file_type": "bin",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/DSM-Annual-Report-2019.pdf/DSM-Annual-Report-2019.pdf",
+        "content_type": [
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "10-20-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/10-20-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.html/10-20-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.pdf/presentation-to-investors-dsm-to-acquire-glycom-to-accelerate-growth-in-early-life-nutrition.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "08e-20-dsm-reports-2019-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/08e-20-dsm-reports-2019-results.pdf/08e-20-dsm-reports-2019-results.pdf",
+        "content_type": [
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-fy-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-fy-2019.pdf/presentation-to-investors-fy-2019.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "analysts-call-fy-2019-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-fy-2019-results.mp3/analysts-call-fy-2019-results.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "48-19-dsm-q3-2019-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/48-19-dsm-q3-2019-results.pdf/48-19-dsm-q3-2019-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-q3-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2019.pdf/presentation-to-investors-q3-2019.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q3-2019-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q3-2019-results-analysts-call.mp3/q3-2019-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "32-19-dsm-h1-2019-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/32-19-dsm-h1-2019-results.pdf/32-19-dsm-h1-2019-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-h1-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-h1-2019.pdf/presentation-to-investors-h1-2019.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "h1-2019-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/h1-2019-results-analysts-call.mp3/h1-2019-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2019.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2019.html/annual-general-meeting-2019.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2019-05-08-presentation-feike-sijbesma-ceo-agm-2019-annual-results-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2019-05-08-presentation-feike-sijbesma-ceo-agm-2019-annual-results-2018.pdf/2019-05-08-presentation-feike-sijbesma-ceo-agm-2019-annual-results-2018.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "15-19-dsm-q1-2019-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/15-19-dsm-q1-2019-results.pdf/15-19-dsm-q1-2019-results.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-q1-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2019.pdf/presentation-to-investors-q1-2019.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q1-2019-results-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q1-2019-results-analysts-call.mp3/q1-2019-results-analysts-call.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/index.html/index.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-annual-report-2018.pdf/dsm-annual-report-2018.pdf",
+        "content_type": [
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "04-19-dsm-q4-and-annual-results-2018.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/04-19-dsm-q4-and-annual-results-2018.html/04-19-dsm-q4-and-annual-results-2018.html",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "04-19-dsm-q4-and-annual-results-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/04-19-dsm-q4-and-annual-results-2018.pdf/04-19-dsm-q4-and-annual-results-2018.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-to-investors-fy-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-fy-2018.pdf/presentation-to-investors-fy-2018.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "analysts-call-fy-2018-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-fy-2018-results.mp3/analysts-call-fy-2018-results.mp3",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "37-18-dsm-q3-2018-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/37-18-dsm-q3-2018-results.pdf/37-18-dsm-q3-2018-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2018.pdf/presentation-to-investors-q3-2018.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2018.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2018.mp3/analysts-call-q3-results-2018.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "23-18-dsm-h1-2018-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/23-18-dsm-h1-2018-results.pdf/23-18-dsm-h1-2018-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-h1-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-h1-2018.pdf/presentation-to-investors-h1-2018.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-h1-results-2018.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-h1-results-2018.mp3/analysts-call-h1-results-2018.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & webcast Keynote, CEO Targets 2021, CFO Nutrition Human Nutrition Animal Nutrition Materials",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "19-18-dsm-strategy-update.html",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/19-18-dsm-strategy-update.html/19-18-dsm-strategy-update.html",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-sijbesma-keynote-cmd.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-sijbesma-keynote-cmd.pdf/2018-06-20-capital-markets-day-sijbesma-keynote-cmd.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-matchett-targets.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-matchett-targets.pdf/2018-06-20-capital-markets-day-matchett-targets.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-goppelsroeder-nutrition.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-goppelsroeder-nutrition.pdf/2018-06-20-capital-markets-day-goppelsroeder-nutrition.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-xu-hnh.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-xu-hnh.pdf/2018-06-20-capital-markets-day-xu-hnh.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-blakemore-anh.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-blakemore-anh.pdf/2018-06-20-capital-markets-day-blakemore-anh.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2018-06-20-capital-markets-day-de-vreeze-materials.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2021/2018-06-20-capital-markets-day-de-vreeze-materials.pdf/2018-06-20-capital-markets-day-de-vreeze-materials.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions & webcast Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2018-05-09-presentation-feike-sijbesma-ceo-agm-2018-annual-results-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2018-05-09-presentation-feike-sijbesma-ceo-agm-2018-annual-results-2017.pdf/2018-05-09-presentation-feike-sijbesma-ceo-agm-2018-annual-results-2017.pdf",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "37-18-dsm-q3-2018-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/37-18-dsm-q3-2018-results.pdf/37-18-dsm-q3-2018-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2018.pdf/presentation-to-investors-q3-2018.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2018.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2018.mp3/analysts-call-q3-results-2018.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2017",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2017/dsm-annual-report-2017.pdf/dsm-annual-report-2017.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "01-18-dsm-q4-and-annual-results-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/01-18-dsm-q4-and-annual-results-2017.pdf/01-18-dsm-q4-and-annual-results-2017.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-fy-2017.pdf",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-fy-results-2017.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-fy-results-2017.mp3/analysts-call-fy-results-2017.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "48-17-dsm-q3-2017-results-pr.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/48-17-dsm-q3-2017-results-pr.pdf/48-17-dsm-q3-2017-results-pr.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2017.pdf/presentation-to-investors-q3-2017.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "media-call-q3-results-2017.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/media-call-q3-results-2017.mp3/media-call-q3-results-2017.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release Keynote, CEO & CFO Nutrition Human Nutrition Animal Nutrition Food Specialties Materials Engineering Plastics Dyneema Resins & Functional Materials Innovation Webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "43-17-dsm-updates-market-on-strategy-2018.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/43-17-dsm-updates-market-on-strategy-2018.html/43-17-dsm-updates-market-on-strategy-2018.html",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-sijbesma-matchett-keynote-12-cmd.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-sijbesma-matchett-keynote-12-cmd.pdf/2017-09-25-investor-event-sijbesma-matchett-keynote-12-cmd.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-chris-goppelsroeder-nutrition-7.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-chris-goppelsroeder-nutrition-7.pdf/2017-09-25-investor-event-chris-goppelsroeder-nutrition-7.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf/2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-david-blakemore-animal-nutrition-9.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-david-blakemore-animal-nutrition-9.pdf/2017-09-25-investor-event-david-blakemore-animal-nutrition-9.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf/2017-09-25-investor-event-jeremy-xu-human-nutrition-8.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf/2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-roeland-polet-engineering-plastics-5.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-roeland-polet-engineering-plastics-5.pdf/2017-09-25-investor-event-roeland-polet-engineering-plastics-5.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf/2017-09-25-investor-event-dimitri-de-vreeze-materials-2.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-golnar-motahari-pour-dyneema-3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-golnar-motahari-pour-dyneema-3.pdf/2017-09-25-investor-event-golnar-motahari-pour-dyneema-3.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-investor-event-rob-van-leen-driving-sustainable-growth-through-innovation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-investor-event-rob-van-leen-driving-sustainable-growth-through-innovation.pdf/2017-09-25-investor-event-rob-van-leen-driving-sustainable-growth-through-innovation.pdf",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-09-25-audio-webcast-dsm-investor-event-2017.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-09-25-audio-webcast-dsm-investor-event-2017.mp3/2017-09-25-audio-webcast-dsm-investor-event-2017.mp3",
+        "content_type": [
+          "press-release",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "32-17-dsm-q2-2017-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/32-17-dsm-q2-2017-results.pdf/32-17-dsm-q2-2017-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2017.pdf/presentation-to-investors-q2-2017.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q2-results-2017.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q2-results-2017.mp3/analysts-call-q2-results-2017.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions & webcast Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2017.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2017.html/annual-general-meeting-2017.html",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2017-05-03-presentation-feike-sijbesma-ceo-agm-2017-annual-results-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2017-05-03-presentation-feike-sijbesma-ceo-agm-2017-annual-results-2016.pdf/2017-05-03-presentation-feike-sijbesma-ceo-agm-2017-annual-results-2016.pdf",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "15-17-dsm-q1-2017-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/15-17-dsm-q1-2017-results.pdf/15-17-dsm-q1-2017-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q1-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2017.pdf/presentation-to-investors-q1-2017.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q1-results-2017.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q1-results-2017.mp3/analysts-call-q1-results-2017.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2016",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/dsm-annual-report-2016.pdf/dsm-annual-report-2016.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts Call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "03-17-dsm-q4-and-annual-results-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/03-17-dsm-q4-and-annual-results-2016.pdf/03-17-dsm-q4-and-annual-results-2016.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q4-fy-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q4-fy-2016.pdf/presentation-to-investors-q4-fy-2016.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q4-fy-results-2016.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q4-fy-results-2016.mp3/analysts-call-q4-fy-results-2016.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "40-16-dsm-q3-2016-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/40-16-dsm-q3-2016-results.pdf/40-16-dsm-q3-2016-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2016.pdf/presentation-to-investors-q3-2016.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2016.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2016.mp3/analysts-call-q3-results-2016.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2016-09-22-presentations-dsm-us-investor-event.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2016-09-22-presentations-dsm-us-investor-event.pdf/2016-09-22-presentations-dsm-us-investor-event.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "36-16-dsm-q2-2016-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/36-16-dsm-q2-2016-results.pdf/36-16-dsm-q2-2016-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2016.pdf/presentation-to-investors-q2-2016.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q2-results-2016.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q2-results-2016.mp3/analysts-call-q2-results-2016.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions & webcast Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2016.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2016.html/annual-general-meeting-2016.html",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2016-04-29-presentation-feike-sijbesma-ceo-agm-2016-annual-results-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2016-04-29-presentation-feike-sijbesma-ceo-agm-2016-annual-results-2015.pdf/2016-04-29-presentation-feike-sijbesma-ceo-agm-2016-annual-results-2015.pdf",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "16-16-dsm-q1-2016-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/16-16-dsm-q1-2016-results.pdf/16-16-dsm-q1-2016-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q1-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2016.pdf/presentation-to-investors-q1-2016.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q1-results-2016.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q1-results-2016.mp3/analysts-call-q1-results-2016.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2015",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2015/dsm-annual-report-2015.pdf/dsm-annual-report-2015.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "02-16-dsm-q4-and-annual-results-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/02-16-dsm-q4-and-annual-results-2015.pdf/02-16-dsm-q4-and-annual-results-2015.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q4-fy-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q4-fy-2015.pdf/presentation-to-investors-q4-fy-2015.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-dsm-q4-fy-results-2015.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-dsm-q4-fy-results-2015.mp3/analysts-call-dsm-q4-fy-results-2015.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press release Keynote, CEO Financials, CFO Nutrition Materials",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "31-15-dsm-sets-strategy-2018.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/31-15-dsm-sets-strategy-2018.html/31-15-dsm-sets-strategy-2018.html",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2015-11-04-presentation-dsm-capital-markets-day-sijbesma-cmd-keynote.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2015-11-04-presentation-dsm-capital-markets-day-sijbesma-cmd-keynote.pdf/2015-11-04-presentation-dsm-capital-markets-day-sijbesma-cmd-keynote.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2015-11-04-presentation-dsm-capital-markets-day-matchett-financials.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2015-11-04-presentation-dsm-capital-markets-day-matchett-financials.pdf/2015-11-04-presentation-dsm-capital-markets-day-matchett-financials.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2015-11-04-presentation-dsm-capital-markets-day-tanda.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2015-11-04-presentation-dsm-capital-markets-day-tanda.pdf/2015-11-04-presentation-dsm-capital-markets-day-tanda.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2015-11-04-presentation-dsm-capital-markets-day-de-vreeze-materials.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2015-11-04-presentation-dsm-capital-markets-day-de-vreeze-materials.pdf/2015-11-04-presentation-dsm-capital-markets-day-de-vreeze-materials.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "30-15-dsm-q3-2015-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/30-15-dsm-q3-2015-results.pdf/30-15-dsm-q3-2015-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2015.pdf/presentation-to-investors-q3-2015.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2015.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2015.mp3/analysts-call-q3-results-2015.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "25-15-dsm-q2-2015-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/25-15-dsm-q2-2015-results.pdf/25-15-dsm-q2-2015-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2015.pdf/presentation-to-investors-q2-2015.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q2-results-2015.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q2-results-2015.mp3/analysts-call-q2-results-2015.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2015.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2015.html/annual-general-meeting-2015.html",
+        "content_type": [
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2015-04-30-presentation-feike-sijbesma-ceo-agm-2015-annual-results-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2015-04-30-presentation-feike-sijbesma-ceo-agm-2015-annual-results-2014.pdf/2015-04-30-presentation-feike-sijbesma-ceo-agm-2015-annual-results-2014.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "09-15-dsm-q1-2015-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/09-15-dsm-q1-2015-results.pdf/09-15-dsm-q1-2015-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q1-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2015.pdf/presentation-to-investors-q1-2015.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analyst-call-q1-results-2015.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analyst-call-q1-results-2015.mp3/analyst-call-q1-results-2015.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2014",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-integrated-annual-report-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2014/dsm-integrated-annual-report-2014.pdf/dsm-integrated-annual-report-2014.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "01-15-dsm-q4-and-annual-results-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/01-15-dsm-q4-and-annual-results-2014.pdf/01-15-dsm-q4-and-annual-results-2014.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q4-fy-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q4-fy-2014.pdf/presentation-to-investors-q4-fy-2014.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analyst-call-annual-results-2014.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analyst-call-annual-results-2014.mp3/analyst-call-annual-results-2014.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press release Keynote, CEO Financials, CFO Webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "32-14-dsm-updates-financial-markets-at-its-capital-markets-day.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/32-14-dsm-updates-financial-markets-at-its-capital-markets-day.html/32-14-dsm-updates-financial-markets-at-its-capital-markets-day.html",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2014-11-05-presentation-dsm-capital-markets-day-sijbesma.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2014-11-05-presentation-dsm-capital-markets-day-sijbesma.pdf/2014-11-05-presentation-dsm-capital-markets-day-sijbesma.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2014-11-05-presentation-dsm-capital-markets-day-schwalb.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2014-11-05-presentation-dsm-capital-markets-day-schwalb.pdf/2014-11-05-presentation-dsm-capital-markets-day-schwalb.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2014-11-05-cmd-webcast.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2014-11-05-cmd-webcast.mp3/2014-11-05-cmd-webcast.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "31-14-dsm-q3-2014-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/31-14-dsm-q3-2014-results.pdf/31-14-dsm-q3-2014-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2014.pdf/presentation-to-investors-q3-2014.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2014.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2014.mp3/analysts-call-q3-results-2014.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2014-09-04-combined-presentations-us-investors-fieldtrip.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2014-09-04-combined-presentations-us-investors-fieldtrip.pdf/2014-09-04-combined-presentations-us-investors-fieldtrip.pdf",
+        "content_type": []
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "28-14-dsm-q2-2014-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/28-14-dsm-q2-2014-results.pdf/28-14-dsm-q2-2014-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2014.pdf/presentation-to-investors-q2-2014.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q2-results-2014.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q2-results-2014.mp3/analysts-call-q2-results-2014.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2014.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2014.html/annual-general-meeting-2014.html",
+        "content_type": [
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-agm-2014-feike-sijbesma.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-agm-2014-feike-sijbesma.pdf/presentation-agm-2014-feike-sijbesma.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "20-14-dsm-q1-2014-results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/20-14-dsm-q1-2014-results.pdf/20-14-dsm-q1-2014-results.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q1-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2014.pdf/presentation-to-investors-q1-2014.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q1-results-2014.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q1-results-2014.mp3/analysts-call-q1-results-2014.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2013 Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-integrated-annual-report-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2013/dsm-integrated-annual-report-2013.pdf/dsm-integrated-annual-report-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "05-14-dsm-q4-and-annual-results-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2013/05-14-dsm-q4-and-annual-results-2013.pdf/05-14-dsm-q4-and-annual-results-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-fy-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2013/presentation-to-investors-fy-2013.pdf/presentation-to-investors-fy-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "analysts-call-annual-results-2013.mp3",
+        "file_type": "mp3",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2013/analysts-call-annual-results-2013.mp3/analysts-call-annual-results-2013.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "03-14-dsm-reports-preliminary-2013-results-provides-2014-outlook.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/03-14-dsm-reports-preliminary-2013-results-provides-2014-outlook.html/03-14-dsm-reports-preliminary-2013-results-provides-2014-outlook.html",
+        "content_type": [
+          "press-release",
+          "financial_filing"
+        ]
+      },
+      {
+        "file_name": "2014-01-21-investors-analysts-call.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2014-01-21-investors-analysts-call.mp3/2014-01-21-investors-analysts-call.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "21-13-dsm-q3-results-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/21-13-dsm-q3-results-2013.pdf/21-13-dsm-q3-results-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2013.pdf/presentation-to-investors-q3-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "analysts-call-q3-results-2013.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/analysts-call-q3-results-2013.mp3/analysts-call-q3-results-2013.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press release Keynote, CEO Financials, CFO Nutrition Materials Pharma Webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "19-13-dsm-updates-financial-markets-at-its-capital-markets-day.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/19-13-dsm-updates-financial-markets-at-its-capital-markets-day.html/19-13-dsm-updates-financial-markets-at-its-capital-markets-day.html",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-dsm-capital-markets-day-sijbesma-26092013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-dsm-capital-markets-day-sijbesma-26092013.pdf/presentation-dsm-capital-markets-day-sijbesma-26092013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-dsm-capital-markets-day-schwalb-26092013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-dsm-capital-markets-day-schwalb-26092013.pdf/presentation-dsm-capital-markets-day-schwalb-26092013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-dsm-capital-markets-day-tanda-26092013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-dsm-capital-markets-day-tanda-26092013.pdf/presentation-dsm-capital-markets-day-tanda-26092013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-dsm-capital-markets-day-materials-devreeze-26092013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-dsm-capital-markets-day-materials-devreeze-26092013.pdf/presentation-dsm-capital-markets-day-materials-devreeze-26092013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-dsm-capital-markets-day-doboczky.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-dsm-capital-markets-day-doboczky.pdf/presentation-dsm-capital-markets-day-doboczky.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "cmd-2013.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/cmd-2013.mp3/cmd-2013.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "17-13-dsm-q2-results-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/17-13-dsm-q2-results-2013.pdf/17-13-dsm-q2-results-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2013.pdf/presentation-to-investors-q2-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "media-call-q2-results-2013.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/media-call-q2-results-2013.mp3/media-call-q2-results-2013.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2013.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2013.html/annual-general-meeting-2013.html",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "presentation-agm-2013-feike-sijbesma.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-agm-2013-feike-sijbesma.pdf/presentation-agm-2013-feike-sijbesma.pdf",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "9-13-dsm-q1-results-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/9-13-dsm-q1-results-2013.pdf/9-13-dsm-q1-results-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q1-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q1-2013.pdf/presentation-to-investors-q1-2013.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "media-call-q1-results-2013.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/media-call-q1-results-2013.mp3/media-call-q1-results-2013.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2012 Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "integrated-annual-report-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2012/integrated-annual-report-2012.pdf/integrated-annual-report-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "2-13-dsm-q4-and-annual-results-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2012/2-13-dsm-q4-and-annual-results-2012.pdf/2-13-dsm-q4-and-annual-results-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-fy-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2012/presentation-to-investors-fy-2012.pdf/presentation-to-investors-fy-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "media-call-annual-results-2012.mp3",
+        "file_type": "mp3",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2012/media-call-annual-results-2012.mp3/media-call-annual-results-2012.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "29-12-dsm-q3-results-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/29-12-dsm-q3-results-2012.pdf/29-12-dsm-q3-results-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q3-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q3-2012.pdf/presentation-to-investors-q3-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q3-2012-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q3-2012-results.mp3/q3-2012-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press release Keynote, CEO Financials, CFO Nutrition Materials Vitin status Webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "27-12-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/27-12-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html/27-12-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-analysts-dsm-capital-markets-days-sijbesma-27092012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-analysts-dsm-capital-markets-days-sijbesma-27092012.pdf/presentation-analysts-dsm-capital-markets-days-sijbesma-27092012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-analysts-dsm-capital-markets-days-schwalb-27092012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-analysts-dsm-capital-markets-days-schwalb-27092012.pdf/presentation-analysts-dsm-capital-markets-days-schwalb-27092012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-media-dsm-capital-markets-days-tanda-27092012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-media-dsm-capital-markets-days-tanda-27092012.pdf/presentation-media-dsm-capital-markets-days-tanda-27092012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-analysts-dsm-capital-markets-days-gerardu-27092012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-analysts-dsm-capital-markets-days-gerardu-27092012.pdf/presentation-analysts-dsm-capital-markets-days-gerardu-27092012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-media-dsm-capital-markets-days-eggersdorfer-27092012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-media-dsm-capital-markets-days-eggersdorfer-27092012.pdf/presentation-media-dsm-capital-markets-days-eggersdorfer-27092012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "cmd-analysts-2012.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/cmd-analysts-2012.mp3/cmd-analysts-2012.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "10-Q",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "21-12-dsm-q2-results-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/21-12-dsm-q2-results-2012.pdf/21-12-dsm-q2-results-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "presentation-to-investors-q2-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/presentation-to-investors-q2-2012.pdf/presentation-to-investors-q2-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q2-2012-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q2-2012-results.mp3/q2-2012-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2012.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2012.html/annual-general-meeting-2012.html",
+        "content_type": [
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "11-05-2012-agm-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/11-05-2012-agm-presentation.pdf/11-05-2012-agm-presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "07-12-dsm-q1-results-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/07-12-dsm-q1-results-2012.pdf/07-12-dsm-q1-results-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "pti-q1-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/pti-q1-2012.pdf/pti-q1-2012.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q1-2012-results.mp3",
+        "file_type": "jpg",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q1-2012-results.mp3/q1-2012-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2011 Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "integrated-annual-report-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2011/integrated-annual-report-2011.pdf/integrated-annual-report-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "03-12-dsm-q4-and-annual-results-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2011/03-12-dsm-q4-and-annual-results-2011.pdf/03-12-dsm-q4-and-annual-results-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "pti-fy-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2011/pti-fy-2011.pdf/pti-fy-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "q4-annual-results-2011-analysts.mp3",
+        "file_type": "mp3",
+        "published_date": "2011",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2011/q4-annual-results-2011-analysts.mp3/q4-annual-results-2011-analysts.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "70-11-dsm-q3-results-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/70-11-dsm-q3-results-2011.pdf/70-11-dsm-q3-results-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "pti-q3-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/pti-q3-2011.pdf/pti-q3-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q3-2011-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q3-2011-results.mp3/q3-2011-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press release Keynote, CEO Financials, CFO Nutrition Materials Innovation Martek Webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "61-11-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/61-11-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html/61-11-dsm-updates-market-on-strategy-progress-at-capital-markets-days.html",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-290911-feike-sijbesma-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-290911-feike-sijbesma-presentation.pdf/dsm-capital-market-days-290911-feike-sijbesma-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-290911-rolf-dieter-schwalb-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-290911-rolf-dieter-schwalb-presentation.pdf/dsm-capital-market-days-290911-rolf-dieter-schwalb-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-300911-leendert-staal-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-300911-leendert-staal-presentation.pdf/dsm-capital-market-days-300911-leendert-staal-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-300911-nico-gerardu-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-300911-nico-gerardu-presentation.pdf/dsm-capital-market-days-300911-nico-gerardu-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-300911-rob-van-leen-innovation-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-300911-rob-van-leen-innovation-presentation.pdf/dsm-capital-market-days-300911-rob-van-leen-innovation-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "dsm-capital-market-days-300911-steve-dubin-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/dsm-capital-market-days-300911-steve-dubin-presentation.pdf/dsm-capital-market-days-300911-steve-dubin-presentation.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "cmd-analysts-2011.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/cmd-analysts-2011.mp3/cmd-analysts-2011.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "50-11-dsm-q2-results-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/50-11-dsm-q2-results-2011.pdf/50-11-dsm-q2-results-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "present-to-invest-edition-q2-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/present-to-invest-edition-q2-2011.pdf/present-to-invest-edition-q2-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q2-2011-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q2-2011-results.mp3/q2-2011-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Resolutions Presentation",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2011.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/annual-general-meeting-2011.html/annual-general-meeting-2011.html",
+        "content_type": [
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2011-04-28-agm-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/2011-04-28-agm-presentation.pdf/2011-04-28-agm-presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "29-11-dsm-q1-results-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/29-11-dsm-q1-results-2011.pdf/29-11-dsm-q1-results-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "pres-to-investors-edition-q1-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/pres-to-investors-edition-q1-2011.pdf/pres-to-investors-edition-q1-2011.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "q1-2011-results.mp3",
+        "file_type": "mp3",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/Null/q1-2011-results.mp3/q1-2011-results.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2010 Press Release & Financial Statements Presentation to Invors Analysts call",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-report-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2010/annual-report-2010.pdf/annual-report-2010.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "13-11-dsm-reports-strong-2010-results-and-proposes-dividend-increase-to-eur-1-35.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2010/13-11-dsm-reports-strong-2010-results-and-proposes-dividend-increase-to-eur-1-35.pdf/13-11-dsm-reports-strong-2010-results-and-proposes-dividend-increase-to-eur-1-35.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "pres-to-investors-edition-fy-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2010/pres-to-investors-edition-fy-2010.pdf/pres-to-investors-edition-fy-2010.pdf",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "q4-annual-results-2010-analysts.mp3",
+        "file_type": "mp3",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2010/q4-annual-results-2010-analysts.mp3/q4-annual-results-2010-analysts.mp3",
+        "content_type": [
+          "press-release",
+          "financial_filing",
+          "webcast",
+          "presentation",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "DSM is obliged by article 17 of the European Market Abuse Regulation to disclose price-sensitive inside information to the Dutch Authority for the Financial Markets (AFM) and to publish this information via a press release",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "openbaarmaking-voorwetenschap",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": null,
+        "content_type": [
+          "news",
+          "press-release",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2023 () Annual Report 2022 () Annual Report 2021 () Annual Report 2020 () Annual Report 2019 () Annual Report 2018 () Annual Report 2017 ()",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/dsm-annual-report-2023.pdf/dsm-annual-report-2023.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "annual-report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/annual-report-2022.pdf/annual-report-2022.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "annual-report-dsm-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/annual-report-dsm-2021.pdf/annual-report-dsm-2021.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "annual-report-dsm-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/annual-report-dsm-2020.pdf/annual-report-dsm-2020.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "DSM-Annual-Report-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/DSM-Annual-Report-2019.pdf/DSM-Annual-Report-2019.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "dsm-annual-report-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/dsm-annual-report-2018.pdf/dsm-annual-report-2018.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "dsm-annual-report-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2023/dsm-annual-report-2017.pdf/dsm-annual-report-2017.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2016 () Annual Report 2015 () Annual Report 2014 () Annual Report 2013 () Annual Report 2012 () Annual Report 2011 ()",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "dsm-annual-report-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/dsm-annual-report-2016.pdf/dsm-annual-report-2016.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "dsm-annual-report-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/dsm-annual-report-2015.pdf/dsm-annual-report-2015.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "dsm-integrated-annual-report-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/dsm-integrated-annual-report-2014.pdf/dsm-integrated-annual-report-2014.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "dsm-integrated-annual-report-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/dsm-integrated-annual-report-2013.pdf/dsm-integrated-annual-report-2013.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "integrated-annual-report-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/integrated-annual-report-2012.pdf/integrated-annual-report-2012.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      },
+      {
+        "file_name": "integrated-annual-report-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2016/integrated-annual-report-2011.pdf/integrated-annual-report-2011.pdf",
+        "content_type": [
+          "financial_filing",
+          "annual_report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "On May 14, 2024, the Enterprise Chber of the Court of Appeal in sterd (the Enterprise Chber), the Netherlands rendered its judgment in the statutory buy-out proceedings initiated by DSM-Firmenich AG (the Company) to acquire any shares of DSM B.V. (DSM) not already acquired by the Company in its previously completed voluntary cash tender offers for all outstanding DSM ordinary shares (the Shares)",
+    "equity_ticker": "DSFIR",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "claim-indienen",
+        "file_type": "html",
+        "published_date": "2024-05-14",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/DSFIR/2024-05-14/claim-indienen/claim-indienen",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  }
+]

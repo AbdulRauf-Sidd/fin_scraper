@@ -9,6 +9,7 @@ from utils.create_event import create_event
 from utils.create_file_metadata import create_file_metadata
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.get_content_type_from_element import get_content_type_from_element
+from utils.append_to_json import append_to_json_file
 
 class Scraper:
     def __init__(self, utils_module, config_path, page):
@@ -43,41 +44,50 @@ class Scraper:
         if block:
             html_block = await block.inner_html()
             events = llm_all(html_block)
-            for event in events:
-                if (self.periodic) == True:
-                    pass
-                else:
-                    event_name = event['event_name']
-                    date = event['date']
-                    # data = []
-                    hrefs = event['files']
-                    data_list = []
-                    print(hrefs)
-                    for href in hrefs:
-                        print(href, "\n\n")
-                        url = join_url(self.base_url, href)
-                        if url is not None:
-                            file_path, file_name, file_type = download_file(url, 'downloads/')
-                            if file_path is not None:
-                                r2_url = upload_file_to_r2(file_path, f"{self.ticker}/{date}/{file_name}/{file_name}")
-                                if r2_url is not None:
-                                    categories = get_content_type_from_element(event_name, self.category)
-                                    data = create_file_metadata(file_name, file_type, date, r2_url, categories)
-                                    data_list.append(data)
-                                    print('DATA APPENDED')
+            print(events)
+            try:
+                for event in events:
+                    if (self.periodic) == True:
+                        pass
+                    else:
+                        event_name = event['event_name']
+                        date = event['date']
+                        # data = []
+                        hrefs = event['files']
+                        data_list = []
+                        print(hrefs)
+                        for href in hrefs:
+                            print(href, "\n\n")
+                            url = join_url(self.base_url, href)
+                            if url is not None:
+                                file_path, file_name, file_type = download_file(url, 'downloads/')
+                                if file_path is not None:
+                                    print(f"{self.ticker}/{date}/{file_name}/{file_name}\n\n")
+                                    r2_url = upload_file_to_r2(file_path, f"{self.ticker}/{date}/{file_name}")
+                                    if r2_url is not None:
+                                        categories = get_content_type_from_element(event_name, self.category)
+                                        data = create_file_metadata(file_name, file_type, date, r2_url, categories)
+                                        data_list.append(data)
+                                        print('DATA APPENDED')
+                                    else:
+                                        print('R2 URL IS NONE')
                                 else:
-                                    print('R2 URL IS NONE')
+                                    print('FILE PATH IS NONE')
                             else:
-                                print('FILE PATH IS NONE')
-                        else:
-                            print('URL IS NONE')
-                    if len(data_list) == 0:
-                        print('NO DATA OBJECTS FOR EVENT: ', event_name)
-                        continue
-                    event = create_event(event_name, self.ticker, self.geography, self.periodicity, data_list)
-                    event_list.append(event)
-                    print('EVENT: ', event, " ADDED")
-            
+                                print('URL IS NONE')
+                        if len(data_list) == 0:
+                            print('NO DATA OBJECTS FOR EVENT: ', event_name)
+                            continue
+                        event = create_event(event_name, self.ticker, self.geography, self.periodicity, data_list)
+                        event_list.append(event)
+                        print('EVENT: ', event, " ADDED")
+            except TypeError as e:
+                print("Caught an error:", e)
+
+        if len(event_list) != 0:
+            # await append_to_json_file(self.output_file, event_list)
+            return event_list
+            print('JSON DUMPED')
         else:
             print("⚠️ No blocks found")
             return None
@@ -120,6 +130,9 @@ class Scraper:
             all_events = []
             page_num = 1
 
+            with open(self.output_file, 'w', encoding='utf-8') as file:
+                json.dump([], file, indent=2)
+
             try:
                 print(f"🔍 Visiting: {self.base_url}")
                 await self.load_page(page, self.base_url)
@@ -137,7 +150,6 @@ class Scraper:
                     while True:
                         print(f"\n📄 Scraping page {page_num}")
                         events = await self.extract_data_from_page(page)
-                        print('fsdj,fjsdklfjsdklfjdksljfklsdjfklsdjfkldsjfksdjfkldsjflksdjflksdjflkdsjflksdjflksdjfklds')
                         all_events.extend(events)
                         print(f"✅ Scraped {len(events)} items from page {page_num}")
 

@@ -13,21 +13,22 @@
 #     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
 
-# PVH_press:
-#   ticker: PVH
-#   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
-#   output: data/PVH_press.json
-#   output_json: JSONS/PVH_press.json
-#   base_address: https://www.pvh.com/
-#   periodic: false
-#   geography: "US"
-#   llm: true
-#   selectors:
-#     event_block: li.list__item
-#     parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+PVH_press:
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
+  output: data/PVH_press2.json
+  output_json: JSONS/PVH_press2.json
+  base_address: https://www.pvh.com/
+  category: 'news'
+  periodic: false
+  geography: "US"
+  llm: true
+  selectors:
+    event_block: li.list__item
+    parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
 # PVH_reports:
 #   ticker: PVH
@@ -51,7 +52,7 @@
 #     type: null
 #     next_button: null
 
-# PVH_events:       # working
+# PVH_events:       # COMPLETED
 #   ticker: PVH
 #   scraper: null
 #   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
@@ -189,7 +190,7 @@
 #     next_button: a.button.use-ajax[rel='next']
 
 # #DSFIR
-# DSFIR_news:       #working
+# DSFIR_news:       #COMPLETED
 #   ticker: DSFIR
 #   url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
 #   output: data/DSFIR_news.json
@@ -203,7 +204,7 @@
 #     type: button
 #     next_button: div.cmp-button a.cmp-list__pagination--next
 
-# DSFIR_press:    # Error: [Errno 21] Is a directory: 'downloads/
+# DSFIR_press:    # working
 #   ticker: DSFIR
 #   scraper: null
 #   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
@@ -218,12 +219,11 @@
 #     type: year_tabs
 #     next_button: "li.cmp-tabs__tab"
 
-# GIVD_news:          # load more button not working
-#   ticker: GIVD
-#   scraper: null
+# GIVN_news:          # load more button not COMPLETED
+#   ticker: GIVN
 #   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
-#   output: data/GIVD_news.json
-#   output_json: JSONS/GIVD_news.json
+#   output: data/GIVN_news.json
+#   output_json: JSONS/GIVN_news.json
 #   base_address: https://www.givaudan.com/
 #   periodic: false
 #   geography: "US"
@@ -233,7 +233,7 @@
 #     type: load_more
 #     next_button: div.load-more-news button
 
-# IFF_presentations:    # Error: [Errno 21] Is a directory: 'downloads/
+# IFF_presentations:    # COMPLETED
 #   ticker: IFF
 #   url: https://ir.iff.com/events-presentations
 #   output: data/IFF_presentations.json
@@ -291,7 +291,7 @@
 #     type: null
 #     next_button: null
 
-# KO_press:     # working
+# KO_press:     # COMPLETED
 #   ticker: KO
 #   url: https://investors.coca-colacompany.com/news-events/press-releases
 #   output: data/KO_press.json
@@ -305,7 +305,7 @@
 #     type: button
 #     next_button: div.control.next a
 
-# RL_newsroom:      # working
+# RL_newsroom:      # COMPLETED
 #   ticker: RL
 #   url: https://corporate.ralphlauren.com/newsroom
 #   output: data/RL_newsroom.json
@@ -320,7 +320,7 @@
 #     next_button: div.corp-secondary-button a
 
 #SY1
-# SY1_events:     # Error: [Errno 21] Is a directory: 'downloads/
+# SY1_events:     # COMPLETED
 #   ticker: SY1
 #   scraper: null
 #   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
@@ -334,3 +334,46 @@
 #   pagination:
 #     type: null
 #     next_button: null
+
+SY1_news:         # pagination not handled correctly
+  ticker: SY1
+  url: https://www.symrise.com/newsroom/press-releases/
+  output: data/SY1_news.json
+  output_json: JSONS/SY1_news.json
+  base_address: https://www.symrise.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
+
+WDAY_events: #COMPLETED
+  ticker: WDAY
+  scraper: null
+  url: https://investor.workday.com/events#past:2025:3
+  output: data/WDAY_events.json
+  output_json: JSONS/WDAY_events.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.wd_events_month
+  pagination:
+    type: load_more
+    next_button: button.wd_events_more
+
+WDAY_press:
+  ticker: WDAY
+  url: https://investor.workday.com/press-releases
+  output: data/WDAY_press.json
+  output_json: JSONS/WDAY_press.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: .wd_item
+  pagination:
+    type: button
+    next_button: li.wd_page_link.wd_page_next a

@@ -2,7 +2,13 @@ import os
 import boto3
 from pathlib import Path
 import time
+# from dotenv import load_dotenv
 
+# base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# env_path = os.path.join(base_path, '.env')
+# load_dotenv(env_path)
+
+# Load the .env file
 # Set up your Cloudflare R2 credentials and endpoint
 access_key = 'f1ac1dc043a240f996be558cfba72868'
 secret_key = 'de1dd032fe83dc7bc8b8f8b207ca54807fa851b07483428396c141ebaf46d8bb'
@@ -17,9 +23,9 @@ endpoint_url = 'https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.co
 def upload_file_to_r2(file_path, r2_folder):
     session = boto3.session.Session()
     s3 = session.client('s3', 
-                   aws_access_key_id=access_key, 
-                   aws_secret_access_key=secret_key, 
-                   endpoint_url=endpoint_url)   
+                   aws_access_key_id='f1ac1dc043a240f996be558cfba72868', 
+                   aws_secret_access_key="de1dd032fe83dc7bc8b8f8b207ca54807fa851b07483428396c141ebaf46d8bb", 
+                   endpoint_url="https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com")   
     # Check if the file exists
     # if not os.path.isfile(file_path):
     #     continue

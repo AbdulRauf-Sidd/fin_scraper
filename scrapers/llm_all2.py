@@ -1,10 +1,9 @@
 import os
 from mistralai import Mistral
 import json
-import ast
 
 
-def llm_all(html):
+def llm_all2(html):
 
     api_key = os.getenv('API_KEY')
     model = "mistral-large-latest"
@@ -201,55 +200,52 @@ def llm_all(html):
 
 
 Extraction:
-[
-	{
-		"event_name": "Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase",
-		"date": "Feb 20, 2025",
-		"files": ["/news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd"]	
+"Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase | Feb 20, 2025 | /news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd \n
+		
 	},
 	{
-		"event_name": "Coca-Cola Reports Fourth Quarter and Full Year 2024 Results",
-		"date": "Feb 11, 2025",
+		"event_name": "Coca-Cola Reports Fourth Quarter and Full Year 2024 Results"
+		"date": "Feb 11, 2025"
 		"files": ["/news-events/press-releases/detail/1128/coca-cola-reports-fourth-quarter-and-full-year-2024-results"]
 	},
 	{
-		"event_name": "The Coca-Cola Company Announces Timing of Fourth Quarter and Full Year 2024 Earnings Release",
-		"date": "Jan 14, 2025",
+		"event_name": "The Coca-Cola Company Announces Timing of Fourth Quarter and Full Year 2024 Earnings Release"
+		"date": "Jan 14, 2025"
 		"files": ["/news-events/press-releases/detail/1127/the-coca-cola-company-announces-timing-of-fourth-quarter"]
 	},
 	{
-		"event_name": "The Coca-Cola Company Announces Retirement of Director",
-		"date": "Dec 16, 2024",
+		"event_name": "The Coca-Cola Company Announces Retirement of Director"
+		"date": "Dec 16, 2024"
 		"files": ["/news-events/press-releases/detail/1126/the-coca-cola-company-announces-retirement-of-director"]
 	},
 	{
-		"event_name": "The Coca-Cola Company Names Henrique Braun Executive Vice President and Chief Operating Officer",
-		"date": "Dec 11, 2024",
+		"event_name": "The Coca-Cola Company Names Henrique Braun Executive Vice President and Chief Operating Officer"
+		"date": "Dec 11, 2024"
 		"files": ["/news-events/press-releases/detail/1125/the-coca-cola-company-names-henrique-braun-executive-vice"]
 	},
 	{
-		"event_name": "The Coca-Cola Company Evolves Voluntary Environmental Goals",
-		"date": "Dec 02, 2024",
+		"event_name": "The Coca-Cola Company Evolves Voluntary Environmental Goals"
+		"date": "Dec 02, 2024"
 		"files": ["/news-events/press-releases/detail/1124/the-coca-cola-company-evolves-voluntary-environmental-goals"]
 	},
 	{
-		event_name: "The Coca-Cola Company Announces Participation in Morgan Stanley Global Consumer & Retail Conference",
-		date: "Nov 07, 2024",
+		event_name: "The Coca-Cola Company Announces Participation in Morgan Stanley Global Consumer & Retail Conference"
+		date: "Nov 07, 2024"
 		"files": ["/news-events/press-releases/detail/1123/the-coca-cola-company-announces-participation-in-morgan"]
 	},
 	{
-		event_name: "The Coca-Cola Company Announces New Reporting Lines for Costa Coffee and innocent Businesses to Europe Operating Unit",
-		date: "Nov 01, 2024",
+		event_name: "The Coca-Cola Company Announces New Reporting Lines for Costa Coffee and innocent Businesses to Europe Operating Unit"
+		date: "Nov 01, 2024"
 		"files": ["/news-events/press-releases/detail/1122/the-coca-cola-company-announces-new-reporting-lines-for"]
 	},
 	{
-		event_name: "Coca-Cola Reports Third Quarter 2024 Results and Provides Updated Guidance",
-		date: "Oct 23, 2024",
+		event_name: "Coca-Cola Reports Third Quarter 2024 Results and Provides Updated Guidance"
+		date: "Oct 23, 2024"
 		"files": ["/news-events/press-releases/detail/1121/coca-cola-reports-third-quarter-2024-results-and-provides"]
 	},
 	{
-		event_name: "Netflix Executive Bela Bajaria Elected to Board of Directors of The Coca-Cola Company",
-		date: "Oct 17, 2024",
+		event_name: "Netflix Executive Bela Bajaria Elected to Board of Directors of The Coca-Cola Company"
+		date: "Oct 17, 2024"
 		"files": ["/news-events/press-releases/detail/1120/netflix-executive-bela-bajaria-elected-to-board-of"]
 	},
 ]
@@ -723,64 +719,64 @@ HTML:
     Extraction:
 [
 	{
-		"event_name": "Our Purpose and Vision",
-		"date": "NULL",
-		"files": ["/about-us/purpose-and-vision"],
+		"event_name": "Our Purpose and Vision"
+		"date": "NULL"
+		"files": ["/about-us/purpose-and-vision"]
 		
 	},
 	{
-		"event_name": "Privacy Policy (U.S.)",
-		"date": "NULL",
-		"files": ["https://www.coca-cola.com/us/en/legal/privacy-policy"],
+		"event_name": "Privacy Policy (U.S.)"
+		"date": "NULL"
+		"files": ["https://www.coca-cola.com/us/en/legal/privacy-policy"]
 	},
 	{
-		"event_name": "Cookie Policy (U.S.)",
-		"date": "NULL",
-		"files": ["https://www.coca-cola.com/us/en/legal/cookies-policy"],
+		"event_name": "Cookie Policy (U.S.)"
+		"date": "NULL"
+		"files": ["https://www.coca-cola.com/us/en/legal/cookies-policy"]
 	},
     ...
     
     
 	{
-		"event_name": "Overview of Country Sugar Study on Labor Practices",
-		"date": "NULL",
+		"event_name": "Overview of Country Sugar Study on Labor Practices"
+		"date": "NULL"
 		"files": ["/content/dam/company/us/en/policies/pdf/human-workplace-rights/addressing-global-issues/human-rights-in-the-coca-cola-sugar-supply-chain.pdf"]
 	},
     
     ...
     
 	{
-		"event_name": "2023 Workplace Representation Update",
-		"date": "2023",
+		"event_name": "2023 Workplace Representation Update"
+		"date": "2023"
 		"files": ["/content/dam/company/us/en/reports/2023-data-updates/2023-workplace-representation-update.pdf"]
 	},
     
     ...
     
 	{
-		"event_name": "2023 Environmental Update",
-		"date": "2023",
+		"event_name": "2023 Environmental Update"
+		"date": "2023"
 		"files": ["/content/dam/company/us/en/reports/2023-environmental-update/2023-environmental-update.pdf"]
 	},
 	{
-		event_name: "2023 CDP Climate Change Response",
-		date: "2023",
+		event_name: "2023 CDP Climate Change Response"
+		date: "2023"
 		"files": ["https://www.coca-colacompany.com/content/dam/company/us/en/policies/pdf/sustainability/2023-cdp-climate-change-response.pdf"]
 	},
     
     ...
     
 	{
-		event_name: "2018 CDP Climate Change Response",
-		date: "2018",
+		event_name: "2018 CDP Climate Change Response"
+		date: "2018"
 		"files": ["https://www.coca-colacompany.com/content/dam/company/us/en/policies/pdf/sustainability/2018-cdp-climate-change-response.pdf"]
 	},
     
     ...
     
 	{
-		event_name: "2023 Human Rights Update",
-		date: "2023",
+		event_name: "2023 Human Rights Update"
+		date: "2023"
 		"files": ["/content/dam/company/us/en/reports/2023-data-updates/2023-human-rights-update.pdf"]
 	},
 	
@@ -796,7 +792,6 @@ HTML:
     )
     cleaned_text = chat_response.choices[0].message.content.replace('json', '')
     print(cleaned_text)
-    data = ast.literal_eval(cleaned_text)
     return json.loads(cleaned_text)
 
 

@@ -7,13 +7,15 @@ import yaml
 from scrapers.PaginationHandler import PaginationHandler
 
 class Scraper:
-    def __init__(self, utils_module, config_path):
+    def __init__(self, utils_module, config_path, page):
         self.utils = utils_module
         self.pagination_handler = PaginationHandler()
         
         with open(config_path, 'r') as file:
             config = yaml.safe_load(file)
-            self.config = next(iter(config.values()))
+            # self.config = next(iter(config.values()))
+
+        self.config = config[page] 
 
         self.base_url = self.config['url']
         self.base_address = self.config['base_address']
@@ -79,7 +81,7 @@ class Scraper:
 
                 if pag_type == "year_tabs":
                         events = await self.extract_data_from_page(page)
-                        # await self.pagination_handler.switch_all_tabs(page, selector)
+                        await self.pagination_handler.switch_all_tabs(page, selector)
                         all_events.extend(events)
                 
                 elif pag_type == "button" and selector:
@@ -122,14 +124,14 @@ class Scraper:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
                     
-                    await output_event_JSON_to_file(
-                        input_json_file=self.output_file,
-                        output_json_file=self.output_json,
-                        equity_ticker=self.ticker,
-                        geography=self.geography,
-                        periodicity=self.periodicity,
-                        base_url = self.base_address
-                        )
+                    # await output_event_JSON_to_file(
+                    #     input_json_file=self.output_file,
+                    #     output_json_file=self.output_json,
+                    #     equity_ticker=self.ticker,
+                    #     geography=self.geography,
+                    #     periodicity=self.periodicity,
+                    #     base_url = self.base_address
+                    #     )
                 else:
                     print("\n❌ No events found.")
 
