@@ -8,3 +8,4 @@ new_env/
 downloads/*
 content_type_extraction.log
 *.log
+SEC/downloads/*
