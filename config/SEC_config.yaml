@@ -1,0 +1,5 @@
+equities:
+  - ticker: KO
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021344&type=&dateb=&owner=exclude&count=100&search_text="
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
