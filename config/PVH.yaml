@@ -197,6 +197,7 @@ DSFIR_news:       #COMPLETED
   base_address: https://investors.dsm-firmenich.com/
   periodic: false
   geography: "US"
+  forced_type: "news"
   selectors:
     event_block: li.cmp-list__item.common-list__item:is(:visible)
   pagination:

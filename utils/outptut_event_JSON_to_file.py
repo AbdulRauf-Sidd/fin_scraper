@@ -17,7 +17,8 @@ async def construct_event_json(
     equity_ticker: str,
     geography: str,
     periodicity: str,
-    base_url: str
+    base_url: str,
+    forced_type: str
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -60,7 +61,7 @@ async def construct_event_json(
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
 
-    content_type = get_content_type_from_element(html_element)
+    content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
     # If event_name is missing or empty, skip entirely
@@ -130,7 +131,8 @@ async def output_event_JSON_to_file(
     equity_ticker: str,
     geography: str,
     periodicity: str,
-    base_url: str
+    base_url: str,
+    forced_type : str
 ) -> None:
     """
     1) Reads a JSON file containing an array of HTML snippets
@@ -156,7 +158,8 @@ async def output_event_JSON_to_file(
             equity_ticker=equity_ticker,
             geography=geography,
             periodicity=periodicity,
-            base_url=base_url
+            base_url=base_url,
+            forced_type=forced_type  # or None
         )
 
         if result is None:
