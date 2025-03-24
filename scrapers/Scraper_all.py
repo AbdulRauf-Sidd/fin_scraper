@@ -44,6 +44,7 @@ class Scraper:
         if block:
             html_block = await block.inner_html()
             events = llm_all(html_block)
+            print(events)
             try:
                 for event in events:
                     if (self.periodic) == True:
@@ -84,7 +85,8 @@ class Scraper:
                 print("Caught an error:", e)
 
         if len(event_list) != 0:
-            append_to_json_file(self.output_file, event_list)
+            # await append_to_json_file(self.output_file, event_list)
+            return event_list
             print('JSON DUMPED')
         else:
             print("⚠️ No blocks found")
@@ -127,6 +129,9 @@ class Scraper:
 
             all_events = []
             page_num = 1
+
+            with open(self.output_file, 'w', encoding='utf-8') as file:
+                json.dump([], file, indent=2)
 
             try:
                 print(f"🔍 Visiting: {self.base_url}")

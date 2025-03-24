@@ -1,0 +1,352 @@
+[
+  {
+    "event_name": "20 Feb 2025 at 2025 CAGNY Conference Listen to webcast 2025 CAGNY Conference Presentation 7.1 MB",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2025-cagny-conference",
+        "file_type": "html",
+        "published_date": "2025-02-20",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-20/2025-cagny-conference/2025-cagny-conference",
+        "content_type": [
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "starthere.jsp?ei=1703410&tp_key=a03eaf439d",
+        "file_type": "html",
+        "published_date": "2025-02-20",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-20/starthere.jsp?ei=1703410&tp_key=a03eaf439d/starthere.jsp?ei=1703410&tp_key=a03eaf439d",
+        "content_type": [
+          "webcast",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "45cc4f4b-7f1c-4e72-89bf-a657996a0667",
+        "file_type": "pdf",
+        "published_date": "2025-02-20",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-20/45cc4f4b-7f1c-4e72-89bf-a657996a0667/45cc4f4b-7f1c-4e72-89bf-a657996a0667",
+        "content_type": [
+          "webcast",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "19 Feb 2025 at Q4 2024 International Flavors & Fragrances Inc. Earnings Conference Call Listen to webcast",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q4-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "file_type": "html",
+        "published_date": "2025-02-19",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-19/q4-2024-international-flavors-fragrances-inc-earnings-conference-call/q4-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "37376c57-3211-4253-9567-00da50dc4767",
+        "file_type": "pdf",
+        "published_date": "2025-02-19",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-19/37376c57-3211-4253-9567-00da50dc4767/37376c57-3211-4253-9567-00da50dc4767",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "837337d7-26c5-40f0-8eec-0f3da7cf0410",
+        "file_type": "pdf",
+        "published_date": "2025-02-19",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-19/837337d7-26c5-40f0-8eec-0f3da7cf0410/837337d7-26c5-40f0-8eec-0f3da7cf0410",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "614197b4-11a4-48ce-a245-0001453261a5",
+        "file_type": "pdf",
+        "published_date": "2025-02-19",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-19/614197b4-11a4-48ce-a245-0001453261a5/614197b4-11a4-48ce-a245-0001453261a5",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "06 Nov 2024 at Q3 2024 International Flavors & Fragrances Inc. Earnings Conference Call Listen to webcast",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q3-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "file_type": "html",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-06/q3-2024-international-flavors-fragrances-inc-earnings-conference-call/q3-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "67hymnwd",
+        "file_type": "html",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-06/67hymnwd/67hymnwd",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "760887af-2849-4633-88fe-8f9c4977764d",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-06/760887af-2849-4633-88fe-8f9c4977764d/760887af-2849-4633-88fe-8f9c4977764d",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "5d64b8b6-2b2f-45dc-96f8-34969910964c",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-06/5d64b8b6-2b2f-45dc-96f8-34969910964c/5d64b8b6-2b2f-45dc-96f8-34969910964c",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "9496b569-14c7-4cac-a3b4-1819d79150a0",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-06/9496b569-14c7-4cac-a3b4-1819d79150a0/9496b569-14c7-4cac-a3b4-1819d79150a0",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Sep 2024 at Barclays Global Consumer Staples Conference Listen to webcast",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "barclays-global-consumer-staples-conference-4",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/barclays-global-consumer-staples-conference-4/barclays-global-consumer-staples-conference-4",
+        "content_type": [
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8",
+        "content_type": [
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "07 Aug 2024 at Q2 2024 International Flavors & Fragrances Inc. Earnings Conference Call Listen to webcast Q2 2024 Earnings Press Release 583.7 KB Q2 2024 Earnings Press Release Non Gaap 363.6 KB Q2 2024 Earnings Presentation 1.1 MB",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q2-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "file_type": "html",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/q2-2024-international-flavors-fragrances-inc-earnings-conference-call/q2-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "mmztkgyw",
+        "file_type": "html",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/mmztkgyw/mmztkgyw",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "6f3c9d1c-d618-4ddc-a126-b664d05ffe81",
+        "file_type": "pdf",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/6f3c9d1c-d618-4ddc-a126-b664d05ffe81/6f3c9d1c-d618-4ddc-a126-b664d05ffe81",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "472ea932-f3b3-4609-be5e-51c63de4e5c7",
+        "file_type": "pdf",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/472ea932-f3b3-4609-be5e-51c63de4e5c7/472ea932-f3b3-4609-be5e-51c63de4e5c7",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "1b246a94-685e-44c9-9e05-2410bd674780",
+        "file_type": "pdf",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/1b246a94-685e-44c9-9e05-2410bd674780/1b246a94-685e-44c9-9e05-2410bd674780",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "07 May 2024 at Q1 2024 International Flavors & Fragrances Inc. Earnings Conference Call Listen to webcast Q1 2024 Earnings Press Release 438.9 KB Q1 2024 Earnings Press Release Non Gaap 257.6 KB Q1 2024 Earnings Presentation 1.2 MB",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "q1-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "file_type": "html",
+        "published_date": "2024-05-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-07/q1-2024-international-flavors-fragrances-inc-earnings-conference-call/q1-2024-international-flavors-fragrances-inc-earnings-conference-call",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "4u42ycy6",
+        "file_type": "html",
+        "published_date": "2024-05-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-07/4u42ycy6/4u42ycy6",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "18b024cd-0226-4c15-bb8d-e2e3849b4d5a",
+        "file_type": "pdf",
+        "published_date": "2024-05-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-07/18b024cd-0226-4c15-bb8d-e2e3849b4d5a/18b024cd-0226-4c15-bb8d-e2e3849b4d5a",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "0ebe0a1b-9259-4258-87c9-f7b40139420c",
+        "file_type": "pdf",
+        "published_date": "2024-05-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-07/0ebe0a1b-9259-4258-87c9-f7b40139420c/0ebe0a1b-9259-4258-87c9-f7b40139420c",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      },
+      {
+        "file_name": "16573f3b-7f97-4856-bcd2-1a5515ff69da",
+        "file_type": "pdf",
+        "published_date": "2024-05-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-07/16573f3b-7f97-4856-bcd2-1a5515ff69da/16573f3b-7f97-4856-bcd2-1a5515ff69da",
+        "content_type": [
+          "presentation",
+          "webcast",
+          "press-release",
+          "three-month-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "01 May 2024 at Annual Meeting of Shareholders Listen to webcast",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-meeting-shareholders-4",
+        "file_type": "html",
+        "published_date": "2024-05-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-24/annual-meeting-shareholders-4/annual-meeting-shareholders-4",
+        "content_type": [
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "web?pvskey=IFF2024",
+        "file_type": "html",
+        "published_date": "2024-05-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-05-24/web?pvskey=IFF2024/web?pvskey=IFF2024",
+        "content_type": [
+          "webcast"
+        ]
+      }
+    ]
+  }
+]

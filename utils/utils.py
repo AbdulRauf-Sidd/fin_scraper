@@ -6,6 +6,13 @@ import os
 import mimetypes
 import requests
 import time 
+from playwright.async_api import async_playwright
+import csv
+import sys
+import importlib
+from pathlib import Path
+from urllib.parse import urljoin, urlparse
+
 
 async def accept_cookies(page):
     """Accepts cookies if a consent banner appears."""
@@ -25,60 +32,119 @@ async def enable_stealth(page):
             get: () => undefined
         });
     """)
+
+    ###############################################
+    # UNCOMMENT IF NEW IMPLEMENTATION DOESN'T WORK
+    ###############################################
+# def download_file(url, download_folder):
+#     """Download a file from the given URL and save it to the specified folder.
     
-def download_file(url, download_folder):
-    """Download a file from the given URL and save it to the specified folder.
-    
+#     Returns:
+#         file_path (str): The full path of the downloaded file.
+#         filename (str): The name of the file.
+#         file_type (str): The file extension (e.g., "pdf", "docx").
+#     """
+#     filename = os.path.basename(url)
+#     file_path = os.path.join(download_folder, filename)
+
+#     # Ensure the folder exists
+#     os.makedirs(download_folder, exist_ok=True)
+
+#     attempts = 0
+#     while attempts < 3:
+#         try:
+#             print(f"🔍 Attempt {attempts + 1}: Downloading {url}")
+
+#             # Download the file
+#             response = requests.get(url, timeout=10)  # Added timeout for reliability
+#             print(f"📡 Response Status: {response.status_code}")
+
+#             if response.status_code == 200:
+#                 with open(file_path, 'wb') as f:
+#                     f.write(response.content)
+#                 print(f"✅ Successfully downloaded: {file_path}")
+
+#                 # Get file type from response headers or infer from filename
+#                 file_type = response.headers.get('Content-Type')
+#                 print(f"📄 Detected MIME Type: {file_type}")
+
+#                 if file_type:
+#                     file_extension = mimetypes.guess_extension(file_type)
+#                     if file_extension:
+#                         file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
+#                     else:
+#                         file_type = 'html'
+#                 else:
+#                     file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
+
+#                 print(f"🗂️ Final File Type: {file_type}")
+#                 return file_path, filename, file_type
+            
+#             else:
+#                 print(f"⚠️ Failed to download {url}, HTTP Status: {response.status_code}")
+#                 return None, None, None
+
+#         except requests.RequestException as e:
+#             attempts += 1
+#             print(f"❌ Attempt {attempts}: Request error - {str(e)}")
+#             if attempts < 3:
+#                 print("🔄 Retrying in 5 seconds...")
+#                 time.sleep(5)
+#             else:
+#                 print("⛔ Maximum retry attempts reached, failed to download.")
+#                 return None, None, None
+
+async def download_file(url, output_folder="downloads"):
+    """
     Returns:
         file_path (str): The full path of the downloaded file.
         filename (str): The name of the file.
         file_type (str): The file extension (e.g., "pdf", "docx").
     """
     filename = os.path.basename(url)
-    file_path = os.path.join(download_folder, filename)
+    file_path = Path(output_folder) / filename
+    abs_path = str(file_path.resolve())
 
     # Ensure the folder exists
-    os.makedirs(download_folder, exist_ok=True)
+    os.makedirs(output_folder, exist_ok=True)
 
-    attempts = 0
-    while attempts < 3:
-        try:
-            print(f"🔍 Attempt {attempts + 1}: Downloading {url}")
+    print(f"🔍 Visiting: {url}")
+    try:
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=False)
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                extra_http_headers={
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "Referer": "https://www.sec.gov/",
+                }
+            )
+            page = await context.new_page()
+            await page.goto(url, wait_until="domcontentloaded")
 
-            # Download the file
-            response = requests.get(url, timeout=10)  # Added timeout for reliability
-            print(f"📡 Response Status: {response.status_code}")
+            content = await page.content()
+            with open(abs_path, "w", encoding="utf-8") as f:
+                f.write(content)
 
-            if response.status_code == 200:
-                with open(file_path, 'wb') as f:
-                    f.write(response.content)
-                print(f"Downloaded: {file_path}")
+            await browser.close()
+    except Exception as e:
+        print(f"❌ Failed to download {url}: {e}")
+        return None, None, None
 
-               
-        # Get file type from response headers or infer from filename
-            file_type = response.headers.get('Content-Type')
-            if file_type:
-                file_extension = mimetypes.guess_extension(file_type)
-                if file_extension:
-                    file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
-                else:
-                    file_type = 'html'
-            else:
-                file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
-            return file_path, filename, file_type
-            
-        except Exception as e:
-            attempts += 1
-            print(f"❌ Attempt {attempts}: Request error - {str(e)}")
-            if attempts < 3:
-                print("🔄 Retrying in 5 seconds...")
-                time.sleep(5)
-            else:
-                print("⛔ Maximum retry attempts reached, failed to download.")
-                return None, None, None
-    
+    print(f"✅ Successfully downloaded: {abs_path}")
 
-from urllib.parse import urljoin, urlparse
+    # Determine file type
+    mime_type, _ = mimetypes.guess_type(abs_path)
+    if mime_type:
+        ext = mimetypes.guess_extension(mime_type)
+        file_type = ext.lstrip(".") if ext else file_path.suffix.lstrip(".")
+    else:
+        file_type = file_path.suffix.lstrip(".")
+
+    print(f"📄 Detected MIME Type: {mime_type}")
+    print(f"🗂️ Final File Type: {file_type}")
+
+    return abs_path, filename, file_type
 
 def join_url(base_url, href):
     if href is None:

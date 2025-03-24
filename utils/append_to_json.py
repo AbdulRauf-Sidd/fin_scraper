@@ -1,7 +1,7 @@
 import os
 import json
 
-def append_to_json_file(file_path, new_data):
+async def append_to_json_file(file_path, new_data):
     # Check if file exists and has content
     if os.path.isfile(file_path) and os.path.getsize(file_path) > 0:
         # File exists and has content, read the current data

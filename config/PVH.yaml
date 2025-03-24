@@ -13,21 +13,22 @@
 #     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
 
-# PVH_press:
-#   ticker: PVH
-#   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
-#   output: data/PVH_press.json
-#   output_json: JSONS/PVH_press.json
-#   base_address: https://www.pvh.com/
-#   periodic: false
-#   geography: "US"
-#   llm: true
-#   selectors:
-#     event_block: li.list__item
-#     parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+PVH_press:
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
+  output: data/PVH_press2.json
+  output_json: JSONS/PVH_press2.json
+  base_address: https://www.pvh.com/
+  category: 'news'
+  periodic: false
+  geography: "US"
+  llm: true
+  selectors:
+    event_block: li.list__item
+    parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
 # PVH_reports:
 #   ticker: PVH
@@ -203,20 +204,20 @@
 #     type: button
 #     next_button: div.cmp-button a.cmp-list__pagination--next
 
-# DSFIR_press:    # Error: [Errno 21] Is a directory: 'downloads/
-#   ticker: DSFIR
-#   scraper: null
-#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-#   output: data/DSFIR_press.json
-#   output_json: JSONS/DSFIR_press.json
-#   base_address: https://investors.dsm-firmenich.com/
-#   periodic: false
-#   geography: "US"
-#   selectors:
-#     event_block: .cmp-title, .cmp-text, .cmp-image
-#   pagination:
-#     type: year_tabs
-#     next_button: "li.cmp-tabs__tab"
+DSFIR_press:    # Error: [Errno 21] Is a directory: 'downloads/
+  ticker: DSFIR
+  scraper: null
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+  output: data/DSFIR_press.json
+  output_json: JSONS/DSFIR_press.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: .cmp-title, .cmp-text, .cmp-image
+  pagination:
+    type: year_tabs
+    next_button: "li.cmp-tabs__tab"
 
 # GIVD_news:          # load more button not working
 #   ticker: GIVD
@@ -319,7 +320,7 @@
 #     type: load_more
 #     next_button: div.corp-secondary-button a
 
-#SY1
+# SY1
 # SY1_events:     # Error: [Errno 21] Is a directory: 'downloads/
 #   ticker: SY1
 #   scraper: null
