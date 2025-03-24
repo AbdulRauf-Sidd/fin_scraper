@@ -363,3 +363,17 @@ WDAY_events:
   pagination:
     type: load_more
     next_button: button.wd_events_more
+
+WDAY_press:
+  ticker: WDAY
+  url: https://investor.workday.com/press-releases
+  output: data/WDAY_press.json
+  output_json: JSONS/WDAY_press.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: .wd_item
+  pagination:
+    type: button
+    next_button: li.wd_page_link.wd_page_next a

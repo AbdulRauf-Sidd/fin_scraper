@@ -2,11 +2,11 @@ import os
 import boto3
 from pathlib import Path
 import time
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-env_path = os.path.join(base_path, '.env')
-load_dotenv(env_path)
+# base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# env_path = os.path.join(base_path, '.env')
+# load_dotenv(env_path)
 
 # Load the .env file
 # Set up your Cloudflare R2 credentials and endpoint
