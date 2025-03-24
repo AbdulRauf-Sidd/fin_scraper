@@ -62,8 +62,7 @@ async def process_link(sem, browser, doc_link, index, total_links, download_fold
                             print(f"🚫 [{index}-Row {row_index}] Skipped image: {full_url}")
                         else:
                             print(f"✅ [{index}-Row {row_index}] Downloading: {full_url}")
-                            await download_sec_document(full_url)
-                            # await download_file(full_url, download_folder)  # Call download function
+                            await download_file(full_url, download_folder)  # Call download function
 
             print(f"✅ [{index}] Finished processing: {doc_link}")
 
@@ -72,12 +71,9 @@ async def process_link(sem, browser, doc_link, index, total_links, download_fold
         finally:
             await context.close()
 
-
 async def main():
     sem = asyncio.Semaphore(NUM_CONCURRENT_TASKS)
-    download_folder = "SEC/downloads"  # Folder where files will be saved
-    os.makedirs(download_folder, exist_ok=True)  # Ensure the folder exists
-
+    download_folder = "SEC/downloads"
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         tasks = [
@@ -86,50 +82,6 @@ async def main():
         ]
         await asyncio.gather(*tasks)
         await browser.close()
-
-
-
-
-
-import asyncio
-import os
-from playwright.async_api import async_playwright
-
-async def download_sec_document(url, output_folder="downloads"):
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)  # Run in non-headless mode
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-            extra_http_headers={
-                "Accept-Language": "en-US,en;q=0.9",
-                "Referer": "https://www.sec.gov/",
-            }
-        )
-        page = await context.new_page()
-
-        # Ensure output folder exists
-        os.makedirs(output_folder, exist_ok=True)
-
-        print(f"🔍 Visiting: {url}")
-        await page.goto(url, wait_until="domcontentloaded")
-
-        # Extract file name from URL
-        filename = url.split("/")[-1]
-        file_path = os.path.join(output_folder, filename)
-
-        # Save page content
-        content = await page.content()
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(content)
-
-        abs_path = os.path.abspath(file_path)
-        print(f"✅ Downloaded successfully: {abs_path}")
-
-        await browser.close()
-        return abs_path
-
-
-
 
 if __name__ == "__main__":
     asyncio.run(main())
