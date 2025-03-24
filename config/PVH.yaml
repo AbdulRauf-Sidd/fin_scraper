@@ -218,12 +218,11 @@
 #     type: year_tabs
 #     next_button: "li.cmp-tabs__tab"
 
-# GIVD_news:          # load more button not working
-#   ticker: GIVD
-#   scraper: null
+# GIVN_news:          # load more button not working
+#   ticker: GIVN
 #   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
-#   output: data/GIVD_news.json
-#   output_json: JSONS/GIVD_news.json
+#   output: data/GIVN_news.json
+#   output_json: JSONS/GIVN_news.json
 #   base_address: https://www.givaudan.com/
 #   periodic: false
 #   geography: "US"
@@ -233,7 +232,7 @@
 #     type: load_more
 #     next_button: div.load-more-news button
 
-# IFF_presentations:    # Error: [Errno 21] Is a directory: 'downloads/
+# IFF_presentations:    # working
 #   ticker: IFF
 #   url: https://ir.iff.com/events-presentations
 #   output: data/IFF_presentations.json
@@ -320,7 +319,7 @@
 #     next_button: div.corp-secondary-button a
 
 #SY1
-# SY1_events:     # Error: [Errno 21] Is a directory: 'downloads/
+# SY1_events:     # WORKING
 #   ticker: SY1
 #   scraper: null
 #   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
@@ -334,3 +333,32 @@
 #   pagination:
 #     type: null
 #     next_button: null
+
+# SY1_news:         # pagination not handled correctly
+#   ticker: SY1
+#   url: https://www.symrise.com/newsroom/press-releases/
+#   output: data/SY1_news.json
+#   output_json: JSONS/SY1_news.json
+#   base_address: https://www.symrise.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: div.t-table
+#   pagination:
+#     type: year_tabs
+#     next_button: .tab-titles:not(.panel-inverted) a
+
+WDAY_events:
+  ticker: WDAY
+  scraper: null
+  url: https://investor.workday.com/events#past:2025:3
+  output: data/WDAY_events.json
+  output_json: JSONS/WDAY_events.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.wd_events_month
+  pagination:
+    type: load_more
+    next_button: button.wd_events_more
