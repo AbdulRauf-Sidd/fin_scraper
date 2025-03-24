@@ -3,7 +3,13 @@ import sys
 import os
 # from scrapers.Scraper import Scraper
 from scrapers.Scraper_all import Scraper
+from dotenv import load_dotenv
+
 import utils  # Make sure utils/__init__.py exists or import individual functions if needed
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+env_path = os.path.join(base_path, '.env')
+load_dotenv(env_path)
+
 
 def main(config_path):
     scraper = Scraper(utils_module=utils, config_path=config_path, page='PVH_press')

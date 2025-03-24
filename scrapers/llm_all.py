@@ -15,7 +15,7 @@ def llm_all(html):
         messages = [
             {
                 "role": "system",
-                "content": '''You are a extraction system that can provide event names, dates, and the associated files from a raw html content into a json object. You will only respond with a list of JSON objects (ONLY. DON'T INCLUDE ANYTHING ELSE THAT WILL TROUBLE ME CONVERTING THE STRING TO JSON, INCLUDING HE JSON HEADING AT THE TOP) with the event name, date, and files (this will be a list of files where applicalble). where date is not available, use NULL as a place holder. 
+                "content": '''You are a extraction system that can provide event names, dates, and the associated files from a raw html content into a json object. You will only respond with a list of JSON objects (ONLY. DON'T INCLUDE ANYTHING ELSE THAT WILL TROUBLE ME CONVERTING THE STRING TO JSON. EXCLUDE THE JSON HEADING AT THE TOP) with the event name, date, and files (this will be a list of files where applicalble). where date is not available, use NULL as a place holder. 
                 Where 'files' is empty list or event name is empty, DON'T INCLUDE IT IN THE EVENT LIST.
                             here is an example:
 
@@ -202,55 +202,55 @@ def llm_all(html):
 Extraction:
 [
 	{
-		event_name: Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase
-		date: Feb 20, 2025
-		url: [/news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd]
+		"event_name": Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase
+		"date": Feb 20, 2025
+		"files": ["/news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd"]
 		
 	},
 	{
-		event_name: Coca-Cola Reports Fourth Quarter and Full Year 2024 Results
-		date: Feb 11, 2025
-		url: [/news-events/press-releases/detail/1128/coca-cola-reports-fourth-quarter-and-full-year-2024-results]
+		"event_name": Coca-Cola Reports Fourth Quarter and Full Year 2024 Results
+		"date": Feb 11, 2025
+		"files": ["/news-events/press-releases/detail/1128/coca-cola-reports-fourth-quarter-and-full-year-2024-results"]
 	},
 	{
-		event_name: The Coca-Cola Company Announces Timing of Fourth Quarter and Full Year 2024 Earnings Release
-		date: Jan 14, 2025
-		url: [/news-events/press-releases/detail/1127/the-coca-cola-company-announces-timing-of-fourth-quarter]
+		"event_name": The Coca-Cola Company Announces Timing of Fourth Quarter and Full Year 2024 Earnings Release
+		"date": Jan 14, 2025
+		"files": ["/news-events/press-releases/detail/1127/the-coca-cola-company-announces-timing-of-fourth-quarter"]
 	},
 	{
-		event_name: The Coca-Cola Company Announces Retirement of Director
-		date: Dec 16, 2024
-		url: [/news-events/press-releases/detail/1126/the-coca-cola-company-announces-retirement-of-director]
+		"event_name": The Coca-Cola Company Announces Retirement of Director
+		"date": Dec 16, 2024
+		"files": ["/news-events/press-releases/detail/1126/the-coca-cola-company-announces-retirement-of-director"]
 	},
 	{
-		event_name: The Coca-Cola Company Names Henrique Braun Executive Vice President and Chief Operating Officer
-		date: Dec 11, 2024
-		url: [/news-events/press-releases/detail/1125/the-coca-cola-company-names-henrique-braun-executive-vice]
+		"event_name": The Coca-Cola Company Names Henrique Braun Executive Vice President and Chief Operating Officer
+		"date": Dec 11, 2024
+		"files": ["/news-events/press-releases/detail/1125/the-coca-cola-company-names-henrique-braun-executive-vice"]
 	},
 	{
-		event_name: The Coca-Cola Company Evolves Voluntary Environmental Goals
-		date: Dec 02, 2024
-		url: [/news-events/press-releases/detail/1124/the-coca-cola-company-evolves-voluntary-environmental-goals]
+		"event_name": The Coca-Cola Company Evolves Voluntary Environmental Goals
+		"date": Dec 02, 2024
+		"files": ["/news-events/press-releases/detail/1124/the-coca-cola-company-evolves-voluntary-environmental-goals"]
 	},
 	{
 		event_name: The Coca-Cola Company Announces Participation in Morgan Stanley Global Consumer & Retail Conference
 		date: Nov 07, 2024
-		url: [/news-events/press-releases/detail/1123/the-coca-cola-company-announces-participation-in-morgan]
+		"files": ["/news-events/press-releases/detail/1123/the-coca-cola-company-announces-participation-in-morgan"]
 	},
 	{
 		event_name: The Coca-Cola Company Announces New Reporting Lines for Costa Coffee and innocent Businesses to Europe Operating Unit
 		date: Nov 01, 2024
-		url: [/news-events/press-releases/detail/1122/the-coca-cola-company-announces-new-reporting-lines-for]
+		"files": ["/news-events/press-releases/detail/1122/the-coca-cola-company-announces-new-reporting-lines-for"]
 	},
 	{
 		event_name: Coca-Cola Reports Third Quarter 2024 Results and Provides Updated Guidance
 		date: Oct 23, 2024
-		url: [/news-events/press-releases/detail/1121/coca-cola-reports-third-quarter-2024-results-and-provides]
+		"files": ["/news-events/press-releases/detail/1121/coca-cola-reports-third-quarter-2024-results-and-provides"]
 	},
 	{
 		event_name: Netflix Executive Bela Bajaria Elected to Board of Directors of The Coca-Cola Company
 		date: Oct 17, 2024
-		url: [/news-events/press-releases/detail/1120/netflix-executive-bela-bajaria-elected-to-board-of]
+		"files": ["/news-events/press-releases/detail/1120/netflix-executive-bela-bajaria-elected-to-board-of"]
 	},
 ]'''
             },
@@ -262,6 +262,7 @@ Extraction:
         ]
     )
     cleaned_text = chat_response.choices[0].message.content.replace('json', '')
+    print(cleaned_text)
     return json.loads(cleaned_text)
 
 
