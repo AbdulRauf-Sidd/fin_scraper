@@ -2,6 +2,7 @@ from playwright.async_api import async_playwright
 import asyncio
 import csv
 import os
+from utils.utils import download_file
 
 NUM_CONCURRENT_TASKS = 100  # Control concurrency
 input_file_path = "SEC/sec_data.csv"
