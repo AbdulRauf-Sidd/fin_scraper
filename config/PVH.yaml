@@ -1,16 +1,16 @@
-# PVH_news:
-#   ticker: PVH
-#   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
-#   output: data/PVH_news.json
-#   output_json: JSONS/PVH_news.json
-#   base_address: https://www.pvh.com/
-#   periodic: false
-#   geography: "US"
-#   selectors:
-#     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+PVH_news:
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
+  output: data/PVH_news.json
+  output_json: JSONS/PVH_news.json
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
 
 PVH_press:
@@ -124,23 +124,23 @@ PVH_press:
 #   cutoff:
 #     years_back: 5 
 
-# CRDA_esg:     # Downloads unsuccessful 403
-#   ticker: CRDA
-#   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
-#   output: data/CRDA_esg.json
-#   output_json: JSONS/CRDA_esg.json
-#   base_address: https://www.croda.com/en-gb/
-#   periodic: false
-#   geography: "US"
-#   selectors:
-#     event_block: div.card-body
-#   pagination:
-#     type: null
-#     next_button: null
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
+CRDA_esg:     # Downloads unsuccessful 403
+  ticker: CRDA
+  url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
+  output: data/CRDA_esg.json
+  output_json: JSONS/CRDA_esg.json
+  base_address: https://www.croda.com/en-gb/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.card-body
+  pagination:
+    type: null
+    next_button: null
+  defaults:
+    event_type: webcast
+  cutoff:
+    years_back: 5
 
 # CRDA_presentations:     # Too many irrelevant event blocks scrapped
 #   ticker: CRDA
@@ -377,3 +377,18 @@ WDAY_press:
   pagination:
     type: button
     next_button: li.wd_page_link.wd_page_next a
+
+WMT_quarterly:
+  ticker: WMT
+  scraper: null
+  url: https://stock.walmart.com/financial-information/vizio-historical-financials
+  output: data/WMT_quarterly.json
+  output_json: JSONS/WMT_quarterly.json
+  base_address: https://stock.walmart.com/
+  periodic: true
+  geography: "US"
+  selectors:
+    event_block: div.box quarterly-results
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
