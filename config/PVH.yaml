@@ -204,20 +204,20 @@ PVH_press:
 #     type: button
 #     next_button: div.cmp-button a.cmp-list__pagination--next
 
-DSFIR_press:    # Error: [Errno 21] Is a directory: 'downloads/
-  ticker: DSFIR
-  scraper: null
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-  output: data/DSFIR_press.json
-  output_json: JSONS/DSFIR_press.json
-  base_address: https://investors.dsm-firmenich.com/
-  periodic: false
-  geography: "US"
-  selectors:
-    event_block: .cmp-title, .cmp-text, .cmp-image
-  pagination:
-    type: year_tabs
-    next_button: "li.cmp-tabs__tab"
+# DSFIR_press:    # working
+#   ticker: DSFIR
+#   scraper: null
+#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   output: data/DSFIR_press.json
+#   output_json: JSONS/DSFIR_press.json
+#   base_address: https://investors.dsm-firmenich.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: .cmp-title, .cmp-text, .cmp-image
+#   pagination:
+#     type: year_tabs
+#     next_button: "li.cmp-tabs__tab"
 
 # GIVN_news:          # load more button not working
 #   ticker: GIVN
