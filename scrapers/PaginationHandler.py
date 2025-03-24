@@ -56,20 +56,45 @@ class PaginationHandler:
             pass
         return False
 
-    async def switch_all_tabs(page, tab_selector):
-        """Switches through all tabs without scraping."""
-
+    async def switch_all_tabs(self, page, tab_selector):
+        """Switches through all tabs without scraping, handling potential blockers."""
+        
+        # Handle consent banner if present
+        try:
+            consent_button = await page.query_selector("#onetrust-accept-btn-handler")
+            if consent_button:
+                print("✅ Accepting cookie consent...")
+                await consent_button.click()
+                await page.wait_for_timeout(1000)  # Small delay to ensure it disappears
+        except Exception as e:
+            print(f"⚠️ Consent banner not found or error: {e}")
+    
         # Select all tab elements
         tabs = await page.query_selector_all(tab_selector)
-
+    
         for tab in tabs:
-            # Extract tab text (year)
             year = await tab.inner_text()
+            
+            # Check if the tab is already active
+            class_attr = await tab.get_attribute("class") or ""
+            if "active" in class_attr:
+                print(f"Skipping active tab: {year}")
+                continue
+            
             print(f"Switching to tab: {year}")
-
-            # Click the tab to switch
-            await tab.click()
-            await page.wait_for_timeout(1500)
+    
+            try:
+                # Ensure tab is in view
+                await tab.scroll_into_view_if_needed()
+    
+                # Click the tab
+                await tab.click(force=True)  # `force=True` bypasses overlays if possible
+                
+                # Wait for new content to load (adjust selector)
+                await page.wait_for_selector("div.t-table", timeout=5000)
+    
+            except Exception as e:
+                print(f"⚠️ Error switching to {year}: {e}")
 
     async def handle_multiple_page_urls(self, page, base_url, subpage_selector):
         """Finds page URLs (e.g. index.php?...) and returns all unique URLs."""
