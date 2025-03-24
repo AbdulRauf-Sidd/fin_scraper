@@ -15,5 +15,5 @@ def load_sec_config(config_path: str = "config/SEC_config.yaml") -> list[dict]:
     return equities
 
 
-equities = load_sec_config()
-print(equities[0]['ticker'])  # AAPL
+# equities = load_sec_config()
+# print(equities[0]['ticker'])  # AAPL
