@@ -123,7 +123,7 @@ CORZ_press:         # Pagination not being handled correctly
   cutoff:
     years_back: 5 
 
-CRDA_esg:     # Downloads unsuccessful 403
+CRDA_esg:     #COMPLETED
   ticker: CRDA
   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
   output: data/CRDA_esg.json
@@ -204,7 +204,7 @@ DSFIR_news:       #COMPLETED
     type: button
     next_button: div.cmp-button a.cmp-list__pagination--next
 
-DSFIR_press:    # working
+DSFIR_press:    #COMPLETED
   ticker: DSFIR
   scraper: null
   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
@@ -363,7 +363,7 @@ WDAY_events: #COMPLETED
     type: load_more
     next_button: button.wd_events_more
 
-WDAY_press:
+WDAY_press: #COMPLETED
   ticker: WDAY
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
@@ -376,3 +376,18 @@ WDAY_press:
   pagination:
     type: button
     next_button: li.wd_page_link.wd_page_next a
+
+WMT_quarterly:  #COMPLETED
+  ticker: WMT
+  scraper: null
+  url: https://stock.walmart.com/financial-information/vizio-historical-financials
+  output: data/WMT_quarterly.json
+  output_json: JSONS/WMT_quarterly.json
+  base_address: https://stock.walmart.com/
+  periodic: true
+  geography: "US"
+  selectors:
+    event_block: div.box quarterly-results
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
