@@ -123,7 +123,7 @@ CORZ_press:         # Pagination not being handled correctly
   cutoff:
     years_back: 5 
 
-CRDA_esg:     # Downloads unsuccessful 403
+CRDA_esg:     #COMPLETED
   ticker: CRDA
   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
   output: data/CRDA_esg.json
@@ -203,7 +203,7 @@ DSFIR_news:       #COMPLETED
     type: button
     next_button: div.cmp-button a.cmp-list__pagination--next
 
-DSFIR_press:    # working
+DSFIR_press:    #COMPLETED
   ticker: DSFIR
   scraper: null
   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
@@ -362,7 +362,7 @@ WDAY_events: #COMPLETED
     type: load_more
     next_button: button.wd_events_more
 
-WDAY_press:
+WDAY_press: #COMPLETED
   ticker: WDAY
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
@@ -376,7 +376,7 @@ WDAY_press:
     type: button
     next_button: li.wd_page_link.wd_page_next a
 
-WMT_quarterly:
+WMT_quarterly:  #COMPLETED
   ticker: WMT
   scraper: null
   url: https://stock.walmart.com/financial-information/vizio-historical-financials
