@@ -1,28 +1,25 @@
 # PVH_news:
 #   ticker: PVH
-#   scraper: FlatListScraper
 #   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
 #   output: data/PVH_news.json
+#   output_json: JSONS/PVH_news.json
 #   base_address: https://www.pvh.com/
-#   periodic: true
+#   periodic: false
+#   geography: "US"
 #   selectors:
 #     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
 #   pagination:
 #     type: button
 #     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
+
 
 # PVH_press:
 #   ticker: PVH
-#   scraper: FlatListScraper
-#   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
-#   output: data/PVH_news.json
+#   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
+#   output: data/PVH_press.json
+#   output_json: JSONS/PVH_press.json
 #   base_address: https://www.pvh.com/
 #   periodic: false
-#   category: 'news'
 #   geography: "US"
 #   llm: true
 #   selectors:
@@ -42,10 +39,6 @@
 #   pagination:
 #     type: null
 #     next_button: null
-#   defaults:
-#     source_type: company_information
-#   cutoff:
-#     years_back: 5
 
 # PVH_resources:
 #   ticker: PVH
@@ -57,35 +50,50 @@
 #   pagination:
 #     type: null
 #     next_button: null
+
+# PVH_events:       # working
+#   ticker: PVH
+#   scraper: null
+#   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
+#   output: data/PVH_events.json
+#   output_json: JSONS/PVH_events.json
+#   base_address: https://www.pvh.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: li.list__item
+#   pagination:
+#     type: button
+#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+
+# CORZ_financial-information:
+#   ticker: CORZ
+#   scraper: null
+#   url: https://investors.corescientific.com/financial-information/financial-results
+#   output: data/CORZ_financial-information.json
+#   output_json: JSONS/CORZ_financial-information.json
+#   base_address: https://investors.corescientific.com/
+#   periodic: true
+#   geography: "US"
+#   selectors:
+#     event_block: xpath=//div[@class=" row"]
+#   pagination:
+#     type: null
+#     next_button: null
 #   defaults:
-#     source_type: company_information
+#     event_type: webcast
 #   cutoff:
 #     years_back: 5
-
-CORZ_financial-information:
-  ticker: CORZ
-  scraper: null
-  url: https://investors.corescientific.com/financial-information/financial-results
-  output: data/CORZ_financial-information.json
-  output_json: JSONS/CORZ_financial-information.json
-  base_address: https://investors.corescientific.com/
-  periodic: false
-  geography: "US"
-  selectors:
-    event_block: xpath=//div[@class=" row"]
-  pagination:
-    type: null
-    next_button: null
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
 # CORZ_presentations:
 #   ticker: CORZ
 #   scraper: null
 #   url: https://investors.corescientific.com/news-events/presentations
 #   output: data/CORZ_presentations.json
+#   output_json: JSONS/CORZ_presentations.json
+#   base_address: https://investors.corescientific.com/
+#   periodic: false
+#   geography: "US"
 #   selectors:
 #     event_block: article.media
 #   pagination:
@@ -101,23 +109,28 @@ CORZ_financial-information:
 #   scraper: null
 #   url: https://investors.corescientific.com/news-events/press-releases
 #   output: data/CORZ_press.json
+#   output_json: JSONS/CORZ_press.json
+#   base_address: https://investors.corescientific.com/
+#   periodic: false
+#   geography: "US"
 #   selectors:
 #     event_block: article.media
 #   pagination:
 #     type: next_page_url
-#     next_button: page-link
+#     next_button: a.page-link
 #   defaults:
 #     event_type: webcast
 #   cutoff:
 #     years_back: 5 
 
-# CRDA_esg:
+# CRDA_esg:     # Downloads unsuccessful 403
 #   ticker: CRDA
-#   scraper: null
 #   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
 #   output: data/CRDA_esg.json
-#   base_address: https://www.pvh.com/
+#   output_json: JSONS/CRDA_esg.json
+#   base_address: https://www.croda.com/en-gb/
 #   periodic: false
+#   geography: "US"
 #   selectors:
 #     event_block: div.card-body
 #   pagination:
@@ -127,3 +140,197 @@ CORZ_financial-information:
 #     event_type: webcast
 #   cutoff:
 #     years_back: 5
+
+# CRDA_presentations:     # Too many irrelevant event blocks scrapped
+#   ticker: CRDA
+#   scraper: null
+#   url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+#   output: data/CRDA_presentations.json
+#   output_json: JSONS/CRDA_presentations.json
+#   base_address: https://www.croda.com/en-gb/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: table.c-responsive-table tbody tr
+#   pagination:
+#     type: null
+#     next_button: null
+
+# CBP_events:         # Pagination not being handled correctly
+#   ticker: CBP
+#   url: https://investor.thecampbellscompany.com/events-presentations
+#   output: data/CBP_events.json
+#   output_json: JSONS/CBP_events.json
+#   base_address: https://investor.thecampbellscompany.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: article.node--nir-event--nir-widget-list
+#   pagination:
+#     type: next_page_url
+#     next_button: li.pager__item--next a
+#   defaults:
+#     event_type: webcast
+#   cutoff:
+#     years_back: 5
+
+# CBP_news:
+#   ticker: CBP
+#   url: https://investor.thecampbellscompany.com/news/financial-news
+#   output: data/CBP_news.json
+#   output_json: JSONS/CBP_news.json
+#   base_address: https://investor.thecampbellscompany.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: article.node--nir-news--nir-widget-list
+#   pagination:
+#     type: load_more
+#     next_button: a.button.use-ajax[rel='next']
+
+# #DSFIR
+# DSFIR_news:       #working
+#   ticker: DSFIR
+#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
+#   output: data/DSFIR_news.json
+#   output_json: JSONS/DSFIR_news.json
+#   base_address: https://investors.dsm-firmenich.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: li.cmp-list__item.common-list__item:is(:visible)
+#   pagination:
+#     type: button
+#     next_button: div.cmp-button a.cmp-list__pagination--next
+
+# DSFIR_press:    # Error: [Errno 21] Is a directory: 'downloads/
+#   ticker: DSFIR
+#   scraper: null
+#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   output: data/DSFIR_press.json
+#   output_json: JSONS/DSFIR_press.json
+#   base_address: https://investors.dsm-firmenich.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: .cmp-title, .cmp-text, .cmp-image
+#   pagination:
+#     type: year_tabs
+#     next_button: "li.cmp-tabs__tab"
+
+# GIVD_news:          # load more button not working
+#   ticker: GIVD
+#   scraper: null
+#   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
+#   output: data/GIVD_news.json
+#   output_json: JSONS/GIVD_news.json
+#   base_address: https://www.givaudan.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: div.views-row.show
+#   pagination:
+#     type: load_more
+#     next_button: div.load-more-news button
+
+# IFF_presentations:    # Error: [Errno 21] Is a directory: 'downloads/
+#   ticker: IFF
+#   url: https://ir.iff.com/events-presentations
+#   output: data/IFF_presentations.json
+#   output_json: JSONS/IFF_presentations.json
+#   base_address: https://ir.iff.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: article.node--nir-event--nir-widget-list
+#   pagination:
+#     type: null
+#     next_button: null
+
+# IFF_press:      # pagination not being handled correctly
+#   ticker: IFF
+#   scraper: null
+#   url: https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base
+#   output: data/IFF_press.json
+#   output_json: JSONS/IFF_press.json
+#   base_address: https://ir.iff.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: .nir-widget--list article
+#   pagination:
+#     type: next_page_url
+#     next_button: a
+
+# KO_company-updates:     # scrapped 4 blocks instead of 6
+#   ticker: KO
+#   scraper: null
+#   url: https://investors.coca-colacompany.com/
+#   output: data/KO_company-updates.json
+#   output_json: JSONS/KO_company-updates.json
+#   base_address: https://investors.coca-colacompany.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: .ir-cta-event-with-documents
+#   pagination:
+#     type: null
+#     next_button: null
+
+# KO_poclicies-practices-reports:     # all events not scrapped
+#   ticker: KO
+#   url: https://www.coca-colacompany.com/policies-and-practices/
+#   output: data/KO_poclicies-practices-reports.json
+#   output_json: JSONS/KO_poclicies-practices-reports.json
+#   base_address: https://www.coca-colacompany.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: div.cmp-accordion__item div div div div div div ul li
+#   pagination:
+#     type: null
+#     next_button: null
+
+# KO_press:     # working
+#   ticker: KO
+#   url: https://investors.coca-colacompany.com/news-events/press-releases
+#   output: data/KO_press.json
+#   output_json: JSONS/KO_press.json
+#   base_address: https://investors.coca-colacompany.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: article.media
+#   pagination:
+#     type: button
+#     next_button: div.control.next a
+
+# RL_newsroom:      # working
+#   ticker: RL
+#   url: https://corporate.ralphlauren.com/newsroom
+#   output: data/RL_newsroom.json
+#   output_json: JSONS/RL_newsroom.json
+#   base_address: https://corporate.ralphlauren.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: .newsroom-content .corp-news
+#   pagination:
+#     type: load_more
+#     next_button: div.corp-secondary-button a
+
+#SY1
+# SY1_events:     # Error: [Errno 21] Is a directory: 'downloads/
+#   ticker: SY1
+#   scraper: null
+#   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
+#   output: data/SY1_events.json
+#   output_json: JSONS/SY1_events.json
+#   base_address: https://www.symrise.com/
+#   periodic: false
+#   geography: "US"
+#   selectors:
+#     event_block: div.t-row
+#   pagination:
+#     type: null
+#     next_button: null

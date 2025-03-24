@@ -2,23 +2,53 @@ import asyncio
 from urllib.parse import urljoin
 
 class PaginationHandler:
-    async def click_load_more(self, page, selector):
+    async def click_load_more(self, page, selector, event_selector):
         """Clicks 'Load More' until it disappears."""
         while True:
             try:
                 button = await page.query_selector(selector)
                 if not button:
-                    break
+                    print("✅ No 'Load More' button found.")
+                    break  # Exit loop if no button exists
+                
+                print("🔘 Found 'Load More' button, clicking...")
                 await button.click()
-                await asyncio.sleep(2)
-            except Exception:
+                await asyncio.sleep(10)  # Small delay to allow click effect
+    
+                # Check if button gets removed
+                button_after_click = await page.query_selector(selector)
+                if not button_after_click:
+                    print("✅ 'Load More' button disappeared after clicking.")
+    
+                # previous_count = len(await page.query_selector_all(event_selector))
+                # print(f"📊 Previous items count: {previous_count}")
+    
+                # max_wait_time = 10
+                # elapsed_time = 0
+    
+                # while elapsed_time < max_wait_time:
+                    # await asyncio.sleep(1)
+                    # elapsed_time += 1
+                    
+                    # current_count = len(await page.query_selector_all(event_selector))
+                    # print(f"🔄 Checking for new content... Current count: {current_count}")
+    
+                    # if current_count > previous_count:
+                        # print(f"✅ Loaded {current_count - previous_count} new items.")
+                        # break  # New content detected, stop waiting
+                    
+                # if elapsed_time >= max_wait_time:
+                    # print("⚠️ Timed out waiting for new content to load.")
+    
+            except Exception as e:
+                print(f"❌ Error in click_load_more: {e}")
                 break
 
     async def click_next_page(self, page, next_button_selector):
         """Clicks 'Next Page' button using aria-label or class."""
         try:
             button = await page.query_selector(next_button_selector)
-            if button:
+            if button and await button.is_visible():
                 await button.click()
                 await asyncio.sleep(2)
                 return True
@@ -26,21 +56,20 @@ class PaginationHandler:
             pass
         return False
 
-    async def switch_year_tabs(self, page, year_list, selector_template):
-        """
-        Clicks on each year filter button.
-        selector_template = ".tab-titles a[href*='year={year}']"
-        """
-        for year in year_list:
-            try:
-                selector = selector_template.format(year=year)
-                button = await page.query_selector(selector)
-                if button:
-                    await button.click()
-                    await asyncio.sleep(3)
-                    yield year  # Let scraper call the extraction logic
-            except Exception:
-                continue
+    async def switch_all_tabs(page, tab_selector):
+        """Switches through all tabs without scraping."""
+
+        # Select all tab elements
+        tabs = await page.query_selector_all(tab_selector)
+
+        for tab in tabs:
+            # Extract tab text (year)
+            year = await tab.inner_text()
+            print(f"Switching to tab: {year}")
+
+            # Click the tab to switch
+            await tab.click()
+            await page.wait_for_timeout(1500)
 
     async def handle_multiple_page_urls(self, page, base_url, subpage_selector):
         """Finds page URLs (e.g. index.php?...) and returns all unique URLs."""
@@ -73,14 +102,14 @@ class PaginationHandler:
                 print(f"⚠️ Error clicking pagination button: {e}")
                 break  # Stop pagination on error
     
-    async def find_and_navigate_next_page(self, page, base_url):
+    async def find_and_navigate_next_page(self, page, base_url, next_button_selector):
         """Finds the next page URL and navigates to it."""
         try:
-            await page.wait_for_selector("a", timeout=5000)
-            all_links = await page.query_selector_all("a")
+            await page.wait_for_selector("a", timeout=10000)
+            all_links = await page.query_selector_all(next_button_selector)
             for link in all_links:
                 text = await link.inner_text()
-                if "Next" in text or ">" in text:
+                if "Next" in text or ">" in text or "next" in text:
                     next_page_url = await link.get_attribute("href")
                     if next_page_url:
                         full_url = urljoin(base_url, next_page_url)

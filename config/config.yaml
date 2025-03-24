@@ -116,24 +116,18 @@
 #     years_back: 5
 
 
-CRDA_presentations:
-  ticker: CRDA
-  scraper: null
-  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
-  output: data/CRDA_presentations.json
-  selectors:
-    event_block:
-      - table.c-responsive-table
-      # - div.event-list  # Additional selector example
-  pagination:
-    type: year_tabs
-    next_button: null
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-  retries: 3
-  scroll_delay: 2
+# CRDA_presentations:
+#   ticker: CRDA
+#   scraper: null
+#   url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+#   output: data/CRDA_presentations.json
+#   selectors:
+#     event_block:
+#       - table.c-responsive-table
+#       # - div.event-list  # Additional selector example
+#   pagination:
+#     type: year_tabs
+#     next_button: null
 
 
 
@@ -179,7 +173,7 @@ CRDA_presentations:
 #   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
 #   output: data/GIVD_news.json
 #   selectors:
-#     event_block: div.views-row show
+#     event_block: div.views-row.show
 #   pagination:
 #     type: button
 #     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
@@ -247,14 +241,10 @@ KO_poclicies-practices-reports:
   url: https://www.coca-colacompany.com/policies-and-practic
   output: data/KO_poclicies-practices-reports.json
   selectors:
-    event_block: div.cmp-accordion__item
+    event_block: li
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    type: null
+    next_button: null
 
 
 KO_press:
@@ -318,10 +308,6 @@ PINS_news:
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
 
 
@@ -416,8 +402,8 @@ RL_newsroom:
   selectors:
     event_block: div.corp-news
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    type: load_more
+    next_button: div.corp-secondary-button a
   defaults:
     event_type: webcast
   cutoff:

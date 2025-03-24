@@ -1,0 +1,175 @@
+[
+  {
+    "event_name": "05 Mar 2025 IFF Declares Dividend for First Quarter 2025",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-declares-dividend-first-quarter-2025",
+        "file_type": "html",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025/iff-declares-dividend-first-quarter-2025/iff-declares-dividend-first-quarter-2025",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "25 Feb 2025 IFF Announces Expansion of Cedar Rapids, Iowa Ingredients Facility",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-announces-expansion-cedar-rapids-iowa-ingredients-facility",
+        "file_type": "html",
+        "published_date": "2025-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-announces-executive-leadership-team-aligned-new-operating",
+        "file_type": "html",
+        "published_date": "2025-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-announces-executive-leadership-team-aligned-new-operating/iff-announces-executive-leadership-team-aligned-new-operating",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "18 Feb 2025 IFF Reports Fourth Quarter and Full Year 2024 Results",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-reports-fourth-quarter-and-full-year-2024-results",
+        "file_type": "html",
+        "published_date": "2025-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-reports-fourth-quarter-and-full-year-2024-results/iff-reports-fourth-quarter-and-full-year-2024-results",
+        "content_type": [
+          "news",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "23 Jan 2025 IFF to Release Fourth Quarter & Full Year 2024 Results on Feb. 18, 2025; IFF to Present at 2025 CAGNY Conference on Feb. 20, 2025",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-release-fourth-quarter-full-year-2024-results-feb-18-2025",
+        "file_type": "html",
+        "published_date": "2025-02-18",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-18/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-announces-board-directors-changes",
+        "file_type": "html",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/iff-announces-board-directors-changes/iff-announces-board-directors-changes",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "10 Dec 2024 IFF Nes Michael DeVeau Chief Financial Officer",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-names-michael-deveau-chief-financial-officer",
+        "file_type": "html",
+        "published_date": "2024-03-24",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/iff-names-michael-deveau-chief-financial-officer/iff-names-michael-deveau-chief-financial-officer",
+        "content_type": [
+          "news",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "05 Nov 2024 IFF Reports Third Quarter 2024 Results",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-reports-third-quarter-2024-results",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/iff-reports-third-quarter-2024-results/iff-reports-third-quarter-2024-results",
+        "content_type": [
+          "news",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "30 Oct 2024 IFF Declares Dividend for Fourth Quarter 2024",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-declares-dividend-fourth-quarter-2024",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/iff-declares-dividend-fourth-quarter-2024/iff-declares-dividend-fourth-quarter-2024",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "17 Oct 2024 IFF to Release Third Quarter 2024 Results on November 5, 2024",
+    "equity_ticker": "IFF",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "iff-release-third-quarter-2024-results-november-5-2024",
+        "file_type": "html",
+        "published_date": "2024-11-05",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-05/iff-release-third-quarter-2024-results-november-5-2024/iff-release-third-quarter-2024-results-november-5-2024",
+        "content_type": [
+          "news"
+        ]
+      }
+    ]
+  }
+]

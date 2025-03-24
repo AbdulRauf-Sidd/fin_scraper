@@ -43,35 +43,45 @@ def download_file(url, download_folder):
     attempts = 0
     while attempts < 3:
         try:
+            print(f"🔍 Attempt {attempts + 1}: Downloading {url}")
+
             # Download the file
-            response = requests.get(url)
+            response = requests.get(url, timeout=10)  # Added timeout for reliability
+            print(f"📡 Response Status: {response.status_code}")
+
             if response.status_code == 200:
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
-                print(f"Downloaded: {file_path}")
+                print(f"✅ Successfully downloaded: {file_path}")
 
-               
-        # Get file type from response headers or infer from filename
-            file_type = response.headers.get('Content-Type')
-            if file_type:
-                file_extension = mimetypes.guess_extension(file_type)
-                if file_extension:
-                    file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
+                # Get file type from response headers or infer from filename
+                file_type = response.headers.get('Content-Type')
+                print(f"📄 Detected MIME Type: {file_type}")
+
+                if file_type:
+                    file_extension = mimetypes.guess_extension(file_type)
+                    if file_extension:
+                        file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
+                    else:
+                        file_type = 'html'
                 else:
-                    file_type = 'html'
+                    file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
+
+                print(f"🗂️ Final File Type: {file_type}")
+                return file_path, filename, file_type
+            
             else:
-                file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
-            
-            return file_path, filename, file_type
-            
-        except Exception as e:
+                print(f"⚠️ Failed to download {url}, HTTP Status: {response.status_code}")
+                return None, None, None
+
+        except requests.RequestException as e:
             attempts += 1
-            print(f"Attempt {attempts}: Failed to download file. Error: {str(e)}")
+            print(f"❌ Attempt {attempts}: Request error - {str(e)}")
             if attempts < 3:
-                print("Retrying in 5 seconds...")
+                print("🔄 Retrying in 5 seconds...")
                 time.sleep(5)
             else:
-                print("Maximum retry attempts reached, failed to download.")
+                print("⛔ Maximum retry attempts reached, failed to download.")
                 return None, None, None
     
 

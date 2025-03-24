@@ -78,9 +78,8 @@ class Scraper:
                 selector = self.pagination.get("next_button")
 
                 if pag_type == "year_tabs":
-                    async for year_url in self.pagination_handler.navigate_to_years(page, self.base_url):
-                        print(f"\n📄 Scraping year tab: {year_url}")
                         events = await self.extract_data_from_page(page)
+                        # await self.pagination_handler.switch_all_tabs(page, selector)
                         all_events.extend(events)
                 
                 elif pag_type == "button" and selector:
@@ -97,9 +96,8 @@ class Scraper:
                         page_num += 1
 
                 elif pag_type == "load_more":
-                    load_selector = self.pagination.get("load_more_button")
-                    if load_selector:
-                        await self.pagination_handler.click_load_more(page, load_selector)
+                    if selector:
+                        await self.pagination_handler.click_load_more(page, selector, self.selector)
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
                 elif pag_type == "next_page_url":
@@ -109,7 +107,7 @@ class Scraper:
                         all_events.extend(events)
                         print(f"✅ Scraped {len(events)} items from page {page_num}")
 
-                        success = await self.pagination_handler.find_and_navigate_next_page(page, self.base_url)
+                        success = await self.pagination_handler.find_and_navigate_next_page(page, self.base_url, selector)
                         if not success:
                             print("✅ No more pages.")
                             break
@@ -120,7 +118,6 @@ class Scraper:
                     all_events.extend(events)
 
                 if all_events:
-                    print("sdjfksdjfksdjf")
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")

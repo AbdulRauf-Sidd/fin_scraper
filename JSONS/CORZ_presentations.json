@@ -1,0 +1,207 @@
+[
+  {
+    "event_name": "Feb 26, 2025 Fourth Quarter Fiscal Year 2024 Earnings Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-02-26",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2025-02-26/CORZ+Earnings+Presentation+Q4+2024.pdf/CORZ+Earnings+Presentation+Q4+2024.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Dec 3, 2024 December 2024 Convertible Note Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Core+Scientific+December+2024+Company+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-03",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-03/Core+Scientific+December+2024+Company+Presentation.pdf/Core+Scientific+December+2024+Company+Presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Nov 6, 2024 Third Quarter Fiscal Year 2024 Earnings Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-11-06/Core+Scientific+Q3+2024+Earnings+Presentation.pdf/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Aug 7, 2024 Second Quarter Fiscal Year 2024 Earnings Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-08-07",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-08-07/Core+Scientific+Q2+2024+Earnings+Presentation.pdf/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Invor and Analyst Event June 12, 2024 Transcript",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "June+2024+Investor+Day+Transcript+061224.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-12",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-12/June+2024+Investor+Day+Transcript+061224.pdf/June+2024+Investor+Day+Transcript+061224.pdf",
+        "content_type": [
+          "transcript"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Jun 12, 2024 Core Scientific Invor and Analyst Presentation June 12, 2024",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Core+Scientific+Investor+Day+Presentation+2024.06.12.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-12",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-12/Core+Scientific+Investor+Day+Presentation+2024.06.12.pdf/Core+Scientific+Investor+Day+Presentation+2024.06.12.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Jun 5, 2024 Core Scientific & CoreWeave 200MW HPC Hosting Agreement Infographic",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "FINAL+CORZ+CoreWeave+Agreements+Infographic.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-05",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-05/FINAL+CORZ+CoreWeave+Agreements+Infographic.pdf/FINAL+CORZ+CoreWeave+Agreements+Infographic.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Jun 3, 2024 Core Scientific HPC Hosting Announcement Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "FINAL+CORZ+HPC+Release+Slides.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-03",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-03/FINAL+CORZ+HPC+Release+Slides.pdf/FINAL+CORZ+HPC+Release+Slides.pdf",
+        "content_type": [
+          "presentation",
+          "announcement"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "May 8, 2024 First Quarter Fiscal Year 2024 Earnings Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Q1FY2024-Earnings-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-08",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-05-08/Q1FY2024-Earnings-Presentation.pdf/Q1FY2024-Earnings-Presentation.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Mar 12, 2024 Fourth Quarter Fiscal Year 2023 Earnings Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-12",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-12/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Jan 22, 2024 Core Scientific, Inc. Chapter 11 Emergence Update Webcast",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "FINAL-CORZ-Emergence-Update-Slides-012224.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-01-22",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-01-22/FINAL-CORZ-Emergence-Update-Slides-012224.pdf/FINAL-CORZ-Emergence-Update-Slides-012224.pdf",
+        "content_type": [
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Global Invment Conference Presentation",
+    "equity_ticker": "CORZ",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "final-corz-hc-wainwright-conference-091223-1130.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-09-12",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-09-12/final-corz-hc-wainwright-conference-091223-1130.pdf/final-corz-hc-wainwright-conference-091223-1130.pdf",
+        "content_type": [
+          "presentation"
+        ]
+      }
+    ]
+  }
+]
