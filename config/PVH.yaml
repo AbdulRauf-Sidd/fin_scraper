@@ -728,3 +728,274 @@ SAP_presentations:
     next_button: null
     archive: null
     timeout: null
+
+SAP_events:
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/calendar.html
+  output: data/SAP_events.json
+  output_json: JSONS/SAP_events.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "events"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+SAP_news:
+  ticker: SAP
+  scraper: null
+  url: https://news.sap.com/topics/investor-relations/
+  output: data/SAP_news.json
+  output_json: JSONS/SAP_news.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+WISE_reports:
+  ticker: WISE
+  scraper: null
+  url: https://wise.com/owners/results-reports-presentations
+  output: data/WISEhttps://wise.com/us/investors_reports.json
+  output_json: JSONS/WISE_reports.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "US"
+  forced_type: "investors"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+WISE_news:
+  ticker: WISE
+  scraper: null
+  url: https://wise.com/owners/results-reports-presentations
+  output: data/WISE_news.json
+  output_json: JSONS/WISE_news.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DGE_news:
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/news-and-media/stories
+  output: data/DGE_news.json
+  output_json: JSONS/DGE_news.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DGE_results:
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/results
+  output: data/DGE_results.json
+  output_json: JSONS/DGE_results.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "results"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+DGE_events:
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/investor-events
+  output: data/DGE_events.json
+  output_json: JSONS/DGE_events.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "events"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+DGE_reports:
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/annual-reports
+  output: data/DGE_reports.json
+  output_json: JSONS/DGE_reports.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DGE_press-releases:
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/investor-press-releases
+  output: data/DGE_press-releases.json
+  output_json: JSONS/DGE_press-releases.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press-releases"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+CPRI_results:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/results-centre
+  output: data/CPRI_results.json
+  output_json: JSONS/CPRI_results.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "results"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_press-releases:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/press-releases
+  output: data/CPRI_press-releases.json
+  output_json: JSONS/CPRI_press-releases.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press-releases"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_presentations:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/investor-presentations
+  output: data/CPRI_presentations.json
+  output_json: JSONS/CPRI_presentations.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_reports:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/financial-reports
+  output: data/CPRI_reports.json
+  output_json: JSONS/CPRI_reports.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial reports"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_acquisitions:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
+  output: data/CPRI_acquisitions.json
+  output_json: JSONS/CPRI_acquisitions.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "acquisitions"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_disposals:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
+  output: data/CPRI_disposals.json
+  output_json: JSONS/CPRI_disposals.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "disposals"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
