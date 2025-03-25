@@ -727,7 +727,7 @@ MOWI_capital-markets-day:
     timeout: null
 
 # MOWI financial filings left
-SAP_reports:
+SAP_reports:      # Configs finalized
   ticker: SAP
   scraper: null
   url: https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=reports#reports
