@@ -7,15 +7,17 @@
     "data": [
       {
         "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2024-results",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "webcast",
+          "presentation"
         ]
       },
       {
@@ -24,24 +26,28 @@
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "webcast",
+          "presentation"
         ]
       },
       {
         "file_name": "webcast.html?webcastid=ymDjLEm1",
-        "file_type": "html",
+        "file_type": "html?webcastid=ymDjLEm1",
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/webcast.html?webcastid=ymDjLEm1/webcast.html?webcastid=ymDjLEm1",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "webcast",
+          "presentation"
         ]
       },
       {
@@ -50,11 +56,13 @@
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/CORZ+Earnings+Presentation+Q4+2024.pdf/CORZ+Earnings+Presentation+Q4+2024.pdf",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "webcast",
+          "presentation"
         ]
       },
       {
@@ -63,11 +71,13 @@
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/core-20241231.htm/core-20241231.htm",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "webcast",
+          "presentation"
         ]
       },
       {
@@ -76,24 +86,13 @@
         "published_date": "2024-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/0001628280-25-008302.pdf/0001628280-25-008302.pdf",
         "content_type": [
-          "presentation",
-          "webcast",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
-        ]
-      },
-      {
-        "file_name": "0001628280-25-008302-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2024-12-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-12-31/0001628280-25-008302-xbrl.zip/0001628280-25-008302-xbrl.zip",
-        "content_type": [
-          "presentation",
-          "webcast",
+          "10-K",
+          "news",
           "financial_filing",
-          "sec_filing",
-          "10-K"
+          "webcast",
+          "presentation"
         ]
       }
     ]
@@ -106,15 +105,17 @@
     "data": [
       {
         "file_name": "core-scientific-announces-fiscal-third-quarter-2024-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/core-scientific-announces-fiscal-third-quarter-2024-results/core-scientific-announces-fiscal-third-quarter-2024-results",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -124,25 +125,29 @@
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf/2024-11-06_Core_Scientific_Announces_Fiscal_Third_Quarter_98.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
       {
         "file_name": "webcast.html?webcastid=HW5MvP6u",
-        "file_type": "html",
+        "file_type": "html?webcastid=HW5MvP6u",
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/webcast.html?webcastid=HW5MvP6u/webcast.html?webcastid=HW5MvP6u",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -152,11 +157,13 @@
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/Core+Scientific+Q3+2024+Earnings+Presentation.pdf/Core+Scientific+Q3+2024+Earnings+Presentation.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -166,11 +173,13 @@
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/core-20240930.htm/core-20240930.htm",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -180,25 +189,13 @@
         "published_date": "2024-09-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/0001628280-24-045811.pdf/0001628280-24-045811.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-24-045811-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2024-09-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-09-30/0001628280-24-045811-xbrl.zip/0001628280-24-045811-xbrl.zip",
-        "content_type": [
-          "presentation",
           "webcast",
-          "10-Q",
-          "financial_filing",
-          "sec_filing",
           "three-month-results"
         ]
       }
@@ -212,15 +209,17 @@
     "data": [
       {
         "file_name": "core-scientific-announces-fiscal-second-quarter-2024-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/core-scientific-announces-fiscal-second-quarter-2024-results/core-scientific-announces-fiscal-second-quarter-2024-results",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -230,25 +229,29 @@
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf/2024-08-07_Core_Scientific_Announces_Fiscal_Second_Quarter_85.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
       {
         "file_name": "webcast.html?webcastid=EJ4HZWZo",
-        "file_type": "html",
+        "file_type": "html?webcastid=EJ4HZWZo",
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/webcast.html?webcastid=EJ4HZWZo/webcast.html?webcastid=EJ4HZWZo",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -258,11 +261,13 @@
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/Core+Scientific+Q2+2024+Earnings+Presentation.pdf/Core+Scientific+Q2+2024+Earnings+Presentation.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -272,11 +277,13 @@
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/core-20240630.htm/core-20240630.htm",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -286,25 +293,13 @@
         "published_date": "2024-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/0001628280-24-035714.pdf/0001628280-24-035714.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-24-035714-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2024-06-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-06-30/0001628280-24-035714-xbrl.zip/0001628280-24-035714-xbrl.zip",
-        "content_type": [
-          "presentation",
           "webcast",
-          "10-Q",
-          "financial_filing",
-          "sec_filing",
           "three-month-results"
         ]
       }
@@ -318,15 +313,17 @@
     "data": [
       {
         "file_name": "core-scientific-announces-fiscal-first-quarter-2024-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/core-scientific-announces-fiscal-first-quarter-2024-results/core-scientific-announces-fiscal-first-quarter-2024-results",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -336,25 +333,29 @@
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf/2024-05-08_Core_Scientific_Announces_Fiscal_First_Quarter_72.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
       {
         "file_name": "954677374",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/954677374/954677374",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -364,11 +365,13 @@
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/Q1FY2024-Earnings-Presentation.pdf/Q1FY2024-Earnings-Presentation.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -378,11 +381,13 @@
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/core-20240331.htm/core-20240331.htm",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
+          "webcast",
           "three-month-results"
         ]
       },
@@ -392,25 +397,13 @@
         "published_date": "2024-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/0001628280-24-021848.pdf/0001628280-24-021848.pdf",
         "content_type": [
+          "sec_filing",
+          "news",
           "presentation",
-          "webcast",
+          "financial-information",
           "10-Q",
           "financial_filing",
-          "sec_filing",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-24-021848-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2024-03-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2024-03-31/0001628280-24-021848-xbrl.zip/0001628280-24-021848-xbrl.zip",
-        "content_type": [
-          "presentation",
           "webcast",
-          "10-Q",
-          "financial_filing",
-          "sec_filing",
           "three-month-results"
         ]
       }
@@ -424,14 +417,16 @@
     "data": [
       {
         "file_name": "core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2023-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results/core-scientific-announces-fiscal-fourth-quarter-and-full-fiscal-year-2023-results",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -440,10 +435,12 @@
         "published_date": "2023-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf/2024-03-12_Core_Scientific_Announces_Fiscal_Fourth_Quarter_8.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -452,10 +449,12 @@
         "published_date": "2023-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf/FINAL-CORZ-FY2023-Earnings-Presentation-031124.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -464,10 +463,12 @@
         "published_date": "2023-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/core-20231231.htm/core-20231231.htm",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -476,22 +477,12 @@
         "published_date": "2023-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/0001628280-24-010682.pdf/0001628280-24-010682.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
-        ]
-      },
-      {
-        "file_name": "0001628280-24-010682-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2023-12-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-12-31/0001628280-24-010682-xbrl.zip/0001628280-24-010682-xbrl.zip",
-        "content_type": [
-          "presentation",
+          "10-K",
+          "news",
           "financial_filing",
-          "sec_filing",
-          "10-K"
+          "presentation"
         ]
       }
     ]
@@ -509,6 +500,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-09-30/core-20230930.htm/core-20230930.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -520,17 +513,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-09-30/0001628280-23-036849.pdf/0001628280-23-036849.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-23-036849-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2023-09-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-09-30/0001628280-23-036849-xbrl.zip/0001628280-23-036849-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -550,6 +534,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/core-20230630.htm/core-20230630.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -561,17 +547,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/0001628280-23-027559.pdf/0001628280-23-027559.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-23-032799-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2023-06-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/0001628280-23-032799-xbrl.zip/0001628280-23-032799-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -583,6 +560,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/core-20230630.htm/core-20230630.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -594,17 +573,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/0001628280-23-032799.pdf/0001628280-23-032799.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-23-032799-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2023-06-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-06-30/0001628280-23-032799-xbrl.zip/0001628280-23-032799-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -624,6 +594,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-03-31/core-20230331.htm/core-20230331.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -635,17 +607,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-03-31/0001628280-23-017974.pdf/0001628280-23-017974.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-23-017974-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2023-03-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2023-03-31/0001628280-23-017974-xbrl.zip/0001628280-23-017974-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -664,8 +627,10 @@
         "published_date": "2022-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-12-31/core-20221231.htm/core-20221231.htm",
         "content_type": [
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news"
         ]
       },
       {
@@ -674,18 +639,10 @@
         "published_date": "2022-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-12-31/0001628280-23-010454.pdf/0001628280-23-010454.pdf",
         "content_type": [
+          "financial-information",
           "sec_filing",
-          "10-K"
-        ]
-      },
-      {
-        "file_name": "0001628280-23-010454-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2022-12-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-12-31/0001628280-23-010454-xbrl.zip/0001628280-23-010454-xbrl.zip",
-        "content_type": [
-          "sec_filing",
-          "10-K"
+          "10-K",
+          "news"
         ]
       }
     ]
@@ -703,6 +660,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-09-30/core-20220930.htm/core-20220930.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -714,17 +673,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-09-30/0001628280-22-030600.pdf/0001628280-22-030600.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-22-030600-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2022-09-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-09-30/0001628280-22-030600-xbrl.zip/0001628280-22-030600-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -739,15 +689,17 @@
     "data": [
       {
         "file_name": "correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2022-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results/correcting-and-replacing-core-scientific-announces-second-quarter-2022-results",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -756,11 +708,13 @@
         "published_date": "2022-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf/2022-08-22_CORRECTING_and_REPLACING_Core_Scientific_18.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -769,11 +723,13 @@
         "published_date": "2022-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf/DRAFT-CORZ-F22Q2-Earnings-Pres-081022-V7%5B81%5D%5B6%5D.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -782,11 +738,13 @@
         "published_date": "2022-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/core-20220630.htm/core-20220630.htm",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -795,24 +753,13 @@
         "published_date": "2022-06-30",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/0001628280-22-023382.pdf/0001628280-22-023382.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-22-023382-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2022-06-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-06-30/0001628280-22-023382-xbrl.zip/0001628280-22-023382-xbrl.zip",
-        "content_type": [
-          "presentation",
           "10-Q",
+          "news",
           "financial_filing",
-          "sec_filing",
-          "three-month-results"
+          "three-month-results",
+          "presentation"
         ]
       }
     ]
@@ -825,15 +772,17 @@
     "data": [
       {
         "file_name": "core-scientific-announces-first-quarter-2022-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2022-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/core-scientific-announces-first-quarter-2022-results/core-scientific-announces-first-quarter-2022-results",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -842,11 +791,13 @@
         "published_date": "2022-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf/2022-05-12_Core_Scientific_Announces_First_Quarter_2022_27.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -855,11 +806,13 @@
         "published_date": "2022-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf/FINAL-CORZ-F22Q1-Earnings-Pres-051222-1030.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -868,11 +821,13 @@
         "published_date": "2022-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/core-20220331.htm/core-20220331.htm",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
+          "10-Q",
+          "news",
+          "financial_filing",
+          "three-month-results",
+          "presentation"
         ]
       },
       {
@@ -881,24 +836,13 @@
         "published_date": "2022-03-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/0001628280-22-014350.pdf/0001628280-22-014350.pdf",
         "content_type": [
-          "presentation",
-          "10-Q",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001628280-22-014350-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2022-03-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2022-03-31/0001628280-22-014350-xbrl.zip/0001628280-22-014350-xbrl.zip",
-        "content_type": [
-          "presentation",
           "10-Q",
+          "news",
           "financial_filing",
-          "sec_filing",
-          "three-month-results"
+          "three-month-results",
+          "presentation"
         ]
       }
     ]
@@ -911,14 +855,16 @@
     "data": [
       {
         "file_name": "core-scientific-announces-full-fiscal-year-2021-results",
-        "file_type": "html",
+        "file_type": "",
         "published_date": "2021-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/core-scientific-announces-full-fiscal-year-2021-results/core-scientific-announces-full-fiscal-year-2021-results",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -927,10 +873,12 @@
         "published_date": "2021-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf/2022-03-29_Core_Scientific_Announces_Full_Fiscal_Year_2021_32.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -939,10 +887,12 @@
         "published_date": "2021-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf/FINAL-CORZ-FY21-Earnings-Slides-032922-%281%29.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -951,10 +901,12 @@
         "published_date": "2021-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/d268076d10k.htm/d268076d10k.htm",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
+          "10-K",
+          "news",
+          "financial_filing",
+          "presentation"
         ]
       },
       {
@@ -963,22 +915,12 @@
         "published_date": "2021-12-31",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/0001193125-22-088850.pdf/0001193125-22-088850.pdf",
         "content_type": [
-          "presentation",
-          "financial_filing",
+          "financial-information",
           "sec_filing",
-          "10-K"
-        ]
-      },
-      {
-        "file_name": "0001193125-22-088850-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2021-12-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-12-31/0001193125-22-088850-xbrl.zip/0001193125-22-088850-xbrl.zip",
-        "content_type": [
-          "presentation",
+          "10-K",
+          "news",
           "financial_filing",
-          "sec_filing",
-          "10-K"
+          "presentation"
         ]
       }
     ]
@@ -996,6 +938,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-09-30/f10q0921_poweranddigital.htm/f10q0921_poweranddigital.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -1007,17 +951,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-09-30/0001213900-21-059558.pdf/0001213900-21-059558.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001213900-21-059558-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2021-09-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-09-30/0001213900-21-059558-xbrl.zip/0001213900-21-059558-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -1037,6 +972,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-06-30/f10q0621_poweranddigital.htm/f10q0621_poweranddigital.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -1048,17 +985,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-06-30/0001213900-21-044122.pdf/0001213900-21-044122.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001213900-21-044122-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2021-06-30",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-06-30/0001213900-21-044122-xbrl.zip/0001213900-21-044122-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -1078,6 +1006,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-03-31/f10q0321_poweranddig.htm/f10q0321_poweranddig.htm",
         "content_type": [
           "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
@@ -1089,17 +1019,8 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-03-31/0001213900-21-028906.pdf/0001213900-21-028906.pdf",
         "content_type": [
           "sec_filing",
-          "10-Q",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "0001213900-21-028906-xbrl.zip",
-        "file_type": "zip",
-        "published_date": "2021-03-31",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CORZ/2021-03-31/0001213900-21-028906-xbrl.zip/0001213900-21-028906-xbrl.zip",
-        "content_type": [
-          "sec_filing",
+          "news",
+          "financial-information",
           "10-Q",
           "three-month-results"
         ]
