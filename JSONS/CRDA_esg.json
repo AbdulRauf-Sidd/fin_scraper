@@ -7,7 +7,7 @@
     "data": [
       {
         "file_name": "ratings-and-frameworks",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
         "content_type": [
@@ -16,7 +16,7 @@
       },
       {
         "file_name": "ratings-and-frameworks",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
         "content_type": [
@@ -33,7 +33,7 @@
     "data": [
       {
         "file_name": "awards-and-certifications",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
         "content_type": [
@@ -42,7 +42,7 @@
       },
       {
         "file_name": "awards-and-certifications",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
         "content_type": [
@@ -59,22 +59,22 @@
     "data": [
       {
         "file_name": "reporting-datapack",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
-          "financial_filing",
-          "esg"
+          "esg",
+          "financial-filing"
         ]
       },
       {
         "file_name": "reporting-datapack",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
-          "financial_filing",
-          "esg"
+          "esg",
+          "financial-filing"
         ]
       }
     ]
@@ -87,7 +87,7 @@
     "data": [
       {
         "file_name": "policies-and-procedures",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
         "content_type": [
@@ -96,7 +96,7 @@
       },
       {
         "file_name": "policies-and-procedures",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
         "content_type": [
@@ -113,7 +113,7 @@
     "data": [
       {
         "file_name": "our-purpose",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
         "content_type": [
@@ -122,7 +122,7 @@
       },
       {
         "file_name": "our-purpose",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
         "content_type": [
@@ -139,7 +139,7 @@
     "data": [
       {
         "file_name": "ethics",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
         "content_type": [
@@ -148,7 +148,7 @@
       },
       {
         "file_name": "ethics",
-        "file_type": "",
+        "file_type": "HTML",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
         "content_type": [
