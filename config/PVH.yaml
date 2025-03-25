@@ -21,6 +21,7 @@ PVH_press:
   category: 'news'
   periodic: false
   geography: "US"
+  forced_type: "press-release"
   llm: true
   selectors:
     event_block: li.list__item
