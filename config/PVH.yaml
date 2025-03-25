@@ -688,7 +688,6 @@ MOWI_reports:
     archive: null
     timeout: null
 
-<<<<<<< Updated upstream
 MOWI_presentations:
   ticker: MOWI
   scraper: null
@@ -773,7 +772,7 @@ SAP_events:
   geography: "European"
   forced_type: "events"
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
     type: null
     next_button: null
@@ -1139,7 +1138,7 @@ RKT_agm:
     next_button: null
     archive: null
     timeout: null
-=======
+
 SIE_financial:   
   ticker: SIE
   scraper: null
@@ -1377,5 +1376,4 @@ SAN_group-holdings:
     timeout: null
 
  
->>>>>>> Stashed changes
 
