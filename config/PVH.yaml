@@ -672,7 +672,7 @@ SIE_press:
 
 
 
-MOWI_reports:     # COMPLETED
+MOWI_reports:    
   ticker: MOWI
   scraper: null
   url: https://mowi.com/investors/reports/
@@ -690,7 +690,7 @@ MOWI_reports:     # COMPLETED
     archive: null
     timeout: null
 
-MOWI_presentations: #COMPLETED
+MOWI_presentations:
   ticker: MOWI
   scraper: null
   url: https://mowi.com/investors/presentations/
@@ -708,7 +708,7 @@ MOWI_presentations: #COMPLETED
     archive: null
     timeout: null 
 
-MOWI_capital-markets-day:  #COMPLETED
+MOWI_capital-markets-day:  
   ticker: MOWI
   scraper: null
   url: https://mowi.com/investors/capital-markets-day/
