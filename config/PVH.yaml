@@ -453,3 +453,60 @@ KER_finance:   #Periodicity for european financial docs.
     next_button: null
     archive: null
     timeout: null
+
+MOWI_reports:     # COMPLETED
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/reports/
+  output: data/MOWI_reports.json
+  output_json: JSONS/MOWI_reports.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div._investors-reports-list__box
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+MOWI_presentations:
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/presentations/
+  output: data/MOWI_presentations.json
+  output_json: JSONS/MOWI_presentations.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div._presentations-list__items a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+MOWI_capital-markets-day:
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/capital-markets-day/
+  output: data/MOWI_capital-markets-day.json
+  output_json: JSONS/MOWI_capital-markets-day.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "capital-markets-day"
+  selectors:
+    event_block: div._presentations-list__items a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+# MOWI financial filings left
+
