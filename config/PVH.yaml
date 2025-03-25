@@ -453,3 +453,125 @@ KER_finance:   #Periodicity for european financial docs.
     next_button: null
     archive: null
     timeout: null
+
+
+
+#VOW3
+VOW3_press:   #nlp not working
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/press-releases
+  output: data/VOW3_press.json
+  output_json: JSONS/VOW3_press.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+
+
+VOW3_financial:    # Period
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/financial-news-17302
+  output: data/VOW3_financial.json
+  output_json: JSONS/VOW3_financial.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+  
+
+
+#OR
+OR_news:   
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/news-releases
+  output: data/OR_news.json
+  output_json: JSONS/OR_news.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.row
+  pagination:
+    type: load_more
+    next_button:  a.button
+    archive: null
+    timeout: null
+
+
+
+OR_half:   
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/half-year-results-archives
+  output: data/OR_half.json
+  output_json: JSONS/OR_half.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "half-year-results"
+  selectors:
+    event_block: div.archive__section
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+OR_annual:   
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/annual-results-archives
+  output: data/OR_annual.json
+  output_json: JSONS/OR_annual.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "annual-results-archives"
+  selectors:
+    event_block: article.nodetype--publication.archive__item.result-archive__item
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#NOVO-B
+NOVO-B_annual:   
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.loreal-finance.com/eng/annual-results-archives
+  output: data/NOVO-B_annual.json
+  output_json: JSONS/NOVO-B_annual.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "annual-results-archives"
+  selectors:
+    event_block: article.nodetype--publication.archive__item.result-archive__item
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
