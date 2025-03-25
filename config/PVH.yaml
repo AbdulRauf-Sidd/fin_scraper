@@ -452,3 +452,23 @@ KER_finance:   #Periodicity for european financial docs.
     next_button: null
     archive: null
     timeout: null
+
+RMS_meeting:   #redirection problem.
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/en/general-meetings/
+  output: data/RMS_meeting.json
+  output_json: JSONS/RMS_meeting.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  selectors:
+    event_block: li.pt-8.lg.pt-10.lg.pb-0.layout-container
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+
+    
