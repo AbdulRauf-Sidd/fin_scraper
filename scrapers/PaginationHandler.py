@@ -56,9 +56,13 @@ class PaginationHandler:
             pass
         return False
 
-    async def switch_all_tabs(self, page, tab_selector, timeout=None):
+    async def switch_all_tabs(self, page, tab_selector, extract_function, timeout=None, archive_class=None):
         """Switches through all tabs without scraping, handling potential blockers."""
+<<<<<<< Updated upstream
 
+=======
+        all_events = []
+>>>>>>> Stashed changes
         # Handle consent banner if present
         try:
             consent_button = await page.query_selector("#onetrust-accept-btn-handler")
@@ -69,14 +73,44 @@ class PaginationHandler:
         except Exception as e:
             print(f"⚠️ Consent banner not found or error: {e}")
 
+<<<<<<< Updated upstream
         # Select all tab elements
         tabs = await page.query_selector_all(tab_selector)
 
         for tab in tabs:
+=======
+        if archive_class:
+            try:
+                archive_tab = await page.query_selector(archive_class) # Modify selector as needed
+                if archive_tab:
+                    print("Clicking on the 'archive' tab...")
+                    await archive_tab.click()
+                    await asyncio.sleep(5)  # Wait for the DOM to update after clicking the 'archive' tab
+            except Exception as e:
+                print(f"⚠️ Error accessing 'archive' tab: {e}")
+    
+        # Select all tab elements
+        tabs = await page.query_selector_all(tab_selector)
+        num_tabs = len(tabs)
+>>>>>>> Stashed changes
 
+        for i in range(num_tabs):
+            # Re-query the tabs and select the i-th tab each time
+            if archive_class:
+                try:
+                    archive_tab = await page.query_selector(archive_class) # Modify selector as needed
+                    if archive_tab:
+                        print("Clicking on the 'archive' tab...")
+                        await archive_tab.click()
+                        await asyncio.sleep(5)  # Wait for the DOM to update after clicking the 'archive' tab
+                except Exception as e:
+                    print(f"⚠️ Error accessing 'archive' tab: {e}")
+
+            tabs = await page.query_selector_all(tab_selector)
+            tab = tabs[i]
             year = await tab.inner_text()
-            print('SADHKJSADHKSJAHDKJS', year)
-            
+            print('Processing tab:', year)
+
             # Check if the tab is already active
             class_attr = await tab.get_attribute("class") or ""
             if "active" in class_attr:
@@ -86,20 +120,24 @@ class PaginationHandler:
             print(f"Switching to tab: {year}")
 
             try:
-                # Ensure tab is in view
-                # await tab.scroll_into_view_if_needed()
-    
                 # Click the tab
                 await tab.click(force=True)  # `force=True` bypasses overlays if possible
                 
-                # if timeout:
-                await asyncio.sleep(5)
+                if timeout:
+                    await asyncio.sleep(timeout)  # Wait for the DOM to update
 
                 # Wait for new content to load (adjust selector)
                 await page.wait_for_selector("div.t-table", timeout=5000)
 
+<<<<<<< Updated upstream
+=======
+                event = await extract_function(page)
+                all_events.extend(event)
+
+>>>>>>> Stashed changes
             except Exception as e:
                 print(f"⚠️ Error switching to {year}: {e}")
+        return all_events
 
     async def handle_multiple_page_urls(self, page, base_url, subpage_selector):
         """Finds page URLs (e.g. index.php?...) and returns all unique URLs."""

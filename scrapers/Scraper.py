@@ -25,7 +25,12 @@ class Scraper:
         self.pagination = self.config.get('pagination', {})
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
+<<<<<<< Updated upstream
         self.forced_type = self.config['forced_type']
+=======
+        self.archive = self.config['pagination']['archive']
+        self.timeout = self.config['pagination']['timeout']
+>>>>>>> Stashed changes
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
 
     async def _extract_inner_html(self, page, selector):
@@ -82,7 +87,8 @@ class Scraper:
 
                 if pag_type == "year_tabs":
                         events = await self.extract_data_from_page(page)
-                        await self.pagination_handler.switch_all_tabs(page, selector)
+                        all_events.extend(events)
+                        events = await self.pagination_handler.switch_all_tabs(page, selector, self.extract_data_from_page, archive_class=self.archive, timeout=self.timeout)
                         all_events.extend(events)
                 
                 elif pag_type == "button" and selector:
@@ -131,8 +137,12 @@ class Scraper:
                         equity_ticker=self.ticker,
                         geography=self.geography,
                         periodicity=self.periodicity,
+<<<<<<< Updated upstream
                         base_url = self.base_address,
                         forced_type=self.forced_type
+=======
+                        base_url = self.base_address
+>>>>>>> Stashed changes
                         )
                 else:
                     print("\n❌ No events found.")

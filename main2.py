@@ -12,7 +12,7 @@ load_dotenv(env_path)
 
 
 def main(config_path):
-    scraper = Scraper(utils_module=utils, config_path=config_path, page='WDAY_events')
+    scraper = Scraper(utils_module=utils, config_path=config_path, page='KO_poclicies-practices-reports')
     asyncio.run(scraper.scrape())
 
 if __name__ == "__main__":
