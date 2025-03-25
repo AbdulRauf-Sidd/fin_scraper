@@ -519,7 +519,7 @@ VOW3_press:   #nlp not working
   base_address: https://www.volkswagen-group.com/
   periodic: false
   geography: "European"
-  forced_type: "news"
+  forced_type: "press-release"
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
