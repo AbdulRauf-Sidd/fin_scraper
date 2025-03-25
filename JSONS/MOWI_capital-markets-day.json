@@ -1,5 +1,24 @@
 [
   {
+    "event_name": "Capital Markets Day 2024, Presentation",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "CMD-2024-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/CMD-2024-Presentation.pdf/CMD-2024-Presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "capital-markets-day"
+        ]
+      }
+    ]
+  },
+  {
     "event_name": "Capital Markets Day 2024, Webcast",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -24,6 +43,25 @@
     "periodicity": "non-periodic",
     "data": [
       {
+        "file_name": "MOWI-CMD-2021-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2021/MOWI-CMD-2021-final.pdf/MOWI-CMD-2021-final.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "capital-markets-day"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Mowi Capital Markets Day 2021:",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
         "file_name": "share.html",
         "file_type": "html",
         "published_date": "2021",
@@ -31,6 +69,25 @@
         "content_type": [
           "capital-markets-day",
           "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation Marine Harv Capital Markets Day 2018",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Presentation-Marine-Harvest-Capital-Markets-Day-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2018/Presentation-Marine-Harvest-Capital-Markets-Day-2018.pdf/Presentation-Marine-Harvest-Capital-Markets-Day-2018.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "capital-markets-day"
         ]
       }
     ]

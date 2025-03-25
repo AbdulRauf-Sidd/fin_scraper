@@ -12,7 +12,7 @@ import sys
 import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-from utils.is_bad_link import is_bad_link
+# from utils.is_bad_link import is_bad_link
 
 
 async def accept_cookies(page):
@@ -111,9 +111,8 @@ async def download_file(url, output_folder="downloads"):
     os.makedirs(output_folder, exist_ok=True)
 
     # Check for bad link
-    # bad_link = await is_bad_link(url)
-    # print(bad_link)
-    # if bad_link:
+    # # is_bad_link = await is_bad_link(url)
+    # if is_bad_link:
     #     print(f"⛔ Bad link detected: {url}")
     #     return None, None, None
 

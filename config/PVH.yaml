@@ -668,10 +668,6 @@ SIE_press:
     archive: null
     timeout: null
 
-
-
-
-
 MOWI_reports:    
   ticker: MOWI
   scraper: null
@@ -679,7 +675,7 @@ MOWI_reports:
   output: data/MOWI_reports.json
   output_json: JSONS/MOWI_reports.json
   base_address: https://www.mowi.com/
-  periodic: false
+  periodic: True
   geography: "European"
   forced_type: "reports"
   selectors:
@@ -756,10 +752,10 @@ SAP_presentations:
   geography: "European"
   forced_type: "presentations"
   selectors:
-    event_block: div.Tile__emptyContainer--QCWjW
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: div.Dots__root--Pbg4A.Slider__pagination--bM51F button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO Button__focusState--C2LxD
     archive: null
     timeout: null
 
