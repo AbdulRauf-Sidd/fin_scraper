@@ -12,18 +12,7 @@ import sys
 import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-<<<<<<< HEAD
-
-# Add root directory to sys.path
-ROOT_DIR = Path(__file__).resolve().parent.parent  # This gets the root directory
-sys.path.append(str(ROOT_DIR))
-
-# Import the downloads function dynamically
-is_bad_link_module = importlib.import_module("utils.is_bad_link")
-is_bad_link = getattr(is_bad_link_module, "is_bad_link")
-=======
 from utils.is_bad_link import is_bad_link
->>>>>>> 95505afbc4c9c60ff41ca4973f949dbd46d8ee58
 
 
 async def accept_cookies(page):
