@@ -78,7 +78,7 @@ CORZ_financial-information:   # COMPLETED
     type: null
     next_button: null
 
-CORZ_presentations:
+CORZ_presentations:   # Completed
   ticker: CORZ
   scraper: null
   url: https://investors.corescientific.com/news-events/presentations
@@ -87,15 +87,12 @@ CORZ_presentations:
   base_address: https://investors.corescientific.com/
   periodic: false
   geography: "US"
+  forced_type: "presentations"
   selectors:
     event_block: article.media
   pagination:
     type: next_page_url
     next_button: page-link
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5 
 
 CORZ_press:         # Pagination not being handled correctly
   ticker: CORZ
@@ -106,15 +103,12 @@ CORZ_press:         # Pagination not being handled correctly
   base_address: https://investors.corescientific.com/
   periodic: false
   geography: "US"
+  forced_type: "press"
   selectors:
     event_block: article.media
   pagination:
     type: next_page_url
     next_button: a.page-link
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5 
 
 CRDA_esg:     #COMPLETED
   ticker: CRDA
@@ -123,16 +117,13 @@ CRDA_esg:     #COMPLETED
   output_json: JSONS/CRDA_esg.json
   base_address: https://www.croda.com/en-gb/
   periodic: false
-  geography: "US"
+  geography: "European"
+  forced_type: "esg"
   selectors:
     event_block: div.card-body
   pagination:
     type: null
     next_button: null
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
 CRDA_presentations:     # Too many irrelevant event blocks scrapped
   ticker: CRDA
@@ -142,7 +133,7 @@ CRDA_presentations:     # Too many irrelevant event blocks scrapped
   output_json: JSONS/CRDA_presentations.json
   base_address: https://www.croda.com/en-gb/
   periodic: false
-  geography: "US"
+  geography: "European"
   selectors:
     event_block: table.c-responsive-table tbody tr
   pagination:
