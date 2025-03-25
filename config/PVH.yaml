@@ -331,6 +331,25 @@ RL_newsroom:      # COMPLETED
 #     archive: .archive-toggler
 #     timeout: 5
 
+SY1_finance:     #TODO
+  ticker: SY1
+  scraper: null
+  url: https://www.symrise.com/investors/financial-results/
+  output: data/SY1_finance.json
+  output_json: JSONS/SY1_finance.json
+  base_address: https://www.symrise.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: div.t-row
+  pagination:
+    type: null
+    next_button: null
+#      archive: .archive-toggler
+#      timeout: 5
+
+
 SY1_events:     # COMPLETED
   ticker: SY1
   scraper: null
@@ -417,7 +436,7 @@ WMT_quarterly:  #COMPLETED
     timeout: 5
 
 
-KER_press:
+KER_press: #AWS ONGOING
   ticker: KER
   scraper: null
   url: https://www.kering.com/en/press/news/
@@ -453,7 +472,7 @@ KER_finance:   #Periodicity for european financial docs.
     archive: null
     timeout: null
 
-RMS_meeting:   #redirection problem.
+RMS_meeting:   #redirection problem. but COMPLETED
   ticker: RMS
   scraper: null
   url: https://finance.hermes.com/en/general-meetings/
@@ -464,16 +483,31 @@ RMS_meeting:   #redirection problem.
   geography: "European"
   forced_type: "meeting"
   selectors:
-    event_block: li.pt-8.lg.pt-10.lg.pb-0.layout-container
+    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
   pagination:
     type: year_tabs
     next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
     archive: null
     timeout: null
 
-    
-
-
+RMS_finance:   
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/en/publications/
+  output: data/RMS_finance.json
+  output_json: JSONS/RMS_finance.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  selectors:
+    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+ 
 
 #VOW3
 VOW3_press:   #nlp not working
@@ -656,7 +690,7 @@ MOWI_reports:     # COMPLETED
     archive: null
     timeout: null
 
-MOWI_presentations:
+MOWI_presentations: #COMPLETED
   ticker: MOWI
   scraper: null
   url: https://mowi.com/investors/presentations/
@@ -667,14 +701,14 @@ MOWI_presentations:
   geography: "European"
   forced_type: "presentations"
   selectors:
-    event_block: div._presentations-list__items a
+    event_block: a._presentations-list__item
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null 
 
-MOWI_capital-markets-day:
+MOWI_capital-markets-day:  #COMPLETED
   ticker: MOWI
   scraper: null
   url: https://mowi.com/investors/capital-markets-day/

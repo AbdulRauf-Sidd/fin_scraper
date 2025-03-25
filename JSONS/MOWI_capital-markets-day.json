@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "event_name": "Capital Markets Day 2024, Webcast",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/share.html/share.html",
+        "content_type": [
+          "capital-markets-day",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Mowi Capital Markets Day 2021:",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2021/share.html/share.html",
+        "content_type": [
+          "capital-markets-day",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentations Capital Markets Day 2016",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?entity=35_DNE1M6X",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/?entity=35_DNE1M6X/?entity=35_DNE1M6X",
+        "content_type": [
+          "capital-markets-day"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Live stre from Marine Harv Capital Markets Day 2016",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "content_type": [
+          "capital-markets-day"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "BMO Capital Markets 2016 Farm to Market Conferance",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?entity=35_DNE1M6X",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/?entity=35_DNE1M6X/?entity=35_DNE1M6X",
+        "content_type": [
+          "capital-markets-day"
+        ]
+      }
+    ]
+  }
+]
