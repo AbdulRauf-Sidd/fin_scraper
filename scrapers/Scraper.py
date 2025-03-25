@@ -26,6 +26,8 @@ class Scraper:
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
         self.forced_type = self.config['forced_type']
+        self.archive = self.config['pagination']['archive']
+        self.timeout = self.config['pagination']['timeout']
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
 
     async def _extract_inner_html(self, page, selector):
@@ -82,7 +84,8 @@ class Scraper:
 
                 if pag_type == "year_tabs":
                         events = await self.extract_data_from_page(page)
-                        await self.pagination_handler.switch_all_tabs(page, selector)
+                        all_events.extend(events)
+                        events = await self.pagination_handler.switch_all_tabs(page, selector, self.extract_data_from_page, archive_class=self.archive, timeout=self.timeout)
                         all_events.extend(events)
                 
                 elif pag_type == "button" and selector:

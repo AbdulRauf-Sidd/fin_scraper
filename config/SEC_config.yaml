@@ -3,3 +3,44 @@ equities:
     edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021344&type=&dateb=&owner=exclude&count=100&search_text="
     event_csv_path: "./SEC/event_csv/"
     event_json_path: "./JSONS/"
+
+
+  - ticker: SY1
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001444718&type=&dateb=&owner=include&count=100&search_text="
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+  - ticker: PINS
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001506293&type=&dateb=&owner=include&count=100&search_text="
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+
+
+  - ticker: CORZ
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001839341&owner=include&count=40&hidefilings=0"
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+  - ticker: WDAY
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001327811&type=&dateb=&owner=include&count=100&search_text=""
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+
+  - ticker: IFF
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000051253&type=&dateb=&owner=include&count=100&search_text="
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+  - ticker: IAC
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001800227&owner=include&count=40&hidefilings=0"
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+
+
+  - ticker: OTIS
+    edgar_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001781335&type=&dateb=&owner=include&count=100&search_text="
+    event_csv_path: "./SEC/event_csv/"
+    event_json_path: "./JSONS/"
+

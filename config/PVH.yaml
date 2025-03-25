@@ -1,24 +1,25 @@
-PVH_news:
+PVH_news:     # completed
   ticker: PVH
-  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
   output: data/PVH_news.json
   output_json: JSONS/PVH_news.json
   base_address: https://www.pvh.com/
   periodic: false
   geography: "US"
+  forced_type: "news"
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
-PVH_press:
+PVH_press:      # Completed
   ticker: PVH
-  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases
+  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
   output: data/PVH_press2.json
   output_json: JSONS/PVH_press2.json
   base_address: https://www.pvh.com/
-  category: 'news'
+  forced_type: "Press Releases"
   periodic: false
   geography: "US"
   forced_type: "press-release"
@@ -30,44 +31,39 @@ PVH_press:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
 
-PVH_reports:
+PVH_reports:      # Completed
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
+  output_json: JSONS/PVH_reports.json
+  forced_type: "reports"
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
   selectors:
     event_block: div.col-md-6
   pagination:
     type: null
     next_button: null
 
-PVH_resources:
+PVH_resources:    # COMPLETED
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
   output: data/PVH_resources.json
+  output_json: JSONS/PVH_resources.json
+  forced_type: "resources"
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
   selectors:
     event_block: .layout__wrap.story-well.ready, .container.layout
   pagination:
     type: null
     next_button: null
 
-PVH_events:       # COMPLETED
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
-  output: data/PVH_events.json
-  output_json: JSONS/PVH_events.json
-  base_address: https://www.pvh.com/
-  periodic: false
-  geography: "US"
-  selectors:
-    event_block: li.list__item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-
-CORZ_financial-information:
+CORZ_financial-information:   # COMPLETED
   ticker: CORZ
   scraper: null
   url: https://investors.corescientific.com/financial-information/financial-results
@@ -76,15 +72,12 @@ CORZ_financial-information:
   base_address: https://investors.corescientific.com/
   periodic: true
   geography: "US"
+  forced_type: "financial-information"
   selectors:
     event_block: xpath=//div[@class=" row"]
   pagination:
     type: null
     next_button: null
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
 CORZ_presentations:
   ticker: CORZ
@@ -119,6 +112,8 @@ CORZ_press:         # Pagination not being handled correctly
   pagination:
     type: next_page_url
     next_button: a.page-link
+#     archive: .archive-toggler
+#     timeout: 5
   defaults:
     event_type: webcast
   cutoff:
@@ -137,6 +132,8 @@ CRDA_esg:     #COMPLETED
   pagination:
     type: null
     next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
   defaults:
     event_type: webcast
   cutoff:
@@ -156,6 +153,8 @@ CRDA_presentations:     # Too many irrelevant event blocks scrapped
   pagination:
     type: null
     next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
 
 CBP_events:         # Pagination not being handled correctly
   ticker: CBP
@@ -170,6 +169,8 @@ CBP_events:         # Pagination not being handled correctly
   pagination:
     type: next_page_url
     next_button: li.pager__item--next a
+#     archive: .archive-toggler
+#     timeout: 5
   defaults:
     event_type: webcast
   cutoff:
@@ -188,6 +189,8 @@ CBP_news:
   pagination:
     type: load_more
     next_button: a.button.use-ajax[rel='next']
+#     archive: .archive-toggler
+#     timeout: 5
 
 #DSFIR
 DSFIR_news:       #COMPLETED
@@ -204,6 +207,8 @@ DSFIR_news:       #COMPLETED
   pagination:
     type: button
     next_button: div.cmp-button a.cmp-list__pagination--next
+#     archive: .archive-toggler
+#     timeout: 5
 
 DSFIR_press:    #COMPLETED
   ticker: DSFIR
@@ -219,6 +224,8 @@ DSFIR_press:    #COMPLETED
   pagination:
     type: year_tabs
     next_button: "li.cmp-tabs__tab"
+#     archive: .archive-toggler
+#     timeout: 5
 
 GIVN_news:          # load more button not COMPLETED
   ticker: GIVN
@@ -233,6 +240,8 @@ GIVN_news:          # load more button not COMPLETED
   pagination:
     type: load_more
     next_button: div.load-more-news button
+#     archive: .archive-toggler
+#     timeout: 5
 
 IFF_presentations:    # COMPLETED
   ticker: IFF
@@ -247,6 +256,8 @@ IFF_presentations:    # COMPLETED
   pagination:
     type: null
     next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
 
 IFF_press:      # pagination not being handled correctly
   ticker: IFF
@@ -262,6 +273,8 @@ IFF_press:      # pagination not being handled correctly
   pagination:
     type: next_page_url
     next_button: a
+#     archive: .archive-toggler
+#     timeout: 5
 
 KO_company-updates:     # scrapped 4 blocks instead of 6
   ticker: KO
@@ -305,6 +318,8 @@ KO_press:     # COMPLETED
   pagination:
     type: button
     next_button: div.control.next a
+#     archive: .archive-toggler
+#     timeout: 5
 
 RL_newsroom:      # COMPLETED
   ticker: RL
@@ -319,6 +334,8 @@ RL_newsroom:      # COMPLETED
   pagination:
     type: load_more
     next_button: div.corp-secondary-button a
+#     archive: .archive-toggler
+#     timeout: 5
 
 SY1_events:     # COMPLETED
   ticker: SY1
@@ -334,8 +351,10 @@ SY1_events:     # COMPLETED
   pagination:
     type: null
     next_button: null
+#      archive: .archive-toggler
+#      timeout: 5
 
-SY1_news:         # pagination not handled correctly
+SY1_news:         #COMPLETED
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
@@ -348,6 +367,8 @@ SY1_news:         # pagination not handled correctly
   pagination:
     type: year_tabs
     next_button: .tab-titles:not(.panel-inverted) a
+    archive: .archive-toggler
+    timeout: 5
 
 WDAY_events: #COMPLETED
   ticker: WDAY
@@ -392,3 +413,44 @@ WMT_quarterly:  #COMPLETED
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+
+    archive: .archive-toggler
+    timeout: 5
+
+
+KER_press:
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/press/news/
+  output: data/KER_press.json
+  output_json: JSONS/KER_press.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.t1vdjoug
+  pagination:
+    type: load_more
+    next_button: a.wbhsupj.w1sknmqa
+
+    archive: .archive-toggler
+    timeout: 5
+
+KER_finance:   #Periodicity for european financial docs.
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/finance/publications/
+  output: data/KER_finance.json
+  output_json: JSONS/KER_finance.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "finance"
+  selectors:
+    event_block: div.p67j49j
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
