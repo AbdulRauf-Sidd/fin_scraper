@@ -12,7 +12,14 @@ import sys
 import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-from is_bad_link import is_bad_link
+
+# Add root directory to sys.path
+ROOT_DIR = Path(__file__).resolve().parent.parent  # This gets the root directory
+sys.path.append(str(ROOT_DIR))
+
+# Import the downloads function dynamically
+is_bad_link_module = importlib.import_module("utils.is_bad_link")
+is_bad_link = getattr(is_bad_link_module, "is_bad_link")
 
 
 async def accept_cookies(page):
@@ -111,10 +118,11 @@ async def download_file(url, output_folder="downloads"):
     os.makedirs(output_folder, exist_ok=True)
 
     # Check for bad link
-    is_bad_link = await is_bad_link(url)
-    if is_bad_link:
-        print(f"⛔ Bad link detected: {url}")
-        return None, None, None
+    # bad_link = await is_bad_link(url)
+    # print(bad_link)
+    # if bad_link:
+    #     print(f"⛔ Bad link detected: {url}")
+    #     return None, None, None
 
     print(f"🔍 Visiting: {url}")
     try:
