@@ -43,6 +43,7 @@ class Scraper:
     async def load_page(self, page, url):
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            await asyncio.sleep(5)
             await accept_cookies(page)
             await enable_stealth(page)
             await page.wait_for_selector(self.selector, timeout=10000)

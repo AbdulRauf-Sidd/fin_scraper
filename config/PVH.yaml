@@ -432,7 +432,6 @@ KER_press:
   pagination:
     type: load_more
     next_button: a.wbhsupj.w1sknmqa
-
     archive: .archive-toggler
     timeout: 5
 
