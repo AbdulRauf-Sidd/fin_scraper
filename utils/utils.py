@@ -101,6 +101,7 @@ async def download_file(url, output_folder="downloads"):
         filename (str): The name of the file.
         file_type (str): The file extension (e.g., "pdf", "docx").
     """
+    url = url.rstrip('/')
     filename = os.path.basename(url)
     file_path = Path(output_folder) / filename
     abs_path = str(file_path.resolve())
@@ -155,3 +156,6 @@ def join_url(base_url, href):
     
     # Otherwise, join the base_url with the href
     return urljoin(base_url, href)
+
+
+# a=download_file('https://www.kering.com/en/news/2024-annual-results/')

@@ -1,0 +1,130 @@
+[
+  {
+    "event_name": "03/18/2025 financial documents 2024 Universal Registration Document",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Kering_2024_URD_EN_f8c45e2e74.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Kering_2024_URD_EN_f8c45e2e74.pdf/?path=Kering_2024_URD_EN_f8c45e2e74.pdf",
+        "content_type": [
+          "finance",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "03/13/2025 press release Demna appointed Artistic Director of Gucci",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Press_release_Demna_appointed_Artistic_Director_of_Gucci_13_03_2025_ce48c19533.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Press_release_Demna_appointed_Artistic_Director_of_Gucci_13_03_2025_ce48c19533.pdf/?path=Press_release_Demna_appointed_Artistic_Director_of_Gucci_13_03_2025_ce48c19533.pdf",
+        "content_type": [
+          "finance",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02/11/2025 financial documents 2024 Financial Document",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Kering_2024_Financial_Document_885917e81b.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2024-03-25/?path=Kering_2024_Financial_Document_885917e81b.pdf/?path=Kering_2024_Financial_Document_885917e81b.pdf",
+        "content_type": [
+          "finance",
+          "financial_filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02/11/2025 presentations 2024 Full-year results",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Presentation_FY_24_Final_5a454af141.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Presentation_FY_24_Final_5a454af141.pdf/?path=Presentation_FY_24_Final_5a454af141.pdf",
+        "content_type": [
+          "finance",
+          "presentation",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02/11/2025 press release 2024 Full-year results",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Kering_Press_Release_Annual_Results_2024_110225_9cba4c9340.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Kering_Press_Release_Annual_Results_2024_110225_9cba4c9340.pdf/?path=Kering_Press_Release_Annual_Results_2024_110225_9cba4c9340.pdf",
+        "content_type": [
+          "finance",
+          "press-release",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02/06/2025 press release Gucci ends its collaboration with Sabato de Sarno",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Press_release_Gucci_ends_its_collaboration_with_Sabato_De_Sarno_06_02_25_096fffd6d8.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Press_release_Gucci_ends_its_collaboration_with_Sabato_De_Sarno_06_02_25_096fffd6d8.pdf/?path=Press_release_Gucci_ends_its_collaboration_with_Sabato_De_Sarno_06_02_25_096fffd6d8.pdf",
+        "content_type": [
+          "finance",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "01/30/2025 press release Kering and Simon announce the sale of The Mall Luxury Outlets",
+    "equity_ticker": "KER",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?path=Press_release_Kering_and_Simon_announce_the_sale_of_The_Mall_Luxury_Outlets_30_01_25_68232b2d1d.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KER/2025/?path=Press_release_Kering_and_Simon_announce_the_sale_of_The_Mall_Luxury_Outlets_30_01_25_68232b2d1d.pdf/?path=Press_release_Kering_and_Simon_announce_the_sale_of_The_Mall_Luxury_Outlets_30_01_25_68232b2d1d.pdf",
+        "content_type": [
+          "finance",
+          "press-release"
+        ]
+      }
+    ]
+  }
+]
