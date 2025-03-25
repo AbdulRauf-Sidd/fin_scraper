@@ -33,7 +33,7 @@ class Scraper:
     async def _extract_inner_html(self, page, selector):
         print(f"🔍 Extracting blocks using selector: '{selector}'")
         blocks = await page.query_selector_all(selector)
-        html_blocks = [await block.inner_html() for block in blocks if block]
+        html_blocks = [await page.evaluate('(element) => element.outerHTML', block) for block in blocks if block]
         print(f"📦 Found {len(html_blocks)} blocks")
         return html_blocks
 
