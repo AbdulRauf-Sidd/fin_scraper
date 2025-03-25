@@ -4,16 +4,19 @@ from bs4 import BeautifulSoup
 import logging
 import re
 import math
+import os
 
 ##############
 ## LOGGING  ##
 ##############
 
+# Set up logging to a file in the root of the project
+log_file_path = os.path.join(os.path.dirname(__file__), "../../event_extraction.log")
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s [%(levelname)s] %(message)s',
     handlers=[
-        logging.FileHandler("event_extraction.log", mode='w', encoding='utf-8'),
+        logging.FileHandler(log_file_path, mode='a', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -105,10 +108,10 @@ def get_event_name_from_element(html_snippet: str) -> str:
     4) Return the entire sentence with minimal cleanup (e.g., remove times, am/pm, EDT, etc.)
     5) If no match found, "Null"
     """
-    logger.debug(f"\n")
+    logger.debug("\n" + "="*50 + "\nNew Function Call\n" + "="*50)
     logger.debug(f"Original Snippet Text: {html_snippet}")
     text = _extract_text_from_html(html_snippet)
-    logger.debug(f"Original Snippet Text: {text}")
+    logger.debug(f"Extracted Text: {text}")
 
     if not text.strip():
         logger.debug("Snippet has no text, returning 'Null'")
