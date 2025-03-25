@@ -109,3 +109,9 @@
 2025-03-25 15:09:56,341 - INFO - ✅ NLP analysis passed. No error message found.
 2025-03-25 15:09:56,341 - INFO - 🟢 GOOD LINK
 
+2025-03-25 20:47:21,203 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 20:47:21,203 - INFO - 
+
+2025-03-25 20:50:56,217 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 20:50:56,217 - INFO - 
+

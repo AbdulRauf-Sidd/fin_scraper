@@ -12,7 +12,7 @@ import sys
 import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
-from is_bad_link import is_bad_link
+from utils.is_bad_link import is_bad_link
 
 
 async def accept_cookies(page):

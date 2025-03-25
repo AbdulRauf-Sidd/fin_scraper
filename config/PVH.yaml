@@ -738,10 +738,10 @@ SAP_reports:
   geography: "European"
   forced_type: "reports"
   selectors:
-    event_block: div.Grid__col-12--cMZPy
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: div.NumberedList__container--Vt4OQ.Slider__pagination--bM51F button.Button__button--Dgp43.NumberedList__arrow--rkskz.NumberedList__arrowRight--XecYg.Button__l--wew_t.Button__tertiary--u5zqY.Button__focusState--C2LxD
     archive: null
     timeout: null
 
