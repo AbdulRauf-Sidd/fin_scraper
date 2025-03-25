@@ -516,7 +516,7 @@ VOW3_financial:    # Period
   
 
 
-#OR
+#OR             #Complete
 OR_news:   
   ticker: OR
   scraper: null
@@ -537,7 +537,7 @@ OR_news:
 
 
 
-OR_half:   
+OR_half:   #Complete
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/half-year-results-archives
@@ -556,7 +556,7 @@ OR_half:
     timeout: null
 
 
-OR_annual:   
+OR_annual:   #Complete
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/annual-results-archives
@@ -576,22 +576,64 @@ OR_annual:
 
 
 #NOVO-B
-NOVO-B_annual:   
+NOVO-B_finance:     #LLM
   ticker: NOVO-B
   scraper: null
-  url: https://www.loreal-finance.com/eng/annual-results-archives
-  output: data/NOVO-B_annual.json
-  output_json: JSONS/NOVO-B_annual.json
-  base_address: https://www.loreal-finance.com/
+  url: https://www.novonordisk.com/investors/financial-results.html
+  output: data/NOVO-B_financial.json
+  output_json: JSONS/NOVO-B_financial.json
+  base_address: https://www.novonordisk.com/
   periodic: false
   geography: "European"
-  forced_type: "annual-results-archives"
+  forced_type: "financial"
   selectors:
-    event_block: article.nodetype--publication.archive__item.result-archive__item
+    event_block: 
   pagination:
     type: null
     next_button:  null
     archive: null
     timeout: null
+
+
+
+NOVO-B_reporting:   #Complete
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/sustainable-business/esg-portal/integrated-reporting.html
+  output: data/NOVO-B_reporting.json
+  output_json: JSONS/NOVO-B_reporting.json
+  base_address: https://www.novonordisk.com/
+  periodic: true
+  geography: "European"
+  forced_type: "reporting"
+  selectors:
+    event_block: div.text.color-blue.introtext p
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#SIE              #Complete
+SIE_press:   
+  ticker: SIE
+  scraper: null
+  url: https://press.siemens.com/global/en/press-search?f0=&f%5B0%5D=content_type%3Ac2_ct_press_release
+  output: data/SIE_press.json
+  output_json: JSONS/SIE_press.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press"
+  selectors:
+    event_block: div.press-search-results-view-row.content-type-c2-ct-press-release.views-row
+  pagination:
+    type: load_more
+    next_button:  a.button.js-search__load-more-results
+    archive: null
+    timeout: null
+
 
 
