@@ -693,4 +693,38 @@ MOWI_capital-markets-day:
     timeout: null
 
 # MOWI financial filings left
+SAP_reports:
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=reports#reports
+  output: data/SAP_reports.json
+  output_json: JSONS/SAP_reports.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div.Grid__col-12--cMZPy
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
 
+SAP_presentations:
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=presentations#presentations
+  output: data/SAP_presentations.json
+  output_json: JSONS/SAP_presentations.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div.Tile__emptyContainer--QCWjW
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
