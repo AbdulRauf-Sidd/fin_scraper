@@ -22,6 +22,7 @@ PVH_press:      # Completed
   forced_type: "Press Releases"
   periodic: false
   geography: "US"
+  forced_type: "press-release"
   llm: true
   selectors:
     event_block: li.list__item

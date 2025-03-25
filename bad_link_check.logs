@@ -1,0 +1,111 @@
+2025-03-25 15:09:51,833 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 15:09:51,834 - INFO - 
+
+2025-03-25 15:09:52,101 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-25 15:09:52,101 - INFO - Checking URL: https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf/
+2025-03-25 15:09:52,777 - DEBUG - Received HTTP status code: 404
+2025-03-25 15:09:52,777 - INFO - ❌ URL https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf/ returned error status code: 404
+2025-03-25 15:09:52,777 - INFO - 🔴 BAD LINK (HTTP error)
+
+2025-03-25 15:09:52,778 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-25 15:09:52,778 - INFO - Checking URL: https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KO/2025-02-20/board-of-directors-of-the-coca-cola-company-approves-63rd/board-of-directors-of-the-coca-cola-company-approves-63rd
+2025-03-25 15:09:52,878 - DEBUG - Received HTTP status code: 400
+2025-03-25 15:09:52,878 - DEBUG - Content-Type for URL https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KO/2025-02-20/board-of-directors-of-the-coca-cola-company-approves-63rd/board-of-directors-of-the-coca-cola-company-approves-63rd: application/xml
+2025-03-25 15:09:52,878 - DEBUG - Non-HTML content detected (Content-Type: application/xml)
+2025-03-25 15:09:52,878 - INFO - ❌ Non-HTML content contains error-indicating XML or text.
+2025-03-25 15:09:52,878 - INFO - 🔴 BAD LINK (XML or authorization error in non-HTML response)
+
+2025-03-25 15:09:52,879 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-25 15:09:52,879 - INFO - Checking URL: https://www.example.com/thispagedoesnotexist
+2025-03-25 15:09:53,596 - DEBUG - Received HTTP status code: 404
+2025-03-25 15:09:53,596 - INFO - ❌ URL https://www.example.com/thispagedoesnotexist returned error status code: 404
+2025-03-25 15:09:53,596 - INFO - 🔴 BAD LINK (HTTP error)
+
+2025-03-25 15:09:53,596 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-25 15:09:53,596 - INFO - Checking URL: https://www.croda.com/en-gb/sustainability/ethics
+2025-03-25 15:09:56,158 - DEBUG - Received HTTP status code: 200
+2025-03-25 15:09:56,158 - DEBUG - Content-Type for URL https://www.croda.com/en-gb/sustainability/ethics: text/html; charset=utf-8
+2025-03-25 15:09:56,159 - DEBUG - Fetched HTML content for NLP analysis.
+2025-03-25 15:09:56,159 - DEBUG - Starting NLP analysis on text snippet.
+2025-03-25 15:09:56,323 - DEBUG - Analyzing sentence preview: '<!doctype html> <html lang="en-gb" data-layout="base"> <head>     <meta charset="utf-8"> <meta h...'
+2025-03-25 15:09:56,324 - DEBUG - Similarity to error phrase '404': 0.30
+2025-03-25 15:09:56,324 - DEBUG - Similarity to error phrase 'not found': 0.44
+2025-03-25 15:09:56,325 - DEBUG - Similarity to error phrase 'page not found': 0.45
+2025-03-25 15:09:56,325 - DEBUG - Similarity to error phrase 'error 404': 0.29
+2025-03-25 15:09:56,325 - DEBUG - Similarity to error phrase 'server error': 0.32
+2025-03-25 15:09:56,326 - DEBUG - Similarity to error phrase 'page no longer exists': 0.40
+2025-03-25 15:09:56,326 - DEBUG - Similarity to error phrase 'cannot be found': 0.39
+2025-03-25 15:09:56,326 - DEBUG - Similarity to error phrase 'page is missing': 0.35
+2025-03-25 15:09:56,326 - DEBUG - Similarity to error phrase 'error occurred': 0.21
+2025-03-25 15:09:56,327 - DEBUG - Similarity to error phrase 'page not available': 0.48
+2025-03-25 15:09:56,327 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.21
+2025-03-25 15:09:56,327 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-25 15:09:56,327 - DEBUG - Similarity to error phrase 'forbidden': 0.13
+2025-03-25 15:09:56,328 - DEBUG - Similarity to error phrase 'bad request': 0.39
+2025-03-25 15:09:56,328 - DEBUG - Similarity to error phrase 'internal server error': 0.34
+2025-03-25 15:09:56,328 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.46
+2025-03-25 15:09:56,329 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.52
+2025-03-25 15:09:56,329 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.37
+2025-03-25 15:09:56,329 - DEBUG - Similarity to error phrase 'page removed': 0.31
+2025-03-25 15:09:56,329 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-25 15:09:56,330 - DEBUG - Similarity to error phrase 'signature does not match': 0.31
+2025-03-25 15:09:56,330 - DEBUG - Similarity to error phrase 'missing required headers': 0.39
+2025-03-25 15:09:56,330 - DEBUG - Similarity to error phrase 'authentication failed': 0.17
+2025-03-25 15:09:56,331 - DEBUG - Similarity to error phrase 'bucket not found': 0.38
+2025-03-25 15:09:56,331 - DEBUG - Similarity to error phrase 'object does not exist': 0.37
+2025-03-25 15:09:56,331 - DEBUG - Analyzing sentence preview: 'through our purpose, we have set out to create a positive difference to the environment and to socie...'
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase '404': 0.31
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'not found': 0.75
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'page not found': 0.71
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'error 404': 0.51
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'server error': 0.47
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'page no longer exists': 0.80
+2025-03-25 15:09:56,332 - DEBUG - Similarity to error phrase 'cannot be found': 0.83
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'page is missing': 0.74
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'error occurred': 0.63
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'page not available': 0.79
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.55
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'access denied': 0.53
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'forbidden': 0.41
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'bad request': 0.72
+2025-03-25 15:09:56,333 - DEBUG - Similarity to error phrase 'internal server error': 0.55
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.89
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.82
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.69
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'page removed': 0.58
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'access denied': 0.53
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'signature does not match': 0.68
+2025-03-25 15:09:56,334 - DEBUG - Similarity to error phrase 'missing required headers': 0.68
+2025-03-25 15:09:56,335 - DEBUG - Similarity to error phrase 'authentication failed': 0.40
+2025-03-25 15:09:56,335 - DEBUG - Similarity to error phrase 'bucket not found': 0.72
+2025-03-25 15:09:56,335 - DEBUG - Similarity to error phrase 'object does not exist': 0.80
+2025-03-25 15:09:56,335 - DEBUG - Analyzing sentence preview: '"> <link rel="canonical" href="https://www.croda.com/en-gb/sustainability/ethics" /> <meta name="v...'
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase '404': 0.25
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'not found': 0.34
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'page not found': 0.36
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'error 404': 0.21
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'server error': 0.24
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'page no longer exists': 0.28
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'cannot be found': 0.28
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'page is missing': 0.23
+2025-03-25 15:09:56,339 - DEBUG - Similarity to error phrase 'error occurred': 0.12
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'page not available': 0.38
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.10
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'access denied': 0.20
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'forbidden': 0.04
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'bad request': 0.30
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'internal server error': 0.24
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.34
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.41
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.26
+2025-03-25 15:09:56,340 - DEBUG - Similarity to error phrase 'page removed': 0.23
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'access denied': 0.20
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'signature does not match': 0.21
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'missing required headers': 0.29
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'authentication failed': 0.12
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'bucket not found': 0.29
+2025-03-25 15:09:56,341 - DEBUG - Similarity to error phrase 'object does not exist': 0.24
+2025-03-25 15:09:56,341 - DEBUG - No error message detected in the analyzed text snippet.
+2025-03-25 15:09:56,341 - INFO - ✅ NLP analysis passed. No error message found.
+2025-03-25 15:09:56,341 - INFO - 🟢 GOOD LINK
+
