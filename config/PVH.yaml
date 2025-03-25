@@ -161,7 +161,7 @@ CBP_events:         # Pagination not being handled correctly
 #     archive: .archive-toggler
 #     timeout: 5
 
-CBP_news:
+CBP_news:       # Pagination not handled correctly
   ticker: CBP
   url: https://investor.thecampbellscompany.com/news/financial-news
   output: data/CBP_news.json
@@ -175,8 +175,8 @@ CBP_news:
   pagination:
     type: load_more
     next_button: a.button.use-ajax[rel='next']
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 #DSFIR
 DSFIR_news:       #COMPLETED
@@ -205,6 +205,7 @@ DSFIR_press:    #COMPLETED
   base_address: https://investors.dsm-firmenich.com/
   periodic: false
   geography: "European"
+  forced_type: "Press Release"
   selectors:
     event_block: .cmp-title, .cmp-text, .cmp-image
   pagination:
