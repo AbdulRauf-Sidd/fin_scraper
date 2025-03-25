@@ -338,7 +338,8 @@ SY1_events:     # COMPLETED
   output_json: JSONS/SY1_events.json
   base_address: https://www.symrise.com/
   periodic: false
-  geography: "US"
+  geography: "European"
+  forced_type: "events"
   selectors:
     event_block: div.t-row
   pagination:
@@ -354,7 +355,8 @@ SY1_news:         #COMPLETED
   output_json: JSONS/SY1_news.json
   base_address: https://www.symrise.com/
   periodic: false
-  geography: "US"
+  geography: "European"
+  forced_type: "news"
   selectors:
     event_block: div.t-table
   pagination:
@@ -372,6 +374,7 @@ WDAY_events: #COMPLETED
   base_address: https://investor.workday.com/
   periodic: false
   geography: "US"
+  forced_type: "events"
   selectors:
     event_block: div.wd_events_month
   pagination:
@@ -386,6 +389,7 @@ WDAY_press: #COMPLETED
   base_address: https://investor.workday.com/
   periodic: false
   geography: "US"
+  forced_type: "press"
   selectors:
     event_block: .wd_item
   pagination:
@@ -401,6 +405,7 @@ WMT_quarterly:  #COMPLETED
   base_address: https://stock.walmart.com/
   periodic: true
   geography: "US"
+  forced_type: "Financial Filings"
   selectors:
     event_block: div.box quarterly-results
   pagination:
