@@ -366,7 +366,7 @@ SY1_news:         #COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-WDAY_events: #COMPLETED
+WDAY_events:    #COMPLETED
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
