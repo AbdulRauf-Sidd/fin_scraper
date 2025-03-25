@@ -19,6 +19,20 @@
 2025-03-25 20:57:39,011 - INFO - Loaded spaCy model 'en_core_web_md'.
 2025-03-25 20:57:39,011 - INFO - 
 
+<<<<<<< HEAD
 2025-03-25 22:05:32,996 - INFO - Loaded spaCy model 'en_core_web_md'.
 2025-03-25 22:05:32,997 - INFO - 
+=======
+2025-03-25 22:48:37,796 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 22:48:37,796 - INFO - 
+
+2025-03-25 22:49:48,340 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 22:49:48,340 - INFO - 
+
+2025-03-25 22:52:18,936 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 22:52:18,936 - INFO - 
+
+2025-03-25 22:54:59,157 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-25 22:54:59,158 - INFO - 
+>>>>>>> e6bb8278c3373b1684610e5c85e38b8c4e80acd3
 

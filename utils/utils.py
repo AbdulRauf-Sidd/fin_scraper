@@ -149,6 +149,9 @@ async def download_file(url, output_folder="downloads"):
     else:
         file_type = file_path.suffix.lstrip(".")
 
+    if not file_type:
+        file_type = "HTML"
+        
     print(f"📄 Detected MIME Type: {mime_type}")
     print(f"🗂️ Final File Type: {file_type}")
 
