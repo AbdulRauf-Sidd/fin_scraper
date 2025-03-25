@@ -11,9 +11,9 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q4-presentation.pdf/sap-2024-q4-presentation.pdf",
         "content_type": [
-          "presentation",
+          "presentations",
           "news",
-          "presentations"
+          "presentation"
         ]
       }
     ]
@@ -30,9 +30,9 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q3-presentation.pdf/sap-2024-q3-presentation.pdf",
         "content_type": [
-          "presentation",
+          "presentations",
           "news",
-          "presentations"
+          "presentation"
         ]
       }
     ]
@@ -49,9 +49,9 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q2-presentation.pdf/sap-2024-q2-presentation.pdf",
         "content_type": [
-          "presentation",
+          "presentations",
           "news",
-          "presentations"
+          "presentation"
         ]
       }
     ]
@@ -69,9 +69,9 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-financial-analyst-conference-presentation.pdf/sap-2024-financial-analyst-conference-presentation.pdf",
         "content_type": [
           "financial-filing",
-          "presentation",
           "news",
-          "presentations"
+          "presentations",
+          "presentation"
         ]
       }
     ]
@@ -88,9 +88,9 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q1-presentation.pdf/sap-2024-q1-presentation.pdf",
         "content_type": [
-          "presentation",
+          "presentations",
           "news",
-          "presentations"
+          "presentation"
         ]
       }
     ]
@@ -107,10 +107,10 @@
         "published_date": "2023",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2023/sap-2023-q4-presentation.pdf/sap-2023-q4-presentation.pdf",
         "content_type": [
-          "presentation",
-          "news",
           "presentations",
-          "full-year-results"
+          "news",
+          "full-year-results",
+          "presentation"
         ]
       }
     ]
@@ -127,8 +127,8 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2023-12-18-reporting-updates-2024.pdf/sap-2023-12-18-reporting-updates-2024.pdf",
         "content_type": [
-          "news",
-          "presentations"
+          "presentations",
+          "news"
         ]
       }
     ]
@@ -145,9 +145,9 @@
         "published_date": "2023",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2023/sap-2023-q3-presentation.pdf/sap-2023-q3-presentation.pdf",
         "content_type": [
-          "presentation",
+          "presentations",
           "news",
-          "presentations"
+          "presentation"
         ]
       }
     ]

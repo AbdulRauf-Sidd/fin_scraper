@@ -1,5 +1,24 @@
 [
   {
+    "event_name": "Capital Markets Day 2024, Presentation",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "CMD-2024-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/CMD-2024-Presentation.pdf/CMD-2024-Presentation.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
     "event_name": "Capital Markets Day 2024, Webcast",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -277,6 +296,177 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2015/?entity=35_DNE1M6X/?entity=35_DNE1M6X",
         "content_type": [
           "presentation",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "North Atlantic Seafood Forum Conference 2015",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "681209.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2015/681209.pdf/681209.pdf",
+        "content_type": [
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2014/presentation.pdf/presentation.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "seminar",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Salmon supply and market outlook 2013",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "550915.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2013/550915.pdf/550915.pdf",
+        "content_type": [
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation Havbrukskonferansen Oslo 22 November 2011",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "486041.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-11-22",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2011-11-22/486041.pdf/486041.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "090611 Presentation at Platou Seminar",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "458927.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/Null/458927.pdf/458927.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "seminar",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Pan Fish - Marine Harv Presentation 2006",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "186745.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2006/186745.pdf/186745.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation at DnB NOR Seafood Summit 2006",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "168337.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2006/168337.pdf/168337.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "157386.pdf",
+        "file_type": "pdf",
+        "published_date": "2005",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2005/157386.pdf/157386.pdf",
+        "content_type": [
+          "news",
+          "seminar",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation IPO of Pan Pelagic ASA 2001",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "89068.pdf",
+        "file_type": "pdf",
+        "published_date": "2001",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2001/89068.pdf/89068.pdf",
+        "content_type": [
+          "presentation",
+          "news",
           "presentations"
         ]
       }
