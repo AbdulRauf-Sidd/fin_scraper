@@ -134,6 +134,7 @@ CRDA_presentations:     # Too many irrelevant event blocks scrapped
   base_address: https://www.croda.com/en-gb/
   periodic: false
   geography: "European"
+  forced_type: "presentations"
   selectors:
     event_block: table.c-responsive-table tbody tr
   pagination:
@@ -150,6 +151,7 @@ CBP_events:         # Pagination not being handled correctly
   base_address: https://investor.thecampbellscompany.com/
   periodic: false
   geography: "US"
+  forced_type: "events"
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
@@ -157,10 +159,6 @@ CBP_events:         # Pagination not being handled correctly
     next_button: li.pager__item--next a
 #     archive: .archive-toggler
 #     timeout: 5
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
 CBP_news:
   ticker: CBP
@@ -170,6 +168,7 @@ CBP_news:
   base_address: https://investor.thecampbellscompany.com/
   periodic: false
   geography: "US"
+  forced_type: "news"
   selectors:
     event_block: article.node--nir-news--nir-widget-list
   pagination:
@@ -186,7 +185,7 @@ DSFIR_news:       #COMPLETED
   output_json: JSONS/DSFIR_news.json
   base_address: https://investors.dsm-firmenich.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "news"
   selectors:
     event_block: li.cmp-list__item.common-list__item:is(:visible)
@@ -204,7 +203,7 @@ DSFIR_press:    #COMPLETED
   output_json: JSONS/DSFIR_press.json
   base_address: https://investors.dsm-firmenich.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   selectors:
     event_block: .cmp-title, .cmp-text, .cmp-image
   pagination:
@@ -220,7 +219,8 @@ GIVN_news:          # load more button not COMPLETED
   output_json: JSONS/GIVN_news.json
   base_address: https://www.givaudan.com/
   periodic: false
-  geography: "US"
+  geography: "European"
+  forced_type: "news"
   selectors:
     event_block: div.views-row.show
   pagination:
@@ -237,6 +237,7 @@ IFF_presentations:    # COMPLETED
   base_address: https://ir.iff.com/
   periodic: false
   geography: "US"
+  forced_type: "presentations"
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
@@ -254,6 +255,7 @@ IFF_press:      # pagination not being handled correctly
   base_address: https://ir.iff.com/
   periodic: false
   geography: "US"
+  forced_type: "press"
   selectors:
     event_block: .nir-widget--list article
   pagination:
@@ -271,6 +273,7 @@ KO_company-updates:     # scrapped 4 blocks instead of 6
   base_address: https://investors.coca-colacompany.com/
   periodic: false
   geography: "US"
+  forceed_type: "company-updates"
   selectors:
     event_block: .ir-cta-event-with-documents
   pagination:
@@ -285,6 +288,7 @@ KO_poclicies-practices-reports:     # all events not scrapped
   base_address: https://www.coca-colacompany.com/
   periodic: false
   geography: "US"
+  forced_type: "reports"
   selectors:
     event_block: div.cmp-accordion__item div div div div div div ul li
   pagination:
@@ -299,6 +303,7 @@ KO_press:     # COMPLETED
   base_address: https://investors.coca-colacompany.com/
   periodic: false
   geography: "US"
+  forced_type: "press release"
   selectors:
     event_block: article.media
   pagination:
@@ -315,6 +320,7 @@ RL_newsroom:      # COMPLETED
   base_address: https://corporate.ralphlauren.com/
   periodic: false
   geography: "US"
+  forced_type: "news"
   selectors:
     event_block: .newsroom-content .corp-news
   pagination:
