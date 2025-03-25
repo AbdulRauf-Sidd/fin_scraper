@@ -2,7 +2,7 @@
   {
     "event_name": "Financial October 28, 2025 Interim Group Report January \u2013 September 2025",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -20,7 +20,7 @@
   {
     "event_name": "Financial July 30, 2025 Interim Group Report January \u2013 June 2025",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -37,7 +37,7 @@
   {
     "event_name": "Financial June 4, 2025 CEO Conference (BNP Paribas Exane), Paris ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -54,7 +54,7 @@
   {
     "event_name": "Financial June 3, 2025 Global Consumer Conference (Deutsche Bank), Paris ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -71,7 +71,7 @@
   {
     "event_name": "Financial May 28, 2025 European Chpions Conference (Deutsche Bank), Frankfurt ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -88,7 +88,7 @@
   {
     "event_name": "Financial May 23, 2025 Ingredients Field Trip (Jefferies), Grasse ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -105,7 +105,7 @@
   {
     "event_name": "Financial May 20, 2025 Annual General Meeting 2025, Holzminden",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -122,7 +122,7 @@
   {
     "event_name": "Financial April 29, 2025 Quarterly Statement January \u2013 March 2025",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -140,7 +140,7 @@
   {
     "event_name": "Financial March 27, 2025 Corporate and Financial Report 2024",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -157,7 +157,7 @@
   {
     "event_name": "Financial March 12, 2025 Roadshow, Dublin (Stifel) ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -174,7 +174,7 @@
   {
     "event_name": "Financial March 11, 2025 Consumer Ingredients Forum (J.P. Morgan), London ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -191,7 +191,7 @@
   {
     "event_name": "Financial March 11, 2025 Consumer Ingredients Conference (BNP Paribas Exane), London ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -208,7 +208,7 @@
   {
     "event_name": "Financial February 18, 2025 Fireside Chat (Barclays), virtual ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -225,7 +225,7 @@
   {
     "event_name": "Financial February 5-6, 2025 Roadshow, London (BofA) ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -242,7 +242,7 @@
   {
     "event_name": "Financial February 4, 2025 Roadshow, Frankfurt (Kepler Cheuvreux) ICS",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -259,7 +259,7 @@
   {
     "event_name": "Financial January 30, 2025 Publication of key figures fiscal year 2024",
     "equity_ticker": "SY1",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {

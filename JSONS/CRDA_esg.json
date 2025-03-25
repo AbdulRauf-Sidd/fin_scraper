@@ -2,7 +2,7 @@
   {
     "event_name": "Null",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -28,7 +28,7 @@
   {
     "event_name": "Awards and certifications Many aspects of our sustainability commitment have been recognised externally, and we actively seek certification in key areas of our operations",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -54,7 +54,7 @@
   {
     "event_name": "Non-financial performance and reports We consider our non-financial metrics to be as important as our financial",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -82,7 +82,7 @@
   {
     "event_name": "Policies and procedures We operate a range of policies covering all area of our Business to uphold the principles of socially responsible business practices",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -108,7 +108,7 @@
   {
     "event_name": "Null",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {
@@ -134,7 +134,7 @@
   {
     "event_name": "Null",
     "equity_ticker": "CRDA",
-    "geography": "US",
+    "geography": "European",
     "periodicity": "non-periodic",
     "data": [
       {

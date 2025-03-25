@@ -73,8 +73,14 @@ class PaginationHandler:
         # Select all tab elements
         tabs = await page.query_selector_all(tab_selector)
 
-        for tab in tabs:
-            # Re-query the tabs and select the i-th tab each time
+        tabs = await page.query_selector_all(tab_selector)
+        num_tabs = len(tabs)
+
+        for i in range(num_tabs):
+            tabs = await page.query_selector_all(tab_selector)  # Re-query to avoid stale references
+            if i >= len(tabs):  # Check if tabs list is shorter than expected
+                break
+            
             if archive_class:
                 try:
                     archive_tab = await page.query_selector(archive_class) # Modify selector as needed
@@ -84,13 +90,11 @@ class PaginationHandler:
                         await asyncio.sleep(5)  # Wait for the DOM to update after clicking the 'archive' tab
                 except Exception as e:
                     print(f"⚠️ Error accessing 'archive' tab: {e}")
-
-            tabs = await page.query_selector_all(tab_selector)
+            
             tab = tabs[i]
             year = await tab.inner_text()
             print('Processing tab:', year)
 
-            # Check if the tab is already active
             class_attr = await tab.get_attribute("class") or ""
             if "active" in class_attr:
                 print(f"Skipping active tab: {year}")
@@ -104,6 +108,9 @@ class PaginationHandler:
                 
                 if timeout:
                     await asyncio.sleep(timeout)  # Wait for the DOM to update
+
+                event = await extract_function(page)
+                all_events.extend(event)
 
                 # Wait for new content to load (adjust selector)
                 await page.wait_for_selector("div.t-table", timeout=5000)

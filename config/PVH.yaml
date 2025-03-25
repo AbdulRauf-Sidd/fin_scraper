@@ -161,7 +161,7 @@ CBP_events:         # Pagination not being handled correctly
 #     archive: .archive-toggler
 #     timeout: 5
 
-CBP_news:
+CBP_news:       # Pagination not handled correctly
   ticker: CBP
   url: https://investor.thecampbellscompany.com/news/financial-news
   output: data/CBP_news.json
@@ -175,8 +175,8 @@ CBP_news:
   pagination:
     type: load_more
     next_button: a.button.use-ajax[rel='next']
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 #DSFIR
 DSFIR_news:       #COMPLETED
@@ -205,6 +205,7 @@ DSFIR_press:    #COMPLETED
   base_address: https://investors.dsm-firmenich.com/
   periodic: false
   geography: "European"
+  forced_type: "Press Release"
   selectors:
     event_block: .cmp-title, .cmp-text, .cmp-image
   pagination:
@@ -365,7 +366,7 @@ SY1_news:         #COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-WDAY_events: #COMPLETED
+WDAY_events:    #COMPLETED
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
@@ -431,7 +432,6 @@ KER_press:
   pagination:
     type: load_more
     next_button: a.wbhsupj.w1sknmqa
-
     archive: .archive-toggler
     timeout: 5
 
@@ -452,3 +452,245 @@ KER_finance:   #Periodicity for european financial docs.
     next_button: null
     archive: null
     timeout: null
+
+RMS_meeting:   #redirection problem.
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/en/general-meetings/
+  output: data/RMS_meeting.json
+  output_json: JSONS/RMS_meeting.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  selectors:
+    event_block: li.pt-8.lg.pt-10.lg.pb-0.layout-container
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+
+    
+
+
+
+#VOW3
+VOW3_press:   #nlp not working
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/press-releases
+  output: data/VOW3_press.json
+  output_json: JSONS/VOW3_press.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+
+
+VOW3_financial:    # Period
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/financial-news-17302
+  output: data/VOW3_financial.json
+  output_json: JSONS/VOW3_financial.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+  
+
+
+#OR             #Complete
+OR_news:   
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/news-releases
+  output: data/OR_news.json
+  output_json: JSONS/OR_news.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.row
+  pagination:
+    type: load_more
+    next_button:  a.button
+    archive: null
+    timeout: null
+
+
+
+OR_half:   #Complete
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/half-year-results-archives
+  output: data/OR_half.json
+  output_json: JSONS/OR_half.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "half-year-results"
+  selectors:
+    event_block: div.archive__section
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+OR_annual:   #Complete
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/annual-results-archives
+  output: data/OR_annual.json
+  output_json: JSONS/OR_annual.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "annual-results-archives"
+  selectors:
+    event_block: article.nodetype--publication.archive__item.result-archive__item
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#NOVO-B
+NOVO-B_finance:     #LLM
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/investors/financial-results.html
+  output: data/NOVO-B_financial.json
+  output_json: JSONS/NOVO-B_financial.json
+  base_address: https://www.novonordisk.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: 
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+NOVO-B_reporting:   #Complete
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/sustainable-business/esg-portal/integrated-reporting.html
+  output: data/NOVO-B_reporting.json
+  output_json: JSONS/NOVO-B_reporting.json
+  base_address: https://www.novonordisk.com/
+  periodic: true
+  geography: "European"
+  forced_type: "reporting"
+  selectors:
+    event_block: div.text.color-blue.introtext p
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#SIE              #Complete
+SIE_press:   
+  ticker: SIE
+  scraper: null
+  url: https://press.siemens.com/global/en/press-search?f0=&f%5B0%5D=content_type%3Ac2_ct_press_release
+  output: data/SIE_press.json
+  output_json: JSONS/SIE_press.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press"
+  selectors:
+    event_block: div.press-search-results-view-row.content-type-c2-ct-press-release.views-row
+  pagination:
+    type: load_more
+    next_button:  a.button.js-search__load-more-results
+    archive: null
+    timeout: null
+
+
+
+
+
+MOWI_reports:     # COMPLETED
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/reports/
+  output: data/MOWI_reports.json
+  output_json: JSONS/MOWI_reports.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div._investors-reports-list__box
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+MOWI_presentations:
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/presentations/
+  output: data/MOWI_presentations.json
+  output_json: JSONS/MOWI_presentations.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div._presentations-list__items a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+MOWI_capital-markets-day:
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/capital-markets-day/
+  output: data/MOWI_capital-markets-day.json
+  output_json: JSONS/MOWI_capital-markets-day.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "capital-markets-day"
+  selectors:
+    event_block: div._presentations-list__items a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+# MOWI financial filings left
+
