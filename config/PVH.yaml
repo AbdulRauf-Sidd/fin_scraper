@@ -415,3 +415,41 @@ WMT_quarterly:  #COMPLETED
 
     archive: .archive-toggler
     timeout: 5
+
+
+KER_press:
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/press/news/
+  output: data/KER_press.json
+  output_json: JSONS/KER_press.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.t1vdjoug
+  pagination:
+    type: load_more
+    next_button: a.wbhsupj.w1sknmqa
+
+    archive: .archive-toggler
+    timeout: 5
+
+KER_finance:   #Periodicity for european financial docs.
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/finance/publications/
+  output: data/KER_finance.json
+  output_json: JSONS/KER_finance.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "finance"
+  selectors:
+    event_block: div.p67j49j
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null

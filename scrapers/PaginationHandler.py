@@ -58,11 +58,6 @@ class PaginationHandler:
 
     async def switch_all_tabs(self, page, tab_selector, extract_function, timeout=None, archive_class=None):
         """Switches through all tabs without scraping, handling potential blockers."""
-<<<<<<< Updated upstream
-
-=======
-        all_events = []
->>>>>>> Stashed changes
         # Handle consent banner if present
         try:
             consent_button = await page.query_selector("#onetrust-accept-btn-handler")
@@ -73,28 +68,12 @@ class PaginationHandler:
         except Exception as e:
             print(f"⚠️ Consent banner not found or error: {e}")
 
-<<<<<<< Updated upstream
+        all_events = []
+
         # Select all tab elements
         tabs = await page.query_selector_all(tab_selector)
 
         for tab in tabs:
-=======
-        if archive_class:
-            try:
-                archive_tab = await page.query_selector(archive_class) # Modify selector as needed
-                if archive_tab:
-                    print("Clicking on the 'archive' tab...")
-                    await archive_tab.click()
-                    await asyncio.sleep(5)  # Wait for the DOM to update after clicking the 'archive' tab
-            except Exception as e:
-                print(f"⚠️ Error accessing 'archive' tab: {e}")
-    
-        # Select all tab elements
-        tabs = await page.query_selector_all(tab_selector)
-        num_tabs = len(tabs)
->>>>>>> Stashed changes
-
-        for i in range(num_tabs):
             # Re-query the tabs and select the i-th tab each time
             if archive_class:
                 try:
@@ -129,12 +108,6 @@ class PaginationHandler:
                 # Wait for new content to load (adjust selector)
                 await page.wait_for_selector("div.t-table", timeout=5000)
 
-<<<<<<< Updated upstream
-=======
-                event = await extract_function(page)
-                all_events.extend(event)
-
->>>>>>> Stashed changes
             except Exception as e:
                 print(f"⚠️ Error switching to {year}: {e}")
         return all_events

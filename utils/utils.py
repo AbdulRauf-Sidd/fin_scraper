@@ -101,6 +101,7 @@ async def download_file(url, output_folder="downloads"):
         filename (str): The name of the file.
         file_type (str): The file extension (e.g., "pdf", "docx").
     """
+    url = url.rstrip('/')
     filename = os.path.basename(url)
     file_path = Path(output_folder) / filename
     abs_path = str(file_path.resolve())
@@ -111,7 +112,7 @@ async def download_file(url, output_folder="downloads"):
     print(f"🔍 Visiting: {url}")
     try:
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
+            browser = await p.chromium.launch(headless=False)
             context = await browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
                 extra_http_headers={
@@ -155,3 +156,6 @@ def join_url(base_url, href):
     
     # Otherwise, join the base_url with the href
     return urljoin(base_url, href)
+
+
+# a=download_file('https://www.kering.com/en/news/2024-annual-results/')
