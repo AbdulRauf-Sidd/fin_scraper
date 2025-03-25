@@ -8,9 +8,19 @@ from bs4 import BeautifulSoup
 # Load SpaCy model (ensure you have "en_core_web_sm" or similar installed)
 nlp = spacy.load("en_core_web_sm")
 
+# Configure logging to write to a file
+LOG_FILE = "get_date_from_element.log"
+
+def log_to_file(message: str):
+    """Helper function to log messages to a file with line spacing."""
+    with open(LOG_FILE, "a") as log_file:
+        log_file.write(message + "\n\n")
+
 def get_date_from_element(html_snippet: str) -> str:
-    print(html_snippet)
-    print("/n/n/n/n/n")
+    log_to_file("============================================================")
+    log_to_file(f"Input HTML Snippet:\n{html_snippet}")
+    log_to_file("============================================================")
+    
     """
     Combined approach:
       1) Try extracting a full date (YYYY-MM-DD) via regex + spacy + dateparser.
@@ -23,16 +33,6 @@ def get_date_from_element(html_snippet: str) -> str:
     text = _extract_text(html_snippet)
 
     # 2) Try full-date extraction (Spacy/Regex approach)
-    dt_full = _extract_complete_date_spacy_regex(text)
-    if dt_full:
-        # If we indeed found day/month/year, return "YYYY-MM-DD"
-        # But let's confirm the snippet actually contained day and month 
-        # (not just a guess). We'll do a quick check with day/month detection:
-        has_day = _text_has_day(text)
-        has_month = _text_has_month(text)
-        if has_day and has_month:
-            return f"{dt_full.year:04d}-{dt_full.month:02d}-{dt_full.day:02d}"
-        # If it didn't truly have a day or month in the snippet, let's fallback 
         # to partial logic so we don't artificially produce "YYYY-01-01"
         # E.g., if it was just "2025".
         # We'll pass control to partial logic below.
@@ -154,7 +154,7 @@ def _text_has_month(text: str) -> bool:
     return bool(month_pattern.search(text))
 
 
-# Test with your input example
+# # Test with your input example
 # input_text = [
 #     "<!----><div class=\"list__content\"><h3> Q4 2024 PVH Corp. Earnings Conference Call </h3><!----><!----><p class=\"list__date\"> Apr 01, 2025 9am EDT / 6am PDT </p></div>",
 #     "<!----><div class=\"list__content\"><h3> Q3 2024 PVH Corp. Earnings Conference Call </h3><!----><p class=\"list__description list__webcast_link\"><a href=\"javascript:void(window.open('https://edge.media-server.com/mmc/p/zti77hw7','Window1','menubar=no,statusbar=no, width=800,height=600,toolbar=no,scrollbars=yes'));\">View Webcast</a></p><p class=\"list__date\"> Dec 05, 2024 9am EST / 6am PST </p></div>",
@@ -347,6 +347,6 @@ def _text_has_month(text: str) -> bool:
 #     "\n    <div class=\"row\">\n                        <div class=\"media-body col-md\">\n                        <div class=\"date\">\n                <time datetime=\"2023-05-05T09:10:00\">May 5, 2023 9:10 am EDT</time>\n            </div>\n                        <div class=\"media-heading\">\n                <a href=\"https://investors.corescientific.com/news-events/press-releases/detail/64/core-scientific-announces-april-2023-production-and-operations-updates\">\n                    Core Scientific Announces April 2023 Production and Operations Updates                </a>\n            </div>\n        </div>\n            </div>\n",
 #     "\n    <div class=\"row\">\n                        <div class=\"media-body col-md\">\n                        <div class=\"date\">\n                <time datetime=\"2023-04-28T09:10:00\">Apr 28, 2023 9:10 am EDT</time>\n            </div>\n                        <div class=\"media-heading\">\n                <a href=\"https://investors.corescientific.com/news-events/press-releases/detail/65/core-scientific-signs-hosting-contracts-with-three-public-companies-during-reorganization-maintains-industry-position-as-one-of-north-americas-largest-bitcoin-miners\">\n                    Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization \u2013 Maintains Industry Position as One of North America\u2019s Largest Bitcoin Miners                </a>\n            </div>\n        </div>\n            </div>\n"
 # ]
-# # for x in input_text:
-# #     extracted_date = get_date_from_element(x)
-# #     print(f"Extracted Event Date: {extracted_date}")
+# for x in input_text:
+#     extracted_date = get_date_from_element(x)
+#     print(f"Extracted Event Date: {extracted_date}")

@@ -521,7 +521,7 @@ VOW3_press:   #nlp not working
   base_address: https://www.volkswagen-group.com/
   periodic: false
   geography: "European"
-  forced_type: "news"
+  forced_type: "press-release"
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
@@ -688,6 +688,7 @@ MOWI_reports:
     archive: null
     timeout: null
 
+<<<<<<< Updated upstream
 MOWI_presentations:
   ticker: MOWI
   scraper: null
@@ -1138,4 +1139,243 @@ RKT_agm:
     next_button: null
     archive: null
     timeout: null
+=======
+SIE_financial:   
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results.html
+  output: data/SIE_financial.json
+  output_json: JSONS/SIE_financial.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+SIE_financial-results-archive:   
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results-archive.html
+  output: data/SIE_financial-results-archive.json
+  output_json: JSONS/SIE_financial-results-archive.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial-results-archive"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SIE_events:   
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/ir-events.html
+  output: data/SIE_events.json
+  output_json: JSONS/SIE_events.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "events
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#OTIS              
+OTIS_presentations:   
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/events-and-presentations/default.aspx
+  output: data/OTIS_presentations.json
+  output_json: JSONS/OTIS_presentations.json
+  base_address: https://otisinvestors.com/
+  periodic: true
+  geography: "US"
+  forced_type: "presentations"
+  selectors:
+    event_block: div.evergreen-item.evergreen-presentation-item.evergreen-item-container.evergreen-presentation-item--shadow
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#HWDN
+HWDN_presentations:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
+  output: data/HWDN_presentations.json
+  output_json: JSONS/HWDN_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div.col-lg-6.pb-5
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+HWDN_sustainability:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/sustainability/index
+  output: data/HWDN_sustainability.json
+  output_json: JSONS/sustainability_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: "sustainability"
+  selectors:
+    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#RACE
+RACE_press:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/press-releases/10
+  output: data/RACE_press.json
+  output_json: JSONS/RACE_press-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press"
+  selectors:
+    event_block: div.NewsPage__grid-row__2hkTTLLU
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+RACE_financial:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
+  output: data/RACE_financial.json
+  output_json: JSONS/RACE_financial-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: div.LinkAccordion__rows__mNPa_uDh
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#BAS
+BAS_publications:   
+  ticker: BAS
+  scraper: null
+  url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
+  output: data/BAS_publications.json
+  output_json: JSONS/BAS_publications-.json
+  base_address: https://www.basf.com/
+  periodic: true
+  geography: "European"
+  forced_type: "publications"
+  selectors:
+    event_block: article.wxp-content-item.wxp-content-item__has-image
+  pagination:
+    type: load_more
+    next_button:  div.wxp-result-list-footer-button.mt-5
+    archive: null
+    timeout: null
+
+
+#SAN
+SAN_investor-relations:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
+  output: data/SAN_investor-relations.json
+  output_json: JSONS/SAN_investor-relations-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "investor-relations"
+  selectors:
+    event_block: div.even
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_investor-relations:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
+  output: data/SAN_investor-relations.json
+  output_json: JSONS/SAN_investor-relations-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "investor-relations"
+  selectors:
+    event_block: div.even
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_group-holdings:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
+  output: data/SAN_group-holdings.json
+  output_json: JSONS/SAN_group-holdings-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "group-holdings"
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+ 
+>>>>>>> Stashed changes
 

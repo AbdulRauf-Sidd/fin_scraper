@@ -1,6 +1,6 @@
 [
   {
-    "event_name": "Annual Report 2024 on Form 20-F Read more",
+    "event_name": "Annual Report 2024 on Form 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12,15 +12,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-annual-report-form-20f.pdf/sap-2024-annual-report-form-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP Compensation Report 2024 Read more",
+    "event_name": "SAP Compensation Report 2024",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "event_name": "Rechnungslegung der SAP SE (HGB) 2024 Read more",
+    "event_name": "Rechnungslegung der SAP SE (HGB) 2024",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "event_name": "Verguetungsbericht der SAP 2024 Read more",
+    "event_name": "Verguetungsbericht der SAP 2024",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "event_name": "Integrierter Bericht der SAP 2024 Read more",
+    "event_name": "Integrierter Bericht der SAP 2024",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "event_name": "2024 SAP Integrated Report Read more",
+    "event_name": "2024 SAP Integrated Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "event_name": "SAP 2024 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2024 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "event_name": "Q4 2024 Quarterly Statement Read more",
+    "event_name": "Q4 2024 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "event_name": "SAP Half-Year Report 2024 Read more",
+    "event_name": "SAP Half-Year Report 2024",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -167,7 +167,7 @@
     ]
   },
   {
-    "event_name": "Q2 2024 Quarterly Statement Read more",
+    "event_name": "Q2 2024 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -185,7 +185,7 @@
     ]
   },
   {
-    "event_name": "SAP 2024 Q1 Quartalsmitteilung Read more",
+    "event_name": "SAP 2024 Q1 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "event_name": "Q1 2024 Quarterly Statement Read more",
+    "event_name": "Q1 2024 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "event_name": "Integrierter Bericht der SAP 2023 Read more",
+    "event_name": "Integrierter Bericht der SAP 2023",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "event_name": "SAP Integrated Report 2023 Read more",
+    "event_name": "SAP Integrated Report 2023",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "event_name": "SAP 2023 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2023 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "event_name": "Q4 2023 Quarterly Statement Read more",
+    "event_name": "Q4 2023 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "event_name": "Q2 2023 Quarterly Statement Read more",
+    "event_name": "Q2 2023 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "event_name": "SAP 2023 Q1 Quarterly Statement Read more",
+    "event_name": "SAP 2023 Q1 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "event_name": "SAP 2023 Q1 Quartalsmitteilung Read more",
+    "event_name": "SAP 2023 Q1 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -366,7 +366,7 @@
     ]
   },
   {
-    "event_name": "Integrierter Bericht der SAP 2022 Read more",
+    "event_name": "Integrierter Bericht der SAP 2022",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "event_name": "SAP Integrated Report 2022 Read more",
+    "event_name": "SAP Integrated Report 2022",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2022 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -421,7 +421,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Q4 Quarterly Statement Read more",
+    "event_name": "SAP 2022 Q4 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Half-Year Report Read more",
+    "event_name": "SAP 2022 Half-Year Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Q2 Quartalsmitteilung Juli 2022 Read more",
+    "event_name": "SAP 2022 Q2 Quartalsmitteilung Juli 2022",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Q1 Quarterly Statement Read more",
+    "event_name": "SAP 2022 Q1 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "event_name": "SAP 2022 Q1 Quartalsmitteilung Read more",
+    "event_name": "SAP 2022 Q1 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -512,7 +512,7 @@
     ]
   },
   {
-    "event_name": "SAP Compensation Report 2021 Read more",
+    "event_name": "SAP Compensation Report 2021",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -531,7 +531,7 @@
     ]
   },
   {
-    "event_name": "SAP Integrated Report 2021 Read more",
+    "event_name": "SAP Integrated Report 2021",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "event_name": "SAP 2021 Q4 Quarterly Statement Read more",
+    "event_name": "SAP 2021 Q4 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -568,7 +568,7 @@
     ]
   },
   {
-    "event_name": "SAP 2021 Q4 Quartalsmitteilung Januar 2022 Read more",
+    "event_name": "SAP 2021 Q4 Quartalsmitteilung Januar 2022",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "event_name": "SAP 2021 Half-Year Report Read more",
+    "event_name": "SAP 2021 Half-Year Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "event_name": "SAP 2021 Halbjahresbericht Read more",
+    "event_name": "SAP 2021 Halbjahresbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -623,7 +623,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -641,7 +641,7 @@
     ]
   },
   {
-    "event_name": "SAP 2021 Q2 Quarterly Statement Read more",
+    "event_name": "SAP 2021 Q2 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -659,7 +659,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Integrierter Bericht Read more",
+    "event_name": "SAP 2020 Integrierter Bericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -677,7 +677,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Integrated Report Read more",
+    "event_name": "SAP 2020 Integrated Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -696,7 +696,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2020 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -714,7 +714,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q4 Quarterly Statement Read more",
+    "event_name": "SAP 2020 Q4 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -732,7 +732,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q2 Quartalsmitteilung Read more",
+    "event_name": "SAP 2020 Q2 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q2 Quarterly Statement Read more",
+    "event_name": "SAP 2020 Q2 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -768,7 +768,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q1 Quartalsmitteilung Read more",
+    "event_name": "SAP 2020 Q1 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -786,7 +786,7 @@
     ]
   },
   {
-    "event_name": "SAP 2020 Q1 Quarterly Statement Read more",
+    "event_name": "SAP 2020 Q1 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -804,7 +804,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2019 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -822,7 +822,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Q4 Quarterly Statement Read more",
+    "event_name": "SAP 2019 Q4 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -858,25 +858,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Q3 Quarterly Statement Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2019-q3-statement.pdf",
-        "file_type": "pdf",
-        "published_date": "2019",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2019/sap-2019-q3-statement.pdf/sap-2019-q3-statement.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "SAP 2019 Q2 Quarterly Statement Read more",
+    "event_name": "SAP 2019 Q2 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -894,7 +876,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Half-Year Report Read more",
+    "event_name": "SAP 2019 Half-Year Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -913,7 +895,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Q1 Quartalsmitteilung Read more",
+    "event_name": "SAP 2019 Q1 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -931,7 +913,7 @@
     ]
   },
   {
-    "event_name": "SAP 2019 Q1 Quarterly Statement Read more",
+    "event_name": "SAP 2019 Q1 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -949,7 +931,7 @@
     ]
   },
   {
-    "event_name": "SAP 2018 Q4 Quartalsmitteilung Read more",
+    "event_name": "SAP 2018 Q4 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -967,7 +949,7 @@
     ]
   },
   {
-    "event_name": "SAP 2018 Q4 Quarterly Statement Read more",
+    "event_name": "SAP 2018 Q4 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -985,7 +967,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1003,7 +985,7 @@
     ]
   },
   {
-    "event_name": "SAP 2018 Q3 Quarterly Statement Read more",
+    "event_name": "SAP 2018 Q3 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1021,7 +1003,7 @@
     ]
   },
   {
-    "event_name": "SAP 2017 Integrierter Bericht Read more",
+    "event_name": "SAP 2017 Integrierter Bericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1039,7 +1021,7 @@
     ]
   },
   {
-    "event_name": "SAP 2017 Rechnungslegung (HGB) Rechnungslegung der SAP SE 2017 (HGB) Read more",
+    "event_name": "SAP 2017 Rechnungslegung (HGB) Rechnungslegung der SAP SE 2017 (HGB)",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1057,7 +1039,7 @@
     ]
   },
   {
-    "event_name": "SAP 2017 Annual Report on Form 20-F SAP Annual Report 2017 on Form 20-F Read more",
+    "event_name": "SAP 2017 Annual Report on Form 20-F SAP Annual Report 2017 on Form 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1069,15 +1051,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2017-03-25/sap-2017-annual-report-form-20f.pdf/sap-2017-annual-report-form-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP 2017 Integrated Report Read more",
+    "event_name": "SAP 2017 Integrated Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1096,7 +1078,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1114,7 +1096,7 @@
     ]
   },
   {
-    "event_name": "SAP 2017 Q3 Quarterly Statement Read more",
+    "event_name": "SAP 2017 Q3 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1132,7 +1114,7 @@
     ]
   },
   {
-    "event_name": "SAP 2017 Halbjahresbericht Read more",
+    "event_name": "SAP 2017 Halbjahresbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1150,7 +1132,7 @@
     ]
   },
   {
-    "event_name": "Quartalsmitteilung Read more",
+    "event_name": "Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1168,7 +1150,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Rechnungslegung der SAP SE (HGB) Read more",
+    "event_name": "SAP 2016 Rechnungslegung der SAP SE (HGB)",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1186,7 +1168,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Integrierter Bericht SAP Integrierter Bericht 2016 Read more",
+    "event_name": "SAP 2016 Integrierter Bericht SAP Integrierter Bericht 2016",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1204,7 +1186,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Integrated Report SAP Integrated Report 2016 Read more",
+    "event_name": "SAP 2016 Integrated Report SAP Integrated Report 2016",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1223,7 +1205,7 @@
     ]
   },
   {
-    "event_name": "2016 SAP Annual Report on Form 20-F Read more",
+    "event_name": "2016 SAP Annual Report on Form 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1235,15 +1217,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2016-03-25/sap-2016-annual-report-form-20f.pdf/sap-2016-annual-report-form-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP 2016 Halbjahresbericht Read more",
+    "event_name": "SAP 2016 Halbjahresbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1261,7 +1243,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Q2 Quartalsmitteilung Read more",
+    "event_name": "SAP 2016 Q2 Quartalsmitteilung",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1279,7 +1261,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Half-Year Report Read more",
+    "event_name": "SAP 2016 Half-Year Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1298,7 +1280,7 @@
     ]
   },
   {
-    "event_name": "SAP 2016 Q2 Quarterly Statement Read more",
+    "event_name": "SAP 2016 Q2 Quarterly Statement",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1316,7 +1298,7 @@
     ]
   },
   {
-    "event_name": "2015 Annual Report on Form 20-F Read more",
+    "event_name": "2015 Annual Report on Form 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1328,15 +1310,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2015-03-25/sap-2015-annual-report-form-20f.pdf/sap-2015-annual-report-form-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2015 Annual Report Read more",
+    "event_name": "2015 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1348,15 +1330,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2015/sap-2015-annual-report.pdf/sap-2015-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2014 Rechnungslegung der SAP AG (HGB) Read more",
+    "event_name": "2014 Rechnungslegung der SAP AG (HGB)",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1374,7 +1356,7 @@
     ]
   },
   {
-    "event_name": "2015 Q3 Zwischenbericht Read more",
+    "event_name": "2015 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1392,458 +1374,7 @@
     ]
   },
   {
-    "event_name": "2009 Q2 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2009-q2-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2009",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-q2-zwischenbericht.pdf/sap-2009-q2-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2009 Q2 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2009-q2-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2009",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-investor-2009-q2-interim-report.pdf/sap-investor-2009-q2-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2009 Q1 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2009-q1-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2009",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-q1-zwischenbericht.pdf/sap-2009-q1-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2009 Q1 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2009-q1-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2009",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-investor-2009-q1-interim-report.pdf/sap-investor-2009-q1-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2008 Q3 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2008-q3-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2008",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-2008-q3-zwischenbericht.pdf/sap-2008-q3-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2008 Q3 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2008-q3-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2008",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-investor-2008-q3-interim-report.pdf/sap-investor-2008-q3-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2008 Q2 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2008-q2-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2008",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-2008-q2-zwischenbericht.pdf/sap-2008-q2-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2008 Q2 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2008-q2-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2008",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-investor-2008-q2-interim-report.pdf/sap-investor-2008-q2-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Annual Report - IFRS Financial Reports SAP Group Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2007-annual-report-ifrs.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-annual-report-ifrs.pdf/sap-investor-2007-annual-report-ifrs.pdf",
-        "content_type": [
-          "news",
-          "annual-report",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Annual Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2007-annual-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-annual-report.pdf/sap-investor-2007-annual-report.pdf",
-        "content_type": [
-          "news",
-          "annual-report",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Annual Report 20-F Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2007-annual-report-20f.pdf",
-        "file_type": "pdf",
-        "published_date": "2007-03-25",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007-03-25/sap-investor-2007-annual-report-20f.pdf/sap-investor-2007-annual-report-20f.pdf",
-        "content_type": [
-          "news",
-          "annual-report",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Q3 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2007-q3-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-2007-q3-zwischenbericht.pdf/sap-2007-q3-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Q2 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2007-q2-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-q2-interim-report.pdf/sap-investor-2007-q2-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Q1 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2007-q1-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-2007-q1-zwischenbericht.pdf/sap-2007-q1-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2007 Q1 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2007-q1-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2007",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-q1-interim-report.pdf/sap-investor-2007-q1-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2006 Gesch\u00e4ftsbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2006-geschaeftsbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2006",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-geschaeftsbericht.pdf/sap-2006-geschaeftsbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2006 Q2 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2006-q2-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2006",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-q2-zwischenbericht.pdf/sap-2006-q2-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2006 Q2 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2006-q2-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2006",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-investor-2006-q2-interim-report.pdf/sap-investor-2006-q2-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2006 Q1 Zwischenbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2006-q1-zwischenbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2006",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-q1-zwischenbericht.pdf/sap-2006-q1-zwischenbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2006 Q1 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-investor-2006-q1-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2006",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-investor-2006-q1-interim-report.pdf/sap-investor-2006-q1-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2015 Q1 Interim Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2015-q1-interim-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2015",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2015/sap-2015-q1-interim-report.pdf/sap-2015-q1-interim-report.pdf",
-        "content_type": [
-          "news",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2014 Gesch\u00e4ftsbericht Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2014-geschaeftsbericht.pdf",
-        "file_type": "pdf",
-        "published_date": "2014",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2014/sap-2014-geschaeftsbericht.pdf/sap-2014-geschaeftsbericht.pdf",
-        "content_type": [
-          "news",
-          "reports"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2014 Annual Report 20-F Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2014-annual-report-20f.pdf",
-        "file_type": "pdf",
-        "published_date": "2014",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2014/sap-2014-annual-report-20f.pdf/sap-2014-annual-report-20f.pdf",
-        "content_type": [
-          "news",
-          "annual-report",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2014 Annual Report Read more",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "sap-2014-annual-report.pdf",
-        "file_type": "pdf",
-        "published_date": "2014",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2014/sap-2014-annual-report.pdf/sap-2014-annual-report.pdf",
-        "content_type": [
-          "news",
-          "annual-report",
-          "reports",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "2014 Q1 Zwischenbericht Read more",
+    "event_name": "2014 Q1 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1861,7 +1392,7 @@
     ]
   },
   {
-    "event_name": "2014 Q1 Interim Report Read more",
+    "event_name": "2014 Q1 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1880,7 +1411,7 @@
     ]
   },
   {
-    "event_name": "2013 Rechnungslegung der SAP AG (HGB) Read more",
+    "event_name": "2013 Rechnungslegung der SAP AG (HGB)",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1898,7 +1429,7 @@
     ]
   },
   {
-    "event_name": "2013 Gesch\u00e4ftsbericht Read more",
+    "event_name": "2013 Gesch\u00e4ftsbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1916,7 +1447,7 @@
     ]
   },
   {
-    "event_name": "2013 Q2 Zwischenbericht Read more",
+    "event_name": "2013 Q2 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1934,7 +1465,7 @@
     ]
   },
   {
-    "event_name": "2013 Q2 Interim Report Read more",
+    "event_name": "2013 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1953,7 +1484,7 @@
     ]
   },
   {
-    "event_name": "2013 Q1 Zwischenbericht Read more",
+    "event_name": "2013 Q1 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1971,7 +1502,7 @@
     ]
   },
   {
-    "event_name": "2013 Q1 Interim Report Read more",
+    "event_name": "2013 Q1 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1990,7 +1521,7 @@
     ]
   },
   {
-    "event_name": "2012 Q3 Zwischenbericht Read more",
+    "event_name": "2012 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2008,7 +1539,7 @@
     ]
   },
   {
-    "event_name": "2012 Q3 Interim Report Read more",
+    "event_name": "2012 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2027,7 +1558,7 @@
     ]
   },
   {
-    "event_name": "2012 Q2 Zwischenbericht Read more",
+    "event_name": "2012 Q2 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2045,7 +1576,7 @@
     ]
   },
   {
-    "event_name": "2012 Q2 Interim Report Read more",
+    "event_name": "2012 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2064,7 +1595,7 @@
     ]
   },
   {
-    "event_name": "2011 Annual Report Read more",
+    "event_name": "2011 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2076,15 +1607,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2011/sap-investor-2011-annual-report.pdf/sap-investor-2011-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2011 Annual Report 20-F Read more",
+    "event_name": "2011 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2096,15 +1627,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2011/sap-investor-2011-annual-report-20f.pdf/sap-investor-2011-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2011 Q3 Zwischenbericht Read more",
+    "event_name": "2011 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2122,7 +1653,7 @@
     ]
   },
   {
-    "event_name": "2011 Q3 Interim Report Read more",
+    "event_name": "2011 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2141,7 +1672,7 @@
     ]
   },
   {
-    "event_name": "2010 Rechnungslegung der SAP AG (HGB) Read more",
+    "event_name": "2010 Rechnungslegung der SAP AG (HGB)",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2159,7 +1690,7 @@
     ]
   },
   {
-    "event_name": "2010 Gesch\u00e4ftsbericht Read more",
+    "event_name": "2010 Gesch\u00e4ftsbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2177,7 +1708,7 @@
     ]
   },
   {
-    "event_name": "2010 Annual Report 20-F Read more",
+    "event_name": "2010 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2189,15 +1720,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2010-03-25/sap-investor-2010-annual-report-20f.pdf/sap-investor-2010-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2010 Annual Report Read more",
+    "event_name": "2010 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2209,7 +1740,44 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2010/sap-investor-2010-annual-report.pdf/sap-investor-2010-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2010 Q1 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2010-q1-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2010/sap-2010-q1-zwischenbericht.pdf/sap-2010-q1-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2010 Q1 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2010-q1-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2010/sap-investor-2010-q1-interim-report.pdf/sap-investor-2010-q1-interim-report.pdf",
+        "content_type": [
+          "news",
           "reports",
           "financial-filing"
         ]
@@ -2217,7 +1785,417 @@
     ]
   },
   {
-    "event_name": "2005 Q3 Zwischenbericht Read more",
+    "event_name": "2009 Gesch\u00e4ftsbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2009-geschaeftsbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-geschaeftsbericht.pdf/sap-2009-geschaeftsbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Rechnungslegung der SAP AG (HGB)",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2009-hgb-abschluss.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-hgb-abschluss.pdf/sap-2009-hgb-abschluss.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Q2 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2009-q2-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-q2-zwischenbericht.pdf/sap-2009-q2-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Q2 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2009-q2-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-investor-2009-q2-interim-report.pdf/sap-investor-2009-q2-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Q1 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2009-q1-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-2009-q1-zwischenbericht.pdf/sap-2009-q1-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Q1 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2009-q1-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2009/sap-investor-2009-q1-interim-report.pdf/sap-investor-2009-q1-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Q3 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2008-q3-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2008",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-2008-q3-zwischenbericht.pdf/sap-2008-q3-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Q3 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2008-q3-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2008",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-investor-2008-q3-interim-report.pdf/sap-investor-2008-q3-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Q2 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2008-q2-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2008",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-2008-q2-zwischenbericht.pdf/sap-2008-q2-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Q2 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2008-q2-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2008",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2008/sap-investor-2008-q2-interim-report.pdf/sap-investor-2008-q2-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Annual Report - IFRS Financial Reports SAP Group",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2007-annual-report-ifrs.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-annual-report-ifrs.pdf/sap-investor-2007-annual-report-ifrs.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Annual Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2007-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-annual-report.pdf/sap-investor-2007-annual-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Annual Report 20-F",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2007-annual-report-20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007-03-25/sap-investor-2007-annual-report-20f.pdf/sap-investor-2007-annual-report-20f.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Q3 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2007-q3-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-2007-q3-zwischenbericht.pdf/sap-2007-q3-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Q2 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2007-q2-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-q2-interim-report.pdf/sap-investor-2007-q2-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Q1 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2007-q1-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-2007-q1-zwischenbericht.pdf/sap-2007-q1-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Q1 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2007-q1-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2007",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2007/sap-investor-2007-q1-interim-report.pdf/sap-investor-2007-q1-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Gesch\u00e4ftsbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2006-geschaeftsbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-geschaeftsbericht.pdf/sap-2006-geschaeftsbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Q2 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2006-q2-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-q2-zwischenbericht.pdf/sap-2006-q2-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Q2 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2006-q2-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-investor-2006-q2-interim-report.pdf/sap-investor-2006-q2-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Q1 Zwischenbericht",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2006-q1-zwischenbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-2006-q1-zwischenbericht.pdf/sap-2006-q1-zwischenbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Q1 Interim Report",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-investor-2006-q1-interim-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2006",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2006/sap-investor-2006-q1-interim-report.pdf/sap-investor-2006-q1-interim-report.pdf",
+        "content_type": [
+          "news",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2005 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2235,7 +2213,7 @@
     ]
   },
   {
-    "event_name": "2005 Q3 Interim Report Read more",
+    "event_name": "2005 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2254,7 +2232,7 @@
     ]
   },
   {
-    "event_name": "2005 Q2 Zwischenbericht Read more",
+    "event_name": "2005 Q2 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2272,7 +2250,7 @@
     ]
   },
   {
-    "event_name": "2005 Q2 Interim Report Read more",
+    "event_name": "2005 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2291,7 +2269,7 @@
     ]
   },
   {
-    "event_name": "2004 Annual Report Read more",
+    "event_name": "2004 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2303,15 +2281,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2004/sap-investor-2004-annual-report.pdf/sap-investor-2004-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2004 Annual Report 20-F Read more",
+    "event_name": "2004 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2323,15 +2301,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2004-03-25/sap-investor-2004-annual-report-20f.pdf/sap-investor-2004-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2004 Q3 Zwischenbericht Read more",
+    "event_name": "2004 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2349,7 +2327,7 @@
     ]
   },
   {
-    "event_name": "2004 Q3 Interim Report Read more",
+    "event_name": "2004 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2368,7 +2346,7 @@
     ]
   },
   {
-    "event_name": "2003 Gesch\u00e4ftsbericht Read more",
+    "event_name": "2003 Gesch\u00e4ftsbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2386,7 +2364,7 @@
     ]
   },
   {
-    "event_name": "2003 Jahresabschluss der SAP AG Read more",
+    "event_name": "2003 Jahresabschluss der SAP AG",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2404,7 +2382,7 @@
     ]
   },
   {
-    "event_name": "2003 Annual Report 20-F Read more",
+    "event_name": "2003 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2416,15 +2394,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2003-03-25/sap-investor-2003-annual-report-20f.pdf/sap-investor-2003-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2003 Annual Report Read more",
+    "event_name": "2003 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2436,15 +2414,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2003/sap-investor-2003-annual-report.pdf/sap-investor-2003-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2003 Q1 Zwischenbericht Read more",
+    "event_name": "2003 Q1 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2462,7 +2440,7 @@
     ]
   },
   {
-    "event_name": "2003 Q1 Interim Report Read more",
+    "event_name": "2003 Q1 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2481,7 +2459,7 @@
     ]
   },
   {
-    "event_name": "2002 Gesch\u00e4ftsbericht Read more",
+    "event_name": "2002 Gesch\u00e4ftsbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2499,7 +2477,7 @@
     ]
   },
   {
-    "event_name": "2002 Jahresabschluss der SAP AG Read more",
+    "event_name": "2002 Jahresabschluss der SAP AG",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2517,7 +2495,7 @@
     ]
   },
   {
-    "event_name": "2002 Q3 Interim Report Read more",
+    "event_name": "2002 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2536,7 +2514,7 @@
     ]
   },
   {
-    "event_name": "2002 Q2 Zwischenbericht Read more",
+    "event_name": "2002 Q2 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2554,7 +2532,7 @@
     ]
   },
   {
-    "event_name": "2002 Q2 Interim Report Read more",
+    "event_name": "2002 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2573,7 +2551,7 @@
     ]
   },
   {
-    "event_name": "2002 Q1 Zwischenbericht Read more",
+    "event_name": "2002 Q1 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2591,7 +2569,7 @@
     ]
   },
   {
-    "event_name": "2001 Q3 Zwischenbericht Read more",
+    "event_name": "2001 Q3 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2609,7 +2587,7 @@
     ]
   },
   {
-    "event_name": "2001 Q3 Interim Report Read more",
+    "event_name": "2001 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2628,7 +2606,7 @@
     ]
   },
   {
-    "event_name": "2001 Q2 Zwischenbericht Read more",
+    "event_name": "2001 Q2 Zwischenbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2646,7 +2624,7 @@
     ]
   },
   {
-    "event_name": "2001 Q2 Interim Report Read more",
+    "event_name": "2001 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2665,7 +2643,7 @@
     ]
   },
   {
-    "event_name": "2000 Annual Report 20-F Read more",
+    "event_name": "2000 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2677,15 +2655,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2000/sap-investor-2000-annual-report-20f.pdf/sap-investor-2000-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "2000 Q3 Interim Report Read more",
+    "event_name": "2000 Q3 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2704,7 +2682,7 @@
     ]
   },
   {
-    "event_name": "2000 Q2 Interim Report Read more",
+    "event_name": "2000 Q2 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2723,7 +2701,7 @@
     ]
   },
   {
-    "event_name": "2000 Q1 Interim Report Read more",
+    "event_name": "2000 Q1 Interim Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2742,7 +2720,7 @@
     ]
   },
   {
-    "event_name": "1998 Annual Report 20-F Read more",
+    "event_name": "1998 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2754,15 +2732,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/1998-03-25/sap-investor-1998-annual-report-20f.pdf/sap-investor-1998-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "1998 Annual Report Read more",
+    "event_name": "1998 Annual Report",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2774,15 +2752,15 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/1998/sap-investor-1998-annual-report.pdf/sap-investor-1998-annual-report.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]
   },
   {
-    "event_name": "1997 Gesch\u00e4ftsbericht Read more",
+    "event_name": "1997 Gesch\u00e4ftsbericht",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2800,7 +2778,7 @@
     ]
   },
   {
-    "event_name": "1997 Annual Report 20-F Read more",
+    "event_name": "1997 Annual Report 20-F",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2812,9 +2790,9 @@
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/1997/sap-investor-1997-annual-report-20f.pdf/sap-investor-1997-annual-report-20f.pdf",
         "content_type": [
           "news",
-          "annual-report",
           "reports",
-          "financial-filing"
+          "financial-filing",
+          "annual-report"
         ]
       }
     ]

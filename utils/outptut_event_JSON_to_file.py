@@ -7,6 +7,7 @@ from typing import Optional, List, Dict
 import json
 from utils.utils import download_file
 from utils.upload_to_r2 import upload_file_to_r2
+from utils.is_bad_link import is_bad_link
 logger = logging.getLogger(__name__)
 
 # Hypothetical imports of your extraction functions (adjust as needed)
@@ -81,6 +82,10 @@ async def construct_event_json(
     file_url = get_urls_from_element(html_element, base_url)
 
     for url in file_url: 
+        # bad_link = await is_bad_link(url)
+        # if bad_link:
+        #     logger.debug(f"Skipping bad link: {url}")
+        #     continue
         # Let’s define file_name = "Moiz" so that it's never None
         file_path, file_name, file_type = await download_file(url, "downloads/")
         # If file_name is None => skip. But we just forced it to "Moiz."
@@ -176,21 +181,21 @@ async def output_event_JSON_to_file(
 
 
 # Example usage/call, in the same file
-# #
-# if __name__ == "__main__":
-#     # Hard-coded example usage
-#     input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
-#     output_file = "output_results.json"   # We'll write the results here
 
-#     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
-#     ticker = "COOL"
-#     geo = "US"
-#     period = "periodic_event"
+if __name__ == "__main__":
+    # Hard-coded example usage
+    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
+    output_file = "output_results.json"   # We'll write the results here
 
-#     output_event_JSON_to_file(
-#         input_json_file=input_file,
-#         output_json_file=output_file,
-#         equity_ticker=ticker,
-#         geography=geo,
-#         periodicity=period
-#     )
+    # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
+    ticker = "COOL"
+    geo = "US"
+    period = "periodic_event"
+
+    output_event_JSON_to_file(
+        input_json_file=input_file,
+        output_json_file=output_file,
+        equity_ticker=ticker,
+        geography=geo,
+        periodicity=period
+    )

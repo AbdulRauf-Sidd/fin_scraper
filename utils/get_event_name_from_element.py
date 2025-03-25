@@ -4,16 +4,19 @@ from bs4 import BeautifulSoup
 import logging
 import re
 import math
+import os
 
 ##############
 ## LOGGING  ##
 ##############
 
+# Set up logging to a file in the root of the project
+log_file_path = os.path.join(os.path.dirname(__file__), "../../event_extraction.log")
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s [%(levelname)s] %(message)s',
     handlers=[
-        logging.FileHandler("event_extraction.log", mode='w', encoding='utf-8'),
+        logging.FileHandler(log_file_path, mode='a', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -105,10 +108,10 @@ def get_event_name_from_element(html_snippet: str) -> str:
     4) Return the entire sentence with minimal cleanup (e.g., remove times, am/pm, EDT, etc.)
     5) If no match found, "Null"
     """
-    logger.debug(f"\n")
+    logger.debug("\n" + "="*50 + "\nNew Function Call\n" + "="*50)
     logger.debug(f"Original Snippet Text: {html_snippet}")
     text = _extract_text_from_html(html_snippet)
-    logger.debug(f"Original Snippet Text: {text}")
+    logger.debug(f"Extracted Text: {text}")
 
     if not text.strip():
         logger.debug("Snippet has no text, returning 'Null'")
@@ -174,6 +177,7 @@ def _cleanup_sentence(sentence: str) -> str:
     Removes:
       1) time references (e.g. "8:00 am", "EST", "pm", etc.)
       2) common file types/references (e.g. "HTML", "PDF", "XBRL", "Zip", etc.)
+      3) variations of "read more" (including hyphenated, underscored, capitalized, etc.)
     Keeps date references (e.g. "Nov 20, 2024") intact.
     """
     logger.debug(f"Cleaning up sentence: '{sentence}'")
@@ -184,7 +188,10 @@ def _cleanup_sentence(sentence: str) -> str:
     # 2) Remove references to common file types (HTML, PDF, XBRL, Zip, etc.)
     s = REMOVE_FILE_TYPE_REGEX.sub("", s)
 
-    # 3) Normalize spaces and punctuation:
+    # 3) Remove variations of "read more" (hyphenated, underscored, capitalized, etc.)
+    s = re.sub(r"(?i)\b(read[-_\s]*more)\b", "", s)
+
+    # 4) Normalize spaces and punctuation:
     #    - collapse multiple whitespace -> single space
     #    - strip leading/trailing punctuation/spaces
     s = re.sub(r"\s+", " ", s).strip(" ,.-").strip()

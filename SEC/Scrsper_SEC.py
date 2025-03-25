@@ -14,7 +14,7 @@ sys.path.append(str(ROOT_DIR))
 utils_module = importlib.import_module("utils.utils")
 download_file = getattr(utils_module, "download_file")
 
-NUM_CONCURRENT_TASKS = 10  # Control concurrency
+NUM_CONCURRENT_TASKS = 20  # Control concurrency
 input_file_path = "SEC/sec_data.csv"
 output_file_path = "SEC/extracted_file_links.csv"
 
