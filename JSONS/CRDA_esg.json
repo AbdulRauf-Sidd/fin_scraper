@@ -10,14 +10,18 @@
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       },
       {
         "file_name": "ratings-and-frameworks",
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       }
     ]
   },
@@ -32,14 +36,18 @@
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       },
       {
         "file_name": "awards-and-certifications",
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       }
     ]
   },
@@ -55,7 +63,8 @@
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
-          "financial_filing"
+          "financial_filing",
+          "esg"
         ]
       },
       {
@@ -64,7 +73,8 @@
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
-          "financial_filing"
+          "financial_filing",
+          "esg"
         ]
       }
     ]
@@ -80,14 +90,18 @@
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       },
       {
         "file_name": "policies-and-procedures",
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       }
     ]
   },
@@ -102,14 +116,18 @@
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       },
       {
         "file_name": "our-purpose",
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       }
     ]
   },
@@ -124,14 +142,18 @@
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       },
       {
         "file_name": "ethics",
         "file_type": "",
         "published_date": "Null",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
-        "content_type": []
+        "content_type": [
+          "esg"
+        ]
       }
     ]
   }
