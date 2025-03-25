@@ -1,0 +1,773 @@
+[
+  {
+    "event_name": "Use the filters to select the language, year, and report type or use the search function",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "content_type": [
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Use the filters to select the language, year, and report type or use the search function",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "content_type": [
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Reports Presentations Financial Reports Language Year Sort by: New 305 results Annual Report 2024 on Form 20-F Read more SAP Compensation Report 2024 Read more Rechnungslegung der SAP SE (HGB) 2024 Read more Verguetungsbericht der SAP 2024 Read more Integrierter Bericht der SAP 2024 Read more 2024 SAP Integrated Report Read more SAP 2024 Q4 Quartalsmitteilung Read more Q4 2024 Quarterly Statement Read more Previous page 1 (First page)",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-annual-report-form-20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-annual-report-form-20f.pdf/sap-2024-annual-report-form-20f.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-compensation-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-compensation-report.pdf/sap-2024-compensation-report.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-rechnungslegung-hgb.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-rechnungslegung-hgb.pdf/sap-2024-rechnungslegung-hgb.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-verguetungsbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-verguetungsbericht.pdf/sap-2024-verguetungsbericht.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-integrierter-bericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-integrierter-bericht.pdf/sap-2024-integrierter-bericht.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-integrated-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-integrated-report.pdf/sap-2024-integrated-report.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-q4-mitteilung.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-q4-mitteilung.pdf/sap-2024-q4-mitteilung.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "sap-2024-q4-statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-q4-statement.pdf/sap-2024-q4-statement.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "DE0007164600",
+        "file_type": "",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/DE0007164600/DE0007164600",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "suchen2?4",
+        "file_type": "",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/suchen2?4/suchen2?4",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "file_type": "",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2024 on Form 20-F Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-annual-report-form-20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-25",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024-03-25/sap-2024-annual-report-form-20f.pdf/sap-2024-annual-report-form-20f.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "SAP Compensation Report 2024 Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-compensation-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-compensation-report.pdf/sap-2024-compensation-report.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Rechnungslegung der SAP SE (HGB) 2024 Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-rechnungslegung-hgb.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-rechnungslegung-hgb.pdf/sap-2024-rechnungslegung-hgb.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Verguetungsbericht der SAP 2024 Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-verguetungsbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-verguetungsbericht.pdf/sap-2024-verguetungsbericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Integrierter Bericht der SAP 2024 Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-integrierter-bericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-integrierter-bericht.pdf/sap-2024-integrierter-bericht.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2024 SAP Integrated Report Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-integrated-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-integrated-report.pdf/sap-2024-integrated-report.pdf",
+        "content_type": [
+          "reports",
+          "news",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "SAP 2024 Q4 Quartalsmitteilung Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-q4-mitteilung.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q4-mitteilung.pdf/sap-2024-q4-mitteilung.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2024 Quarterly Statement Read more",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sap-2024-q4-statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/sap-2024-q4-statement.pdf/sap-2024-q4-statement.pdf",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Disclaimer SAP prepares its consolidated annual financial statements in accordance with International Financial Reporting Standards (IFRS) as endorsed by the European Union (EU)",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DE0007164600",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/DE0007164600/DE0007164600",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "suchen2?4",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/suchen2?4/suchen2?4",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "SAP prepares its consolidated annual financial statements in accordance with International Financial Reporting Standards (IFRS) as endorsed by the European Union (EU)",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "DE0007164600",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/DE0007164600/DE0007164600",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "suchen2?4",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/suchen2?4/suchen2?4",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany/browse-edgar?company=&match=&CIK=SAP&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+        "content_type": [
+          "reports",
+          "financial-filing",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/index.html/index.html",
+        "content_type": [
+          "reports",
+          "10-Q",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02",
+        "file_type": "html&topicir=INT02",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02/contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02",
+        "content_type": [
+          "reports",
+          "10-Q",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/index.html/index.html",
+        "content_type": [
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02",
+        "file_type": "html&topicir=INT02",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02/contact-investor.html?countryOfOrigin=en&navTitle=Contact%20Us&pageTitle=Financial%20Documents&refererContentPath=%2Fcontent%2Finvestors%2Fsap-se%2Fen%2Freports&refererPagePath=https%3A%2F%2Fwww.sap.com%2Finvestors%2Fen%2Freports.html&topicir=INT02",
+        "content_type": [
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trust-center.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/trust-center.html/trust-center.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "find-partner-solutions.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/find-partner-solutions.html/find-partner-solutions.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "industries.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/industries.html/industries.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "find.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/find.html/find.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "try-sap.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/try-sap.html/try-sap.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "services-support.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/services-support.html/services-support.html",
+        "content_type": [
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trending SAP Sapphire SAP Business Suite SAP Business Data Cloud SAP Business AI Sustainability Partner ecosystem",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "events.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/events.html/events.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "business-suite.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/business-suite.html/business-suite.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "data-cloud.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/data-cloud.html/data-cloud.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "artificial-intelligence.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/artificial-intelligence.html/artificial-intelligence.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "sustainability.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/sustainability.html/sustainability.html",
+        "content_type": [
+          "reports"
+        ]
+      },
+      {
+        "file_name": "en.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/en.html/en.html",
+        "content_type": [
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "About SAP Company Information Worldwide Directory Invor Relations Careers News and press Events Customer Stories Newsletter",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "company.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/company.html/company.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "office-locations.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/office-locations.html/office-locations.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "en.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/en.html/en.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "?utm_source=CareerSite&utm_campaign=CorpSite_FT",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/?utm_source=CareerSite&utm_campaign=CorpSite_FT/?utm_source=CareerSite&utm_campaign=CorpSite_FT",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "news.sap.com",
+        "file_type": "com",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/news.sap.com/news.sap.com",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "events.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/events.html/events.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "customer-stories.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/customer-stories.html/customer-stories.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "newsletters.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/newsletters.html/newsletters.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Site Information Privacy Terms of Use Legal Disclosure Copyright Trademark Sitemap Cookie statement Cookie Preferences",
+    "equity_ticker": "SAP",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "privacy.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/privacy.html/privacy.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "terms-of-use.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/terms-of-use.html/terms-of-use.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "impressum.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/impressum.html/impressum.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "copyright.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/copyright.html/copyright.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "trademark.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/trademark.html/trademark.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "site-map.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/site-map.html/site-map.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "cookies.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/cookies.html/cookies.html",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "www.sap.com",
+        "file_type": "com",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/Null/www.sap.com/www.sap.com",
+        "content_type": [
+          "news",
+          "reports"
+        ]
+      }
+    ]
+  }
+]
