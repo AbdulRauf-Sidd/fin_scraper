@@ -1,1 +1,285 @@
-[]
+[
+  {
+    "event_name": "Capital Markets Day 2024, Webcast",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Fixed income invor meetings 2024",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "North Atlantic Seafood Forum 2024: Mowi Strategy and Business update",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2024/share.html/share.html",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation by CEO Ivan Vindheim",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2023/share.html/share.html",
+        "content_type": [
+          "presentation",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "North Atlantic Seafood Forum 2021: Mowi Business and Strategy Update",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2021/share.html/share.html",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Mowi Capital Markets Day 2021:",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2021/share.html/share.html",
+        "content_type": [
+          "presentation",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Mowi Capital Markets Day 2021:",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2021/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2020/share.html/share.html",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "mhg",
+        "file_type": "",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2017/mhg/mhg",
+        "content_type": [
+          "webcast",
+          "seminar",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Pre-packed potential in US",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "mhg",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/mhg/mhg",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Baird\u2019s 2016 Global Consumer, Technology & Services Conference",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "mhg",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/mhg/mhg",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Presentations Capital Markets Day 2016",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "mhg",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/mhg/mhg",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Live stre from Marine Harv Capital Markets Day 2016",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "BMO Farm to Market Conference",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "file_type": "",
+        "published_date": "Null",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/Null/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515/2F3F9EFD-2D7C-46B4-AB30-9169C26AC515",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "BMO Capital Markets 2016 Farm to Market Conferance",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?entity=35_DNE1M6X",
+        "file_type": "",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2016/?entity=35_DNE1M6X/?entity=35_DNE1M6X",
+        "content_type": [
+          "presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Havbrukskonferansen 2015 presentation",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "?entity=35_DNE1M6X",
+        "file_type": "",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/MOWI/2015/?entity=35_DNE1M6X/?entity=35_DNE1M6X",
+        "content_type": [
+          "presentation",
+          "presentations"
+        ]
+      }
+    ]
+  }
+]
