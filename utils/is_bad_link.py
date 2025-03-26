@@ -195,14 +195,14 @@ async def is_bad_link(url: str) -> bool:
 # ---------------------------------------------------------
 # Example usage (for testing purposes):
 # ---------------------------------------------------------
-# if __name__ == "__main__":
-#     test_urls = [
-#         "https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf/",             # Expected to be good.
-#         "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KO/2025-02-20/board-of-directors-of-the-coca-cola-company-approves-63rd/board-of-directors-of-the-coca-cola-company-approves-63rd",
-#         "https://www.example.com/thispagedoesnotexist",  # Likely to return a 404 or error page.
-#         "https://www.croda.com/en-gb/sustainability/ethics",
-#     ]
+if __name__ == "__main__":
+    test_urls = [
+        "https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf/",             # Expected to be good.
+        "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KO/2025-02-20/board-of-directors-of-the-coca-cola-company-approves-63rd/board-of-directors-of-the-coca-cola-company-approves-63rd",
+        "https://www.example.com/thispagedoesnotexist",  # Likely to return a 404 or error page.
+        "https://www.croda.com/en-gb/sustainability/ethics",
+    ]
     
-#     for url in test_urls:
-#         result = is_bad_link(url)
-#         print(f"{url} is bad: {result}")
+    for url in test_urls:
+        result =  is_bad_link(url)
+        print(f"{url} is bad: {result}")

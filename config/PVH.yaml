@@ -351,7 +351,6 @@ SY1_finance:     #TODO
 #      archive: .archive-toggler
 #      timeout: 5
 
-
 SY1_events:     # COMPLETED
   ticker: SY1
   scraper: null
@@ -436,7 +435,6 @@ WMT_quarterly:  #COMPLETED
 
     archive: .archive-toggler
     timeout: 5
-
 
 KER_press: #COMPLETED 
   ticker: KER
@@ -1314,9 +1312,6 @@ SAN_group-holdings:
     event_block: # hassannnnnnnn
   pagination:
     type: null
-    next_button:  null
+    next_button: null
     archive: null
     timeout: null
-
- 
-
