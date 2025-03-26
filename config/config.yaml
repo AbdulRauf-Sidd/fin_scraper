@@ -110,6 +110,7 @@ CORZ_presentations:   # Completed
   geography: "US"
   forced_type: "presentations"
   headless: false
+  direct: true
   selectors:
     event_block: article.media
   pagination:
@@ -129,6 +130,7 @@ CORZ_press:
   periodic: false
   geography: "US"
   forced_type: "press"
+  direct: true
   selectors:
     event_block: article.media
   pagination:
@@ -136,6 +138,8 @@ CORZ_press:
     next_button: li.page-item.page-item--next a.page-link
     archive: null
     timeout: null
+
+
 
 CRDA_esg:     #COMPLETED
   ticker: CRDA
@@ -147,6 +151,7 @@ CRDA_esg:     #COMPLETED
   geography: "European"
   forced_type: esg
   headless: false
+  direct: true
   selectors:
     event_block: div.card-body
   pagination:
@@ -166,6 +171,7 @@ CRDA_presentations:
   headless: false
   geography: "European"
   forced_type: "presentations"
+  direct: true
   selectors:
     event_block: table.c-responsive-table tbody tr
   pagination:
@@ -184,6 +190,7 @@ CBP_events:         # Pagination not being handled correctly
   geography: "US"
   forced_type: "Presentations"
   headless: false
+  direct: true
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
@@ -202,6 +209,7 @@ CBP_news:       # Pagination not handled correctly
   headless: false
   geography: "US"
   forced_type: "news"
+  direct: true
   selectors:
     event_block: article.node--nir-news--nir-widget-list
   pagination:
@@ -241,6 +249,7 @@ DSFIR_press:    #COMPLETED
   geography: "European"
   forced_type: "Press Release"
   headless: false
+  direct: true
   selectors:
     event_block: .cmp-title, .cmp-text, .cmp-image
   pagination:
@@ -259,6 +268,7 @@ GIVN_news:
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block: div.views-row.show
   pagination:
@@ -278,6 +288,7 @@ IFF_presentations:    # COMPLETED
   direct: true
   forced_type: "presentations"
   headless: false
+  direct: false
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
@@ -297,6 +308,7 @@ IFF_press:      # pagination not being handled correctly
   geography: "US"
   forced_type: "press"
   headless: false
+  direct: true
   selectors:
     event_block: .nir-widget--list article
   pagination:
@@ -316,6 +328,7 @@ KO_company-updates:     # scrapped 4 blocks instead of 6
   geography: "US"
   forceed_type: "company-updates"
   headless: false
+  direct: true
   selectors:
     event_block: .ir-cta-event-with-documents
   pagination:
@@ -331,6 +344,7 @@ KO_poclicies-practices-reports:     # all events not scrapped
   periodic: false
   geography: "US"
   forced_type: "reports"
+  direct: false
   headless: false
   selectors:
     event_block: div.cmp-accordion__item div div div div div div ul li
@@ -348,6 +362,7 @@ KO_press:     # COMPLETED
   geography: "US"
   forced_type: "press release"
   headless: false
+  direct: true
   selectors:
     event_block: article.media
   pagination:
@@ -366,6 +381,7 @@ RL_newsroom:      # COMPLETED
   geography: "US"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block: .newsroom-content .corp-news
   pagination:
@@ -384,6 +400,7 @@ SY1_finance:     #TODO
   periodic: true
   geography: "European"
   forced_type: "financial"
+  direct: true
   headless: false
   selectors:
     event_block: div.t-row
