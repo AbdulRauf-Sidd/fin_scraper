@@ -21,7 +21,7 @@ PVH_press:      # Completed
   output: data/PVH_press2.json
   output_json: JSONS/PVH_press2.json
   base_address: https://www.pvh.com/
-  forced_type: "Press Releases"
+  forced_type: "press-releases"
   periodic: false
   geography: "US"
   forced_type: "press-release"
@@ -41,7 +41,7 @@ PVH_reports:      # Completed
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
   output_json: JSONS/PVH_reports.json
-  forced_type: "reports"
+  forced_type: null
   base_address: https://www.pvh.com/
   periodic: false
   geography: "US"
@@ -168,7 +168,7 @@ CBP_events:         # Pagination not being handled correctly
   base_address: https://investor.thecampbellscompany.com/
   periodic: false
   geography: "US"
-  forced_type: "events"
+  forced_type: null
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
@@ -375,7 +375,7 @@ SY1_events:     # COMPLETED
   base_address: https://www.symrise.com/
   periodic: false
   geography: "European"
-  forced_type: "events"
+  forced_type: null
   selectors:
     event_block: div.t-row
   pagination:
@@ -410,7 +410,7 @@ WDAY_events:    #COMPLETED
   base_address: https://investor.workday.com/
   periodic: false
   geography: "US"
-  forced_type: "events"
+  forced_type: null
   selectors:
     event_block: div.wd_events_month
   pagination:
@@ -452,7 +452,7 @@ WMT_quarterly:  #COMPLETED
     timeout: 5
 
 
-KER_press: #AWS ONGOING
+KER_press: #COMPLETED 
   ticker: KER
   scraper: null
   url: https://www.kering.com/en/press/news/
@@ -784,7 +784,8 @@ SAP_events:
   base_address: https://www.sap.com/
   periodic: false
   geography: "European"
-  forced_type: "events"
+  forced_type: null
+  headless: true
   selectors:
     event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
@@ -892,7 +893,7 @@ DGE_events:     # review
   base_address: https://www.diageo.com/
   periodic: false
   geography: "European"
-  forced_type: "events"
+  forced_type: null
   selectors:
     event_block:
   pagination:
@@ -1185,7 +1186,7 @@ HWDN_presentations:
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: true
   geography: "European"
-  forced_type: "presentations"
+  forced_type: "presentation"
   selectors:
     event_block: div.col-lg-6.pb-5
   pagination:
@@ -1205,7 +1206,7 @@ HWDN_sustainability:
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: true
   geography: "European"
-  forced_type: "sustainability"
+  forced_type: null
   selectors:
     event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0
   pagination:
@@ -1226,7 +1227,7 @@ RACE_press:
   base_address: https://www.ferrari.com/
   periodic: true
   geography: "European"
-  forced_type: "press"
+  forced_type: "press-release"
   selectors:
     event_block: div.NewsPage__grid-row__2hkTTLLU
   pagination:
@@ -1244,7 +1245,7 @@ RACE_financial:
   base_address: https://www.ferrari.com/
   periodic: true
   geography: "European"
-  forced_type: "financial"
+  forced_type: "financial-filing"
   selectors:
     event_block: div.LinkAccordion__rows__mNPa_uDh
   pagination:
@@ -1284,9 +1285,9 @@ SAN_investor-relations:
   base_address: https://www.santander.co.uk/
   periodic: true
   geography: "European"
-  forced_type: "investor-relations"
+  forced_type: null
   selectors:
-    event_block: div.even
+    event_block: tr.even
   pagination:
     type: null
     next_button:  null
@@ -1294,20 +1295,20 @@ SAN_investor-relations:
     timeout: null
 
 
-SAN_investor-relations:   
+SAN_stock-exchange:   
   ticker: SAN
   scraper: null
-  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
-  output: data/SAN_investor-relations.json
-  output_json: JSONS/SAN_investor-relations-.json
+  url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
+  output: data/SAN_stock-exchangejson
+  output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
   periodic: true
   geography: "European"
-  forced_type: "investor-relations"
+  forced_type: null
   selectors:
-    event_block: div.even
+    event_block: tbody tr
   pagination:
-    type: null
+    type: null 
     next_button:  null
     archive: null
     timeout: null
@@ -1322,9 +1323,9 @@ SAN_group-holdings:
   base_address: https://www.santander.co.uk/
   periodic: true
   geography: "European"
-  forced_type: "group-holdings"
+  forced_type: null
   selectors:
-    event_block: tbody tr
+    event_block: # hassannnnnnnn
   pagination:
     type: null
     next_button:  null

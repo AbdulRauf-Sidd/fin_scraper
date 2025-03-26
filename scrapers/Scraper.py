@@ -26,6 +26,7 @@ class Scraper:
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
         self.forced_type = self.config['forced_type']
+        self.headless = self.config['headless']
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
@@ -69,7 +70,7 @@ class Scraper:
 
     async def scrape(self):
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=False)
+            browser = await p.chromium.launch(headless=True if self.headless == "true" else False)
             context = await browser.new_context()
             page = await context.new_page()
 
@@ -129,15 +130,15 @@ class Scraper:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
                     
-                    await output_event_JSON_to_file(
-                        input_json_file=self.output_file,
-                        output_json_file=self.output_json,
-                        equity_ticker=self.ticker,
-                        geography=self.geography,
-                        periodicity=self.periodicity,
-                        base_url = self.base_address,
-                        forced_type=self.forced_type
-                        )
+                    # await output_event_JSON_to_file(
+                    #     input_json_file=self.output_file,
+                    #     output_json_file=self.output_json,
+                    #     equity_ticker=self.ticker,
+                    #     geography=self.geography,
+                    #     periodicity=self.periodicity,
+                    #     base_url = self.base_address,
+                    #     forced_type=self.forced_type
+                    #     )
                 else:
                     print("\n❌ No events found.")
 

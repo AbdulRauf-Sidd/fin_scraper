@@ -8,7 +8,33 @@ import json
 from utils.utils import download_file
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
-logger = logging.getLogger(__name__)
+import os
+
+# Create logs directory if it doesn't exist
+os.makedirs('logs', exist_ok=True)
+
+# Set up logging configuration
+logger = logging.getLogger('output_event_JSON')
+logger.setLevel(logging.DEBUG)
+
+# File handler
+file_handler = logging.FileHandler('logs/output_event_JSON_to_file.log')
+file_handler.setLevel(logging.DEBUG)
+file_formatter = logging.Formatter('\n%(asctime)s - %(name)s - %(levelname)s\n%(message)s\n' + '-'*80)
+file_handler.setFormatter(file_formatter)
+
+# Console handler - Comment the next 4 lines to disable console logging
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.DEBUG)
+console_formatter = logging.Formatter('\n%(asctime)s - %(levelname)s\n%(message)s\n' + '-'*80)
+console_handler.setFormatter(console_formatter)
+
+# Add handlers
+logger.addHandler(file_handler)
+logger.addHandler(console_handler)  # Comment this line to disable console logging
+
+# Prevent logging from propagating to parent loggers
+logger.propagate = False
 
 # Hypothetical imports of your extraction functions (adjust as needed)
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
@@ -56,8 +82,8 @@ async def construct_event_json(
     # ~~~~~~~~~~~~~~~~~~~~~~
 
     event_name = get_event_name_from_element(html_element)
-    print(html_element)
-    logger.debug(f"Extracted event_name={event_name}")
+    logger.debug(f"Extracted event_name={event_name}\n{html_element}")
+
 
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
