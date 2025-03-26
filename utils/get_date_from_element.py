@@ -350,3 +350,5 @@ def _text_has_month(text: str) -> bool:
 # for x in input_text:
 #     extracted_date = get_date_from_element(x)
 #     print(f"Extracted Event Date: {extracted_date}")
+
+print(get_date_from_element('20 Feb, 2025 CAGNY Conference Listen to webcast 2025 CAGNY Conference Presentation 7.1 MB'))
