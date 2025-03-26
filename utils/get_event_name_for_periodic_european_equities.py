@@ -43,7 +43,7 @@ def extract_entities_with_spacy(text):
     
     return dates, matched_keywords
 
-def evaluate_event_name(*args):
+def get_event_name_for_periodic_european_equities(*args):
     """
     Determines a standardized event name for European equities using NLP and regex matching.
     """
@@ -183,7 +183,7 @@ def evaluate_event_name(*args):
     log_entry += "="*50 + "\n"
 
     # Append log to the file (relative path, no overwrite)
-    log_path = "event_logs.log"
+    log_path = "logs/get_event_name_for_periodic_european_equities.log"
     with open(log_path, "a", encoding="utf-8") as log_file:
         log_file.write(log_entry)
 
@@ -194,23 +194,23 @@ def evaluate_event_name(*args):
 
 # # Test Case 1: HTML input that should match "FY YYYY"
 # html_input1 = "<div><p>Company releases FY 2020 results</p><a href='https://example.com'>Link</a></div>"
-# evaluate_event_name(html_input1)
+# get_event_name_for_periodic_european_equities(html_input1)
 
 # # Test Case 2: Raw event details input that matches half-year pattern "H1 YYYY"
 # raw_event_name2 = "Half-year performance H1 2021"
 # base_url2 = "https://chatgpt.com/sec-filings/"
 # file_urls2 = ["https://chatgpt.com/sec-filings/doc1.pdf", "https://chatgpt.com/sec-filings/doc2.pdf"]
-# evaluate_event_name(raw_event_name2, base_url2, file_urls2)
+# get_event_name_for_periodic_european_equities(raw_event_name2, base_url2, file_urls2)
 
 # # Test Case 3: HTML input that does not match any pattern (returns name based on text)
 # html_input3 = "<div><p>Interim Report January - March 2024</p></div>"
-# evaluate_event_name(html_input3)
+# get_event_name_for_periodic_european_equities(html_input3)
 
 # # Test Case 4: Raw event details with no matching pattern (returns raw event name)
 # raw_event_name4 = "Q3 Financial Report"
 # base_url4 = "https://chatgpt.com/sec-filings/"
 # file_urls4 = ["https://chatgpt.com/sec-filings/doc3.pdf"]
-# evaluate_event_name(raw_event_name4, base_url4, file_urls4)
+# get_event_name_for_periodic_european_equities(raw_event_name4, base_url4, file_urls4)
 
 
 
@@ -226,7 +226,7 @@ def evaluate_event_name(*args):
 # </span>
 # </div>
 # </a>"""
-# evaluate_event_name(html_input1)
+# get_event_name_for_periodic_european_equities(html_input1)
 
 # # Test Case 6:
 # html_input1 = """<div class="document-tile gallery--item -medium" infinite_nodes_uniq_on="2936">
@@ -246,7 +246,7 @@ def evaluate_event_name(*args):
 # </div>
 # </div>
 # </div>"""
-# evaluate_event_name(html_input1)
+# get_event_name_for_periodic_european_equities(html_input1)
 
 
 # # Test Case 6:
@@ -267,7 +267,7 @@ def evaluate_event_name(*args):
 # </div>
 # </div>
 # </div>"""
-# evaluate_event_name(html_input1)
+# get_event_name_for_periodic_european_equities(html_input1)
 
 # # Test Case 6:
 # html_input1 = """<div class="document-tile gallery--item -medium" infinite_nodes_uniq_on="2809">
@@ -287,4 +287,4 @@ def evaluate_event_name(*args):
 # </div>
 # </div>
 # </div>"""
-# evaluate_event_name(html_input1)
+# get_event_name_for_periodic_european_equities(html_input1)
