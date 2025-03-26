@@ -7,7 +7,7 @@ PVH_news:     # completed
   periodic: false
   geography: "US"
   forced_type: "news"
-  headless: false
+  headless: true
   direct: false
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
