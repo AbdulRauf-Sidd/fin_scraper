@@ -182,7 +182,8 @@ async def output_event_JSON_to_file(
     geography: str,
     periodicity: str,
     base_url: str,
-    forced_type : str
+    forced_type : str,
+    headless: bool
 ) -> None:
     """
     1) Reads a JSON file containing an array of HTML snippets
@@ -210,7 +211,8 @@ async def output_event_JSON_to_file(
             geography=geography,
             periodicity=periodicity,
             base_url=base_url,
-            forced_type=forced_type  # or None
+            forced_type=forced_type,
+            headless=headless
         )
 
         if result is None:

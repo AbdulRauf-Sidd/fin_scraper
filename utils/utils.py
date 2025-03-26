@@ -5,7 +5,7 @@ from playwright.async_api import async_playwright
 from urllib.parse import urljoin
 import logging
 from pypdl import Pypdl
-from is_bad_link import is_bad_link
+from utils.is_bad_link import is_bad_link
 import magic
 
 

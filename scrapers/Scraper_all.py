@@ -124,7 +124,7 @@ class Scraper:
 
     async def scrape(self):
         async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False if not self.headless else True)
+            browser = await p.chromium.launch(headless=False if not self.headless else True)
             context = await browser.new_context()
             page = await context.new_page()
 

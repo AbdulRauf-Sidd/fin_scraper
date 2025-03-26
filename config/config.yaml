@@ -7,6 +7,7 @@ PVH_news:     # completed
   periodic: false
   geography: "US"
   forced_type: "news"
+  headless: false
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
   pagination:
@@ -134,7 +135,8 @@ CRDA_esg:     #COMPLETED
   base_address: https://www.croda.com/en-gb/
   periodic: false
   geography: "European"
-  forced_type: "esg"
+  forced_type: esg
+  headless: false
   selectors:
     event_block: div.card-body
   pagination:
