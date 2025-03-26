@@ -1272,7 +1272,7 @@ SAN_investor-relations:
   geography: "European"
   forced_type: "investor-relations"
   selectors:
-    event_block: div.even
+    event_block: tr.even
   pagination:
     type: null
     next_button:  null
@@ -1280,20 +1280,20 @@ SAN_investor-relations:
     timeout: null
 
 
-SAN_investor-relations:   
+SAN_stock-exchange:   
   ticker: SAN
   scraper: null
-  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
-  output: data/SAN_investor-relations.json
-  output_json: JSONS/SAN_investor-relations-.json
+  url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
+  output: data/SAN_stock-exchangejson
+  output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
   periodic: true
   geography: "European"
-  forced_type: "investor-relations"
+  forced_type: "stock-exchange"
   selectors:
-    event_block: div.even
+    event_block: tbody tr
   pagination:
-    type: null
+    type: null 
     next_button:  null
     archive: null
     timeout: null
@@ -1310,7 +1310,7 @@ SAN_group-holdings:
   geography: "European"
   forced_type: "group-holdings"
   selectors:
-    event_block: tbody tr
+    event_block: # hassannnnnnnn
   pagination:
     type: null
     next_button:  null
