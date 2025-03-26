@@ -247,9 +247,9 @@ async def extract_links_from_url(url, headless=False):
             await page2.goto(url)
             await page2.wait_for_load_state('load')
 
-            if await is_bad_link(page2):
-                logging.warning(f"Bad link detected: {url}")
-                return None, None
+            # if await is_bad_link(page2):
+            #     logging.warning(f"Bad link detected: {url}")
+            #     return None, None
 
             links = await page2.eval_on_selector_all("a", "elements => elements.map(element => element.href)")
             all_links = [link for link in links if any(ext in link for ext in ['.pdf', '.zip', '.rar', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx'])]

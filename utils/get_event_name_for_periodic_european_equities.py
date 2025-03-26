@@ -67,7 +67,6 @@ def get_event_name_for_periodic_european_equities(*args):
     pattern_half = r'(H[12])\s*(\d{4})'
     pattern_9m = r'9M\s*(\d{4})'
     pattern_3m = r'3M\s*(\d{4})'  # For 3-month results
-    pattern_quarter = r'Q[1-4]\s*(\d{4})'  # For Q1, Q2, Q3, Q4
     pattern_period_3m = r'January\s*-\s*March\s*(\d{4})'  # Detect "January - March" as 3M
     pattern_period_9m = r'January\s*-\s*September\s*(\d{4})'  # Detect "January - September" as 9M
 
@@ -76,7 +75,7 @@ def get_event_name_for_periodic_european_equities(*args):
     match_half = re.search(pattern_half, text, re.IGNORECASE)
     match_9m = re.search(pattern_9m, text, re.IGNORECASE)
     match_3m = re.search(pattern_3m, text, re.IGNORECASE)  # Match 3M
-    match_quarter = re.search(pattern_quarter, text, re.IGNORECASE)  # Match quarter results
+    # match_quarter = re.search(pattern_quarter, text, re.IGNORECASE)  # Match quarter results
     match_period_3m = re.search(pattern_period_3m, text, re.IGNORECASE)  # Match "January - March"
     match_period_9m = re.search(pattern_period_9m, text, re.IGNORECASE)  # Match "January - September"
 
@@ -105,12 +104,6 @@ def get_event_name_for_periodic_european_equities(*args):
         year = match_3m.group(1) if match_3m else match_period_3m.group(1)
         final_event_name = f"3M {year}"
         decision_reason = "Matched 3M pattern via regex or period match."
-    elif match_quarter:
-        # If it's a quarterly report
-        quarter = match_quarter.group(0)
-        year = match_quarter.group(1)
-        final_event_name = f"{quarter} {year}"
-        decision_reason = "Matched quarter pattern via regex."
     else:
         # Use NLP for more flexible matching
         dates, matched_keywords = extract_entities_with_spacy(text)
@@ -177,7 +170,7 @@ def get_event_name_for_periodic_european_equities(*args):
                   f"Half-Year: {match_half.group(0) if match_half else None}, "
                   f"9M: {match_9m.group(0) if match_9m else None}, "
                   f"3M: {match_3m.group(0) if match_3m else None}, "
-                  f"Quarter: {match_quarter.group(0) if match_quarter else None}\n")
+                  )
     log_entry += f"Final Event Name: {final_event_name}\n"
     log_entry += f"Decision Reason: {decision_reason}\n"
     log_entry += "="*50 + "\n"
