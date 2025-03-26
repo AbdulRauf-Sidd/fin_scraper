@@ -262,6 +262,7 @@ IFF_presentations:    # COMPLETED
   base_address: https://ir.iff.com/
   periodic: false
   geography: "US"
+  direct: true
   forced_type: "presentations"
   headless: false
   selectors:

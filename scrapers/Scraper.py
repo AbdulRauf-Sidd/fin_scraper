@@ -31,6 +31,7 @@ class Scraper:
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
         self.headless = self.config['headless']
         self.forced_type = self.config['forced_type']
+        self.direct = self.config['direct']
 
     async def _extract_inner_html(self, page, selector):
         print(f"🔍 Extracting blocks using selector: '{selector}'")
@@ -137,6 +138,7 @@ class Scraper:
                     print(f"\n✅ Data saved in: {self.output_file}")
                     
                     await output_event_JSON_to_file(
+                        direct=self.direct,
                         input_json_file=self.output_file,
                         output_json_file=self.output_json,
                         equity_ticker=self.ticker,
