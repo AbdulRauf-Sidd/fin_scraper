@@ -502,6 +502,7 @@ WMT_quarterly:  #COMPLETED
   geography: "US"
   forced_type: "Financial Filings"
   headless: false
+  direct: true
   selectors:
     event_block: div.box quarterly-results
   pagination:
@@ -522,6 +523,7 @@ KER_press: #COMPLETED
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block: div.t1vdjoug
   pagination:
@@ -541,6 +543,7 @@ KER_finance:   #Periodicity for european financial docs.
   geography: "European"
   forced_type: "finance"
   headless: false
+  direct: true
   selectors:
     event_block: div.p67j49j
   pagination:
@@ -560,6 +563,7 @@ RMS_meeting:   #redirection problem. but COMPLETED
   geography: "European"
   forced_type: "meeting"
   headless: false
+  direct: true
   selectors:
     event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
   pagination:
@@ -579,6 +583,7 @@ RMS_finance:
   geography: "European"
   forced_type: "meeting"
   headless: false
+  direct: false
   selectors:
     event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
   pagination:
@@ -600,6 +605,7 @@ VOW3_press:   #nlp not working
   geography: "European"
   forced_type: "press-release"
   headless: false
+  direct: true
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
@@ -620,6 +626,7 @@ VOW3_financial:    # Period
   geography: "European"
   forced_type: "financial"
   headless: false
+  direct: true
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
@@ -642,6 +649,7 @@ OR_news:
   geography: "European"
   headless: true
   forced_type: "news"
+  direct: true
   selectors:
     event_block: div.row
   pagination:
@@ -663,6 +671,7 @@ OR_half:   #Complete
   geography: "European"
   forced_type: "half-year-results"
   headless: true
+  direct: true
   selectors:
     event_block: div.archive__section
   pagination:
@@ -683,6 +692,7 @@ OR_annual:   #Complete
   geography: "European"
   forced_type: "annual-results-archives"
   headless: false
+  direct: true
   selectors:
     event_block: article.nodetype--publication.archive__item.result-archive__item
   pagination:
@@ -704,6 +714,7 @@ NOVO-B_finance:     #LLM
   geography: "European"
   forced_type: "financial"
   headless: false
+  direct: false
   selectors:
     event_block: 
   pagination:
@@ -724,6 +735,7 @@ NOVO-B_reporting:   #Complete
   periodic: true
   geography: "European"
   forced_type: "reporting"
+  direct: false
   headless: false
   direct: true
   selectors:
@@ -748,6 +760,7 @@ SIE_press:
   geography: "European"
   forced_type: "press"
   headless: false
+  direct: false
   selectors:
     event_block: div.press-search-results-view-row.content-type-c2-ct-press-release.views-row
   pagination:
@@ -767,6 +780,7 @@ MOWI_reports:
   geography: "European"
   forced_type: "reports"
   headless: false
+  direct: false
   selectors:
     event_block: div._investors-reports-list__box
   pagination:
@@ -786,6 +800,7 @@ MOWI_presentations:
   geography: "European"
   forced_type: "presentations"
   headless: false
+  direct: false
   selectors:
     event_block: a._presentations-list__item
   pagination:
@@ -805,6 +820,7 @@ MOWI_capital-markets-day:
   geography: "European"
   forced_type: "capital-markets-day"
   headless: false
+  direct: false
   selectors:
     event_block: div._presentations-list__items a
   pagination:
@@ -825,6 +841,7 @@ SAP_reports:      # Configs finalized
   geography: "European"
   forced_type: "reports"
   headless: false
+  direct: true
   selectors:
     event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
   pagination:
@@ -844,6 +861,7 @@ SAP_presentations:
   geography: "European"
   forced_type: "presentations"
   headless: false
+  direct: true
   selectors:
     event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
@@ -863,6 +881,7 @@ SAP_events:
   geography: "European"
   forced_type: null
   headless: true
+  direct: false
   selectors:
     event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
@@ -882,6 +901,7 @@ SAP_news:
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: true
   selectors:
     event_block: article.c-post-teaser
   pagination: 
@@ -901,6 +921,7 @@ WISE_reports:
   geography: "European"
   forced_type: "investors"
   headless: false
+  direct: false
   selectors:
     event_block: table.price-table__table tbody.text-primary tr.price-table__tr
   pagination:
@@ -920,6 +941,7 @@ WISE_news:
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block:
   pagination:
@@ -939,6 +961,7 @@ DGE_news:     # review
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block: div.col-12.col-lg-4.col-md-6.mb-sm-1
   pagination:
@@ -958,6 +981,7 @@ DGE_results:    # review
   geography: "European"
   forced_type: "results"
   headless: false
+  direct: false
   selectors:
     event_block: div.resultAccordion__item.position-relative.bg-blur.p-sm-2
   pagination:
@@ -977,6 +1001,7 @@ DGE_events:     # review
   geography: "European"
   forced_type: null
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -996,6 +1021,7 @@ DGE_reports:      # review
   geography: "European"
   forced_type: "reports"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1015,6 +1041,7 @@ DGE_press-releases:       # review
   geography: "European"
   forced_type: "press releases"
   headless: false
+  direct: true
   selectors:
     event_block: div.press-releaseCard__content.p-sm-2
   pagination:
@@ -1034,6 +1061,7 @@ CPRI_results:
   geography: "European"
   forced_type: "results"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1053,6 +1081,7 @@ CPRI_press-releases:
   geography: "European"
   forced_type: "press-releases"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1072,6 +1101,7 @@ CPRI_presentations:
   geography: "European"
   forced_type: "presentations"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1091,6 +1121,7 @@ CPRI_reports:
   geography: "European"
   forced_type: "financial reports"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1110,6 +1141,7 @@ CPRI_acquisitions:
   geography: "European"
   forced_type: "acquisitions"
   headless: false
+  direct: true
   selectors:
     event_block: table.transformableDownloadTable tbody tr
   pagination:
@@ -1130,6 +1162,7 @@ HEIO_media-releases:
   geography: "European"
   forced_type: "media-releases"
   headless: false
+  direct: false
   selectors:
     event_block:
   pagination:
@@ -1149,6 +1182,7 @@ HEIO_reports:
   geography: "European"
   forced_type: "reports"
   headless: false
+  direct: false
   selectors:
     event_block: div.case-study-content-row
   pagination:
@@ -1167,6 +1201,7 @@ RKT_presentations:
   periodic: true
   geography: "European"
   forced_type: "presentations"
+  direct: false
   headless: false
   selectors: 
     event_block: div.results-and-presentation__item-holder
@@ -1187,6 +1222,7 @@ RKT_investor-seminars:
   geography: "European"
   forced_type: "investor-seminars"
   headless: false
+  direct: false
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
@@ -1206,6 +1242,7 @@ RKT_news:
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: true
   selectors:
     event_block:
   pagination:
@@ -1225,6 +1262,7 @@ RKT_agm:
   geography: "European"
   forced_type: "Annual General Meetings"
   headless: false
+  direct: false
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
@@ -1244,6 +1282,7 @@ SIE_financial:      # Du=ynamic loading collapsable
   geography: "European"
   forced_type: "financial"
   headless: false
+  direct: true
   selectors:
     event_block:     # hassannnnnnnnnnnnnn
   pagination:
@@ -1251,7 +1290,6 @@ SIE_financial:      # Du=ynamic loading collapsable
     next_button:  null
     archive: null
     timeout: null
-
 
 
 SIE_financial-results-archive:   
@@ -1265,6 +1303,7 @@ SIE_financial-results-archive:
   geography: "European"
   forced_type: "financial-results-archive"
   headless: false
+  direct: true
   selectors:
     event_block:     # hassannnnnnnnnnnnnn
   pagination:
@@ -1286,6 +1325,7 @@ HWDN_presentations:
   geography: "European"
   forced_type: "presentation"
   headless: false
+  direct: true
   selectors:
     event_block: div.col-lg-6.pb-5
   pagination:
@@ -1307,8 +1347,9 @@ HWDN_sustainability:
   geography: "European"
   forced_type: null
   headless: false
+  direct: true
   selectors:
-    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0
+    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0 div.row  # isko dekhlena
   pagination:
     type: null
     next_button:  null
@@ -1329,6 +1370,7 @@ RACE_press:
   geography: "European"
   forced_type: "press-release"
   headless: false
+  direct: false
   selectors:
     event_block: div.NewsPage__grid-row__2hkTTLLU
   pagination:
@@ -1348,6 +1390,7 @@ RACE_financial:
   geography: "European"
   forced_type: "financial-filing"
   headless: false
+  direct: false
   selectors:
     event_block: div.LinkAccordion__rows__mNPa_uDh
   pagination:
@@ -1369,6 +1412,7 @@ BAS_publications:
   geography: "European"
   forced_type: "publications"
   headless: false
+  direct: false
   selectors:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
@@ -1390,6 +1434,7 @@ SAN_investor-relations:
   geography: "European"
   forced_type: null
   headless: false
+  direct: true
   selectors:
     event_block: tr.even
   pagination:
@@ -1410,6 +1455,7 @@ SAN_stock-exchange:
   geography: "European"
   forced_type: null
   headless: false
+  direct: false
   selectors:
     event_block: tbody tr
   pagination:
@@ -1430,6 +1476,7 @@ SAN_group-holdings:
   geography: "European"
   forced_type: null
   headless: false
+  direct: true
   selectors:
     event_block: # hassannnnnnnn
   pagination:
