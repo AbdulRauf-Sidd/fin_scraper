@@ -33,6 +33,8 @@ error_phrases = [
     "connection timed out",
     "file not found",
     "resource not available",
+    'presentation no longer available',
+    'presentation not found',
 ]
 
 def detect_error_message(text: str) -> bool:

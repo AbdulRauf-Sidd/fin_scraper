@@ -5,7 +5,7 @@ from utils.get_event_name_from_element import get_event_name_from_element
 from utils.get_url_from_element import get_urls_from_element
 from typing import Optional, Dict
 import json
-from utils.utils import download_file, extract_links_from_url, convert_page_to_pdf
+from utils.utils import download_file, extract_links_from_url, convert_page_to_pdf, download_file_direct
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 import os
@@ -40,6 +40,7 @@ logger.propagate = False
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
 
 async def construct_event_json(
+    direct: bool,
     file_name: str,
     html_element: str,
     equity_ticker: str,
@@ -106,20 +107,22 @@ async def construct_event_json(
     # If you need multiple, you can loop over a list of published_dates / content_types.
     # We'll build one data dict:
     data_objects = []
-    all_links = set()
+    all_links = []
 
     file_url = get_urls_from_element(html_element, base_url)
-    all_links.add(set(file_url))
-    for url in file_url:
-        if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-            links, found = extract_links_from_url(url, base_url=base_url, headless=headless)
-            if found is None:
-                all_links.remove(url)
-            elif found:
-                all_links.add(set(links))
+    all_links.extend(file_url)
+
+    if not direct:
+        for url in file_url:
+            if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
+                links, found = await extract_links_from_url(url, headless=headless)
+                if found is None:
+                    all_links.remove(url)
+                elif found:
+                    all_links.extend(links)
 
 
-    file_path = f"links/{file_name}.txt"
+    file_path = f"links/{file_name.split("/")[-1]}.txt"
     with open(file_path, "r") as file:
         existing_links = set(file.read().splitlines())  # Read and split lines into a set
 
@@ -128,16 +131,22 @@ async def construct_event_json(
             logger.debug(f"Link already exists, skipping: {url}")
             continue
         # Let’s define file_name = "Moiz" so that it's never None
-        if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-            file_path, file_name, file_type = convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
+        if not direct:
+            if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
+                file_path, file_name, file_type = await convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
+            else:
+                file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
         else:
-            file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
+            file_path, file_name, file_type = await download_file_direct(url)
+        
         
         # If file_name is None => skip. But we just forced it to "Moiz."
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
             r2_path = f"{equity_ticker}/{published_date}/{file_name}/"
             r2_url = upload_file_to_r2(file_path, r2_path)
+            with open(file_path, "a") as file:
+                file.write(f"{url}\n")
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
@@ -176,6 +185,7 @@ async def construct_event_json(
     return result_json
 
 async def output_event_JSON_to_file(
+    direct: bool,
     input_json_file: str,
     output_json_file: str,
     equity_ticker: str,
@@ -205,6 +215,7 @@ async def output_event_JSON_to_file(
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
         # We assume 'construct_event_json' is imported or defined in the same file
         result = await construct_event_json(
+            direct=direct,
             file_name=input_json_file,
             html_element=snippet,
             equity_ticker=equity_ticker,
