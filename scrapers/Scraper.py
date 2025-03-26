@@ -77,7 +77,7 @@ class Scraper:
 
             os.makedirs('links', exist_ok=True)
 
-            with open(f"links/{self.output_file.split("/")[-1]}", "w") as file:
+            with open(f"links/{self.output_file.split("/")[-1]}.txt", "w") as file:
                 pass
         
             all_events = []

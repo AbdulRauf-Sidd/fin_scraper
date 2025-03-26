@@ -106,20 +106,20 @@ async def construct_event_json(
     # If you need multiple, you can loop over a list of published_dates / content_types.
     # We'll build one data dict:
     data_objects = []
-    all_links = set()
+    all_links = []
 
     file_url = get_urls_from_element(html_element, base_url)
-    all_links.add(set(file_url))
+    all_links.extend(file_url)
     for url in file_url:
         if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-            links, found = extract_links_from_url(url, base_url=base_url, headless=headless)
+            links, found = await extract_links_from_url(url, headless=headless)
             if found is None:
                 all_links.remove(url)
             elif found:
-                all_links.add(set(links))
+                all_links.extend(links)
 
 
-    file_path = f"links/{file_name}.txt"
+    file_path = f"links/{file_name.split("/")[-1]}.txt"
     with open(file_path, "r") as file:
         existing_links = set(file.read().splitlines())  # Read and split lines into a set
 
@@ -129,7 +129,7 @@ async def construct_event_json(
             continue
         # Let’s define file_name = "Moiz" so that it's never None
         if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-            file_path, file_name, file_type = convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
+            file_path, file_name, file_type = await convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
         else:
             file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
         

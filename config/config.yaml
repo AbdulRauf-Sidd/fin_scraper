@@ -263,13 +263,14 @@ IFF_presentations:    # COMPLETED
   periodic: false
   geography: "US"
   forced_type: "presentations"
+  headless: false
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
     type: null
     next_button: null
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 IFF_press:      # pagination not being handled correctly
   ticker: IFF
@@ -581,6 +582,7 @@ OR_news:
   base_address: https://www.loreal-finance.com/
   periodic: false
   geography: "European"
+  headless: true
   forced_type: "news"
   selectors:
     event_block: div.row
@@ -602,6 +604,7 @@ OR_half:   #Complete
   periodic: false
   geography: "European"
   forced_type: "half-year-results"
+  headless: true
   selectors:
     event_block: div.archive__section
   pagination:

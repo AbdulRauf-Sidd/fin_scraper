@@ -10,6 +10,15 @@ import magic
 
 
 # from utils.is_bad_link import is_bad_link
+async def load_page(page, url):
+        try:
+            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            await asyncio.sleep(2)
+            await accept_cookies(page)
+            await enable_stealth(page)
+            
+        except Exception as e:
+            print(f"⚠️ Error loading page: {e}")
 
 
 async def accept_cookies(page):
@@ -211,10 +220,10 @@ def add_extension_if_missing(file_path):
         logging.error(f"Error adding extension: {e}")
         return None, None
 
-async def extract_links_from_url(url):
+async def extract_links_from_url(url, headless=False):
     try:
         async with async_playwright() as p2:
-            browser2 = await p2.chromium.launch(headless=True)
+            browser2 = await p2.chromium.launch(headless=headless)
             context2 = await browser2.new_context()
             page2 = await context2.new_page()
             await enable_stealth(page2)
