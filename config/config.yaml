@@ -8,6 +8,7 @@ PVH_news:     # completed
   geography: "US"
   forced_type: "news"
   headless: false
+  direct: true
   selectors:
     event_block: li.list__item                   # Each event is in a <li> with class "list__item"
   pagination:
