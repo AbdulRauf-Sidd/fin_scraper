@@ -1,0 +1,874 @@
+2025-03-26 23:17:47,866 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-26 23:17:47,866 - INFO - 
+
+2025-03-26 23:17:48,119 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-26 23:17:48,120 - INFO - Checking URL: https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8
+2025-03-26 23:17:49,924 - DEBUG - Received HTTP status code: 200
+2025-03-26 23:17:49,924 - DEBUG - Content-Type for URL https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8: text/html;charset=utf-8
+2025-03-26 23:17:49,924 - DEBUG - Fetched HTML content for NLP analysis.
+2025-03-26 23:17:49,925 - DEBUG - Starting NLP analysis on text snippet.
+2025-03-26 23:17:50,076 - DEBUG - Analyzing sentence preview: '<!doctype html> <html lang="en-us"> <head> 	<meta http-equiv="content-type" content="text/html; c...'
+2025-03-26 23:17:50,078 - DEBUG - Similarity to error phrase '404': 0.37
+2025-03-26 23:17:50,078 - DEBUG - Similarity to error phrase 'not found': 0.45
+2025-03-26 23:17:50,078 - DEBUG - Similarity to error phrase 'page not found': 0.48
+2025-03-26 23:17:50,078 - DEBUG - Similarity to error phrase 'error 404': 0.35
+2025-03-26 23:17:50,079 - DEBUG - Similarity to error phrase 'server error': 0.34
+2025-03-26 23:17:50,079 - DEBUG - Similarity to error phrase 'page no longer exists': 0.40
+2025-03-26 23:17:50,079 - DEBUG - Similarity to error phrase 'cannot be found': 0.37
+2025-03-26 23:17:50,079 - DEBUG - Similarity to error phrase 'page is missing': 0.35
+2025-03-26 23:17:50,079 - DEBUG - Similarity to error phrase 'error occurred': 0.23
+2025-03-26 23:17:50,080 - DEBUG - Similarity to error phrase 'page not available': 0.50
+2025-03-26 23:17:50,080 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.16
+2025-03-26 23:17:50,080 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:17:50,080 - DEBUG - Similarity to error phrase 'forbidden': 0.07
+2025-03-26 23:17:50,080 - DEBUG - Similarity to error phrase 'bad request': 0.41
+2025-03-26 23:17:50,081 - DEBUG - Similarity to error phrase 'internal server error': 0.33
+2025-03-26 23:17:50,081 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.46
+2025-03-26 23:17:50,081 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.51
+2025-03-26 23:17:50,081 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.37
+2025-03-26 23:17:50,082 - DEBUG - Similarity to error phrase 'page removed': 0.31
+2025-03-26 23:17:50,082 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:17:50,082 - DEBUG - Similarity to error phrase 'signature does not match': 0.30
+2025-03-26 23:17:50,082 - DEBUG - Similarity to error phrase 'missing required headers': 0.37
+2025-03-26 23:17:50,082 - DEBUG - Similarity to error phrase 'authentication failed': 0.19
+2025-03-26 23:17:50,083 - DEBUG - Similarity to error phrase 'bucket not found': 0.39
+2025-03-26 23:17:50,083 - DEBUG - Similarity to error phrase 'object does not exist': 0.33
+2025-03-26 23:17:50,083 - DEBUG - Analyzing sentence preview: 'important; font-weight:'
+2025-03-26 23:17:50,083 - DEBUG - Similarity to error phrase '404': 0.28
+2025-03-26 23:17:50,083 - DEBUG - Similarity to error phrase 'not found': 0.46
+2025-03-26 23:17:50,083 - DEBUG - Similarity to error phrase 'page not found': 0.49
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'error 404': 0.28
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'server error': 0.34
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'page no longer exists': 0.41
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'cannot be found': 0.46
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'page is missing': 0.39
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'error occurred': 0.26
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'page not available': 0.48
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.24
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-26 23:17:50,084 - DEBUG - Similarity to error phrase 'forbidden': 0.09
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'bad request': 0.38
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'internal server error': 0.37
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.49
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.54
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.33
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'page removed': 0.36
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'signature does not match': 0.27
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'missing required headers': 0.55
+2025-03-26 23:17:50,085 - DEBUG - Similarity to error phrase 'authentication failed': 0.20
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'bucket not found': 0.40
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'object does not exist': 0.37
+2025-03-26 23:17:50,086 - DEBUG - Analyzing sentence preview: 'bold; color:#ffffff !important} .ui-state-active a, .ui-state-active a:link{color:#ffffff !'
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase '404': 0.37
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'not found': 0.61
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'page not found': 0.62
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'error 404': 0.43
+2025-03-26 23:17:50,086 - DEBUG - Similarity to error phrase 'server error': 0.39
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'page no longer exists': 0.61
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'cannot be found': 0.63
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'page is missing': 0.61
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'error occurred': 0.40
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'page not available': 0.66
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.35
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'access denied': 0.36
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'forbidden': 0.22
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'bad request': 0.61
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'internal server error': 0.43
+2025-03-26 23:17:50,087 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.71
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.68
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.55
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'page removed': 0.44
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'access denied': 0.36
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'signature does not match': 0.48
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'missing required headers': 0.49
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'authentication failed': 0.31
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'bucket not found': 0.56
+2025-03-26 23:17:50,088 - DEBUG - Similarity to error phrase 'object does not exist': 0.54
+2025-03-26 23:17:50,088 - DEBUG - Analyzing sentence preview: 'important} .ui-state-active .ui-icon{background-image: url(style/images/ui-icons_ffffff_256x240.png...'
+2025-03-26 23:17:50,089 - DEBUG - Similarity to error phrase '404': 0.32
+2025-03-26 23:17:50,089 - DEBUG - Similarity to error phrase 'not found': 0.51
+2025-03-26 23:17:50,089 - DEBUG - Similarity to error phrase 'page not found': 0.52
+2025-03-26 23:17:50,089 - DEBUG - Similarity to error phrase 'error 404': 0.35
+2025-03-26 23:17:50,089 - DEBUG - Similarity to error phrase 'server error': 0.46
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'page no longer exists': 0.45
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'cannot be found': 0.45
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'page is missing': 0.40
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'error occurred': 0.29
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'page not available': 0.53
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.21
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'access denied': 0.29
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'forbidden': 0.10
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'bad request': 0.45
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'internal server error': 0.49
+2025-03-26 23:17:50,090 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.51
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.60
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.44
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'page removed': 0.32
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'access denied': 0.29
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'signature does not match': 0.34
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'missing required headers': 0.41
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'authentication failed': 0.24
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'bucket not found': 0.44
+2025-03-26 23:17:50,091 - DEBUG - Similarity to error phrase 'object does not exist': 0.42
+2025-03-26 23:17:50,091 - DEBUG - Analyzing sentence preview: 'important; color:#0076b6 !'
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase '404': 0.31
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'not found': 0.49
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'page not found': 0.50
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'error 404': 0.33
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'server error': 0.35
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'page no longer exists': 0.50
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'cannot be found': 0.48
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'page is missing': 0.47
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'error occurred': 0.26
+2025-03-26 23:17:50,092 - DEBUG - Similarity to error phrase 'page not available': 0.50
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.25
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'access denied': 0.26
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'forbidden': 0.17
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'bad request': 0.45
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'internal server error': 0.35
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.54
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.54
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.46
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'page removed': 0.36
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'access denied': 0.26
+2025-03-26 23:17:50,093 - DEBUG - Similarity to error phrase 'signature does not match': 0.37
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'missing required headers': 0.43
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'authentication failed': 0.18
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'bucket not found': 0.46
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'object does not exist': 0.48
+2025-03-26 23:17:50,094 - DEBUG - Analyzing sentence preview: 'important; } .jumppointcolor{ 	color: #0076b6 !'
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase '404': 0.22
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'not found': 0.35
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'page not found': 0.35
+2025-03-26 23:17:50,094 - DEBUG - Similarity to error phrase 'error 404': 0.19
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'server error': 0.24
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'page no longer exists': 0.30
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'cannot be found': 0.32
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'page is missing': 0.26
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'error occurred': 0.13
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'page not available': 0.36
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.11
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'access denied': 0.18
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'forbidden': 0.05
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'bad request': 0.30
+2025-03-26 23:17:50,095 - DEBUG - Similarity to error phrase 'internal server error': 0.24
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.36
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.42
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.29
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'page removed': 0.20
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'access denied': 0.18
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'signature does not match': 0.23
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'missing required headers': 0.30
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'authentication failed': 0.09
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'bucket not found': 0.33
+2025-03-26 23:17:50,096 - DEBUG - Similarity to error phrase 'object does not exist': 0.28
+2025-03-26 23:17:50,096 - DEBUG - Analyzing sentence preview: 'important; }  :root {   --background-color:#ffffff;   --banner-background-color:#0076b6;   --h...'
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase '404': 0.24
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'not found': 0.30
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'page not found': 0.31
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'error 404': 0.18
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'server error': 0.21
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'page no longer exists': 0.21
+2025-03-26 23:17:50,097 - DEBUG - Similarity to error phrase 'cannot be found': 0.25
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'page is missing': 0.19
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'error occurred': 0.09
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'page not available': 0.31
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.06
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'forbidden': -0.01
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'bad request': 0.25
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'internal server error': 0.21
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.29
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.36
+2025-03-26 23:17:50,098 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.22
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'page removed': 0.14
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'signature does not match': 0.15
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'missing required headers': 0.22
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'authentication failed': 0.09
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'bucket not found': 0.25
+2025-03-26 23:17:50,099 - DEBUG - Similarity to error phrase 'object does not exist': 0.19
+2025-03-26 23:17:50,099 - DEBUG - Analyzing sentence preview: '*********** backgound color css  *'
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase '404': 0.16
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'not found': 0.23
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'page not found': 0.23
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'error 404': 0.10
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'server error': 0.16
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'page no longer exists': 0.16
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'cannot be found': 0.19
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'page is missing': 0.12
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'error occurred': 0.05
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'page not available': 0.25
+2025-03-26 23:17:50,100 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.04
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'bad request': 0.19
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'internal server error': 0.15
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.22
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.30
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.16
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'page removed': 0.12
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'signature does not match': 0.13
+2025-03-26 23:17:50,101 - DEBUG - Similarity to error phrase 'missing required headers': 0.21
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'authentication failed': 0.06
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'bucket not found': 0.21
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'object does not exist': 0.15
+2025-03-26 23:17:50,102 - DEBUG - Analyzing sentence preview: '***********/ 	 	body{background-color:#ffffff !'
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase '404': 0.18
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'not found': 0.22
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'page not found': 0.23
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'error 404': 0.11
+2025-03-26 23:17:50,102 - DEBUG - Similarity to error phrase 'server error': 0.14
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'page no longer exists': 0.16
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'cannot be found': 0.16
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'page is missing': 0.11
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'error occurred': 0.02
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'page not available': 0.25
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.02
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'bad request': 0.19
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'internal server error': 0.13
+2025-03-26 23:17:50,103 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.21
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.28
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.18
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'page removed': 0.11
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'signature does not match': 0.13
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'missing required headers': 0.18
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'authentication failed': 0.04
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'bucket not found': 0.19
+2025-03-26 23:17:50,104 - DEBUG - Similarity to error phrase 'object does not exist': 0.14
+2025-03-26 23:17:50,104 - DEBUG - Analyzing sentence preview: 'important;} 	 	 	    .reglayout7'
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase '404': 0.19
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'not found': 0.37
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'page not found': 0.38
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'error 404': 0.17
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'server error': 0.21
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'page no longer exists': 0.32
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'cannot be found': 0.37
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'page is missing': 0.30
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'error occurred': 0.17
+2025-03-26 23:17:50,105 - DEBUG - Similarity to error phrase 'page not available': 0.39
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.19
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'forbidden': 0.11
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'bad request': 0.32
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'internal server error': 0.25
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.40
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.44
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.24
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'page removed': 0.28
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:17:50,106 - DEBUG - Similarity to error phrase 'signature does not match': 0.20
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'missing required headers': 0.33
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'authentication failed': 0.15
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'bucket not found': 0.33
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'object does not exist': 0.31
+2025-03-26 23:17:50,107 - DEBUG - Analyzing sentence preview: '.regcontentwidth,    .reglayout8'
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase '404': 0.33
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'not found': 0.79
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'page not found': 0.73
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'error 404': 0.55
+2025-03-26 23:17:50,107 - DEBUG - Similarity to error phrase 'server error': 0.51
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'page no longer exists': 0.76
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'cannot be found': 0.71
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'page is missing': 0.70
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'error occurred': 0.56
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'page not available': 0.77
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.48
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'access denied': 0.38
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'forbidden': 0.39
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'bad request': 0.74
+2025-03-26 23:17:50,108 - DEBUG - Similarity to error phrase 'internal server error': 0.49
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.77
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.74
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.89
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'page removed': 0.51
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'access denied': 0.38
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'signature does not match': 0.81
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'missing required headers': 0.58
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'authentication failed': 0.32
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'bucket not found': 0.72
+2025-03-26 23:17:50,109 - DEBUG - Similarity to error phrase 'object does not exist': 0.81
+2025-03-26 23:17:50,109 - DEBUG - Analyzing sentence preview: '.regcontentwidth,    .shared-elements-2q2021 .regdatebar,    .shared-elements-2q2021 #eventdisplay...'
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase '404': 0.34
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'not found': 0.56
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'page not found': 0.54
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'error 404': 0.42
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'server error': 0.37
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'page no longer exists': 0.49
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'cannot be found': 0.45
+2025-03-26 23:17:50,110 - DEBUG - Similarity to error phrase 'page is missing': 0.47
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'error occurred': 0.33
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'page not available': 0.54
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.24
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'forbidden': 0.16
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'bad request': 0.52
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'internal server error': 0.33
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.52
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.52
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.63
+2025-03-26 23:17:50,111 - DEBUG - Similarity to error phrase 'page removed': 0.28
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'signature does not match': 0.51
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'missing required headers': 0.34
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'authentication failed': 0.17
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'bucket not found': 0.49
+2025-03-26 23:17:50,112 - DEBUG - Similarity to error phrase 'object does not exist': 0.50
+2025-03-26 23:17:50,112 - DEBUG - Analyzing sentence preview: '#eventdisplaytitle,    .hidetitleanddatebar #eventdateandtime{      	color:#000000;    }  		#re...'
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase '404': 0.26
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'not found': 0.34
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'page not found': 0.34
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'error 404': 0.21
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'server error': 0.23
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'page no longer exists': 0.27
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'cannot be found': 0.27
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'page is missing': 0.24
+2025-03-26 23:17:50,113 - DEBUG - Similarity to error phrase 'error occurred': 0.12
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'page not available': 0.35
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.08
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'access denied': 0.14
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'bad request': 0.30
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'internal server error': 0.22
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.33
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.39
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.30
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'page removed': 0.15
+2025-03-26 23:17:50,114 - DEBUG - Similarity to error phrase 'access denied': 0.14
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'signature does not match': 0.21
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'missing required headers': 0.24
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'authentication failed': 0.08
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'bucket not found': 0.30
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'object does not exist': 0.24
+2025-03-26 23:17:50,115 - DEBUG - Analyzing sentence preview: 'important;} 	  /* layout 4 only */         html {background-color:#333}   	       	 #regcon...'
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase '404': 0.25
+2025-03-26 23:17:50,115 - DEBUG - Similarity to error phrase 'not found': 0.35
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'page not found': 0.36
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'error 404': 0.21
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'server error': 0.28
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'page no longer exists': 0.27
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'cannot be found': 0.29
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'page is missing': 0.23
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'error occurred': 0.13
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'page not available': 0.39
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.09
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:17:50,116 - DEBUG - Similarity to error phrase 'forbidden': 0.03
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'bad request': 0.32
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'internal server error': 0.28
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.36
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.44
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.26
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'page removed': 0.21
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'signature does not match': 0.21
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'missing required headers': 0.30
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'authentication failed': 0.12
+2025-03-26 23:17:50,117 - DEBUG - Similarity to error phrase 'bucket not found': 0.30
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'object does not exist': 0.25
+2025-03-26 23:17:50,118 - DEBUG - Analyzing sentence preview: '{color:#000000} 		    		   .splashtabs'
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase '404': 0.15
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'not found': 0.20
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'page not found': 0.20
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'error 404': 0.08
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'server error': 0.12
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'page no longer exists': 0.14
+2025-03-26 23:17:50,118 - DEBUG - Similarity to error phrase 'cannot be found': 0.15
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'page is missing': 0.09
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'error occurred': 0.02
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'page not available': 0.23
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.03
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'bad request': 0.17
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'internal server error': 0.11
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.19
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.26
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.14
+2025-03-26 23:17:50,119 - DEBUG - Similarity to error phrase 'page removed': 0.10
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'signature does not match': 0.10
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'missing required headers': 0.17
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'authentication failed': 0.04
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'bucket not found': 0.17
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'object does not exist': 0.12
+2025-03-26 23:17:50,120 - DEBUG - Analyzing sentence preview: '+ #tabs_cont'
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase '404': 0.20
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'not found': 0.14
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'page not found': 0.15
+2025-03-26 23:17:50,120 - DEBUG - Similarity to error phrase 'error 404': 0.10
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'server error': 0.10
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'page no longer exists': 0.03
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'cannot be found': 0.07
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'page is missing': 0.06
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'error occurred': -0.03
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'page not available': 0.14
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'temporarily unavailable': -0.10
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'access denied': -0.02
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'forbidden': -0.16
+2025-03-26 23:17:50,121 - DEBUG - Similarity to error phrase 'bad request': 0.12
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'internal server error': 0.09
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.12
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.16
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.11
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'page removed': -0.02
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'access denied': -0.02
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'signature does not match': 0.02
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'missing required headers': -0.00
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'authentication failed': -0.07
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'bucket not found': 0.10
+2025-03-26 23:17:50,122 - DEBUG - Similarity to error phrase 'object does not exist': 0.01
+2025-03-26 23:17:50,123 - DEBUG - No error message detected in the analyzed text snippet.
+2025-03-26 23:17:50,123 - INFO - ✅ NLP analysis passed. No error message found.
+2025-03-26 23:17:50,123 - INFO - 🟢 GOOD LINK
+
+2025-03-26 23:19:46,579 - INFO - Loaded spaCy model 'en_core_web_md'.
+2025-03-26 23:19:46,579 - INFO - 
+
+2025-03-26 23:19:46,872 - INFO - ════════════════════════════════════════════════════════════════════
+2025-03-26 23:19:46,872 - INFO - Checking URL: https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8
+2025-03-26 23:19:49,012 - DEBUG - Received HTTP status code: 200
+2025-03-26 23:19:49,012 - DEBUG - Content-Type for URL https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8: text/html;charset=utf-8
+2025-03-26 23:19:49,013 - DEBUG - Fetched HTML content for NLP analysis.
+2025-03-26 23:19:49,013 - DEBUG - Starting NLP analysis on text snippet.
+2025-03-26 23:19:49,172 - DEBUG - Analyzing sentence preview: '<!doctype html> <html lang="en-us"> <head> 	<meta http-equiv="content-type" content="text/html; c...'
+2025-03-26 23:19:49,174 - DEBUG - Similarity to error phrase '404': 0.37
+2025-03-26 23:19:49,175 - DEBUG - Similarity to error phrase 'not found': 0.45
+2025-03-26 23:19:49,175 - DEBUG - Similarity to error phrase 'page not found': 0.48
+2025-03-26 23:19:49,175 - DEBUG - Similarity to error phrase 'error 404': 0.35
+2025-03-26 23:19:49,175 - DEBUG - Similarity to error phrase 'server error': 0.34
+2025-03-26 23:19:49,176 - DEBUG - Similarity to error phrase 'page no longer exists': 0.40
+2025-03-26 23:19:49,176 - DEBUG - Similarity to error phrase 'cannot be found': 0.37
+2025-03-26 23:19:49,176 - DEBUG - Similarity to error phrase 'page is missing': 0.35
+2025-03-26 23:19:49,176 - DEBUG - Similarity to error phrase 'error occurred': 0.23
+2025-03-26 23:19:49,176 - DEBUG - Similarity to error phrase 'page not available': 0.50
+2025-03-26 23:19:49,177 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.16
+2025-03-26 23:19:49,177 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:19:49,177 - DEBUG - Similarity to error phrase 'forbidden': 0.07
+2025-03-26 23:19:49,177 - DEBUG - Similarity to error phrase 'bad request': 0.41
+2025-03-26 23:19:49,177 - DEBUG - Similarity to error phrase 'internal server error': 0.33
+2025-03-26 23:19:49,178 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.46
+2025-03-26 23:19:49,178 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.51
+2025-03-26 23:19:49,178 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.37
+2025-03-26 23:19:49,178 - DEBUG - Similarity to error phrase 'page removed': 0.31
+2025-03-26 23:19:49,179 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:19:49,179 - DEBUG - Similarity to error phrase 'signature does not match': 0.30
+2025-03-26 23:19:49,179 - DEBUG - Similarity to error phrase 'missing required headers': 0.37
+2025-03-26 23:19:49,179 - DEBUG - Similarity to error phrase 'authentication failed': 0.19
+2025-03-26 23:19:49,180 - DEBUG - Similarity to error phrase 'bucket not found': 0.39
+2025-03-26 23:19:49,180 - DEBUG - Similarity to error phrase 'object does not exist': 0.33
+2025-03-26 23:19:49,180 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.40
+2025-03-26 23:19:49,180 - DEBUG - Analyzing sentence preview: 'important; font-weight:'
+2025-03-26 23:19:49,180 - DEBUG - Similarity to error phrase '404': 0.28
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'not found': 0.46
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'page not found': 0.49
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'error 404': 0.28
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'server error': 0.34
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'page no longer exists': 0.41
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'cannot be found': 0.46
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'page is missing': 0.39
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'error occurred': 0.26
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'page not available': 0.48
+2025-03-26 23:19:49,181 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.24
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'forbidden': 0.09
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'bad request': 0.38
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'internal server error': 0.37
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.49
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.54
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.33
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'page removed': 0.36
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'access denied': 0.28
+2025-03-26 23:19:49,182 - DEBUG - Similarity to error phrase 'signature does not match': 0.27
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'missing required headers': 0.55
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'authentication failed': 0.20
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'bucket not found': 0.40
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'object does not exist': 0.37
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.47
+2025-03-26 23:19:49,183 - DEBUG - Analyzing sentence preview: 'bold; color:#ffffff !important} .ui-state-active a, .ui-state-active a:link{color:#ffffff !'
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase '404': 0.37
+2025-03-26 23:19:49,183 - DEBUG - Similarity to error phrase 'not found': 0.61
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'page not found': 0.62
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'error 404': 0.43
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'server error': 0.39
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'page no longer exists': 0.61
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'cannot be found': 0.63
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'page is missing': 0.61
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'error occurred': 0.40
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'page not available': 0.66
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.35
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'access denied': 0.36
+2025-03-26 23:19:49,184 - DEBUG - Similarity to error phrase 'forbidden': 0.22
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'bad request': 0.61
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'internal server error': 0.43
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.71
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.68
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.55
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'page removed': 0.44
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'access denied': 0.36
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'signature does not match': 0.48
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'missing required headers': 0.49
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'authentication failed': 0.31
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'bucket not found': 0.56
+2025-03-26 23:19:49,185 - DEBUG - Similarity to error phrase 'object does not exist': 0.54
+2025-03-26 23:19:49,186 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.69
+2025-03-26 23:19:49,186 - DEBUG - Analyzing sentence preview: 'important} .ui-state-active .ui-icon{background-image: url(style/images/ui-icons_ffffff_256x240.png...'
+2025-03-26 23:19:49,186 - DEBUG - Similarity to error phrase '404': 0.32
+2025-03-26 23:19:49,186 - DEBUG - Similarity to error phrase 'not found': 0.51
+2025-03-26 23:19:49,186 - DEBUG - Similarity to error phrase 'page not found': 0.52
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'error 404': 0.35
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'server error': 0.46
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'page no longer exists': 0.45
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'cannot be found': 0.45
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'page is missing': 0.40
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'error occurred': 0.29
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'page not available': 0.53
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.21
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'access denied': 0.29
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'forbidden': 0.10
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'bad request': 0.45
+2025-03-26 23:19:49,187 - DEBUG - Similarity to error phrase 'internal server error': 0.49
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.51
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.60
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.44
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'page removed': 0.32
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'access denied': 0.29
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'signature does not match': 0.34
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'missing required headers': 0.41
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'authentication failed': 0.24
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'bucket not found': 0.44
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'object does not exist': 0.42
+2025-03-26 23:19:49,188 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.46
+2025-03-26 23:19:49,188 - DEBUG - Analyzing sentence preview: 'important; color:#0076b6 !'
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase '404': 0.31
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'not found': 0.49
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'page not found': 0.50
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'error 404': 0.33
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'server error': 0.35
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'page no longer exists': 0.50
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'cannot be found': 0.48
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'page is missing': 0.47
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'error occurred': 0.26
+2025-03-26 23:19:49,189 - DEBUG - Similarity to error phrase 'page not available': 0.50
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.25
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'access denied': 0.26
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'forbidden': 0.17
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'bad request': 0.45
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'internal server error': 0.35
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.54
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.54
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.46
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'page removed': 0.36
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'access denied': 0.26
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'signature does not match': 0.37
+2025-03-26 23:19:49,190 - DEBUG - Similarity to error phrase 'missing required headers': 0.43
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'authentication failed': 0.18
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'bucket not found': 0.46
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'object does not exist': 0.48
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.55
+2025-03-26 23:19:49,191 - DEBUG - Analyzing sentence preview: 'important; } .jumppointcolor{ 	color: #0076b6 !'
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase '404': 0.22
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'not found': 0.35
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'page not found': 0.35
+2025-03-26 23:19:49,191 - DEBUG - Similarity to error phrase 'error 404': 0.19
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'server error': 0.24
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'page no longer exists': 0.30
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'cannot be found': 0.32
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'page is missing': 0.26
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'error occurred': 0.13
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'page not available': 0.36
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.11
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'access denied': 0.18
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'forbidden': 0.05
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'bad request': 0.30
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'internal server error': 0.24
+2025-03-26 23:19:49,192 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.36
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.42
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.29
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'page removed': 0.20
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'access denied': 0.18
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'signature does not match': 0.23
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'missing required headers': 0.30
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'authentication failed': 0.09
+2025-03-26 23:19:49,193 - DEBUG - Similarity to error phrase 'bucket not found': 0.33
+2025-03-26 23:19:49,194 - DEBUG - Similarity to error phrase 'object does not exist': 0.28
+2025-03-26 23:19:49,194 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.33
+2025-03-26 23:19:49,194 - DEBUG - Analyzing sentence preview: 'important; }  :root {   --background-color:#ffffff;   --banner-background-color:#0076b6;   --h...'
+2025-03-26 23:19:49,194 - DEBUG - Similarity to error phrase '404': 0.24
+2025-03-26 23:19:49,194 - DEBUG - Similarity to error phrase 'not found': 0.30
+2025-03-26 23:19:49,194 - DEBUG - Similarity to error phrase 'page not found': 0.31
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'error 404': 0.18
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'server error': 0.21
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'page no longer exists': 0.21
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'cannot be found': 0.25
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'page is missing': 0.19
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'error occurred': 0.09
+2025-03-26 23:19:49,195 - DEBUG - Similarity to error phrase 'page not available': 0.31
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.06
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'forbidden': -0.01
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'bad request': 0.25
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'internal server error': 0.21
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.29
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.36
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.22
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'page removed': 0.14
+2025-03-26 23:19:49,196 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'signature does not match': 0.15
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'missing required headers': 0.22
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'authentication failed': 0.09
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'bucket not found': 0.25
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'object does not exist': 0.19
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.24
+2025-03-26 23:19:49,197 - DEBUG - Analyzing sentence preview: '*********** backgound color css  *'
+2025-03-26 23:19:49,197 - DEBUG - Similarity to error phrase '404': 0.16
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'not found': 0.23
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'page not found': 0.23
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'error 404': 0.10
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'server error': 0.16
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'page no longer exists': 0.16
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'cannot be found': 0.19
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'page is missing': 0.12
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'error occurred': 0.05
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'page not available': 0.25
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.04
+2025-03-26 23:19:49,198 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'bad request': 0.19
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'internal server error': 0.15
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.22
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.30
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.16
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'page removed': 0.12
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'access denied': 0.13
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'signature does not match': 0.13
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'missing required headers': 0.21
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'authentication failed': 0.06
+2025-03-26 23:19:49,199 - DEBUG - Similarity to error phrase 'bucket not found': 0.21
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'object does not exist': 0.15
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.18
+2025-03-26 23:19:49,200 - DEBUG - Analyzing sentence preview: '***********/ 	 	body{background-color:#ffffff !'
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase '404': 0.18
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'not found': 0.22
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'page not found': 0.23
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'error 404': 0.11
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'server error': 0.14
+2025-03-26 23:19:49,200 - DEBUG - Similarity to error phrase 'page no longer exists': 0.16
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'cannot be found': 0.16
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'page is missing': 0.11
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'error occurred': 0.02
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'page not available': 0.25
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.02
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'bad request': 0.19
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'internal server error': 0.13
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.21
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.28
+2025-03-26 23:19:49,201 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.18
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'page removed': 0.11
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'signature does not match': 0.13
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'missing required headers': 0.18
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'authentication failed': 0.04
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'bucket not found': 0.19
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'object does not exist': 0.14
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.17
+2025-03-26 23:19:49,202 - DEBUG - Analyzing sentence preview: 'important;} 	 	 	    .reglayout7'
+2025-03-26 23:19:49,202 - DEBUG - Similarity to error phrase '404': 0.19
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'not found': 0.37
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'page not found': 0.38
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'error 404': 0.17
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'server error': 0.21
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'page no longer exists': 0.32
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'cannot be found': 0.37
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'page is missing': 0.30
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'error occurred': 0.17
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'page not available': 0.39
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.19
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:19:49,203 - DEBUG - Similarity to error phrase 'forbidden': 0.11
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'bad request': 0.32
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'internal server error': 0.25
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.40
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.44
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.24
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'page removed': 0.28
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'access denied': 0.23
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'signature does not match': 0.20
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'missing required headers': 0.33
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'authentication failed': 0.15
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'bucket not found': 0.33
+2025-03-26 23:19:49,204 - DEBUG - Similarity to error phrase 'object does not exist': 0.31
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.38
+2025-03-26 23:19:49,205 - DEBUG - Analyzing sentence preview: '.regcontentwidth,    .reglayout8'
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase '404': 0.33
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'not found': 0.79
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'page not found': 0.73
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'error 404': 0.55
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'server error': 0.51
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'page no longer exists': 0.76
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'cannot be found': 0.71
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'page is missing': 0.70
+2025-03-26 23:19:49,205 - DEBUG - Similarity to error phrase 'error occurred': 0.56
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'page not available': 0.77
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.48
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'access denied': 0.38
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'forbidden': 0.39
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'bad request': 0.74
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'internal server error': 0.49
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.77
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.74
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.89
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'page removed': 0.51
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'access denied': 0.38
+2025-03-26 23:19:49,206 - DEBUG - Similarity to error phrase 'signature does not match': 0.81
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'missing required headers': 0.58
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'authentication failed': 0.32
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'bucket not found': 0.72
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'object does not exist': 0.81
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.74
+2025-03-26 23:19:49,207 - DEBUG - Analyzing sentence preview: '.regcontentwidth,    .shared-elements-2q2021 .regdatebar,    .shared-elements-2q2021 #eventdisplay...'
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase '404': 0.34
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'not found': 0.56
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'page not found': 0.54
+2025-03-26 23:19:49,207 - DEBUG - Similarity to error phrase 'error 404': 0.42
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'server error': 0.37
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'page no longer exists': 0.49
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'cannot be found': 0.45
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'page is missing': 0.47
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'error occurred': 0.33
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'page not available': 0.54
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.24
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'forbidden': 0.16
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'bad request': 0.52
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'internal server error': 0.33
+2025-03-26 23:19:49,208 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.52
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.52
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.63
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'page removed': 0.28
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'signature does not match': 0.51
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'missing required headers': 0.34
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'authentication failed': 0.17
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'bucket not found': 0.49
+2025-03-26 23:19:49,209 - DEBUG - Similarity to error phrase 'object does not exist': 0.50
+2025-03-26 23:19:49,210 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.46
+2025-03-26 23:19:49,210 - DEBUG - Analyzing sentence preview: '#eventdisplaytitle,    .hidetitleanddatebar #eventdateandtime{      	color:#000000;    }  		#re...'
+2025-03-26 23:19:49,210 - DEBUG - Similarity to error phrase '404': 0.26
+2025-03-26 23:19:49,210 - DEBUG - Similarity to error phrase 'not found': 0.34
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'page not found': 0.34
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'error 404': 0.21
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'server error': 0.23
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'page no longer exists': 0.27
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'cannot be found': 0.27
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'page is missing': 0.24
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'error occurred': 0.12
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'page not available': 0.35
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.08
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'access denied': 0.14
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:19:49,211 - DEBUG - Similarity to error phrase 'bad request': 0.30
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'internal server error': 0.22
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.33
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.39
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.30
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'page removed': 0.15
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'access denied': 0.14
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'signature does not match': 0.21
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'missing required headers': 0.24
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'authentication failed': 0.08
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'bucket not found': 0.30
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'object does not exist': 0.24
+2025-03-26 23:19:49,212 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.28
+2025-03-26 23:19:49,213 - DEBUG - Analyzing sentence preview: 'important;} 	  /* layout 4 only */         html {background-color:#333}   	       	 #regcon...'
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase '404': 0.25
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'not found': 0.35
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'page not found': 0.36
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'error 404': 0.21
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'server error': 0.28
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'page no longer exists': 0.27
+2025-03-26 23:19:49,213 - DEBUG - Similarity to error phrase 'cannot be found': 0.29
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'page is missing': 0.23
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'error occurred': 0.13
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'page not available': 0.39
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.09
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'forbidden': 0.03
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'bad request': 0.32
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'internal server error': 0.28
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.36
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.44
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.26
+2025-03-26 23:19:49,214 - DEBUG - Similarity to error phrase 'page removed': 0.21
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'access denied': 0.19
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'signature does not match': 0.21
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'missing required headers': 0.30
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'authentication failed': 0.12
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'bucket not found': 0.30
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'object does not exist': 0.25
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.31
+2025-03-26 23:19:49,215 - DEBUG - Analyzing sentence preview: '{color:#000000} 		    		   .splashtabs'
+2025-03-26 23:19:49,215 - DEBUG - Similarity to error phrase '404': 0.15
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'not found': 0.20
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'page not found': 0.20
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'error 404': 0.08
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'server error': 0.12
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'page no longer exists': 0.14
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'cannot be found': 0.15
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'page is missing': 0.09
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'error occurred': 0.02
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'page not available': 0.23
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'temporarily unavailable': 0.03
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:19:49,216 - DEBUG - Similarity to error phrase 'forbidden': 0.01
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'bad request': 0.17
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'internal server error': 0.11
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.19
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.26
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.14
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'page removed': 0.10
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'access denied': 0.11
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'signature does not match': 0.10
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'missing required headers': 0.17
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'authentication failed': 0.04
+2025-03-26 23:19:49,217 - DEBUG - Similarity to error phrase 'bucket not found': 0.17
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'object does not exist': 0.12
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.15
+2025-03-26 23:19:49,218 - DEBUG - Analyzing sentence preview: '+ #tabs_cont'
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase '404': 0.20
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'not found': 0.14
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'page not found': 0.15
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'error 404': 0.10
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'server error': 0.10
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'page no longer exists': 0.03
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'cannot be found': 0.07
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'page is missing': 0.06
+2025-03-26 23:19:49,218 - DEBUG - Similarity to error phrase 'error occurred': -0.03
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'page not available': 0.14
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'temporarily unavailable': -0.10
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'access denied': -0.02
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'forbidden': -0.16
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'bad request': 0.12
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'internal server error': 0.09
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'the page you requested could not be found': 0.12
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'the requested url was not found on this server': 0.16
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'oops, something went wrong': 0.11
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'page removed': -0.02
+2025-03-26 23:19:49,219 - DEBUG - Similarity to error phrase 'access denied': -0.02
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'signature does not match': 0.02
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'missing required headers': -0.00
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'authentication failed': -0.07
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'bucket not found': 0.10
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'object does not exist': 0.01
+2025-03-26 23:19:49,220 - DEBUG - Similarity to error phrase 'presentation is no longer available': 0.06
+2025-03-26 23:19:49,220 - DEBUG - No error message detected in the analyzed text snippet.
+2025-03-26 23:19:49,220 - INFO - ✅ NLP analysis passed. No error message found.
+2025-03-26 23:19:49,220 - INFO - 🟢 GOOD LINK
+

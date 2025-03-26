@@ -55,4 +55,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             # logging.error(f"Error Converting webpage to PDF: {e}")
             return None, None, None
         
-asyncio.run(download_file(url='https://ir.iff.com/events/event-details/q3-2024-international-flavors-fragrances-inc-earnings-conference-call', headless=False))
+asyncio.run(download_file(url=''
+"https://d1io3yog0oux5.cloudfront.net/_d78a136bdd0f1dd2d212b0db8364594c/corescientific/news/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf"
+,
+headless=False))
