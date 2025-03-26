@@ -56,6 +56,16 @@ async def download_file_direct(url, download_folder='downloads/'):
     """
     url = url.rstrip('/')
     filename = os.path.basename(url)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Connection': 'keep-alive',
+        'Referer': "https://www.sec.gov/",
+        'Upgrade-Insecure-Requests': '1',
+        'Cache-Control': 'max-age=0'
+    }
     # file_path = os.path.join(download_folder, filename)
     file_path = os.path.abspath(f'downloads/{filename}')
 
@@ -63,31 +73,27 @@ async def download_file_direct(url, download_folder='downloads/'):
     os.makedirs(download_folder, exist_ok=True)
 
     attempts = 0
-    while attempts < 3:
+    while attempts < 2:
         try:
             print(f"🔍 Attempt {attempts + 1}: Downloading {url}")
 
             # Download the file
-            response = requests.get(url, timeout=10)  # Added timeout for reliability
+            response = requests.get(url, timeout=10, headers=headers)  # Added timeout for reliability
             print(f"📡 Response Status: {response.status_code}")
-
             if response.status_code == 200:
-                with open(file_path, 'wb') as f:
+                # Try to extract filename from Content-Disposition header (if available)
+                content_disposition = response.headers.get('Content-Disposition')
+                if content_disposition:
+                    # Extract the filename from the header (if present)
+                    filename = content_disposition.split("filename=")[-1].strip('\"')
+                else:
+                    # If no filename is provided in the header, use the URL or a default name
+                    filename = url.split("/")[-1]  # Extract filename from URL (default)
+    
+                # Save the content to the file
+                with open(f'{download_folder}/{filename}', 'wb') as f:
                     f.write(response.content)
-                print(f"✅ Successfully downloaded: {file_path}")
-
-                # Get file type from response headers or infer from filename
-                # file_type = response.headers.get('Content-Type')
-                # print(f"📄 Detected MIME Type: {file_type}")
-
-                # if file_type:
-                #     file_extension = mimetypes.guess_extension(file_type)
-                #     if file_extension:
-                #         file_type = file_extension.lstrip(".")  # Convert ".pdf" -> "pdf"
-                #     else:
-                #         file_type = 'html'
-                # else:
-                #     file_type = os.path.splitext(filename)[1].lstrip(".")  # Extract from filename
+                print(f"✅ Successfully downloaded: {filename}")
 
                 file_type, file_path = add_extension_if_missing(file_path)
 
@@ -269,11 +275,13 @@ async def convert_page_to_pdf(url, base_url="https://www.sec.gov", headless=True
             browser2 = await p2.chromium.launch(headless=headless)
             context2 = await browser2.new_context()
             page2 = await context2.new_page()
-            await enable_stealth(page2)
+            await asyncio.sleep(3)
+            await enable_stealth(page2) 
             
             logging.info(f"Attempting to extract webpage content from: {url}")
             await page2.goto(url)
             await page2.wait_for_load_state('load') 
+            await accept_cookies(page2)
             await page2.pdf(path=f'downloads/{file_name}')     
             absolute_path = os.path.abspath(f'downloads/{file_name}') 
             file_type, absolute_path = add_extension_if_missing(absolute_path)
@@ -288,7 +296,7 @@ async def convert_page_to_pdf(url, base_url="https://www.sec.gov", headless=True
 
 async def download_file(url, base_url="https://www.sec.gov", headless=True):
     url = url.rstrip('/')
-    file_name = url.split("/")[-1]
+    # file_name = url.split("/")[-1]
     logging.info(f"Downloading file from: {url}")
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -301,12 +309,27 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
         'Cache-Control': 'max-age=0'
     }
     try:
-        dl = Pypdl()
-        dl.start(url=url, retries=2, file_path=f'downloads/{file_name}', clear_terminal=False, overwrite=True, headers=headers)
-        absolute_path = os.path.abspath(f'downloads/{file_name}')
+        response = requests.get(url, timeout=15, headers=headers)  # Added timeout for reliability
+        print(f"📡 Response Status: {response.status_code}")
+        if response.status_code == 200:
+            # Try to extract filename from Content-Disposition header (if available)
+            content_disposition = response.headers.get('Content-Disposition')
+            if content_disposition:
+                # Extract the filename from the header (if present)
+                filename = content_disposition.split("filename=")[-1].strip('\"')
+            else:
+                # If no filename is provided in the header, use the URL or a default name
+                filename = url.split("/")[-1]  # Extract filename from URL (default)
+
+            # Save the content to the file
+            with open(f'downloads/{filename}', 'wb') as f:
+                f.write(response.content)
+            print(f"✅ Successfully downloaded: {filename}")
+        print('downloaded')
+        absolute_path = os.path.abspath(f'downloads/{filename}')
         file_type, absolute_path = add_extension_if_missing(absolute_path)
         logging.info(f"File downloaded: {absolute_path} ({file_type})")
-        return absolute_path, file_name, file_type 
+        return absolute_path, filename, file_type 
     except Exception as e:
         logging.error(f"Can't download file using PYPDL: {e}")
         try:

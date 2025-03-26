@@ -22,7 +22,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
     try:
         # dl = Pypdl()
         # dl.start(url=url, retries=2, file_path=f'test_docs/{file_name}', clear_terminal=False, overwrite=True, headers=headers)
-        response = requests.get(url, timeout=10)  # Added timeout for reliability
+        response = requests.get(url, timeout=15, headers=headers)  # Added timeout for reliability
         print(f"📡 Response Status: {response.status_code}")
         if response.status_code == 200:
             # Try to extract filename from Content-Disposition header (if available)
@@ -34,6 +34,9 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
                 # If no filename is provided in the header, use the URL or a default name
                 filename = url.split("/")[-1]  # Extract filename from URL (default)
 
+            if os.path.exists(f'test_docs/{filename}'):
+                print(f"File {filename} already exists. Replacing it...")
+                os.remove(f'test_docs/{filename}')
             # Save the content to the file
             with open(f'test_docs/{filename}', 'wb') as f:
                 f.write(response.content)
@@ -52,4 +55,4 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             # logging.error(f"Error Converting webpage to PDF: {e}")
             return None, None, None
         
-asyncio.run(download_file(url='https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html', headless=False))
+asyncio.run(download_file(url='https://ir.iff.com/events/event-details/q3-2024-international-flavors-fragrances-inc-earnings-conference-call', headless=False))
