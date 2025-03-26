@@ -5,6 +5,7 @@ from utils.utils import accept_cookies, enable_stealth
 from utils.outptut_event_JSON_to_file import output_event_JSON_to_file
 import yaml
 from scrapers.PaginationHandler import PaginationHandler
+import os
 
 class Scraper:
     def __init__(self, utils_module, config_path, page):
@@ -74,6 +75,11 @@ class Scraper:
             context = await browser.new_context()
             page = await context.new_page()
 
+            os.makedirs('links', exist_ok=True)
+
+            with open(f"links/{self.output_file.split("/")[-1]}", "w") as file:
+                pass
+        
             all_events = []
             page_num = 1
 

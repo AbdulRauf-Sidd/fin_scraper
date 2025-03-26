@@ -5,7 +5,7 @@ from utils.get_event_name_from_element import get_event_name_from_element
 from utils.get_url_from_element import get_urls_from_element
 from typing import Optional, Dict
 import json
-from utils.utils import download_file
+from utils.utils import download_file, extract_links_from_url, convert_page_to_pdf
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 import os
@@ -40,12 +40,14 @@ logger.propagate = False
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
 
 async def construct_event_json(
+    file_name: str,
     html_element: str,
     equity_ticker: str,
     geography: str,
     periodicity: str,
     base_url: str,
-    forced_type: str
+    forced_type: str,
+    headless: bool,
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -104,16 +106,33 @@ async def construct_event_json(
     # If you need multiple, you can loop over a list of published_dates / content_types.
     # We'll build one data dict:
     data_objects = []
+    all_links = set()
 
     file_url = get_urls_from_element(html_element, base_url)
+    all_links.add(set(file_url))
+    for url in file_url:
+        if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
+            links, found = extract_links_from_url(url, base_url=base_url, headless=headless)
+            if found is None:
+                all_links.remove(url)
+            elif found:
+                all_links.add(set(links))
 
-    for url in file_url: 
-        bad_link = await is_bad_link(url)
-        if bad_link:
-            logger.debug(f"Skipping bad link: {url}")
+
+    file_path = f"links/{file_name}.txt"
+    with open(file_path, "r") as file:
+        existing_links = set(file.read().splitlines())  # Read and split lines into a set
+
+    for url in all_links: 
+        if url in existing_links:
+            logger.debug(f"Link already exists, skipping: {url}")
             continue
         # Let’s define file_name = "Moiz" so that it's never None
-        file_path, file_name, file_type = await download_file(url, "downloads/")
+        if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
+            file_path, file_name, file_type = convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
+        else:
+            file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
+        
         # If file_name is None => skip. But we just forced it to "Moiz."
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
@@ -185,6 +204,7 @@ async def output_event_JSON_to_file(
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
         # We assume 'construct_event_json' is imported or defined in the same file
         result = await construct_event_json(
+            file_name=input_json_file,
             html_element=snippet,
             equity_ticker=equity_ticker,
             geography=geography,
