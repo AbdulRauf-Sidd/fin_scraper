@@ -421,6 +421,7 @@ SY1_events:     # COMPLETED
   geography: "European"
   forced_type: null
   headless: false
+  direct: true
   selectors:
     event_block: div.t-row
   pagination:
@@ -439,6 +440,7 @@ SY1_news:         #COMPLETED
   geography: "European"
   forced_type: "news"
   headless: false
+  direct: false
   selectors:
     event_block: div.t-table
   pagination:
@@ -458,6 +460,7 @@ WDAY_events:    #COMPLETED
   geography: "US"
   forced_type: null
   headless: false
+  direct: false
   selectors:
     event_block: div.wd_events_month
   pagination:
@@ -474,11 +477,19 @@ WDAY_press: #COMPLETED
   geography: "US"
   forced_type: "press"
   headless: false
+  direct: false
   selectors:
     event_block: .wd_item
   pagination:
     type: button
     next_button: li.wd_page_link.wd_page_next a
+
+
+
+
+## doneeeeeeeeeeee
+
+
 
 WMT_quarterly:  #COMPLETED
   ticker: WMT
