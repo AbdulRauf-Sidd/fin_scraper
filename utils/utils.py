@@ -1,15 +1,8 @@
-import re
-from datetime import datetime
 import asyncio
 from urllib.parse import urlparse
 import os
 import mimetypes
-import requests
-import time 
 from playwright.async_api import async_playwright
-import csv
-import sys
-import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 # from utils.is_bad_link import is_bad_link
@@ -149,6 +142,9 @@ async def download_file(url, output_folder="downloads"):
     else:
         file_type = file_path.suffix.lstrip(".")
 
+    if not file_type:
+        file_type = "HTML"
+        
     print(f"📄 Detected MIME Type: {mime_type}")
     print(f"🗂️ Final File Type: {file_type}")
 

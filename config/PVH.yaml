@@ -125,6 +125,8 @@ CRDA_esg:     #COMPLETED
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
 CRDA_presentations:     # Too many irrelevant event blocks scrapped
   ticker: CRDA
@@ -193,8 +195,8 @@ DSFIR_news:       #COMPLETED
   pagination:
     type: button
     next_button: div.cmp-button a.cmp-list__pagination--next
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 DSFIR_press:    #COMPLETED
   ticker: DSFIR
@@ -211,8 +213,8 @@ DSFIR_press:    #COMPLETED
   pagination:
     type: year_tabs
     next_button: "li.cmp-tabs__tab"
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 GIVN_news:          # load more button not COMPLETED
   ticker: GIVN
@@ -228,8 +230,8 @@ GIVN_news:          # load more button not COMPLETED
   pagination:
     type: load_more
     next_button: div.load-more-news button
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 IFF_presentations:    # COMPLETED
   ticker: IFF
@@ -752,10 +754,10 @@ SAP_presentations:
   geography: "European"
   forced_type: "presentations"
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
-    type: button
-    next_button: div.Dots__root--Pbg4A.Slider__pagination--bM51F button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO Button__focusState--C2LxD
+    type: null
+    next_button: null
     archive: null
     timeout: null
 
@@ -770,7 +772,7 @@ SAP_events:
   geography: "European"
   forced_type: "events"
   selectors:
-    event_block:
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
     type: null
     next_button: null
@@ -788,10 +790,10 @@ SAP_news:
   geography: "European"
   forced_type: "news"
   selectors:
-    event_block:
-  pagination:
-    type: null
-    next_button: null
+    event_block: article.c-post-teaser
+  pagination: 
+    type: load_more
+    next_button: div.c-group.align-center a
     archive: null
     timeout: null
 
@@ -799,14 +801,14 @@ WISE_reports:
   ticker: WISE
   scraper: null
   url: https://wise.com/owners/results-reports-presentations
-  output: data/WISEhttps://wise.com/us/investors_reports.json
+  output: data/WISE_reports.json
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
   periodic: false
   geography: "US"
   forced_type: "investors"
   selectors:
-    event_block:
+    event_block: table.price-table__table tbody.text-primary tr.price-table__tr
   pagination:
     type: null
     next_button: null
@@ -831,7 +833,7 @@ WISE_news:
     archive: null
     timeout: null
 
-DGE_news:
+DGE_news:     # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/news-and-media/stories
@@ -842,14 +844,14 @@ DGE_news:
   geography: "European"
   forced_type: "news"
   selectors:
-    event_block:
+    event_block: div.col-12.col-lg-4.col-md-6.mb-sm-1
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: .action-button.icon-chevron-right
     archive: null
     timeout: null
 
-DGE_results:
+DGE_results:    # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/results
@@ -860,14 +862,14 @@ DGE_results:
   geography: "European"
   forced_type: "results"
   selectors:
-    event_block:
+    event_block: div.resultAccordion__item.position-relative.bg-blur.p-sm-2
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null 
 
-DGE_events:
+DGE_events:     # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-events
@@ -885,7 +887,7 @@ DGE_events:
     archive: null
     timeout: null 
 
-DGE_reports:
+DGE_reports:      # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/annual-reports
@@ -903,8 +905,8 @@ DGE_reports:
     archive: null
     timeout: null
 
-DGE_press-releases:
-  ticker: DGE
+DGE_press-releases:       # review 
+  ticker: DGE       # Complete
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-press-releases
   output: data/DGE_press-releases.json
@@ -912,12 +914,12 @@ DGE_press-releases:
   base_address: https://www.diageo.com/
   periodic: false
   geography: "European"
-  forced_type: "press-releases"
+  forced_type: "press releases"
   selectors:
-    event_block:
+    event_block: div.press-releaseCard__content.p-sm-2
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: button.action-button.icon-chevron-right
     archive: null
     timeout: null 
 
@@ -1004,30 +1006,13 @@ CPRI_acquisitions:
   geography: "European"
   forced_type: "acquisitions"
   selectors:
-    event_block:
+    event_block: table.transformableDownloadTable tbody tr
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null
 
-CPRI_disposals:
-  ticker: CPRI
-  scraper: null
-  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
-  output: data/CPRI_disposals.json
-  output_json: JSONS/CPRI_disposals.json
-  base_address: https://investors.capriholdings.com/
-  periodic: false
-  geography: "European"
-  forced_type: "disposals"
-  selectors:
-    event_block:
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: null
 
 HEIO_media-releases:
   ticker: HEIO
@@ -1058,10 +1043,10 @@ HEIO_reports:
   geography: "European"
   forced_type: "reports"
   selectors:
-    event_block:
+    event_block: div.case-study-content-row
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: li.pagination__item.pagination__item--next a
     archive: null
     timeout: null
 
@@ -1072,14 +1057,14 @@ RKT_presentations:
   output: data/RKT_presentations.json
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
-  periodic: false
+  periodic: true
   geography: "US"
   forced_type: "presentations"
-  selectors:
-    event_block:
+  selectors: 
+    event_block: div.results-and-presentation__item-holder
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
 
@@ -1094,7 +1079,7 @@ RKT_investor-seminars:
   geography: "US"
   forced_type: "investor-seminars"
   selectors:
-    event_block:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
     type: null
     next_button: null
@@ -1130,10 +1115,207 @@ RKT_agm:
   geography: "US"
   forced_type: "Annual General Meetings"
   selectors:
-    event_block:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
+
+SIE_financial:      # Du=ynamic loading collapsable
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results.html
+  output: data/SIE_financial.json
+  output_json: JSONS/SIE_financial.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+SIE_financial-results-archive:   
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results-archive.html
+  output: data/SIE_financial-results-archive.json
+  output_json: JSONS/SIE_financial-results-archive.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial-results-archive"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#HWDN
+HWDN_presentations:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
+  output: data/HWDN_presentations.json
+  output_json: JSONS/HWDN_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div.col-lg-6.pb-5
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+HWDN_sustainability:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/sustainability/index
+  output: data/HWDN_sustainability.json
+  output_json: JSONS/sustainability_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: "sustainability"
+  selectors:
+    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#RACE
+RACE_press:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/press-releases/10
+  output: data/RACE_press.json
+  output_json: JSONS/RACE_press-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press"
+  selectors:
+    event_block: div.NewsPage__grid-row__2hkTTLLU
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+RACE_financial:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
+  output: data/RACE_financial.json
+  output_json: JSONS/RACE_financial-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: div.LinkAccordion__rows__mNPa_uDh
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#BAS
+BAS_publications:   
+  ticker: BAS
+  scraper: null
+  url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
+  output: data/BAS_publications.json
+  output_json: JSONS/BAS_publications-.json
+  base_address: https://www.basf.com/
+  periodic: true
+  geography: "European"
+  forced_type: "publications"
+  selectors:
+    event_block: article.wxp-content-item.wxp-content-item__has-image
+  pagination:
+    type: load_more
+    next_button:  div.wxp-result-list-footer-button.mt-5
+    archive: null
+    timeout: null
+
+
+#SAN
+SAN_investor-relations:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
+  output: data/SAN_investor-relations.json
+  output_json: JSONS/SAN_investor-relations-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "investor-relations"
+  selectors:
+    event_block: tr.even
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_stock-exchange:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
+  output: data/SAN_stock-exchangejson
+  output_json: JSONS/SAN_stock-exchange-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "stock-exchange"
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null 
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_group-holdings:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
+  output: data/SAN_group-holdings.json
+  output_json: JSONS/SAN_group-holdings-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: "group-holdings"
+  selectors:
+    event_block: # hassannnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+ 
 
