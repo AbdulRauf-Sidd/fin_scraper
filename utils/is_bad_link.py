@@ -1,114 +1,160 @@
+import requests
 import logging
 import spacy
-from playwright.async_api import Page
-import re
-import os
 
-# Set up logging
-log_file = os.path.join(os.path.dirname(__file__), "../logs/is_bad_link.log")
-os.makedirs(os.path.dirname(log_file), exist_ok=True)
-logging.basicConfig(
-    filename=log_file,
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-logger = logging.getLogger(__name__)
+# ---------------------------------------------------------
+# Set up logging: detailed logs written to bad_link_check.logs
+# ---------------------------------------------------------
+logger = logging.getLogger("BadLinkChecker")
+logger.setLevel(logging.DEBUG)
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 
-# Load spaCy model
-nlp = spacy.load("en_core_web_md")  
+# File handler writes detailed logs to file
+file_handler = logging.FileHandler("logs/is_bad_link.logs")
+file_handler.setLevel(logging.DEBUG)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
 
-# Define error phrases for NLP analysis
+# # Optionally, add a stream handler for console output (can be removed in production)
+# stream_handler = logging.StreamHandler()
+# stream_handler.setLevel(logging.INFO)
+# stream_handler.setFormatter(formatter)
+# logger.addHandler(stream_handler)
+
+# ---------------------------------------------------------
+# Load the spaCy model for NLP analysis
+# We try to load a model with word vectors (en_core_web_md) for better similarity scores.
+# ---------------------------------------------------------
+try:
+    nlp = spacy.load("en_core_web_md")
+    logger.info("Loaded spaCy model 'en_core_web_md'.")
+    logger.info("\n")  # This will insert a blank line in the log
+
+except Exception as e:
+    logger.error("Error loading 'en_core_web_md': %s. Falling back to 'en_core_web_sm'.", e)
+    logger.info("\n")  # This will insert a blank line in the log
+    nlp = spacy.load("en_core_web_sm")
+
+# ---------------------------------------------------------
+# Pre-define a list of error message prototypes.
+# These phrases capture common patterns in error pages.
+# ---------------------------------------------------------
 error_phrases = [
+    "404",
+    "not found",
     "page not found",
     "error 404",
-    "not authorized",
-    "access denied",
-    "service unavailable",
-    "internal server error",
-    "bad gateway",
-    "forbidden",
-    "this site can’t be reached",
+    "server error",
+    "page no longer exists",
+    "cannot be found",
+    "page is missing",
+    "error occurred",
+    "page not available",
     "temporarily unavailable",
-    "problem loading page",
-    "connection timed out",
-    "file not found",
-    "resource not available",
-    'presentation no longer available',
-    'presentation not found',
+    "access denied",
+    "forbidden",
+    "bad request",
+    "internal server error",
+    "the page you requested could not be found",
+    "the requested url was not found on this server",
+    "oops, something went wrong",
+    "page removed",
+    "access denied",
+    "signature does not match",
+    "missing required headers",
+    "authentication failed",
+    "bucket not found",
+    "object does not exist"
 ]
 
-def detect_error_message(text: str) -> bool:
+import re
+
+def _sanitize_url(url: str) -> str:
     """
-    Detects if the given text contains error messages using NLP and logs similarity scores.
+    Cleans a URL string by stripping quotes, backslashes, commas, and whitespace.
+    Useful for malformed input like '\"https://example.com\\",' etc.
     """
-    doc = nlp(text.lower())
-    similarity_threshold = 0.8  # Define a threshold for similarity
+    return re.sub(r'[\\\'",]+$', '', url.strip().strip('"\''))
 
-    for phrase in error_phrases:
-        phrase_doc = nlp(phrase)  # Create a spaCy Doc for the error phrase
-        similarity = doc.similarity(phrase_doc)  # Calculate similarity score
 
-        logger.debug(f"Similarity between '{text[:50]}...' and '{phrase}': {similarity:.2f}")
+# Pre-compute spaCy docs for each error phrase for later similarity comparisons.
+error_docs = [nlp(phrase) for phrase in error_phrases]
 
-        if similarity > similarity_threshold:
-            logger.info(f"❌ URL contains an error (similarity score: {similarity:.2f})")
-            return True
+# ---------------------------------------------------------
+# Define a function that uses NLP to check if a text snippet
+# contains any error-message-like content.
+# ---------------------------------------------------------
+def detect_error_message(text: str, threshold: float = 0.92) -> bool:
+    """
+    Analyzes the text using NLP to determine if it contains indicators
+    of an error page. Returns True if any sentence in the text is
+    similar to a known error phrase above the similarity threshold.
+    """
+    logger.debug("Starting NLP analysis on text snippet.")
+    doc = nlp(text)
+
+    for sent in doc.sents:
+        sent_text = sent.text.strip().lower()
+        preview = sent_text[:100].replace("\n", " ").strip() + ("..." if len(sent_text) > 100 else "")
+        logger.debug("Analyzing sentence preview: '%s'", preview)
+
+        for error_doc in error_docs:
+            similarity = sent.similarity(error_doc)
+            logger.debug("Similarity to error phrase '%s': %.2f", error_doc.text, similarity)
+
+            if similarity >= threshold:
+                logger.info("Detected error message in sentence (preview): '%s' (similarity: %.2f)", preview, similarity)
+                return True
+
+    logger.debug("No error message detected in the analyzed text snippet.")
     return False
 
-
-async def _get_page_content(page: Page) -> tuple[str, int, str]:
+# ---------------------------------------------------------
+# Main function: is_bad_link
+# It accesses the URL, checks the HTTP status code, and if HTML is returned,
+# it only downloads a small snippet of content to run the NLP analysis.
+# ---------------------------------------------------------
+async def is_bad_link(url: str) -> bool:
     """
-    Gets the content, status code, and content type from a Playwright page.
+    Checks if a given URL points to a broken or error page.
+    Returns True if the link is determined to be a bad/broken link,
+    False if the link appears valid.
     """
-    # Prepare variables
-    content = ""
-    status = 0
-    content_type = ""
-    
-    try:
-        # Listen for response and capture the status code and content type
-        response = await page.goto(page.url)  # Load the page
-        status = response.status
-        content_type = response.headers.get("content-type", "")
-        content = await page.content()  # Get the page content
-        
-    except Exception as e:
-        logger.error("❌ Error while getting page content for URL %s: %s", page.url, e)
-        return "", 0, ""
-    
-    return content, status, content_type
-
-async def is_bad_link(page: Page) -> bool:
-    """
-    Checks if a given page points to a broken or error page.
-    Returns True if the page is determined to be a bad/broken page,
-    False if the page appears valid.
-    """
-    url = page.url
+    url = _sanitize_url(url)
 
     logger.info("════════════════════════════════════════════════════════════════════")
-    logger.info("Checking page URL: %s", url)
+    logger.info("Checking URL: %s", url)
 
     try:
-        content, status_code, content_type = await _get_page_content(page)
-        logger.debug("Received HTTP status code: %s", status_code)
-    except Exception as e:
-        logger.error("❌ Failed to get page content for URL %s: %s", url, e)
+        # Use stream=True to avoid downloading the full content unnecessarily.
+        headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers, timeout=10, stream=True)
+
+        logger.debug("Received HTTP status code: %s", response.status_code)
+    except requests.exceptions.RequestException as e:
+        logger.error("❌ Request failed for URL %s: %s", url, e)
         logger.info("🔴 BAD LINK (request failed)\n")
         return True
 
-    # Immediately mark as bad if a known error HTTP status is returned
-    if status_code in [404, 410, 403, 500, 502, 503, 504]:
-        logger.info("❌ URL %s returned error status code: %s", url, status_code)
+    # Immediately mark as bad if a known error HTTP status is returned.
+    if response.status_code in [404, 410, 403, 500, 502, 503, 504]:
+        logger.info("❌ URL %s returned error status code: %s", url, response.status_code)
         logger.info("🔴 BAD LINK (HTTP error)\n")
         return True
 
+    content_type = response.headers.get("Content-Type", "")
     logger.debug("Content-Type for URL %s: %s", url, content_type)
 
-    if "text/html" in content_type.lower():
+    if "text/html" in content_type:
         try:
-            # Take only first 2KB of content for analysis
-            text_snippet = content[:2048]
+            # Read only the first 2 KB to limit processing time.
+            content = response.content[:2048]
+            encoding = response.encoding if response.encoding else "utf-8"
+            text_snippet = content.decode(encoding, errors="ignore")
             logger.debug("Fetched HTML content for NLP analysis.")
         except Exception as e:
             logger.error("❌ Error processing content from URL %s: %s", url, e)
@@ -149,32 +195,13 @@ async def is_bad_link(page: Page) -> bool:
 # ---------------------------------------------------------
 # Example usage (for testing purposes):
 # ---------------------------------------------------------
+link = "https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8"
+
 import asyncio
-from playwright.async_api import async_playwright
 
-async def main():
-    test_urls = [
-        "https://annualreport.dsm.com/ar2019/xmlpages/resources/TXP/dsm/ar_2019/files/DSM-Annual-Report-2019.pdf/",  # Expected to be good.
-        "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/KO/2025-02-20/board-of-directors-of-the-coca-cola-company-approves-63rd/board-of-directors-of-the-coca-cola-company-approves-63rd",
-        "https://www.example.com/thispagedoesnotexist",  # Likely to return a 404 or error page.
-        "https://www.croda.com/en-gb/sustainability/ethics",
-        "https://archlabs.tech/"
-    ]
+def sync_is_bad_link(link):
+    return asyncio.run(is_bad_link(link))
 
-    async with async_playwright() as playwright:
-        browser = await playwright.chromium.launch()
-        context = await browser.new_context()
-        for url in test_urls:
-            page = await context.new_page()
-            try:
-                await page.goto(url, timeout=60000)  # Set a timeout for navigation
-                result = await is_bad_link(page)
-                print(f"{url} is bad: {result}")
-            except Exception as e:
-                print(f"Error processing {url}: {e}")
-            finally:
-                await page.close()
-        await browser.close()
-
-if __name__ == "__main__":
-    asyncio.run(main())
+# Then use it like this
+result = sync_is_bad_link(link)
+print(result)
