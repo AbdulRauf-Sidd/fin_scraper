@@ -12,6 +12,8 @@ PVH_news:     # completed
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    archive: null
+    timeout: null
 
 PVH_press:      # Completed
   ticker: PVH
@@ -30,6 +32,8 @@ PVH_press:      # Completed
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    archive: null
+    timeout: null
 
 PVH_reports:      # Completed
   ticker: PVH
@@ -46,6 +50,8 @@ PVH_reports:      # Completed
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
 PVH_resources:    # COMPLETED
   ticker: PVH
@@ -62,6 +68,8 @@ PVH_resources:    # COMPLETED
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
 CORZ_financial-information:   # COMPLETED
   ticker: CORZ
@@ -78,6 +86,8 @@ CORZ_financial-information:   # COMPLETED
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
 CORZ_presentations:   # Completed
   ticker: CORZ
@@ -94,6 +104,8 @@ CORZ_presentations:   # Completed
   pagination:
     type: next_page_url
     next_button: page-link
+    archive: null
+    timeout: null
 
 CORZ_press:         # Pagination not being handled correctly
   ticker: CORZ
@@ -110,6 +122,8 @@ CORZ_press:         # Pagination not being handled correctly
   pagination:
     type: next_page_url
     next_button: a.page-link
+    archive: null
+    timeout: null
 
 CRDA_esg:     #COMPLETED
   ticker: CRDA
@@ -143,8 +157,8 @@ CRDA_presentations:     # Too many irrelevant event blocks scrapped
   pagination:
     type: null
     next_button: null
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 CBP_events:         # Pagination not being handled correctly
   ticker: CBP
@@ -160,8 +174,8 @@ CBP_events:         # Pagination not being handled correctly
   pagination:
     type: next_page_url
     next_button: li.pager__item--next a
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 CBP_news:       # Pagination not handled correctly
   ticker: CBP
