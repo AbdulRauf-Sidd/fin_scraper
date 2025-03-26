@@ -1090,3 +1090,171 @@ Traceback (most recent call last):
   File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
     raise Exception(
 Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:52:56 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:52:57 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:52:57 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:53:51 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:53:52 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:53:53 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:54:41 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:54:42 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:54:42 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:55:59 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:56:00 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+(Pypdl)  26-03-25 21:56:01 - ERROR: Incorrect segment size: expected 18430 bytes, received 92150 bytes
+Traceback (most recent call last):
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 53, in process_tasks
+    await self._download(task)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 98, in _download
+    await self._multi_segment(segment_table, file_path, speed_limit, **kwargs)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/consumer.py", line 115, in _multi_segment
+    await auto_cancel_gather(*tasks)
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/utils.py", line 312, in auto_cancel_gather
+    return await asyncio.gather(*tasks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/abdulrauf/Projects/fin_scraper/new_env/lib/python3.12/site-packages/pypdl/downloader.py", line 74, in worker
+    raise Exception(
+Exception: Incorrect segment size: expected 18430 bytes, received 92150 bytes

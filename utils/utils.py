@@ -207,6 +207,7 @@ def add_extension_if_missing(file_path):
             'video/mp4': '.mp4',
             'audio/mpeg': '.mp3',
             'text/html': '.htm',
+            'text/html': '.html',
             'video/x-matroska': '.mkv',
             'video/x-msvideo': '.avi',
             'text/csv': '.csv',
@@ -224,6 +225,7 @@ def add_extension_if_missing(file_path):
 
         return file_type.split('/')[1], new_file_path
     except Exception as e:
+        print(e)
         logging.error(f"Error adding extension: {e}")
         return None, None
 
@@ -322,4 +324,4 @@ async def check_file_link(url):
 
 
 
-print(asyncio.run(extract_links_from_url('https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8')))
+# print(asyncio.run(extract_links_from_url('https://event.webcasts.com/starthere.jsp?ei=1683052&tp_key=aaafb48132&tp_special=8')))

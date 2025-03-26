@@ -2,6 +2,7 @@ from pypdl import Pypdl
 from utils.utils import add_extension_if_missing, convert_page_to_pdf
 import os 
 import asyncio
+import requests
 
 
 async def download_file(url, base_url="https://www.sec.gov", headless=True):
@@ -19,10 +20,28 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
         'Cache-Control': 'max-age=0'
     }
     try:
-        dl = Pypdl()
-        dl.start(url=url, retries=2, file_path=f'test_docs/{file_name}', clear_terminal=False, overwrite=True, headers=headers)
-        absolute_path = os.path.abspath(f'test_docs/{file_name}')
+        # dl = Pypdl()
+        # dl.start(url=url, retries=2, file_path=f'test_docs/{file_name}', clear_terminal=False, overwrite=True, headers=headers)
+        response = requests.get(url, timeout=10)  # Added timeout for reliability
+        print(f"📡 Response Status: {response.status_code}")
+        if response.status_code == 200:
+            # Try to extract filename from Content-Disposition header (if available)
+            content_disposition = response.headers.get('Content-Disposition')
+            if content_disposition:
+                # Extract the filename from the header (if present)
+                filename = content_disposition.split("filename=")[-1].strip('\"')
+            else:
+                # If no filename is provided in the header, use the URL or a default name
+                filename = url.split("/")[-1]  # Extract filename from URL (default)
+
+            # Save the content to the file
+            with open(f'test_docs/{filename}', 'wb') as f:
+                f.write(response.content)
+            print(f"✅ Successfully downloaded: {file_name}")
+        print('downloaded')
+        absolute_path = os.path.abspath(f'test_docs/{filename}')
         file_type, absolute_path = add_extension_if_missing(absolute_path)
+        print('file type:', file_type)
         # logging.info(f"File downloaded: {absolute_path} ({file_type})")
         return absolute_path, file_name, file_type 
     except Exception as e:
@@ -33,4 +52,4 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             # logging.error(f"Error Converting webpage to PDF: {e}")
             return None, None, None
         
-asyncio.run(download_file(url='https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results', headless=False))
+asyncio.run(download_file(url='https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html', headless=False))

@@ -45,6 +45,7 @@ PVH_reports:      # Completed
   forced_type: null
   base_address: https://www.pvh.com/
   periodic: false
+  direct: true
   geography: "US"
   selectors:
     event_block: div.col-md-6
@@ -210,6 +211,7 @@ DSFIR_news:       #COMPLETED
   periodic: false
   geography: "European"
   forced_type: "news"
+  direct: false
   selectors:
     event_block: li.cmp-list__item.common-list__item:is(:visible)
   pagination:
