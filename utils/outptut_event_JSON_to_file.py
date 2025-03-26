@@ -8,6 +8,8 @@ import json
 from utils.utils import download_file, extract_links_from_url, convert_page_to_pdf, download_file_direct
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
+from utils.is_periodic_non_periodic import is_periodic_non_periodic
+from utils.get_event_name_for_periodic_european_equities import get_event_name_for_periodic_european_equities
 import os
 
 # Create logs directory if it doesn't exist
@@ -84,16 +86,28 @@ async def construct_event_json(
     # 1) Extract fields
     # ~~~~~~~~~~~~~~~~~~~~~~
 
-    event_name = get_event_name_from_element(html_element)
-    logger.debug(f"Extracted event_name={event_name}\n{html_element}")
-
-
+    
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
 
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
+    if (periodicity not in(True, False, "true", "false")):
+        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
+        periodicity = is_periodic_non_periodic(html_element, geography)
+        logger.debug(f"Extracted periodicity={periodicity}")
+
+    if ((periodicity == True) or (periodicity == "periodic"))  and (geography == "european"):
+        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
+        event_name = get_event_name_for_periodic_european_equities(html_element)
+        logger.debug(f"Extracted event_name={event_name}\n{html_element}")
+    else:
+        event_name = get_event_name_from_element(html_element)
+        logger.debug(f"Extracted event_name={event_name}\n{html_element}")
+
+
+    
     # If event_name is missing or empty, skip entirely
     if (not event_name) or (event_name in ("None", "null")):
         logger.debug("No event_name found. Skipping JSON construction -> return None.")
@@ -182,6 +196,11 @@ async def construct_event_json(
     # 4) Return
     # ~~~~~~~~~~~~~~~~~~~~~~
     logger.debug("Returning constructed JSON.")
+    # Log the final JSON to a .log file in real time
+    with open("logs/realTimejson.log", "a", encoding="utf-8") as log_file:
+        log_file.write("\n" + "="*80 + "\n")
+        log_file.write(json.dumps(result_json, indent=2))
+        log_file.write("\n" + "="*80 + "\n")
     return result_json
 
 async def output_event_JSON_to_file(

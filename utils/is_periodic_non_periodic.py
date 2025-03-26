@@ -4,7 +4,7 @@ from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 
 # Setting up the logger
-logging.basicConfig(filename="scraping.log", level=logging.DEBUG, format='%(asctime)s - %(message)s')
+logging.basicConfig(filename="logs/is_periodic_non_periodic.log", level=logging.DEBUG, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
 # Regular expressions for detecting common periodic vs non-periodic patterns
@@ -60,7 +60,7 @@ NON_PERIODIC_PATTERNS = [
 ]
 
 # Function to classify the event/document type
-def classify_event(html_element, geography):
+def is_periodic_non_periodic(html_element, geography):
     event_name = None
     is_periodic = False
     is_non_periodic = False
@@ -135,9 +135,9 @@ def classify_event(html_element, geography):
         logger.info("No classification match found.")
         return "Unclassified"
 
-# Example call to the function
+# # Example call to the function
 html_element_example = """<div class="result-line"><p>Quarterly Earnings Report Q4 2024</p></div>"""
-event_type = classify_event(html_element_example, "US")
+event_type = is_periodic_non_periodic("annual report", "US")
 logger.info(f"Final Classification: {event_type}")
 
 # Example of periodic and non-periodic cases

@@ -382,8 +382,8 @@ SY1_finance:     #TODO
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
   periodic: true
-  geography: "European"
-  forced_type: "financial"
+  geography: "european"
+  forced_type: null
   headless: false
   selectors:
     event_block: div.t-row
@@ -697,6 +697,7 @@ NOVO-B_reporting:   #Complete
   geography: "European"
   forced_type: "reporting"
   headless: false
+  direct: true
   selectors:
     event_block: div.text.color-blue.introtext p
   pagination:
