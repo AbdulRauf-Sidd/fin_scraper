@@ -1,6 +1,6 @@
 [
   {
-    "event_name": "SAP Announces Q1 2025 Financial Results April 22, 2025 Online - Live Event details",
+    "event_name": "SAP Announces Q1 2025 Financial Results April 22, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11,14 +11,14 @@
         "published_date": "2025",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-04-22-q1-results.html/2025-04-22-q1-results.html",
         "content_type": [
-          "events",
-          "financial-filing"
+          "financial-filing",
+          "announcement"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP SE Annual General Meeting of Shareholders (virtual) May 13, 2025 Online - Live and Online",
+    "event_name": "SAP SE Annual General Meeting of Shareholders (virtual) May 13, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -29,14 +29,13 @@
         "published_date": "2025",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-05-13-agm.html/2025-05-13-agm.html",
         "content_type": [
-          "events",
           "annual-general-meeting"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP SE Record Date for Dividend Payment May 13, 2025 Online - Live Event details",
+    "event_name": "SAP SE Record Date for Dividend Payment May 13, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -46,14 +45,12 @@
         "file_type": "html",
         "published_date": "2025",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-05-13-record-date.html/2025-05-13-record-date.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "Ex-Dividend May 14, 2025 Online - Live Event details",
+    "event_name": "Ex-Dividend May 14, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -63,67 +60,12 @@
         "file_type": "html",
         "published_date": "2025",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-05-14-ex-dividend.html/2025-05-14-ex-dividend.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "SAP SE Dividend Payment May 16, 2025 Online - Live Event details",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "2025-05-16-dividend-payment.html",
-        "file_type": "html",
-        "published_date": "2025",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-05-16-dividend-payment.html/2025-05-16-dividend-payment.html",
-        "content_type": [
-          "events"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "SAP Announces Q2 and HY 2025 Financial Results July 22, 2025 Online - Live Event details",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "2025-07-22-q2-results.html",
-        "file_type": "html",
-        "published_date": "2025",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-07-22-q2-results.html/2025-07-22-q2-results.html",
-        "content_type": [
-          "events",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "SAP Announces Q3 2025 Financial Results October 22, 2025 Online - Live Event details",
-    "equity_ticker": "SAP",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "2025-10-22-q3-results.html",
-        "file_type": "html",
-        "published_date": "2025",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-10-22-q3-results.html/2025-10-22-q3-results.html",
-        "content_type": [
-          "events",
-          "financial-filing"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "SAP at Morgan Stanley Technology, Media & Telecom Conference March 4, 2025 Online - Live and Online",
+    "event_name": "SAP at Morgan Stanley Technology, Media & Telecom Conference March 4, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -133,14 +75,12 @@
         "file_type": "html",
         "published_date": "2025",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2025/2025-03-04-alam.html/2025-03-04-alam.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "Publication of SAP Integrated Report 2024 February 27, 2025 Online - Live Event details",
+    "event_name": "Publication of SAP Integrated Report 2024 February 27, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -151,14 +91,13 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2025-02-27-integrated-report.html/2025-02-27-integrated-report.html",
         "content_type": [
-          "events",
           "financial-filing"
         ]
       }
     ]
   },
   {
-    "event_name": "Q4 and FY 2024 Financial Results January 28, 2025 Online - Live Event details",
+    "event_name": "Q4 and FY 2024 Financial Results January 28, 2025 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -169,14 +108,13 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2025-01-28-q4-fy-results.html/2025-01-28-q4-fy-results.html",
         "content_type": [
-          "events",
           "financial-filing"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP at UBS Global Technology and AI Conference December 3, 2024 Online - Live and Online",
+    "event_name": "SAP at UBS Global Technology and AI Conference December 3, 2024 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -186,14 +124,12 @@
         "file_type": "html",
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2024-12-03-ubs.html/2024-12-03-ubs.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "SAP at Morgan Stanley, European Tech, Media & Telecom Conference November 20, 2024 Online - Live and Online",
+    "event_name": "SAP at Morgan Stanley, European Tech, Media & Telecom Conference November 20, 2024 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -203,14 +139,12 @@
         "file_type": "html",
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2024-11-20-morgan-stanley.html/2024-11-20-morgan-stanley.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "SAP Announces Q3 2024 Financial Results October 21, 2024 Online - Live and Online",
+    "event_name": "SAP Announces Q3 2024 Financial Results October 21, 2024 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -221,14 +155,14 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2024-10-21-q3-financial-results.html/2024-10-21-q3-financial-results.html",
         "content_type": [
-          "events",
-          "financial-filing"
+          "financial-filing",
+          "announcement"
         ]
       }
     ]
   },
   {
-    "event_name": "SAP at Goldman Sachs Communacopia & Technology Conference September 10, 2024 Online - Live and Online",
+    "event_name": "SAP at Goldman Sachs Communacopia & Technology Conference September 10, 2024 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -238,14 +172,12 @@
         "file_type": "html",
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2024-09-10-goldman-ssc.html/2024-09-10-goldman-ssc.html",
-        "content_type": [
-          "events"
-        ]
+        "content_type": []
       }
     ]
   },
   {
-    "event_name": "SAP Announces Q2 and Half-Year 2024 Financial Results July 22, 2024 Online - Live and Online",
+    "event_name": "SAP Announces Q2 and Half-Year 2024 Financial Results July 22, 2024 Online",
     "equity_ticker": "SAP",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -256,8 +188,8 @@
         "published_date": "2024",
         "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/SAP/2024/2024-07-22-q2-financial-results.html/2024-07-22-q2-financial-results.html",
         "content_type": [
-          "events",
-          "financial-filing"
+          "financial-filing",
+          "announcement"
         ]
       }
     ]

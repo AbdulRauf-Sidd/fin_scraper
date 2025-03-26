@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s [%(levelname)s] %(message)s',
     handlers=[
-        logging.FileHandler("content_type_extraction.log", mode='w', encoding='utf-8'),
+        logging.FileHandler("logs/get_content_trype_from_element.log", mode='w', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -83,6 +83,7 @@ CONTENT_PATTERNS: Dict[str, List[str]] = {
     r"\bagm\b":                              ["annual-general-meeting"],
     r"\bq[1-4][-_]?\d{4}\b":                 ["three-month-results"],
     r"\btrading[-_\s]+update\b":             ["trading-update"],
+    r"\bannounce(?:ment|s|d)?\b":            ["announcement"],
 }
 
 ##############################
@@ -114,6 +115,7 @@ CONTENT_TYPE_CONCEPTS = [
     "announcement",
     "seminar",
     "annual-general-meeting",
+    "announcement"
 ]
 
 def _precompute_content_type_embeddings(labels: List[str]):

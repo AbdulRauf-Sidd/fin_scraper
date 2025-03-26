@@ -26,6 +26,7 @@ class Scraper:
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
         self.forced_type = self.config['forced_type']
+        self.headless = self.config['headless']
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
@@ -69,7 +70,7 @@ class Scraper:
 
     async def scrape(self):
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=False)
+            browser = await p.chromium.launch(headless=True if self.headless == "true" else False)
             context = await browser.new_context()
             page = await context.new_page()
 
