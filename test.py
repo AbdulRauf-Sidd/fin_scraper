@@ -55,4 +55,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             # logging.error(f"Error Converting webpage to PDF: {e}")
             return None, None, None
         
-asyncio.run(download_file(url='https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results', headless=False))
+asyncio.run(download_file(url=''
+"https://d1io3yog0oux5.cloudfront.net/_d78a136bdd0f1dd2d212b0db8364594c/corescientific/news/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf"
+,
+headless=False))
