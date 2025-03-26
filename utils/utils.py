@@ -1,15 +1,8 @@
-import re
-from datetime import datetime
 import asyncio
 from urllib.parse import urlparse
 import os
 import mimetypes
-import requests
-import time 
 from playwright.async_api import async_playwright
-import csv
-import sys
-import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 # from utils.is_bad_link import is_bad_link

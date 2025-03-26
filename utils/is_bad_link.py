@@ -114,7 +114,7 @@ def detect_error_message(text: str, threshold: float = 0.92) -> bool:
 # It accesses the URL, checks the HTTP status code, and if HTML is returned,
 # it only downloads a small snippet of content to run the NLP analysis.
 # ---------------------------------------------------------
-def is_bad_link(url: str) -> bool:
+async def is_bad_link(url: str) -> bool:
     """
     Checks if a given URL points to a broken or error page.
     Returns True if the link is determined to be a bad/broken link,

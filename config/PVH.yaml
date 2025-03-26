@@ -195,8 +195,8 @@ DSFIR_news:       #COMPLETED
   pagination:
     type: button
     next_button: div.cmp-button a.cmp-list__pagination--next
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 DSFIR_press:    #COMPLETED
   ticker: DSFIR
@@ -213,8 +213,8 @@ DSFIR_press:    #COMPLETED
   pagination:
     type: year_tabs
     next_button: "li.cmp-tabs__tab"
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 GIVN_news:          # load more button not COMPLETED
   ticker: GIVN
@@ -230,8 +230,8 @@ GIVN_news:          # load more button not COMPLETED
   pagination:
     type: load_more
     next_button: div.load-more-news button
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: null
+    timeout: null
 
 IFF_presentations:    # COMPLETED
   ticker: IFF
