@@ -56,6 +56,6 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             return None, None, None
         
 asyncio.run(download_file(url=''
-"https://d1io3yog0oux5.cloudfront.net/_d78a136bdd0f1dd2d212b0db8364594c/corescientific/news/2025-02-26_Core_Scientific_Announces_Fiscal_Fourth_Quarter_109.pdf"
+"https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwMTk0NTMsImV4cCI6MTc0MzA2NjI1MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLVBSLXByZWxpbWluYXJ5LWZpbmFuY2lhbC1yZXN1bHRzLUZZMjAyNC5wZGYiLCJwYWdlIjo3NH0.WT3DWASX-v1HR5Q06IEa18JDFZQwRTxnlhgL7GwFcDE/250130-Symrise-PR-preliminary-financial-results-FY2024.pdf"
 ,
 headless=False))

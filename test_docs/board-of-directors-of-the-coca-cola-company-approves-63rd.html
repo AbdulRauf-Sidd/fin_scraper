@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <!-- OneTrust Cookies Consent Notice start for investors.coca-colacompany.com -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="ebbed70e-0f06-447c-88e2-911b43af0a09" ></script>
+    <script type="text/javascript">
+        function OptanonWrapper () {
+            if (OneTrust.IsAlertBoxClosed() === false) {
+              var prefpc = document.getElementById("onetrust-pc-sdk");
+              var filter = document.getElementsByClassName("onetrust-pc-dark-filter")[0];
+              var style = document.createElement('style');
+              style.innerHTML = '#onetrust-banner-sdk {display:none !important}';
+              document.head.appendChild(style);
+              prefpc.style = 'display: block !important; animation: example1 3s linear';
+              filter.style = 'display: block !important';
+            }
+            var floatingButtonOpen=document.getElementsByClassName("ot-floating-button__open")[0];
+            floatingButtonOpen.innerHTML='<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve"><g><path class="st0" d="M29.67,7.41c-0.51,0-0.92-0.41-0.92-0.91c0-0.5,0.41-0.91,0.92-0.91C30.18,5.6,30.6,6,30.6,6.5 C30.6,7.01,30.18,7.41,29.67,7.41 M25.59,11.16c0.83,0,1.5-0.66,1.5-1.48c0-0.82-0.67-1.48-1.5-1.48c-0.83,0-1.5,0.66-1.5,1.48 C24.09,10.5,24.76,11.16,25.59,11.16 M32,13.88c0-0.5-0.41-0.91-0.92-0.91c-0.51,0-0.92,0.41-0.92,0.91c0,0.5,0.41,0.91,0.92,0.91 C31.59,14.79,32,14.38,32,13.88 M15.55,31.97c8.26,0,15.01-6.34,15.52-14.34c-1.88-0.49-3.35-1.98-3.78-3.87 c-3.11-0.16-5.58-2.69-5.58-5.79c0-0.26,0.02-0.52,0.05-0.77c-2.07-0.76-3.55-2.73-3.55-5.03c0-0.2,0.01-0.4,0.03-0.6 c-0.88-0.15-1.78-0.23-2.71-0.23C6.96,1.34,0,8.2,0,16.65C0,25.11,6.96,31.97,15.55,31.97 M22.72-0.03c-1.01,0-1.83,0.81-1.83,1.8 s0.82,1.8,1.83,1.8c1.01,0,1.83-0.81,1.83-1.8S23.73-0.03,22.72-0.03"/><path class="st1" d="M7.06,17.17c1.02,0,1.85,0.81,1.85,1.82c0,1.01-0.83,1.82-1.85,1.82c-1.02,0-1.85-0.81-1.85-1.82 C5.21,17.98,6.04,17.17,7.06,17.17 M10.76,8.46c-1.02,0-1.85,0.81-1.85,1.82c0,1.01,0.83,1.82,1.85,1.82 c1.02,0,1.85-0.81,1.85-1.82C12.6,9.28,11.78,8.46,10.76,8.46 M14.45,24.52c0-1-0.83-1.82-1.85-1.82c-1.02,0-1.85,0.81-1.85,1.82 c0,1,0.83,1.82,1.85,1.82C13.62,26.34,14.45,25.53,14.45,24.52 M18.23,12.33c-1.02,0-1.85,0.81-1.85,1.82 c0,1.01,0.83,1.82,1.85,1.82c1.02,0,1.85-0.81,1.85-1.82C20.07,13.14,19.25,12.33,18.23,12.33 M23.75,20.36 c-1.02,0-1.85,0.81-1.85,1.82c0,1.01,0.83,1.82,1.85,1.82c1.02,0,1.85-0.81,1.85-1.82C25.59,21.18,24.77,20.36,23.75,20.36"/></g></svg>';
+            var floatingButtonClose=document.getElementsByClassName("ot-floating-button__close")[0];
+            floatingButtonClose.innerHTML='<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve"><path class="st0" d="M12.27,9l5.05-5.05c0.9-0.9,0.9-2.37,0-3.27c-0.9-0.9-2.37-0.9-3.27,0L9,5.73L3.95,0.68 c-0.9-0.9-2.37-0.9-3.27,0s-0.9,2.37,0,3.27L5.73,9l-5.05,5.05c-0.9,0.9-0.9,2.37,0,3.27c0.9,0.9,2.37,0.9,3.27,0L9,12.27l5.05,5.05 c0.9,0.9,2.37,0.9,3.27,0c0.9-0.9,0.9-2.37,0-3.27L12.27,9z"/></svg>';
+            var buttonSettings=document.getElementById("ot-sdk-btn-floating");
+            buttonSettings.title = "Cookie Settings";
+        }
+        {window.dispatchEvent(new Event('onetrustcookiebanner'))}
+    </script>
+<!-- OneTrust Cookies Consent Notice end for investors.coca-colacompany.com -->        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        
+
+                <link rel="alternate" type="application/rss+xml" title="The Coca-Cola Company - Recent News" href="https://investors.coca-colacompany.com/news-events/press-releases/rss" />
+            
+        <title>Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase :: The Coca-Cola Company (KO)</title>
+        
+        
+    <link rel="canonical" href="https://investors.coca-colacompany.com/news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd">
+    <meta property="og:url" content="https://investors.coca-colacompany.com/news-events/press-releases/detail/1129/board-of-directors-of-the-coca-cola-company-approves-63rd">
+
+
+    <meta property="og:site_name" content="The Coca-Cola Company">
+    <meta property="og:title" content="Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase">
+    <meta property="og:type" content="website">
+    
+    <meta property="og:image" content="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/db/725/5589/social_image_resized.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
+
+        <meta name="viewport" content="initial-scale=1.0, width=device-width">
+                
+                <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700%7CLora:400,400i,700,700i" rel="stylesheet">
+        
+                   <link href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/css/ir.stockpr.css" rel="stylesheet" type="text/css" media="screen" />
+           <link rel="stylesheet" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/css/style.css">
+                
+                <link rel="shortcut icon" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/favicons/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="mask-icon" href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/favicons/safari-pinned-tab.svg">
+        <meta name="theme-color" content="#ffffff">  
+          
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWZC7WQ');</script>
+<!-- End Google Tag Manager -->
+        
+        
+    </head>    <body class="pg-107610 page-type-ir-section-ir-news pg-news-events-press-releases has-sub-nav">
+        <div class="general-wrapper">
+    	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWZC7WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<nav class="sr-only">
+    <h2>Skip to Sections</h2>
+    <ul>
+        <li><a href="#mobile-nav">Navigation</a></li>
+        <li><a href="#content">Main Content</a></li>
+        <li><a href="#footer">Footer</a></li>
+    </ul>
+</nav>
+<header class="affixed" id="header">
+        <div class="container-fluid">
+		<h1 class="logo">
+	        <a href="https://www.coca-colacompany.com">
+	            <img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/logo.svg" 
+                width="156"
+                height="25"
+                alt="The Coca-Cola Company">
+            </a>
+            <a href="https://investors.coca-colacompany.com">
+                <span class="tagline hidden-sm hidden-xs">Investors</span>
+           </a>
+		</h1>
+        <a class="visible-xs visible-sm mobile-nav-trigger" id="showRight">
+            <div class="meat"></div>
+            <div class="meat"></div>
+            <div class="meat"></div>
+        </a>
+		<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right main-nav" id="mobile-nav">
+			<ul class="main-menu">
+    <li class="sr-only"><a href="/">Investors</a></li>
+        <li class="" data-submenu-id="submenu-overview">
+        <a href="/" >Overview</a>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-about">
+        <a href="/about" >About</a>
+                    <ul id="submenu-about">
+                                    <li class="">
+                        <a href="/about" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/about/our-purpose" >Our Purpose</a>
+                    </li>
+                                    <li class="has-children">
+                        <a href="/about/segments" >Segments</a>
+                    </li>
+                                    <li class="">
+                        <a href="/about/coca-cola-system" >Coca-Cola System</a>
+                    </li>
+                                    <li class="">
+                        <a href="/about/presentations" >Investor Overview Presentation</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/company/leadership" target="_blank">Coca-Cola Leaders</a>
+                    </li>
+                                    <li class="">
+                        <a href="/about/contacts" >Contacts</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-strategy">
+        <a href="/strategy" >Strategy</a>
+                    <ul id="submenu-strategy">
+                                    <li class="">
+                        <a href="/strategy" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/strategy/vision" >Vision</a>
+                    </li>
+                                    <li class="">
+                        <a href="/strategy/growth-strategy" >Growth Strategy</a>
+                    </li>
+                                    <li class="">
+                        <a href="/strategy/sustainability" >Sustainability</a>
+                    </li>
+                                    <li class="">
+                        <a href="/strategy/financials" >Financials</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children active" data-submenu-id="submenu-news-events">
+        <a href="/news-events" >News &amp; Events</a>
+                    <ul id="submenu-news-events">
+                                    <li class="">
+                        <a href="/news-events" >Overview</a>
+                    </li>
+                                    <li class="active active-landing">
+                        <a href="/news-events/press-releases" >Press Releases</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/financial-results" >Earnings</a>
+                    </li>
+                                    <li class="">
+                        <a href="/news-events/events" >Events</a>
+                    </li>
+                                    <li class="">
+                        <a href="/news-events/email-alerts" >Email Alerts</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-financial-information">
+        <a href="/financial-information" >Financial Info</a>
+                    <ul id="submenu-financial-information">
+                                    <li class="">
+                        <a href="/financial-information" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/financial-results" >Financial Results</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/non-gaap-reconciliations-and-supplemental-financial-information" >Non-GAAP and Supplemental</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/balance-sheet" >Balance Sheet</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/income-statement" >Income Statement</a>
+                    </li>
+                                    <li class="">
+                        <a href="/financial-information/cash-flow" >Cash Flow</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-stock-information">
+        <a href="/stock-information" >Stock Info</a>
+                    <ul id="submenu-stock-information">
+                                    <li class="">
+                        <a href="/stock-information" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/charts" >Charts</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/dividends" >Dividends</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/year-end-market-values" >Year-End</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/splits" >Splits</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/historical-data" >Historical Data</a>
+                    </li>
+                                    <li class="">
+                        <a href="/stock-information/authorized-share-history" >Share History</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-filings-reports">
+        <a href="/filings-reports" >Filings &amp; Reports</a>
+                    <ul id="submenu-filings-reports">
+                                    <li class="">
+                        <a href="/filings-reports/resource-center" >Resource Center</a>
+                    </li>
+                                    <li class="">
+                        <a href="/filings-reports/all-sec-filings" >All SEC Filings</a>
+                    </li>
+                                    <li class="">
+                        <a href="/filings-reports/annual-filings-10-k" >Annual Filings (10-K)</a>
+                    </li>
+                                    <li class="">
+                        <a href="/filings-reports/quarterly-filings-10-q" >Quarterly Filings (10-Q)</a>
+                    </li>
+                                    <li class="">
+                        <a href="/filings-reports/proxy-statements" >Proxy Statements</a>
+                    </li>
+                                    <li class="">
+                        <a href="/filings-reports/annual-reviews" >Annual Reviews</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-corporate-governance">
+        <a href="/corporate-governance" >Corporate Governance</a>
+                    <ul id="submenu-corporate-governance">
+                                    <li class="">
+                        <a href="/corporate-governance" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/board-of-directors" >Board of Directors</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/board-committees" >Committees</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/governance-documents" >Documents</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/code-of-business-conduct" >Code of Conduct</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/policies-and-practices/political-engagement-in-the-united-states" target="_blank">Political Engagement Policy</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/report-accounting-issues" >Report Issues</a>
+                    </li>
+                                    <li class="">
+                        <a href="/corporate-governance/contact-the-board" >Contact</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-shareowners">
+        <a href="/shareowners" >Shareowners</a>
+                    <ul id="submenu-shareowners">
+                                    <li class="">
+                        <a href="/shareowners" >Overview</a>
+                    </li>
+                                    <li class="">
+                        <a href="/shareowners/annual-meeting-of-shareowners" >Annual Meeting of Shareowners</a>
+                    </li>
+                                    <li class="">
+                        <a href="/shareowners/faqs" >FAQs</a>
+                    </li>
+                                    <li class="">
+                        <a href="/shareowners/contact" >Contact</a>
+                    </li>
+                            </ul>
+            </li>
+        <li class="has-children" data-submenu-id="submenu-sustainability">
+        <a href="/sustainability" >Sustainability</a>
+                    <ul id="submenu-sustainability">
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/esg-resource-center" target="_blank">Sustainability & Governance Resource Center</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/sustainability/water-stewardship" target="_blank">Water</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/sustainability/packaging-sustainability" target="_blank">Packaging</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/sustainability/climate" target="_blank">Climate</a>
+                    </li>
+                                    <li class="">
+                        <a href="https://www.coca-colacompany.com/policies-and-practices" target="_blank">Policies, Practices & Reports</a>
+                    </li>
+                            </ul>
+            </li>
+            <li class="visible-sm visible-xs"><a href="https://www.coca-colacompany.com" target="_blank">COCA-COLA.COM</a></li>
+</ul>		</nav>
+    </div>
+    <a href="https://www.coca-colacompany.com" class="btn back-to-main" target="_blank"><span>COCA-COLACOMPANY.COM</span> <span><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/block-link-arrow-white.svg" alt=""></span></a>
+</header>
+<span class="tagline visible-sm visible-xs"><a href="https://investors.coca-colacompany.com">Investor Relations</a></span>
+
+<div class="page-banner overlay dark" style="background: url(https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/db/711/6303/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;background-color: #333;">
+	<div class="container">
+        <div class="vertical-align">
+    		<div class="wrapper text">
+    		    <div class="row">
+    		        <div class="col-md-12">
+                        <h1>Press Releases</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                                                    	    </div>
+            	</div>
+    		</div>
+    	</div>
+    </div>
+</div><nav class="sub-navigation-wrapper">
+    <div class="sub-navigation affixed">
+    	<div class="container">
+            <a class="visible-xs visible-sm mobile-sub-nav-trigger collapsed" data-toggle="collapse" data-target="#sub-navigation">
+                <div class="trigger-container">
+            		<div class="meat"></div>
+              		<div class="meat"></div>
+              		<div class="meat"></div>
+              	</div>
+            	News & Events            </a>
+            <nav class="collapse sb-nav clearfix"  id="sub-navigation">
+                <h3>News & Events</h3>
+                <ul>
+                                            <li class="">
+                            <a href="/news-events" >Overview</a>
+                        	                		</li>
+                	                        <li class="active active-landing">
+                            <a href="/news-events/press-releases" >Press Releases</a>
+                        	                		</li>
+                	                        <li class="">
+                            <a href="/financial-information/financial-results" >Earnings</a>
+                        	                		</li>
+                	                        <li class="">
+                            <a href="/news-events/events" >Events</a>
+                        	                		</li>
+                	                        <li class="">
+                            <a href="/news-events/email-alerts" >Email Alerts</a>
+                        	                		</li>
+                	                </ul>
+            </nav>
+        </div>
+    </div>
+</nav>                
+            <div id="content"></div>
+                        <div class="container">
+                <div class="row">
+                                    <main class="col-md-10 col-md-offset-1 clearfix">
+                        <div class="main-content ">
+                                <article class="full-news-article">
+    <h1 class="article-heading">Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase</h1>
+    <div class="related-documents-line hidden-print">
+    <!-- Use Earnings Release if it Exists -->
+    <!-- Needs both checks for pages that don't have earnings release -->
+            <a href="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/news/2025-02-20_Board_of_Directors_of_The_Coca_Cola_Company_1129.pdf"
+               class="link pull-right"
+           title="PDF: Board of Directors of The Coca-Cola Company Approves 63rd Consecutive Annual Dividend Increase"
+           target="_blank">
+           <span class="eqicon-PDF"></span> View full release as PDF
+        </a>
+        <time datetime="2025-02-20 13:00:00" class="date pull-left">February 20, 2025 1:00pm EST</time>
+        <div class="clear"></div>
+    </div>
+    
+     
+      
+    
+	
+
+<p>    ATLANTA--(BUSINESS WIRE)--
+The Board of Directors of The Coca-Cola Company today approved the company’s 63<sup>rd</sup> consecutive annual dividend increase, raising the quarterly dividend approximately 5.2% from 48.5 cents to 51 cents per common share.
+</p>
+<p>
+The quarterly dividend is equivalent to an annual dividend of $2.04 per share, up from $1.94 per share in 2024. The first quarter dividend is payable April 1 to shareowners of record as of March 14.
+</p>
+<p>
+The company returned $8.4 billion in dividends to shareowners in 2024, bringing the total amount of dividends paid to shareowners since Jan. 1, 2010, to $93.1 billion.
+</p>
+<p>
+<b><span class="bwuline">About The Coca-Cola Company</span></b>
+</p>
+<p>
+The Coca-Cola Company (NYSE: KO) is a total beverage company with products sold in more than 200 countries and territories. Our company’s purpose is to refresh the world and make a difference. We sell multiple billion-dollar brands across several beverage categories worldwide. Our portfolio of sparkling soft drink brands includes Coca-Cola, Sprite and Fanta. Our water, sports, coffee and tea brands include Dasani, smartwater, vitaminwater, Topo Chico, BODYARMOR, Powerade, Costa, Georgia, Fuze Tea, Gold Peak and Ayataka. Our juice, value-added dairy and plant-based beverage brands include Minute Maid, Simply, innocent, Del Valle, fairlife and AdeS. We’re constantly transforming our portfolio, from reducing sugar in our drinks to bringing innovative new products to market. We seek to positively impact people’s lives, communities and the planet through water replenishment, packaging recycling, sustainable sourcing practices and carbon emissions reductions across our value chain. Together with our bottling partners, we employ more than 700,000 people, helping bring economic opportunity to local communities worldwide. Learn more at <a rel="nofollow" href="https://www.coca-colacompany.com/" shape="rect">www.coca-colacompany.com</a> and follow us on <a rel="nofollow" href="https://www.instagram.com/thecocacolaco/?hl=en" shape="rect">Instagram</a>, <a rel="nofollow" href="https://www.facebook.com/TheCocaColaCo/" shape="rect">Facebook</a> and <a rel="nofollow" href="https://www.linkedin.com/company/the-coca-cola-company" shape="rect">LinkedIn</a>.
+</p>
+<p><span class="bwct31415"></span></p>
+
+<p>
+Investors and Analysts: Robin Halpern, <a rel="nofollow" href="mailto:koinvestorrelations@coca-cola.com" shape="rect">koinvestorrelations@coca-cola.com
+</a><br>Media: Scott Leith, <a rel="nofollow" href="mailto:sleith@coca-cola.com" shape="rect">sleith@coca-cola.com</a>
+</p>
+<p>Source: The Coca-Cola Company</p>
+
+
+	<p class="spr-ir-news-article-date">Released February 20, 2025</p>
+    </article>
+            <style>
+            .bwalignc { text-align: center; list-style-position: inside }
+ .bwuline { text-decoration: underline }        </style>
+    	                        </div>
+                    </main>
+                                </div>
+            </div><!-- //container-->
+        
+<div class="module-quick-links">
+    <ul>
+        <li><a href="/news-events/email-alerts" class="email">Email Alerts</a></li>
+        <li><a href="/about/contacts" class="contacts">Contacts</a></li>
+        <li><a href="https://investors.coca-colacompany.com/news-events/press-releases/rss" class="rss" target="_blank">RSS News Feed</a></li>
+    </ul>
+</div>
+<footer  id="footer">
+    <div class="footer-main">
+    	<div class="container">
+    	    <div class="row footer-row">
+    	        <p class="footer-disclaimer">This website may contain statements, estimates or projections that constitute “forward-looking statements” as defined under U.S. federal securities laws. Generally, the words “believe,” “expect,” “intend,” “estimate,” “anticipate,” “project,” “will” and similar expressions identify forward-looking statements, which generally are not historical in nature. Forward-looking statements are subject to certain risks and uncertainties that could cause The Coca-Cola Company’s actual results to differ materially from its historical experience and our present expectations or projections. For more information please see the risks discussed in our periodic reports filed with the Securities and Exchange Commission.</p>
+    	    </div>
+    	    <div class="row footer-row">
+    	        <div class="col-md-4 text-left">
+    	            <a href="/"><img width="370" height="40" src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/footer-logo.svg" alt="The Coca-Cola Company" class="footer-logo"></a>    
+    	        </div>
+    	        <div class="col-md-8 text-right">
+                    <ul class="tcc-footer-links">
+                        <li><a href="https://www.coca-colacompany.com/contact-us">Contact Us</a></li>
+                        <li><a href="https://www.coca-colacompany.com/media-center">Media Center</a></li>
+                        <li><a href="https://www.coca-colacompany.com">Investors</a></li>
+                        <li><a href="https://www.coca-colacompany.com/policies-and-practices">Policies</a></li>
+                        <li><a href="https://www.coca-colacompany.com/company/leadership">Leadership</a></li>
+                        <li><a href="https://www.coca-colacompany.com/company/history">History</a></li>
+                        <li><a href="https://www.coca-colacompany.com/faqs">FAQs</a></li>
+                        <li><a href="https://www.coca-colacompany.com/country-selector">International</a></li>
+                    </ul>
+    	        </div>
+    	    </div>
+    	    <div class="row footer-row">
+    	        <div class="col-md-6">
+    	            <div class="copyright">
+            			&copy; 2025 <a href="/">The Coca-Cola Company</a>. All Rights Reserved.
+            		</div>
+            		<div class="footer-links">
+            			    <a href="https://www.coca-colacompany.com/policies-and-practices/us-privacy-policy" target="_blank">Privacy</a>
+    <a href="https://us.coca-cola.com/privacy-policy#california-collection">California Notice at Collection</a>
+    <a href="https://www.coca-colacompany.com/policies-and-practices/terms-of-use" target="_blank">Terms of Use</a>
+    <a href="https://www.coca-colacompany.com/policies-and-practices/us-privacy-policy" target="_blank">Do Not Sell My Personal Information</a>
+            		</div>  
+    	        </div>
+    	        <div class="col-md-6 text-right">
+    	            <ul class="social-links">
+    	                <li><a href="https://twitter.com/CocaColaCo" target="_blank"><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/twitter_circle.svg" alt="Visit us on Twitter" /></a></li>
+    	                <li><a href="https://www.facebook.com/TheCocaColaCo" target="_blank"><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/facebook_circle.svg" alt="Visit us on Facebook" /></a></li>
+    	                <li><a href="https://www.linkedin.com/company/the-coca-cola-company/" target="_blank"><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/linkedin_circle.svg" alt="Visit us on LinkedIn" /></a></li>
+    	                <li><a href="https://www.instagram.com/TheCocaColaCo/" target="_blank"><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/instagram_circle.svg" alt="Visit us on Instagram" /></a></li>
+    	                <li><a href="https://www.youtube.com/user/CocaColaCo" target="_blank"><img src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/images/youtube_circle.svg" alt="Visit us on Youtube" /></a></li>
+    	            </ul>
+    	        </div>
+    	    </div>
+    	</div>
+	</div>
+</footer>
+
+<script id="companyVars" type="application/json">
+{
+    "asset_url": "https:\/\/d1io3yog0oux5.cloudfront.net\/_f1e8e2ee2d881f10c46d9396c5805c49\/cocacolacompany",
+    "website_base_url": "https:\/\/investors.coca-colacompany.com",
+    "ir_base_url": false,
+    "hCaptchaSiteKey": "778a5748-d323-4b73-a06c-9625642de8bc",
+    "isQmod": false}
+</script>
+
+<script src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/js/_js/all.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.3.200/build/pdf.min.js"></script>
+
+
+
+<script class="optanon-category-C0003" src="https://d1io3yog0oux5.cloudfront.net/_f1e8e2ee2d881f10c46d9396c5805c49/cocacolacompany/files/theme/js/aside/_js/browser-check.min.js" async></script>
+
+<script>
+    var checkExist = setInterval(function() {
+       if (jq('#optanon-popup-bottom a').length) {
+            /* Add label to empty link */ 
+            document.querySelector("#optanon-popup-bottom a").setAttribute('aria-label', 'onetrust website link');
+            clearInterval(checkExist);
+       }
+    }, 100);
+</script>
+        
+        </div><!-- //general-wrapper-->
+    </body>
+</html>
