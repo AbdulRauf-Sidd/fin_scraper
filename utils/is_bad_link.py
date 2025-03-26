@@ -10,7 +10,7 @@ logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 
 # File handler writes detailed logs to file
-file_handler = logging.FileHandler("bad_link_check.logs")
+file_handler = logging.FileHandler("logs/is_bad_link.logs")
 file_handler.setLevel(logging.DEBUG)
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)

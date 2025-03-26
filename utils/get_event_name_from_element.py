@@ -11,13 +11,12 @@ import os
 ##############
 
 # Set up logging to a file in the root of the project
-log_file_path = os.path.join(os.path.dirname(__file__), "../../event_extraction.log")
+log_file_path = os.path.join(os.path.dirname(__file__), "../logs/get_event_name_from_element.log")
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s [%(levelname)s] %(message)s',
     handlers=[
-        logging.FileHandler(log_file_path, mode='a', encoding='utf-8'),
-        logging.StreamHandler()
+        logging.FileHandler(log_file_path, mode='a', encoding='utf-8')
     ]
 )
 
@@ -176,7 +175,7 @@ def _cleanup_sentence(sentence: str) -> str:
     """
     Removes:
       1) time references (e.g. "8:00 am", "EST", "pm", etc.)
-      2) common file types/references (e.g. "HTML", "PDF", "XBRL", "Zip", etc.)
+      2) common file types/references (e.g. "HTML", "PDF", "XBRL", Zip, etc.)
       3) variations of "read more" (including hyphenated, underscored, capitalized, etc.)
     Keeps date references (e.g. "Nov 20, 2024") intact.
     """

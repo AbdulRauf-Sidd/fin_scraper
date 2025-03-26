@@ -1122,7 +1122,7 @@ RKT_agm:
     archive: null
     timeout: null
 
-SIE_financial:   
+SIE_financial:      # Du=ynamic loading collapsable
   ticker: SIE
   scraper: null
   url: https://www.siemens.com/global/en/company/investor-relations/financial-results.html
