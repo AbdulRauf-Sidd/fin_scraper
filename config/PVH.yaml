@@ -107,12 +107,13 @@ CORZ_presentations:   # Completed
     archive: null
     timeout: null
 
-CORZ_press:         # Pagination not being handled correctly
+CORZ_press:         
   ticker: CORZ
   scraper: null
   url: https://investors.corescientific.com/news-events/press-releases
   output: data/CORZ_press.json
   output_json: JSONS/CORZ_press.json
+  headless: false
   base_address: https://investors.corescientific.com/
   periodic: false
   geography: "US"
@@ -121,7 +122,7 @@ CORZ_press:         # Pagination not being handled correctly
     event_block: article.media
   pagination:
     type: next_page_url
-    next_button: a.page-link
+    next_button: li.page-item.page-item--next a.page-link
     archive: null
     timeout: null
 
@@ -142,7 +143,7 @@ CRDA_esg:     #COMPLETED
     archive: null
     timeout: null
 
-CRDA_presentations:     # Too many irrelevant event blocks scrapped
+CRDA_presentations: 
   ticker: CRDA
   scraper: null
   url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
@@ -150,6 +151,7 @@ CRDA_presentations:     # Too many irrelevant event blocks scrapped
   output_json: JSONS/CRDA_presentations.json
   base_address: https://www.croda.com/en-gb/
   periodic: false
+  headless: false
   geography: "European"
   forced_type: "presentations"
   selectors:
@@ -168,12 +170,13 @@ CBP_events:         # Pagination not being handled correctly
   base_address: https://investor.thecampbellscompany.com/
   periodic: false
   geography: "US"
-  forced_type: null
+  forced_type: "Presentations"
+  headless: false
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
-    type: next_page_url
-    next_button: li.pager__item--next a
+    type: button
+    next_button: li.pager__item.pager__item--next a
     archive: null
     timeout: null
 
@@ -184,15 +187,16 @@ CBP_news:       # Pagination not handled correctly
   output_json: JSONS/CBP_news.json
   base_address: https://investor.thecampbellscompany.com/
   periodic: false
+  headless: false
   geography: "US"
   forced_type: "news"
   selectors:
     event_block: article.node--nir-news--nir-widget-list
   pagination:
     type: load_more
-    next_button: a.button.use-ajax[rel='next']
-    archive: .archive-toggler
-    timeout: 5
+    next_button: li.pager__item a
+    archive: null
+    timeout: null
 
 #DSFIR
 DSFIR_news:       #COMPLETED
@@ -230,7 +234,7 @@ DSFIR_press:    #COMPLETED
     archive: null
     timeout: null
 
-GIVN_news:          # load more button not COMPLETED
+GIVN_news:        
   ticker: GIVN
   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
   output: data/GIVN_news.json
@@ -239,6 +243,7 @@ GIVN_news:          # load more button not COMPLETED
   periodic: false
   geography: "European"
   forced_type: "news"
+  headless: false
   selectors:
     event_block: div.views-row.show
   pagination:
@@ -274,13 +279,14 @@ IFF_press:      # pagination not being handled correctly
   periodic: false
   geography: "US"
   forced_type: "press"
+  headless: false
   selectors:
     event_block: .nir-widget--list article
   pagination:
     type: next_page_url
-    next_button: a
-#     archive: .archive-toggler
-#     timeout: 5
+    next_button: ul.pager__items.js-pager__items li.pager__item.pager__item--next a
+    archive: .archive-toggler
+    timeout: 5
 
 KO_company-updates:     # scrapped 4 blocks instead of 6
   ticker: KO
@@ -820,7 +826,7 @@ WISE_reports:
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "investors"
   selectors:
     event_block: table.price-table__table tbody.text-primary tr.price-table__tr
@@ -838,7 +844,7 @@ WISE_news:
   output_json: JSONS/WISE_news.json
   base_address: https://wise.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "news"
   selectors:
     event_block:
@@ -1073,7 +1079,7 @@ RKT_presentations:
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
   periodic: true
-  geography: "US"
+  geography: "European"
   forced_type: "presentations"
   selectors: 
     event_block: div.results-and-presentation__item-holder
@@ -1091,7 +1097,7 @@ RKT_investor-seminars:
   output_json: JSONS/RKT_investor-seminars.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "investor-seminars"
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
@@ -1109,7 +1115,7 @@ RKT_news:
   output_json: JSONS/RKT_news.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "news"
   selectors:
     event_block:
@@ -1127,7 +1133,7 @@ RKT_agm:
   output_json: JSONS/RKT_agm.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "US"
+  geography: "European"
   forced_type: "Annual General Meetings"
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
