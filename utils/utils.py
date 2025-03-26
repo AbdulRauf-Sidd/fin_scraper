@@ -1,15 +1,8 @@
-import re
-from datetime import datetime
 import asyncio
 from urllib.parse import urlparse
 import os
 import mimetypes
-import requests
-import time 
 from playwright.async_api import async_playwright
-import csv
-import sys
-import importlib
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 # from utils.is_bad_link import is_bad_link
@@ -168,4 +161,4 @@ def join_url(base_url, href):
     return urljoin(base_url, href)
 
 
-# a=download_file('https://www.kering.com/en/news/2024-annual-results/')
+asyncio.run(download_file('https://www.kering.com/en/news/kering-and-les-rencontres-d-arles-to-present-the-2025-women-in-motion-award-for-photography-to-nan-goldin/'))

@@ -3,7 +3,7 @@ from utils.get_content_type_from_element import get_content_type_from_element
 from utils.get_date_from_element import get_date_from_element
 from utils.get_event_name_from_element import get_event_name_from_element
 from utils.get_url_from_element import get_urls_from_element
-from typing import Optional, List, Dict
+from typing import Optional, Dict
 import json
 from utils.utils import download_file
 from utils.upload_to_r2 import upload_file_to_r2
@@ -108,10 +108,10 @@ async def construct_event_json(
     file_url = get_urls_from_element(html_element, base_url)
 
     for url in file_url: 
-        # bad_link = await is_bad_link(url)
-        # if bad_link:
-        #     logger.debug(f"Skipping bad link: {url}")
-        #     continue
+        bad_link = await is_bad_link(url)
+        if bad_link:
+            logger.debug(f"Skipping bad link: {url}")
+            continue
         # Let’s define file_name = "Moiz" so that it's never None
         file_path, file_name, file_type = await download_file(url, "downloads/")
         # If file_name is None => skip. But we just forced it to "Moiz."

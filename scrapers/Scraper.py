@@ -130,15 +130,15 @@ class Scraper:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
                     
-                    await output_event_JSON_to_file(
-                        input_json_file=self.output_file,
-                        output_json_file=self.output_json,
-                        equity_ticker=self.ticker,
-                        geography=self.geography,
-                        periodicity=self.periodicity,
-                        base_url = self.base_address,
-                        forced_type=self.forced_type
-                        )
+                    # await output_event_JSON_to_file(
+                    #     input_json_file=self.output_file,
+                    #     output_json_file=self.output_json,
+                    #     equity_ticker=self.ticker,
+                    #     geography=self.geography,
+                    #     periodicity=self.periodicity,
+                    #     base_url = self.base_address,
+                    #     forced_type=self.forced_type
+                    #     )
                 else:
                     print("\n❌ No events found.")
 
