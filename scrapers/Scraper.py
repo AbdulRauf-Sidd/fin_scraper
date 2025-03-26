@@ -26,8 +26,11 @@ class Scraper:
         self.pagination = self.config.get('pagination', {})
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
+<<<<<<< Updated upstream
         self.forced_type = self.config['forced_type']
         self.headless = self.config['headless']
+=======
+>>>>>>> Stashed changes
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
         self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
@@ -136,6 +139,7 @@ class Scraper:
                         json.dump(all_events, f, indent=4)
                     print(f"\n✅ Data saved in: {self.output_file}")
                     
+<<<<<<< Updated upstream
                     # await output_event_JSON_to_file(
                     #     input_json_file=self.output_file,
                     #     output_json_file=self.output_json,
@@ -145,6 +149,16 @@ class Scraper:
                     #     base_url = self.base_address,
                     #     forced_type=self.forced_type
                     #     )
+=======
+                    await output_event_JSON_to_file(
+                        input_json_file=self.output_file,
+                        output_json_file=self.output_json,
+                        equity_ticker=self.ticker,
+                        geography=self.geography,
+                        periodicity=self.periodicity,
+                        base_url = self.base_address
+                        )
+>>>>>>> Stashed changes
                 else:
                     print("\n❌ No events found.")
 
