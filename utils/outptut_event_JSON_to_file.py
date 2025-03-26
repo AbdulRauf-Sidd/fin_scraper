@@ -145,6 +145,8 @@ async def construct_event_json(
             # Build the data object
             r2_path = f"{equity_ticker}/{published_date}/{file_name}/"
             r2_url = upload_file_to_r2(file_path, r2_path)
+            with open(file_path, "a") as file:
+                file.write(f"{url}\n")
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
