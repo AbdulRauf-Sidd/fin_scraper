@@ -115,4 +115,4 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
 async def check_file_link(url):
     url = url.rstrip('/')
     logging.info(f"Checking file link: {url}")
-    return any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx'])
+    return any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx'])
