@@ -1,610 +1,1337 @@
-# #NESN
-# NESN_pressreleases:
-#   ticker: NESN
-#   scraper: null
-#   url: https://www.nestle.com/investors/pressreleases
-#   output: data/NESN_pressreleases.json
-#   selectors:
-#     event_block: table.table table-hover table-striped
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-# #CBP
-# CBP_events:
-#   ticker: CBP
-#   scraper: null
-#   url: https://investor.thecampbellscompany.com/events-presentations
-#   output: data/CBP_events.json
-#   selectors:
-#     event_block: article.clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list nir-widget-article llf-border
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-# CBP_news:
-#   ticker: CBP
-#   scraper: null
-#   url: https://investor.thecampbellscompany.com/news/financial-news
-#   output: data/CBP_news.json
-#   selectors:
-#     event_block: article.clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted nir-widget-article llf-p-0
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-#CORZ
-# CORZ_financial-information:
-#   ticker: CORZ
-#   scraper: null
-#   url: https://investors.corescientific.com/financial-information/financial-results
-#   output: data/CORZ_financial-information.json
-#   selectors:
-#     event_block: xpath=//div[@class=" row"]
-#   pagination:
-#     type: null
-#     next_button: null
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-  
-
-# CORZ_presentations:
-#   ticker: CORZ
-#   scraper: null
-#   url: https://investors.corescientific.com/news-events/presentations
-#   output: data/CORZ_presentations.json
-#   selectors:
-#     event_block: article.media
-#   pagination:
-#     type: next_page_url
-#     next_button: page-link
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5 
-
-
-
-# CORZ_press:
-#   ticker: CORZ
-#   scraper: null
-#   url: https://investors.corescientific.com/news-events/press-releases
-#   output: data/CORZ_press.json
-#   selectors:
-#     event_block: article.media
-#   pagination:
-#     type: next_page_url
-#     next_button: page-link
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5 
-
-
-
-#CRDA
-# CRDA_esg:
-#   ticker: CRDA
-#   scraper: null
-#   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
-#   output: data/CRDA_esg.json
-#   selectors:
-#     event_block: div.card-body
-#   pagination:
-#     type: null
-#     next_button: null
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-# CRDA_presentations:
-#   ticker: CRDA
-#   scraper: null
-#   url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
-#   output: data/CRDA_presentations.json
-#   selectors:
-#     event_block:
-#       - table.c-responsive-table
-#       # - div.event-list  # Additional selector example
-#   pagination:
-#     type: year_tabs
-#     next_button: null
-
-
-
-
-# #DSFIR
-# DSFIR_news:
-#   ticker: DSFIR
-#   scraper: null
-#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
-#   output: data/DSFIR_news.json
-#   selectors:
-#     event_block: li.cmp-list__item common-list__item
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-# DSFIR_press:
-#   ticker: DSFIR
-#   scraper: null
-#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-#   output: data/DSFIR_press.json
-#   selectors:
-#     event_block: div.aem-Grid aem-Grid--12 aem-Grid--default--12
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-
-# #GIVD
-# GIVD_news:
-#   ticker: GIVD
-#   scraper: null
-#   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
-#   output: data/GIVD_news.json
-#   selectors:
-#     event_block: div.views-row.show
-#   pagination:
-#     type: button
-#     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-#   defaults:
-#     event_type: webcast
-#   cutoff:
-#     years_back: 5
-
-
-
-#IFF
-IFF_presentations:
-  ticker: IFF
-  scraper: null
-  url: https://ir.iff.com/events-presentations
-  output: data/IFF_presentations.json
+PVH_news:     # completed
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
+  output: data/PVH_news.json
+  output_json: JSONS/PVH_news.json
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
   selectors:
-    event_block: article.clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list
+    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    archive: null
+    timeout: null
 
+PVH_press:      # Completed
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
+  output: data/PVH_press2.json
+  output_json: JSONS/PVH_press2.json
+  base_address: https://www.pvh.com/
+  forced_type: "press-releases"
+  periodic: false
+  geography: "US"
+  forced_type: "press-release"
+  llm: true
+  selectors:
+    event_block: li.list__item
+    parent_event_block: div.content__main.col-md-8.offset-md-0.order-md-1.col-12.order-2                   # Each event is in a <li> with class "list__item"
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    archive: null
+    timeout: null
 
-IFF_press:
+PVH_reports:      # Completed
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/investor-relations/reports
+  output: data/PVH_reports.json
+  output_json: JSONS/PVH_reports.json
+  forced_type: null
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: div.col-md-6
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+PVH_resources:    # COMPLETED
+  ticker: PVH
+  scraper: FlatListScraper
+  url: https://www.pvh.com/responsibility/resources
+  output: data/PVH_resources.json
+  output_json: JSONS/PVH_resources.json
+  forced_type: "resources"
+  base_address: https://www.pvh.com/
+  periodic: false
+  geography: "US"
+  selectors:
+    event_block: .layout__wrap.story-well.ready, .container.layout
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CORZ_financial-information:   # COMPLETED
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/financial-information/financial-results
+  output: data/CORZ_financial-information.json
+  output_json: JSONS/CORZ_financial-information.json
+  base_address: https://investors.corescientific.com/
+  periodic: true
+  geography: "US"
+  forced_type: "financial-information"
+  selectors:
+    event_block: xpath=//div[@class=" row"]
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CORZ_presentations:   # Completed
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/presentations
+  output: data/CORZ_presentations.json
+  output_json: JSONS/CORZ_presentations.json
+  base_address: https://investors.corescientific.com/
+  periodic: false
+  geography: "US"
+  forced_type: "presentations"
+  selectors:
+    event_block: article.media
+  pagination:
+    type: next_page_url
+    next_button: page-link
+    archive: null
+    timeout: null
+
+CORZ_press:         
+  ticker: CORZ
+  scraper: null
+  url: https://investors.corescientific.com/news-events/press-releases
+  output: data/CORZ_press.json
+  output_json: JSONS/CORZ_press.json
+  headless: false
+  base_address: https://investors.corescientific.com/
+  periodic: false
+  geography: "US"
+  forced_type: "press"
+  selectors:
+    event_block: article.media
+  pagination:
+    type: next_page_url
+    next_button: li.page-item.page-item--next a.page-link
+    archive: null
+    timeout: null
+
+CRDA_esg:     #COMPLETED
+  ticker: CRDA
+  url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
+  output: data/CRDA_esg.json
+  output_json: JSONS/CRDA_esg.json
+  base_address: https://www.croda.com/en-gb/
+  periodic: false
+  geography: "European"
+  forced_type: "esg"
+  selectors:
+    event_block: div.card-body
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CRDA_presentations: 
+  ticker: CRDA
+  scraper: null
+  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+  output: data/CRDA_presentations.json
+  output_json: JSONS/CRDA_presentations.json
+  base_address: https://www.croda.com/en-gb/
+  periodic: false
+  headless: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: table.c-responsive-table tbody tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CBP_events:         # Pagination not being handled correctly
+  ticker: CBP
+  url: https://investor.thecampbellscompany.com/events-presentations
+  output: data/CBP_events.json
+  output_json: JSONS/CBP_events.json
+  base_address: https://investor.thecampbellscompany.com/
+  periodic: false
+  geography: "US"
+  forced_type: "Presentations"
+  headless: false
+  selectors:
+    event_block: article.node--nir-event--nir-widget-list
+  pagination:
+    type: button
+    next_button: li.pager__item.pager__item--next a
+    archive: null
+    timeout: null
+
+CBP_news:       # Pagination not handled correctly
+  ticker: CBP
+  url: https://investor.thecampbellscompany.com/news/financial-news
+  output: data/CBP_news.json
+  output_json: JSONS/CBP_news.json
+  base_address: https://investor.thecampbellscompany.com/
+  periodic: false
+  headless: false
+  geography: "US"
+  forced_type: "news"
+  selectors:
+    event_block: article.node--nir-news--nir-widget-list
+  pagination:
+    type: load_more
+    next_button: li.pager__item a
+    archive: null
+    timeout: null
+
+#DSFIR
+DSFIR_news:       #COMPLETED
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
+  output: data/DSFIR_news.json
+  output_json: JSONS/DSFIR_news.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: li.cmp-list__item.common-list__item:is(:visible)
+  pagination:
+    type: button
+    next_button: div.cmp-button a.cmp-list__pagination--next
+    archive: null
+    timeout: null
+
+DSFIR_press:    #COMPLETED
+  ticker: DSFIR
+  scraper: null
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+  output: data/DSFIR_press.json
+  output_json: JSONS/DSFIR_press.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: false
+  geography: "European"
+  forced_type: "Press Release"
+  selectors:
+    event_block: .cmp-title, .cmp-text, .cmp-image
+  pagination:
+    type: year_tabs
+    next_button: "li.cmp-tabs__tab"
+    archive: null
+    timeout: null
+
+GIVN_news:        
+  ticker: GIVN
+  url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
+  output: data/GIVN_news.json
+  output_json: JSONS/GIVN_news.json
+  base_address: https://www.givaudan.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  selectors:
+    event_block: div.views-row.show
+  pagination:
+    type: load_more
+    next_button: div.load-more-news button
+    archive: null
+    timeout: null
+
+IFF_presentations:    # COMPLETED
+  ticker: IFF
+  url: https://ir.iff.com/events-presentations
+  output: data/IFF_presentations.json
+  output_json: JSONS/IFF_presentations.json
+  base_address: https://ir.iff.com/
+  periodic: false
+  geography: "US"
+  forced_type: "presentations"
+  selectors:
+    event_block: article.node--nir-event--nir-widget-list
+  pagination:
+    type: null
+    next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
+
+IFF_press:      # pagination not being handled correctly
   ticker: IFF
   scraper: null
   url: https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base
   output: data/IFF_press.json
+  output_json: JSONS/IFF_press.json
+  base_address: https://ir.iff.com/
+  periodic: false
+  geography: "US"
+  forced_type: "press"
+  headless: false
   selectors:
-    event_block: article.clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted
+    event_block: .nir-widget--list article
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    type: next_page_url
+    next_button: ul.pager__items.js-pager__items li.pager__item.pager__item--next a
+    archive: .archive-toggler
+    timeout: 5
 
-
-
-#KO
-KO_company-updates:
+KO_company-updates:     # scrapped 4 blocks instead of 6
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
   output: data/KO_company-updates.json
+  output_json: JSONS/KO_company-updates.json
+  base_address: https://investors.coca-colacompany.com/
+  periodic: false
+  geography: "US"
+  forceed_type: "company-updates"
   selectors:
-    event_block: #hassan
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-KO_poclicies-practices-reports:
-  ticker: KO
-  scraper: null
-  url: https://www.coca-colacompany.com/policies-and-practic
-  output: data/KO_poclicies-practices-reports.json
-  selectors:
-    event_block: li
+    event_block: .ir-cta-event-with-documents
   pagination:
     type: null
     next_button: null
 
-
-KO_press:
+KO_poclicies-practices-reports:     # all events not scrapped
   ticker: KO
-  scraper: null
+  url: https://www.coca-colacompany.com/policies-and-practices/
+  output: data/KO_poclicies-practices-reports.json
+  output_json: JSONS/KO_poclicies-practices-reports.json
+  base_address: https://www.coca-colacompany.com/
+  periodic: false
+  geography: "US"
+  forced_type: "reports"
+  selectors:
+    event_block: div.cmp-accordion__item div div div div div div ul li
+  pagination:
+    type: null
+    next_button: null
+
+KO_press:     # COMPLETED
+  ticker: KO
   url: https://investors.coca-colacompany.com/news-events/press-releases
   output: data/KO_press.json
+  output_json: JSONS/KO_press.json
+  base_address: https://investors.coca-colacompany.com/
+  periodic: false
+  geography: "US"
+  forced_type: "press release"
   selectors:
     event_block: article.media
   pagination:
     type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    next_button: div.control.next a
+#     archive: .archive-toggler
+#     timeout: 5
 
-
-
-#NVDA
-NVDA_news:
-  ticker: NVDA
-  scraper: null
-  url: https://nvidianews.nvidia.com/news
-  output: data/NVDA_news.json
-  selectors:
-    event_block: div.index-item-wrapper
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-NVDA_press_TODO:
-  ticker: NVDA
-  scraper: null
-  url: https://investor.nvidia.com/events-and-presentations/events-and-presentations/default.aspx
-  output: data/NVDA_press_TODO.json
-  selectors:
-    event_block: div.module_item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-#PINS
-PINS_news:
-  ticker: PINS
-  scraper: null
-  url: https://investor.pinterestinc.com/news-and-events/events-and-presentations/default.aspx
-  output: data/PINS_news.json
-  selectors:
-    event_block: div.module_item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-
-
-
-#PVH
-PVH_events:
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/news?facets=content_type%3DEvents&nofilter=true
-  output: data/PVH_events.json
-  selectors:
-    event_block: div.list__item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-
-PVH_news:
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/news?facets=content_type%3DEvents%7CPress%20Releases%7CStories%26
-  output: data/PVH_news.json
-  selectors:
-    event_block: div.list__item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-PVH_reports:
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/investor-relations/reports
-  output: data/PVH_reports.json
-  selectors:
-    event_block: div.tile ready
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-PVH_resources:
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/responsibility/resources
-  output: data/PVH_resources.json
-  selectors:
-    event_block: div.tile tile--aspect-square ready
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-PVH_sustainable-finance:
-  ticker: PVH
-  scraper: null
-  url: https://www.pvh.com/investor-relations/sustainable-finance
-  output: data/PVH_sustainable-finance.json
-  selectors:
-    event_block: div.content__main
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-#RL
-RL_newsroom:
+RL_newsroom:      # COMPLETED
   ticker: RL
-  scraper: null
   url: https://corporate.ralphlauren.com/newsroom
   output: data/RL_newsroom.json
+  output_json: JSONS/RL_newsroom.json
+  base_address: https://corporate.ralphlauren.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
   selectors:
-    event_block: div.corp-news
+    event_block: .newsroom-content .corp-news
   pagination:
     type: load_more
     next_button: div.corp-secondary-button a
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+#     archive: .archive-toggler
+#     timeout: 5
 
+SY1_finance:     #TODO
+  ticker: SY1
+  scraper: null
+  url: https://www.symrise.com/investors/financial-results/
+  output: data/SY1_finance.json
+  output_json: JSONS/SY1_finance.json
+  base_address: https://www.symrise.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: div.t-row
+  pagination:
+    type: null
+    next_button: null
+#      archive: .archive-toggler
+#      timeout: 5
 
-#SY1
-SY1_events:
+SY1_events:     # COMPLETED
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
   output: data/SY1_events.json
+  output_json: JSONS/SY1_events.json
+  base_address: https://www.symrise.com/
+  periodic: false
+  geography: "European"
+  forced_type: null
   selectors:
-    event_block: div.t-table
+    event_block: div.t-row
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    type: null
+    next_button: null
+#      archive: .archive-toggler
+#      timeout: 5
 
-
-
-SY1_news:
+SY1_news:         #COMPLETED
   ticker: SY1
-  scraper: null
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
+  output_json: JSONS/SY1_news.json
+  base_address: https://www.symrise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
   selectors:
     event_block: div.t-table
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
+    archive: .archive-toggler
+    timeout: 5
 
-
-SY1_news:
-  ticker: SY1
-  scraper: null
-  url: https://www.symrise.com/newsroom/press-releases/
-  output: data/SY1_news.json
-  selectors:
-    event_block: div.t-table
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-#UNLV
-UNLV_presentations:
-  ticker: UNLV
-  scraper: null
-  url: https://www.unilever.com/investors/results-presentations-webcasts/
-  output: data/UNLV_presentations.json
-  selectors:
-    event_block: article.uol-c-card uol-c-card--horizontal uol-c-card--ghost is-mounted ush-c-results__result ush-c-results__result--sep
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-  
-UNLV_press:
-  ticker: UNLV
-  scraper: null
-  url: https://www.unilever.com/news/press-and-media/press-releases/
-  output: data/UNLV_press.json
-  selectors:
-    event_block: article.class="uol-c-card uol-c-card--horizontal uol-c-card--ghost is-clickable is-mounted ush-c-results__result ush-c-results__result--sep"
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-
-#WDAY
-WDAY_events:
+WDAY_events:    #COMPLETED
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
   output: data/WDAY_events.json
+  output_json: JSONS/WDAY_events.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  forced_type: null
   selectors:
     event_block: div.wd_events_month
   pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    type: load_more
+    next_button: button.wd_events_more
 
-  
-WDAY_press:
+WDAY_press: #COMPLETED
   ticker: WDAY
-  scraper: null
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
+  output_json: JSONS/WDAY_press.json
+  base_address: https://investor.workday.com/
+  periodic: false
+  geography: "US"
+  forced_type: "press"
   selectors:
-    event_block: div.wd_item_wrapper
+    event_block: .wd_item
   pagination:
     type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
+    next_button: li.wd_page_link.wd_page_next a
 
-
-WDAY_quarterly:
-  ticker: WDAY
-  scraper: null
-  url: https://investor.workday.com/quarterly-results
-  output: data/WDAY_quarterly.json
-  selectors:
-    event_block: div.item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-
-#WMT
-WMT_esg:
-  ticker: WMT
-  scraper: null
-  url: https://stock.walmart.com/governance/governance-documents
-  output: data/WMT_esg.json
-  selectors:
-    event_block: div.asset
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
- 
-WMT_events:
-  ticker: WMT
-  scraper: null
-  url: https://corporate.walmart.com/news/events
-  output: data/WMT_events.json
-  selectors:
-    event_block: li.ListEvents-items-item
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-WMT_news:
-  ticker: WMT
-  scraper: null
-  url: https://corporate.walmart.com/content/corporate/en_us/news.tag=corporate:finance.html
-  output: data/WMT_news.json
-  selectors:
-    event_block: li.in-page__card search-result-tag
-  pagination:
-    type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
-
-
-WMT_quarterly:
+WMT_quarterly:  #COMPLETED
   ticker: WMT
   scraper: null
   url: https://stock.walmart.com/financial-information/vizio-historical-financials
   output: data/WMT_quarterly.json
+  output_json: JSONS/WMT_quarterly.json
+  base_address: https://stock.walmart.com/
+  periodic: true
+  geography: "US"
+  forced_type: "Financial Filings"
   selectors:
     event_block: div.box quarterly-results
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-  defaults:
-    event_type: webcast
-  cutoff:
-    years_back: 5
 
+    archive: .archive-toggler
+    timeout: 5
+
+KER_press: #COMPLETED 
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/press/news/
+  output: data/KER_press.json
+  output_json: JSONS/KER_press.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.t1vdjoug
+  pagination:
+    type: load_more
+    next_button: a.wbhsupj.w1sknmqa
+    archive: .archive-toggler
+    timeout: 5
+
+KER_finance:   #Periodicity for european financial docs.
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/finance/publications/
+  output: data/KER_finance.json
+  output_json: JSONS/KER_finance.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "finance"
+  selectors:
+    event_block: div.p67j49j
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+RMS_meeting:   #redirection problem. but COMPLETED
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/en/general-meetings/
+  output: data/RMS_meeting.json
+  output_json: JSONS/RMS_meeting.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  selectors:
+    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+
+RMS_finance:   
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/en/publications/
+  output: data/RMS_finance.json
+  output_json: JSONS/RMS_finance.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  selectors:
+    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+ 
+
+#VOW3
+VOW3_press:   #nlp not working
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/press-releases
+  output: data/VOW3_press.json
+  output_json: JSONS/VOW3_press.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press-release"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+
+
+VOW3_financial:    # Period
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/financial-news-17302
+  output: data/VOW3_financial.json
+  output_json: JSONS/VOW3_financial.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: load_more
+    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    archive: null
+    timeout: null
+  
+
+
+#OR             #Complete
+OR_news:   
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/news-releases
+  output: data/OR_news.json
+  output_json: JSONS/OR_news.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.row
+  pagination:
+    type: load_more
+    next_button:  a.button
+    archive: null
+    timeout: null
+
+
+
+OR_half:   #Complete
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/half-year-results-archives
+  output: data/OR_half.json
+  output_json: JSONS/OR_half.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "half-year-results"
+  selectors:
+    event_block: div.archive__section
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+OR_annual:   #Complete
+  ticker: OR
+  scraper: null
+  url: https://www.loreal-finance.com/eng/annual-results-archives
+  output: data/OR_annual.json
+  output_json: JSONS/OR_annual.json
+  base_address: https://www.loreal-finance.com/
+  periodic: false
+  geography: "European"
+  forced_type: "annual-results-archives"
+  selectors:
+    event_block: article.nodetype--publication.archive__item.result-archive__item
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#NOVO-B
+NOVO-B_finance:     #LLM
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/investors/financial-results.html
+  output: data/NOVO-B_financial.json
+  output_json: JSONS/NOVO-B_financial.json
+  base_address: https://www.novonordisk.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block: 
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+NOVO-B_reporting:   #Complete
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/sustainable-business/esg-portal/integrated-reporting.html
+  output: data/NOVO-B_reporting.json
+  output_json: JSONS/NOVO-B_reporting.json
+  base_address: https://www.novonordisk.com/
+  periodic: true
+  geography: "European"
+  forced_type: "reporting"
+  selectors:
+    event_block: div.text.color-blue.introtext p
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#SIE              #Complete
+SIE_press:   
+  ticker: SIE
+  scraper: null
+  url: https://press.siemens.com/global/en/press-search?f0=&f%5B0%5D=content_type%3Ac2_ct_press_release
+  output: data/SIE_press.json
+  output_json: JSONS/SIE_press.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press"
+  selectors:
+    event_block: div.press-search-results-view-row.content-type-c2-ct-press-release.views-row
+  pagination:
+    type: load_more
+    next_button:  a.button.js-search__load-more-results
+    archive: null
+    timeout: null
+
+MOWI_reports:    
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/reports/
+  output: data/MOWI_reports.json
+  output_json: JSONS/MOWI_reports.json
+  base_address: https://www.mowi.com/
+  periodic: True
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div._investors-reports-list__box
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+MOWI_presentations:
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/presentations/
+  output: data/MOWI_presentations.json
+  output_json: JSONS/MOWI_presentations.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: a._presentations-list__item
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+MOWI_capital-markets-day:  
+  ticker: MOWI
+  scraper: null
+  url: https://mowi.com/investors/capital-markets-day/
+  output: data/MOWI_capital-markets-day.json
+  output_json: JSONS/MOWI_capital-markets-day.json
+  base_address: https://www.mowi.com/
+  periodic: false
+  geography: "European"
+  forced_type: "capital-markets-day"
+  selectors:
+    event_block: div._presentations-list__items a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+# MOWI financial filings left
+SAP_reports:      # Configs finalized
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=reports#reports
+  output: data/SAP_reports.json
+  output_json: JSONS/SAP_reports.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
+  pagination:
+    type: button
+    next_button: div.NumberedList__container--Vt4OQ.Slider__pagination--bM51F button.Button__button--Dgp43.NumberedList__arrow--rkskz.NumberedList__arrowRight--XecYg.Button__l--wew_t.Button__tertiary--u5zqY.Button__focusState--C2LxD
+    archive: null
+    timeout: null
+
+SAP_presentations:
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/reports.html?sort=latest_desc&tab=presentations#presentations
+  output: data/SAP_presentations.json
+  output_json: JSONS/SAP_presentations.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+SAP_events:
+  ticker: SAP
+  scraper: null
+  url: https://www.sap.com/investors/en/calendar.html
+  output: data/SAP_events.json
+  output_json: JSONS/SAP_events.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: null
+  headless: true
+  selectors:
+    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+SAP_news:
+  ticker: SAP
+  scraper: null
+  url: https://news.sap.com/topics/investor-relations/
+  output: data/SAP_news.json
+  output_json: JSONS/SAP_news.json
+  base_address: https://www.sap.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: article.c-post-teaser
+  pagination: 
+    type: load_more
+    next_button: div.c-group.align-center a
+    archive: null
+    timeout: null
+
+WISE_reports:
+  ticker: WISE
+  scraper: null
+  url: https://wise.com/owners/results-reports-presentations
+  output: data/WISE_reports.json
+  output_json: JSONS/WISE_reports.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "investors"
+  selectors:
+    event_block: table.price-table__table tbody.text-primary tr.price-table__tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+WISE_news:
+  ticker: WISE
+  scraper: null
+  url: https://wise.com/owners/results-reports-presentations
+  output: data/WISE_news.json
+  output_json: JSONS/WISE_news.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DGE_news:     # review
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/news-and-media/stories
+  output: data/DGE_news.json
+  output_json: JSONS/DGE_news.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block: div.col-12.col-lg-4.col-md-6.mb-sm-1
+  pagination:
+    type: button
+    next_button: .action-button.icon-chevron-right
+    archive: null
+    timeout: null
+
+DGE_results:    # review
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/results
+  output: data/DGE_results.json
+  output_json: JSONS/DGE_results.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "results"
+  selectors:
+    event_block: div.resultAccordion__item.position-relative.bg-blur.p-sm-2
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+DGE_events:     # review
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/investor-events
+  output: data/DGE_events.json
+  output_json: JSONS/DGE_events.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: null
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+DGE_reports:      # review
+  ticker: DGE
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/annual-reports
+  output: data/DGE_reports.json
+  output_json: JSONS/DGE_reports.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DGE_press-releases:       # review 
+  ticker: DGE       # Complete
+  scraper: null
+  url: https://www.diageo.com/en/investors/results-reports-and-events/investor-press-releases
+  output: data/DGE_press-releases.json
+  output_json: JSONS/DGE_press-releases.json
+  base_address: https://www.diageo.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press releases"
+  selectors:
+    event_block: div.press-releaseCard__content.p-sm-2
+  pagination:
+    type: button
+    next_button: button.action-button.icon-chevron-right
+    archive: null
+    timeout: null 
+
+CPRI_results:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/results-centre
+  output: data/CPRI_results.json
+  output_json: JSONS/CPRI_results.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "results"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_press-releases:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/press-releases
+  output: data/CPRI_press-releases.json
+  output_json: JSONS/CPRI_press-releases.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press-releases"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_presentations:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/investor-presentations
+  output: data/CPRI_presentations.json
+  output_json: JSONS/CPRI_presentations.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_reports:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/financial-reports
+  output: data/CPRI_reports.json
+  output_json: JSONS/CPRI_reports.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial reports"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CPRI_acquisitions:
+  ticker: CPRI
+  scraper: null
+  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
+  output: data/CPRI_acquisitions.json
+  output_json: JSONS/CPRI_acquisitions.json
+  base_address: https://investors.capriholdings.com/
+  periodic: false
+  geography: "European"
+  forced_type: "acquisitions"
+  selectors:
+    event_block: table.transformableDownloadTable tbody tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+
+HEIO_media-releases:
+  ticker: HEIO
+  scraper: null
+  url: https://www.heinekenholding.com/investors/media-releases
+  output: data/HEIO_media-releases.json
+  output_json: JSONS/HEIO_media-releases.json
+  base_address: https://www.heineken.com/
+  periodic: false
+  geography: "European"
+  forced_type: "media-releases"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+HEIO_reports:
+  ticker: HEIO
+  scraper: null
+  url: https://www.heinekenholding.com/investors/results-reports-webcasts-presentations?op=Filter
+  output: data/HEIO_reports.json
+  output_json: JSONS/HEIO_reports.json
+  base_address: https://www.heineken.com/
+  periodic: false
+  geography: "European"
+  forced_type: "reports"
+  selectors:
+    event_block: div.case-study-content-row
+  pagination:
+    type: button
+    next_button: li.pagination__item.pagination__item--next a
+    archive: null
+    timeout: null
+
+RKT_presentations:
+  ticker: RKT
+  scraper: null
+  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
+  output: data/RKT_presentations.json
+  output_json: JSONS/RKT_presentations.json
+  base_address: https://www.reckitt.com/
+  periodic: true
+  geography: "European"
+  forced_type: "presentations"
+  selectors: 
+    event_block: div.results-and-presentation__item-holder
+  pagination:
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
+    archive: null
+    timeout: null
+
+RKT_investor-seminars:
+  ticker: RKT
+  scraper: null
+  url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
+  output: data/RKT_investor-seminars.json
+  output_json: JSONS/RKT_investor-seminars.json
+  base_address: https://www.reckitt.com/
+  periodic: false
+  geography: "European"
+  forced_type: "investor-seminars"
+  selectors:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+RKT_news:
+  ticker: RKT
+  scraper: null
+  url: https://www.reckitt.com/investors/regulatory-news/
+  output: data/RKT_news.json
+  output_json: JSONS/RKT_news.json
+  base_address: https://www.reckitt.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  selectors:
+    event_block:
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null 
+
+RKT_agm:
+  ticker: RKT
+  scraper: null
+  url: https://www.reckitt.com/investors/annual-general-meetings/
+  output: data/RKT_agm.json
+  output_json: JSONS/RKT_agm.json
+  base_address: https://www.reckitt.com/
+  periodic: false
+  geography: "European"
+  forced_type: "Annual General Meetings"
+  selectors:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
+  pagination:
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
+    archive: null
+    timeout: null
+
+SIE_financial:      # Du=ynamic loading collapsable
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results.html
+  output: data/SIE_financial.json
+  output_json: JSONS/SIE_financial.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+SIE_financial-results-archive:   
+  ticker: SIE
+  scraper: null
+  url: https://www.siemens.com/global/en/company/investor-relations/financial-results-archive.html
+  output: data/SIE_financial-results-archive.json
+  output_json: JSONS/SIE_financial-results-archive.json
+  base_address: https://www.siemens.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial-results-archive"
+  selectors:
+    event_block:     # hassannnnnnnnnnnnnn
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#HWDN
+HWDN_presentations:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
+  output: data/HWDN_presentations.json
+  output_json: JSONS/HWDN_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: "presentation"
+  selectors:
+    event_block: div.col-lg-6.pb-5
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+HWDN_sustainability:   
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/sustainability/index
+  output: data/HWDN_sustainability.json
+  output_json: JSONS/sustainability_presentations.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: true
+  geography: "European"
+  forced_type: null
+  selectors:
+    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+
+#RACE
+RACE_press:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/press-releases/10
+  output: data/RACE_press.json
+  output_json: JSONS/RACE_press-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "press-release"
+  selectors:
+    event_block: div.NewsPage__grid-row__2hkTTLLU
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+RACE_financial:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
+  output: data/RACE_financial.json
+  output_json: JSONS/RACE_financial-.json
+  base_address: https://www.ferrari.com/
+  periodic: true
+  geography: "European"
+  forced_type: "financial-filing"
+  selectors:
+    event_block: div.LinkAccordion__rows__mNPa_uDh
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+#BAS
+BAS_publications:   
+  ticker: BAS
+  scraper: null
+  url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
+  output: data/BAS_publications.json
+  output_json: JSONS/BAS_publications-.json
+  base_address: https://www.basf.com/
+  periodic: true
+  geography: "European"
+  forced_type: "publications"
+  selectors:
+    event_block: article.wxp-content-item.wxp-content-item__has-image
+  pagination:
+    type: load_more
+    next_button:  div.wxp-result-list-footer-button.mt-5
+    archive: null
+    timeout: null
+
+
+#SAN
+SAN_investor-relations:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/glossary
+  output: data/SAN_investor-relations.json
+  output_json: JSONS/SAN_investor-relations-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: null
+  selectors:
+    event_block: tr.even
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_stock-exchange:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
+  output: data/SAN_stock-exchangejson
+  output_json: JSONS/SAN_stock-exchange-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: null
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null 
+    next_button:  null
+    archive: null
+    timeout: null
+
+
+SAN_group-holdings:   
+  ticker: SAN
+  scraper: null
+  url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
+  output: data/SAN_group-holdings.json
+  output_json: JSONS/SAN_group-holdings-.json
+  base_address: https://www.santander.co.uk/
+  periodic: true
+  geography: "European"
+  forced_type: null
+  selectors:
+    event_block: # hassannnnnnnn
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
