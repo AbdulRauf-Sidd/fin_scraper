@@ -1,0 +1,2112 @@
+[
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2024 20 Feb 2025 heineken-holding-nv-annual-report-2024-final-20250219. XHTML",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2024-final-20250219.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heineken-holding-nv-annual-report-2024-final-20250219.pdf/heineken-holding-nv-annual-report-2024-final-20250219.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "ixbrl-viewer.htm",
+        "file_type": "html",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/ixbrl-viewer.htm/ixbrl-viewer.htm",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2024 ESEF package (official filing) 20 Feb 2025 heineken-holding-nv-annual-report-2024-final-20250219. heiho-2024-12-31-en",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2024-final-20250219.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heineken-holding-nv-annual-report-2024-final-20250219.pdf/heineken-holding-nv-annual-report-2024-final-20250219.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "heiho-2024-12-31-en.zip",
+        "file_type": "zip",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heiho-2024-12-31-en.zip/heiho-2024-12-31-en.zip",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2024 Full Year Results 12 Feb 2025 heineken-holding-nv-fypr2024-v2",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-fypr2024-v2.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heineken-holding-nv-fypr2024-v2.pdf/heineken-holding-nv-fypr2024-v2.pdf",
+        "content_type": [
+          "reports",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2024 Q3 Trading Update 23 Oct 2024 heineken-holding-NV-q3-2024-trading-update-23_10_2024",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-NV-q3-2024-trading-update-23_10_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heineken-holding-NV-q3-2024-trading-update-23_10_2024.pdf/heineken-holding-NV-q3-2024-trading-update-23_10_2024.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2024 Half Year Results media release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-NV-2024-half-year-results-media-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/heineken-holding-NV-2024-half-year-results-media-release.pdf/heineken-holding-NV-2024-half-year-results-media-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2024 Q1 Trading Update 24 Apr 2024 cpr01-hugin-heineken-holding-nv-q1-2024-trading-update-24-04-2024",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "cpr01-hugin-heineken-holding-nv-q1-2024-trading-update-24-04-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2024/cpr01-hugin-heineken-holding-nv-q1-2024-trading-update-24-04-2024.pdf/cpr01-hugin-heineken-holding-nv-q1-2024-trading-update-24-04-2024.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2023 22 Feb 2024",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2023-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-annual-report-2023-final.pdf/heineken-holding-nv-annual-report-2023-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "ixbrl-viewer-1a.htm",
+        "file_type": "html",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/ixbrl-viewer-1a.htm/ixbrl-viewer-1a.htm",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2023 ESEF package (official filing) 22 Feb 2024 heineken-holding-nv-annual-report-2023-final. heiho-2023-12-31-en",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2023-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-annual-report-2023-final.pdf/heineken-holding-nv-annual-report-2023-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "heiho-2023-12-31-en.zip",
+        "file_type": "zip",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heiho-2023-12-31-en.zip/heiho-2023-12-31-en.zip",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2023 Full Year Results 14 Feb 2024 heineken-holding-nv-2023-full-year-press-release-14-02-2024",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2023-full-year-press-release-14-02-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-2023-full-year-press-release-14-02-2024.pdf/heineken-holding-nv-2023-full-year-press-release-14-02-2024.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2023 Q3 Trading Update 25 Oct 2023 heineken-holding-nv-q3-2023-trading-update-25-10-2023",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-q3-2023-trading-update-25-10-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-q3-2023-trading-update-25-10-2023.pdf/heineken-holding-nv-q3-2023-trading-update-25-10-2023.pdf",
+        "content_type": [
+          "three-month-results",
+          "reports",
+          "trading-update",
+          "annual-general-meeting"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2023 Half Year Results media release 31 Jul 2023 heineken-holding-nv-2023-half-year-press-release-31-july-202",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2023-half-year-press-release-31-july-202.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-2023-half-year-press-release-31-july-202.pdf/heineken-holding-nv-2023-half-year-press-release-31-july-202.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2023 Q1 Trading Update - Media Release 19 Apr 2023 heineken-holding-nv-q1-2023-trading-update",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-q1-2023-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2023/heineken-holding-nv-q1-2023-trading-update.pdf/heineken-holding-nv-q1-2023-trading-update.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2022 23 Feb 2023 20230214-1917-heineken-holding-nv-ar-2022. ixbrl-viewer.htm",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "20230214-1917-heineken-holding-nv-ar-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/20230214-1917-heineken-holding-nv-ar-2022.pdf/20230214-1917-heineken-holding-nv-ar-2022.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "ixbrl-viewer.htm",
+        "file_type": "html",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/ixbrl-viewer.htm/ixbrl-viewer.htm",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2022 ESEF package (official filing) 23 Feb 2023 20230214-1917-heineken-holding-nv-ar-2022",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "20230214-1917-heineken-holding-nv-ar-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/20230214-1917-heineken-holding-nv-ar-2022.pdf/20230214-1917-heineken-holding-nv-ar-2022.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "heiho-2023-12-31-en.zip",
+        "file_type": "zip",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/heiho-2023-12-31-en.zip/heiho-2023-12-31-en.zip",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results media release 15 Feb 2023 heineken-holding-nv-2022-full-year-results-press-release-15",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2022-full-year-results-press-release-15.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/heineken-holding-nv-2022-full-year-results-press-release-15.pdf/heineken-holding-nv-2022-full-year-results-press-release-15.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2022 Q3 Trading Update 26 Oct 2022 heineken-holding-nv-q3-2022-trading-update-26-10-2022",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-q3-2022-trading-update-26-10-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/heineken-holding-nv-q3-2022-trading-update-26-10-2022.pdf/heineken-holding-nv-q3-2022-trading-update-26-10-2022.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2022 Half Year Results media release 01 Aug 2022 heineken-holding-nv-2022-half-year-press-release-1-august-20",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2022-half-year-press-release-1-august-20.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/heineken-holding-nv-2022-half-year-press-release-1-august-20.pdf/heineken-holding-nv-2022-half-year-press-release-1-august-20.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2022 Q1 Trading Update 20 Apr 2022 heineken-holding-nv-q1-2022-trading-update",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-q1-2022-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2022/heineken-holding-nv-q1-2022-trading-update.pdf/heineken-holding-nv-q1-2022-trading-update.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2021 25 Feb 2022 heineken-holding-nv-annual-report-2021. heiho-2021-12-31-en.htm",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-nv-annual-report-2021.pdf/heineken-holding-nv-annual-report-2021.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "heiho-2021-12-31-en.htm",
+        "file_type": "html",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heiho-2021-12-31-en.htm/heiho-2021-12-31-en.htm",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2021 ESEF package (official filing) 25 Feb 2022 heineken-holding-nv-annual-report-2021. heineken-holding-annual-report-2021-esef-package",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-nv-annual-report-2021.pdf/heineken-holding-nv-annual-report-2021.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "heineken-holding-annual-report-2021-esef-package.zip",
+        "file_type": "zip",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-annual-report-2021-esef-package.zip/heineken-holding-annual-report-2021-esef-package.zip",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results media release 16 Feb 2022 heineken-holding-nv-2021-full-year-results-press-release-16",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2021-full-year-results-press-release-16.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-nv-2021-full-year-results-press-release-16.pdf/heineken-holding-nv-2021-full-year-results-press-release-16.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2021 Q3 Trading Update 27 Oct 2021 heineken-holding-trading-update-2021-q3",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-trading-update-2021-q3.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-trading-update-2021-q3.pdf/heineken-holding-trading-update-2021-q3.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2021 Half Year Results media release 02 Aug 2021 heineken-holding-nv-2021-half-year-results-02-08-2021",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2021-half-year-results-02-08-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-nv-2021-half-year-results-02-08-2021.pdf/heineken-holding-nv-2021-half-year-results-02-08-2021.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2021 Q1 Trading Update 21 Apr 2021 heineken-holding-trading-update-2021-q1",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-trading-update-2021-q1.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2021/heineken-holding-trading-update-2021-q1.pdf/heineken-holding-trading-update-2021-q1.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2020 19 Feb 2021 heineken-holding-nv-2020-annual-report-final",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2020-annual-report-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2020/heineken-holding-nv-2020-annual-report-final.pdf/heineken-holding-nv-2020-annual-report-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2020 Full Year Results media release 10 Feb 2021 heineken-holding-nv-2020-full-year-results-press-release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2020-full-year-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2020/heineken-holding-nv-2020-full-year-results-press-release.pdf/heineken-holding-nv-2020-full-year-results-press-release.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2020 Q3 Trading Update 28 Oct 2020 heineken-holding-trading-update-2020-q3",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-trading-update-2020-q3.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2020/heineken-holding-trading-update-2020-q3.pdf/heineken-holding-trading-update-2020-q3.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2020 Half Year Results media release 03",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2020hy-media-release-3-3-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2020/heineken-holding-nv-2020hy-media-release-3-3-2020.pdf/heineken-holding-nv-2020hy-media-release-3-3-2020.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2020 Q1 Trading Update 22 Apr 2020 heineken-holding-trading-update-2020-q1",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-trading-update-2020-q1.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2020/heineken-holding-trading-update-2020-q1.pdf/heineken-holding-trading-update-2020-q1.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2019 21 Feb 2020 heineken-holding-nv-2019-annual-report-final",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2019-annual-report-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2019/heineken-holding-nv-2019-annual-report-final.pdf/heineken-holding-nv-2019-annual-report-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results media release 12 Feb 2020 heineken-holding-full-year-results-2019-media-release-0",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-full-year-results-2019-media-release-0.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2019/heineken-holding-full-year-results-2019-media-release-0.pdf/heineken-holding-full-year-results-2019-media-release-0.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2019 Q3 Trading Update 23 Oct 2019 heineken-holding-trading-update-2019-q3_0",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-trading-update-2019-q3_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2019/heineken-holding-trading-update-2019-q3_0.pdf/heineken-holding-trading-update-2019-q3_0.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2019 Half Year Results media release 28 Jul 2019 heineken-holding-nv-2019-half-year-results-media-release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2019-half-year-results-media-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2019/heineken-holding-nv-2019-half-year-results-media-release.pdf/heineken-holding-nv-2019-half-year-results-media-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2019 Q1 Trading Update 20 May 2019 heineken-holding-nv-q1-trading-update-2019-0",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-q1-trading-update-2019-0.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2019/heineken-holding-nv-q1-trading-update-2019-0.pdf/heineken-holding-nv-q1-trading-update-2019-0.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "trading-update"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2018 (uitsluitend Engelse versie) 19 Feb 2019 heineken-holding-nv-2018-annual-report",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2018-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-nv-2018-annual-report.pdf/heineken-holding-nv-2018-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2018 19 Feb 2019 heineken-holding-nv-2018-annual-report",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2018-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-nv-2018-annual-report.pdf/heineken-holding-nv-2018-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2018 Full Year Results media release 12 Feb 2019 heineken-holding-nv-media-release-fyr-2018",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-media-release-fyr-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-nv-media-release-fyr-2018.pdf/heineken-holding-nv-media-release-fyr-2018.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2018 third quarter results 23 Oct 2018 heineken-holding-nv-reports-2018-third-quarter-results",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-reports-2018-third-quarter-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-nv-reports-2018-third-quarter-results.pdf/heineken-holding-nv-reports-2018-third-quarter-results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2018 Half Year Results media release 29 Jul 2018 heineken-holding-2018-half-year-results-publication",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-2018-half-year-results-publication.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-2018-half-year-results-publication.pdf/heineken-holding-2018-half-year-results-publication.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2018 first quarter results 17 Apr 2018 heineken-holding-q1-2018-trading-update-final",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-q1-2018-trading-update-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2018/heineken-holding-q1-2018-trading-update-final.pdf/heineken-holding-q1-2018-trading-update-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "webcast",
+          "trading-update",
+          "reports",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2017 - Annual Report 19 Feb 2018 heineken-holding-nv-annual-report-2017-1",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2017-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/heineken-holding-nv-annual-report-2017-1.pdf/heineken-holding-nv-annual-report-2017-1.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2017 18 Feb 2018 heineken-holding-nv-annual-report-2017-2",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2017-2.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/heineken-holding-nv-annual-report-2017-2.pdf/heineken-holding-nv-annual-report-2017-2.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Annual Report 2017 (uitsluitend Engelse versie) 18 Feb 2018 heineken-holding-nv-annual-report-2017",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/heineken-holding-nv-annual-report-2017.pdf/heineken-holding-nv-annual-report-2017.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results media release 11 Feb 2018 heineken-holding-nv-2017fypr-final",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2017fypr-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/heineken-holding-nv-2017fypr-final.pdf/heineken-holding-nv-2017fypr-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2017 third quarter results 24 Aug 2017 https://www.heinekenholding.com/node/3137",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "3137",
+        "file_type": "HTML",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/3137/3137",
+        "content_type": [
+          "financial-filing",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2017 Half Year Results media release 30 Jul 2017 heineken-nv-2017-half-year-results-publication",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2017-half-year-results-publication.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/heineken-nv-2017-half-year-results-publication.pdf/heineken-nv-2017-half-year-results-publication.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2017 first quarter results 18 Apr 2017 Heineken-Holding-N-V-reports-2017-First-Quarter-Results. https://www.heinekenholding.com/node/3134",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2017-First-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/Heineken-Holding-N-V-reports-2017-First-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2017-First-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "3134",
+        "file_type": "HTML",
+        "published_date": "2017",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2017/3134/3134",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2016 Annual Report 22 Feb 2017 heineken-holding-nv-annual-report-2016",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/heineken-holding-nv-annual-report-2016.pdf/heineken-holding-nv-annual-report-2016.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2016 Annual Report (uitsluitend Engelse versie) 22 Feb 2017 heineken-holding-nv-annual-report-2016",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/heineken-holding-nv-annual-report-2016.pdf/heineken-holding-nv-annual-report-2016.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Full Year Results 2016 Press Release 14 Feb 2017 Heineken-Holding-NV-reports-2016-full-year-results",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-NV-reports-2016-full-year-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/Heineken-Holding-NV-reports-2016-full-year-results.pdf/Heineken-Holding-NV-reports-2016-full-year-results.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2016 third quarter results 26 Aug 2016 Heineken-Holding-N-V-reports-2016-Third-Quarter-Results. https://www.heinekenholding.com/node/3131",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2016-Third-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/Heineken-Holding-N-V-reports-2016-Third-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2016-Third-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "3131",
+        "file_type": "HTML",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/3131/3131",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2016 Half Year Results media release 01 Aug 2016 Heineken-Holding-NV-2016-Half-Year-Results-publication",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-NV-2016-Half-Year-Results-publication.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/Heineken-Holding-NV-2016-Half-Year-Results-publication.pdf/Heineken-Holding-NV-2016-Half-Year-Results-publication.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2016 first quarter results 20 Apr 2016 Heineken-Holding-N-V-reports-2016-First-Quarter-Results. https://www.heinekenholding.com/node/3128",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2016-First-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/Heineken-Holding-N-V-reports-2016-First-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2016-First-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "3128",
+        "file_type": "HTML",
+        "published_date": "2016",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2016/3128/3128",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-NV-2015-Jaaroverzicht.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/Heineken-Holding-NV-2015-Jaaroverzicht.pdf/Heineken-Holding-NV-2015-Jaaroverzicht.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding NV 2015 Annual Report 17 Feb 2016 Heineken-Holding-NV-2015-Annual-Report",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-NV-2015-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/Heineken-Holding-NV-2015-Annual-Report.pdf/Heineken-Holding-NV-2015-Annual-Report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Full Year Results 2015 Press Release 10 Feb 2016 Heineken-Holding-NV-Full-Year-Results-2015-Press-Release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-NV-Full-Year-Results-2015-Press-Release.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/Heineken-Holding-NV-Full-Year-Results-2015-Press-Release.pdf/Heineken-Holding-NV-Full-Year-Results-2015-Press-Release.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2015 third quarter results 28 Oct 2015 28",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2015-Third-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/Heineken-Holding-N-V-reports-2015-Third-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2015-Third-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "3125",
+        "file_type": "HTML",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/3125/3125",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2015 Half Year Results media release 03 Aug 2015 heineken-holding-nv-2015-half-year-results",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2015-half-year-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/heineken-holding-nv-2015-half-year-results.pdf/heineken-holding-nv-2015-half-year-results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2015 first quarter results 16 Jul 2015 Heineken-Holding-N-V-reports-2015-First-Quarter-Results. https://www.heinekenholding.com/node/3122",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2015-First-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/Heineken-Holding-N-V-reports-2015-First-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2015-First-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "3122",
+        "file_type": "HTML",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/3122/3122",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "gri-table.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2015/gri-table.pdf/gri-table.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-jaaroverzicht-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-jaaroverzicht-2014.pdf/heineken-holding-nv-jaaroverzicht-2014.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-jaaroverzicht-2014-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-jaaroverzicht-2014-1.pdf/heineken-holding-nv-jaaroverzicht-2014-1.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2014 Annual Report 18 Feb 2015 heineken-holding-nv-annual-report-2014-1",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2014-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-annual-report-2014-1.pdf/heineken-holding-nv-annual-report-2014-1.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2014 Annual Report 18 Feb 2015 heineken-holding-nv-annual-report-2014",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-annual-report-2014.pdf/heineken-holding-nv-annual-report-2014.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Full Year Results 2014 Press Release 11 Feb 2015 heineken-holding-nv-full-year-results-2014-press-release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-full-year-results-2014-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-full-year-results-2014-press-release.pdf/heineken-holding-nv-full-year-results-2014-press-release.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-ronald-den-elzen.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-ronald-den-elzen.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-ronald-den-elzen.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-ronald-den-elzen.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-ronald-den-elzen.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-ronald-den-elzen.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-francois-xavier-mahot.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-francois-xavier-mahot.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-francois-xavier-mahot.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-francois-xavier-mahot.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-francois-xavier-mahot.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-francois-xavier-mahot.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-david-forde.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-david-forde.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-david-forde.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-david-forde.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-david-forde.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-david-forde.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alexis-nasard.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alexis-nasard.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alexis-nasard.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-alexis-nasard-2.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-alexis-nasard-2.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-alexis-nasard-2.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-wiggert-deelen.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-wiggert-deelen.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-wiggert-deelen.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alberto-toni.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alberto-toni.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-transcript-alberto-toni.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-western-europe-alberto-toni-and-wiggert-deelen.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-western-europe-alberto-toni-and-wiggert-deelen.pdf/heineken-nv-2014-whats-brewing-seminar-western-europe-alberto-toni-and-wiggert-deelen.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2014 third quarter results 22 Aug 2014",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2014-Third-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/Heineken-Holding-N-V-reports-2014-Third-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2014-Third-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "heineken-holding-nv-reports-2014-third-quarter-results",
+        "file_type": "HTML",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-reports-2014-third-quarter-results/heineken-holding-nv-reports-2014-third-quarter-results",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2014 Half Year Results media release 20 Aug 2014 heineken-holding-nv-2014-half-year-results-publication",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2014-half-year-results-publication.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-2014-half-year-results-publication.pdf/heineken-holding-nv-2014-half-year-results-publication.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2013-whats-brewing-seminar-transcript-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2013-whats-brewing-seminar-transcript-1.pdf/heineken-nv-2013-whats-brewing-seminar-transcript-1.pdf",
+        "content_type": [
+          "transcript",
+          "reports",
+          "seminar",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-2014-whats-brewing-seminar-africa-middle-east.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-nv-2014-whats-brewing-seminar-africa-middle-east.pdf/heineken-nv-2014-whats-brewing-seminar-africa-middle-east.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "seminar"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. reports 2014 first quarter results 24 Apr 2014 Heineken-Holding-N-V-reports-2014-First-Quarter-Results. https://www.heinekenholding.com/media/press-releases/heineken-holding-nv-report\u2026",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Heineken-Holding-N-V-reports-2014-First-Quarter-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/Heineken-Holding-N-V-reports-2014-First-Quarter-Results.pdf/Heineken-Holding-N-V-reports-2014-First-Quarter-Results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      },
+      {
+        "file_name": "heineken-holding-nv-reports-2014-first-quarter-results",
+        "file_type": "HTML",
+        "published_date": "2014",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2014/heineken-holding-nv-reports-2014-first-quarter-results/heineken-holding-nv-reports-2014-first-quarter-results",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2013 Annual Report 03",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2013-0.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-annual-report-2013-0.pdf/heineken-holding-nv-annual-report-2013-0.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-jaaroverzicht-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-jaaroverzicht-2013.pdf/heineken-holding-nv-jaaroverzicht-2013.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2013 Annual Report 03 Mar 2014 heineken-holding-nv-annual-report-2013",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-annual-report-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-annual-report-2013.pdf/heineken-holding-nv-annual-report-2013.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-jaarcijfers-2013-persbericht.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-jaarcijfers-2013-persbericht.pdf/heineken-holding-nv-jaarcijfers-2013-persbericht.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. Full Year Results 2013 Press Release 12 Feb 2014 heineken-holding-nv-full-year-results-2013-press-release",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-full-year-results-2013-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-full-year-results-2013-press-release.pdf/heineken-holding-nv-full-year-results-2013-press-release.pdf",
+        "content_type": [
+          "webcast",
+          "press-release",
+          "reports",
+          "financial-filing",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken NV Financial Markets Conference 2013 Mexico City - Ren\u00e9 Hooft",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-nv-financial-markets-conference-2013-mexico-city-rene-hooft-graafland.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-nv-financial-markets-conference-2013-mexico-city-rene-hooft-graafland.pdf/heineken-nv-financial-markets-conference-2013-mexico-city-rene-hooft-graafland.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Financial Markets Conference Mexico City - Transcript Day 2 11 Dec 2013 heineken-financial-markets-conference-mexico-city-transcript-day-2-v2",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-financial-markets-conference-mexico-city-transcript-day-2-v2.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-financial-markets-conference-mexico-city-transcript-day-2-v2.pdf/heineken-financial-markets-conference-mexico-city-transcript-day-2-v2.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "transcript"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Financial Markets Conference Mexico City - Transcript Day 1 11 Dec 2013 heineken-financial-markets-conference-mexico-city-transcript-day-1-v2",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-financial-markets-conference-mexico-city-transcript-day-1-v2.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-financial-markets-conference-mexico-city-transcript-day-1-v2.pdf/heineken-financial-markets-conference-mexico-city-transcript-day-1-v2.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "transcript"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2013 Third Quarter Results 23 Oct 2013 heineken-holding-nv-2013-third-quarter-results",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2013-third-quarter-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-2013-third-quarter-results.pdf/heineken-holding-nv-2013-third-quarter-results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2013 Half Year Results media release 21 Aug 2013 heineken-holding-nv-2013-third-quarter-results",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2013-third-quarter-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineken-holding-nv-2013-third-quarter-results.pdf/heineken-holding-nv-2013-third-quarter-results.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Quarter Updates 24 Apr 2013 heineke-holding-nv-2013-first-quarter-update",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineke-holding-nv-2013-first-quarter-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2013/heineke-holding-nv-2013-first-quarter-update.pdf/heineke-holding-nv-2013-first-quarter-update.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2012 Annual Report 01",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2012-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2012/heineken-holding-nv-2012-annual-report.pdf/heineken-holding-nv-2012-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Null",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2012-jaaroverzicht.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2012/heineken-holding-nv-2012-jaaroverzicht.pdf/heineken-holding-nv-2012-jaaroverzicht.pdf",
+        "content_type": [
+          "financial-filing",
+          "webcast",
+          "reports"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2011 Annual Report 05",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2011-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2011/heineken-holding-nv-2011-annual-report.pdf/heineken-holding-nv-2011-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2010 Annual Report 10 Mar 2011 heineken-holding-nv-2010-annual-report",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2010-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2010/heineken-holding-nv-2010-annual-report.pdf/heineken-holding-nv-2010-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Heineken Holding N.V. 2009 Annual Report 09 Mar 2010 heineken-holding-nv-2009-annual-report",
+    "equity_ticker": "HEIO",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "heineken-holding-nv-2009-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2009",
+        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/HEIO/2009/heineken-holding-nv-2009-annual-report.pdf/heineken-holding-nv-2009-annual-report.pdf",
+        "content_type": [
+          "financial-filing",
+          "annual-report",
+          "reports",
+          "webcast"
+        ]
+      }
+    ]
+  }
+]

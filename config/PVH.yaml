@@ -790,10 +790,10 @@ SAP_news:
   geography: "European"
   forced_type: "news"
   selectors:
-    event_block:
-  pagination:
-    type: null
-    next_button: null
+    event_block: article.c-post-teaser
+  pagination: 
+    type: load_more
+    next_button: div.c-group.align-center a
     archive: null
     timeout: null
 
@@ -801,14 +801,14 @@ WISE_reports:
   ticker: WISE
   scraper: null
   url: https://wise.com/owners/results-reports-presentations
-  output: data/WISEhttps://wise.com/us/investors_reports.json
+  output: data/WISE_reports.json
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
   periodic: false
   geography: "US"
   forced_type: "investors"
   selectors:
-    event_block:
+    event_block: table.price-table__table tbody.text-primary tr.price-table__tr
   pagination:
     type: null
     next_button: null
@@ -833,7 +833,7 @@ WISE_news:
     archive: null
     timeout: null
 
-DGE_news:
+DGE_news:     # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/news-and-media/stories
@@ -844,14 +844,14 @@ DGE_news:
   geography: "European"
   forced_type: "news"
   selectors:
-    event_block:
+    event_block: div.col-12.col-lg-4.col-md-6.mb-sm-1
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: .action-button.icon-chevron-right
     archive: null
     timeout: null
 
-DGE_results:
+DGE_results:    # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/results
@@ -862,14 +862,14 @@ DGE_results:
   geography: "European"
   forced_type: "results"
   selectors:
-    event_block:
+    event_block: div.resultAccordion__item.position-relative.bg-blur.p-sm-2
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null 
 
-DGE_events:
+DGE_events:     # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-events
@@ -887,7 +887,7 @@ DGE_events:
     archive: null
     timeout: null 
 
-DGE_reports:
+DGE_reports:      # review
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/annual-reports
@@ -905,8 +905,8 @@ DGE_reports:
     archive: null
     timeout: null
 
-DGE_press-releases:
-  ticker: DGE
+DGE_press-releases:       # review 
+  ticker: DGE       # Complete
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-press-releases
   output: data/DGE_press-releases.json
@@ -914,12 +914,12 @@ DGE_press-releases:
   base_address: https://www.diageo.com/
   periodic: false
   geography: "European"
-  forced_type: "press-releases"
+  forced_type: "press releases"
   selectors:
-    event_block:
+    event_block: div.press-releaseCard__content.p-sm-2
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: button.action-button.icon-chevron-right
     archive: null
     timeout: null 
 
@@ -1006,30 +1006,13 @@ CPRI_acquisitions:
   geography: "European"
   forced_type: "acquisitions"
   selectors:
-    event_block:
+    event_block: table.transformableDownloadTable tbody tr
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null
 
-CPRI_disposals:
-  ticker: CPRI
-  scraper: null
-  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
-  output: data/CPRI_disposals.json
-  output_json: JSONS/CPRI_disposals.json
-  base_address: https://investors.capriholdings.com/
-  periodic: false
-  geography: "European"
-  forced_type: "disposals"
-  selectors:
-    event_block:
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: null
 
 HEIO_media-releases:
   ticker: HEIO
@@ -1060,10 +1043,10 @@ HEIO_reports:
   geography: "European"
   forced_type: "reports"
   selectors:
-    event_block:
+    event_block: div.case-study-content-row
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: li.pagination__item.pagination__item--next a
     archive: null
     timeout: null
 
@@ -1074,14 +1057,14 @@ RKT_presentations:
   output: data/RKT_presentations.json
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
-  periodic: false
+  periodic: true
   geography: "US"
   forced_type: "presentations"
-  selectors:
-    event_block:
+  selectors: 
+    event_block: div.results-and-presentation__item-holder
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
 
@@ -1096,7 +1079,7 @@ RKT_investor-seminars:
   geography: "US"
   forced_type: "investor-seminars"
   selectors:
-    event_block:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
     type: null
     next_button: null
@@ -1132,10 +1115,10 @@ RKT_agm:
   geography: "US"
   forced_type: "Annual General Meetings"
   selectors:
-    event_block:
+    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
 
@@ -1176,47 +1159,6 @@ SIE_financial-results-archive:
     next_button:  null
     archive: null
     timeout: null
-
-
-SIE_events:   
-  ticker: SIE
-  scraper: null
-  url: https://www.siemens.com/global/en/company/investor-relations/ir-events.html
-  output: data/SIE_events.json
-  output_json: JSONS/SIE_events.json
-  base_address: https://www.siemens.com/
-  periodic: true
-  geography: "European"
-  forced_type: "events
-  selectors:
-    event_block:     # hassannnnnnnnnnnnnn
-  pagination:
-    type: null
-    next_button:  null
-    archive: null
-    timeout: null
-
-
-
-#OTIS              
-OTIS_presentations:   
-  ticker: OTIS
-  scraper: null
-  url: https://otisinvestors.com/events-and-presentations/default.aspx
-  output: data/OTIS_presentations.json
-  output_json: JSONS/OTIS_presentations.json
-  base_address: https://otisinvestors.com/
-  periodic: true
-  geography: "US"
-  forced_type: "presentations"
-  selectors:
-    event_block: div.evergreen-item.evergreen-presentation-item.evergreen-item-container.evergreen-presentation-item--shadow
-  pagination:
-    type: null
-    next_button:  null
-    archive: null
-    timeout: null
-
 
 
 #HWDN
