@@ -436,7 +436,7 @@ WMT_quarterly:  #COMPLETED
     timeout: 5
 
 
-KER_press: #AWS ONGOING
+KER_press: #COMPLETED 
   ticker: KER
   scraper: null
   url: https://www.kering.com/en/press/news/

@@ -165,4 +165,4 @@ def join_url(base_url, href):
     return urljoin(base_url, href)
 
 
-# a=download_file('https://www.kering.com/en/news/2024-annual-results/')
+asyncio.run(download_file('https://www.kering.com/en/news/kering-and-les-rencontres-d-arles-to-present-the-2025-women-in-motion-award-for-photography-to-nan-goldin/'))
