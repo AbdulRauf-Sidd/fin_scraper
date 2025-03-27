@@ -44,6 +44,27 @@ def extract_entities_with_spacy(text):
     
     return dates, matched_keywords
 
+def clean_event_name(event_name):
+    """
+    Clean the event name by removing:
+    - Brackets and their content
+    - File extensions like .pdf, .docx, etc.
+    - Any other unwanted symbols or words.
+    """
+    # Remove content inside brackets (e.g., [Sustainability Report])
+    event_name = re.sub(r'\[.*?\]', '', event_name)
+    
+    # Remove file extensions (e.g., pdf, docx, xlsx, pptx, jpg, png, txt) regardless of case and with or without a dot
+    event_name = re.sub(r'\.?(pdf|docx|xlsx|pptx|jpg|png|txt)', '', event_name, flags=re.IGNORECASE)
+    
+    # Remove any other unwanted symbols (e.g., extra spaces, special characters)
+    event_name = re.sub(r'[^a-zA-Z0-9\s]', '', event_name)
+    
+    # Clean up extra spaces
+    event_name = ' '.join(event_name.split())
+    
+    return event_name
+
 def get_event_name_for_periodic_european_equities(*args):
     """
     Determines a standardized event name for European equities using NLP and regex matching.
@@ -154,6 +175,9 @@ def get_event_name_for_periodic_european_equities(*args):
                 final_event_name = raw_event_name
                 decision_reason = "No match found, returning raw event name for raw input."
 
+    # Clean the event name before returning
+    final_event_name = clean_event_name(final_event_name)
+
     # Build a log entry with separators and timestamp
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     log_entry = "\n" + "="*50 + "\n"
@@ -168,10 +192,10 @@ def get_event_name_for_periodic_european_equities(*args):
         log_entry += f"Base URL: {base_url}\n"
         log_entry += f"File URLs: {links}\n"
     log_entry += (f"Regex Matches -> FY: {match_fy.group(0) if match_fy else None}, "
-                  f"Half-Year: {match_half.group(0) if match_half else None}, "
-                  f"9M: {match_9m.group(0) if match_9m else None}, "
-                  f"3M: {match_3m.group(0) if match_3m else None}, "
-                  )
+                f"Half-Year: {match_half.group(0) if match_half else None}, "
+                f"9M: {match_9m.group(0) if match_9m else None}, "
+                f"3M: {match_3m.group(0) if match_3m else None}, "
+                )
     log_entry += f"Final Event Name: {final_event_name}\n"
     log_entry += f"Decision Reason: {decision_reason}\n"
     log_entry += "="*50 + "\n"
@@ -181,105 +205,11 @@ def get_event_name_for_periodic_european_equities(*args):
     with open(log_path, "a", encoding="utf-8") as log_file:
         log_file.write(log_entry)
 
-    # Terminal output shows only the final event name.
-    # print(final_event_name)
+    # Return the cleaned final event name
     return final_event_name
 
 # # ----- Test Example Use Calls -----
 
 # # Test Case 1: HTML input that should match "FY YYYY"
 # html_input1 = "<div><p>Company releases FY 2020 results</p><a href='https://example.com'>Link</a></div>"
-# get_event_name_for_periodic_european_equities(html_input1)
-
-# # Test Case 2: Raw event details input that matches half-year pattern "H1 YYYY"
-# raw_event_name2 = "Half-year performance H1 2021"
-# base_url2 = "https://chatgpt.com/sec-filings/"
-# file_urls2 = ["https://chatgpt.com/sec-filings/doc1.pdf", "https://chatgpt.com/sec-filings/doc2.pdf"]
-# get_event_name_for_periodic_european_equities(raw_event_name2, base_url2, file_urls2)
-
-# # Test Case 3: HTML input that does not match any pattern (returns name based on text)
-# html_input3 = "<div><p>Interim Report January - March 2024</p></div>"
-# get_event_name_for_periodic_european_equities(html_input3)
-
-# # Test Case 4: Raw event details with no matching pattern (returns raw event name)
-# raw_event_name4 = "Q3 Financial Report"
-# base_url4 = "https://chatgpt.com/sec-filings/"
-# file_urls4 = ["https://chatgpt.com/sec-filings/doc3.pdf"]
-# get_event_name_for_periodic_european_equities(raw_event_name4, base_url4, file_urls4)
-
-
-
-# # Test Case 5:
-# html_input1 = """<a target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2931: Y_2024_d.pdf&quot;,&quot;/en/publications/more/annual-report-2024-2931/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/931/file_en/953dcbb8e57270df70ca288218092dba4721fd63/Y_2024_e.pdf?1742480062" up-instant="false"><div class="document-tile--title">
-# Annual Report 2024
-# </div>
-# <div class="document-tile--description">
-# <time datetime="2025-03-11">03/11/2025</time>
-# <span> Publication</span>
-# <span>
-# The Annual Report contains the combined non-financial statement of Volkswagen AG and the Volkswagen Group in accordance with sections 315c in conjunction with 289c to 289e of the HGB (Sustainability Report).
-# </span>
-# </div>
-# </a>"""
-# get_event_name_for_periodic_european_equities(html_input1)
-
-# # Test Case 6:
-# html_input1 = """<div class="document-tile gallery--item -medium" infinite_nodes_uniq_on="2936">
-# <a class="document-tile--image" target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,&quot;/en/publications/more/consolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.pdf?1741669240" up-instant="false"><img alt="Consolidated Financial Statements of Volkswagen Aktiengesellschaft as at December 31, 2024" src="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/high_res_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240" srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/thumb_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/gallery_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/high_res_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 595w 842h" data-sizes="auto" data-srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/thumb_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/gallery_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/high_res_Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.jpg?1741669240 595w 842h" class="lazyautosizes lazyloaded" decoding="async" sizes="128px">
-# </a><div class="document-tile--text">
-# <a target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,&quot;/en/publications/more/consolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.pdf?1741669240" up-instant="false"><div class="document-tile--title">
-# Consolidated Financial Statements of Volkswagen Aktiengesellschaft as at December 31, 2024
-# </div>
-# <div class="document-tile--description">
-# <time datetime="2025-03-11">03/11/2025</time>
-# <span> Publication</span>
-# </div>
-# </a><div class="document-tile--buttons icon-button-group">
-# <a class="icon-button" type="button" title="Download" rel="download" track_event="[&quot;download&quot;,&quot;download-document-from-gallery&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,&quot;/en/publications/more/consolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/936/file_en/04eea36bbd9693d7cfa56e958909229c3ac9a573/Consolidated_Financial_Statements_of_Volkswagen_AG_as_of_December_31_2024.pdf?1741669240&amp;disposition=attachment" up-instant="false"><span class="icon -download"></span>
-# </a><button class="cart-button icon-button up-can-clean" type="button" cart-button="" data-type="generic_document" data-record="2936" title="Add to cart"><div class="icon -cart cart-button--icon"></div></button>
-# <button class="share-button icon-button -initialized" type="button" title="Share"><span class="share-button--icon icon -share"></span></button><div class="share-button--popover-content"><div class="share-popover-content"><a class="btn -white share-popover-content--button -x" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-twitter&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,null]" href="https://twitter.com/intent/post?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Fconsolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936&amp;text=Consolidated+Financial+Statements+of+Volkswagen+Aktiengesellschaft+as+at+December+31%2C+2024+%40volkswagen" up-instant="false"><div class="icon -x"></div></a><a class="btn -white share-popover-content--button -facebook" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-facebook&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,null]" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Fconsolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936" up-instant="false"><div class="icon -facebook"></div></a><a class="btn -white share-popover-content--button -linkedin" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-linkedin&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,null]" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Fconsolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936" up-instant="false"><div class="icon -linkedin"></div></a><a class="btn -white share-popover-content--button -native hidden" native-share="" up-data="{&quot;url&quot;:&quot;https://www.volkswagen-group.com/en/publications/more/consolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936&quot;,&quot;text&quot;:&quot;Consolidated Financial Statements of Volkswagen Aktiengesellschaft as at December 31, 2024&quot;}" track_event="[&quot;sharing&quot;,&quot;share-native&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,null]" href="" up-instant="false"><div class="icon -etc"></div></a><a class="btn -white share-popover-content--button -email" target="_blank" native-share="hide-if-enabled" track_event="[&quot;sharing&quot;,&quot;share-email&quot;,&quot;generic_document#2936: Konzernabschluss_Volkswagen_AG_zum_31_Dezember_2024.pdf&quot;,null]" href="mailto:?body=%0AConsolidated%20Financial%20Statements%20of%20Volkswagen%20Aktiengesellschaft%20as%20at%20December%2031%2C%202024%0Ahttps%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Fconsolidated-financial-statements-of-volkswagen-aktiengesellschaft-as-at-december-31-2024-2936%0A%0A" up-instant="false"><div class="icon -email"></div></a></div></div>
-# </div>
-# </div>
-# </div>"""
-# get_event_name_for_periodic_european_equities(html_input1)
-
-
-# # Test Case 6:
-# html_input1 = """<div class="document-tile gallery--item -medium" infinite_nodes_uniq_on="2703">
-# <a class="document-tile--image" target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-march-2024-2703/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/Q1_2024_e.pdf?1714450563" up-instant="false"><img alt="Interim Report January - March 2024" src="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/high_res_Q1_2024_e.jpg?1714450563" srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/thumb_Q1_2024_e.jpg?1714450563 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/gallery_Q1_2024_e.jpg?1714450563 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/high_res_Q1_2024_e.jpg?1714450563 595w 842h" data-sizes="auto" data-srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/thumb_Q1_2024_e.jpg?1714450563 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/gallery_Q1_2024_e.jpg?1714450563 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/high_res_Q1_2024_e.jpg?1714450563 595w 842h" class="lazyautosizes lazyloaded" decoding="async" sizes="128px">
-# </a><div class="document-tile--text">
-# <a target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-march-2024-2703/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/Q1_2024_e.pdf?1714450563" up-instant="false"><div class="document-tile--title">
-# Interim Report January - March 2024
-# </div>
-# <div class="document-tile--description">
-# <time datetime="2024-04-30">04/30/2024</time>
-# <span> Publication</span>
-# </div>
-# </a><div class="document-tile--buttons icon-button-group">
-# <a class="icon-button" type="button" title="Download" rel="download" track_event="[&quot;download&quot;,&quot;download-document-from-gallery&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-march-2024-2703/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/703/file_en/ecbf0e4b5bee68985671226b10f71c4e32d1a2da/Q1_2024_e.pdf?1714450563&amp;disposition=attachment" up-instant="false"><span class="icon -download"></span>
-# </a><button class="cart-button icon-button up-can-clean" type="button" cart-button="" data-type="generic_document" data-record="2703" title="Add to cart"><div class="icon -cart cart-button--icon"></div></button>
-# <button class="share-button icon-button -initialized" type="button" title="Share"><span class="share-button--icon icon -share"></span></button><div class="share-button--popover-content"><div class="share-popover-content"><a class="btn -white share-popover-content--button -x" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-twitter&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,null]" href="https://twitter.com/intent/post?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-march-2024-2703&amp;text=Interim+Report+January+-+March+2024+%40volkswagen" up-instant="false"><div class="icon -x"></div></a><a class="btn -white share-popover-content--button -facebook" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-facebook&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,null]" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-march-2024-2703" up-instant="false"><div class="icon -facebook"></div></a><a class="btn -white share-popover-content--button -linkedin" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-linkedin&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,null]" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-march-2024-2703" up-instant="false"><div class="icon -linkedin"></div></a><a class="btn -white share-popover-content--button -native hidden" native-share="" up-data="{&quot;url&quot;:&quot;https://www.volkswagen-group.com/en/publications/more/interim-report-january-march-2024-2703&quot;,&quot;text&quot;:&quot;Interim Report January - March 2024&quot;}" track_event="[&quot;sharing&quot;,&quot;share-native&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,null]" href="" up-instant="false"><div class="icon -etc"></div></a><a class="btn -white share-popover-content--button -email" target="_blank" native-share="hide-if-enabled" track_event="[&quot;sharing&quot;,&quot;share-email&quot;,&quot;generic_document#2703: Q1_2024_d.pdf&quot;,null]" href="mailto:?body=%0AInterim%20Report%20January%20-%20March%202024%0Ahttps%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-march-2024-2703%0A%0A" up-instant="false"><div class="icon -email"></div></a></div></div>
-# </div>
-# </div>
-# </div>"""
-# get_event_name_for_periodic_european_equities(html_input1)
-
-# # Test Case 6:
-# html_input1 = """<div class="document-tile gallery--item -medium" infinite_nodes_uniq_on="2809">
-# <a class="document-tile--image" target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-september-2024-2809/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/Q3_2024_e.pdf?1730264423" up-instant="false"><img alt="Interim Report January - September 2024" src="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/high_res_Q3_2024_e.jpg?1730264423" srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/thumb_Q3_2024_e.jpg?1730264423 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/gallery_Q3_2024_e.jpg?1730264423 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/high_res_Q3_2024_e.jpg?1730264423 595w 842h" data-sizes="auto" data-srcset="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/thumb_Q3_2024_e.jpg?1730264423 120w 170h, https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/gallery_Q3_2024_e.jpg?1730264423 480w 679h, https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/high_res_Q3_2024_e.jpg?1730264423 595w 842h" class="lazyautosizes lazyloaded" decoding="async" sizes="128px">
-# </a><div class="document-tile--text">
-# <a target="_blank" aria-label="Open" rel="download" track_event="[&quot;download&quot;,&quot;download-document-inline-from-gallery&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-september-2024-2809/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/Q3_2024_e.pdf?1730264423" up-instant="false"><div class="document-tile--title">
-# Interim Report January - September 2024
-# </div>
-# <div class="document-tile--description">
-# <time datetime="2024-10-30">10/30/2024</time>
-# <span> Publication</span>
-# </div>
-# </a><div class="document-tile--buttons icon-button-group">
-# <a class="icon-button" type="button" title="Download" rel="download" track_event="[&quot;download&quot;,&quot;download-document-from-gallery&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,&quot;/en/publications/more/interim-report-january-september-2024-2809/capture_download&quot;]" href="https://uploads.vw-mms.de/system/production/documents/cws/002/809/file_en/216fb8a428be701afca8fe476100b2038599ae05/Q3_2024_e.pdf?1730264423&amp;disposition=attachment" up-instant="false"><span class="icon -download"></span>
-# </a><button class="cart-button icon-button up-can-clean" type="button" cart-button="" data-type="generic_document" data-record="2809" title="Add to cart"><div class="icon -cart cart-button--icon"></div></button>
-# <button class="share-button icon-button -initialized" type="button" title="Share"><span class="share-button--icon icon -share"></span></button><div class="share-button--popover-content"><div class="share-popover-content"><a class="btn -white share-popover-content--button -x" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-twitter&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,null]" href="https://twitter.com/intent/post?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-september-2024-2809&amp;text=Interim+Report+January+-+September+2024+%40volkswagen" up-instant="false"><div class="icon -x"></div></a><a class="btn -white share-popover-content--button -facebook" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-facebook&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,null]" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-september-2024-2809" up-instant="false"><div class="icon -facebook"></div></a><a class="btn -white share-popover-content--button -linkedin" social-popup="true" track_event="[&quot;sharing&quot;,&quot;share-linkedin&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,null]" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-september-2024-2809" up-instant="false"><div class="icon -linkedin"></div></a><a class="btn -white share-popover-content--button -native hidden" native-share="" up-data="{&quot;url&quot;:&quot;https://www.volkswagen-group.com/en/publications/more/interim-report-january-september-2024-2809&quot;,&quot;text&quot;:&quot;Interim Report January - September 2024&quot;}" track_event="[&quot;sharing&quot;,&quot;share-native&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,null]" href="" up-instant="false"><div class="icon -etc"></div></a><a class="btn -white share-popover-content--button -email" target="_blank" native-share="hide-if-enabled" track_event="[&quot;sharing&quot;,&quot;share-email&quot;,&quot;generic_document#2809: Q3_2024_d.pdf&quot;,null]" href="mailto:?body=%0AInterim%20Report%20January%20-%20September%202024%0Ahttps%3A%2F%2Fwww.volkswagen-group.com%2Fen%2Fpublications%2Fmore%2Finterim-report-january-september-2024-2809%0A%0A" up-instant="false"><div class="icon -email"></div></a></div></div>
-# </div>
-# </div>
-# </div>"""
 # get_event_name_for_periodic_european_equities(html_input1)

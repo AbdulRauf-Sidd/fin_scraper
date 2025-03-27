@@ -24,7 +24,7 @@ PVH_press:      # Completed
   output_json: JSONS/PVH_press2.json
   base_address: https://www.pvh.com/
   forced_type: "press-releases"
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "press-release"
   headless: false
