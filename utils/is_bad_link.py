@@ -2,6 +2,7 @@ import requests
 import logging
 import spacy
 
+from spacy_model import nlp
 # ---------------------------------------------------------
 # Set up logging: detailed logs written to bad_link_check.logs
 # ---------------------------------------------------------
@@ -26,7 +27,7 @@ logger.addHandler(file_handler)
 # We try to load a model with word vectors (en_core_web_md) for better similarity scores.
 # ---------------------------------------------------------
 try:
-    nlp = spacy.load("en_core_web_md")
+    # nlp = spacy.load("en_core_web_md")
     logger.info("Loaded spaCy model 'en_core_web_md'.")
     logger.info("\n")  # This will insert a blank line in the log
 
@@ -203,5 +204,5 @@ def sync_is_bad_link(link):
     return asyncio.run(is_bad_link(link))
 
 # Then use it like this
-result = sync_is_bad_link(link)
-print(result)
+# result = sync_is_bad_link(link)
+# print(result)

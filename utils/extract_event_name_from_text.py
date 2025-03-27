@@ -1,8 +1,9 @@
 import spacy
 from bs4 import BeautifulSoup
+from spacy_model import nlp
 
 # Load the pre-trained SpaCy NLP model
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 
 def refine_event_name(raw_name):
     """
@@ -81,15 +82,15 @@ def extract_event_name_from_text(text):
     return None
 
 # Test examples
-test_inputs = [
-    '<li class="list_item"><!----><div class="listcontent"><h3> Goldman Sachs Global Retailing Conference </h3><!----><p class="listdescription listwebcast_link"><a href="javascript:void(window.open(https://event.webcasts.com/starthere.jsp?ei=1685908&amp;tp_key=b9e65c5ffc&amp;tp_special=8,Window1,menubar=no,statusbar=no, width=800,height=600,toolbar=no,scrollbars=yes));">View Webcast</a></p><p class="list_date"> Sep 05, 2024 10:20am EDT / 7:20am PDT </p></div></li>',
-    '<div><p> Join us for the Amazing Online Event on Sep 15, 2024. View details and stream live! </p></div>',
-    'Webcast for the Tech Expo 2024 on September 23.',
-    '<p> The Goldman Sachs Global Retailing Conference event will be held on October 5, 2024. Join us! </p>'
-]
+# test_inputs = [
+#     '<li class="list_item"><!----><div class="listcontent"><h3> Goldman Sachs Global Retailing Conference </h3><!----><p class="listdescription listwebcast_link"><a href="javascript:void(window.open(https://event.webcasts.com/starthere.jsp?ei=1685908&amp;tp_key=b9e65c5ffc&amp;tp_special=8,Window1,menubar=no,statusbar=no, width=800,height=600,toolbar=no,scrollbars=yes));">View Webcast</a></p><p class="list_date"> Sep 05, 2024 10:20am EDT / 7:20am PDT </p></div></li>',
+#     '<div><p> Join us for the Amazing Online Event on Sep 15, 2024. View details and stream live! </p></div>',
+#     'Webcast for the Tech Expo 2024 on September 23.',
+#     '<p> The Goldman Sachs Global Retailing Conference event will be held on October 5, 2024. Join us! </p>'
+# ]
 
-event_name = extract_event_name_from_text(test_inputs)
-if event_name:
-    print(f"Extracted Event Name: {event_name}")
-else:
-    print("No event name found")
+# event_name = extract_event_name_from_text(test_inputs)
+# if event_name:
+#     print(f"Extracted Event Name: {event_name}")
+# else:
+#     print("No event name found")

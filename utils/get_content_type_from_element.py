@@ -4,6 +4,7 @@ import math
 import spacy
 from bs4 import BeautifulSoup
 from typing import List, Dict, Set
+from spacy_model import nlp
 
 #######################
 ## LOGGING SETUP     ##
@@ -23,16 +24,16 @@ logger = logging.getLogger(__name__)
 ## SPAcy + Embeddings ##
 #######################
 
-def load_spacy_model(model_name: str = "en_core_web_md"):
-    """
-    Loads spaCy model for vector similarity.
-    """
-    logger.info(f"Loading spaCy model: {model_name}")
-    nlp_loaded = spacy.load(model_name)
-    logger.info("spaCy model loaded successfully.")
-    return nlp_loaded
+# def load_spacy_model(model_name: str = "en_core_web_md"):
+#     """
+#     Loads spaCy model for vector similarity.
+#     """
+#     logger.info(f"Loading spaCy model: {model_name}")
+#     nlp_loaded = spacy.load(model_name)
+#     logger.info("spaCy model loaded successfully.")
+#     return nlp_loaded
 
-nlp = load_spacy_model()
+# nlp = load_spacy_model()
 
 def _cosine_similarity(vec_a, vec_b):
     dot = 0.0

@@ -5,8 +5,10 @@ from datetime import datetime
 from typing import Optional
 from bs4 import BeautifulSoup
 
+from spacy_model import nlp
+
 # Load SpaCy model (ensure you have "en_core_web_sm" or similar installed)
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 
 # Configure logging to write to a file
 LOG_FILE = "get_date_from_element.log"
@@ -356,4 +358,4 @@ def _text_has_month(text: str) -> bool:
 #     extracted_date = get_date_from_element(x)
 #     print(f"Extracted Event Date: {extracted_date}")
 
-print(get_date_from_element('''<div class="list__content" bis_skin_checked="1"><h3><a href="/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results">PVH Corp. to Host Conference Call to Discuss Fourth Quarter and Year-End 2024 Earnings Results</a></h3><p class="list__description">NEW YORK --(BUSINESS WIRE)--Mar. 17, 2025-- PVH Corp. (NYSE: PVH) today announced that it will release its fourth quarter and year-end 2024 earnings results on Monday, March 31, 2025 , after the market closes. PVH will sponsor a conference call on Tuesday, April 1, 2025 , beginning at 9:00 A.M.</p><!----><p class="list__date">Mar 17, 2025</p></div>'''))
+# print(get_date_from_element('''<div class="list__content" bis_skin_checked="1"><h3><a href="/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results">PVH Corp. to Host Conference Call to Discuss Fourth Quarter and Year-End 2024 Earnings Results</a></h3><p class="list__description">NEW YORK --(BUSINESS WIRE)--Mar. 17, 2025-- PVH Corp. (NYSE: PVH) today announced that it will release its fourth quarter and year-end 2024 earnings results on Monday, March 31, 2025 , after the market closes. PVH will sponsor a conference call on Tuesday, April 1, 2025 , beginning at 9:00 A.M.</p><!----><p class="list__date">Mar 17, 2025</p></div>'''))

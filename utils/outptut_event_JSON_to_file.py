@@ -260,20 +260,20 @@ async def output_event_JSON_to_file(
 
 # Example usage/call, in the same file
 
-if __name__ == "__main__":
-    # Hard-coded example usage
-    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
-    output_file = "output_results.json"   # We'll write the results here
+# if __name__ == "__main__":
+#     # Hard-coded example usage
+#     input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
+#     output_file = "output_results.json"   # We'll write the results here
 
-    # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
-    ticker = "COOL"
-    geo = "US"
-    period = "periodic_event"
+#     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
+#     ticker = "COOL"
+#     geo = "US"
+#     period = "periodic_event"
 
-    output_event_JSON_to_file(
-        input_json_file=input_file,
-        output_json_file=output_file,
-        equity_ticker=ticker,
-        geography=geo,
-        periodicity=period
-    )
+#     output_event_JSON_to_file(
+#         input_json_file=input_file,
+#         output_json_file=output_file,
+#         equity_ticker=ticker,
+#         geography=geo,
+#         periodicity=period
+#     )

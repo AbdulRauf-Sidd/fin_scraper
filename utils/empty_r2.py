@@ -38,5 +38,5 @@ def empty_r2_bucket():
     except Exception as e:
         print(f"Error emptying bucket: {str(e)}")
 
-if __name__ == "__main__":
-    empty_r2_bucket()
+# if __name__ == "__main__":
+#     empty_r2_bucket()
