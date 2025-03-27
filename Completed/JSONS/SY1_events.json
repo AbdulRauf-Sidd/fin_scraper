@@ -1,0 +1,310 @@
+[
+  {
+    "event_name": "Financial October 28 2025 Interim Group Report Ja",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20251028T073000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-10-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-10-28/symrise_event_20251028T073000.ics/symrise_event_20251028T073000.ics",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial July 30 2025 Interim Group Report Janua",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250730T073000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-07-30",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-07-30/symrise_event_20250730T073000.ics/symrise_event_20250730T073000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial June 4, 2025 CEO Conference (BNP Paribas Exane), Paris ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250604T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-06-04",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-06-04/symrise_event_20250604T100000.ics/symrise_event_20250604T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial June 3, 2025 Global Consumer Conference (Deutsche Bank), Paris ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250603T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-06-03",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-06-03/symrise_event_20250603T100000.ics/symrise_event_20250603T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial May 28, 2025 European Chpions Conference (Deutsche Bank), Frankfurt ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250528T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-05-28/symrise_event_20250528T100000.ics/symrise_event_20250528T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial May 23, 2025 Ingredients Field Trip (Jefferies), Grasse ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250523T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-05-23",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-05-23/symrise_event_20250523T100000.ics/symrise_event_20250523T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial May 20 2025 Annual General Meeting 2025",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250520T110000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-05-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-05-20/symrise_event_20250520T110000.ics/symrise_event_20250520T110000.ics",
+        "content_type": [
+          "financial-filing",
+          "annual-general-meeting"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial April 29 2025 Quarterly Statement Janua",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250429T073000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-04-29",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-04-29/symrise_event_20250429T073000.ics/symrise_event_20250429T073000.ics",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial March 27, 2025 Corporate and Financial Report 2024",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "2024",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/2024/2024.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "symrise_event_20250327T073000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/symrise_event_20250327T073000.ics/symrise_event_20250327T073000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial March 12, 2025 Roadshow, Dublin (Stifel) ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250312T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-03-12",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-12/symrise_event_20250312T100000.ics/symrise_event_20250312T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial March 11, 2025 Consumer Ingredients Forum (J.P. Morgan), London ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250311T140000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-03-11",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-11/symrise_event_20250311T140000.ics/symrise_event_20250311T140000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial March 11, 2025 Consumer Ingredients Conference (BNP Paribas Exane), London ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250311T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-03-11",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-11/symrise_event_20250311T100000.ics/symrise_event_20250311T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial February 18, 2025 Fireside Chat (Barclays), virtual ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250218T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-02-18",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-02-18/symrise_event_20250218T100000.ics/symrise_event_20250218T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial February 5-6, 2025 Roadshow, London (BofA) ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250205T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/symrise_event_20250205T100000.ics/symrise_event_20250205T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Financial February 4, 2025 Roadshow, Frankfurt (Kepler Cheuvreux) ICS",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "symrise_event_20250204T100000.ics",
+        "file_type": "calendar",
+        "published_date": "2025-02-04",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-02-04/symrise_event_20250204T100000.ics/symrise_event_20250204T100000.ics",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2025",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "financial-results",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/financial-results/financial-results.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "symrise_event_20250130T073000.ics",
+        "file_type": "calendar",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/symrise_event_20250130T073000.ics/symrise_event_20250130T073000.ics",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "press-release"
+        ]
+      }
+    ]
+  }
+]
