@@ -418,16 +418,16 @@ SY1_finance:     #TODO
   base_address: https://www.symrise.com/
   periodic: true
   geography: "european"
-  forced_type: null
+  forced_type: 'financial-filing'
   direct: true
   headless: false
   selectors:
     event_block: div.t-row
   pagination:
-    type: null
-    next_button: null
-#      archive: .archive-toggler
-#      timeout: 5
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
+    archive: .archive-toggler
+    timeout: 5
 
 SY1_events:     # COMPLETED
   ticker: SY1
