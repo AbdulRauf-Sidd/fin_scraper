@@ -416,17 +416,17 @@ SY1_finance:     #TODO
   output: data/SY1_finance.json
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
-  periodic: true
+  periodic: null
   geography: "european"
   forced_type: 'financial-filing'
   direct: true
   headless: false
   selectors:
-    event_block: div.t-row
+    event_block: div.t-table
   pagination:
     type: year_tabs
     next_button: .tab-titles:not(.panel-inverted) a
-    archive: .archive-toggler
+    archive: dhsjdhsjdh
     timeout: 5
 
 SY1_events:     # COMPLETED
