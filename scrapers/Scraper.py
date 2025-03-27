@@ -28,7 +28,7 @@ class Scraper:
         self.geography = self.config['geography']
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
-        self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
+        self.periodicity = "periodic" if self.config['periodic'] == True else "non-periodic"
         self.headless = self.config['headless']
         self.forced_type = self.config['forced_type']
         self.direct = self.config['direct']

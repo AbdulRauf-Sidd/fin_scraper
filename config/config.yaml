@@ -47,7 +47,7 @@ PVH_reports:      # Completed
   output_json: JSONS/PVH_reports.json
   forced_type: null
   base_address: https://www.pvh.com/
-  periodic: false
+  periodic: true
   headless: false
   direct: true
   geography: "US"
