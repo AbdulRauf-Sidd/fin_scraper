@@ -88,14 +88,16 @@ def get_event_name_for_periodic_us_equities(*args):
     pattern_quarterly = r'(Q[1-4])\s*(\d{4})'
     pattern_full_year = r'(Full\s*Year|Yearly|FY|Annual|Yearly|Year\s*End|Fiscal\s*Year|Fiscal\s*Yr|FY)\s*(\d{4})'
     pattern_year_first = r'(\d{4})\s*(Full\s*Year|Yearly|FY|Annual|Year\s*End|Fiscal\s*Year|Fiscal\s*Yr|FY)'
-    pattern_q1 = r'(First\s*Quarter|First-Quarter|Firstquarter|Q1).*?(\d{4})'
-    pattern_reverse_q1 = r'(\d{4}).*?(First\s*Quarter|First-Quarter|Firstquarter|Q1)'
-    pattern_q2 = r'(Second\s*Quarter|Second-Quarter|Secondquarter|Q2).*?(\d{4})' 
-    pattern_reverse_q2 = r'(\d{4}).*?(Second\s*Quarter|Second-Quarter|Secondquarter|Q2)'
-    pattern_q3 = r'(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3).*?(\d{4})'
-    pattern_reverse_q3 = r'(\d{4}).*?(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3)'
-    pattern_q4 = r'(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4th\s*Quarter).*?(\d{4})'
-    pattern_reverse_q4 = r'(\d{4}).*?(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4th\s*Quarter)'
+    pattern_q1 = r'(First\s*Quarter|First-Quarter|Firstquarter|Q1|1Q).*?(\d{4})'
+    pattern_reverse_q1 = r'(\d{4}).*?(First\s*Quarter|First-Quarter|Firstquarter|Q1|1Q)'
+    pattern_q2 = r'(Second\s*Quarter|Second-Quarter|Secondquarter|Q2|2Q).*?(\d{4})' 
+    pattern_reverse_q2 = r'(\d{4}).*?(Second\s*Quarter|Second-Quarter|Secondquarter|Q2|2Q)'
+    pattern_q3 = r'(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3|3Q).*?(\d{4})'
+    pattern_reverse_q3 = r'(\d{4}).*?(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3|3Q)'
+    pattern_q4 = r'(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4Q|4th\s*Quarter).*?(\d{4})'
+    pattern_reverse_q4 = r'(\d{4}).*?(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4Q|4th\s*Quarter)'
+
+    full_year = r'(\d{4}).*?(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4Q|4th\s*Quarter)'
 
 
     

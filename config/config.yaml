@@ -70,9 +70,10 @@ PVH_resources:    # COMPLETED
   periodic: null
   geography: "US"
   headless: false
-  direct: true
+  direct: false
   selectors:
-    event_block: .layout__wrap.story-well.ready, .container.layout
+    # event_block: .layout__wrap.story-well.ready, .container.layout
+    event_block: div.swiper-slide
   pagination:
     type: null
     next_button: null
