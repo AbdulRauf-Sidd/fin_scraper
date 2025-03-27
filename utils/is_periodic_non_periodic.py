@@ -1,10 +1,9 @@
 import re
 import logging
-from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 
 # Setting up the logger
-logging.basicConfig(filename="scraping.log", level=logging.DEBUG, format='%(asctime)s - %(message)s')
+logging.basicConfig(filename="logs/is_periodic_non_periodic.log", level=logging.DEBUG, format='%(asctime)s - %(message)s')
 logger = logging.getLogger()
 
 # Exhaustive periodic patterns for matching
@@ -45,10 +44,15 @@ def is_periodic_non_periodic(html_element):
     soup = BeautifulSoup(html_element, 'html.parser')
     text_content = soup.get_text(strip=True).lower()  # Extract text and make lowercase for easy matching
     
+    # Clean the text content to handle extra spaces, hidden characters, etc.
+    text_content = re.sub(r'\s+', ' ', text_content)  # Replace multiple spaces with a single space
+
     # Check the URL (href) if present in the element
     url = soup.find('a', href=True)
     if url and url['href']:
-        text_content += " " + url['href'].lower()
+        url_content = url['href'].lower()
+        url_content = re.sub(r'\s+', ' ', url_content)  # Clean the URL content as well
+        text_content += " " + url_content
 
     logger.info(f"Classifying event: {text_content[:100]}...")  # Log the beginning of the event name or content for clarity
 
@@ -70,9 +74,9 @@ def is_periodic_non_periodic(html_element):
 
 # # Example calls to the function
 # html_element_example_1 = """<div class="result-line"><p>Quarterly Earnings Report Q4 2024</p></div>"""
-# event_type_1 = classify_event(html_element_example_1)
+# event_type_1 = is_periodic_non_periodic(html_element_example_1)
 # logger.info(f"Final Classification: {event_type_1}")
 
 # html_element_example_2 = """<div class="result-line"><p>March 27, 2025 Financial Year 2024 Downloads Press Release Corporate Report 2024</p></div>"""
-# event_type_2 = classify_event(html_element_example_2)
+# event_type_2 = is_periodic_non_periodic(html_element_example_2)
 # logger.info(f"Final Classification: {event_type_2}")
