@@ -4,7 +4,7 @@ PVH_news:     # completed
   output: data/PVH_news.json
   output_json: JSONS/PVH_news.json
   base_address: https://www.pvh.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "news"
   headless: true
@@ -179,6 +179,27 @@ CRDA_presentations:
     next_button: null
     archive: null
     timeout: null
+
+    
+CRDA_financial:     #COMPLETED
+  ticker: CRDA
+  url: https://www.volkswagen-group.com/en/financial-news-17302
+  output: data/CRDA_financial.json
+  output_json: JSONS/CRDA_financial.json
+  base_address: https://www.croda.com/en-gb/
+  periodic: null
+  geography: "European"
+  forced_type: "financial_filing"
+  headless: false
+  direct: true
+  selectors:
+    event_block: a.vertical-page-list-item.-medium.up-can-clean
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
 
 CBP_events:         # Pagination not being handled correctly
   ticker: CBP
