@@ -1,0 +1,97 @@
+[
+  {
+    "event_name": "2024 Investor Presentation 24 Jan 2025 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "giv-2024-fyr-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GIVN/2024-03-27/giv-2024-fyr-presentation.pdf/giv-2024-fyr-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2024 Half Year Results Presentation 23 Jul 2024",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2024_HY_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-07-23",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GIVN/2024-07-23/GIV_2024_HY_Presentation.pdf/GIV_2024_HY_Presentation.pdf",
+        "content_type": [
+          "presentation",
+          "half-year-results",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2023 Investor Presentation 25 Jan 2024 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2023_FYR_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GIVN/2023-03-27/GIV_2023_FYR_Presentation.pdf/GIV_2023_FYR_Presentation.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2023 Half Year Results Presentation 20 Jul 2023",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2023_HY_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GIVN/2023-07-20/GIV_2023_HY_Presentation.pdf/GIV_2023_HY_Presentation.pdf",
+        "content_type": [
+          "presentation",
+          "half-year-results",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "2022 Investor Presentation 25 Jan 2023 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2022_FYRPresentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GIVN/2022-03-27/GIV_2022_FYRPresentation.pdf/GIV_2022_FYRPresentation.pdf",
+        "content_type": [
+          "presentation",
+          "news",
+          "full-year-results"
+        ]
+      }
+    ]
+  }
+]
