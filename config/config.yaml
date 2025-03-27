@@ -382,7 +382,7 @@ GIVN_publication:
     timeout: null
 
 #checkkkkk
-GIVN_media:        
+GIVN_media:        #COMPLETED
   ticker: GIVN
   url: https://www.givaudan.com/media/corporate-publications?keyword=&im_givaudan_publication_year=All&im_givaudan_category=16776&tm_vid_1_names=All
   output: data/GIVN_media.json
@@ -465,7 +465,7 @@ IFF_stories:
     timeout: 5
 
 
-KO_company-updates:     # scrapped 4 blocks instead of 6
+KO_company-updates:     #
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
@@ -483,7 +483,7 @@ KO_company-updates:     # scrapped 4 blocks instead of 6
     type: null
     next_button: null
 
-KO_poclicies-practices-reports:     # all events not scrapped
+KO_poclicies-practices-reports:     # 
   ticker: KO
   url: https://www.coca-colacompany.com/policies-and-practices/
   output: data/KO_poclicies-practices-reports.json
@@ -500,7 +500,7 @@ KO_poclicies-practices-reports:     # all events not scrapped
     type: null
     next_button: null
 
-KO_press:     # COMPLETED
+KO_press:     # 
   ticker: KO
   url: https://investors.coca-colacompany.com/news-events/press-releases
   output: data/KO_press.json
@@ -519,32 +519,13 @@ KO_press:     # COMPLETED
 #     archive: .archive-toggler
 #     timeout: 5
 
-#checkkkkkk
-KO_financial:   
-  ticker: KO
-  scraper: null
-  url: https://investors.coca-colacompany.com/financial-information/financial-results
-  output: data/KO_financial.json
-  output_json: JSONS/KO_financial.json
-  base_address: https://investors.coca-colacompany.com/
-  periodic: true
-  geography: "US"
-  forceed_type: "financial"
-  headless: false
-  direct: true
-  selectors:
-    event_block: div.text
-  pagination:
-    type: null
-    next_button: null
-
-RL_newsroom:      # COMPLETED
+RL_newsroom:      # 
   ticker: RL
   url: https://corporate.ralphlauren.com/newsroom
   output: data/RL_newsroom.json
   output_json: JSONS/RL_newsroom.json
   base_address: https://corporate.ralphlauren.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "news"
   headless: false
@@ -554,8 +535,8 @@ RL_newsroom:      # COMPLETED
   pagination:
     type: load_more
     next_button: div.corp-secondary-button a
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 #checkkkkkk
 RL_news:     
@@ -564,18 +545,18 @@ RL_news:
   output: data/RL_news.json
   output_json: JSONS/RL_news.json
   base_address: https://corporate.ralphlauren.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "news"
   headless: false
   direct: false
   selectors:
-    event_block: tbody tr
+    event_block: tbody.nirtable tr
   pagination:
     type: null
     next_button: null
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 
 #checkkkkkk
@@ -585,9 +566,9 @@ RL_earnings:
   output: data/RL_earnings.json
   output_json: JSONS/RL_earnings.json
   base_address: https://corporate.ralphlauren.com/
-  periodic: false
+  periodic: null
   geography: "US"
-  forced_type: "news"
+  forced_type: null
   headless: false
   direct: false
   selectors:
@@ -595,8 +576,8 @@ RL_earnings:
   pagination:
     type: null
     next_button: null
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 #checkkkkkk
 RL_presentations:     
@@ -605,9 +586,9 @@ RL_presentations:
   output: data/RL_presentations.json
   output_json: JSONS/RL_presentations.json
   base_address: https://corporate.ralphlauren.com/
-  periodic: false
+  periodic: null
   geography: "US"
-  forced_type: "presentations"
+  forced_type: "presentation"
   headless: false
   direct: false
   selectors:
@@ -615,8 +596,8 @@ RL_presentations:
   pagination:
     type: null
     next_button: null
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 
 
@@ -660,13 +641,13 @@ SY1_events:     # COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-SY1_news:         #COMPLETED
+SY1_news:         #
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
   output_json: JSONS/SY1_news.json
   base_address: https://www.symrise.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false
@@ -686,9 +667,9 @@ SY1_financial:
   output: data/SY1_financial.json
   output_json: JSONS/SY1_financial.json
   base_address: https://www.symrise.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "financial"
+  forced_type: null
   headless: false
   direct: false
   selectors:
@@ -700,14 +681,14 @@ SY1_financial:
     timeout: 5
 
 
-WDAY_events:    #COMPLETED
+WDAY_events:    #
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
   output: data/WDAY_events.json
   output_json: JSONS/WDAY_events.json
   base_address: https://investor.workday.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: null
   headless: false
@@ -717,6 +698,9 @@ WDAY_events:    #COMPLETED
   pagination:
     type: load_more
     next_button: button.wd_events_more
+    archive: null
+    timeout: null
+    # ---------------------
 
 WDAY_press: #COMPLETED
   ticker: WDAY
