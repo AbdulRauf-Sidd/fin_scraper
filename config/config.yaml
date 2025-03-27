@@ -178,7 +178,8 @@ CRDA_presentations:
     archive: null
     timeout: null
 
-    
+
+#checkkkkk   
 CRDA_news:     #COMPLETED
   ticker: CRDA
   url: https://www.croda.com/en-gb/media-hub/news?categories=all&sortby=0&pagesize=100&page=2&market=all
@@ -239,7 +240,7 @@ CBP_news:       # Pagination not handled correctly
     archive: null
     timeout: null
 
-
+#checkkkkk
 CBP_newsroom:       # Pagination not handled correctly
   ticker: CBP
   url: https://www.thecampbellscompany.com/newsroom/
@@ -259,6 +260,7 @@ CBP_newsroom:       # Pagination not handled correctly
     archive: null
     timeout: null
 
+#checkkkkk
 CBP_financial:       # Pagination not handled correctly
   ticker: CBP
   url: https://investor.thecampbellscompany.com/financials/quarterly-results
@@ -359,7 +361,7 @@ GIVN_news:
     archive: null
     timeout: null
 
-
+#checkkkkk
 GIVN_media_releases:        
   ticker: GIVN
   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=16601
@@ -372,12 +374,54 @@ GIVN_media_releases:
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row show
+    event_block: div.views-row.show
   pagination:
     type: load_more
     next_button: div.load-more-news 
     archive: null
     timeout: null
+
+#checkkkkk
+GIVN_publication:        
+  ticker: GIVN
+  url: https://www.givaudan.com/media/media-releases?keyword=Investors&im_givaudan_publication_year=All&ss_language=
+  output: data/GIVN_publication.json
+  output_json: JSONS/GIVN_publication.json
+  base_address: https://www.givaudan.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.views-row.show
+  pagination:
+    type: load_more
+    next_button: div.load-more-news 
+    archive: null
+    timeout: null
+
+#checkkkkk
+GIVN_media:        
+  ticker: GIVN
+  url: https://www.givaudan.com/media/corporate-publications?keyword=&im_givaudan_publication_year=All&im_givaudan_category=16776&tm_vid_1_names=All
+  output: data/GIVN_media.json
+  output_json: JSONS/GIVN_media.json
+  base_address: https://www.givaudan.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.views-row.show
+  pagination:
+    type: load_more
+    next_button: div.load-more-news 
+    archive: null
+    timeout: null
+
+
 
 IFF_presentations:    # COMPLETED
   ticker: IFF
@@ -412,12 +456,34 @@ IFF_press:      # pagination not being handled correctly
   headless: false
   direct: true
   selectors:
-    event_block: .nir-widget--list article
+    event_block: article.nir-widget--list.article
   pagination:
     type: next_page_url
     next_button: ul.pager__items.js-pager__items li.pager__item.pager__item--next a
     archive: .archive-toggler
     timeout: 5
+
+#checkkkkk
+IFF_stories:      
+  ticker: IFF
+  scraper: null
+  url: https://www.iff.com/media/stories/
+  output: data/IFF_stories.json
+  output_json: JSONS/IFF_stories.json
+  base_address: https://ir.iff.com/
+  periodic: false
+  geography: "US"
+  forced_type: "press"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.c-block
+  pagination:
+    type: next_page_url
+    next_button: div.pagination
+    archive: .archive-toggler
+    timeout: 5
+
 
 KO_company-updates:     # scrapped 4 blocks instead of 6
   ticker: KO
@@ -432,7 +498,7 @@ KO_company-updates:     # scrapped 4 blocks instead of 6
   headless: false
   direct: true
   selectors:
-    event_block: .ir-cta-event-with-documents
+    event_block: div.ir-cta-event-with-documents
   pagination:
     type: null
     next_button: null
@@ -473,6 +539,25 @@ KO_press:     # COMPLETED
 #     archive: .archive-toggler
 #     timeout: 5
 
+#checkkkkkk
+KO_financial:   
+  ticker: KO
+  scraper: null
+  url: https://investors.coca-colacompany.com/financial-information/financial-results
+  output: data/KO_financial.json
+  output_json: JSONS/KO_financial.json
+  base_address: https://investors.coca-colacompany.com/
+  periodic: true
+  geography: "US"
+  forceed_type: "financial"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.text
+  pagination:
+    type: null
+    next_button: null
+
 RL_newsroom:      # COMPLETED
   ticker: RL
   url: https://corporate.ralphlauren.com/newsroom
@@ -485,12 +570,75 @@ RL_newsroom:      # COMPLETED
   headless: false
   direct: false
   selectors:
-    event_block: .newsroom-content .corp-news
+    event_block: .newsroom-content .wcorp-news
   pagination:
     type: load_more
     next_button: div.corp-secondary-button a
 #     archive: .archive-toggler
 #     timeout: 5
+
+#checkkkkkk
+RL_news:     
+  ticker: RL
+  url: https://investor.ralphlauren.com/news-releases
+  output: data/RL_news.json
+  output_json: JSONS/RL_news.json
+  base_address: https://corporate.ralphlauren.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null
+    next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
+
+
+#checkkkkkk
+RL_earnings:     
+  ticker: RL
+  url: https://investor.ralphlauren.com/earnings-releases
+  output: data/RL_earnings.json
+  output_json: JSONS/RL_earnings.json
+  base_address: https://corporate.ralphlauren.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null
+    next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
+
+#checkkkkkk
+RL_presentations:     
+  ticker: RL
+  url: https://investor.ralphlauren.com/events-and-presentations
+  output: data/RL_presentations.json
+  output_json: JSONS/RL_presentations.json
+  base_address: https://corporate.ralphlauren.com/
+  periodic: false
+  geography: "US"
+  forced_type: "presentations"
+  headless: false
+  direct: false
+  selectors:
+    event_block: tbody tr
+  pagination:
+    type: null
+    next_button: null
+#     archive: .archive-toggler
+#     timeout: 5
+
+
 
 SY1_finance:     #TODO
   ticker: SY1
@@ -551,6 +699,27 @@ SY1_news:         #COMPLETED
     archive: .archive-toggler
     timeout: 5
 
+#checkkkk
+SY1_financial:        
+  ticker: SY1
+  url: https://www.symrise.com/investors/financial-calendar-and-presentations/
+  output: data/SY1_financial.json
+  output_json: JSONS/SY1_financial.json
+  base_address: https://www.symrise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "financial"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.t-table
+  pagination:
+    type: null
+    next_button: null
+    archive: .archive-toggler
+    timeout: 5
+
+
 WDAY_events:    #COMPLETED
   ticker: WDAY
   scraper: null
@@ -604,7 +773,6 @@ WMT_quarterly:  #COMPLETED
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
-
     archive: .archive-toggler
     timeout: 5
 
@@ -648,6 +816,38 @@ KER_finance:   #scroll issue.
     archive: null
     timeout: null
 
+#checkkkkk
+KER_annual_general_meeting:  
+  ticker: KER
+  scraper: null
+  url: https://www.kering.com/en/finance/shareholders-information/annual-general-meeting/
+  output: data/KER_annual_general_meeting.json
+  output_json: JSONS/annual_general_meeting.json
+  base_address: https://www.kering.com/
+  periodic: false
+  geography: "European"
+  forced_type: "annual-general-meeting"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.p67j49j
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+
+
+    
+
+# x ----------------------- x --------------- x
+
+
+
+
+
+
 RMS_meeting:   #redirection problem. but COMPLETED
   ticker: RMS
   scraper: null
@@ -687,6 +887,28 @@ RMS_finance:
     next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
     archive: null
     timeout: null
+
+#checkkkkk
+RMS_finance:   
+  ticker: RMS
+  scraper: null
+  url: https://finance.hermes.com/fr/politiques-publications/
+  output: data/RMS_finance.json
+  output_json: JSONS/RMS_finance.json
+  base_address: https://finance.hermes.com/
+  periodic: false
+  geography: "European"
+  forced_type: "meeting"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.class="pt-8.lg:pt-10.lg:pb-0.layout-container"
+  pagination:
+    type: year_tabs
+    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    archive: null
+    timeout: null
+
 
 MOWI_reports:    
   ticker: MOWI
