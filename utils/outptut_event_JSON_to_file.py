@@ -85,21 +85,21 @@ async def construct_event_json(
     # ~~~~~~~~~~~~~~~~~~~~~~
     # 1) Extract fields
     # ~~~~~~~~~~~~~~~~~~~~~~
-
     
+        
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
 
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
-    if (periodicity not in(True, False, "true", "false")):
-        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
+    if (periodicity not in("periodic", "non-periodic")):
+        print("fnkgvrjgkrgj)")
+        print(periodicity)
         periodicity = is_periodic_non_periodic(html_element, geography)
         logger.debug(f"Extracted periodicity={periodicity}")
 
-    if ((periodicity == True) or (periodicity == "periodic"))  and (geography == "european"):
-        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
+    if (periodicity == "periodic")  and (geography == "european"):
         event_name = get_event_name_for_periodic_european_equities(html_element)
         logger.debug(f"Extracted event_name={event_name}\n{html_element}")
     else:
@@ -260,20 +260,20 @@ async def output_event_JSON_to_file(
 
 # Example usage/call, in the same file
 
-if __name__ == "__main__":
-    # Hard-coded example usage
-    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
-    output_file = "output_results.json"   # We'll write the results here
+# if __name__ == "__main__":
+#     # Hard-coded example usage
+#     input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
+#     output_file = "output_results.json"   # We'll write the results here
 
-    # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
-    ticker = "COOL"
-    geo = "US"
-    period = "periodic_event"
+#     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
+#     ticker = "COOL"
+#     geo = "US"
+#     period = "periodic_event"
 
-    output_event_JSON_to_file(
-        input_json_file=input_file,
-        output_json_file=output_file,
-        equity_ticker=ticker,
-        geography=geo,
-        periodicity=period
-    )
+#     output_event_JSON_to_file(
+#         input_json_file=input_file,
+#         output_json_file=output_file,
+#         equity_ticker=ticker,
+#         geography=geo,
+#         periodicity=period
+#     )

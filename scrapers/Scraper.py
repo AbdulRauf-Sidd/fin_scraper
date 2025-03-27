@@ -135,8 +135,6 @@ class Scraper:
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
-                    print(f"\n✅ Data saved in: {self.output_file}")
-                    
                     await output_event_JSON_to_file(
                         direct=self.direct,
                         input_json_file=self.output_file,
