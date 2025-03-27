@@ -10,7 +10,7 @@ from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 from utils.is_periodic_non_periodic import is_periodic_non_periodic
 from utils.get_event_name_for_periodic_european_equities import get_event_name_for_periodic_european_equities
-from utils,get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
+from utils.get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
 
 
