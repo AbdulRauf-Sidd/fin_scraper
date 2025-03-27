@@ -108,8 +108,8 @@ async def construct_event_json(
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
-    if (periodicity not in("periodic", "non-periodic")):
-        periodicity = is_periodic_non_periodic(html_element, geography)
+    if (periodicity == None):
+        periodicity = is_periodic_non_periodic(html_element)
         logger.debug(f"Extracted periodicity={periodicity}")
    
     if (periodicity == "periodic")  and (geography.casefold() == "european"):

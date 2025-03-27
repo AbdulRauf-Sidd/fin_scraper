@@ -436,7 +436,7 @@ SY1_events:     # COMPLETED
   output: data/SY1_events.json
   output_json: JSONS/SY1_events.json
   base_address: https://www.symrise.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: null
   headless: false
