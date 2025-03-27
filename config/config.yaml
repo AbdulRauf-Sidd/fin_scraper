@@ -426,8 +426,8 @@ SY1_finance:     #TODO
   pagination:
     type: null
     next_button: null
-#      archive: .archive-toggler
-#      timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 SY1_events:     # COMPLETED
   ticker: SY1
