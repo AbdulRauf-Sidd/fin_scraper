@@ -72,7 +72,8 @@ PVH_resources:    # COMPLETED
   headless: false
   direct: false
   selectors:
-    event_block: .layout__wrap.story-well.ready, .container.layout
+    # event_block: .layout__wrap.story-well.ready, .container.layout
+    event_block: div.swiper-slide
   pagination:
     type: null
     next_button: null
