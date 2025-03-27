@@ -10,6 +10,7 @@ from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 from utils.is_periodic_non_periodic import is_periodic_non_periodic
 from utils.get_event_name_for_periodic_european_equities import get_event_name_for_periodic_european_equities
+from utils,get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
 
 # Create logs directory if it doesn't exist
@@ -97,8 +98,11 @@ async def construct_event_json(
         periodicity = is_periodic_non_periodic(html_element, geography)
         logger.debug(f"Extracted periodicity={periodicity}")
    
-    if (periodicity == "periodic")  and (geography == "european"):
+    if (periodicity == "periodic")  and (geography.casefold() == "european"):
         event_name = get_event_name_for_periodic_european_equities(html_element)
+        logger.debug(f"Extracted event_name={event_name}\n{html_element}")
+    elif (periodicity == "periodic")  and (geography.casefold() == "us"):
+        event_name = get_event_name_for_periodic_us_equities(html_element)
         logger.debug(f"Extracted event_name={event_name}\n{html_element}")
     else:
         event_name = get_event_name_from_element(html_element)
