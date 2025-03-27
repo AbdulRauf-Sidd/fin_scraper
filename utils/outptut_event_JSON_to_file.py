@@ -108,11 +108,9 @@ async def construct_event_json(
     logger.debug(f"Extracted content_type={content_type}")
 
     if (periodicity not in("periodic", "non-periodic")):
-        print("fnkgvrjgkrgj)")
-        print(periodicity)
         periodicity = is_periodic_non_periodic(html_element, geography)
         logger.debug(f"Extracted periodicity={periodicity}")
-
+   
     if (periodicity == "periodic")  and (geography == "european"):
         event_name = get_event_name_for_periodic_european_equities(html_element)
         logger.debug(f"Extracted event_name={event_name}\n{html_element}")
