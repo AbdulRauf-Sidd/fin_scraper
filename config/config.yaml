@@ -63,7 +63,7 @@ PVH_resources:    # COMPLETED
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
-  output: data/PVH_resources.json
+  output: data/PinvestorsVH_resources.json
   output_json: JSONS/PVH_resources.json
   forced_type: "resources"
   base_address: https://www.pvh.com/
@@ -82,7 +82,7 @@ PVH_resources:    # COMPLETED
 CORZ_financial-information:   # COMPLETED
   ticker: CORZ
   scraper: null
-  url: https://investors.corescientific.com/financial-information/financial-results
+  url: https://.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
   output_json: JSONS/CORZ_financial-information.json
   base_address: https://investors.corescientific.com/
@@ -416,17 +416,17 @@ SY1_finance:     #TODO
   output: data/SY1_finance.json
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
-  periodic: true
+  periodic: null
   geography: "european"
-  forced_type: null
+  forced_type: 'financial-filing'
   direct: true
   headless: false
   selectors:
-    event_block: div.t-row
+    event_block: div.t-table
   pagination:
-    type: null
-    next_button: null
-    archive: .archive-toggler
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
+    archive: dhsjdhsjdh
     timeout: 5
 
 SY1_events:     # COMPLETED
