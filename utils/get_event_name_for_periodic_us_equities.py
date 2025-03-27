@@ -84,86 +84,100 @@ def get_event_name_for_periodic_us_equities(*args):
 
     # Define regex patterns for standard event naming
         # Fiscal Year (FY)
-    pattern_fy = r'FY\s*(\d{4})'
     
     pattern_quarterly = r'(Q[1-4])\s*(\d{4})'
-    pattern_full_year = r'(Full\s*Year|Yearly|FY)\s*(\d{4})'
-    pattern_q1 = r'(First\s*Quarter|First-Quarter|Firstquarter|Q1)\s*(\d{4})'
-    pattern_q2 = r'(Second\s*Quarter|Second-Quarter|Secondquarter|Q2)\s*(\d{4})'
-    pattern_q3 = r'(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3)\s*(\d{4})'
-    pattern_q4 = r'(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4)\s*(\d{4})'
-    pattern_annual = r'(Annual|Yearly|Year\s*End)\s*(\d{4})'
-    pattern_quarterly_general = r'(Quarterly|Every\s*Quarter|Per\s*Quarter)\s*(\d{4})'
-    pattern_fiscal_year = r'(Fiscal\s*Year|Fiscal\s*Yr|FY)\s*(\d{4})'
-    # pattern_calendar_year = r'(Calendar\s*Year|CY)\s*(\d{4})'
+    pattern_full_year = r'(Full\s*Year|Yearly|FY|Annual|Yearly|Year\s*End|Fiscal\s*Year|Fiscal\s*Yr|FY)\s*(\d{4})'
+    pattern_year_first = r'(\d{4})\s*(Full\s*Year|Yearly|FY|Annual|Year\s*End|Fiscal\s*Year|Fiscal\s*Yr|FY)'
+    pattern_q1 = r'(First\s*Quarter|First-Quarter|Firstquarter|Q1).*?(\d{4})'
+    pattern_reverse_q1 = r'(\d{4}).*?(First\s*Quarter|First-Quarter|Firstquarter|Q1)'
+    pattern_q2 = r'(Second\s*Quarter|Second-Quarter|Secondquarter|Q2).*?(\d{4})' 
+    pattern_reverse_q2 = r'(\d{4}).*?(Second\s*Quarter|Second-Quarter|Secondquarter|Q2)'
+    pattern_q3 = r'(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3).*?(\d{4})'
+    pattern_reverse_q3 = r'(\d{4}).*?(Third\s*Quarter|Third-Quarter|Thirdquarter|Q3)'
+    pattern_q4 = r'(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4th\s*Quarter).*?(\d{4})'
+    pattern_reverse_q4 = r'(\d{4}).*?(Fourth\s*Quarter|Fourth-Quarter|Fourthquarter|Q4|4th\s*Quarter)'
+
+
+    
+  
     
 
     # Add additional months if needed
 
 
     # Attempt regex matches (case-insensitive)
-    match_fy = re.search(pattern_fy, text, re.IGNORECASE)
     match_q = re.search(pattern_quarterly, text, re.IGNORECASE)
     match_full = re.search(pattern_full_year, text, re.IGNORECASE)
+    match_reverse_full = re.search(pattern_year_first, text, re.IGNORECASE)
     match_q1 = re.search(pattern_q1, text, re.IGNORECASE)  # Match 3M
+    match_reverse_q1 = re.search(pattern_reverse_q1, text, re.IGNORECASE)  # Match 3M
     match_q2 = re.search(pattern_q2, text, re.IGNORECASE)  # Match quarter results
+    match_reverse_q2 = re.search(pattern_reverse_q2, text, re.IGNORECASE)  # Match quarter results
     match_q3 = re.search(pattern_q3, text, re.IGNORECASE)  # Match "January - March"
+    match_reverse_q3 = re.search(pattern_reverse_q3, text, re.IGNORECASE)  # Match "January - March"
     match_q4 = re.search(pattern_q4, text, re.IGNORECASE)  # Match "January - September"
-    match_pa = re.search(pattern_annual, text, re.IGNORECASE)  # Match "January - September"
-    match_qg = re.search(pattern_quarterly_general, text, re.IGNORECASE)  # Match "January - September"
-    match_py = re.search(pattern_fiscal_year, text, re.IGNORECASE)  # Match "January - September"
-    # match_cy = re.search(pattern_calendar_year, text, re.IGNORECASE)  # Match "January - September"
-
+    match_reverse_q4 = re.search(pattern_reverse_q4, text, re.IGNORECASE)  # Match "January - September"
+    
     final_event_name = None
     decision_reason = ""
 
     # Check for matches in a prioritized order.
-    if match_fy:
-        # Construct standardized event name for Fiscal Year
-        year = match_fy.group(1)
-        final_event_name = f"FY {year}"
-        decision_reason = "Matched FY pattern via regex."
-    elif match_q:
+    if match_q:
         # For half-year results, get the half (H1 or H2) and the year
-        half = match_q.group(1).upper()
+        quarter = match_q.group(1).upper()
         year = match_q.group(2)
-        final_event_name = f"{half} {year}"
+        final_event_name = f"{quarter} {year}"
         decision_reason = "Matched quarterly (Q1-Q4) pattern."
-    elif match_full or match_full:
+    elif match_full:
         # If it's 9M (9-months) report
-        year = match_full.group(1) if match_full else match_full.group(1)
-        final_event_name = f"9M {year}"
+        year = match_full.group(2)
+        final_event_name = f"FY {year}"
         decision_reason = "Matched full year pattern."
-    elif match_q1 or match_q1:
+    elif match_reverse_full:
         # If it's 3M (3-months) report
-        year = match_q1.group(1) if match_q1 else match_q1.group(1)
-        final_event_name = f"3M {year}"
+        year = match_q1.group(1)
+        final_event_name = f"FY {year}"
+        decision_reason = "Matched Full year reverse pattern."
+    elif match_q1:
+        # If it's 3M (3-months) report
+        year = match_q1.group(2)
+        final_event_name = f"Q1 {year}"
         decision_reason = "Matched Q1 pattern."
-    elif match_q2 or match_q2:
+    elif match_q2:
         # If it's 3M (3-months) report
-        year = match_q2.group(1) if match_q2 else match_q2.group(1)
-        final_event_name = f"3M {year}"
+        year = match_q3.group(2)
+        final_event_name = f"Q2 {year}"
         decision_reason = "Matched Q2 pattern."
-    elif match_q3 or match_q3:
+    elif match_q3:
         # If it's 3M (3-months) report
-        year = match_q3.group(1) if match_q3 else match_q3.group(1)
-        final_event_name = f"3M {year}"
+        year = match_q3.group(2)
+        final_event_name = f"Q3 {year}"
         decision_reason = "Matched Q3 pattern."
-    elif match_q4 or match_q4:
+    elif match_q4:
         # If it's 3M (3-months) report
-        year = match_q4.group(1) if match_q4 else match_q4.group(1)
-        final_event_name = f"3M {year}"
+        year = match_q4.group(2)
+        final_event_name = f"Q4 {year}"
         decision_reason = "Matched Q4 pattern."
-    elif match_pa or match_pa:
+    elif match_reverse_q1:
         # If it's 3M (3-months) report
-        year = match_qg.group(1) if match_qg else match_qg.group(1)
-        final_event_name = f"3M {year}"
-        decision_reason = "Matched annual pattern."
-    elif match_py or match_py:
+        year = match_reverse_q1.group(1)
+        final_event_name = f"Q1 {year}"
+        decision_reason = "Matched Q1 reverse pattern."
+    elif match_reverse_q2:
         # If it's 3M (3-months) report
-        year = match_py.group(1) if match_py else match_py.group(1)
-        final_event_name = f"3M {year}"
-        decision_reason = "Matched general quarterly pattern."
+        year = match_reverse_q2.group(1)
+        final_event_name = f"Q2 {year}"
+        decision_reason = "Matched Q2 reverse pattern."
+    elif match_reverse_q3:
+        # If it's 3M (3-months) report
+        year = match_reverse_q3.group(1)
+        final_event_name = f"Q3 {year}"
+        decision_reason = "Matched Q3 reverse pattern."
+    elif match_reverse_q4:
+        # If it's 3M (3-months) report
+        year = match_reverse_q4.group(1)
+        final_event_name = f"Q4 {year}"
+        decision_reason = "Matched Q4 reverse pattern."
     else:
         # Use NLP for more flexible matching
         dates, matched_keywords = extract_entities_with_spacy(text)
@@ -217,8 +231,9 @@ def get_event_name_for_periodic_us_equities(*args):
             if input_source == "html":
                 # In case of HTML input, return the name based on inner text or file name
                 if text:
-                    final_event_name = text[:50]  # Limit to the first 50 characters of the text
+                    final_event_name = text  # Limit to the first 50 characters of the text
                     decision_reason = "No match found, using inner text as event name."
+                    print('djksajdkasjdks')
                 elif links:
                     # If links exist, extract the file name and use it
                     file_name = links[0].split("/")[-1].split("?")[0]
