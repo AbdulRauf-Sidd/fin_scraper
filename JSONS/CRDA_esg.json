@@ -3,22 +3,22 @@
     "event_name": "Null",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "ratings-and-frameworks",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
         "content_type": [
           "esg"
         ]
       },
       {
         "file_name": "ratings-and-frameworks",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/ratings-and-frameworks/ratings-and-frameworks",
         "content_type": [
           "esg"
         ]
@@ -29,22 +29,22 @@
     "event_name": "Awards and certifications Many aspects of our sustainability commitment have been recognised externally, and we actively seek certification in key areas of our operations",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "awards-and-certifications",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/awards-and-certifications/awards-and-certifications",
         "content_type": [
           "esg"
         ]
       },
       {
         "file_name": "awards-and-certifications",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/awards-and-certifications/awards-and-certifications",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/awards-and-certifications/awards-and-certifications",
         "content_type": [
           "esg"
         ]
@@ -55,13 +55,13 @@
     "event_name": "Non-financial performance and reports We consider our non-financial metrics to be as important as our financial",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "reporting-datapack",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
           "esg",
           "financial-filing"
@@ -69,9 +69,9 @@
       },
       {
         "file_name": "reporting-datapack",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/reporting-datapack/reporting-datapack",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/reporting-datapack/reporting-datapack",
         "content_type": [
           "esg",
           "financial-filing"
@@ -83,22 +83,22 @@
     "event_name": "Policies and procedures We operate a range of policies covering all area of our Business to uphold the principles of socially responsible business practices",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "policies-and-procedures",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/policies-and-procedures/policies-and-procedures",
         "content_type": [
           "esg"
         ]
       },
       {
         "file_name": "policies-and-procedures",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/policies-and-procedures/policies-and-procedures",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/policies-and-procedures/policies-and-procedures",
         "content_type": [
           "esg"
         ]
@@ -109,22 +109,22 @@
     "event_name": "Null",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "our-purpose",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/our-purpose/our-purpose",
         "content_type": [
           "esg"
         ]
       },
       {
         "file_name": "our-purpose",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/our-purpose/our-purpose",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/our-purpose/our-purpose",
         "content_type": [
           "esg"
         ]
@@ -135,22 +135,22 @@
     "event_name": "Null",
     "equity_ticker": "CRDA",
     "geography": "European",
-    "periodicity": "non-periodic",
+    "periodicity": "Unclassified",
     "data": [
       {
         "file_name": "ethics",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/ethics/ethics",
         "content_type": [
           "esg"
         ]
       },
       {
         "file_name": "ethics",
-        "file_type": "HTML",
+        "file_type": "octet-stream",
         "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/CRDA/Null/ethics/ethics",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/ethics/ethics",
         "content_type": [
           "esg"
         ]
