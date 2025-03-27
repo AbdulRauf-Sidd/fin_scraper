@@ -13,6 +13,20 @@ from utils.get_event_name_for_periodic_european_equities import get_event_name_f
 from utils,get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
 
+
+def save_json(data, filename):
+    file_mode = 'a' if os.path.exists(filename) else 'w'
+    with open(filename, file_mode) as f:
+        if file_mode == 'a':  # File exists, append to it
+            f.seek(0, os.SEEK_END)  # Seek to end of file
+            f.seek(f.tell() - 1, os.SEEK_SET)  # Go back one character from the end
+            f.truncate()  # Remove the last character (should be a closing bracket ])
+            f.write(',\n')  # Prepare for new JSON object
+            json.dump(data, f)
+            f.write(']')
+        else:  # File does not exist, create new
+            json.dump([data], f)  # Write data as a list of JSON objects
+
 # Create logs directory if it doesn't exist
 os.makedirs('logs', exist_ok=True)
 
@@ -231,10 +245,10 @@ async def output_event_JSON_to_file(
 
     # ~~~~~ 2) Process each snippet ~~~~~
     final_results = []
+    batch_size = 20
 
     for idx, snippet in enumerate(snippet_list, start=1):
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
-        # We assume 'construct_event_json' is imported or defined in the same file
         result = await construct_event_json(
             direct=direct,
             file_name=input_json_file,
@@ -253,10 +267,31 @@ async def output_event_JSON_to_file(
             logger.info(f"Snippet #{idx} -> Event JSON created.")
             final_results.append(result)
 
-    # ~~~~~ 3) Write valid results to 'output_json_file' ~~~~~
-    with open(output_json_file, "w", encoding="utf-8") as f:
-        json.dump(final_results, f, indent=2)
+        # Save batch to file every 20 items or on last item
+        if idx % batch_size == 0 or idx == len(snippet_list):
+            if final_results:  # Only save if we have results
+                try:
+                    # Read existing data if file exists
+                    existing_data = []
+                    if os.path.exists(output_json_file):
+                        with open(output_json_file, 'r') as f:
+                            try:
+                                existing_data = json.load(f)
+                            except json.JSONDecodeError:
+                                existing_data = []
+                    
+                    # Combine existing data with new batch
+                    combined_data = existing_data + final_results[-batch_size:]
+                    
+                    # Write all data back to file
+                    with open(output_json_file, 'w') as f:
+                        json.dump(combined_data, f, indent=2)
+                        
+                    logger.info(f"Saved batch of results to {output_json_file}")
+                except Exception as e:
+                    logger.error(f"Error saving batch: {str(e)}")
 
+    logger.info(f"Total Events: {len(snippet_list)} -> Processed: {len(final_results)}")
     logger.info(f"Done! Wrote {len(final_results)} items to {output_json_file}")
 
 
