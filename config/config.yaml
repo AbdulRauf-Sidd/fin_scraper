@@ -139,8 +139,6 @@ CORZ_press:
     archive: null
     timeout: null
 
-
-
 CRDA_esg:     #COMPLETED
   ticker: CRDA
   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
@@ -585,8 +583,6 @@ RMS_finance:
     next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
     archive: null
     timeout: null
- 
-
 
 MOWI_reports:    
   ticker: MOWI
@@ -969,7 +965,6 @@ CPRI_acquisitions:
     archive: null
     timeout: null
 
-
 HEIO_media-releases:
   ticker: HEIO
   scraper: null
@@ -1090,7 +1085,6 @@ RKT_agm:
     archive: null
     timeout: null
 
-
 #VOW3
 VOW3_press:   #nlp not working
   ticker: VOW3
@@ -1112,7 +1106,6 @@ VOW3_press:   #nlp not working
     archive: null
     timeout: null
 
-
 VOW3_financial:    # Period
   ticker: VOW3
   scraper: null
@@ -1132,11 +1125,8 @@ VOW3_financial:    # Period
     next_button:  button.btn.btn-default.page-list--load-more-button.-visible
     archive: null
     timeout: null
-  
 
-
-#OR             #Complete
-OR_news:   
+OR_news:           #Complete   
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/news-releases
@@ -1156,9 +1146,7 @@ OR_news:
     archive: null
     timeout: null
 
-
-
-OR_half:   #Complete
+OR_half:          #Complete
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/half-year-results-archives
@@ -1178,8 +1166,7 @@ OR_half:   #Complete
     archive: null
     timeout: null
 
-
-OR_annual:   #Complete
+OR_annual:       #Complete
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/annual-results-archives
@@ -1198,7 +1185,6 @@ OR_annual:   #Complete
     next_button:  null
     archive: null
     timeout: null
-
 
 #NOVO-B
 NOVO-B_finance:     #LLM
@@ -1221,8 +1207,6 @@ NOVO-B_finance:     #LLM
     archive: null
     timeout: null
 
-
-
 NOVO-B_reporting:   #Complete
   ticker: NOVO-B
   scraper: null
@@ -1243,7 +1227,6 @@ NOVO-B_reporting:   #Complete
     next_button:  null
     archive: null
     timeout: null
-
 
 #SIE              #Complete
 SIE_press:   
@@ -1266,7 +1249,6 @@ SIE_press:
     archive: null
     timeout: null
 
-
 SIE_financial:      # Du=ynamic loading collapsable
   ticker: SIE
   scraper: null
@@ -1287,7 +1269,6 @@ SIE_financial:      # Du=ynamic loading collapsable
     archive: null
     timeout: null
 
-
 SIE_financial-results-archive:   
   ticker: SIE
   scraper: null
@@ -1307,7 +1288,6 @@ SIE_financial-results-archive:
     next_button:  null
     archive: null
     timeout: null
-
 
 #HWDN
 HWDN_presentations:   
@@ -1391,7 +1371,6 @@ RACE_financial:
     archive: null
     timeout: null
 
-
 #BAS
 BAS_publications:   
   ticker: BAS
@@ -1412,7 +1391,6 @@ BAS_publications:
     next_button:  div.wxp-result-list-footer-button.mt-5
     archive: null
     timeout: null
-
 
 #SAN
 SAN_investor-relations:   
@@ -1435,7 +1413,6 @@ SAN_investor-relations:
     archive: null
     timeout: null
 
-
 SAN_stock-exchange:   
   ticker: SAN
   scraper: null
@@ -1455,7 +1432,6 @@ SAN_stock-exchange:
     next_button:  null
     archive: null
     timeout: null
-
 
 SAN_group-holdings:   
   ticker: SAN
