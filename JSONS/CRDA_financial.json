@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "event_name": "03/12/2025 Porsche AG records robust results in a challenging environment Porsche AG ended the 2024 financial year with a robust result in a challenging environment",
     "equity_ticker": "CRDA",
     "geography": "European",
@@ -73,6 +74,8 @@
     ]
   },
   {
+=======
+>>>>>>> ace2e8d5bdb6276b2f7c4abe063ff2e326ab3807
     "event_name": "11/27/2024 Press Release Volkswagen Group reviews sales model in selected European markets Today, the Volkswagen Group has informed its retail partners in selected European markets that it will initiate a joint review of its sales model",
     "equity_ticker": "CRDA",
     "geography": "European",
@@ -262,8 +265,13 @@
         "published_date": "2024-03-27",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/2024-03-27/traton-group-announces-ambitious-goals-18699/traton-group-announces-ambitious-goals-18699.pdf",
         "content_type": [
+<<<<<<< HEAD
           "announcement",
           "financial-filing",
+=======
+          "financial-filing",
+          "announcement",
+>>>>>>> ace2e8d5bdb6276b2f7c4abe063ff2e326ab3807
           "financial_filing"
         ]
       }

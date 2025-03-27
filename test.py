@@ -5,7 +5,7 @@ import asyncio
 import requests
 
 
-async def download_file(url, base_url="https://www.sec.gov", headless=True):
+async def download_file(url, base_url="https://www.sec.gov", headless=False):
     url = url.rstrip('/')
     file_name = url.split("/")[-1]
     # logging.info(f"Downloading file from: {url}")
@@ -44,6 +44,8 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
         print('downloaded')
         absolute_path = os.path.abspath(f'test_docs/{filename}')
         file_type, absolute_path = add_extension_if_missing(absolute_path)
+        if file_type == 'octet-stream':
+            raise Exception("Fall back to pdf")
         print('file type:', file_type)
         # logging.info(f"File downloaded: {absolute_path} ({file_type})")
         return absolute_path, file_name, file_type 
@@ -56,6 +58,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             return None, None, None
         
 asyncio.run(download_file(url=''
-"https://www.volkswagen-group.com/en/press-releases/faster-leaner-more-efficient-rivian-and-volkswagen-group-announce-the-launch-of-their-joint-venture-18828"
+"https://www.croda.com/en-gb/media-hub/news/general/being-a-woman-at-croda-international-womens-day-2020"
+"https://www.thecampbellscompany.com/newsroom/press-releases/campbells-reports-second-quarter-fiscal-2025-results/"
 ,
 headless=False))
