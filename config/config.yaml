@@ -83,7 +83,7 @@ PVH_resources:    # COMPLETED
 CORZ_financial-information:   # COMPLETED
   ticker: CORZ
   scraper: null
-  url: https://.corescientific.com/financial-information/financial-results
+  url: https://investors.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
   output_json: JSONS/CORZ_financial-information.json
   base_address: https://investors.corescientific.com/
@@ -107,7 +107,7 @@ CORZ_presentations:   # Completed
   output: data/CORZ_presentations.json
   output_json: JSONS/CORZ_presentations.json
   base_address: https://investors.corescientific.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "presentations"
   headless: false
@@ -115,8 +115,8 @@ CORZ_presentations:   # Completed
   selectors:
     event_block: article.media
   pagination:
-    type: next_page_url
-    next_button: page-link
+    type: button
+    next_button: .page-item--next a
     archive: null
     timeout: null
 
