@@ -2,6 +2,7 @@ import os
 import boto3
 from pathlib import Path
 import time
+from urllib.parse import quote
 # from dotenv import load_dotenv
 
 # base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -46,7 +47,8 @@ def upload_file_to_r2(file_path, r2_folder):
                 s3.put_object(Bucket='fin-scraping-bucket', Key=r2_file_key, Body=data)
 
             # Construct the URL of the uploaded file
-            file_url = f'https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/{r2_file_key}'
+            safe_r2_file_key = quote(r2_file_key)
+            file_url = f'https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/{safe_r2_file_key}'
             print(f"Uploaded: {r2_file_key}, URL: {file_url}")
             return file_url
 

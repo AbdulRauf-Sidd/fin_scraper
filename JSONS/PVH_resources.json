@@ -3,521 +3,7 @@
     "event_name": "Forward Fashion Climate Human Rights Inclusion & Diversity Resources All of our most up-to-date resources, including policies and guidelines, positions, progress, and data",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "responsibility",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/responsibility/responsibility",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "climate",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/climate/climate",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "human-rights",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/human-rights/human-rights",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "inclusion-diversity",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/inclusion-diversity/inclusion-diversity",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Targets",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Forward-Fashion-Targets.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Forward-Fashion-Targets.pdf/PVH-Forward-Fashion-Targets.pdf",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Targets",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Forward-Fashion-Targets.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Forward-Fashion-Targets.pdf/PVH-Forward-Fashion-Targets.pdf",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-A-Shared-Commitment.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-A-Shared-Commitment.pdf/PVH-A-Shared-Commitment.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "CR-Governance-and-Stakeholder-Engagement.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/CR-Governance-and-Stakeholder-Engagement.pdf/CR-Governance-and-Stakeholder-Engagement.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Statement-of-Corporate-Responsibility.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Statement-of-Corporate-Responsibility.pdf/PVH-Statement-of-Corporate-Responsibility.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-A-Shared-Commitment.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-A-Shared-Commitment.pdf/PVH-A-Shared-Commitment.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "CR-Governance-and-Stakeholder-Engagement.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/CR-Governance-and-Stakeholder-Engagement.pdf/CR-Governance-and-Stakeholder-Engagement.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Statement-of-Corporate-Responsibility.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Statement-of-Corporate-Responsibility.pdf/PVH-Statement-of-Corporate-Responsibility.pdf",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "We address environmental and climate change impacts across our owned and operated facilities, products and packaging, and supply chain",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-CR-Supply-Guidelines.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-CR-Supply-Guidelines.pdf/PVH-CR-Supply-Guidelines.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Environment-Policy.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Environment-Policy.pdf/PVH-Environment-Policy.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "Approach-to-CR-and-Human-Rights.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/Approach-to-CR-and-Human-Rights.pdf/Approach-to-CR-and-Human-Rights.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Restricted-Substance-List.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Restricted-Substance-List.pdf/PVH-Restricted-Substance-List.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Conflict-Minerals-Policy.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Conflict-Minerals-Policy.pdf/PVH-Conflict-Minerals-Policy.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Animal-Welfare-Policy-Statement.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Animal-Welfare-Policy-Statement.pdf/PVH-Animal-Welfare-Policy-Statement.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Modern-Slavery-Statement.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Modern-Slavery-Statement.pdf/PVH-Modern-Slavery-Statement.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Forest-Protection-Policy.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Forest-Protection-Policy.pdf/PVH-Forest-Protection-Policy.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "CR-Guidelines-for-a-Healthy-Work-Environment.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/CR-Guidelines-for-a-Healthy-Work-Environment.pdf/CR-Guidelines-for-a-Healthy-Work-Environment.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PFAS-Policy.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PFAS-Policy.pdf/PFAS-Policy.pdf",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "We are building stable, long-term relationships, increasing accountability and efficiency and allowing us to be transparent about where we source from",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Higg-Brand-and-Retail-Module-Scores.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Higg-Brand-and-Retail-Module-Scores.pdf/PVH-Higg-Brand-and-Retail-Module-Scores.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CDP-Disclosure---Climate.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-CDP-Disclosure---Climate.pdf/PVH-CDP-Disclosure---Climate.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CDP-Disclosure---Water-Security.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-CDP-Disclosure---Water-Security.pdf/PVH-CDP-Disclosure---Water-Security.pdf",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. is committed to our Forward Fashion strategy that supports sustainability and human rights around the world",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Statement-on-COVID-19-Supply-Chain.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Statement-on-COVID-19-Supply-Chain.pdf/PVH-Statement-on-COVID-19-Supply-Chain.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Statement-on-Human-Rights.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Statement-on-Human-Rights.pdf/PVH-Statement-on-Human-Rights.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Statement-on-Angora.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Statement-on-Angora.pdf/PVH-Statement-on-Angora.pdf",
-        "content_type": [
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-Living-Wage-Strategy.pdf",
-        "file_type": "pdf",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/PVH-Living-Wage-Strategy.pdf/PVH-Living-Wage-Strategy.pdf",
-        "content_type": [
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Read our 2022 Corporate Responsibility Report",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-CR-Report-2022.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2022.pdf/PVH-CR-Report-2022.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2021.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2021.pdf/PVH-CR-Report-2021.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2020.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2020.pdf/PVH-CR-Report-2020.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2019.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2019.pdf/PVH-CR-Report-2019.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2018.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2018.pdf/PVH-CR-Report-2018.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2017.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2017.pdf/PVH-CR-Report-2017.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2016.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2016.pdf/PVH-CR-Report-2016.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2015.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2015.pdf/PVH-CR-Report-2015.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "PVH-CR-Report-2014.pdf",
-        "file_type": "pdf",
-        "published_date": "2022",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/2022/PVH-CR-Report-2014.pdf/PVH-CR-Report-2014.pdf",
-        "content_type": [
-          "news",
-          "financial_filing",
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "More We Are PVH Brands News",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "we-are-pvh",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/we-are-pvh/we-are-pvh",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "brands",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/brands/brands",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "news",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/news/news",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "We Are PVH Brands News",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "we-are-pvh",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/we-are-pvh/we-are-pvh",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "brands",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/brands/brands",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      },
-      {
-        "file_name": "news",
-        "file_type": "",
-        "published_date": "Null",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/PVH/Null/news/news",
-        "content_type": [
-          "news",
-          "resources"
-        ]
-      }
-    ]
-  },
-  {
-    "event_name": "Forward Fashion Climate Human Rights Inclusion & Diversity Resources All of our most up-to-date resources, including policies and guidelines, positions, progress, and data",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "responsibility",
@@ -561,7 +47,7 @@
     "event_name": "Forward Fashion Targets",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH Forward Fashion Targets.pdf",
@@ -578,7 +64,7 @@
     "event_name": "Forward Fashion Targets",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH Forward Fashion Targets.pdf",
@@ -595,7 +81,7 @@
     "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH A Shared Commitment.pdf",
@@ -630,7 +116,7 @@
     "event_name": "Our code of conduct outlines our commitment to workers and their communities and applies to all of our business partners",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH A Shared Commitment.pdf",
@@ -665,7 +151,7 @@
     "event_name": "We address environmental and climate change impacts across our owned and operated facilities, products and packaging, and supply chain",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH CR Supply Guidelines.pdf",
@@ -763,7 +249,7 @@
     "event_name": "We are building stable, long-term relationships, increasing accountability and efficiency and allowing us to be transparent about where we source from",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH Suppliers Disclosure.xlsx",
@@ -807,7 +293,7 @@
     "event_name": "PVH Corp. is committed to our Forward Fashion strategy that supports sustainability and human rights around the world",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH Statement on COVID-19 Supply Chain.pdf",
@@ -851,7 +337,7 @@
     "event_name": "Read our 2022 Corporate Responsibility Report",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "PVH CR Report 2022.pdf",
@@ -859,8 +345,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2022.pdf/PVH CR Report 2022.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -869,8 +355,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2021.pdf/PVH CR Report 2021.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -879,8 +365,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2020.pdf/PVH CR Report 2020.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -889,8 +375,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2019.pdf/PVH CR Report 2019.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -899,8 +385,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2018.pdf/PVH CR Report 2018.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -909,8 +395,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2017.pdf/PVH CR Report 2017.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -919,8 +405,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2016.pdf/PVH CR Report 2016.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -929,8 +415,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2015.pdf/PVH CR Report 2015.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       },
       {
@@ -939,8 +425,8 @@
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/2022/PVH CR Report 2014.pdf/PVH CR Report 2014.pdf",
         "content_type": [
-          "financial-filing",
-          "resources"
+          "resources",
+          "financial-filing"
         ]
       }
     ]
@@ -949,7 +435,7 @@
     "event_name": "More We Are PVH Brands News",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "we-are-pvh",
@@ -957,8 +443,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/we-are-pvh/we-are-pvh.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       },
       {
@@ -967,8 +453,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/brands/brands.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       },
       {
@@ -977,8 +463,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/news/news.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       }
     ]
@@ -987,7 +473,7 @@
     "event_name": "We Are PVH Brands News",
     "equity_ticker": "PVH",
     "geography": "US",
-    "periodicity": "non-periodic",
+    "periodicity": "non-Periodic",
     "data": [
       {
         "file_name": "we-are-pvh",
@@ -995,8 +481,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/we-are-pvh/we-are-pvh.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       },
       {
@@ -1005,8 +491,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/brands/brands.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       },
       {
@@ -1015,8 +501,8 @@
         "published_date": "Null",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PVH/Null/news/news.html",
         "content_type": [
-          "news",
-          "resources"
+          "resources",
+          "news"
         ]
       }
     ]
