@@ -1,8 +1,9 @@
 PVH_news:     # completed
   ticker: PVH
-  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
   output_json: JSONS/PVH_news.json
+  link_archive: 'links/PVH.txt'
   base_address: https://www.pvh.com/
   periodic: null
   geography: "US"
@@ -10,7 +11,7 @@ PVH_news:     # completed
   headless: true
   direct: false
   selectors:
-    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
+    event_block: div.list__content                   # Each event is in a <li> with class "list__item"
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
@@ -23,6 +24,7 @@ PVH_press:      # Completed
   output: data/PVH_press2.json
   output_json: JSONS/PVH_press2.json
   base_address: https://www.pvh.com/
+  link_archive: 'links/PVH.txt'
   forced_type: "press-releases"
   periodic: null
   geography: "US"
@@ -45,6 +47,7 @@ PVH_reports:      # Completed
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
   output_json: JSONS/PVH_reports.json
+  link_archive: 'links/PVH.txt'
   forced_type: null
   base_address: https://www.pvh.com/
   periodic: true
@@ -65,6 +68,7 @@ PVH_resources:    # COMPLETED
   url: https://www.pvh.com/responsibility/resources
   output: data/PVH_resources.json
   output_json: JSONS/PVH_resources.json
+  link_archive: 'links/PVH.txt'
   forced_type: "resources"
   base_address: https://www.pvh.com/
   periodic: null
@@ -749,6 +753,7 @@ KER_press: #COMPLETED
   output_json: JSONS/KER_press.json
   base_address: https://www.kering.com/
   periodic: false
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "news"
   headless: false
@@ -769,6 +774,7 @@ KER_finance:   #scroll issue.
   output_json: JSONS/KER_finance.json
   base_address: https://www.kering.com/
   periodic: null
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "finance"
   headless: false
@@ -789,7 +795,8 @@ KER_annual_general_meeting:
   output: data/KER_annual_general_meeting.json
   output_json: JSONS/annual_general_meeting.json
   base_address: https://www.kering.com/
-  periodic: false
+  periodic: null
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "annual-general-meeting"
   headless: false
@@ -1417,14 +1424,15 @@ VOW3_financial:    # Period
     archive: null
     timeout: null
 
-OR_news:           #Complete   
+OR_news:           #Complete  
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/news-releases
   output: data/OR_news.json
   output_json: JSONS/OR_news.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
+  link_archive: links/OR.txt
   geography: "European"
   headless: true
   forced_type: "news"
@@ -1444,8 +1452,9 @@ OR_half:          #Complete
   output: data/OR_half.json
   output_json: JSONS/OR_half.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
   geography: "European"
+  link_archive: links/OR.txt
   forced_type: "half-year-results"
   headless: true
   direct: true
@@ -1464,7 +1473,8 @@ OR_annual:       #Complete
   output: data/OR_annual.json
   output_json: JSONS/OR_annual.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
+  link_archive: links/OR.txt
   geography: "European"
   forced_type: "annual-results-archives"
   headless: false

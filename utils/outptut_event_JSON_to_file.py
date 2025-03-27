@@ -13,6 +13,8 @@ from utils.get_event_name_for_periodic_european_equities import get_event_name_f
 from utils.get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
 
+
+
 # Create logs directory if it doesn't exist
 os.makedirs('logs', exist_ok=True)
 
@@ -43,6 +45,7 @@ logger.propagate = False
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
 
 async def construct_event_json(
+    link_archive: str,
     direct: bool,
     file_name: str,
     html_element: str,
@@ -94,10 +97,9 @@ async def construct_event_json(
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
-    print("periodicity", periodicity)
-    if (periodicity == None):
+    if (periodicity is None):
+        print('hello world123')
         periodicity = is_periodic_non_periodic(html_element)
-        print("ekrnrejkgekrjgnver")
         logger.debug(f"Extracted periodicity={periodicity}")
    
     if (periodicity == "periodic")  and (geography.casefold() == "european"):
@@ -113,7 +115,7 @@ async def construct_event_json(
 
     
     # If event_name is missing or empty, skip entirely
-    if (not event_name) or (event_name.casefold() in ("none", "null")):
+    if (not event_name) or (event_name in ("None", "null")):
         logger.debug("No event_name found. Skipping JSON construction -> return None.")
         return None
 
@@ -140,8 +142,8 @@ async def construct_event_json(
                     all_links.extend(links)
 
 
-    file_path = f"links/{file_name.split("/")[-1]}.txt"
-    with open(file_path, "r") as file:
+    
+    with open(link_archive, "r") as file:
         existing_links = set(file.read().splitlines())  # Read and split lines into a set
 
     for url in all_links: 
@@ -156,6 +158,10 @@ async def construct_event_json(
                 file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
         else:
             file_path, file_name, file_type = await download_file(url=url, base_url='https://www.sec.gov', headless=headless)
+
+        with open(link_archive, "a") as file:
+            file.write(f"{url}\n")
+        existing_links.add(url)
         
         
         # If file_name is None => skip. But we just forced it to "Moiz."
@@ -208,6 +214,7 @@ async def construct_event_json(
     return result_json
 
 async def output_event_JSON_to_file(
+    link_archive: str,
     direct: bool,
     input_json_file: str,
     output_json_file: str,
@@ -238,6 +245,7 @@ async def output_event_JSON_to_file(
     for idx, snippet in enumerate(snippet_list, start=1):
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
         result = await construct_event_json(
+            link_archive=link_archive,
             direct=direct,
             file_name=input_json_file,
             html_element=snippet,

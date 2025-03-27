@@ -1,5 +1,6 @@
 __pycache__/
 fin_scraper/*
+links/*
 venv/*
 fin_env/
 .env

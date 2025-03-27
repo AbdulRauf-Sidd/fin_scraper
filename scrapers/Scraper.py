@@ -28,6 +28,7 @@ class Scraper:
         self.geography = self.config['geography']
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
+        self.link_archive = self.config['link_archive']
         if self.config['periodic'] == True:
             self.periodicity = "periodic"
         elif self.config['periodic'] == False:
@@ -83,8 +84,9 @@ class Scraper:
 
             os.makedirs('links', exist_ok=True)
 
-            with open(f"links/{self.output_file.split("/")[-1]}.txt", "w") as file:
-                pass
+            if not os.path.exists(f"{self.link_archive}"):
+                with open(f"{self.link_archive}", "w") as file:
+                    pass
         
             all_events = []
             page_num = 1
@@ -141,6 +143,7 @@ class Scraper:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
                     await output_event_JSON_to_file(
+                        link_archive=self.link_archive,
                         direct=self.direct,
                         input_json_file=self.output_file,
                         output_json_file=self.output_json,
