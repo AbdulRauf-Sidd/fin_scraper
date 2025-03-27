@@ -12,3 +12,27 @@ Input HTML Snippet:
 
 ============================================================
 
+============================================================
+
+Input HTML Snippet:
+<article class="clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted">
+
+  
+      <div class="nir-widget--field nir-widget--news--date-time">
+      27 Mar 2025
+    </div>
+  
+            <div class="nir-widget--field nir-widget--news--headline">
+          <a href="/news-releases/news-release-details/iff-and-kemira-form-joint-venture-produce-sustainable-biobased" hreflang="en">IFF and Kemira Form Joint Venture To Produce Sustainable Biobased Materials at Scale</a>
+      </div>
+      
+  
+  
+  
+  
+  
+  
+</article>
+
+============================================================
+

@@ -5,7 +5,7 @@ from datetime import datetime
 from typing import Optional
 from bs4 import BeautifulSoup
 
-from spacy_model import nlp
+from .spacy_model import nlp
 
 # Load SpaCy model (ensure you have "en_core_web_sm" or similar installed)
 # nlp = spacy.load("en_core_web_sm")

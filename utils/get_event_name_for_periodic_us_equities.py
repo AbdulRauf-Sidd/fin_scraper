@@ -1,6 +1,6 @@
 import re
 import spacy
-from spacy_model import nlp
+from .spacy_model import nlp
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 import datetime

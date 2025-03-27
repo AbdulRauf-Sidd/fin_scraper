@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 import datetime
 import os
-from spacy_model import nlp
+from .spacy_model import nlp
 
 # Load spaCy's English language model
 # nlp = spacy.load("en_core_web_sm")

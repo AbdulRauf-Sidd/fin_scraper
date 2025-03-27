@@ -4,7 +4,7 @@ import math
 import spacy
 from bs4 import BeautifulSoup
 from typing import List, Dict, Set
-from spacy_model import nlp
+from .spacy_model import nlp
 
 #######################
 ## LOGGING SETUP     ##

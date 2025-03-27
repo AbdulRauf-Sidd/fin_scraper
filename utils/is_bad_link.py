@@ -2,7 +2,7 @@ import requests
 import logging
 import spacy
 
-from spacy_model import nlp
+from .spacy_model import nlp
 # ---------------------------------------------------------
 # Set up logging: detailed logs written to bad_link_check.logs
 # ---------------------------------------------------------
