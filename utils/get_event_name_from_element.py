@@ -398,6 +398,6 @@ if __name__ == "__main__":
         "\n    <div class=\"row\">\n                        <div class=\"media-body col-md\">\n                        <div class=\"date\">\n                <time datetime=\"2023-05-05T09:10:00\">May 5, 2023 9:10 am EDT</time>\n            </div>\n                        <div class=\"media-heading\">\n                <a href=\"https://investors.corescientific.com/news-events/press-releases/detail/64/core-scientific-announces-april-2023-production-and-operations-updates\">\n                    Core Scientific Announces April 2023 Production and Operations Updates                </a>\n            </div>\n        </div>\n            </div>\n",
         "\n    <div class=\"row\">\n                        <div class=\"media-body col-md\">\n                        <div class=\"date\">\n                <time datetime=\"2023-04-28T09:10:00\">Apr 28, 2023 9:10 am EDT</time>\n            </div>\n                        <div class=\"media-heading\">\n                <a href=\"https://investors.corescientific.com/news-events/press-releases/detail/65/core-scientific-signs-hosting-contracts-with-three-public-companies-during-reorganization-maintains-industry-position-as-one-of-north-americas-largest-bitcoin-miners\">\n                    Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization \u2013 Maintains Industry Position as One of North America\u2019s Largest Bitcoin Miners                </a>\n            </div>\n        </div>\n            </div>\n"
     ]
-    for x in input_text:
-        extracted_date = get_event_name_from_element(x)
-        print(f"Extracted Event Date: {extracted_date}")
+    # for x in input_text:
+    #     extracted_date = get_event_name_from_element(x)
+    #     print(f"Extracted Event Date: {extracted_date}")

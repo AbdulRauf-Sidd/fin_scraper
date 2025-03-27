@@ -7,11 +7,12 @@
     "data": [
       {
         "file_name": "iff-declares-dividend-first-quarter-2025",
-        "file_type": "html",
+        "file_type": "pdf",
         "published_date": "2025",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025/iff-declares-dividend-first-quarter-2025/iff-declares-dividend-first-quarter-2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2025/iff-declares-dividend-first-quarter-2025/iff-declares-dividend-first-quarter-2025.pdf",
         "content_type": [
-          "news"
+          "news",
+          "press"
         ]
       }
     ]
@@ -24,11 +25,13 @@
     "data": [
       {
         "file_name": "iff-announces-expansion-cedar-rapids-iowa-ingredients-facility",
-        "file_type": "html",
-        "published_date": "2025-03-24",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2025/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility/iff-announces-expansion-cedar-rapids-iowa-ingredients-facility.pdf",
         "content_type": [
-          "news"
+          "news",
+          "announcement",
+          "press"
         ]
       }
     ]
@@ -41,11 +44,13 @@
     "data": [
       {
         "file_name": "iff-announces-executive-leadership-team-aligned-new-operating",
-        "file_type": "html",
-        "published_date": "2025-03-24",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-announces-executive-leadership-team-aligned-new-operating/iff-announces-executive-leadership-team-aligned-new-operating",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2025/iff-announces-executive-leadership-team-aligned-new-operating/iff-announces-executive-leadership-team-aligned-new-operating.pdf",
         "content_type": [
-          "news"
+          "news",
+          "announcement",
+          "press"
         ]
       }
     ]
@@ -58,12 +63,13 @@
     "data": [
       {
         "file_name": "iff-reports-fourth-quarter-and-full-year-2024-results",
-        "file_type": "html",
-        "published_date": "2025-03-24",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-03-24/iff-reports-fourth-quarter-and-full-year-2024-results/iff-reports-fourth-quarter-and-full-year-2024-results",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2025/iff-reports-fourth-quarter-and-full-year-2024-results/iff-reports-fourth-quarter-and-full-year-2024-results.pdf",
         "content_type": [
           "news",
-          "financial_filing"
+          "press",
+          "financial-filing"
         ]
       }
     ]
@@ -76,11 +82,12 @@
     "data": [
       {
         "file_name": "iff-release-fourth-quarter-full-year-2024-results-feb-18-2025",
-        "file_type": "html",
-        "published_date": "2025-02-18",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2025-02-18/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2025/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025/iff-release-fourth-quarter-full-year-2024-results-feb-18-2025.pdf",
         "content_type": [
-          "news"
+          "news",
+          "press"
         ]
       }
     ]
@@ -93,11 +100,13 @@
     "data": [
       {
         "file_name": "iff-announces-board-directors-changes",
-        "file_type": "html",
-        "published_date": "2024-03-24",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/iff-announces-board-directors-changes/iff-announces-board-directors-changes",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2024/iff-announces-board-directors-changes/iff-announces-board-directors-changes.pdf",
         "content_type": [
-          "news"
+          "news",
+          "announcement",
+          "press"
         ]
       }
     ]
@@ -110,12 +119,13 @@
     "data": [
       {
         "file_name": "iff-names-michael-deveau-chief-financial-officer",
-        "file_type": "html",
-        "published_date": "2024-03-24",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-03-24/iff-names-michael-deveau-chief-financial-officer/iff-names-michael-deveau-chief-financial-officer",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2024/iff-names-michael-deveau-chief-financial-officer/iff-names-michael-deveau-chief-financial-officer.pdf",
         "content_type": [
           "news",
-          "financial_filing"
+          "press",
+          "financial-filing"
         ]
       }
     ]
@@ -128,12 +138,13 @@
     "data": [
       {
         "file_name": "iff-reports-third-quarter-2024-results",
-        "file_type": "html",
+        "file_type": "pdf",
         "published_date": "2024",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/iff-reports-third-quarter-2024-results/iff-reports-third-quarter-2024-results",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2024/iff-reports-third-quarter-2024-results/iff-reports-third-quarter-2024-results.pdf",
         "content_type": [
           "news",
-          "financial_filing"
+          "press",
+          "financial-filing"
         ]
       }
     ]
@@ -146,11 +157,12 @@
     "data": [
       {
         "file_name": "iff-declares-dividend-fourth-quarter-2024",
-        "file_type": "html",
+        "file_type": "pdf",
         "published_date": "2024",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024/iff-declares-dividend-fourth-quarter-2024/iff-declares-dividend-fourth-quarter-2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2024/iff-declares-dividend-fourth-quarter-2024/iff-declares-dividend-fourth-quarter-2024.pdf",
         "content_type": [
-          "news"
+          "news",
+          "press"
         ]
       }
     ]
@@ -163,11 +175,12 @@
     "data": [
       {
         "file_name": "iff-release-third-quarter-2024-results-november-5-2024",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "url": "https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com/fin-scraping-bucket/IFF/2024-11-05/iff-release-third-quarter-2024-results-november-5-2024/iff-release-third-quarter-2024-results-november-5-2024",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2024/iff-release-third-quarter-2024-results-november-5-2024/iff-release-third-quarter-2024-results-november-5-2024.pdf",
         "content_type": [
-          "news"
+          "news",
+          "press"
         ]
       }
     ]

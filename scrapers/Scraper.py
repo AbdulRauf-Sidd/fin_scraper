@@ -28,7 +28,12 @@ class Scraper:
         self.geography = self.config['geography']
         self.archive = self.config['pagination']['archive']
         self.timeout = self.config['pagination']['timeout']
-        self.periodicity = "periodic" if self.config['periodic'] == "true" else "non-periodic"
+        if self.config['periodic'] == True:
+            self.periodicity = "periodic"
+        elif self.config['periodic'] == False:
+            self.periodicity = "non-periodic"
+        else:
+            self.periodicity = None
         self.headless = self.config['headless']
         self.forced_type = self.config['forced_type']
         self.direct = self.config['direct']
@@ -135,8 +140,6 @@ class Scraper:
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
-                    print(f"\n✅ Data saved in: {self.output_file}")
-                    
                     await output_event_JSON_to_file(
                         direct=self.direct,
                         input_json_file=self.output_file,

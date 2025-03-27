@@ -10,7 +10,22 @@ from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 from utils.is_periodic_non_periodic import is_periodic_non_periodic
 from utils.get_event_name_for_periodic_european_equities import get_event_name_for_periodic_european_equities
+from utils.get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
+
+
+def save_json(data, filename):
+    file_mode = 'a' if os.path.exists(filename) else 'w'
+    with open(filename, file_mode) as f:
+        if file_mode == 'a':  # File exists, append to it
+            f.seek(0, os.SEEK_END)  # Seek to end of file
+            f.seek(f.tell() - 1, os.SEEK_SET)  # Go back one character from the end
+            f.truncate()  # Remove the last character (should be a closing bracket ])
+            f.write(',\n')  # Prepare for new JSON object
+            json.dump(data, f)
+            f.write(']')
+        else:  # File does not exist, create new
+            json.dump([data], f)  # Write data as a list of JSON objects
 
 # Create logs directory if it doesn't exist
 os.makedirs('logs', exist_ok=True)
@@ -85,22 +100,23 @@ async def construct_event_json(
     # ~~~~~~~~~~~~~~~~~~~~~~
     # 1) Extract fields
     # ~~~~~~~~~~~~~~~~~~~~~~
-
     
+        
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
 
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
-    if (periodicity not in(True, False, "true", "false")):
-        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
-        periodicity = is_periodic_non_periodic(html_element, geography)
+    if (periodicity == None):
+        periodicity = is_periodic_non_periodic(html_element)
         logger.debug(f"Extracted periodicity={periodicity}")
-
-    if ((periodicity == True) or (periodicity == "periodic"))  and (geography == "european"):
-        print("febfebj kbkejrfebkfkjebkfeje\nererer\nf ewf ewfe\n4tvt3t3")
+   
+    if (periodicity == "periodic")  and (geography.casefold() == "european"):
         event_name = get_event_name_for_periodic_european_equities(html_element)
+        logger.debug(f"Extracted event_name={event_name}\n{html_element}")
+    elif (periodicity == "periodic")  and (geography.casefold() == "us"):
+        event_name = get_event_name_for_periodic_us_equities(html_element)
         logger.debug(f"Extracted event_name={event_name}\n{html_element}")
     else:
         event_name = get_event_name_from_element(html_element)
@@ -151,7 +167,7 @@ async def construct_event_json(
             else:
                 file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
         else:
-            file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
+            file_path, file_name, file_type = await download_file(url=url, base_url='https://www.sec.gov', headless=headless)
         
         
         # If file_name is None => skip. But we just forced it to "Moiz."
@@ -229,10 +245,10 @@ async def output_event_JSON_to_file(
 
     # ~~~~~ 2) Process each snippet ~~~~~
     final_results = []
+    batch_size = 20
 
     for idx, snippet in enumerate(snippet_list, start=1):
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
-        # We assume 'construct_event_json' is imported or defined in the same file
         result = await construct_event_json(
             direct=direct,
             file_name=input_json_file,
@@ -251,29 +267,50 @@ async def output_event_JSON_to_file(
             logger.info(f"Snippet #{idx} -> Event JSON created.")
             final_results.append(result)
 
-    # ~~~~~ 3) Write valid results to 'output_json_file' ~~~~~
-    with open(output_json_file, "w", encoding="utf-8") as f:
-        json.dump(final_results, f, indent=2)
+        # Save batch to file every 20 items or on last item
+        if idx % batch_size == 0 or idx == len(snippet_list):
+            if final_results:  # Only save if we have results
+                try:
+                    # Read existing data if file exists
+                    existing_data = []
+                    if os.path.exists(output_json_file):
+                        with open(output_json_file, 'r') as f:
+                            try:
+                                existing_data = json.load(f)
+                            except json.JSONDecodeError:
+                                existing_data = []
+                    
+                    # Combine existing data with new batch
+                    combined_data = existing_data + final_results[-batch_size:]
+                    
+                    # Write all data back to file
+                    with open(output_json_file, 'w') as f:
+                        json.dump(combined_data, f, indent=2)
+                        
+                    logger.info(f"Saved batch of results to {output_json_file}")
+                except Exception as e:
+                    logger.error(f"Error saving batch: {str(e)}")
 
+    logger.info(f"Total Events: {len(snippet_list)} -> Processed: {len(final_results)}")
     logger.info(f"Done! Wrote {len(final_results)} items to {output_json_file}")
 
 
 # Example usage/call, in the same file
 
-if __name__ == "__main__":
-    # Hard-coded example usage
-    input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
-    output_file = "output_results.json"   # We'll write the results here
+# if __name__ == "__main__":
+#     # Hard-coded example usage
+#     input_file = "data/CORZ_financial-information.json"    # This is the JSON file containing the array of HTML strings
+#     output_file = "output_results.json"   # We'll write the results here
 
-    # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
-    ticker = "COOL"
-    geo = "US"
-    period = "periodic_event"
+#     # The same 'equity_ticker', 'geography', and 'periodicity' for all snippets in the file
+#     ticker = "COOL"
+#     geo = "US"
+#     period = "periodic_event"
 
-    output_event_JSON_to_file(
-        input_json_file=input_file,
-        output_json_file=output_file,
-        equity_ticker=ticker,
-        geography=geo,
-        periodicity=period
-    )
+#     output_event_JSON_to_file(
+#         input_json_file=input_file,
+#         output_json_file=output_file,
+#         equity_ticker=ticker,
+#         geography=geo,
+#         periodicity=period
+#     )
