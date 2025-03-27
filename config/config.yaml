@@ -179,24 +179,26 @@ CRDA_presentations:
     timeout: null
 
     
-CRDA_financial:     #COMPLETED
+CRDA_news:     #COMPLETED
   ticker: CRDA
-  url: https://www.volkswagen-group.com/en/financial-news-17302
-  output: data/CRDA_financial.json
-  output_json: JSONS/CRDA_financial.json
-  base_address: https://www.croda.com/en-gb/
+  url: https://www.croda.com/en-gb/media-hub/news?categories=all&sortby=0&pagesize=100&page=2&market=all
+  output: data/CRDA_news.json
+  output_json: JSONS/CRDA_news.json
+  base_address: https://www.croda.com/
   periodic: null
   geography: "European"
-  forced_type: "financial_filing"
-  headless: false
-  direct: true
+  forced_type: "news"
+  headless: true
+  direct: false
   selectors:
-    event_block: a.vertical-page-list-item.-medium.up-can-clean
+    event_block: div.c-bootstrap-card.brandable.card.js-module.horizontal
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: a.page-link.page-link--next.c-content-aggregator__pagination-next.disabled
     archive: null
     timeout: null
+
+
 
 
 CBP_events:         # Pagination not being handled correctly
@@ -236,6 +238,47 @@ CBP_news:       # Pagination not handled correctly
     next_button: li.pager__item a
     archive: null
     timeout: null
+
+
+CBP_newsroom:       # Pagination not handled correctly
+  ticker: CBP
+  url: https://www.thecampbellscompany.com/newsroom/
+  output: data/CBP_newsroom.json
+  output_json: JSONS/CBP_newsroom.json
+  base_address: https://investor.thecampbellscompany.com/
+  periodic: false
+  headless: false
+  geography: "US"
+  forced_type: "news"
+  direct: true
+  selectors:
+    event_block: article.article.article--post
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+CBP_financial:       # Pagination not handled correctly
+  ticker: CBP
+  url: https://investor.thecampbellscompany.com/financials/quarterly-results
+  output: data/CBP_financial.json
+  output_json: JSONS/CBP_financial.json
+  base_address: https://investor.thecampbellscompany.com/
+  periodic: false
+  headless: false
+  geography: "US"
+  forced_type: "financial"
+  direct: true
+  selectors:
+    event_block: div.llf-col-12.llf-col-md-6.llf-col-lg-3.llf-pb-5.llf-pb-lg-0.ndm-quarter
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+
 
 #DSFIR
 DSFIR_news:       #COMPLETED
@@ -277,6 +320,26 @@ DSFIR_press:    #COMPLETED
     archive: null
     timeout: null
 
+DSFIR_press:    #COMPLETED
+  ticker: DSFIR
+  scraper: null
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+  output: data/DSFIR_press.json
+  output_json: JSONS/DSFIR_press.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: false
+  geography: "European"
+  forced_type: "Press Release"
+  headless: false
+  direct: true
+  selectors:
+    event_block: .cmp-title, .cmp-text, .cmp-image
+  pagination:
+    type: year_tabs
+    next_button: "li.cmp-tabs__tab"
+    archive: null
+    timeout: null
+
 GIVN_news:        
   ticker: GIVN
   url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=All
@@ -293,6 +356,26 @@ GIVN_news:
   pagination:
     type: load_more
     next_button: div.load-more-news button
+    archive: null
+    timeout: null
+
+
+GIVN_media_releases:        
+  ticker: GIVN
+  url: https://www.givaudan.com/media/media-releases?keyword=&im_givaudan_publication_year=All&tm_vid_1_names=All&tm_vid_1_names_adhoc=16601
+  output: data/GIVN_media_releases.json
+  output_json: JSONS/GIVN_media_releases.json
+  base_address: https://www.givaudan.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.views-row show
+  pagination:
+    type: load_more
+    next_button: div.load-more-news 
     archive: null
     timeout: null
 

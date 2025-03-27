@@ -167,7 +167,7 @@ async def construct_event_json(
             else:
                 file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
         else:
-            file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
+            file_path, file_name, file_type = await download_file(url=url, base_url='https://www.sec.gov', headless=headless)
         
         
         # If file_name is None => skip. But we just forced it to "Moiz."
