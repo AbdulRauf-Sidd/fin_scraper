@@ -733,7 +733,7 @@ NOVO-B_reporting:   #Complete
   output_json: JSONS/NOVO-B_reporting.json
   base_address: https://www.novonordisk.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "reporting"
   direct: false
   headless: false
