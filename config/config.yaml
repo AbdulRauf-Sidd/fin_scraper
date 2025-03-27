@@ -289,7 +289,7 @@ DSFIR_news:       #COMPLETED
   output: data/DSFIR_news.json
   output_json: JSONS/DSFIR_news.json
   base_address: https://investors.dsm-firmenich.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false
@@ -302,36 +302,16 @@ DSFIR_news:       #COMPLETED
     archive: null
     timeout: null
 
-DSFIR_press:    #COMPLETED
+DSFIR_press:    #
   ticker: DSFIR
   scraper: null
   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
   output: data/DSFIR_press.json
   output_json: JSONS/DSFIR_press.json
   base_address: https://investors.dsm-firmenich.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "Press Release"
-  headless: false
-  direct: true
-  selectors:
-    event_block: .cmp-title, .cmp-text, .cmp-image
-  pagination:
-    type: year_tabs
-    next_button: "li.cmp-tabs__tab"
-    archive: null
-    timeout: null
-
-DSFIR_press:    #COMPLETED
-  ticker: DSFIR
-  scraper: null
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-  output: data/DSFIR_press.json
-  output_json: JSONS/DSFIR_press.json
-  base_address: https://investors.dsm-firmenich.com/
-  periodic: false
-  geography: "European"
-  forced_type: "Press Release"
+  forced_type: "press-release"
   headless: false
   direct: true
   selectors:
@@ -348,7 +328,7 @@ GIVN_news:
   output: data/GIVN_news.json
   output_json: JSONS/GIVN_news.json
   base_address: https://www.givaudan.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false
@@ -368,7 +348,7 @@ GIVN_media_releases:
   output: data/GIVN_media_releases.json
   output_json: JSONS/GIVN_media_releases.json
   base_address: https://www.givaudan.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false
@@ -388,7 +368,7 @@ GIVN_publication:
   output: data/GIVN_publication.json
   output_json: JSONS/GIVN_publication.json
   base_address: https://www.givaudan.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false
@@ -408,7 +388,7 @@ GIVN_media:
   output: data/GIVN_media.json
   output_json: JSONS/GIVN_media.json
   base_address: https://www.givaudan.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "news"
   headless: false

@@ -30,9 +30,7 @@ PERIODIC_PATTERNS = [
     r"\bfiscal[-_\s]?year\b",             # fiscal year
     r"\b[369][-_\s]?months?\b",           # 3 months, 6 months, 9 months
     r"\bannual[-_\s]?report\b",           # annual report
-    r"\b(january|february|march|april|may|june|july|august|september|october|november|december)\b",  # months
     r"\b(january[-_\s]?to[-_\s]?september|january[-_\s]?september)\b",  # date ranges like January-September
-    r"\b\d{1,2}[-_\s]?(january|february|march|april|may|june|july|august|september|october|november|december)[-_]?\d{4}\b",  # specific dates like March 01, 2022
 ]
 
 # Function to classify the event/document type
