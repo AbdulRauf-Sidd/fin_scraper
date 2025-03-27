@@ -640,7 +640,7 @@ RL_presentations:
 
 
 
-SY1_finance:     #TODO
+SY1_finance:     #COMPLETED
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-results/
@@ -677,8 +677,8 @@ SY1_events:     # COMPLETED
   pagination:
     type: null
     next_button: null
-#      archive: .archive-toggler
-#      timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 SY1_news:         #COMPLETED
   ticker: SY1

@@ -113,7 +113,7 @@ async def construct_event_json(
 
     
     # If event_name is missing or empty, skip entirely
-    if (not event_name) or (event_name in ("None", "null")):
+    if (not event_name) or (event_name.casefold() in ("none", "null")):
         logger.debug("No event_name found. Skipping JSON construction -> return None.")
         return None
 
