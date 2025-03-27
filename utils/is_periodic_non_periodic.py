@@ -66,11 +66,11 @@ def is_periodic_non_periodic(html_element):
     # If periodic is not found, classify as non-periodic
     if not is_periodic:
         logger.info("No periodic pattern matched. Classifying as Non-Periodic")
-        return "Non-Periodic"
+        return "non-Periodic"
     
     # If periodic is found
     logger.info("Event classified as Periodic")
-    return "Periodic"
+    return "periodic"
 
 # # Example calls to the function
 # html_element_example_1 = """<div class="result-line"><p>Quarterly Earnings Report Q4 2024</p></div>"""
