@@ -114,7 +114,7 @@ def get_event_name_from_element(html_snippet: str) -> str:
 
     if not text.strip():
         logger.debug("Snippet has no text, returning 'Null'")
-        return "Null"
+        return "null"
 
     doc = nlp(text)
 
@@ -130,7 +130,7 @@ def get_event_name_from_element(html_snippet: str) -> str:
 
     # If none found
     logger.debug("No event match found in any sentence. Returning 'Null'.")
-    return "Null"
+    return "null"
 
 
 def _sentence_has_event_match(sentence: spacy.tokens.span.Span) -> bool:
