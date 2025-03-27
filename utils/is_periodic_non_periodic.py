@@ -9,33 +9,31 @@ logger = logging.getLogger()
 
 # Exhaustive periodic patterns for matching
 PERIODIC_PATTERNS = [
-    r"\bquarterly\b",           # matches quarterly
-    r"\bannual\b",              # matches annual
-    r"\byearly\b",              # matches yearly
-    r"\bsemi[-\s]?annual\b",    # semi-annual
-    r"\bquarter[-\s]?report\b", # quarterly report
-    r"\bfiling\b",              # common filing term
-    r"\binterim\b",             # interim
-    r"\bhalf[-\s]?year\b",      # half-year
-    r"\bmonthly\b",             # monthly
-    r"\byear[-\s]?end\b",       # year-end
-    r"\bannual\b",  # annual
-    r"\bpreliminary\b",  # preliminary
-    r"\bquarter\b",  # quarter
-    r"\bhalf[-_\s]?year\b",  # half-year
-    r"\bfull[-_\s]?year\b",  # full-year
-    r"\bfigures\b",  # figures
-    r"\bsemi[-_\s]?annual\b",  # semi-annual
-    r"\bmonthly\b",  # monthly
-    r"\bq[1-4]\b",              # Q1, Q2, Q3, Q4
-    r"\bfy\b",                  # FY (Fiscal Year)
-    r"\b[369]m\b",              # 3M, 6M, 9M (Months)
-    r"\bh1\b",                  # H1 (First Half)
-    r"\bh2\b",                  # H2 (Second Half)
-    r"\bfinancial[-\s]?year\b",  # financial year
-    r"\bfiscal[-\s]?year\b",     # fiscal year
-    r"\b3m\b",                   # 3 months
-    r"\b9m\b",                   # 9 months
+    r"\bquarterly\b",                     # matches quarterly
+    r"\bannual\b",                        # matches annual
+    r"\byearly\b",                        # matches yearly
+    r"\bsemi[-_\s]?annual\b",             # semi-annual
+    r"\bquarter[-_\s]?report\b",          # quarterly report
+    r"\bfiling\b",                        # common filing term
+    r"\binterim\b",                       # interim
+    r"\bhalf[-_\s]?year\b",               # half-year
+    r"\bmonthly\b",                       # monthly
+    r"\byear[-_\s]?end\b",                # year-end
+    r"\bpreliminary\b",                   # preliminary
+    r"\bquarter\b",                       # quarter
+    r"\bfull[-_\s]?year\b",               # full-year
+    r"\bfigures\b",                       # figures
+    r"\bq[1-4]\b",                        # Q1, Q2, Q3, Q4
+    r"\bfy\b",                            # FY (Fiscal Year)
+    r"\b[369]m\b",                        # 3M, 6M, 9M (Months)
+    r"\bh[12]\b",                         # H1 (First Half), H2 (Second Half)
+    r"\bfinancial[-_\s]?year\b",          # financial year
+    r"\bfiscal[-_\s]?year\b",             # fiscal year
+    r"\b[369][-_\s]?months?\b",           # 3 months, 6 months, 9 months
+    r"\bannual[-_\s]?report\b",           # annual report
+    r"\b(january|february|march|april|may|june|july|august|september|october|november|december)\b",  # months
+    r"\b(january[-_\s]?to[-_\s]?september|january[-_\s]?september)\b",  # date ranges like January-September
+    r"\b\d{1,2}[-_\s]?(january|february|march|april|may|june|july|august|september|october|november|december)[-_]?\d{4}\b",  # specific dates like March 01, 2022
 ]
 
 # Function to classify the event/document type

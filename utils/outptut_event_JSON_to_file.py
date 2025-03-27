@@ -13,20 +13,6 @@ from utils.get_event_name_for_periodic_european_equities import get_event_name_f
 from utils.get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
 import os
 
-
-def save_json(data, filename):
-    file_mode = 'a' if os.path.exists(filename) else 'w'
-    with open(filename, file_mode) as f:
-        if file_mode == 'a':  # File exists, append to it
-            f.seek(0, os.SEEK_END)  # Seek to end of file
-            f.seek(f.tell() - 1, os.SEEK_SET)  # Go back one character from the end
-            f.truncate()  # Remove the last character (should be a closing bracket ])
-            f.write(',\n')  # Prepare for new JSON object
-            json.dump(data, f)
-            f.write(']')
-        else:  # File does not exist, create new
-            json.dump([data], f)  # Write data as a list of JSON objects
-
 # Create logs directory if it doesn't exist
 os.makedirs('logs', exist_ok=True)
 
@@ -108,8 +94,10 @@ async def construct_event_json(
     content_type = get_content_type_from_element(html_element, forced_type)
     logger.debug(f"Extracted content_type={content_type}")
 
+    print("periodicity", periodicity)
     if (periodicity == None):
         periodicity = is_periodic_non_periodic(html_element)
+        print("ekrnrejkgekrjgnver")
         logger.debug(f"Extracted periodicity={periodicity}")
    
     if (periodicity == "periodic")  and (geography.casefold() == "european"):
