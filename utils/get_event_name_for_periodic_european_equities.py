@@ -4,9 +4,10 @@ from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 import datetime
 import os
+from .spacy_model import nlp
 
 # Load spaCy's English language model
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 
 def extract_text_from_html(html_element):
     """
@@ -181,7 +182,8 @@ def get_event_name_for_periodic_european_equities(*args):
         log_file.write(log_entry)
 
     # Terminal output shows only the final event name.
-    print(final_event_name)
+    # print(final_event_name)
+    return final_event_name
 
 # # ----- Test Example Use Calls -----
 

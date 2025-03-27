@@ -1,5 +1,6 @@
 import re
 import spacy
+from .spacy_model import nlp
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 import datetime
@@ -36,7 +37,7 @@ def extract_entities_with_spacy(text):
     dates = [ent.text for ent in doc.ents if ent.label_ == "DATE"]
     
     # Check for specific event-related terms using keyword matching
-    event_keywords = ["Annual Report", "Fiscal Year", "Q1", "Q2", "Q3", "Q4", "Half-year", "9M", "3M", "January - March", "January - September"]
+    event_keywords = ["Annual Report", "Fiscal Year", "Q1", "Q2", "Q3", "Q4", "Quarterly", "Annual", "Yearly", "Year End", "Full Year", "First Quarter", "Second Quarter", "Third Quarter", "Fourth Quarter", "Calendar Year", "FY"] 
     matched_keywords = [keyword for keyword in event_keywords if keyword.lower() in text.lower()]
     
     return dates, matched_keywords
@@ -237,7 +238,8 @@ def get_event_name_for_periodic_us_equities(*args):
         log_file.write(log_entry)
 
     # Terminal output shows only the final event name.
-    print(final_event_name)
+    # print(final_event_name)
+    return final_event_name
 
 
-# print(get_event_name_for_periodic_us_equities(''' 2023 first quarter report which provides a comprehensive overview of the company for the past year'''))
+# print(get_event_name_for_periodic_us_equities(''' <div class="list__content" bis_skin_checked="1"><h3><a href="/news/press-releases/PVH-Corp-Reports-2024-Third-Quarter-Revenue-and-Earnings-Above-Guidance">PVH Corp. Reports 2024 Third Quarter Revenue and Earnings Above Guidance</a></h3><p class="list__description">Third quarter Revenue: Decreased 5% to $2.255 billion compared to the prior year period (decreased 6% on a constant currency basis), and exceeded guidance of a decrease of 6% to 7% (decrease of 7% to 8% on a constant currency basis) EPS: GAAP basis: $2.34 exceeded guidance of approximately $2.30</p><!----><p class="list__date">Dec 04, 2024</p></div>'''))

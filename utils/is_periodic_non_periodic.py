@@ -136,8 +136,8 @@ def is_periodic_non_periodic(html_element, geography):
         return "Unclassified"
 
 # # Example call to the function
-html_element_example = """<div class="result-line"><p>Quarterly Earnings Report Q4 2024</p></div>"""
-event_type = is_periodic_non_periodic("annual report", "US")
-logger.info(f"Final Classification: {event_type}")
+# html_element_example = """<div class="result-line"><p>Quarterly Earnings Report Q4 2024</p></div>"""
+# event_type = is_periodic_non_periodic("annual report", "US")
+# logger.info(f"Final Classification: {event_type}")
 
 # Example of periodic and non-periodic cases

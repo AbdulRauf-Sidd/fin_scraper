@@ -56,6 +56,6 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
             return None, None, None
         
 asyncio.run(download_file(url=''
-"https://investor.workday.com/2025-03-24-Workday-Named-a-Leader-in-2025-Gartner-R-Magic-Quadrant-TM-for-Higher-Education-Student-Information-Systems"
+"https://www.camparigroup.com/sites/default/files/downloads/01.1%20Campari%20Group_Annual%20Report%20for%20the%20year%20ended%2031%20December%202024_0.pdf"
 ,
 headless=False))

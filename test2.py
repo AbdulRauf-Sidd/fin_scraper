@@ -1,0 +1,3 @@
+from utils.get_event_name_for_periodic_us_equities import get_event_name_for_periodic_us_equities
+
+print('hi, ', get_event_name_for_periodic_us_equities('''<div class="list__content" bis_skin_checked="1"><h3><a href="/news/press-releases/PVH-Corp-Reports-2024-Second-Quarter-Earnings-Above-Guidance">PVH Corp. Reports 2024 Second Quarter Earnings Above Guidance</a></h3><p class="list__description">Second quarter Revenue: Decreased 6% to $2.074 billion compared to the prior year period (decreased 5% on a constant currency basis), in line with guidance of a decrease of 6% to 7% (decrease of 5% to 6% on a constant currency basis) EPS: GAAP basis: $2.80 exceeded guidance of approximately $2.25</p><!----><p class="list__date">Aug 27, 2024</p></div>'''))  # Returns: "10-K"
