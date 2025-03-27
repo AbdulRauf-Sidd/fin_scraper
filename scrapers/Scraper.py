@@ -34,7 +34,6 @@ class Scraper:
             self.periodicity = "non-periodic"
         else:
             self.periodicity = None
-        self.periodicity = "periodic" if self.config['periodic'] == True else "non-periodic"
         self.headless = self.config['headless']
         self.forced_type = self.config['forced_type']
         self.direct = self.config['direct']

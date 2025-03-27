@@ -628,14 +628,14 @@ KER_press: #COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-KER_finance:   #Periodicity for european financial docs.
+KER_finance:   #scroll issue.
   ticker: KER
   scraper: null
   url: https://www.kering.com/en/finance/publications/
   output: data/KER_finance.json
   output_json: JSONS/KER_finance.json
   base_address: https://www.kering.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "finance"
   headless: false
