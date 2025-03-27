@@ -63,7 +63,7 @@ PVH_resources:    # COMPLETED
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
-  output: data/PVH_resources.json
+  output: data/PinvestorsVH_resources.json
   output_json: JSONS/PVH_resources.json
   forced_type: "resources"
   base_address: https://www.pvh.com/
@@ -82,7 +82,7 @@ PVH_resources:    # COMPLETED
 CORZ_financial-information:   # COMPLETED
   ticker: CORZ
   scraper: null
-  url: https://investors.corescientific.com/financial-information/financial-results
+  url: https://.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
   output_json: JSONS/CORZ_financial-information.json
   base_address: https://investors.corescientific.com/
