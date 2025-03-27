@@ -125,57 +125,68 @@ def get_event_name_for_periodic_us_equities(*args):
 
     # Check for matches in a prioritized order.
     if match_q:
+        print('1')
         # For half-year results, get the half (H1 or H2) and the year
         quarter = match_q.group(1).upper()
         year = match_q.group(2)
         final_event_name = f"{quarter} {year}"
         decision_reason = "Matched quarterly (Q1-Q4) pattern."
     elif match_full:
+        print('2')
         # If it's 9M (9-months) report
         year = match_full.group(2)
         final_event_name = f"FY {year}"
         decision_reason = "Matched full year pattern."
     elif match_reverse_full:
+        print('3')
         # If it's 3M (3-months) report
-        year = match_q1.group(1)
+        year = match_reverse_full.group(1)
         final_event_name = f"FY {year}"
         decision_reason = "Matched Full year reverse pattern."
     elif match_q1:
+        print('4')
         # If it's 3M (3-months) report
         year = match_q1.group(2)
         final_event_name = f"Q1 {year}"
         decision_reason = "Matched Q1 pattern."
     elif match_q2:
+        print('5')
         # If it's 3M (3-months) report
-        year = match_q3.group(2)
+        year = match_q2.group(2)
         final_event_name = f"Q2 {year}"
         decision_reason = "Matched Q2 pattern."
     elif match_q3:
+        print('6')
         # If it's 3M (3-months) report
         year = match_q3.group(2)
         final_event_name = f"Q3 {year}"
         decision_reason = "Matched Q3 pattern."
     elif match_q4:
+        print('7')
         # If it's 3M (3-months) report
         year = match_q4.group(2)
         final_event_name = f"Q4 {year}"
         decision_reason = "Matched Q4 pattern."
     elif match_reverse_q1:
+        print('8')
         # If it's 3M (3-months) report
         year = match_reverse_q1.group(1)
         final_event_name = f"Q1 {year}"
         decision_reason = "Matched Q1 reverse pattern."
     elif match_reverse_q2:
+        print('9')
         # If it's 3M (3-months) report
         year = match_reverse_q2.group(1)
         final_event_name = f"Q2 {year}"
         decision_reason = "Matched Q2 reverse pattern."
     elif match_reverse_q3:
+        print('10')
         # If it's 3M (3-months) report
         year = match_reverse_q3.group(1)
         final_event_name = f"Q3 {year}"
         decision_reason = "Matched Q3 reverse pattern."
     elif match_reverse_q4:
+        print('11')
         # If it's 3M (3-months) report
         year = match_reverse_q4.group(1)
         final_event_name = f"Q4 {year}"

@@ -1,5 +1,6 @@
 __pycache__/
 fin_scraper/*
+links/*
 venv/*
 fin_env/
 .env
@@ -11,4 +12,3 @@ logs/*
 SEC/downloads/*
 test_docs/*
 JSONS/*
-links/*
