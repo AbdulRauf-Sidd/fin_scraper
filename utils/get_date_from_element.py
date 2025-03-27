@@ -11,7 +11,7 @@ from .spacy_model import nlp
 # nlp = spacy.load("en_core_web_sm")
 
 # Configure logging to write to a file
-LOG_FILE = "get_date_from_element.log"
+LOG_FILE = "logs/get_date_from_element.log"
 
 def log_to_file(message: str):
     """Helper function to log messages to a file with line spacing."""
