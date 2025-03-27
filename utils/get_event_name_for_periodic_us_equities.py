@@ -42,6 +42,27 @@ def extract_entities_with_spacy(text):
     
     return dates, matched_keywords
 
+def clean_event_name(event_name):
+    """
+    Clean the event name by removing:
+    - Brackets and their content
+    - File extensions like .pdf, .docx, etc.
+    - Any other unwanted symbols or words.
+    """
+    # Remove content inside brackets (e.g., [Sustainability Report])
+    event_name = re.sub(r'\[.*?\]', '', event_name)
+    
+    # Remove file extensions (e.g., pdf, docx, xlsx, pptx, jpg, png, txt) regardless of case and with or without a dot
+    event_name = re.sub(r'\.?(pdf|docx|xlsx|pptx|jpg|png|txt)', '', event_name, flags=re.IGNORECASE)
+    
+    # Remove any other unwanted symbols (e.g., extra spaces, special characters)
+    event_name = re.sub(r'[^a-zA-Z0-9\s]', '', event_name)
+    
+    # Clean up extra spaces
+    event_name = ' '.join(event_name.split())
+    
+    return event_name
+
 def get_event_name_for_periodic_us_equities(*args):
     """
     Determines a standardized event name for European equities using NLP and regex matching.
@@ -209,6 +230,9 @@ def get_event_name_for_periodic_us_equities(*args):
             else:
                 final_event_name = raw_event_name
                 decision_reason = "No match found, returning raw event name for raw input."
+
+
+    final_event_name = clean_event_name(final_event_name)
 
     # Build a log entry with separators and timestamp
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
