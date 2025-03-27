@@ -328,6 +328,9 @@ async def download_file(url, base_url="https://www.sec.gov", headless=True):
         print('downloaded')
         absolute_path = os.path.abspath(f'downloads/{filename}')
         file_type, absolute_path = add_extension_if_missing(absolute_path)
+        if file_type == 'octet-stream':
+            raise Exception("Fall back to pdf")
+        print('file type:', file_type)
         logging.info(f"File downloaded: {absolute_path} ({file_type})")
         return absolute_path, filename, file_type 
     except Exception as e:
