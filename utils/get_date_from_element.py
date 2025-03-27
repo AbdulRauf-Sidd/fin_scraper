@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 nlp = spacy.load("en_core_web_sm")
 
 # Configure logging to write to a file
-LOG_FILE = "logs/get_date_from_element.log"
+LOG_FILE = "get_date_from_element.log"
 
 def log_to_file(message: str):
     """Helper function to log messages to a file with line spacing."""
@@ -32,10 +32,15 @@ def get_date_from_element(html_snippet: str) -> str:
     # 1) Strip HTML to get plain text
     text = _extract_text(html_snippet)
 
-    # 2) Try full-date extraction (Spacy/Regex approach)
-        # to partial logic so we don't artificially produce "YYYY-01-01"
-        # E.g., if it was just "2025".
-        # We'll pass control to partial logic below.
+    dt_full = _extract_complete_date_spacy_regex(text)
+    if dt_full:
+        # If we indeed found day/month/year, return "YYYY-MM-DD"
+        # But let's confirm the snippet actually contained day and month 
+        # (not just a guess). We'll do a quick check with day/month detection:
+        has_day = _text_has_day(text)
+        has_month = _text_has_month(text)
+        if has_day and has_month:
+            return f"{dt_full.year:04d}-{dt_full.month:02d}-{dt_full.day:02d}"
     
     # 3) If we don't have a confirmed full date, do partial fallback
     partial_date_str = _extract_partial_date(text)
@@ -351,4 +356,4 @@ def _text_has_month(text: str) -> bool:
 #     extracted_date = get_date_from_element(x)
 #     print(f"Extracted Event Date: {extracted_date}")
 
-print(get_date_from_element('20 Feb, 2025 CAGNY Conference Listen to webcast 2025 CAGNY Conference Presentation 7.1 MB'))
+print(get_date_from_element('''<div class="list__content" bis_skin_checked="1"><h3><a href="/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results">PVH Corp. to Host Conference Call to Discuss Fourth Quarter and Year-End 2024 Earnings Results</a></h3><p class="list__description">NEW YORK --(BUSINESS WIRE)--Mar. 17, 2025-- PVH Corp. (NYSE: PVH) today announced that it will release its fourth quarter and year-end 2024 earnings results on Monday, March 31, 2025 , after the market closes. PVH will sponsor a conference call on Tuesday, April 1, 2025 , beginning at 9:00 A.M.</p><!----><p class="list__date">Mar 17, 2025</p></div>'''))
