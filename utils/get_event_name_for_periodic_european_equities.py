@@ -182,7 +182,8 @@ def get_event_name_for_periodic_european_equities(*args):
         log_file.write(log_entry)
 
     # Terminal output shows only the final event name.
-    print(final_event_name)
+    # print(final_event_name)
+    return final_event_name
 
 # # ----- Test Example Use Calls -----
 
