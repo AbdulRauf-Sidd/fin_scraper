@@ -21,7 +21,6 @@ PERIODIC_PATTERNS = [
     r"\bpreliminary\b",                   # preliminary
     r"\bquarter\b",                       # quarter
     r"\bfull[-_\s]?year\b",               # full-year
-    r"\bfigures\b",                       # figures
     r"\bq[1-4]\b",                        # Q1, Q2, Q3, Q4
     r"\bfy\b",                            # FY (Fiscal Year)
     r"\b[369]m\b",                        # 3M, 6M, 9M (Months)

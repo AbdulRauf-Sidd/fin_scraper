@@ -1,0 +1,430 @@
+[
+  {
+    "event_name": "Financial March 27, 2025 Corporate and Financial Report 2024",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "2024",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/2024/2024.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#downloads",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#downloads/index.html#downloads.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#one-symrise",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#one-symrise/index.html#one-symrise.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#keyfigures",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#keyfigures/index.html#keyfigures.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Symrise_Unternehmensbericht_24_EN_interaktiv_geschuetzt.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/Symrise_Unternehmensbericht_24_EN_interaktiv_geschuetzt.pdf/Symrise_Unternehmensbericht_24_EN_interaktiv_geschuetzt.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Symrise_GB24_Lagebericht_EN_geschuetzt.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/Symrise_GB24_Lagebericht_EN_geschuetzt.pdf/Symrise_GB24_Lagebericht_EN_geschuetzt.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Symrise_GB24_Nichtfinanzielle_Konzernerklaerung_EN_geschuetzt.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/Symrise_GB24_Nichtfinanzielle_Konzernerklaerung_EN_geschuetzt.pdf/Symrise_GB24_Nichtfinanzielle_Konzernerklaerung_EN_geschuetzt.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Symrise_GB24_Konzernabschluss_EN_geschuetzt.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/Symrise_GB24_Konzernabschluss_EN_geschuetzt.pdf/Symrise_GB24_Konzernabschluss_EN_geschuetzt.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Symrise_GB24_Weitere_Informationen_EN_geschuetzt.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/Symrise_GB24_Weitere_Informationen_EN_geschuetzt.pdf/Symrise_GB24_Weitere_Informationen_EN_geschuetzt.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "SYM_Verguetungsbericht_2024_EN_250326_safe.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/SYM_Verguetungsbericht_2024_EN_250326_safe.pdf/SYM_Verguetungsbericht_2024_EN_250326_safe.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html/index.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#group-management-report",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#group-management-report/index.html#group-management-report.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#csrd",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#csrd/index.html#csrd.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#financial-statements",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#financial-statements/index.html#financial-statements.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "index.html#further-information",
+        "file_type": "html",
+        "published_date": "2025-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025-03-27/index.html#further-information/index.html#further-information.html",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2025",
+    "equity_ticker": "SY1",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Press-Kit.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Press-Kit.pdf/250327-Symrise-Press-Kit.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Facts-and-Figures.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Facts-and-Figures.pdf/250327-Symrise-Facts-and-Figures.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "Sustainability_WhitePaper1888.html",
+        "file_type": "html",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/Sustainability_WhitePaper1888.html/Sustainability_WhitePaper1888.html",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "241120-Symrise-CMD-2024-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/241120-Symrise-CMD-2024-Presentation.pdf/241120-Symrise-CMD-2024-Presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Press-Release-Corporate-Report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Press-Release-Corporate-Report-2024.pdf/250327-Symrise-Press-Release-Corporate-Report-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-HGB-Einzelabschluss.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-HGB-Einzelabschluss.pdf/250327-Symrise-HGB-Einzelabschluss.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Corporate-Report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Corporate-Report-2024.pdf/250327-Symrise-Corporate-Report-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Remuneratioin-Report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Remuneratioin-Report-2024.pdf/250327-Symrise-Remuneratioin-Report-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "index.html",
+        "file_type": "html",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/index.html/index.html",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-PR-preliminary-financial-results-FY2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-PR-preliminary-financial-results-FY2024.pdf/250130-Symrise-PR-preliminary-financial-results-FY2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-Pressepraesentation-GJ2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-Pressepraesentation-GJ2024.pdf/250130-Symrise-Pressepraesentation-GJ2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-preliminary-financial-information-FY2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-preliminary-financial-information-FY2024.pdf/250130-Symrise-preliminary-financial-information-FY2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250130-Symrise-preliminary-financial-information-Q42024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250130-Symrise-preliminary-financial-information-Q42024.pdf/250130-Symrise-preliminary-financial-information-Q42024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Corporate-Report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Corporate-Report-2024.pdf/250327-Symrise-Corporate-Report-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      },
+      {
+        "file_name": "250327-Symrise-Corporate-Report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SY1/2025/250327-Symrise-Corporate-Report-2024.pdf/250327-Symrise-Corporate-Report-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation",
+          "press-release"
+        ]
+      }
+    ]
+  }
+]
