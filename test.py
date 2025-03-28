@@ -12,7 +12,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
+        # 'Accept-Encoding': 'gzip, deflate, br',
         'Accept-Language': 'en-US,en;q=0.9',
         'Connection': 'keep-alive',
         'Referer': base_url,
@@ -57,8 +57,4 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
             # logging.error(f"Error Converting webpage to PDF: {e}")
             return None, None, None
         
-asyncio.run(download_file(url=''
-"https://www.croda.com/en-gb/media-hub/news/general/being-a-woman-at-croda-international-womens-day-2020"
-"https://www.thecampbellscompany.com/newsroom/press-releases/campbells-reports-second-quarter-fiscal-2025-results/"
-,
-headless=False))
+asyncio.run(download_file(url='https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results', headless=False, base_url='https://www.reckitt.com'))

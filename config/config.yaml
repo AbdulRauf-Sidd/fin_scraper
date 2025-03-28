@@ -1317,7 +1317,7 @@ HEIO_reports:
     archive: null
     timeout: null
 
-RKT_presentations:
+RKT_presentations:  #working
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
@@ -1325,6 +1325,7 @@ RKT_presentations:
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
   periodic: true
+  link_archive: links/RKT.txt
   geography: "European"
   forced_type: "presentations"
   direct: false
@@ -1337,16 +1338,17 @@ RKT_presentations:
     archive: null
     timeout: null
 
-RKT_investor-seminars:
+RKT_investor_seminars:  #working
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
-  output: data/RKT_investor-seminars.json
-  output_json: JSONS/RKT_investor-seminars.json
+  output: data/RKT_investor_seminars.json
+  output_json: JSONS/RKT_investor_seminars.json
   base_address: https://www.reckitt.com/
   periodic: false
   geography: "European"
-  forced_type: "investor-seminars"
+  forced_type: "seminars"
+  link_archive: links/RKT.txt
   headless: false
   direct: false
   selectors:
@@ -1357,7 +1359,7 @@ RKT_investor-seminars:
     archive: null
     timeout: null
 
-RKT_news:
+RKT_news:             #Iframe, And other big problems
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/regulatory-news/
@@ -1367,13 +1369,14 @@ RKT_news:
   periodic: false
   geography: "European"
   forced_type: "news"
+  link_archive: links/RKT.txt
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: tbody.desktop-view
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: a.icon-keyboard_arrow_right
     archive: null
     timeout: null 
 
@@ -1387,6 +1390,7 @@ RKT_agm:
   periodic: false
   geography: "European"
   forced_type: "Annual General Meetings"
+  link_archive: links/RKT.txt
   headless: false
   direct: false
   selectors:
@@ -1454,7 +1458,7 @@ OR_news:           #Complete
   forced_type: "news"
   direct: true
   selectors:
-    event_block: div.row
+    event_block: div.col-12.col-md-10.offset-md-1.col-lg-7.col-xl-6.offset-lg-0.offset-xl-0.news-events-listing__info-wrapper
   pagination:
     type: load_more
     next_button:  a.button
