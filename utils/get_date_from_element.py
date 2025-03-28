@@ -22,31 +22,48 @@ def get_date_from_element(html_snippet: str) -> str:
     log_to_file("============================================================")
     log_to_file(f"Input HTML Snippet:\n{html_snippet}")
     log_to_file("============================================================")
-    
-    """
-    Combined approach:
-      1) Try extracting a full date (YYYY-MM-DD) via regex + spacy + dateparser.
-      2) If that fails, fallback to partial-date logic that handles months, years, etc.
-      
-    Returns one of: "YYYY-MM-DD", "YYYY-MM", "YYYY", or "Null".
-    """
 
-    # 1) Strip HTML to get plain text
     text = _extract_text(html_snippet)
+    candidates = _extract_all_dates(text)
 
-    dt_full = _extract_complete_date_spacy_regex(text)
-    if dt_full:
-        # If we indeed found day/month/year, return "YYYY-MM-DD"
-        # But let's confirm the snippet actually contained day and month 
-        # (not just a guess). We'll do a quick check with day/month detection:
-        has_day = _text_has_day(text)
-        has_month = _text_has_month(text)
-        if has_day and has_month:
-            return f"{dt_full.year:04d}-{dt_full.month:02d}-{dt_full.day:02d}"
-    
-    # 3) If we don't have a confirmed full date, do partial fallback
-    partial_date_str = _extract_partial_date(text)
-    return partial_date_str
+    if not candidates:
+        return "Null"
+
+    # Pick the “longest” (most complete) date string
+    return max(candidates, key=len)
+
+
+def _extract_all_dates(text: str) -> list[str]:
+    candidates = set()
+
+    # 1) Regex full-date matches
+    date_pattern = r'\b([A-Za-z]{3,9}\s\d{1,2},\s\d{4}(?:\s\d{1,2}:\d{2}[ap]m)?(?:\s[A-Z]{2,4})?)'
+    for m in re.finditer(date_pattern, text):
+        parsed = dateparser.parse(m.group(0))
+        if parsed:
+            candidates.add(f"{parsed.year:04d}-{parsed.month:02d}-{parsed.day:02d}")
+
+    # 2) spaCy NER for DATE entities
+    doc = nlp(text)
+    for ent in doc.ents:
+        if ent.label_ == "DATE":
+            parsed = dateparser.parse(ent.text)
+            if parsed:
+                has_day = _text_has_day(ent.text)
+                has_month = _text_has_month(ent.text)
+                if has_day and has_month:
+                    candidates.add(f"{parsed.year:04d}-{parsed.month:02d}-{parsed.day:02d}")
+                elif has_month:
+                    candidates.add(f"{parsed.year:04d}-{parsed.month:02d}")
+                else:
+                    candidates.add(f"{parsed.year:04d}")
+
+    # 3) Partial-date fallback (year/month/year-only)
+    partial = _extract_partial_date(text)
+    if partial != "Null":
+        candidates.add(partial)
+
+    return sorted(candidates)
 
 # -------------------------------------------------------------------------
 #    SPACY + REGEX + DATEPARSER FOR FULL-DATE DETECTION

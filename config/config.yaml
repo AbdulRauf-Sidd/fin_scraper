@@ -1591,7 +1591,7 @@ SIE_financial-results-archive:
     timeout: null
 
 #HWDN
-HWDN_presentations:   # Ahsan
+HWDN_presentations:   # COMPLETE
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
@@ -1612,7 +1612,7 @@ HWDN_presentations:   # Ahsan
     archive: null
     timeout: null
 
-HWDN_sustainability:   # Ahsan
+HWDN_sustainability:   # COMPLETE
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/sustainability/index
@@ -1626,7 +1626,7 @@ HWDN_sustainability:   # Ahsan
   headless: false
   direct: true
   selectors:
-    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0 div.row  # isko dekhlena
+    event_block: div.sf_colsIn.col-lg-3
   pagination:
     type: null
     next_button: null
