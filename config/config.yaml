@@ -1,8 +1,9 @@
 PVH_news:     # completed
   ticker: PVH
-  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
   output_json: JSONS/PVH_news.json
+  link_archive: 'links/PVH.txt'
   base_address: https://www.pvh.com/
   periodic: null
   geography: "US"
@@ -10,7 +11,7 @@ PVH_news:     # completed
   headless: true
   direct: false
   selectors:
-    event_block: li.list__item                   # Each event is in a <li> with class "list__item"
+    event_block: div.list__content                   # Each event is in a <li> with class "list__item"
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
@@ -23,6 +24,7 @@ PVH_press:      # Completed
   output: data/PVH_press2.json
   output_json: JSONS/PVH_press2.json
   base_address: https://www.pvh.com/
+  link_archive: 'links/PVH.txt'
   forced_type: "press-releases"
   periodic: null
   geography: "US"
@@ -45,6 +47,7 @@ PVH_reports:      # Completed
   url: https://www.pvh.com/investor-relations/reports
   output: data/PVH_reports.json
   output_json: JSONS/PVH_reports.json
+  link_archive: 'links/PVH.txt'
   forced_type: null
   base_address: https://www.pvh.com/
   periodic: true
@@ -65,14 +68,16 @@ PVH_resources:    # COMPLETED
   url: https://www.pvh.com/responsibility/resources
   output: data/PinvestorsVH_resources.json
   output_json: JSONS/PVH_resources.json
+  link_archive: 'links/PVH.txt'
   forced_type: "resources"
   base_address: https://www.pvh.com/
   periodic: false
   geography: "US"
   headless: false
-  direct: true
+  direct: false
   selectors:
-    event_block: .layout__wrap.story-well.ready, .container.layout
+    # event_block: .layout__wrap.story-well.ready, .container.layout
+    event_block: div.swiper-slide
   pagination:
     type: null
     next_button: null
@@ -641,7 +646,7 @@ SY1_events:     # COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-SY1_news:         #
+SY1_news:         # COMPLETE
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
@@ -681,7 +686,7 @@ SY1_financial:
     timeout: 5
 
 
-WDAY_events:    #
+WDAY_events:    # COMPLETE
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
@@ -1587,9 +1592,10 @@ HWDN_presentations:
   output: data/HWDN_presentations.json
   output_json: JSONS/HWDN_presentations.json
   base_address: https://www.howdenjoinerygroupplc.com/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: "presentation"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: true
   selectors:
@@ -1600,37 +1606,39 @@ HWDN_presentations:
     archive: null
     timeout: null
 
-HWDN_sustainability:   
+HWDN_sustainability:   # Ahsan
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/sustainability/index
   output: data/HWDN_sustainability.json
-  output_json: JSONS/sustainability_presentations.json
+  output_json: JSONS/HWDN_sustainability.json
   base_address: https://www.howdenjoinerygroupplc.com/
-  periodic: true
+  periodic: null
   geography: "European"
-  forced_type: null
+  forced_type: "esg"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: true
   selectors:
     event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0 div.row  # isko dekhlena
   pagination:
     type: null
-    next_button:  null
+    next_button: null
     archive: null
     timeout: null
 
 #RACE
-RACE_press:   
+RACE_press:   # Ahsan   
   ticker: RACE
   scraper: null
   url: https://www.ferrari.com/en-EN/corporate/press-releases/10
   output: data/RACE_press.json
   output_json: JSONS/RACE_press-.json
   base_address: https://www.ferrari.com/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: "press-release"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: false
   selectors:
@@ -1641,16 +1649,17 @@ RACE_press:
     archive: null
     timeout: null
 
-RACE_financial:   
+RACE_financial:   # COMPLETE 
   ticker: RACE
   scraper: null
   url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
   output: data/RACE_financial.json
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: "financial-filing"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: false
   selectors:

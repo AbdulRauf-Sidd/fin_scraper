@@ -10,5 +10,5 @@ content_type_extraction.log
 logs/*
 SEC/downloads/*
 test_docs/*
-JSON/*
+JSONS/*
 links/*

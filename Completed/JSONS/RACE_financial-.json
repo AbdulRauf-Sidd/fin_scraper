@@ -1,0 +1,174 @@
+[
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "RACE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ferrari-2023-annual-report-april-17-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2024-03-27/Ferrari-2023-annual-report-april-17-2024.pdf/Ferrari-2023-annual-report-april-17-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "fnr_ar_2023_esef_package.zip",
+        "file_type": "zip",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2024-03-27/fnr_ar_2023_esef_package.zip/fnr_ar_2023_esef_package.zip",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "Ferrari%20NV%20Annual%20Report%202023%20(SEC%20Filing).pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2024-03-27/Ferrari%2520NV%2520Annual%2520Report%25202023%2520%28SEC%2520Filing%29.pdf/Ferrari%2520NV%2520Annual%2520Report%25202023%2520%28SEC%2520Filing%29.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release",
+          "annual-report"
+        ]
+      },
+      {
+        "file_name": "2024_02_01%20-%20Ferrari%20-%20FY%202023%20Results%20Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2024-03-27/2024_02_01%2520-%2520Ferrari%2520-%2520FY%25202023%2520Results%2520Presentation.pdf/2024_02_01%2520-%2520Ferrari%2520-%2520FY%25202023%2520Results%2520Presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release",
+          "annual-report",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2024_02_01%20-%20Ferrari%20FY%202023%20Results%20Press%20Release.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2024-03-27/2024_02_01%2520-%2520Ferrari%2520FY%25202023%2520Results%2520Press%2520Release.pdf/2024_02_01%2520-%2520Ferrari%2520FY%25202023%2520Results%2520Press%2520Release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release",
+          "annual-report"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02 Nov Report Presentation Press Release Webcast",
+    "equity_ticker": "RACE",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Ferrari%20N.V.%20Interim%20Report%20-%2009.30.2023.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/Ferrari%2520N.V.%2520Interim%2520Report%2520-%252009.30.2023.pdf/Ferrari%2520N.V.%2520Interim%2520Report%2520-%252009.30.2023.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "2023_11_02%20-%20Ferrari%20-%20Q3%202023%20Results%20Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/2023_11_02%2520-%2520Ferrari%2520-%2520Q3%25202023%2520Results%2520Presentation.pdf/2023_11_02%2520-%2520Ferrari%2520-%2520Q3%25202023%2520Results%2520Presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "1.%202023_11_02%20-%20Ferrari%20Q3%202023%20Results%20Press%20Release.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/1.%25202023_11_02%2520-%2520Ferrari%2520Q3%25202023%2520Results%2520Press%2520Release.pdf/1.%25202023_11_02%2520-%2520Ferrari%2520Q3%25202023%2520Results%2520Press%2520Release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "02 Aug Report Presentation Press Release Webcast",
+    "equity_ticker": "RACE",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Ferrari%20NV%20Interim%20Report%2006.30.23-2023-08-02.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/Ferrari%2520NV%2520Interim%2520Report%252006.30.23-2023-08-02.pdf/Ferrari%2520NV%2520Interim%2520Report%252006.30.23-2023-08-02.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "2023_08_02%20-%20Ferrari%20-%20Q2%202023%20Results%20Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/2023_08_02%2520-%2520Ferrari%2520-%2520Q2%25202023%2520Results%2520Presentation.pdf/2023_08_02%2520-%2520Ferrari%2520-%2520Q2%25202023%2520Results%2520Presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2023_08_02%20-%20Ferrari%20Q2%202023%20Results%20Press%20Release.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/Null/2023_08_02%2520-%2520Ferrari%2520Q2%25202023%2520Results%2520Press%2520Release.pdf/2023_08_02%2520-%2520Ferrari%2520Q2%25202023%2520Results%2520Press%2520Release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "04 May Report Presentation Press Release Webcast",
+    "equity_ticker": "RACE",
+    "geography": "European",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Ferrari%20NV%20Interim%20Report%20March%2031,%202023.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-04",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2025-05-04/Ferrari%2520NV%2520Interim%2520Report%2520March%252031%2C%25202023.pdf/Ferrari%2520NV%2520Interim%2520Report%2520March%252031%2C%25202023.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "2023_05_04%20-%20Ferrari%20-%20Q1%202023%20Results%20Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-04",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2025-05-04/2023_05_04%2520-%2520Ferrari%2520-%2520Q1%25202023%2520Results%2520Presentation.pdf/2023_05_04%2520-%2520Ferrari%2520-%2520Q1%25202023%2520Results%2520Presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "2023_05_04%20-%20Ferrari%20Q1%202023%20Results%20Press%20Release.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-04",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/RACE/2025-05-04/2023_05_04%2520-%2520Ferrari%2520Q1%25202023%2520Results%2520Press%2520Release.pdf/2023_05_04%2520-%2520Ferrari%2520Q1%25202023%2520Results%2520Press%2520Release.pdf",
+        "content_type": [
+          "financial-filing"
+        ]
+      }
+    ]
+  }
+]
