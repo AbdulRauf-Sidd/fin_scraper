@@ -1591,7 +1591,7 @@ SIE_financial-results-archive:
     timeout: null
 
 #HWDN
-HWDN_presentations:   
+HWDN_presentations:   # Ahsan
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
@@ -1599,7 +1599,7 @@ HWDN_presentations:
   output_json: JSONS/HWDN_presentations.json
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "presentation"
   link_archive: "links/RACE.txt"
   headless: false
