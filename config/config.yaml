@@ -753,6 +753,7 @@ KER_press: #COMPLETED
   output_json: JSONS/KER_press.json
   base_address: https://www.kering.com/
   periodic: false
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "news"
   headless: false
@@ -773,6 +774,7 @@ KER_finance:   #scroll issue.
   output_json: JSONS/KER_finance.json
   base_address: https://www.kering.com/
   periodic: null
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "finance"
   headless: false
@@ -793,7 +795,8 @@ KER_annual_general_meeting:
   output: data/KER_annual_general_meeting.json
   output_json: JSONS/annual_general_meeting.json
   base_address: https://www.kering.com/
-  periodic: false
+  periodic: null
+  link_archive: links/KER.txt
   geography: "European"
   forced_type: "annual-general-meeting"
   headless: false
@@ -1421,14 +1424,15 @@ VOW3_financial:    # Period
     archive: null
     timeout: null
 
-OR_news:           #Complete   
+OR_news:           #Complete  
   ticker: OR
   scraper: null
   url: https://www.loreal-finance.com/eng/news-releases
   output: data/OR_news.json
   output_json: JSONS/OR_news.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
+  link_archive: links/OR.txt
   geography: "European"
   headless: true
   forced_type: "news"
@@ -1448,8 +1452,9 @@ OR_half:          #Complete
   output: data/OR_half.json
   output_json: JSONS/OR_half.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
   geography: "European"
+  link_archive: links/OR.txt
   forced_type: "half-year-results"
   headless: true
   direct: true
@@ -1468,7 +1473,8 @@ OR_annual:       #Complete
   output: data/OR_annual.json
   output_json: JSONS/OR_annual.json
   base_address: https://www.loreal-finance.com/
-  periodic: false
+  periodic: null
+  link_archive: links/OR.txt
   geography: "European"
   forced_type: "annual-results-archives"
   headless: false
