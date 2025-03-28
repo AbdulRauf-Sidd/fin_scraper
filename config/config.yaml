@@ -1384,7 +1384,7 @@ RKT_agm:
     timeout: null
 
 #VOW3
-VOW3_press:   #nlp not working
+VOW3_press:  
   ticker: VOW3
   scraper: null
   url: https://www.volkswagen-group.com/en/press-releases
@@ -1400,7 +1400,7 @@ VOW3_press:   #nlp not working
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
-    type: load_more
+    type: null
     next_button:  button.btn.btn-default.page-list--load-more-button.-visible
     archive: null
     timeout: null
