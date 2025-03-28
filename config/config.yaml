@@ -87,7 +87,8 @@ PVH_resources:    # COMPLETED
 CORZ_financial-information:   # COMPLETED
   ticker: CORZ
   scraper: null
-  url: https://.corescientific.com/financial-information/financial-results
+  link_archive: 'links/CORZ.txt'
+  url: https://investors.corescientific.com/financial-information/financial-results
   output: data/CORZ_financial-information.json
   output_json: JSONS/CORZ_financial-information.json
   base_address: https://investors.corescientific.com/
@@ -107,11 +108,12 @@ CORZ_financial-information:   # COMPLETED
 CORZ_presentations:   # Completed
   ticker: CORZ
   scraper: null
+  link_archive: 'links/CORZ.txt'
   url: https://investors.corescientific.com/news-events/presentations
   output: data/CORZ_presentations.json
   output_json: JSONS/CORZ_presentations.json
   base_address: https://investors.corescientific.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "presentations"
   headless: false
@@ -119,14 +121,15 @@ CORZ_presentations:   # Completed
   selectors:
     event_block: article.media
   pagination:
-    type: next_page_url
-    next_button: page-link
+    type: button
+    next_button: .page-item--next a
     archive: null
     timeout: null
 
 CORZ_press:         
   ticker: CORZ
   scraper: null
+  link_archive: 'links/CORZ.txt'
   url: https://investors.corescientific.com/news-events/press-releases
   output: data/CORZ_press.json
   output_json: JSONS/CORZ_press.json
@@ -148,6 +151,7 @@ CRDA_esg:     #COMPLETED
   ticker: CRDA
   url: https://www.croda.com/en-gb/investors/environmental-social-and-governance-esg
   output: data/CRDA_esg.json
+  link_archive: 'links/CRDA.txt'
   output_json: JSONS/CRDA_esg.json
   base_address: https://www.croda.com/en-gb/
   periodic: false
@@ -166,11 +170,12 @@ CRDA_esg:     #COMPLETED
 CRDA_presentations: 
   ticker: CRDA
   scraper: null
-  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
+  link_archive: 'links/CRDA.txt'
+  url: https://www.croda.com/endisableddisabled-gb/investors/results-presentations-and-reports
   output: data/CRDA_presentations.json
   output_json: JSONS/CRDA_presentations.json
   base_address: https://www.croda.com/en-gb/
-  periodic: false
+  periodic: null
   headless: false
   geography: "European"
   forced_type: "presentations"
@@ -187,11 +192,12 @@ CRDA_presentations:
 #checkkkkk   
 CRDA_news:     #COMPLETED
   ticker: CRDA
-  url: https://www.croda.com/en-gb/media-hub/news?categories=all&sortby=0&pagesize=100&page=2&market=all
+  link_archive: 'links/CRDA.txt'
+  url: https://www.croda.com/en-gb/media-hub/news?categories=all&sortby=0&pagesize=100&page=1&market=all
   output: data/CRDA_news.json
   output_json: JSONS/CRDA_news.json
   base_address: https://www.croda.com/
-  periodic: null
+  periodic: false
   geography: "European"
   forced_type: "news"
   headless: true
@@ -199,8 +205,8 @@ CRDA_news:     #COMPLETED
   selectors:
     event_block: div.c-bootstrap-card.brandable.card.js-module.horizontal
   pagination:
-    type: load_more
-    next_button: a.page-link.page-link--next.c-content-aggregator__pagination-next.disabled
+    type: button
+    next_button: a.page-link.page-link--next.c-content-aggregator__pagination-next
     archive: null
     timeout: null
 
@@ -209,11 +215,12 @@ CRDA_news:     #COMPLETED
 
 CBP_events:         # Pagination not being handled correctly
   ticker: CBP
+  link_archive: 'links/CBP.txt'
   url: https://investor.thecampbellscompany.com/events-presentations
   output: data/CBP_events.json
   output_json: JSONS/CBP_events.json
   base_address: https://investor.thecampbellscompany.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "Presentations"
   headless: false
@@ -222,7 +229,7 @@ CBP_events:         # Pagination not being handled correctly
     event_block: article.node--nir-event--nir-widget-list
   pagination:
     type: button
-    next_button: li.pager__item.pager__item--next a
+    next_button: .pager__item.pager__item--next
     archive: null
     timeout: null
 
@@ -410,11 +417,12 @@ GIVN_media:        #COMPLETED
 
 IFF_presentations:    # COMPLETED
   ticker: IFF
+  link_archive: 'links/IFF.txt'
   url: https://ir.iff.com/events-presentations
   output: data/IFF_presentations.json
   output_json: JSONS/IFF_presentations.json
   base_address: https://ir.iff.com/
-  periodic: false
+  periodic: null
   geography: "US"
   direct: true
   forced_type: "presentations"
@@ -431,11 +439,12 @@ IFF_presentations:    # COMPLETED
 IFF_press:      # pagination not being handled correctly
   ticker: IFF
   scraper: null
+  link_archive: 'links/IFF.txt'
   url: https://ir.iff.com/press-releases?6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_year%5Bvalue%5D=_none&op=Filter&6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d_widget_id=6975432388c93f18be7b4d8222cbf202d2f07feef130201ed2393ef8b833b15d&form_build_id=form-bkOO9-pFrxeEqyo53ECPHSIhD5BNRO5mz4vNrzsfUAg&form_id=widget_form_base
   output: data/IFF_press.json
   output_json: JSONS/IFF_press.json
   base_address: https://ir.iff.com/
-  periodic: false
+  periodic: null
   geography: "US"
   forced_type: "press"
   headless: false
@@ -452,6 +461,7 @@ IFF_press:      # pagination not being handled correctly
 IFF_stories:      
   ticker: IFF
   scraper: null
+  link_archive: 'links/IFF.txt'
   url: https://www.iff.com/media/stories/
   output: data/IFF_stories.json
   output_json: JSONS/IFF_stories.json
@@ -462,10 +472,10 @@ IFF_stories:
   headless: false
   direct: true
   selectors:
-    event_block: div.c-block
+    event_block: div.c-block div.c-block__body
   pagination:
-    type: next_page_url
-    next_button: div.pagination
+    type: button
+    next_button: li.next a
     archive: .archive-toggler
     timeout: 5
 
@@ -728,6 +738,7 @@ WDAY_press: #COMPLETED
 WMT_quarterly:  #COMPLETED
   ticker: WMT
   scraper: null
+  link_archive: 'links/WMT.txt'
   url: https://stock.walmart.com/financial-information/vizio-historical-financials
   output: data/WMT_quarterly.json
   output_json: JSONS/WMT_quarterly.json
@@ -738,7 +749,7 @@ WMT_quarterly:  #COMPLETED
   headless: false
   direct: true
   selectors:
-    event_block: div.box quarterly-results
+    event_block: div.box.quarterly-results
   pagination:
     type: button
     next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
@@ -885,6 +896,7 @@ RMS_finance:
 MOWI_reports:    
   ticker: MOWI
   scraper: null
+  link_archive: 'links/MOWI.txt'
   url: https://mowi.com/investors/reports/
   output: data/MOWI_reports.json
   output_json: JSONS/MOWI_reports.json
@@ -905,6 +917,7 @@ MOWI_reports:
 MOWI_presentations:
   ticker: MOWI
   scraper: null
+  link_archive: 'links/MOWI.txt'
   url: https://mowi.com/investors/presentations/
   output: data/MOWI_presentations.json
   output_json: JSONS/MOWI_presentations.json
@@ -925,6 +938,7 @@ MOWI_presentations:
 MOWI_capital-markets-day:  
   ticker: MOWI
   scraper: null
+  link_archive: 'links/MOWI.txt'
   url: https://mowi.com/investors/capital-markets-day/
   output: data/MOWI_capital-markets-day.json
   output_json: JSONS/MOWI_capital-markets-day.json
@@ -1303,7 +1317,7 @@ HEIO_reports:
     archive: null
     timeout: null
 
-RKT_presentations:
+RKT_presentations:  #working
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
@@ -1311,6 +1325,7 @@ RKT_presentations:
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
   periodic: true
+  link_archive: links/RKT.txt
   geography: "European"
   forced_type: "presentations"
   direct: false
@@ -1323,16 +1338,17 @@ RKT_presentations:
     archive: null
     timeout: null
 
-RKT_investor-seminars:
+RKT_investor_seminars:  #working
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
-  output: data/RKT_investor-seminars.json
-  output_json: JSONS/RKT_investor-seminars.json
+  output: data/RKT_investor_seminars.json
+  output_json: JSONS/RKT_investor_seminars.json
   base_address: https://www.reckitt.com/
   periodic: false
   geography: "European"
-  forced_type: "investor-seminars"
+  forced_type: "seminars"
+  link_archive: links/RKT.txt
   headless: false
   direct: false
   selectors:
@@ -1343,7 +1359,7 @@ RKT_investor-seminars:
     archive: null
     timeout: null
 
-RKT_news:
+RKT_news:             #Iframe, And other big problems
   ticker: RKT
   scraper: null
   url: https://www.reckitt.com/investors/regulatory-news/
@@ -1353,13 +1369,14 @@ RKT_news:
   periodic: false
   geography: "European"
   forced_type: "news"
+  link_archive: links/RKT.txt
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: tbody.desktop-view
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: a.icon-keyboard_arrow_right
     archive: null
     timeout: null 
 
@@ -1373,6 +1390,7 @@ RKT_agm:
   periodic: false
   geography: "European"
   forced_type: "Annual General Meetings"
+  link_archive: links/RKT.txt
   headless: false
   direct: false
   selectors:
@@ -1440,7 +1458,7 @@ OR_news:           #Complete
   forced_type: "news"
   direct: true
   selectors:
-    event_block: div.row
+    event_block: div.col-12.col-md-10.offset-md-1.col-lg-7.col-xl-6.offset-lg-0.offset-xl-0.news-events-listing__info-wrapper
   pagination:
     type: load_more
     next_button:  a.button

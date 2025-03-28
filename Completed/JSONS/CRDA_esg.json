@@ -1,0 +1,54 @@
+[
+  {
+    "event_name": "Awards and certifications Many aspects of our sustainability commitment have been recognised externally, and we actively seek certification in key areas of our operations",
+    "equity_ticker": "CRDA",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "awards-and-certifications",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/awards-and-certifications/awards-and-certifications.pdf",
+        "content_type": [
+          "esg"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Non-financial performance and reports We consider our non-financial metrics to be as important as our financial",
+    "equity_ticker": "CRDA",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "reporting-datapack",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/reporting-datapack/reporting-datapack.pdf",
+        "content_type": [
+          "financial-filing",
+          "esg"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Policies and procedures We operate a range of policies covering all area of our Business to uphold the principles of socially responsible business practices",
+    "equity_ticker": "CRDA",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "policies-and-procedures",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/policies-and-procedures/policies-and-procedures.pdf",
+        "content_type": [
+          "esg"
+        ]
+      }
+    ]
+  }
+]

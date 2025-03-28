@@ -269,25 +269,38 @@ async def extract_links_from_url(url, headless=False):
 async def convert_page_to_pdf(url, base_url="https://www.sec.gov", headless=True):
     url = url.rstrip('/')
     file_name = url.split("/")[-1]
+
+    # Set up logging
+    logging.basicConfig(level=logging.INFO)
     logging.info(f"Downloading file from: {url}")
+
     try:
-        async with async_playwright() as p2:
-            browser2 = await p2.chromium.launch(headless=headless)
-            context2 = await browser2.new_context()
-            page2 = await context2.new_page()
-            await asyncio.sleep(3)
-            await enable_stealth(page2) 
-            
-            logging.info(f"Attempting to extract webpage content from: {url}")
-            await page2.goto(url)
-            await page2.wait_for_load_state('load') 
-            await accept_cookies(page2)
-            await page2.pdf(path=f'downloads/{file_name}')     
-            absolute_path = os.path.abspath(f'downloads/{file_name}') 
-            file_type, absolute_path = add_extension_if_missing(absolute_path)
-            if file_type is None:
-                raise Exception("Failed to determine file type")
-            logging.info(f"Saved webpage as PDF: {absolute_path}")
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=headless)
+            context = await browser.new_context()
+            page = await context.new_page()
+
+            # Check if the URL is a direct PDF link
+            if url.lower().endswith('.pdf'):
+                logging.info("Direct PDF link detected. Downloading file...")
+                response = await page.goto(url)
+                pdf_content = await response.body()
+                os.makedirs('downloads', exist_ok=True)
+                file_path = os.path.join('downloads', file_name)
+                with open(file_path, 'wb') as pdf_file:
+                    pdf_file.write(pdf_content)
+            else:
+                # Handle as regular HTML page
+                logging.info(f"Attempting to extract webpage content from: {url}")
+                await page.goto(url)
+                await page.wait_for_load_state('load') 
+                await asyncio.sleep(7)  # Adjust sleep time as necessary
+                file_path = f'downloads/{file_name}.pdf'
+                await page.pdf(path=file_path)
+
+            absolute_path = os.path.abspath(file_path)
+            file_type = 'application/pdf'  # Assuming PDF for both direct downloads and conversions
+            logging.info(f"Saved file as PDF: {absolute_path}")
             return absolute_path, file_name, file_type 
     except Exception as e:
         logging.error(f"Error processing webpage: {e}")
