@@ -1391,7 +1391,8 @@ VOW3_press:   #nlp not working
   output: data/VOW3_press.json
   output_json: JSONS/VOW3_press.json
   base_address: https://www.volkswagen-group.com/
-  periodic: false
+  periodic: null
+  link_archive: links/VOW3.txt
   geography: "European"
   forced_type: "press-release"
   headless: false
@@ -1411,16 +1412,17 @@ VOW3_financial:    # Period
   output: data/VOW3_financial.json
   output_json: JSONS/VOW3_financial.json
   base_address: https://www.volkswagen-group.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "financial"
+  link_archive: links/VOW3.txt
   headless: false
   direct: true
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
     type: load_more
-    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    next_button:  button.btn.btn-default.-visible
     archive: null
     timeout: null
 
