@@ -62,4 +62,4 @@ def upload_file_to_r2(file_path, r2_folder):
                 print("Maximum retry attempts reached, failed to upload.")
                 return None
 
-# upload_file_to_r2('why/bye/world/qwerty.txt', r2_folder)
+# upload_file_to_r2('downloads/_cs_ferrari_05.05.2021_eng_0.pdf', "test/")

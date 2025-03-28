@@ -1,0 +1,2066 @@
+[
+  {
+    "event_name": "Full Year Results 27 February 2025 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2025-02-28/preliminary_results_2024.pdf/preliminary_results_2024.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2024-preliminary-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2025-02-28/2024-preliminary-results-presentation.pdf/2024-preliminary-results-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "67936371f6f7a6723285f9d5",
+        "file_type": "pdf",
+        "published_date": "2025-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2025-02-28/67936371f6f7a6723285f9d5/67936371f6f7a6723285f9d5.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 07 November 2024 Trading Update",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-071124.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-07",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-11-07/trading-update-071124.pdf/trading-update-071124.pdf",
+        "content_type": [
+          "trading-update",
+          "presentation"
+        ]
+      },
+      {
+        "file_name": "www.howdenjoinerygroupplc.com",
+        "file_type": "pdf",
+        "published_date": "2024-11-07",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-11-07/www.howdenjoinerygroupplc.com/www.howdenjoinerygroupplc.com.pdf",
+        "content_type": [
+          "trading-update",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 25 July 2024 Half Year Announceme",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_25_july_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024/half_yearly_results_25_july_2024.pdf/half_yearly_results_25_july_2024.pdf",
+        "content_type": [
+          "presentation",
+          "announcement",
+          "financial-filing",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024/hyr_presentation_2024.pdf/hyr_presentation_2024.pdf",
+        "content_type": [
+          "presentation",
+          "announcement",
+          "financial-filing",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "HWDN_HY24",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024/HWDN_HY24/HWDN_HY24.pdf",
+        "content_type": [
+          "presentation",
+          "announcement",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 30 April 2024 Trading Update",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-300424.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-04-30/trading-update-300424.pdf/trading-update-300424.pdf",
+        "content_type": [
+          "trading-update",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 27 April 2023 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-270423.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-04-27/trading-update-270423.pdf/trading-update-270423.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 20 July 2023 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_resutls_july_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-07-20/half_yearly_resutls_july_2023.pdf/half_yearly_resutls_july_2023.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-07-20/hyr_presentation_2023.pdf/hyr_presentation_2023.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "64a417d4a0226e22686970e8",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-07-20/64a417d4a0226e22686970e8/64a417d4a0226e22686970e8.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 02 November 2023 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-021123.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-11-28/trading-update-021123.pdf/trading-update-021123.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 29 February 2024 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-02-28/preliminary_results_2023.pdf/preliminary_results_2023.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "2023-preliminary-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-02-28/2023-preliminary-results-presentation.pdf/2023-preliminary-results-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "65c9e9d23542db7be03f80e8",
+        "file_type": "pdf",
+        "published_date": "2024-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2024-02-28/65c9e9d23542db7be03f80e8/65c9e9d23542db7be03f80e8.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 28 April 2022 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Trading_Update_280422.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-04-28/Trading_Update_280422.pdf/Trading_Update_280422.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 22 July 2022 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_july_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-07-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-07-28/half_yearly_results_july_2022.pdf/half_yearly_results_july_2022.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_july_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-07-28",
+        "url": null,
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "62b99c8171203e42c1fbf58c",
+        "file_type": "pdf",
+        "published_date": "2022-07-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-07-28/62b99c8171203e42c1fbf58c/62b99c8171203e42c1fbf58c.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 03 November 2022 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Trading_Update_03_November_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-11-28/Trading_Update_03_November_2022.pdf/Trading_Update_03_November_2022.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 23 February 2023 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-02-28/preliminary_results_2022.pdf/preliminary_results_2022.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-02-28/preliminary-results-presentation-2022.pdf/preliminary-results-presentation-2022.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "Howden_fy22results",
+        "file_type": "pdf",
+        "published_date": "2023-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2023-02-28/Howden_fy22results/Howden_fy22results.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 29 April 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-290421.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04-29",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-04-29/trading-update-290421.pdf/trading-update-290421.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 13 July 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-130721.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-13",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-07-13/trading-update-130721.pdf/trading-update-130721.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 21 July 2021 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_22_july_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-21",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-07-21/half_yearly_results_22_july_2021.pdf/half_yearly_results_22_july_2021.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_22_july_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-21",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-07-21/hyr_presentation_22_july_2021.pdf/hyr_presentation_22_july_2021.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "60e55dff1ba1724bfa99f8a4",
+        "file_type": "pdf",
+        "published_date": "2021-07-21",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-07-21/60e55dff1ba1724bfa99f8a4/60e55dff1ba1724bfa99f8a4.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 01 November 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "Trading-Update-November-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-11-01",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-11-01/Trading-Update-November-2021.pdf/Trading-Update-November-2021.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 24 February 2022 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-02-28/preliminary_results_2021.pdf/preliminary_results_2021.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-02-28/preliminary-results-presentation-2021.pdf/preliminary-results-presentation-2021.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results"
+        ]
+      },
+      {
+        "file_name": "61e703257eb59509ae2f986c",
+        "file_type": "pdf",
+        "published_date": "2022-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2022-02-28/61e703257eb59509ae2f986c/61e703257eb59509ae2f986c.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "full-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 26 March 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-260320.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-26",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-26/trading-update-260320.pdf/trading-update-260320.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Results 23 July 2020 download report dow",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/half_yearly_results_23_july_2020.pdf/half_yearly_results_23_july_2020.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/hyr_presentation_23_july_2020.pdf/hyr_presentation_23_july_2020.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      },
+      {
+        "file_name": "5f0723324e934f0a0e3ec753",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/5f0723324e934f0a0e3ec753/5f0723324e934f0a0e3ec753.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 02 November 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-021120.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-11-28/trading-update-021120.pdf/trading-update-021120.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 26 March 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-260320.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-26",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-26/trading-update-260320.pdf/trading-update-260320.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Results 23 July 2020 download report dow",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/half_yearly_results_23_july_2020.pdf/half_yearly_results_23_july_2020.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/hyr_presentation_23_july_2020.pdf/hyr_presentation_23_july_2020.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      },
+      {
+        "file_name": "5f0723324e934f0a0e3ec753",
+        "file_type": "pdf",
+        "published_date": "2020-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-03-28/5f0723324e934f0a0e3ec753/5f0723324e934f0a0e3ec753.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "half-year-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 02 November 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-021120.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-11-28/trading-update-021120.pdf/trading-update-021120.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 09 December 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-091220.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-09",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-12-09/trading-update-091220.pdf/trading-update-091220.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 13 January 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-130121.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-01-13",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-01-13/trading-update-130121.pdf/trading-update-130121.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2021 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-02-28/preliminary_results_2020.pdf/preliminary_results_2020.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-02-28/preliminary-results-presentation-2020.pdf/preliminary-results-presentation-2020.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "60212affa6bfbf43d06aded9",
+        "file_type": "pdf",
+        "published_date": "2021-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2021-02-28/60212affa6bfbf43d06aded9/60212affa6bfbf43d06aded9.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 02 May 2019 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-020519.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-05-28/trading-update-020519.pdf/trading-update-020519.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 16 June 2019 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_16_june_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-06-28/half_yearly_results_16_june_2019.pdf/half_yearly_results_16_june_2019.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_16_june_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-06-28/hyr_presentation_16_june_2019.pdf/hyr_presentation_16_june_2019.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "5d1e1b49da68dd4b10ae75a2",
+        "file_type": "pdf",
+        "published_date": "2019-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-06-28/5d1e1b49da68dd4b10ae75a2/5d1e1b49da68dd4b10ae75a2.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 07 November 2019 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-071119.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-11-28/trading-update-071119.pdf/trading-update-071119.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 28 February 2020 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-02-28/preliminary_results_2019.pdf/preliminary_results_2019.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2020-02-28/preliminary-results-presentation-2019.pdf/preliminary-results-presentation-2019.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 02 May 2018 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-020518.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-05-28/trading-update-020518.pdf/trading-update-020518.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 26 June 2018 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_16_june_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-06-28/half_yearly_results_16_june_2018.pdf/half_yearly_results_16_june_2018.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "hyr_presentation_16_june_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-06-28/hyr_presentation_16_june_2018.pdf/hyr_presentation_16_june_2018.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      },
+      {
+        "file_name": "5b48c969b648f6302b14db5a",
+        "file_type": "pdf",
+        "published_date": "2018-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-06-28/5b48c969b648f6302b14db5a/5b48c969b648f6302b14db5a.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 08 November 2018 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "trading-update-081118.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-11-08",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-11-08/trading-update-081118.pdf/trading-update-081118.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 27 February 2019 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-02-28/preliminary_results_2018.pdf/preliminary_results_2018.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-02-28/preliminary-results-presentation-2018.pdf/preliminary-results-presentation-2018.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "5c6c3895e6e1d92d38f4f3b9",
+        "file_type": "pdf",
+        "published_date": "2019-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2019-02-28/5c6c3895e6e1d92d38f4f3b9/5c6c3895e6e1d92d38f4f3b9.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 27 April 2017 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "270417",
+        "file_type": "pdf",
+        "published_date": "2017-04-27",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2017-04-27/270417/270417.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 20 July 2017 download report list",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_11_june_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2017-07-20/half_yearly_results_11_june_2017.pdf/half_yearly_results_11_june_2017.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "595f4714e0455d29e61eaec7",
+        "file_type": "pdf",
+        "published_date": "2017-07-20",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2017-07-20/595f4714e0455d29e61eaec7/595f4714e0455d29e61eaec7.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 02 November 2017 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "021117",
+        "file_type": "pdf",
+        "published_date": "2017-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2017-11-28/021117/021117.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 01 March 2018 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/preliminary_results_2017.pdf/preliminary_results_2017.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/preliminary-results-presentation-2017.pdf/preliminary-results-presentation-2017.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "5a86ff2386b1fa2108c966b2",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/5a86ff2386b1fa2108c966b2/5a86ff2386b1fa2108c966b2.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 28 April 2016 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "280416",
+        "file_type": "pdf",
+        "published_date": "2016-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2016-04-28/280416/280416.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2016",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_report_11_june_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-07-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2016-07-28/half_yearly_report_11_june_2016.pdf/half_yearly_report_11_june_2016.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 02 November 2017 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "021117",
+        "file_type": "pdf",
+        "published_date": "2017-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2017-11-28/021117/021117.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 01 March 2018 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/preliminary_results_2017.pdf/preliminary_results_2017.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/preliminary-results-presentation-2017.pdf/preliminary-results-presentation-2017.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      },
+      {
+        "file_name": "5a86ff2386b1fa2108c966b2",
+        "file_type": "pdf",
+        "published_date": "2018-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2018-03-28/5a86ff2386b1fa2108c966b2/5a86ff2386b1fa2108c966b2.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 28 April 2016 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-Periodic",
+    "data": [
+      {
+        "file_name": "280416",
+        "file_type": "pdf",
+        "published_date": "2016-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2016-04-28/280416/280416.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2016",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_report_11_june_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-07-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2016-07-28/half_yearly_report_11_june_2016.pdf/half_yearly_report_11_june_2016.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "webcast"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2014",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_report_july_2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2014-06-28/interim_report_july_2014.pdf/interim_report_july_2014.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2014-06-28/interim-results-presentation-2014.pdf/interim-results-presentation-2014.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 05 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "051114",
+        "file_type": "pdf",
+        "published_date": "2014-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2014-11-28/051114/051114.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 27 February 2015 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2015-02-28/preliminary_results_2014.pdf/preliminary_results_2014.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2015-02-28/preliminary-results-presentation-2014.pdf/preliminary-results-presentation-2014.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 03 May 2013 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "020513",
+        "file_type": "pdf",
+        "published_date": "2013-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-05-28/020513/020513.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2013",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_report_july_2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-06-28/interim_report_july_2013.pdf/interim_report_july_2013.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-06-28/interim-results-presentation-2013.pdf/interim-results-presentation-2013.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 06 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "061113",
+        "file_type": "pdf",
+        "published_date": "2013-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-11-28/061113/061113.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 28 February 2014 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2014-02-28/preliminary_results_2013.pdf/preliminary_results_2013.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2014-02-28/preliminary-results-presentation-2013.pdf/preliminary-results-presentation-2013.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 26 April 2012 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "260412",
+        "file_type": "pdf",
+        "published_date": "2012-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-04-28/260412/260412.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2012",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-06-28/interim_results_july_2012.pdf/interim_results_july_2012.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-06-28/interim-results-presentation-2012.pdf/interim-results-presentation-2012.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 08 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "081112",
+        "file_type": "pdf",
+        "published_date": "2012-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-11-28/081112/081112.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 22 February 2013 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-02-28/preliminary_results_2012.pdf/preliminary_results_2012.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2013-02-28/preliminary-results-presentation-2012.pdf/preliminary-results-presentation-2012.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "pdf",
+        "published_date": "2011-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-04-28/280411/280411.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "pdf",
+        "published_date": "2011-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-11-28/101111/101111.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-02-28/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-02-28/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "pdf",
+        "published_date": "2010-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-04-28/290410/290410.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "pdf",
+        "published_date": "2011-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-04-28/280411/280411.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "pdf",
+        "published_date": "2011-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-11-28/101111/101111.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-02-28/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2012-02-28/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "pdf",
+        "published_date": "2010-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-04-28/290410/290410.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-06-28/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-06-28/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "pdf",
+        "published_date": "2010-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-11-28/031110/031110.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-02-28/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2011-02-28/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "pdf",
+        "published_date": "2009-04-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-04-28/300409/300409.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-06-28/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-06-28/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "pdf",
+        "published_date": "2009-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-11-28/121109/121109.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-02-28/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2010-02-28/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "pdf",
+        "published_date": "2008-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2008-05-28/010508/010508.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2008-06-28/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2008-06-28/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "pdf",
+        "published_date": "2008-11-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2008-11-28/131108/131108.pdf",
+        "content_type": [
+          "announcement",
+          "presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-03-28/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2009-03-28/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2007-03-28/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2007-09-28/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2007-09-28/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2006-05-28/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "presentation",
+          "financial-filing",
+          "interim-results"
+        ]
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02-28",
+        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HWDN/2007-02-28/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ]
+      }
+    ]
+  }
+]

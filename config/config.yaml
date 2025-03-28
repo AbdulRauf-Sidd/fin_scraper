@@ -66,12 +66,12 @@ PVH_resources:    # COMPLETED
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
-  output: data/PVH_resources.json
+  output: data/PinvestorsVH_resources.json
   output_json: JSONS/PVH_resources.json
   link_archive: 'links/PVH.txt'
   forced_type: "resources"
   base_address: https://www.pvh.com/
-  periodic: null
+  periodic: false
   geography: "US"
   headless: false
   direct: false
@@ -566,7 +566,7 @@ RL_news:
   headless: false
   direct: false
   selectors:
-    event_block: tbody.nirtable tr
+    event_block: tbody tr
   pagination:
     type: null
     next_button: null
@@ -656,7 +656,7 @@ SY1_events:     # COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-SY1_news:         #
+SY1_news:         # COMPLETE
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
@@ -696,7 +696,7 @@ SY1_financial:
     timeout: 5
 
 
-WDAY_events:    #
+WDAY_events:    # COMPLETE
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
@@ -1405,7 +1405,8 @@ VOW3_press:   #nlp not working
   output: data/VOW3_press.json
   output_json: JSONS/VOW3_press.json
   base_address: https://www.volkswagen-group.com/
-  periodic: false
+  periodic: null
+  link_archive: links/VOW3.txt
   geography: "European"
   forced_type: "press-release"
   headless: false
@@ -1425,16 +1426,17 @@ VOW3_financial:    # Period
   output: data/VOW3_financial.json
   output_json: JSONS/VOW3_financial.json
   base_address: https://www.volkswagen-group.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "financial"
+  link_archive: links/VOW3.txt
   headless: false
   direct: true
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
     type: load_more
-    next_button:  button.btn.btn-default.page-list--load-more-button.-visible
+    next_button:  button.btn.btn-default.-visible
     archive: null
     timeout: null
 
@@ -1605,16 +1607,17 @@ SIE_financial-results-archive:
     timeout: null
 
 #HWDN
-HWDN_presentations:   
+HWDN_presentations:   # COMPLETE
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
   output: data/HWDN_presentations.json
   output_json: JSONS/HWDN_presentations.json
   base_address: https://www.howdenjoinerygroupplc.com/
-  periodic: true
-  geography: "European"
+  periodic: null
+  geography: "european"
   forced_type: "presentation"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: true
   selectors:
@@ -1625,37 +1628,39 @@ HWDN_presentations:
     archive: null
     timeout: null
 
-HWDN_sustainability:   
+HWDN_sustainability:   # COMPLETE
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/sustainability/index
   output: data/HWDN_sustainability.json
-  output_json: JSONS/sustainability_presentations.json
+  output_json: JSONS/HWDN_sustainability.json
   base_address: https://www.howdenjoinerygroupplc.com/
-  periodic: true
+  periodic: null
   geography: "European"
-  forced_type: null
+  forced_type: "esg"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: true
   selectors:
-    event_block: div.sf_colsIn.col-lg-4.p-3.howden-card.mb-lg-0.p-0 div.row  # isko dekhlena
+    event_block: div.sf_colsIn.col-lg-3
   pagination:
     type: null
-    next_button:  null
+    next_button: null
     archive: null
     timeout: null
 
 #RACE
-RACE_press:   
+RACE_press:   # Ahsan   
   ticker: RACE
   scraper: null
   url: https://www.ferrari.com/en-EN/corporate/press-releases/10
   output: data/RACE_press.json
   output_json: JSONS/RACE_press-.json
   base_address: https://www.ferrari.com/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: "press-release"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: false
   selectors:
@@ -1666,16 +1671,17 @@ RACE_press:
     archive: null
     timeout: null
 
-RACE_financial:   
+RACE_financial:   # COMPLETE 
   ticker: RACE
   scraper: null
   url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
   output: data/RACE_financial.json
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: "financial-filing"
+  link_archive: "links/RACE.txt"
   headless: false
   direct: false
   selectors:

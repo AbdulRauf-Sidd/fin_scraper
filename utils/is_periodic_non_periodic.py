@@ -63,7 +63,7 @@ def is_periodic_non_periodic(html_element):
     # If periodic is not found, classify as non-periodic
     if not is_periodic:
         logger.info("No periodic pattern matched. Classifying as Non-Periodic")
-        return "non-Periodic"
+        return "non-periodic"
     
     # If periodic is found
     logger.info("Event classified as Periodic")
