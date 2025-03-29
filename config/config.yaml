@@ -314,25 +314,30 @@ DSFIR_news:       #COMPLETED
     archive: null
     timeout: null
 
-DSFIR_press:    #
-  ticker: DSFIR
-  scraper: null
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-  output: data/DSFIR_press.json
-  output_json: JSONS/DSFIR_press.json
-  base_address: https://investors.dsm-firmenich.com/
-  periodic: null
-  geography: "European"
-  forced_type: "press-release"
-  headless: false
-  direct: true
-  selectors:
-    event_block: .cmp-title, .cmp-text, .cmp-image
-  pagination:
-    type: year_tabs
-    next_button: "li.cmp-tabs__tab"
-    archive: null
-    timeout: null
+# DSFIR_press:    #
+#   ticker: DSFIR
+#   scraper: null
+#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   output: data/DSFIR_press.json
+#   output_json: JSONS/DSFIR_press.json
+#   base_address: https://investors.dsm-firmenich.com/
+#   periodic: null
+#   geography: "European"
+#   forced_type: "press-release"
+#   headless: false
+#   direct: true
+#   selectors:
+#     event_block: >
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-title, 
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-text, 
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-image
+#   pagination:
+#     type: year_tabs
+#     next_button: "li.cmp-tabs__tab"
+#     archive: null
+#     timeout: null
+
+    
 
 GIVN_news:        
   ticker: GIVN
@@ -406,10 +411,10 @@ GIVN_media:        #COMPLETED
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.show
-  pagination:
+    event_block: div.views-row.showx
+  pagination: 
     type: load_more
-    next_button: div.load-more-news 
+    next_button: div.load-more-documents 
     archive: null
     timeout: null
 
@@ -1060,6 +1065,26 @@ WISE_reports:
 WISE_news:
   ticker: WISE
   scraper: null
+  url: https://newsroom.wise.com/en-UKI/releases/?tags=news
+  output: data/WISE_news.json
+  output_json: JSONS/WISE_news.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.article__item.release__tag--product
+  pagination:
+    type: load_more
+    next_button: a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--paginationc-btn--pagination-next
+    archive: null
+    timeout: null
+
+WISE_news:
+  ticker: WISE
+  scraper: null
   url: https://wise.com/owners/results-reports-presentations
   output: data/WISE_news.json
   output_json: JSONS/WISE_news.json
@@ -1070,10 +1095,30 @@ WISE_news:
   headless: false
   direct: false
   selectors:
-    event_block:
+    event_block: li.article__item.release__tag--product
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
+
+WISE_press:
+  ticker: WISE
+  scraper: null
+  url: https://newsroom.wise.com/en-UKI/releases/
+  output: data/WISE_press.json
+  output_json: JSONS/WISE_press.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.article__item.release__tag--product
+  pagination:
+    type: load_more
+    next_button: a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--pagination.c-btn--pagination-next
     archive: null
     timeout: null
 
@@ -1242,7 +1287,7 @@ CPRI_reports:
   scraper: null
   url: https://www.camparigroup.com/en/page/investors/financial-reports
   output: data/CPRI_reports.json
-  output_json: JSONS/CPRI_reports.json
+  output_json: JSONS/CPRI_reports.json  
   base_address: https://investors.capriholdings.com/
   periodic: false
   geography: "European"
