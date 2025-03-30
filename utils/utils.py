@@ -302,7 +302,7 @@ async def extract_links_from_url(page, url):
 
 async def capture_full_page_screenshot(context, page=None, url=None):
     url = url.rstrip('/')
-    file_name = url.split("/")[-1] + ".png"
+    file_name = url.split("/")[-1] + ".jpeg"
 
     # Set up logging
     logging.basicConfig(level=logging.INFO)
@@ -323,7 +323,7 @@ async def capture_full_page_screenshot(context, page=None, url=None):
         logging.info("Taking full page screenshot...")
         await page.screenshot(path=file_path, full_page=True)
         absolute_path = os.path.abspath(file_path)
-        file_type = 'png'
+        file_type = 'jpeg'
         logging.info(f"Saved screenshot: {absolute_path}")
         if page is None:
             await page.close()

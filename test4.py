@@ -5,7 +5,7 @@ import asyncio
 
 async def capture_full_page_screenshot(url, base_url="https://www.sec.gov", headless=True):
     url = url.rstrip('/')
-    file_name = url.split("/")[-1] + ".png"
+    file_name = url.split("/")[-1] + ".webp"
 
     # Set up logging
     logging.basicConfig(level=logging.INFO)
@@ -29,7 +29,7 @@ async def capture_full_page_screenshot(url, base_url="https://www.sec.gov", head
 
             # Take a full page screenshot
             logging.info("Taking full page screenshot...")
-            await page.screenshot(path=file_path, full_page=True)
+            await page.screenshot(path=file_name, full_page=True)
 
             absolute_path = os.path.abspath(file_path)
             logging.info(f"Saved screenshot: {absolute_path}")
