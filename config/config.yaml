@@ -21,8 +21,8 @@ PVH_news:     # completed
 PVH_press:      # Completed
   ticker: PVH
   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
-  output: data/PVH_press2.json
-  output_json: JSONS/PVH_press2.json
+  output: data/PVH_press.json
+  output_json: JSONS/PVH_press.json
   base_address: https://www.pvh.com/
   link_archive: 'links/PVH.txt'
   forced_type: "press-releases"
