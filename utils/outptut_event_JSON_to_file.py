@@ -5,7 +5,7 @@ from utils.get_event_name_from_element import get_event_name_from_element
 from utils.get_url_from_element import get_urls_from_element
 from typing import Optional, Dict
 import json
-from utils.utils import download_file, extract_links_from_url, convert_page_to_pdf, download_file_direct
+from utils.utils import download_file, extract_links_from_url, capture_full_page_screenshot, create_session, setup_browser, check_file_link
 from utils.upload_to_r2 import upload_file_to_r2
 from utils.is_bad_link import is_bad_link
 from utils.is_periodic_non_periodic import is_periodic_non_periodic
@@ -45,6 +45,8 @@ logger.propagate = False
 # from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
 
 async def construct_event_json(
+    context,
+    page,
     link_archive: str,
     direct: bool,
     file_name: str,
@@ -55,6 +57,7 @@ async def construct_event_json(
     base_url: str,
     forced_type: str,
     headless: bool,
+    test_run: bool
     # Optionally you could accept a list if you want multiple data items:
     # published_dates: List[str] = None,
     # content_types: List[List[str]] = None,
@@ -131,20 +134,28 @@ async def construct_event_json(
 
     file_url = get_urls_from_element(html_element, base_url)
     all_links.extend(file_url)
+    
+    # Create session and playwright objects
+    session = create_session(base_url=base_url)
+    # playwright, browser, context, page = await setup_browser(headless=headless)
 
     if not direct:
         for url in file_url:
-            if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-                links, found = await extract_links_from_url(url, headless=headless)
-                if found is None:
-                    all_links.remove(url)
-                elif found:
+            if not await check_file_link(url=url):
+                links, found = await extract_links_from_url(page=page, url=url)
+                # if found is None:    
+                if found:
+                    if len(links) < 2:
+                        all_links.remove(url)
                     all_links.extend(links)
 
+    # await page.close()
 
     
     with open(link_archive, "r") as file:
         existing_links = set(file.read().splitlines())  # Read and split lines into a set
+
+    record_type = None
 
     for url in all_links: 
         if url in existing_links:
@@ -152,12 +163,15 @@ async def construct_event_json(
             continue
         # Let’s define file_name = "Moiz" so that it's never None
         if not direct:
-            if not any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx']):
-                file_path, file_name, file_type = await convert_page_to_pdf(url=url, base_url=base_url, headless=headless)
+            if not await check_file_link(url=url):
+                print('1', url)
+                file_path, file_name, file_type, record_type = await capture_full_page_screenshot(context=context, page=page, url=url)
             else:
-                file_path, file_name, file_type = await download_file(url=url, base_url=base_url, headless=headless)
+                print('2', url)
+                file_path, file_name, file_type, record_type = await download_file(context=context, url=url, session=session)
         else:
-            file_path, file_name, file_type = await download_file(url=url, base_url='https://www.sec.gov', headless=headless)
+            print('3', url)
+            file_path, file_name, file_type, record_type = await download_file(context=context, url=url, session=session)
 
         with open(link_archive, "a") as file:
             file.write(f"{url}\n")
@@ -168,15 +182,17 @@ async def construct_event_json(
         if file_name not in (None, "Null", "null", "None" , "none" ):
             # Build the data object
             r2_path = f"{equity_ticker}/{published_date}/{file_name}/"
-            r2_url = upload_file_to_r2(file_path, r2_path)
+            r2_url = upload_file_to_r2(file_path, r2_path, test_run)
             with open(file_path, "a") as file:
                 file.write(f"{url}\n")
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
                 "published_date": published_date if published_date else "",  # or "Null"
-                "url": r2_url,
-                "content_type": content_type if content_type else []
+                "source_url": url,
+                "r2_url": r2_url,
+                "content_type": content_type if content_type else [],
+                "record_type": record_type
             }
             data_objects.append(single_data)
             logger.debug(f"Constructed data object: {single_data}")
@@ -214,6 +230,8 @@ async def construct_event_json(
     return result_json
 
 async def output_event_JSON_to_file(
+    context,
+    page,
     link_archive: str,
     direct: bool,
     input_json_file: str,
@@ -223,7 +241,8 @@ async def output_event_JSON_to_file(
     periodicity: str,
     base_url: str,
     forced_type : str,
-    headless: bool
+    headless: bool,
+    test_run: bool
 ) -> None:
     """
     1) Reads a JSON file containing an array of HTML snippets
@@ -245,6 +264,8 @@ async def output_event_JSON_to_file(
     for idx, snippet in enumerate(snippet_list, start=1):
         logger.info(f"Processing snippet #{idx} / {len(snippet_list)}")
         result = await construct_event_json(
+            context=context,
+            page=page,
             link_archive=link_archive,
             direct=direct,
             file_name=input_json_file,
@@ -254,7 +275,8 @@ async def output_event_JSON_to_file(
             periodicity=periodicity,
             base_url=base_url,
             forced_type=forced_type,
-            headless=headless
+            headless=headless,
+            test_run=test_run
         )
 
         if result is None:

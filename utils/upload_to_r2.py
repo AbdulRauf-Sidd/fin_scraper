@@ -21,12 +21,23 @@ endpoint_url = 'https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.co
 
 
 # Function to upload a single file and return the R2 URL
-def upload_file_to_r2(file_path, r2_folder):
+def upload_file_to_r2(file_path, r2_folder, test_run):
     session = boto3.session.Session()
-    s3 = session.client('s3', 
-                   aws_access_key_id='f1ac1dc043a240f996be558cfba72868', 
-                   aws_secret_access_key="de1dd032fe83dc7bc8b8f8b207ca54807fa851b07483428396c141ebaf46d8bb", 
-                   endpoint_url="https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com")   
+    if not test_run:
+        s3 = session.client('s3', 
+                       aws_access_key_id='f1ac1dc043a240f996be558cfba72868', 
+                       aws_secret_access_key="de1dd032fe83dc7bc8b8f8b207ca54807fa851b07483428396c141ebaf46d8bb", 
+                       endpoint_url="https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.com") 
+        bucket_name = 'fin-scraping-bucket'
+        public_url = 'https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/'
+    else:
+        s3 = session.client('s3', 
+                       aws_access_key_id='75ab8895b1384c0274072b23d0eb9d3d', 
+                       aws_secret_access_key="eb384a4f3bc3c5504ec6c5ee355d4b1358ab191a6968f0521f83e330992882ef", 
+                       endpoint_url="https://3f80db7adc544850c6ad4904a0fb8f54.r2.cloudflarestorage.com") 
+        bucket_name = 'equity-data'
+        public_url = 'https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/'
+ 
     # Check if the file exists
     # if not os.path.isfile(file_path):
     #     continue
@@ -44,11 +55,11 @@ def upload_file_to_r2(file_path, r2_folder):
         try:
             # Upload the file to R2
             with open(file_path, 'rb') as data:
-                s3.put_object(Bucket='fin-scraping-bucket', Key=r2_file_key, Body=data)
+                s3.put_object(Bucket=bucket_name, Key=r2_file_key, Body=data)
 
             # Construct the URL of the uploaded file
             safe_r2_file_key = quote(r2_file_key)
-            file_url = f'https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/{safe_r2_file_key}'
+            file_url = f'{public_url}{safe_r2_file_key}'
             print(f"Uploaded: {r2_file_key}, URL: {file_url}")
             return file_url
 
