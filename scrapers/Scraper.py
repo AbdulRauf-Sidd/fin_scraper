@@ -26,11 +26,8 @@ class Scraper:
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
-        print(self.pagination)
         if subset:
-            print('hi')
             self.pagination['type'] = None
-        print(self.pagination)
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
         self.archive = self.config['pagination']['archive']

@@ -16,8 +16,7 @@ async def main(config_files, page, test_run=False, subset=False):
 
 if __name__ == "__main__":
     # Default values for optional arguments
-    test_run = 'False'
-    subset = 'False'
+    
 
     if len(sys.argv) < 3:
         print("Usage: python main.py <config1.yaml> <config2.yaml> ... <page> [test_run] [subset]")
@@ -37,4 +36,4 @@ if __name__ == "__main__":
     if missing_files:
         print(f"❌ Missing config files: {', '.join(missing_files)}")
         sys.exit(1)
-    asyncio.run(main(config_files, page, test_run, subset))
+    asyncio.run(main(config_files, page, test_run=False, subset=False))

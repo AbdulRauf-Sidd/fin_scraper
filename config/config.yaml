@@ -1,4 +1,4 @@
-PVH_news:     # completed
+PVH_news:     
   ticker: PVH
   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
@@ -18,7 +18,7 @@ PVH_news:     # completed
     archive: null
     timeout: null
 
-PVH_press:      # Completed
+PVH_press:      
   ticker: PVH
   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
   output: data/PVH_press.json
@@ -41,7 +41,7 @@ PVH_press:      # Completed
     archive: null
     timeout: null
 
-PVH_reports:      # Completed
+PVH_reports:      
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/investor-relations/reports
@@ -62,7 +62,7 @@ PVH_reports:      # Completed
     archive: null
     timeout: null
 
-PVH_resources:    # COMPLETED
+PVH_resources:    
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
