@@ -8,7 +8,7 @@ from scrapers.PaginationHandler import PaginationHandler
 import os
 
 class Scraper:
-    def __init__(self, utils_module, config_path, page):
+    def __init__(self, utils_module, config_path, page, test_run, subset):
         self.utils = utils_module
         self.pagination_handler = PaginationHandler()
         
@@ -16,7 +16,9 @@ class Scraper:
             config = yaml.safe_load(file)
             # self.config = next(iter(config.values()))
 
-        self.config = config[page] 
+        self.config = config[page]
+        self.test_run = test_run
+
 
         self.base_url = self.config['url']
         self.base_address = self.config['base_address']
@@ -24,6 +26,8 @@ class Scraper:
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
+        if subset:
+            self.pagination['type'] = None
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
         self.archive = self.config['pagination']['archive']
@@ -139,10 +143,14 @@ class Scraper:
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
 
+                browser.close()
+
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
                     await output_event_JSON_to_file(
+                        context=context,
+                        page=page,
                         link_archive=self.link_archive,
                         direct=self.direct,
                         input_json_file=self.output_file,
@@ -152,7 +160,8 @@ class Scraper:
                         periodicity=self.periodicity,
                         base_url = self.base_address,
                         forced_type=self.forced_type,
-                        headless = self.headless
+                        headless = self.headless,
+                        test_run= self.test_run
                         )
                 else:
                     print("\n❌ No events found.")

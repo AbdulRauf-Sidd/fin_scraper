@@ -1,4 +1,4 @@
-PVH_news:     # completed
+PVH_news:     
   ticker: PVH
   url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
   output: data/PVH_news.json
@@ -18,11 +18,11 @@ PVH_news:     # completed
     archive: null
     timeout: null
 
-PVH_press:      # Completed
+PVH_press:      
   ticker: PVH
   url: https://www.pvh.com/news?facets=content_type%3DPress%20Releases%26year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%7C2018%7C2017%7C2016%7C2015%7C2014%7C2013%7C2012%7C2011%7C2010%7C2009%26
-  output: data/PVH_press2.json
-  output_json: JSONS/PVH_press2.json
+  output: data/PVH_press.json
+  output_json: JSONS/PVH_press.json
   base_address: https://www.pvh.com/
   link_archive: 'links/PVH.txt'
   forced_type: "press-releases"
@@ -41,7 +41,7 @@ PVH_press:      # Completed
     archive: null
     timeout: null
 
-PVH_reports:      # Completed
+PVH_reports:      
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/investor-relations/reports
@@ -62,7 +62,7 @@ PVH_reports:      # Completed
     archive: null
     timeout: null
 
-PVH_resources:    # COMPLETED
+PVH_resources:    
   ticker: PVH
   scraper: FlatListScraper
   url: https://www.pvh.com/responsibility/resources
@@ -315,25 +315,30 @@ DSFIR_news:       #COMPLETED
     archive: null
     timeout: null
 
-DSFIR_press:    #
-  ticker: DSFIR
-  scraper: null
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
-  output: data/DSFIR_press.json
-  output_json: JSONS/DSFIR_press.json
-  base_address: https://investors.dsm-firmenich.com/
-  periodic: null
-  geography: "European"
-  forced_type: "press-release"
-  headless: false
-  direct: true
-  selectors:
-    event_block: .cmp-title, .cmp-text, .cmp-image
-  pagination:
-    type: year_tabs
-    next_button: "li.cmp-tabs__tab"
-    archive: null
-    timeout: null
+# DSFIR_press:    #
+#   ticker: DSFIR
+#   scraper: null
+#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   output: data/DSFIR_press.json
+#   output_json: JSONS/DSFIR_press.json
+#   base_address: https://investors.dsm-firmenich.com/
+#   periodic: null
+#   geography: "European"
+#   forced_type: "press-release"
+#   headless: false
+#   direct: true
+#   selectors:
+#     event_block: >
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-title, 
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-text, 
+#       div.aem-Grid.aem-Grid--12.aem-Grid--default--12 .cmp-image
+#   pagination:
+#     type: year_tabs
+#     next_button: "li.cmp-tabs__tab"
+#     archive: null
+#     timeout: null
+
+    
 
 GIVN_news:        
   ticker: GIVN
@@ -407,10 +412,10 @@ GIVN_media:        #COMPLETED
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.show
-  pagination:
+    event_block: div.views-row.showx
+  pagination: 
     type: load_more
-    next_button: div.load-more-news 
+    next_button: div.load-more-documents 
     archive: null
     timeout: null
 
@@ -1061,7 +1066,7 @@ WISE_reports:
 WISE_news:
   ticker: WISE
   scraper: null
-  url: https://wise.com/owners/results-reports-presentations
+  url: https://newsroom.wise.com/en-UKI/releases/?tags=news
   output: data/WISE_news.json
   output_json: JSONS/WISE_news.json
   base_address: https://wise.com/
@@ -1070,11 +1075,52 @@ WISE_news:
   forced_type: "news"
   headless: false
   direct: false
+  link_archive: 'links/WISE.txt'
   selectors:
-    event_block:
+    event_block: li.article__item
+  pagination:
+    type: button
+    next_button: a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--paginationc-btn--pagination-next
+    archive: null
+    timeout: null
+
+WISE_presentations:
+  ticker: WISE
+  scraper: null
+  url: https://wise.com/owners/results-reports-presentations
+  output: data/WISE_presentations.json
+  output_json: JSONS/WISE_presentations.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "presentations"
+  headless: false
+  direct: false
+  selectors:
+    event_block: tr.price-table__tr
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
+
+WISE_press:
+  ticker: WISE
+  scraper: null
+  url: https://newsroom.wise.com/en-UKI/releases/
+  output: data/WISE_press.json
+  output_json: JSONS/WISE_press.json
+  base_address: https://wise.com/
+  periodic: false
+  geography: "European"
+  forced_type: "press"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.article__item.release__tag--product
+  pagination:
+    type: button
+    next_button: a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--pagination.c-btn--pagination-next
     archive: null
     timeout: null
 
@@ -1243,7 +1289,7 @@ CPRI_reports:
   scraper: null
   url: https://www.camparigroup.com/en/page/investors/financial-reports
   output: data/CPRI_reports.json
-  output_json: JSONS/CPRI_reports.json
+  output_json: JSONS/CPRI_reports.json  
   base_address: https://investors.capriholdings.com/
   periodic: false
   geography: "European"
@@ -1445,6 +1491,28 @@ VOW3_financial:    # Period
     archive: null
     timeout: null
 
+VOW3_annual-general-meeting:  
+  ticker: VOW3
+  scraper: null
+  url: https://www.volkswagen-group.com/en/annual-general-meeting-2023-16025
+  output: data/VOW3_annual-general-meeting.json
+  output_json: JSONS/VOW3_annual-general-meeting.json
+  base_address: https://www.volkswagen-group.com/
+  periodic: null
+  geography: "European"
+  forced_type: "annual-general-meeting"
+  link_archive: links/VOW3.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.file-attachment.is-pdf
+  pagination:
+    type: button
+    next_button:  tbody tr td
+    archive: null
+    timeout: null
+
+
 OR_news:           #Complete  
   ticker: OR
   scraper: null
@@ -1537,11 +1605,11 @@ NOVO-B_reporting:   #Complete
   output_json: JSONS/NOVO-B_reporting.json
   base_address: https://www.novonordisk.com/
   periodic: true
-  geography: "european"
+  geography: "European"
   forced_type: "reporting"
   direct: false
   headless: false
-  direct: true
+  direct: true 
   selectors:
     event_block: div.text.color-blue.introtext p
   pagination:
@@ -1549,6 +1617,28 @@ NOVO-B_reporting:   #Complete
     next_button:  null
     archive: null
     timeout: null
+
+NOVO-B_news:  
+  ticker: NOVO-B
+  scraper: null
+  url: https://www.novonordisk.com/news-and-media/news-and-ir-materials.html
+  output: data/NOVO-B_news.json
+  output_json: JSONS/NOVO-B_news.json
+  base_address: https://www.novonordisk.com/
+  periodic: true
+  geography: "European"
+  forced_type: "news"
+  direct: false
+  headless: false
+  direct: true 
+  selectors:
+    event_block: div.element-box.display-flex.space-between
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
 
 #SIE              #Complete
 SIE_press:   
@@ -1654,6 +1744,27 @@ HWDN_sustainability:   # COMPLETE
     archive: null
     timeout: null
 
+HWDN_press-releases:  
+  ticker: HWDN
+  scraper: null
+  url: https://www.howdenjoinerygroupplc.com/media-centre/press-releases
+  output: data/HWDN_press-releases.json
+  output_json: JSONS/HWDN_press-releases.json
+  base_address: https://www.howdenjoinerygroupplc.com/
+  periodic: null
+  geography: "European"
+  forced_type: "press-releases"
+  link_archive: "links/RACE.txt"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.row
+  pagination:
+    type: button
+    next_button: div.col-4.col-lg-12.tablinks
+    archive: null
+    timeout: null
+
 #RACE
 RACE_press:   # Ahsan   
   ticker: RACE
@@ -1697,6 +1808,28 @@ RACE_financial:   # COMPLETE
     archive: null
     timeout: null
 
+RACE_news:   
+  ticker: RACE
+  scraper: null
+  url: https://www.ferrari.com/en-EN/esports/news
+  output: data/RACE_news.json
+  output_json: JSONS/RACE_news-.json
+  base_address: https://www.ferrari.com/
+  periodic: null
+  geography: "European"
+  forced_type: "news"
+  link_archive: "links/RACE.txt"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.NewsPage__grid-row__2hkTTLLU
+  pagination:
+    type: null
+    next_button:  null
+    archive: null
+    timeout: null
+
+
 #BAS
 BAS_publications:   
   ticker: BAS
@@ -1715,6 +1848,26 @@ BAS_publications:
   pagination:
     type: load_more
     next_button:  div.wxp-result-list-footer-button.mt-5
+    archive: null
+    timeout: null
+
+BAS_news:   
+  ticker: BAS
+  scraper: null
+  url: https://www.basf.com/global/en/media/news-releases
+  output: data/BAS_news.json
+  output_json: JSONS/BAS_news.json
+  base_address: https://www.basf.com/
+  periodic: true
+  geography: "European"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: article.wxp-content-item.wxp-content-item__has-image
+  pagination:
+    type: load_more
+    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
     archive: null
     timeout: null
 
