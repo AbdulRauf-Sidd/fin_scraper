@@ -303,6 +303,7 @@ DSFIR_news:       #COMPLETED
   base_address: https://investors.dsm-firmenich.com/
   periodic: null
   geography: "European"
+  link_archive: 'links/DSFIR.txt'
   forced_type: "news"
   headless: false
   direct: false
@@ -1418,7 +1419,7 @@ VOW3_press:
   selectors:
     event_block: a.vertical-page-list-item.-medium.up-can-clean
   pagination:
-    type: null
+    type: losd_more
     next_button:  button.btn.btn-default.page-list--load-more-button.-visible
     archive: null
     timeout: null

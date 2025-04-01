@@ -5,7 +5,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
 # Update the URI with your credentials and cluster details.
-uri = "mongodb+srv://<db_username>:<db_password>@cluster0.m9ie4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://scraperDB:MDa19wILenT3qXDb@cluster0.m9ie4.mongodb.net/"
 
 # Connect to the MongoDB Atlas cluster.
 client = MongoClient(uri, server_api=ServerApi('1'))
@@ -23,7 +23,7 @@ db = client["myDatabase"]         # Replace with your target database name.
 collection = db["myCollection"]   # Replace with your target collection name.
 
 # Define the directory containing the JSON files.
-json_directory = "JSONS"  # Ensure this path is correct relative to your script.
+json_directory = "Completed/JSONS"  # Ensure this path is correct relative to your script.
 
 # Use glob to get a list of all JSON files in the directory.
 json_files = glob.glob(os.path.join(json_directory, "*.json"))
