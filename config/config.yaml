@@ -1830,7 +1830,7 @@ RACE_news:
 
 
 #BAS
-BAS_publications:   
+BAS_publications:
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
@@ -1840,17 +1840,18 @@ BAS_publications:
   periodic: true
   geography: "European"
   forced_type: "publications"
+  link_archive: 'links/BAS.txt'
   headless: false
-  direct: false
+  direct: true
   selectors:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button.mt-5
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-BAS_news:   
+BAS_news:           # Rauf will check it !!!!
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1861,17 +1862,18 @@ BAS_news:
   geography: "European"
   forced_type: "news"
   headless: false
-  direct: false
+  direct: true
+  link_archive: 'links/BAS.txt'
   selectors:
-    event_block: article.wxp-content-item.wxp-content-item__has-image
+    event_block: article.wxp-content-item
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-#SAN
-SAN_investor-relations:   
+#SAN          
+SAN_investor-relations:      # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/glossary
@@ -1881,6 +1883,7 @@ SAN_investor-relations:
   periodic: true
   geography: "European"
   forced_type: null
+  link_archive: 'links/SAN.txt'
   headless: false
   direct: true
   selectors:
@@ -1891,27 +1894,28 @@ SAN_investor-relations:
     archive: null
     timeout: null
 
-SAN_stock-exchange:   
+SAN_stock-exchange:   # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
   output: data/SAN_stock-exchangejson
   output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: false
   selectors:
     event_block: tbody tr
   pagination:
-    type: null 
-    next_button:  null
+    type: button 
+    next_button:  li.presentation
     archive: null
     timeout: null
 
-SAN_group-holdings:   
+SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
@@ -1922,11 +1926,12 @@ SAN_group-holdings:
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: true
   selectors:
-    event_block: # hassannnnnnnn
+    event_block: div.row.two-col-left
   pagination:
-    type: null
-    next_button: null
+    type:                 # Expand
+    next_button: div.panel-title
     archive: null
     timeout: null
