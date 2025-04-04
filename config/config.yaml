@@ -1510,7 +1510,7 @@ OR_news:           #Complete
   geography: "European"
   headless: true
   forced_type: "news"
-  direct: true
+  direct: false
   selectors:
     event_block: div.col-12.col-md-10.offset-md-1.col-lg-7.col-xl-6.offset-lg-0.offset-xl-0.news-events-listing__info-wrapper
   pagination:
@@ -1530,8 +1530,8 @@ OR_half:          #Complete
   geography: "European"
   link_archive: links/OR.txt
   forced_type: "half-year-results"
-  headless: true
-  direct: true
+  headless: false
+  direct: false
   selectors:
     event_block: div.archive__section
   pagination:
