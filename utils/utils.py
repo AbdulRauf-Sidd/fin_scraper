@@ -253,9 +253,9 @@ async def extract_links_from_url(page, url):
         # await page.close()
         logging.info(f"Found {len(all_links)} links on {url}")
         return all_links, found
-    except:
+    except Exception as e:
         # await page.close()
-        print('ERROR LOGGING')
+        print('ERROR LOGGING', e)
         logging.info(f"Error extracting links from url: {url}")
         return [url], False
     

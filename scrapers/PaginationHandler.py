@@ -124,6 +124,8 @@ class PaginationHandler:
             except Exception as e:
                 print(f"⚠️ Error switching to {year}: {e}")
         return all_events
+    
+    
 
     async def handle_multiple_page_urls(self, page, base_url, subpage_selector):
         """Finds page URLs (e.g. index.php?...) and returns all unique URLs."""
@@ -173,3 +175,31 @@ class PaginationHandler:
         except Exception as e:
             print(f"⚠️ Error finding next page: {e}")
         return False
+    
+    async def handle_dropdown_pagination(self, page, dropdown_selector):
+        # Wait for dropdown to appear
+        await page.wait_for_selector(dropdown_selector)
+    
+        # Get all option values
+        option_values = await page.eval_on_selector_all(
+            f"{dropdown_selector} option",
+            "options => options.map(option => option.value)"
+        )
+    
+        print(f"🔽 Found {len(option_values)} dropdown options")
+    
+        all_events = []
+    
+        for idx, value in enumerate(option_values):
+            print(f"\n➡️ Selecting option {idx+1}/{len(option_values)}: {value}")
+            await page.select_option(dropdown_selector, value)
+            await asyncio.sleep(3)  # Let page update after selection
+    
+            # Scroll if needed (optional)
+            await self.scroll_page(page)
+    
+            events = await self.extract_data_from_page(page)
+            print(f"✅ Scraped {len(events)} events from option '{value}'")
+            all_events.extend(events)
+    
+        return all_events

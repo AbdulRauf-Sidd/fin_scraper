@@ -126,6 +126,13 @@ class Scraper:
                         await self.pagination_handler.click_load_more(page, selector, self.selector)
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
+                elif pag_type == "dropdown":
+                    dropdown_selector = self.selector
+                    if not dropdown_selector:
+                        print("❌ Missing 'dropdown_selector' in config for pagination type 'dropdown'")
+                    else:
+                        events = await self.pagination_handler.handle_dropdown_pagination(page, dropdown_selector)
+                        all_events.extend(events)
                 elif pag_type == "next_page_url":
                     while True:
                         print(f"\n📄 Scraping page {page_num}")

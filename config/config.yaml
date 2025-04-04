@@ -84,7 +84,7 @@ PVH_resources:
     archive: null
     timeout: null
 
-CORZ_financial-information:   # COMPLETED
+CORZ_financial_information:   # COMPLETED
   ticker: CORZ
   scraper: null
   link_archive: 'links/CORZ.txt'
@@ -171,7 +171,7 @@ CRDA_presentations:
   ticker: CRDA
   scraper: null
   link_archive: 'links/CRDA.txt'
-  url: https://www.croda.com/endisableddisabled-gb/investors/results-presentations-and-reports
+  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
   output: data/CRDA_presentations.json
   output_json: JSONS/CRDA_presentations.json
   base_address: https://www.croda.com/en-gb/
@@ -188,8 +188,7 @@ CRDA_presentations:
     archive: null
     timeout: null
 
-
-#checkkkkk   
+  
 CRDA_news:     #COMPLETED
   ticker: CRDA
   link_archive: 'links/CRDA.txt'
@@ -253,7 +252,7 @@ CBP_news:       # Pagination not handled correctly
     timeout: null
 
 #checkkkkk
-CBP_newsroom:       # Pagination not handled correctly
+CBP_newsroom:       
   ticker: CBP
   url: https://www.thecampbellscompany.com/newsroom/
   output: data/CBP_newsroom.json
@@ -273,7 +272,7 @@ CBP_newsroom:       # Pagination not handled correctly
     timeout: null
 
 #checkkkkk
-CBP_financial:       # Pagination not handled correctly
+CBP_financial:       
   ticker: CBP
   url: https://investor.thecampbellscompany.com/financials/quarterly-results
   output: data/CBP_financial.json
@@ -1578,14 +1577,14 @@ OR_annual:       #Complete
     timeout: null
 
 #NOVO-B
-NOVO-B_finance:     #LLM
+NOVO-B_finance:     #LLM  # Remaining ( Hassan Expand function remaining )
   ticker: NOVO-B
   scraper: null
   url: https://www.novonordisk.com/investors/financial-results.html
   output: data/NOVO-B_financial.json
   output_json: JSONS/NOVO-B_financial.json
   base_address: https://www.novonordisk.com/
-  periodic: false
+  periodic: true
   geography: "European"
   forced_type: "financial"
   headless: false
@@ -1598,7 +1597,7 @@ NOVO-B_finance:     #LLM
     archive: null
     timeout: null
 
-NOVO-B_reporting:   #Complete
+NOVO-B_reporting:   # testing done ( working )
   ticker: NOVO-B
   scraper: null
   url: https://www.novonordisk.com/sustainable-business/esg-portal/integrated-reporting.html
@@ -1608,18 +1607,19 @@ NOVO-B_reporting:   #Complete
   periodic: true
   geography: "European"
   forced_type: "reporting"
-  direct: false
+  link_archive: "links/NOVO.txt"
+  direct: true
   headless: false
   direct: true 
   selectors:
-    event_block: div.text.color-blue.introtext p
+    event_block: div.text p
   pagination:
     type: null
     next_button:  null
     archive: null
     timeout: null
 
-NOVO-B_news:  
+NOVO-B_news:        # testing done ( working )
   ticker: NOVO-B
   scraper: null
   url: https://www.novonordisk.com/news-and-media/news-and-ir-materials.html
@@ -1629,14 +1629,15 @@ NOVO-B_news:
   periodic: true
   geography: "European"
   forced_type: "news"
+  link_archive: "links/NOVO.txt"
   direct: false
   headless: false
   direct: true 
   selectors:
-    event_block: div.element-box.display-flex.space-between
+    event_block: div.title-desktop
   pagination:
-    type: null
-    next_button:  null
+    type: load_more
+    next_button:  div.button-wrapper
     archive: null
     timeout: null
 
@@ -1767,10 +1768,10 @@ HWDN_press-releases:
     timeout: null
 
 #RACE
-RACE_press:   # Ahsan   
+RACE_press:         #Complete
   ticker: RACE
   scraper: null
-  url: https://www.ferrari.com/en-EN/corporate/press-releases/10
+  url: https://www.ferrari.com/en-EN/corporate/press-releases
   output: data/RACE_press.json
   output_json: JSONS/RACE_press-.json
   base_address: https://www.ferrari.com/
@@ -1781,28 +1782,28 @@ RACE_press:   # Ahsan
   headless: false
   direct: false
   selectors:
-    event_block: div.NewsPage__grid-row__2hkTTLLU
+    event_block: div.Card__content__1iV95PHv
   pagination:
     type: null
     next_button:  null
     archive: null
     timeout: null
 
-RACE_financial:   # COMPLETE 
+RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   ticker: RACE
   scraper: null
-  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2024
   output: data/RACE_financial.json
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
-  periodic: null
+  periodic: true
   geography: "European"
   forced_type: "financial-filing"
   link_archive: "links/RACE.txt"
   headless: false
   direct: false
   selectors:
-    event_block: div.LinkAccordion__rows__mNPa_uDh
+    event_block: div.LinkAccordion__link__2oOddzNW
   pagination:
     type: null
     next_button:  null
@@ -1832,7 +1833,7 @@ RACE_news:
 
 
 #BAS
-BAS_publications:   
+BAS_publications:       #Complete
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
@@ -1842,17 +1843,18 @@ BAS_publications:
   periodic: true
   geography: "European"
   forced_type: "publications"
+  link_archive: 'links/BAS.txt'
   headless: false
-  direct: false
+  direct: true
   selectors:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button.mt-5
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-BAS_news:   
+BAS_news:           # Rauf will check it !!!!
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1863,17 +1865,18 @@ BAS_news:
   geography: "European"
   forced_type: "news"
   headless: false
-  direct: false
+  direct: true
+  link_archive: 'links/BAS.txt'
   selectors:
-    event_block: article.wxp-content-item.wxp-content-item__has-image
+    event_block: article.wxp-content-item
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-#SAN
-SAN_investor-relations:   
+#SAN          
+SAN_investor-relations:      # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/glossary
@@ -1883,6 +1886,7 @@ SAN_investor-relations:
   periodic: true
   geography: "European"
   forced_type: null
+  link_archive: 'links/SAN.txt'
   headless: false
   direct: true
   selectors:
@@ -1893,27 +1897,28 @@ SAN_investor-relations:
     archive: null
     timeout: null
 
-SAN_stock-exchange:   
+SAN_stock-exchange:   # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
   output: data/SAN_stock-exchangejson
   output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: false
   selectors:
     event_block: tbody tr
   pagination:
-    type: null 
-    next_button:  null
+    type: button 
+    next_button:  li.presentation
     archive: null
     timeout: null
 
-SAN_group-holdings:   
+SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
@@ -1924,11 +1929,12 @@ SAN_group-holdings:
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: true
   selectors:
-    event_block: # hassannnnnnnn
+    event_block: div.row.two-col-left
   pagination:
-    type: null
-    next_button: null
+    type:                 # Expand
+    next_button: div.panel-title
     archive: null
     timeout: null

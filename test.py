@@ -1,5 +1,5 @@
 from pypdl import Pypdl
-from utils.utils import add_extension_if_missing, convert_page_to_pdf
+from utils.utils import add_extension_if_missing, capture_full_page_screenshot
 import os 
 import asyncio
 import requests
@@ -51,10 +51,9 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
         return absolute_path, file_name, file_type 
     except Exception as e:
         # logging.error(f"Can't download file using PYPDL: {e}")
-        try:
-            return await convert_page_to_pdf(url, base_url, headless)
-        except Exception as e:
-            # logging.error(f"Error Converting webpage to PDF: {e}")
-            return None, None, None
+        pass 
         
-asyncio.run(download_file(url='https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2024-Earnings-Results', headless=False, base_url='https://www.reckitt.com'))
+        
+asyncio.run(download_file(url=
+"https://www.novonordisk.com/content/dam/Denmark/HQ/investors/irmaterial/annual_report/2014/20140203_Annual%20Report%202013_UK.pdf"
+, headless=False, base_url='https://www.reckitt.com'))
