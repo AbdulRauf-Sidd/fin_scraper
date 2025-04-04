@@ -262,12 +262,13 @@ CBP_newsroom:
   headless: false
   geography: "US"
   forced_type: "news"
+  link_archive: 'links/CBP.txt'
   direct: true
   selectors:
     event_block: article.article.article--post
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: button.js-load-more.load-more
     archive: null
     timeout: null
 
@@ -278,11 +279,11 @@ CBP_financial:
   output: data/CBP_financial.json
   output_json: JSONS/CBP_financial.json
   base_address: https://investor.thecampbellscompany.com/
-  periodic: false
+  periodic: true
   headless: false
   geography: "US"
   forced_type: "financial"
-  direct: true
+  direct: false
   selectors:
     event_block: div.llf-col-12.llf-col-md-6.llf-col-lg-3.llf-pb-5.llf-pb-lg-0.ndm-quarter
   pagination:
@@ -648,6 +649,7 @@ SY1_events:     # COMPLETED
   scraper: null
   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
   output: data/SY1_events.json
+  link_archive: 'links/SY1.txt'
   output_json: JSONS/SY1_events.json
   base_address: https://www.symrise.com/
   periodic: null
@@ -669,6 +671,7 @@ SY1_news:         # COMPLETE
   output: data/SY1_news.json
   output_json: JSONS/SY1_news.json
   base_address: https://www.symrise.com/
+  link_archive: 'links/SY1.txt'
   periodic: null
   geography: "European"
   forced_type: "news"
@@ -689,6 +692,7 @@ SY1_financial:
   output: data/SY1_financial.json
   output_json: JSONS/SY1_financial.json
   base_address: https://www.symrise.com/
+  link_archive: 'links/SY1.txt'
   periodic: null
   geography: "European"
   forced_type: null
@@ -1793,7 +1797,7 @@ RACE_press:         #Complete
 RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   ticker: RACE
   scraper: null
-  url: https://www.ferrari.com/en-EN/corporate/financial-documents?year=2024
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents?
   output: data/RACE_financial.json
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
@@ -1806,8 +1810,8 @@ RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   selectors:
     event_block: div.LinkAccordion__link__2oOddzNW
   pagination:
-    type: null
-    next_button:  null
+    type: dropdown
+    next_button: div.DropdownCustom__frame__1IAT8aD6
     archive: null
     timeout: null
 
