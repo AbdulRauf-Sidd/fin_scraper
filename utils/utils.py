@@ -329,6 +329,7 @@ async def capture_full_page_screenshot(context, page=None, url=None):
             await page.close()
         return absolute_path, file_name, file_type, 'screenshot'
     except Exception as e:
+        print('asdjsahjdhasjhdjashdjashdjsahdjashdjashdjash')
         await page.close()
         logging.error(f"Error capturing screenshot: {e}")
         return None, None, None, None

@@ -3,38 +3,20 @@ import logging
 import math
 import spacy
 from bs4 import BeautifulSoup
-from typing import List, Dict, Set
-from .spacy_model import nlp
+from typing import List, Union
 
-#######################
-## LOGGING SETUP     ##
-#######################
-
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='%(asctime)s [%(levelname)s] %(message)s',
-    handlers=[
-        logging.FileHandler("logs/get_content_trype_from_element.log", mode='w', encoding='utf-8'),
-        logging.StreamHandler()
-    ]
-)
+# -------------------------
+# Logging and spaCy setup
+# -------------------------
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
-#######################
-## SPAcy + Embeddings ##
-#######################
+# Load a spaCy model; adjust as needed for your environment.
+nlp = spacy.load("en_core_web_sm")
 
-# def load_spacy_model(model_name: str = "en_core_web_md"):
-#     """
-#     Loads spaCy model for vector similarity.
-#     """
-#     logger.info(f"Loading spaCy model: {model_name}")
-#     nlp_loaded = spacy.load(model_name)
-#     logger.info("spaCy model loaded successfully.")
-#     return nlp_loaded
-
-# nlp = load_spacy_model()
-
+# -------------------------
+# Utility: Cosine Similarity
+# -------------------------
 def _cosine_similarity(vec_a, vec_b):
     dot = 0.0
     norm_a = 0.0
@@ -47,49 +29,37 @@ def _cosine_similarity(vec_a, vec_b):
         return 0.0
     return dot / (math.sqrt(norm_a) * math.sqrt(norm_b))
 
-##############################
-## CONTENT TYPE DICTIONARY  ##
-##############################
-
-# Updated dictionary with more flexible patterns:
-# - "filings?" for singular/plural
-# - "reports?" for singular/plural
-# - "financials?" -> "financial_filing"
-# Use re.IGNORECASE so we don't need to do explicit .lower() checks in the pattern itself.
-CONTENT_PATTERNS: Dict[str, List[str]] = {
-    # exact or partial matches
-    r"\b10[-_\s]?k\b":                       ["10-K", "sec-filing"],
-    r"\b10[-_\s]?q\b":                       ["10-Q", "sec-filing"],
-    r"\bannual[-_\s]+report\b":              ["annual-report"],
-    r"\bsec[-_\s]+filings?\b":               ["sec-filing"],
-    r"\bfinancials?\b":                      ["financial-filing"],
-    r"\breports?\b":                         ["financial-filing"],
-    r"\bearnings[-_\s]+release\b":           ["financial-filing"],
-    r"\bpress[-_\s]+release\b":              ["press-release"],
-    r"\bpresentation\b":                     ["presentation"],
-    r"\btranscript\b":                       ["transcript"],
-    r"\bwebcast\b":                          ["webcast"],
-    r"\bspreadsheet\b":                      ["spreadsheet"],
-    r"\bsellside[-_\s]+conference\b":        ["sellside-conference"],
-    r"\bindustry[-_\s]+conference\b":        ["industry-conference"],
+# -------------------------
+# Content Type Patterns & Concepts
+# -------------------------
+CONTENT_PATTERNS = {
+    r"\b10[-_\s]?k\b": ["10-K", "sec-filing"],
+    r"\b10[-_\s]?q\b": ["10-Q", "sec-filing"],
+    r"\bannual[-_\s]+report\b": ["annual-report"],
+    r"\bsec[-_\s]+filings?\b": ["sec-filing"],
+    r"\bfinancials?\b": ["financial-filing"],
+    r"\breports?\b": ["financial-filing"],
+    r"\bearnings[-_\s]+release\b": ["financial-filing"],
+    r"\bpress[-_\s]+release\b": ["press-release"],
+    r"\bpresentation\b": ["presentation"],
+    r"\btranscript\b": ["transcript"],
+    r"\bwebcast\b": ["webcast"],
+    r"\bspreadsheet\b": ["spreadsheet"],
+    r"\bsellside[-_\s]+conference\b": ["sellside-conference"],
+    r"\bindustry[-_\s]+conference\b": ["industry-conference"],
     r"\binvestor[-_\s]+day[-_\s]+presentation\b": ["investor-day-presentation"],
-    r"\bpreliminary[-_\s]+results?\b":       ["preliminary-results"],
-    r"\binterim[-_\s]+results?\b":           ["interim-results"],
-    r"\btrading[-_\s]+update\b":             ["trading-update"],
-    r"\bfull[-_\s]?year[-_\s]+results?\b":   ["full-year-results"],
-    r"\bnine[-_\s]?month[-_\s]+sales?\b":    ["nine-month-sales"],
-    r"\bhalf[-_\s]?year[-_\s]+results?\b":   ["half-year-results"],
-    r"\bthree[-_\s]?month[-_\s]+results?\b": ["three-month-results"],   
+    r"\bpreliminary[-_\s]+results?\b": ["preliminary-results"],
+    r"\binterim[-_\s]+results?\b": ["interim-results"],
+    r"\btrading[-_\s]+update\b": ["trading-update"],
+    r"\bfull[-_\s]?year[-_\s]+results?\b": ["full-year-results"],
+    r"\bnine[-_\s]?month[-_\s]+sales?\b": ["nine-month-sales"],
+    r"\bhalf[-_\s]?year[-_\s]+results?\b": ["half-year-results"],
+    r"\bthree[-_\s]?month[-_\s]+results?\b": ["three-month-results"],
     r"\bannual[-_\s]+general[-_\s]+meeting\b": ["annual-general-meeting"],
-    r"\bagm\b":                              ["annual-general-meeting"],
-    r"\bq[1-4][-_]?\d{4}\b":                 ["three-month-results"],
-    r"\btrading[-_\s]+update\b":             ["trading-update"],
-    r"\bannounce(?:ment|s|d)?\b":            ["announcement"],
+    r"\bagm\b": ["annual-general-meeting"],
+    r"\bq[1-4][-_]?\d{4}\b": ["three-month-results"],
+    r"\bannounce(?:ment|s|d)?\b": ["announcement"],
 }
-
-##############################
-## SIMILARITY-BASED FALLBACK ##
-##############################
 
 CONTENT_TYPE_CONCEPTS = [
     "financial_filing",
@@ -120,9 +90,6 @@ CONTENT_TYPE_CONCEPTS = [
 ]
 
 def _precompute_content_type_embeddings(labels: List[str]):
-    """
-    For each content type label, compute the average spaCy vector.
-    """
     vectors = []
     for ct in labels:
         doc = nlp(ct)
@@ -131,13 +98,9 @@ def _precompute_content_type_embeddings(labels: List[str]):
     return vectors
 
 CONTENT_TYPE_EMBEDDINGS = _precompute_content_type_embeddings(CONTENT_TYPE_CONCEPTS)
-SIMILARITY_THRESHOLD = 0.75  # can raise or lower
+SIMILARITY_THRESHOLD = 0.75
 
 def _best_content_type_for_token(token_vec):
-    """
-    Return (content_type_label, similarity) with the highest similarity
-    from our known list of content types.
-    """
     best_label = None
     best_score = 0.0
     for ct_label, ct_vec in CONTENT_TYPE_EMBEDDINGS:
@@ -147,81 +110,76 @@ def _best_content_type_for_token(token_vec):
             best_label = ct_label
     return best_label, best_score
 
-##################
-## TEXT PARSING ##
-##################
-
+# -------------------------
+# Text Extraction Helpers
+# -------------------------
 def _extract_full_text_including_urls(html_snippet: str) -> str:
     """
-    Extracts a string from the HTML snippet containing:
-    - visible text
-    - anchor text
-    - hrefs from <a> tags, cleaned and tokenized
+    Extract visible text along with anchor texts and hrefs from the HTML snippet.
     """
     soup = BeautifulSoup(html_snippet, 'html.parser')
     parts = []
-
-    # 1) Visible text
+    # Extract visible text
     visible_text = soup.get_text(separator=' ', strip=True)
     parts.append(visible_text)
-
-    # 2) Anchor text + hrefs
+    # Extract anchor texts and hrefs
     for a_tag in soup.find_all('a', href=True):
         anchor_text = a_tag.get_text(separator=' ', strip=True)
         if anchor_text:
             parts.append(anchor_text)
-
         href_val = a_tag['href']
         parts.append(href_val)
-
-        # NEW: Break href into components to allow regex & NLP match
-        # Replace delimiters with space, remove extensions like .pdf
-        cleaned_href = re.sub(r'[-_/]', ' ', href_val)  # split common delimiters
-        cleaned_href = re.sub(r'\.\w{2,4}$', '', cleaned_href)  # remove file extensions like .pdf, .docx
+        # Clean the href for additional matching
+        cleaned_href = re.sub(r'[-_/]', ' ', href_val)
+        cleaned_href = re.sub(r'\.\w{2,4}$', '', cleaned_href)
         parts.append(cleaned_href)
+    return " ".join(parts)
 
-    full_text = " ".join(parts)
-    return full_text
-
-
-
-##############################
-## MAIN CONTENT-TYPE METHOD ##
-##############################
-
-def get_content_type_from_element(
-    html_snippet: str,
-    forced_type: str = None
-) -> List[str]:
+def _extract_anchor_context(anchor_tag) -> str:
     """
-    1) Extract full text from the snippet ...
-    2) Dictionary-based approach ...
-    3) Similarity approach ...
-    4) Union them.
-    5) If forced_type is provided, add it to the final set.
+    Isolates the local context for a given <a> tag.
+    It first finds the nearest block-level parent (div, p, li) with a minimal amount
+    of text (at least 20 characters). If the immediate parent is too short, it climbs up.
+    Then it removes any other links in that parent.
     """
-    # Log a condensed snippet
+    candidate = anchor_tag.find_parent(['div', 'p', 'li'])
+    # Climb up until we get a candidate with sufficient text length.
+    while candidate and len(candidate.get_text(strip=True)) < 20:
+        candidate = candidate.find_parent(['div', 'p', 'li'])
+    if candidate is None:
+        candidate = anchor_tag  # fallback to the anchor itself if no parent is suitable
+    parent_copy = BeautifulSoup(str(candidate), 'html.parser')
+    for other in parent_copy.find_all('a', href=True):
+        if other.get('href') != anchor_tag.get('href'):
+            other.decompose()
+    return str(parent_copy)
+
+# -------------------------
+# Classification Logic
+# -------------------------
+def _classify_snippet(html_snippet: str, forced_type: str = None) -> List[str]:
+    """
+    Classifies the given HTML snippet by:
+      - Extracting text (including URLs)
+      - Matching dictionary-based regex patterns
+      - Using a similarity-based approach via spaCy
+      - Returning the union of matches (and including forced_type if provided)
+    """
     snippet_short = (html_snippet[:300] + '...') if len(html_snippet) > 300 else html_snippet
-    logger.debug("\n----------------------------------------------------")
-    logger.debug(f"Raw HTML Snippet (truncated):\n{snippet_short}")
-    logger.debug("----------------------------------------------------")
-
+    logger.debug("Classifying snippet:")
+    logger.debug(f"Snippet (truncated):\n{snippet_short}")
+    
     text = _extract_full_text_including_urls(html_snippet)
     logger.debug(f"Extracted Text:\n{text}\n")
-
+    
     text_lower = text.lower()
-
-    # -- 1) Dictionary approach
+    
     dict_matches = set()
     for pattern, ct_list in CONTENT_PATTERNS.items():
-        # We do re.IGNORECASE so we can handle different cases if we choose not to force .lower() on the pattern
         if re.search(pattern, text_lower, re.IGNORECASE):
-            for ctype in ct_list:
-                dict_matches.add(ctype)
-
+            dict_matches.update(ct_list)
     logger.debug(f"[DICT] Found dictionary-based content types: {dict_matches}")
-
-    # -- 2) Similarity approach
+    
     sim_matches = set()
     doc = nlp(text_lower)
     for token in doc:
@@ -230,28 +188,135 @@ def get_content_type_from_element(
         label, sim = _best_content_type_for_token(token.vector)
         if sim >= SIMILARITY_THRESHOLD:
             sim_matches.add(label)
-
     logger.debug(f"[SIM] Found similarity-based content types: {sim_matches}")
-
-    # -- 3) Union
+    
     all_ctypes = dict_matches.union(sim_matches)
-    if forced_type:  # i.e., if forced_type is not None or empty
+    if forced_type:
         all_ctypes.add(forced_type)
-
     logger.debug(f"[UNION] Final content types = {all_ctypes}")
     return list(all_ctypes)
 
-# ########################
-# ##  DEMO / EXAMPLE    ##
-# ########################
+def get_content_types_for_each_href(html_snippet: str, forced_type: str = None) -> List[List[str]]:
+    """
+    For every <a> tag in the HTML snippet, extract its localized context (using _extract_anchor_context)
+    and classify that snippet with _classify_snippet.
+    Returns a list of content type lists, one for each anchor.
+    """
+    soup = BeautifulSoup(html_snippet, 'html.parser')
+    anchors = soup.find_all('a', href=True)
+    
+    if not anchors:
+        return [_classify_snippet(html_snippet, forced_type)]
+    
+    results = []
+    for anchor in anchors:
+        context_html = _extract_anchor_context(anchor)
+        classification = _classify_snippet(context_html, forced_type)
+        results.append(classification)
+    return results
+
+# -------------------------
+# Main Calling Function
+# -------------------------
+def get_content_type_from_element(html_snippet: str, forced_type: str = None) -> Union[List[str], List[List[str]]]:
+    """
+    Main function to classify content types from an HTML snippet.
+    
+    - If the snippet contains one or more <a> tags, it returns a list of classification lists (one per link).
+    - Otherwise, it returns a single list of content types for the entire snippet.
+    """
+    soup = BeautifulSoup(html_snippet, 'html.parser')
+    anchors = soup.find_all('a', href=True)
+    if anchors:
+        return get_content_types_for_each_href(html_snippet, forced_type)
+    else:
+        return _classify_snippet(html_snippet, forced_type)
+
+# -------------------------
+# Test Sample
+# -------------------------
 # if __name__ == "__main__":
-#     # print(get_content_type_from_element("PVH Corp. Reports 2020 Third Quarter Results and Provides Update Relating to the Impact of the Pandemic"))
-#     # Test with your input example
-#     input_text = [
-#         "\n    <article data-url=\"/content/dsm-firmenich/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html\" class=\" non-cta\">\n        \n        \n        \n        <div class=\"content\">\n            <span class=\"cmp-list__item-arrow\">\n                <em class=\"icon-arrow-narrow-right\"></em>\n            </span>\n            \n            \n            \n                <h4 class=\"cmp-list__item-title no-desc\">\n                    \n                    \n                        <a title=\"Annual General Meeting of Shareholders 2023 | DSM\" href=\"/en/investors/historical-information/corporate-governance/agm/annual-general-meeting-2023.html\">Annual General Meeting of Shareholders 2023 | DSM</a>\n                    \n                </h4>\n            \n            \n            \n        </div>\n    </article>\n\n"
-#     ]
-#     for x in input_text:
-#         print(x)
-#         ctypes = get_content_type_from_element(x, "news")
-#         print("Content Types Detected:", ctypes)
-#         print("\n")
+#     sample_html = """
+#     <div class="t-table">
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <div class="img-wrap">
+#             <img title="Corporate Report 2024" alt="Corporate Report 2024" src="/fileadmin/symrise/images/investors/reports/2025/250327_FY24_Thumb_131x185.jpg" width="131" height="185">
+#           </div>
+#           <p class="news-date">March 27, 2025</p>
+#           <h4>Financial Year 2024</h4>
+#         </div>
+#         <div class="t-cell">
+#           <p><b>Downloads</b></p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Press Release Corporate Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/press_release.pdf" target="_blank" class="i-download">
+#               pdf (218 KB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Financial Statements 2024 (HGB - in German)</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/financial_statements.pdf" target="_blank" class="i-download">
+#               pdf (3 MB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Corporate Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/corporate_report.pdf" target="_blank" class="i-download">
+#               pdf (14 MB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Remuneration Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/remuneration_report.pdf" target="_blank" class="i-download">
+#               pdf (353 KB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Corporate Report 2024 (extended online version)</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="https://symrise.com/corporatereport/2024/index.html" target="_blank" class="i-doc" rel="noreferrer">
+#               HTML
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#     </div>
+#     """
+#     # Call the main function with a forced type of "news"
+#     output = get_content_type_from_element(sample_html, forced_type="news")
+#     print("Output:")
+#     if isinstance(output, list) and output and isinstance(output[0], list):
+#         for idx, classification in enumerate(output, start=1):
+#             print(f"Link {idx}: {classification}")
+#     else:
+#         print(output)
