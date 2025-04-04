@@ -150,7 +150,7 @@ class Scraper:
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
 
-                browser.close()
+                # await browser.close()
 
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:

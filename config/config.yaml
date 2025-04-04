@@ -441,7 +441,7 @@ IFF_presentations:    # COMPLETED
     archive: null
     timeout: null
 
-IFF_press:      # pagination not being handled correctly
+IFF_press:      # COMPLETED
   ticker: IFF
   scraper: null
   link_archive: 'links/IFF.txt'
@@ -455,10 +455,10 @@ IFF_press:      # pagination not being handled correctly
   headless: false
   direct: true
   selectors:
-    event_block: article.nir-widget--list.article
+    event_block: article.clearfix.node.node--nir-news--nir-widget-list.node--type-nir-news.node--view-mode-nir-widget-list.node--promoted
   pagination:
     type: next_page_url
-    next_button: ul.pager__items.js-pager__items li.pager__item.pager__item--next a
+    next_button: li.pager__item.pager__item--next a
     archive: .archive-toggler
     timeout: 5
 

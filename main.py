@@ -36,4 +36,4 @@ if __name__ == "__main__":
     if missing_files:
         print(f"❌ Missing config files: {', '.join(missing_files)}")
         sys.exit(1)
-    asyncio.run(main(config_files, page, test_run=False, subset=False))
+    asyncio.run(main(config_files, page, test_run, subset))

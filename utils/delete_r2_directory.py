@@ -43,9 +43,5 @@ if __name__ == "__main__":
     # Define the bucket name and directory prefix
     bucket_name = 'equity-data'
     # bucket_name = "fin-scraping-bucket"
-<<<<<<< Updated upstream
-    directory_prefix = "SAN/"  # Make sure this ends with a slash to specify it as a directory
-=======
-    directory_prefix = "CORZ/"  # Make sure this ends with a slash to specify it as a directory
->>>>>>> Stashed changes
+    directory_prefix = "BAS/"  # Make sure this ends with a slash to specify it as a directory
     empty_r2_directory(bucket_name, directory_prefix)
