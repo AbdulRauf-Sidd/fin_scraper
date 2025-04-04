@@ -299,9 +299,9 @@ CBP_financial:
 
 
 #DSFIR
-DSFIR_news:       #COMPLETED
+DSFIR_news:
   ticker: DSFIR
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/agm.html
   output: data/DSFIR_news.json
   output_json: JSONS/DSFIR_news.json
   base_address: https://investors.dsm-firmenich.com/
@@ -340,9 +340,7 @@ DSFIR_news:       #COMPLETED
 #     type: year_tabs
 #     next_button: "li.cmp-tabs__tab"
 #     archive: null
-#     timeout: null
-
-    
+#     timeout: null    
 
 GIVN_news:        
   ticker: GIVN
@@ -708,34 +706,14 @@ SY1_financial:
     archive: .archive-toggler
     timeout: 5
 
-
-WDAY_events:
-  ticker: WDAY
-  scraper: null
-  url: https://investor.workday.com/events#past:2025:3
-  output: data/WDAY_events.json
-  output_json: JSONS/WDAY_events.json
-  base_address: https://investor.workday.com/
-  periodic: null
-  geography: "US"
-  forced_type: null
-  headless: false
-  direct: false
-  selectors:
-    event_block: div.wd_events_month
-  pagination:
-    type: load_more
-    next_button: button.wd_events_more
-    archive: null
-    timeout: null
-    # ---------------------
-
 WDAY_press:
   ticker: WDAY
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
   output_json: JSONS/WDAY_press.json
+  link_archive: 'links/WDAY.txt'
   base_address: https://investor.workday.com/
+  link_archive: 'links/WDAY.txt'
   periodic: false
   geography: "US"
   forced_type: "press"
@@ -745,8 +723,9 @@ WDAY_press:
     event_block: .wd_item
   pagination:
     type: button
-    next_button: li.wd_page_link.wd_page_next a
-
+    archive: null
+    next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
+    timeout: null
 
 WMT_quarterly:  
   ticker: WMT
