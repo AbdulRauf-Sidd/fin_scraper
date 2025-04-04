@@ -11,8 +11,7 @@ from typing import List, Union
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
-# For testing purposes, load a spaCy model.
-# (In your project, you might import nlp from your spacy_model module)
+# Load a spaCy model; adjust as needed for your environment.
 nlp = spacy.load("en_core_web_sm")
 
 # -------------------------
@@ -139,19 +138,21 @@ def _extract_full_text_including_urls(html_snippet: str) -> str:
 def _extract_anchor_context(anchor_tag) -> str:
     """
     Isolates the local context for a given <a> tag.
-    It finds the nearest block-level parent (div, p, li) and removes any other links.
+    It first finds the nearest block-level parent (div, p, li) with a minimal amount
+    of text (at least 20 characters). If the immediate parent is too short, it climbs up.
+    Then it removes any other links in that parent.
     """
-    parent = anchor_tag.find_parent(['div', 'p', 'li'])
-    if parent:
-        parent_copy = BeautifulSoup(str(parent), 'html.parser')
-        # Remove any <a> tags that are not the current one
-        for other in parent_copy.find_all('a', href=True):
-            if other.get('href') != anchor_tag.get('href'):
-                other.decompose()
-        return str(parent_copy)
-    else:
-        # Fallback: return the anchor's HTML if no parent is found
-        return str(anchor_tag)
+    candidate = anchor_tag.find_parent(['div', 'p', 'li'])
+    # Climb up until we get a candidate with sufficient text length.
+    while candidate and len(candidate.get_text(strip=True)) < 20:
+        candidate = candidate.find_parent(['div', 'p', 'li'])
+    if candidate is None:
+        candidate = anchor_tag  # fallback to the anchor itself if no parent is suitable
+    parent_copy = BeautifulSoup(str(candidate), 'html.parser')
+    for other in parent_copy.find_all('a', href=True):
+        if other.get('href') != anchor_tag.get('href'):
+            other.decompose()
+    return str(parent_copy)
 
 # -------------------------
 # Classification Logic
@@ -234,89 +235,88 @@ def get_content_type_from_element(html_snippet: str, forced_type: str = None) ->
 # -------------------------
 # Test Sample
 # -------------------------
-if __name__ == "__main__":
-    sample_html = """
-    <div class="t-table">
-      <div class="t-row">
-        <div class="t-cell">
-          <div class="img-wrap">
-            <img title="Corporate Report 2024" alt="Corporate Report 2024" src="/fileadmin/symrise/images/investors/reports/2025/250327_FY24_Thumb_131x185.jpg" width="131" height="185">
-          </div>
-          <p class="news-date">March 27, 2025</p>
-          <h4>Financial Year 2024</h4>
-        </div>
-        <div class="t-cell">
-          <p><b>Downloads</b></p>
-        </div>
-      </div>
-      <div class="t-row">
-        <div class="t-cell">
-          <p>Press Release Corporate Report 2024</p>
-        </div>
-        <div class="t-cell">
-          <p>
-            <a href="/securedl/path/to/press_release.pdf" target="_blank" class="i-download">
-              pdf (218 KB)
-            </a>
-          </p>
-        </div>
-      </div>
-      <div class="t-row">
-        <div class="t-cell">
-          <p>Financial Statements 2024 (HGB - in German)</p>
-        </div>
-        <div class="t-cell">
-          <p>
-            <a href="/securedl/path/to/financial_statements.pdf" target="_blank" class="i-download">
-              pdf (3 MB)
-            </a>
-          </p>
-        </div>
-      </div>
-      <div class="t-row">
-        <div class="t-cell">
-          <p>Corporate Report 2024</p>
-        </div>
-        <div class="t-cell">
-          <p>
-            <a href="/securedl/path/to/corporate_report.pdf" target="_blank" class="i-download">
-              pdf (14 MB)
-            </a>
-          </p>
-        </div>
-      </div>
-      <div class="t-row">
-        <div class="t-cell">
-          <p>Remuneration Report 2024</p>
-        </div>
-        <div class="t-cell">
-          <p>
-            <a href="/securedl/path/to/remuneration_report.pdf" target="_blank" class="i-download">
-              pdf (353 KB)
-            </a>
-          </p>
-        </div>
-      </div>
-      <div class="t-row">
-        <div class="t-cell">
-          <p>Corporate Report 2024 (extended online version)</p>
-        </div>
-        <div class="t-cell">
-          <p>
-            <a href="https://symrise.com/corporatereport/2024/index.html" target="_blank" class="i-doc" rel="noreferrer">
-              HTML
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-    """
-    # Call the main function with a forced type of "news"
-    output = get_content_type_from_element(sample_html, forced_type="news")
-    print("Output:")
-    # If the result is a list of lists (for anchors), print each list.
-    if isinstance(output[0], list):
-        for idx, classification in enumerate(output, start=1):
-            print(f"Link {idx}: {classification}")
-    else:
-        print(output)
+# if __name__ == "__main__":
+#     sample_html = """
+#     <div class="t-table">
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <div class="img-wrap">
+#             <img title="Corporate Report 2024" alt="Corporate Report 2024" src="/fileadmin/symrise/images/investors/reports/2025/250327_FY24_Thumb_131x185.jpg" width="131" height="185">
+#           </div>
+#           <p class="news-date">March 27, 2025</p>
+#           <h4>Financial Year 2024</h4>
+#         </div>
+#         <div class="t-cell">
+#           <p><b>Downloads</b></p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Press Release Corporate Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/press_release.pdf" target="_blank" class="i-download">
+#               pdf (218 KB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Financial Statements 2024 (HGB - in German)</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/financial_statements.pdf" target="_blank" class="i-download">
+#               pdf (3 MB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Corporate Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/corporate_report.pdf" target="_blank" class="i-download">
+#               pdf (14 MB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Remuneration Report 2024</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="/securedl/path/to/remuneration_report.pdf" target="_blank" class="i-download">
+#               pdf (353 KB)
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#       <div class="t-row">
+#         <div class="t-cell">
+#           <p>Corporate Report 2024 (extended online version)</p>
+#         </div>
+#         <div class="t-cell">
+#           <p>
+#             <a href="https://symrise.com/corporatereport/2024/index.html" target="_blank" class="i-doc" rel="noreferrer">
+#               HTML
+#             </a>
+#           </p>
+#         </div>
+#       </div>
+#     </div>
+#     """
+#     # Call the main function with a forced type of "news"
+#     output = get_content_type_from_element(sample_html, forced_type="news")
+#     print("Output:")
+#     if isinstance(output, list) and output and isinstance(output[0], list):
+#         for idx, classification in enumerate(output, start=1):
+#             print(f"Link {idx}: {classification}")
+#     else:
+#         print(output)
