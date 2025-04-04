@@ -1339,6 +1339,7 @@ CPRI_acquisitions:
     archive: null
     timeout: null
 
+#HEIO
 HEIO_media-releases:
   ticker: HEIO
   scraper: null
@@ -1349,13 +1350,14 @@ HEIO_media-releases:
   periodic: false
   geography: "European"
   forced_type: "media-releases"
+  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
-    event_block:
+    event_block: div.single-media-release.mb-100
   pagination:
-    type: null
-    next_button: null
+    # type: button
+    # next_button: div.tab-list.tab-list--underlined.tab-list--stretched.border-color-primary-1 a
     archive: null
     timeout: null
 
@@ -1369,6 +1371,7 @@ HEIO_reports:
   periodic: false
   geography: "European"
   forced_type: "reports"
+  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
@@ -1403,7 +1406,7 @@ RKT_presentations:  #working
 RKT_investor_seminars:  #working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
+  url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D=&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
   output: data/RKT_investor_seminars.json
   output_json: JSONS/RKT_investor_seminars.json
   base_address: https://www.reckitt.com/
@@ -1445,7 +1448,7 @@ RKT_news:             #Iframe, And other big problems
 RKT_agm:
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/annual-general-meetings/
+  url: https://www.reckitt.com/investors/annual-general-meetings/?page=2&configure%5BhitsPerPage%5D=8&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22AGM%22%29
   output: data/RKT_agm.json
   output_json: JSONS/RKT_agm.json
   base_address: https://www.reckitt.com/
@@ -1458,8 +1461,8 @@ RKT_agm:
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
-    type: load_more
-    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
+    # type: load_more
+    # next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
 
@@ -1627,14 +1630,14 @@ NOVO-B_reporting:   # testing done ( working )
   headless: false
   direct: true 
   selectors:
-    event_block: div.text p
+    event_block: div.text p a
   pagination:
     type: null
     next_button:  null
     archive: null
     timeout: null
 
-NOVO-B_news:        # testing done ( working )
+NOVO-B_news:        # testing done ( working ) handle manually
   ticker: NOVO-B
   scraper: null
   url: https://www.novonordisk.com/news-and-media/news-and-ir-materials.html
@@ -1839,7 +1842,7 @@ RACE_news:
   headless: false
   direct: false
   selectors:
-    event_block: div.NewsPage__grid-row__2hkTTLLU
+    event_block: div.NewsPage__grid-row__2hkTTLLU a
   pagination:
     type: null
     next_button:  null
@@ -1868,7 +1871,11 @@ BAS_publications:
     archive: null
     timeout: null
 
+<<<<<<< Updated upstream
 BAS_news:   
+=======
+BAS_news:                         
+>>>>>>> Stashed changes
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1884,7 +1891,11 @@ BAS_news:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
+<<<<<<< Updated upstream
     next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
+=======
+    next_button:  div.wxp-result-list-footer-button.mt-5 button
+>>>>>>> Stashed changes
     archive: null
     timeout: null
 
