@@ -272,28 +272,6 @@ CBP_newsroom:
     archive: null
     timeout: null
 
-#checkkkkk
-CBP_financial:       
-  ticker: CBP
-  url: https://investor.thecampbellscompany.com/financials/quarterly-results
-  output: data/CBP_financial.json
-  output_json: JSONS/CBP_financial.json
-  base_address: https://investor.thecampbellscompany.com/
-  periodic: true
-  headless: false
-  geography: "US"
-  forced_type: "financial"
-  direct: false
-  selectors:
-    event_block: div.llf-col-12.llf-col-md-6.llf-col-lg-3.llf-pb-5.llf-pb-lg-0.ndm-quarter
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: null
-
-
-
 #DSFIR
 DSFIR_news:
   ticker: DSFIR
