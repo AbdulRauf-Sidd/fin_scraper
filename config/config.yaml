@@ -621,14 +621,11 @@ RL_presentations:
     archive: .archive-toggler
     timeout: 5
 
-
-
-SY1_finance:     #COMPLETED
+SY1_finance:
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-results/
   output: data/SY1_finance.json
-  link_archive: 'links/SY1.txt'
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
   periodic: null
@@ -636,15 +633,16 @@ SY1_finance:     #COMPLETED
   forced_type: 'financial-filing'
   direct: true
   headless: false
+  link_archive: 'links/SY1.txt'
   selectors:
     event_block: div.t-table
   pagination:
     type: year_tabs
     next_button: .tab-titles:not(.panel-inverted) a
-    archive: dhsjdhsjdh
+    archive: 'a[href="#Archive"]'
     timeout: 5
 
-SY1_events:     # COMPLETED
+SY1_events:
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
@@ -665,7 +663,7 @@ SY1_events:     # COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-SY1_news:         # COMPLETE
+SY1_news:         
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
@@ -707,7 +705,7 @@ SY1_financial:
     timeout: 5
 
 
-WDAY_events:    # COMPLETE
+WDAY_events:
   ticker: WDAY
   scraper: null
   url: https://investor.workday.com/events#past:2025:3
@@ -728,7 +726,7 @@ WDAY_events:    # COMPLETE
     timeout: null
     # ---------------------
 
-WDAY_press: #COMPLETED
+WDAY_press:
   ticker: WDAY
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
@@ -746,7 +744,7 @@ WDAY_press: #COMPLETED
     next_button: li.wd_page_link.wd_page_next a
 
 
-WMT_quarterly:  #COMPLETED
+WMT_quarterly:  
   ticker: WMT
   scraper: null
   link_archive: 'links/WMT.txt'
