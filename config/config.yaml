@@ -641,13 +641,12 @@ SY1_finance:
   forced_type: 'financial-filing'
   direct: true
   headless: false
-  link_archive: 'links/SY1.txt'
   selectors:
     event_block: div.t-table
   pagination:
     type: year_tabs
     next_button: .tab-titles:not(.panel-inverted) a
-    archive: 'a[href="#Archive"]'
+    archive: dhsjdhsjdh
     timeout: 5
 
 SY1_events:
@@ -1848,11 +1847,7 @@ BAS_publications:
     archive: null
     timeout: null
 
-<<<<<<< Updated upstream
-BAS_news:   
-=======
 BAS_news:                         
->>>>>>> Stashed changes
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1868,11 +1863,7 @@ BAS_news:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-<<<<<<< Updated upstream
-    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
-=======
     next_button:  div.wxp-result-list-footer-button.mt-5 button
->>>>>>> Stashed changes
     archive: null
     timeout: null
 
