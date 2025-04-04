@@ -19,6 +19,8 @@ class Scraper:
         self.config = config[page]
         self.test_run = test_run
 
+
+
         self.start_page = 1
         self.end_page = 1
         self.pagination_url = None
@@ -28,8 +30,7 @@ class Scraper:
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
-        if subset == 'True':
-            print('hi')
+        if subset == 'true':
             self.pagination['type'] = None
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
