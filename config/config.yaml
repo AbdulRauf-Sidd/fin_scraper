@@ -84,7 +84,7 @@ PVH_resources:
     archive: null
     timeout: null
 
-CORZ_financial-information:   # COMPLETED
+CORZ_financial_information:   # COMPLETED
   ticker: CORZ
   scraper: null
   link_archive: 'links/CORZ.txt'
@@ -171,7 +171,7 @@ CRDA_presentations:
   ticker: CRDA
   scraper: null
   link_archive: 'links/CRDA.txt'
-  url: https://www.croda.com/endisableddisabled-gb/investors/results-presentations-and-reports
+  url: https://www.croda.com/en-gb/investors/results-presentations-and-reports
   output: data/CRDA_presentations.json
   output_json: JSONS/CRDA_presentations.json
   base_address: https://www.croda.com/en-gb/
@@ -188,8 +188,7 @@ CRDA_presentations:
     archive: null
     timeout: null
 
-
-#checkkkkk   
+  
 CRDA_news:     #COMPLETED
   ticker: CRDA
   link_archive: 'links/CRDA.txt'
