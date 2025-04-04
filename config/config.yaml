@@ -704,13 +704,13 @@ WDAY_press:
     next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
     timeout: null
 
-WMT_quarterly:  
+WMT_financial-results:  
   ticker: WMT
   scraper: null
   link_archive: 'links/WMT.txt'
-  url: https://stock.walmart.com/financial-information/vizio-historical-financials
-  output: data/WMT_quarterly.json
-  output_json: JSONS/WMT_quarterly.json
+  url: https://stock.walmart.com/financial-information/financial-results
+  output: data/WMT_financial-results.json
+  output_json: JSONS/WMT_financial-results.json
   base_address: https://stock.walmart.com/
   periodic: true
   geography: "US"
@@ -718,10 +718,52 @@ WMT_quarterly:
   headless: false
   direct: true
   selectors:
-    event_block: div.box.quarterly-results
+    event_block: div.box.quarterly-results div.toggle-wrapper.collapse div.text div.text
+  pagination:
+    type: null
+    next_button: null
+    archive: .archive-toggler
+    timeout: 5
+
+WMT_news:
+  ticker: WMT
+  scraper: null
+  link_archive: 'links/WMT.txt'
+  url: https://corporate.walmart.com/content/corporate/en_us/news.html
+  output: data/WMT_news.json
+  output_json: JSONS/WMT_news.json
+  base_address: https://corporate.walmart.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.in-page__card.search-result-tag div.in-page__content-wrapper
   pagination:
     type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    next_button: div.search-page-arrow.search-page-higher.js-load-more.active
+    archive: .archive-toggler
+    timeout: 5
+
+WMT_events:
+  ticker: WMT
+  scraper: null
+  link_archive: 'links/WMT.txt'
+  url: https://corporate.walmart.com/news/events
+  output: data/WMT_events.json
+  output_json: JSONS/WMT_events.json
+  base_address: https://corporate.walmart.com/
+  periodic: false
+  geography: "US"
+  forced_type: "events"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.ListEvents-items-item div
+  pagination:
+    type: load_more
+    next_button: div.ListEvents-pagination:visible button#ListEvents-loadmore
     archive: .archive-toggler
     timeout: 5
 
