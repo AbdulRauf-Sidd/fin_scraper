@@ -225,7 +225,7 @@ CBP_events:         # Pagination not being handled correctly
   headless: false
   direct: true
   selectors:
-    event_block: article.node--nir-event--nir-widget-list
+    event_block: article.clearfix.node.node--nir-event--nir-widget-list.node--type-nir-event.node--view-mode-nir-widget-list.nir-widget-article.llf-border
   pagination:
     type: next_page_url
     next_button: .pager__item.pager__item--next a
@@ -273,30 +273,6 @@ CBP_newsroom:
     next_button: .load-more-container button
     archive: null
     timeout: null
-
-#checkkkkk
-CBP_financial:       
-  ticker: CBP
-  link_archive: 'links/CBP.txt'
-  url: https://investor.thecampbellscompany.com/financials/quarterly-results
-  output: data/CBP_financial.json
-  output_json: JSONS/CBP_financial.json
-  base_address: https://investor.thecampbellscompany.com/
-  periodic: true
-  periodic: true
-  headless: false
-  geography: "US"
-  forced_type: "financial"
-  direct: false
-  selectors:
-    event_block: div.llf-col-12.llf-col-md-6.llf-col-lg-3.llf-pb-5.llf-pb-lg-0.ndm-quarter
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: null
-
-
 
 #DSFIR
 DSFIR_news:       #COMPLETED
