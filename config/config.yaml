@@ -1372,7 +1372,7 @@ HEIO_reports:
 RKT_presentations:  #working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=12&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
+  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D=&page=6&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
   output: data/RKT_presentations.json
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
