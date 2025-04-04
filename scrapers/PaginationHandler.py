@@ -177,29 +177,43 @@ class PaginationHandler:
         return False
     
     async def handle_dropdown_pagination(self, page, dropdown_selector):
-        # Wait for dropdown to appear
+        # Wait for dropdown to appear and click to open it
         await page.wait_for_selector(dropdown_selector)
+        await page.click(dropdown_selector)
     
-        # Get all option values
+        # Debug: Take a screenshot to verify the dropdown is visible
+        await page.screenshot(path="dropdown_debug.png")
+    
+        # Wait for dropdown options to appear (adjust the selector if needed)
+        await page.wait_for_selector(f"{dropdown_selector} div[role='option']", timeout=5000)
+
+        # Get all option values (adjust the selector if necessary based on actual HTML structure)
         option_values = await page.eval_on_selector_all(
-            f"{dropdown_selector} option",
-            "options => options.map(option => option.value)"
+            f"{dropdown_selector} div[role='option']",
+            "options => options.map(option => option.textContent.trim())"
         )
-    
+
         print(f"🔽 Found {len(option_values)} dropdown options")
+    
+        if len(option_values) == 0:
+            print("No options found. Check the dropdown and selectors.")
+            return []
     
         all_events = []
     
         for idx, value in enumerate(option_values):
             print(f"\n➡️ Selecting option {idx+1}/{len(option_values)}: {value}")
-            await page.select_option(dropdown_selector, value)
+        
+            # Select the option by clicking it
+            option_selector = f"{dropdown_selector} div[role='option']:nth-child({idx + 1})"
+            await page.click(option_selector)
             await asyncio.sleep(3)  # Let page update after selection
-    
+
             # Scroll if needed (optional)
             await self.scroll_page(page)
-    
+
             events = await self.extract_data_from_page(page)
             print(f"✅ Scraped {len(events)} events from option '{value}'")
             all_events.extend(events)
-    
+
         return all_events
