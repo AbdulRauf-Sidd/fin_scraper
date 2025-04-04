@@ -546,7 +546,7 @@ KO_press:     #
   selectors:
     event_block: article.media
   pagination:
-    type: button
+    type: next_page_url
     next_button: div.pagination-wrapper div.control.next a
     archive: null
     timeout: null
