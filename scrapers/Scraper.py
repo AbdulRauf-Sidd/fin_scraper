@@ -19,14 +19,17 @@ class Scraper:
         self.config = config[page]
         self.test_run = test_run
 
-
+        self.start_page = 1
+        self.end_page = 1
+        self.pagination_url = None
         self.base_url = self.config['url']
         self.base_address = self.config['base_address']
         self.output_file = self.config['output']
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
-        if subset:
+        if subset == 'False':
+            print('hi')
             self.pagination['type'] = None
         self.ticker = self.config['ticker']
         self.geography = self.config['geography']
@@ -42,6 +45,11 @@ class Scraper:
         self.headless = self.config['headless']
         self.forced_type = self.config['forced_type']
         self.direct = self.config['direct']
+        # if self.pagination['type'] == 'pagination_by_url':
+        #     self.pagination_url = self.pagination['pagination_url']
+        #     self.start_page = self.pagination['start_page']
+        #     self.end_page = self.pagination['end_page']
+
 
     async def _extract_inner_html(self, page, selector):
         print(f"🔍 Extracting blocks using selector: '{selector}'")
@@ -145,15 +153,19 @@ class Scraper:
                             print("✅ No more pages.")
                             break
                         page_num += 1
+                elif pag_type == "pagination_by_url":
+                    for i in range(self.start_page, self.end_page + 1):
+                        print(f"\n📄 Scraping page {i}")
+                        url = self.base_url + self.pagination_url.replace('REPLACE', f"{i}")
+                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        events = await self.extract_data_from_page(page)
+                        all_events.extend(events)
+                        print(f"✅ Scraped {len(events)} items from page {i}")
                 else:
                     print("\n📄 Scraping single page")
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
