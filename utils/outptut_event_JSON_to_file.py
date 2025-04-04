@@ -41,9 +41,6 @@ logger.addHandler(console_handler)  # Comment this line to disable console loggi
 # Prevent logging from propagating to parent loggers
 logger.propagate = False
 
-# Hypothetical imports of your extraction functions (adjust as needed)
-# from my_extraction_module import get_event_name_from_element, get_date_from_element, get_content_type_from_element
-
 async def construct_event_json(
     context,
     page,
@@ -97,8 +94,19 @@ async def construct_event_json(
     published_date = get_date_from_element(html_element)
     logger.debug(f"Extracted published_date={published_date}")
 
-    content_type = get_content_type_from_element(html_element, forced_type)
-    logger.debug(f"Extracted content_type={content_type}")
+    # NEW: Extract content types on a per-link basis
+    # First, extract the original links in the event block
+    original_links = get_urls_from_element(html_element, base_url)
+    logger.debug(f"Original links extracted: {original_links}")
+
+    # Use the new function to get a list of content type lists (one per <a> tag)
+    content_types_lists = get_content_type_from_element(html_element, forced_type)
+    logger.debug(f"Extracted per-link content types: {content_types_lists}")
+
+    # Build a mapping from each original link to its corresponding content type list.
+    # (This assumes that the ordering of original_links and content_types_lists match.)
+    classification_mapping = {link: ct_list for link, ct_list in zip(original_links, content_types_lists)}
+    logger.debug(f"Classification mapping: {classification_mapping}")
 
     if (periodicity is None):
         print('hello world123')
@@ -133,21 +141,28 @@ async def construct_event_json(
     all_links = []
 
     file_url = get_urls_from_element(html_element, base_url)
-    all_links.extend(file_url)
+
+    # Build initial all_links as a list of tuples: (link, classification)
+    # Using the mapping we built, every link is paired with its content type list.
+    all_links = [(link, classification_mapping.get(link, [])) for link in original_links]
     
     # Create session and playwright objects
     session = create_session(base_url=base_url)
     # playwright, browser, context, page = await setup_browser(headless=headless)
 
     if not direct:
-        for url in file_url:
+        # Iterate over a copy of the current all_links list since we'll modify it in the loop.
+        for url, parent_classification in list(all_links):
             if not await check_file_link(url=url):
                 links, found = await extract_links_from_url(page=page, url=url)
-                # if found is None:    
                 if found:
+                    # If the extra links are very few, assume the parent link is not valid and remove it.
                     if len(links) < 2:
-                        all_links.remove(url)
-                    all_links.extend(links)
+                        all_links.remove((url, parent_classification))
+                    # For each extra link, assign the same classification as the original (parent) link.
+                    for extra_link in links:
+                        all_links.append((extra_link, parent_classification))
+
 
     # await page.close()
 
@@ -157,47 +172,54 @@ async def construct_event_json(
 
     record_type = None
 
-    for url in all_links: 
+    # Iterate over each link along with its corresponding classification.
+    for url, classification in all_links:
+        # Check if the URL is already processed.
         if url in existing_links:
             logger.debug(f"Link already exists, skipping: {url}")
             continue
-        # Let’s define file_name = "Moiz" so that it's never None
+
+        # --- Download or capture the file ---
+        # Depending on the 'direct' flag and check_file_link result, choose a method.
         if not direct:
             if not await check_file_link(url=url):
-                print('1', url)
+                # Capture a full page screenshot if the URL is considered "bad"
                 file_path, file_name, file_type, record_type = await capture_full_page_screenshot(context=context, page=page, url=url)
             else:
-                print('2', url)
+                # Otherwise, download the file normally.
                 file_path, file_name, file_type, record_type = await download_file(context=context, url=url, session=session)
         else:
-            print('3', url)
+            # If direct is True, always download the file.
             file_path, file_name, file_type, record_type = await download_file(context=context, url=url, session=session)
 
+        # Append the URL to the link archive and update the set of existing links.
         with open(link_archive, "a") as file:
             file.write(f"{url}\n")
         existing_links.add(url)
-        
-        
-        # If file_name is None => skip. But we just forced it to "Moiz."
-        if file_name not in (None, "Null", "null", "None" , "none" ):
-            # Build the data object
+
+        # --- Build the data object only if file_name is valid ---
+        if file_name not in (None, "Null", "null", "None", "none"):
+            # Construct the R2 storage path and upload the file.
             r2_path = f"{equity_ticker}/{published_date}/{file_name}/"
             r2_url = upload_file_to_r2(file_path, r2_path, test_run)
+            # Optionally, append the URL to the file (if needed for logging/debugging)
             with open(file_path, "a") as file:
                 file.write(f"{url}\n")
+            # Create the data dictionary, using the per-link classification in place of the old 'content_type'
             single_data = {
                 "file_name": file_name,
                 "file_type": file_type,
-                "published_date": published_date if published_date else "",  # or "Null"
+                "published_date": published_date if published_date else "",
                 "source_url": url,
                 "r2_url": r2_url,
-                "content_type": content_type if content_type else [],
+                "content_type": classification if classification else [],
                 "record_type": record_type
             }
             data_objects.append(single_data)
             logger.debug(f"Constructed data object: {single_data}")
         else:
             logger.debug("file_name is None -> skip adding data object")
+
 
     # If after this logic we have no data objects, skip returning JSON
     if len(data_objects) == 0:
