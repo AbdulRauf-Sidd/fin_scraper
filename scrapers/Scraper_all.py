@@ -101,7 +101,7 @@ class Scraper:
             await page.goto(url, wait_until="domcontentloaded", timeout=30000)
             await accept_cookies(page)
             await enable_stealth(page)
-            await page.wait_for_selector(self.selector, timeout=10000)
+            await page.wait_for_selector(self.selector, timeout=100000)
             await self.scroll_page(page)  # Scroll after loading
 
         except Exception as e:
