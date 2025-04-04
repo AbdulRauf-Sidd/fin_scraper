@@ -28,7 +28,7 @@ class Scraper:
         self.output_json = self.config['output_json']
         self.selector = self.config['selectors']['event_block']
         self.pagination = self.config.get('pagination', {})
-        if subset == 'False':
+        if subset == 'True':
             print('hi')
             self.pagination['type'] = None
         self.ticker = self.config['ticker']
@@ -166,10 +166,6 @@ class Scraper:
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
