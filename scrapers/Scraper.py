@@ -166,6 +166,10 @@ class Scraper:
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
                 if all_events:
                     with open(self.output_file, "w", encoding="utf-8") as f:
                         json.dump(all_events, f, indent=4)
