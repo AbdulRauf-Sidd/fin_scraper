@@ -631,6 +631,7 @@ SY1_finance:
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
   periodic: null
+  link_archive: 'links/SY1.txt'
   geography: "european"
   forced_type: 'financial-filing'
   direct: true
@@ -659,8 +660,8 @@ SY1_events:
   selectors:
     event_block: div.t-row
   pagination:
-    type: null
-    next_button: null
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
     archive: .archive-toggler
     timeout: 5
 
@@ -700,8 +701,8 @@ SY1_financial:
   selectors:
     event_block: div.t-table
   pagination:
-    type: null
-    next_button: null
+    type: year_tabs
+    next_button: .tab-titles:not(.panel-inverted) a
     archive: .archive-toggler
     timeout: 5
 
