@@ -627,6 +627,7 @@ SY1_finance:     #COMPLETED
   scraper: null
   url: https://www.symrise.com/investors/financial-results/
   output: data/SY1_finance.json
+  link_archive: 'links/SY1.txt'
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
   periodic: null
