@@ -647,6 +647,7 @@ SY1_events:     # COMPLETED
   scraper: null
   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
   output: data/SY1_events.json
+  link_archive: 'links/SY1.txt'
   output_json: JSONS/SY1_events.json
   base_address: https://www.symrise.com/
   periodic: null
@@ -668,6 +669,7 @@ SY1_news:         # COMPLETE
   output: data/SY1_news.json
   output_json: JSONS/SY1_news.json
   base_address: https://www.symrise.com/
+  link_archive: 'links/SY1.txt'
   periodic: null
   geography: "European"
   forced_type: "news"
@@ -688,6 +690,7 @@ SY1_financial:
   output: data/SY1_financial.json
   output_json: JSONS/SY1_financial.json
   base_address: https://www.symrise.com/
+  link_archive: 'links/SY1.txt'
   periodic: null
   geography: "European"
   forced_type: null
