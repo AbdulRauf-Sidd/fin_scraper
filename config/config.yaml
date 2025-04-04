@@ -225,7 +225,7 @@ CBP_events:         # Pagination not being handled correctly
   headless: false
   direct: true
   selectors:
-    event_block: article.node--nir-event--nir-widget-list
+    event_block: article.clearfix.node.node--nir-event--nir-widget-list.node--type-nir-event.node--view-mode-nir-widget-list.nir-widget-article.llf-border
   pagination:
     type: next_page_url
     next_button: .pager__item.pager__item--next a
@@ -274,34 +274,10 @@ CBP_newsroom:
     archive: null
     timeout: null
 
-#checkkkkk
-CBP_financial:       
-  ticker: CBP
-  link_archive: 'links/CBP.txt'
-  url: https://investor.thecampbellscompany.com/financials/quarterly-results
-  output: data/CBP_financial.json
-  output_json: JSONS/CBP_financial.json
-  base_address: https://investor.thecampbellscompany.com/
-  periodic: true
-  periodic: true
-  headless: false
-  geography: "US"
-  forced_type: "financial"
-  direct: false
-  selectors:
-    event_block: div.llf-col-12.llf-col-md-6.llf-col-lg-3.llf-pb-5.llf-pb-lg-0.ndm-quarter
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: null
-
-
-
 #DSFIR
-DSFIR_news:       #COMPLETED
+DSFIR_news:
   ticker: DSFIR
-  url: https://investors.dsm-firmenich.com/en/investors/historical-information/corporate-governance/agm.html
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/agm.html
   output: data/DSFIR_news.json
   output_json: JSONS/DSFIR_news.json
   base_address: https://investors.dsm-firmenich.com/
@@ -340,9 +316,7 @@ DSFIR_news:       #COMPLETED
 #     type: year_tabs
 #     next_button: "li.cmp-tabs__tab"
 #     archive: null
-#     timeout: null
-
-    
+#     timeout: null    
 
 GIVN_news:        
   ticker: GIVN
@@ -631,14 +605,11 @@ RL_presentations:
     archive: .archive-toggler
     timeout: 5
 
-
-
-SY1_finance:     #COMPLETED
+SY1_finance:
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-results/
   output: data/SY1_finance.json
-  link_archive: 'links/SY1.txt'
   output_json: JSONS/SY1_finance.json
   base_address: https://www.symrise.com/
   periodic: null
@@ -654,7 +625,7 @@ SY1_finance:     #COMPLETED
     archive: dhsjdhsjdh
     timeout: 5
 
-SY1_events:     # COMPLETED
+SY1_events:
   ticker: SY1
   scraper: null
   url: https://www.symrise.com/investors/financial-calendar-and-presentations/
@@ -675,7 +646,7 @@ SY1_events:     # COMPLETED
     archive: .archive-toggler
     timeout: 5
 
-SY1_news:         # COMPLETE
+SY1_news:         
   ticker: SY1
   url: https://www.symrise.com/newsroom/press-releases/
   output: data/SY1_news.json
@@ -716,34 +687,14 @@ SY1_financial:
     archive: .archive-toggler
     timeout: 5
 
-
-WDAY_events:    # COMPLETE
-  ticker: WDAY
-  scraper: null
-  url: https://investor.workday.com/events#past:2025:3
-  output: data/WDAY_events.json
-  output_json: JSONS/WDAY_events.json
-  base_address: https://investor.workday.com/
-  periodic: null
-  geography: "US"
-  forced_type: null
-  headless: false
-  direct: false
-  selectors:
-    event_block: div.wd_events_month
-  pagination:
-    type: load_more
-    next_button: button.wd_events_more
-    archive: null
-    timeout: null
-    # ---------------------
-
-WDAY_press: #COMPLETED
+WDAY_press:
   ticker: WDAY
   url: https://investor.workday.com/press-releases
   output: data/WDAY_press.json
   output_json: JSONS/WDAY_press.json
+  link_archive: 'links/WDAY.txt'
   base_address: https://investor.workday.com/
+  link_archive: 'links/WDAY.txt'
   periodic: false
   geography: "US"
   forced_type: "press"
@@ -753,10 +704,11 @@ WDAY_press: #COMPLETED
     event_block: .wd_item
   pagination:
     type: button
-    next_button: li.wd_page_link.wd_page_next a
+    archive: null
+    next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
+    timeout: null
 
-
-WMT_quarterly:  #COMPLETED
+WMT_quarterly:  
   ticker: WMT
   scraper: null
   link_archive: 'links/WMT.txt'
