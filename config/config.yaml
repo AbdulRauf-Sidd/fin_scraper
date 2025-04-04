@@ -227,14 +227,13 @@ CBP_events:         # Pagination not being handled correctly
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
-    type: next_page_url
-    next_button: .pager__item.pager__item--next a
+    type: button
+    next_button: .pager__item.pager__item--next
     archive: null
     timeout: null
 
 CBP_news:       # Pagination not handled correctly
   ticker: CBP
-  link_archive: 'links/CBP.txt'
   url: https://investor.thecampbellscompany.com/news/financial-news
   output: data/CBP_news.json
   output_json: JSONS/CBP_news.json
@@ -255,7 +254,6 @@ CBP_news:       # Pagination not handled correctly
 #checkkkkk
 CBP_newsroom:       
   ticker: CBP
-  link_archive: 'links/CBP.txt'
   url: https://www.thecampbellscompany.com/newsroom/
   output: data/CBP_newsroom.json
   output_json: JSONS/CBP_newsroom.json
@@ -270,19 +268,17 @@ CBP_newsroom:
     event_block: article.article.article--post
   pagination:
     type: load_more
-    next_button: .load-more-container button
+    next_button: button.js-load-more.load-more
     archive: null
     timeout: null
 
 #checkkkkk
 CBP_financial:       
   ticker: CBP
-  link_archive: 'links/CBP.txt'
   url: https://investor.thecampbellscompany.com/financials/quarterly-results
   output: data/CBP_financial.json
   output_json: JSONS/CBP_financial.json
   base_address: https://investor.thecampbellscompany.com/
-  periodic: true
   periodic: true
   headless: false
   geography: "US"
@@ -425,7 +421,7 @@ GIVN_media:        #COMPLETED
 
 
 
-IFF_presentations:    # NOT
+IFF_presentations:    # COMPLETED
   ticker: IFF
   link_archive: 'links/IFF.txt'
   url: https://ir.iff.com/events-presentations
@@ -490,17 +486,16 @@ IFF_press:      # COMPLETED
 #     timeout: 5
 
 
-KO_company_updates:     #
+KO_company-updates:     #
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
   output: data/KO_company-updates.json
   output_json: JSONS/KO_company-updates.json
   base_address: https://investors.coca-colacompany.com/
-  link_archive: links/KO.txt
   periodic: false
   geography: "US"
-  forced_type: "company-updates"
+  forceed_type: "company-updates"
   headless: false
   direct: true
   selectors:
@@ -508,16 +503,13 @@ KO_company_updates:     #
   pagination:
     type: null
     next_button: null
-    archive: null
-    timeout: null
 
-KO_policies_practices_reports:     #LLM
+KO_poclicies-practices-reports:     # 
   ticker: KO
   url: https://www.coca-colacompany.com/policies-and-practices/
-  output: data/KO_policies-practices-reports.json
-  output_json: JSONS/KO_policies-practices-reports.json
+  output: data/KO_poclicies-practices-reports.json
+  output_json: JSONS/KO_poclicies-practices-reports.json
   base_address: https://www.coca-colacompany.com/
-  link_archive: links/KO.txt
   periodic: false
   geography: "US"
   forced_type: "reports"
@@ -528,8 +520,6 @@ KO_policies_practices_reports:     #LLM
   pagination:
     type: null
     next_button: null
-    archive: null
-    timeout: null
 
 KO_press:     # 
   ticker: KO
@@ -547,9 +537,9 @@ KO_press:     #
     event_block: article.media
   pagination:
     type: button
-    next_button: div.pagination-wrapper div.control.next a
-    archive: null
-    timeout: null
+    next_button: div.control.next a
+    archive: .archive-toggler
+    timeout: 5
 
 RL_newsroom:      # 
   ticker: RL
@@ -1339,7 +1329,6 @@ CPRI_acquisitions:
     archive: null
     timeout: null
 
-#HEIO
 HEIO_media-releases:
   ticker: HEIO
   scraper: null
@@ -1350,14 +1339,13 @@ HEIO_media-releases:
   periodic: false
   geography: "European"
   forced_type: "media-releases"
-  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
-    event_block: div.single-media-release.mb-100
+    event_block:
   pagination:
-    # type: button
-    # next_button: div.tab-list.tab-list--underlined.tab-list--stretched.border-color-primary-1 a
+    type: null
+    next_button: null
     archive: null
     timeout: null
 
@@ -1371,7 +1359,6 @@ HEIO_reports:
   periodic: false
   geography: "European"
   forced_type: "reports"
-  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
@@ -1385,7 +1372,7 @@ HEIO_reports:
 RKT_presentations:  #working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
+  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=12&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
   output: data/RKT_presentations.json
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
@@ -1406,7 +1393,7 @@ RKT_presentations:  #working
 RKT_investor_seminars:  #working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D=&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
+  url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
   output: data/RKT_investor_seminars.json
   output_json: JSONS/RKT_investor_seminars.json
   base_address: https://www.reckitt.com/
@@ -1445,10 +1432,10 @@ RKT_news:             #Iframe, And other big problems
     archive: null
     timeout: null 
 
-RKT_agm:
+RKT_agm:            # working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/annual-general-meetings/?page=2&configure%5BhitsPerPage%5D=8&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22AGM%22%29
+  url: https://www.reckitt.com/investors/annual-general-meetings/
   output: data/RKT_agm.json
   output_json: JSONS/RKT_agm.json
   base_address: https://www.reckitt.com/
@@ -1461,8 +1448,8 @@ RKT_agm:
   selectors:
     event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
   pagination:
-    # type: load_more
-    # next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
+    type: load_more
+    next_button: button.results-and-presentation-more-btn.btn.btn--primary.btn--pink
     archive: null
     timeout: null
 
@@ -1630,14 +1617,14 @@ NOVO-B_reporting:   # testing done ( working )
   headless: false
   direct: true 
   selectors:
-    event_block: div.text p a
+    event_block: div.text p
   pagination:
     type: null
     next_button:  null
     archive: null
     timeout: null
 
-NOVO-B_news:        # testing done ( working ) handle manually
+NOVO-B_news:        # testing done ( working )
   ticker: NOVO-B
   scraper: null
   url: https://www.novonordisk.com/news-and-media/news-and-ir-materials.html
@@ -1842,7 +1829,7 @@ RACE_news:
   headless: false
   direct: false
   selectors:
-    event_block: div.NewsPage__grid-row__2hkTTLLU a
+    event_block: div.NewsPage__grid-row__2hkTTLLU
   pagination:
     type: null
     next_button:  null
@@ -1851,7 +1838,7 @@ RACE_news:
 
 
 #BAS
-BAS_publications:   
+BAS_publications:       #Complete
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
@@ -1861,21 +1848,18 @@ BAS_publications:
   periodic: true
   geography: "European"
   forced_type: "publications"
+  link_archive: 'links/BAS.txt'
   headless: false
-  direct: false
+  direct: true
   selectors:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button.mt-5
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-<<<<<<< Updated upstream
-BAS_news:   
-=======
-BAS_news:                         
->>>>>>> Stashed changes
+BAS_news:           # Rauf will check it !!!!
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1886,21 +1870,18 @@ BAS_news:
   geography: "European"
   forced_type: "news"
   headless: false
-  direct: false
+  direct: true
+  link_archive: 'links/BAS.txt'
   selectors:
-    event_block: article.wxp-content-item.wxp-content-item__has-image
+    event_block: article.wxp-content-item
   pagination:
     type: load_more
-<<<<<<< Updated upstream
-    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
-=======
-    next_button:  div.wxp-result-list-footer-button.mt-5 button
->>>>>>> Stashed changes
+    next_button:  div.wxp-result-list-footer-button button
     archive: null
     timeout: null
 
-#SAN
-SAN_investor-relations:   
+#SAN          
+SAN_investor-relations:      # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/glossary
@@ -1910,6 +1891,7 @@ SAN_investor-relations:
   periodic: true
   geography: "European"
   forced_type: null
+  link_archive: 'links/SAN.txt'
   headless: false
   direct: true
   selectors:
@@ -1920,27 +1902,28 @@ SAN_investor-relations:
     archive: null
     timeout: null
 
-SAN_stock-exchange:   
+SAN_stock-exchange:   # Complete
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
   output: data/SAN_stock-exchangejson
   output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
-  periodic: true
+  periodic: null
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: false
   selectors:
     event_block: tbody tr
   pagination:
-    type: null 
-    next_button:  null
+    type: button 
+    next_button:  li.presentation
     archive: null
     timeout: null
 
-SAN_group-holdings:   
+SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
@@ -1951,11 +1934,12 @@ SAN_group-holdings:
   geography: "European"
   forced_type: null
   headless: false
+  link_archive: 'links/SAN.txt'
   direct: true
   selectors:
-    event_block: # hassannnnnnnn
+    event_block: div.row.two-col-left
   pagination:
-    type: null
-    next_button: null
+    type:                 # Expand
+    next_button: div.panel-title
     archive: null
     timeout: null
