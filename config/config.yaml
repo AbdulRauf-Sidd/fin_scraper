@@ -423,7 +423,7 @@ GIVN_media:        #COMPLETED
 
 
 
-IFF_presentations:    # COMPLETED
+IFF_presentations:    # NOT
   ticker: IFF
   link_archive: 'links/IFF.txt'
   url: https://ir.iff.com/events-presentations
@@ -488,16 +488,17 @@ IFF_press:      # COMPLETED
 #     timeout: 5
 
 
-KO_company-updates:     #
+KO_company_updates:     #
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
   output: data/KO_company-updates.json
   output_json: JSONS/KO_company-updates.json
   base_address: https://investors.coca-colacompany.com/
+  link_archive: links/KO.txt
   periodic: false
   geography: "US"
-  forceed_type: "company-updates"
+  forced_type: "company-updates"
   headless: false
   direct: true
   selectors:
@@ -505,13 +506,16 @@ KO_company-updates:     #
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
-KO_poclicies-practices-reports:     # 
+KO_policies_practices_reports:     #LLM
   ticker: KO
   url: https://www.coca-colacompany.com/policies-and-practices/
-  output: data/KO_poclicies-practices-reports.json
-  output_json: JSONS/KO_poclicies-practices-reports.json
+  output: data/KO_policies-practices-reports.json
+  output_json: JSONS/KO_policies-practices-reports.json
   base_address: https://www.coca-colacompany.com/
+  link_archive: links/KO.txt
   periodic: false
   geography: "US"
   forced_type: "reports"
@@ -522,6 +526,8 @@ KO_poclicies-practices-reports:     #
   pagination:
     type: null
     next_button: null
+    archive: null
+    timeout: null
 
 KO_press:     # 
   ticker: KO
@@ -539,9 +545,9 @@ KO_press:     #
     event_block: article.media
   pagination:
     type: button
-    next_button: div.control.next a
-    archive: .archive-toggler
-    timeout: 5
+    next_button: div.pagination-wrapper div.control.next a
+    archive: null
+    timeout: null
 
 RL_newsroom:      # 
   ticker: RL
