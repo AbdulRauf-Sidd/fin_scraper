@@ -7,12 +7,14 @@
     "data": [
       {
         "file_name": "awards-and-certifications",
-        "file_type": "pdf",
+        "file_type": "html",
         "published_date": "Null",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/awards-and-certifications/awards-and-certifications.pdf",
+        "source_url": "https://www.croda.com/en-gb/sustainability/our-approach/awards-and-certifications",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRDA/Null/awards-and-certifications/awards-and-certifications.html",
         "content_type": [
           "esg"
-        ]
+        ],
+        "record_type": "download"
       }
     ]
   },
@@ -24,13 +26,15 @@
     "data": [
       {
         "file_name": "reporting-datapack",
-        "file_type": "pdf",
+        "file_type": "html",
         "published_date": "Null",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/reporting-datapack/reporting-datapack.pdf",
+        "source_url": "https://www.croda.com/en-gb/sustainability/reporting-datapack",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRDA/Null/reporting-datapack/reporting-datapack.html",
         "content_type": [
-          "financial-filing",
-          "esg"
-        ]
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
       }
     ]
   },
@@ -42,12 +46,14 @@
     "data": [
       {
         "file_name": "policies-and-procedures",
-        "file_type": "pdf",
+        "file_type": "html",
         "published_date": "Null",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CRDA/Null/policies-and-procedures/policies-and-procedures.pdf",
+        "source_url": "https://www.croda.com/en-gb/sustainability/reporting-datapack/policies-and-procedures",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRDA/Null/policies-and-procedures/policies-and-procedures.html",
         "content_type": [
           "esg"
-        ]
+        ],
+        "record_type": "download"
       }
     ]
   }
