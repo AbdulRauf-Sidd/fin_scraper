@@ -453,7 +453,7 @@ IFF_press:      # COMPLETED
   geography: "US"
   forced_type: "press"
   headless: false
-  direct: true
+  direct: false
   selectors:
     event_block: article.clearfix.node.node--nir-news--nir-widget-list.node--type-nir-news.node--view-mode-nir-widget-list.node--promoted
   pagination:
@@ -463,26 +463,26 @@ IFF_press:      # COMPLETED
     timeout: 5
 
 #checkkkkk
-IFF_stories:      
-  ticker: IFF
-  scraper: null
-  link_archive: 'links/IFF.txt'
-  url: https://www.iff.com/media/stories/
-  output: data/IFF_stories.json
-  output_json: JSONS/IFF_stories.json
-  base_address: https://ir.iff.com/
-  periodic: false
-  geography: "US"
-  forced_type: "press"
-  headless: false
-  direct: true
-  selectors:
-    event_block: div.c-block div.c-block__body
-  pagination:
-    type: button
-    next_button: li.next a
-    archive: .archive-toggler
-    timeout: 5
+# IFF_stories:      NOT RELAVANT
+#   ticker: IFF
+#   scraper: null
+#   link_archive: 'links/IFF.txt'
+#   url: https://www.iff.com/media/stories/
+#   output: data/IFF_stories.json
+#   output_json: JSONS/IFF_stories.json
+#   base_address: https://ir.iff.com/
+#   periodic: false
+#   geography: "US"
+#   forced_type: "press"
+#   headless: false
+#   direct: true
+#   selectors:
+#     event_block: div.c-block div.c-block__body
+#   pagination:
+#     type: button
+#     next_button: li.next a
+#     archive: .archive-toggler
+#     timeout: 5
 
 
 KO_company-updates:     #
@@ -526,7 +526,8 @@ KO_press:     #
   output: data/KO_press.json
   output_json: JSONS/KO_press.json
   base_address: https://investors.coca-colacompany.com/
-  periodic: false
+  link_archive: links/KO.txt
+  periodic: null
   geography: "US"
   forced_type: "press release"
   headless: false
@@ -536,8 +537,8 @@ KO_press:     #
   pagination:
     type: button
     next_button: div.control.next a
-#     archive: .archive-toggler
-#     timeout: 5
+    archive: .archive-toggler
+    timeout: 5
 
 RL_newsroom:      # 
   ticker: RL
