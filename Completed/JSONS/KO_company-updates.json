@@ -1,0 +1,22 @@
+[
+  {
+    "event_name": "Conference Feb 18, 2025 \u2022 View Event Transcript Webcast (Video) VIDEO Presentation",
+    "equity_ticker": "KO",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "The Coca-Cola Company CAGNY 2025 Presentation_static.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-02-18",
+        "source_url": "https://d1io3yog0oux5.cloudfront.net/_59a0c6b46f702cca68a81b2e709bb488/cocacolacompany/db/701/8178/presentation/The+Coca-Cola+Company+CAGNY+2025+Presentation_static.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KO/2025-02-18/The%20Coca-Cola%20Company%20CAGNY%202025%20Presentation_static.pdf/The%20Coca-Cola%20Company%20CAGNY%202025%20Presentation_static.pdf",
+        "content_type": [
+          "company-updates",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

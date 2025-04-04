@@ -1,0 +1,59 @@
+[
+  {
+    "event_name": "2023 Year in Review",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "PVH Year in Review 2023.pdf",
+        "file_type": "pdf",
+        "published_date": "0002-03",
+        "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Year-in-Review-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/0002-03/PVH%20Year%20in%20Review%202023.pdf/PVH%20Year%20in%20Review%202023.pdf",
+        "content_type": [
+          "annual-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2024",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "PVH Q3 2024 Earnings.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03",
+        "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q3-2024-Earnings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2024-03/PVH%20Q3%202024%20Earnings.pdf/PVH%20Q3%202024%20Earnings.pdf",
+        "content_type": [
+          "three-month-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2024",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "PVH Q2 2024 Earnings.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-03",
+        "source_url": "https://www.pvh.com/-/media/Files/pvh/investor-relations/PVH-Q2-2024-Earnings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2024-03/PVH%20Q2%202024%20Earnings.pdf/PVH%20Q2%202024%20Earnings.pdf",
+        "content_type": [
+          "three-month-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
