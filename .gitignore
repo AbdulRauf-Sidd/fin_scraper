@@ -12,3 +12,4 @@ logs/*
 SEC/downloads/*
 test_docs/*
 JSONS/*
+data/*
