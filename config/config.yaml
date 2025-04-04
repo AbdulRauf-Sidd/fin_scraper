@@ -228,13 +228,14 @@ CBP_events:         # Pagination not being handled correctly
   selectors:
     event_block: article.node--nir-event--nir-widget-list
   pagination:
-    type: button
-    next_button: .pager__item.pager__item--next
+    type: next_page_url
+    next_button: .pager__item.pager__item--next a
     archive: null
     timeout: null
 
 CBP_news:       # Pagination not handled correctly
   ticker: CBP
+  link_archive: 'links/CBP.txt'
   url: https://investor.thecampbellscompany.com/news/financial-news
   output: data/CBP_news.json
   output_json: JSONS/CBP_news.json
@@ -255,6 +256,7 @@ CBP_news:       # Pagination not handled correctly
 #checkkkkk
 CBP_newsroom:       # Pagination not handled correctly
   ticker: CBP
+  link_archive: 'links/CBP.txt'
   url: https://www.thecampbellscompany.com/newsroom/
   output: data/CBP_newsroom.json
   output_json: JSONS/CBP_newsroom.json
@@ -267,19 +269,20 @@ CBP_newsroom:       # Pagination not handled correctly
   selectors:
     event_block: article.article.article--post
   pagination:
-    type: null
-    next_button: null
+    type: load_more
+    next_button: .load-more-container button
     archive: null
     timeout: null
 
 #checkkkkk
 CBP_financial:       # Pagination not handled correctly
   ticker: CBP
+  link_archive: 'links/CBP.txt'
   url: https://investor.thecampbellscompany.com/financials/quarterly-results
   output: data/CBP_financial.json
   output_json: JSONS/CBP_financial.json
   base_address: https://investor.thecampbellscompany.com/
-  periodic: false
+  periodic: true
   headless: false
   geography: "US"
   forced_type: "financial"
@@ -1830,7 +1833,7 @@ RACE_news:
 
 
 #BAS
-BAS_publications:
+BAS_publications:   
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
@@ -1840,18 +1843,17 @@ BAS_publications:
   periodic: true
   geography: "European"
   forced_type: "publications"
-  link_archive: 'links/BAS.txt'
   headless: false
-  direct: true
+  direct: false
   selectors:
     event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button button
+    next_button:  div.wxp-result-list-footer-button.mt-5
     archive: null
     timeout: null
 
-BAS_news:           # Rauf will check it !!!!
+BAS_news:   
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1862,18 +1864,17 @@ BAS_news:           # Rauf will check it !!!!
   geography: "European"
   forced_type: "news"
   headless: false
-  direct: true
-  link_archive: 'links/BAS.txt'
+  direct: false
   selectors:
-    event_block: article.wxp-content-item
+    event_block: article.wxp-content-item.wxp-content-item__has-image
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button button
+    next_button:  div.wxp-result-list-footer-button.mt-5.ng-star-inserted
     archive: null
     timeout: null
 
-#SAN          
-SAN_investor-relations:      # Complete
+#SAN
+SAN_investor-relations:   
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/glossary
@@ -1883,7 +1884,6 @@ SAN_investor-relations:      # Complete
   periodic: true
   geography: "European"
   forced_type: null
-  link_archive: 'links/SAN.txt'
   headless: false
   direct: true
   selectors:
@@ -1894,28 +1894,27 @@ SAN_investor-relations:      # Complete
     archive: null
     timeout: null
 
-SAN_stock-exchange:   # Complete
+SAN_stock-exchange:   
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/stock-exchange-announcements
   output: data/SAN_stock-exchangejson
   output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
-  periodic: null
+  periodic: true
   geography: "European"
   forced_type: null
   headless: false
-  link_archive: 'links/SAN.txt'
   direct: false
   selectors:
     event_block: tbody tr
   pagination:
-    type: button 
-    next_button:  li.presentation
+    type: null 
+    next_button:  null
     archive: null
     timeout: null
 
-SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
+SAN_group-holdings:   
   ticker: SAN
   scraper: null
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
@@ -1926,12 +1925,11 @@ SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   geography: "European"
   forced_type: null
   headless: false
-  link_archive: 'links/SAN.txt'
   direct: true
   selectors:
-    event_block: div.row.two-col-left
+    event_block: # hassannnnnnnn
   pagination:
-    type:                 # Expand
-    next_button: div.panel-title
+    type: null
+    next_button: null
     archive: null
     timeout: null
