@@ -217,3 +217,5 @@ class PaginationHandler:
             all_events.extend(events)
 
         return all_events
+    
+    
