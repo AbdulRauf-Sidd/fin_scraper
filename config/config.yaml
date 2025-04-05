@@ -525,7 +525,7 @@ KO_press:     #
     archive: null
     timeout: null
 
-RL_newsroom:      # 
+RL_newsroom:
   ticker: RL
   url: https://corporate.ralphlauren.com/newsroom
   output: data/RL_newsroom.json
