@@ -706,13 +706,13 @@ WDAY_press:
     next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
     timeout: null
 
-WMT_quarterly:  
+WMT_financial-results:  
   ticker: WMT
   scraper: null
   link_archive: 'links/WMT.txt'
-  url: https://stock.walmart.com/financial-information/vizio-historical-financials
-  output: data/WMT_quarterly.json
-  output_json: JSONS/WMT_quarterly.json
+  url: https://stock.walmart.com/financial-information/financial-results
+  output: data/WMT_financial-results.json
+  output_json: JSONS/WMT_financial-results.json
   base_address: https://stock.walmart.com/
   periodic: true
   geography: "US"
@@ -720,10 +720,52 @@ WMT_quarterly:
   headless: false
   direct: true
   selectors:
-    event_block: div.box.quarterly-results
+    event_block: div.box.quarterly-results div.toggle-wrapper.collapse div.text div.text
+  pagination:
+    type: null
+    next_button: null
+    archive: .archive-toggler
+    timeout: 5
+
+WMT_news:
+  ticker: WMT
+  scraper: null
+  link_archive: 'links/WMT.txt'
+  url: https://corporate.walmart.com/content/corporate/en_us/news.html
+  output: data/WMT_news.json
+  output_json: JSONS/WMT_news.json
+  base_address: https://corporate.walmart.com/
+  periodic: false
+  geography: "US"
+  forced_type: "news"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.in-page__card.search-result-tag div.in-page__content-wrapper
   pagination:
     type: button
-    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    next_button: div.search-page-arrow.search-page-higher.js-load-more.active
+    archive: .archive-toggler
+    timeout: 5
+
+WMT_events:
+  ticker: WMT
+  scraper: null
+  link_archive: 'links/WMT.txt'
+  url: https://corporate.walmart.com/news/events
+  output: data/WMT_events.json
+  output_json: JSONS/WMT_events.json
+  base_address: https://corporate.walmart.com/
+  periodic: false
+  geography: "US"
+  forced_type: "events"
+  headless: false
+  direct: false
+  selectors:
+    event_block: li.ListEvents-items-item div
+  pagination:
+    type: load_more
+    next_button: div.ListEvents-pagination:visible button#ListEvents-loadmore
     archive: .archive-toggler
     timeout: 5
 
@@ -1332,7 +1374,7 @@ HEIO_reports:
 RKT_presentations:  #working
   ticker: RKT
   scraper: null
-  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D%5B0%5D=2025&refinementList%5Byear%5D%5B1%5D=2024&refinementList%5Byear%5D%5B2%5D=2023&refinementList%5Byear%5D%5B3%5D=2022&refinementList%5Byear%5D%5B4%5D=2021&refinementList%5Byear%5D%5B5%5D=2020&refinementList%5Byear%5D%5B6%5D=2019&refinementList%5Byear%5D%5B7%5D=2018&refinementList%5Byear%5D%5B8%5D=2016&refinementList%5Byear%5D%5B9%5D=2017&refinementList%5Byear%5D%5B10%5D=2015&refinementList%5Byear%5D%5B11%5D=2014&refinementList%5Byear%5D%5B12%5D=2013&refinementList%5Byear%5D%5B13%5D=2012&page=12&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
+  url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D=&page=6&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
   output: data/RKT_presentations.json
   output_json: JSONS/RKT_presentations.json
   base_address: https://www.reckitt.com/
@@ -1490,7 +1532,7 @@ OR_news:           #Complete
   geography: "European"
   headless: true
   forced_type: "news"
-  direct: true
+  direct: false
   selectors:
     event_block: div.col-12.col-md-10.offset-md-1.col-lg-7.col-xl-6.offset-lg-0.offset-xl-0.news-events-listing__info-wrapper
   pagination:
@@ -1510,8 +1552,8 @@ OR_half:          #Complete
   geography: "European"
   link_archive: links/OR.txt
   forced_type: "half-year-results"
-  headless: true
-  direct: true
+  headless: false
+  direct: false
   selectors:
     event_block: div.archive__section
   pagination:
