@@ -324,6 +324,7 @@ GIVN_news:
   base_address: https://www.givaudan.com/
   periodic: null
   geography: "European"
+  link_archive: 'links/GIVN.txt'
   forced_type: "news"
   headless: false
   direct: false
@@ -611,7 +612,7 @@ SY1_finance:
   periodic: null
   link_archive: 'links/SY1.txt'
   geography: "european"
-  forced_type: 'financial-filing'
+  forced_type: null
   direct: true
   headless: false
   selectors:
