@@ -230,6 +230,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Business model 368.11 KB 04.03.2025 | 368.11 KB | 04.03.2025",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -460,6 +461,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Hermes business model 1.88 MB 06.09.2020 | 1.88 MB | 06.09.2020",
     "equity_ticker": "RMS",
     "geography": "European",

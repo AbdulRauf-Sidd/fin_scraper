@@ -1,0 +1,1904 @@
+[
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "annual-report-2024.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/en/investors/results-reports-and-events/annual-report-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/annual-report-2024.jpeg/annual-report-2024.jpeg",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "diageo-annual-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/diageo-annual-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/diageo-annual-report-2024.pdf/diageo-annual-report-2024.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "strategic-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/strategic-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/strategic-report-2024.pdf/strategic-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "governance-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/governance-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/governance-report-2024.pdf/governance-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "audit-committee-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/audit-committee-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/audit-committee-report-2024.pdf/audit-committee-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "business-model-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/business-model-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/business-model-2024.pdf/business-model-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "chairs-statement-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/chairs-statement-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/chairs-statement-2024.pdf/chairs-statement-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "remuneration-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/remuneration-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/remuneration-report-2024.pdf/remuneration-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "chief-executives-statement-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/chief-executives-statement-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/chief-executives-statement-2024.pdf/chief-executives-statement-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corporate-governance-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/corporate-governance-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/corporate-governance-report-2024.pdf/corporate-governance-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "financial-statements-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/financial-statements-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/financial-statements-2024.pdf/financial-statements-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "nomination-committee-report-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/nomination-committee-report-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/nomination-committee-report-2024.pdf/nomination-committee-report-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20-f-f24-filing.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/20-f-f24-filing.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/20-f-f24-filing.pdf/20-f-f24-filing.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "instantly-recognisable-brands-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/instantly-recognisable-brands-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/instantly-recognisable-brands-2024.pdf/instantly-recognisable-brands-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "market-overview-and-investment-case-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/market-overview-and-investment-case-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/market-overview-and-investment-case-2024.pdf/market-overview-and-investment-case-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "our-growth-ambition-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/our-growth-ambition-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/our-growth-ambition-2024.pdf/our-growth-ambition-2024.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "esg-reporting-index-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/esg-reporting-index-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/esg-reporting-index-2024.pdf/esg-reporting-index-2024.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "TnC_en.html?locale=en-gb",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://footer.diageohorizon.com/dfs/assets/www.diageo.com/TnC_en.html?locale=en-gb",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/TnC_en.html%3Flocale%3Den-gb/TnC_en.html%3Flocale%3Den-gb.html",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "PrivacyPolicy_en.html?locale=en-gb",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.diageoprivacycentre.com/en-gb?pp=https://footer.diageohorizon.com/dfs/assets/www.diageo.com/PrivacyPolicy_en.html?locale=en-gb",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/PrivacyPolicy_en.html%3Flocale%3Den-gb/PrivacyPolicy_en.html%3Flocale%3Den-gb.html",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "UGC_en.html?locale=en-gb",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://footer.diageohorizon.com/dfs/assets/www.diageo.com/UGC_en.html?locale=en-gb",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/UGC_en.html%3Flocale%3Den-gb/UGC_en.html%3Flocale%3Den-gb.html",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "www.diageo.com_en-gb_final_accessibility.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://footer.diageohorizon.com/dfs/assets/www.diageo.com/www.diageo.com_en-gb_final_accessibility.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/www.diageo.com_en-gb_final_accessibility.html/www.diageo.com_en-gb_final_accessibility.html",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "PrivacyPolicy_en.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://footer.diageohorizon.com/dfs/assets/policies.diageohorizon.com/PrivacyPolicy_en.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/PrivacyPolicy_en.html/PrivacyPolicy_en.html",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "annual-report-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/en/investors/results-reports-and-events/annual-report-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/annual-report-2023.jpeg/annual-report-2023.jpeg",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "diageo-annual-report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://staticcontents.investis.com/files/d/diageo/diageo-annual-report-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/diageo-annual-report-2023.pdf/diageo-annual-report-2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "strategic-report_ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://staticcontents.investis.com/files/d/diageo/strategic-report_ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/strategic-report_ar2023.pdf/strategic-report_ar2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corporate-governance-report_ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/corporate-governance-report_ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/corporate-governance-report_ar2023.pdf/corporate-governance-report_ar2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "audit-committee-report_ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/audit-committee-report_ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/audit-committee-report_ar2023.pdf/audit-committee-report_ar2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "remuneration-report_ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/remuneration-report_ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/remuneration-report_ar2023.pdf/remuneration-report_ar2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "esg-reporting-index-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/esg-reporting-index-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/esg-reporting-index-2023.pdf/esg-reporting-index-2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "nyse-statement-of-difference-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/nyse-statement-of-difference-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/nyse-statement-of-difference-2023.pdf/nyse-statement-of-difference-2023.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20-f-f23-filing.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/20-f-f23-filing.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/20-f-f23-filing.pdf/20-f-f23-filing.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corproate-citizneship-assurance-statement-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2023/corproate-citizneship-assurance-statement-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/corproate-citizneship-assurance-statement-2022.pdf/corproate-citizneship-assurance-statement-2022.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "213800zvielea55jmj32-2023-06-30.zip",
+        "file_type": "zip",
+        "published_date": "2023-04",
+        "source_url": "https://staticcontents.investis.com/files/d/diageo/213800zvielea55jmj32-2023-06-30.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/213800zvielea55jmj32-2023-06-30.zip/213800zvielea55jmj32-2023-06-30.zip",
+        "content_type": [
+          "financial-filings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "chairmans-statement-ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/chairmans-statement-ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/chairmans-statement-ar2023.pdf/chairmans-statement-ar2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ceo-statement-ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/ceo-statement-ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/ceo-statement-ar2023.pdf/ceo-statement-ar2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "our-strategy-ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/our-strategy-ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/our-strategy-ar2023.pdf/our-strategy-ar2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "market-overview-ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/market-overview-ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/market-overview-ar2023.pdf/market-overview-ar2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "performing-against-our-esg-targets.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/performing-against-our-esg-targets.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/performing-against-our-esg-targets.pdf/performing-against-our-esg-targets.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "esg-reporting-approach-ar2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/esg-reporting-approach-ar2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/esg-reporting-approach-ar2023.pdf/esg-reporting-approach-ar2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "11-positionpaper-consumer-information_2017-02-14.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/11-positionpaper-consumer-information_2017-02-14.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/11-positionpaper-consumer-information_2017-02-14.pdf/11-positionpaper-consumer-information_2017-02-14.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "12-positionpaper-alcohol-and-women_2017-02-14.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/12-positionpaper-alcohol-and-women_2017-02-14.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/12-positionpaper-alcohol-and-women_2017-02-14.pdf/12-positionpaper-alcohol-and-women_2017-02-14.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "15-positionpaper-underage_2017-02-14.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/15-positionpaper-underage_2017-02-14.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/15-positionpaper-underage_2017-02-14.pdf/15-positionpaper-underage_2017-02-14.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "esg-reporting-index2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/esg-reporting-index2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/esg-reporting-index2023.pdf/esg-reporting-index2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corproate-citizneship-assurance-statement-2022%201.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/corproate-citizneship-assurance-statement-2022%201.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/corproate-citizneship-assurance-statement-2022%25201.pdf/corproate-citizneship-assurance-statement-2022%25201.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "diageo-annual-report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/diageo-annual-report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/diageo-annual-report-2022.pdf/diageo-annual-report-2022.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "strategic-report_diageo-ar22.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/strategic-report_diageo-ar22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/strategic-report_diageo-ar22.pdf/strategic-report_diageo-ar22.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corporate-governance-report_diageo-ar22.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/corporate-governance-report_diageo-ar22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/corporate-governance-report_diageo-ar22.pdf/corporate-governance-report_diageo-ar22.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "audit-committee-report_diageo-ar22.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/audit-committee-report_diageo-ar22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/audit-committee-report_diageo-ar22.pdf/audit-committee-report_diageo-ar22.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "directors-remuneration-report_diageo-ar22.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/directors-remuneration-report_diageo-ar22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/directors-remuneration-report_diageo-ar22.pdf/directors-remuneration-report_diageo-ar22.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageo_esg_reporting-index_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/diageo_esg_reporting-index_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/diageo_esg_reporting-index_2022.pdf/diageo_esg_reporting-index_2022.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f22-us-nyse-statement-of-differences.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/f22-us-nyse-statement-of-differences.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/f22-us-nyse-statement-of-differences.pdf/f22-us-nyse-statement-of-differences.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "corproate-citizneship-assurance-statement-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/corproate-citizneship-assurance-statement-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/corproate-citizneship-assurance-statement-2022.pdf/corproate-citizneship-assurance-statement-2022.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20-f-filing-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2022/20-f-filing-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/20-f-filing-2022.pdf/20-f-filing-2022.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "213800zvielea55jmj32-2022-06-30.zip",
+        "file_type": "zip",
+        "published_date": "2022-04",
+        "source_url": "https://staticcontents.investis.com/files/d/diageo/213800zvielea55jmj32-2022-06-30.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/213800zvielea55jmj32-2022-06-30.zip/213800zvielea55jmj32-2022-06-30.zip",
+        "content_type": [
+          "financial-filings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "deo-2022-06-30-en.zip",
+        "file_type": "zip",
+        "published_date": "2022-04",
+        "source_url": "https://staticcontents.investis.com/files/d/diageo/deo-2022-06-30-en.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-04/deo-2022-06-30-en.zip/deo-2022-06-30-en.zip",
+        "content_type": [
+          "financial-filings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "273_diageo-annual-report-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/273_diageo-annual-report-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/273_diageo-annual-report-2021.pdf/273_diageo-annual-report-2021.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "274_2021-strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/274_2021-strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/274_2021-strategic-report.pdf/274_2021-strategic-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "275_2021-directors-remuneration-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/275_2021-directors-remuneration-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/275_2021-directors-remuneration-report.pdf/275_2021-directors-remuneration-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "276_2021-corporate-governance-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/276_2021-corporate-governance-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/276_2021-corporate-governance-report.pdf/276_2021-corporate-governance-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "277_2021-audit-committee-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/277_2021-audit-committee-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/277_2021-audit-committee-report.pdf/277_2021-audit-committee-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "272_esg-reporting-index-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/272_esg-reporting-index-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/272_esg-reporting-index-2021.pdf/272_esg-reporting-index-2021.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "278_nyse-statement-of-difference.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/278_nyse-statement-of-difference.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/278_nyse-statement-of-difference.pdf/278_nyse-statement-of-difference.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "279_diageo-community-assurance-statement-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/279_diageo-community-assurance-statement-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/279_diageo-community-assurance-statement-2021.pdf/279_diageo-community-assurance-statement-2021.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "280_20-f-filing-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2021/280_20-f-filing-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021-04/280_20-f-filing-2021.pdf/280_20-f-filing-2021.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "254_annual-report-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/254_annual-report-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/254_annual-report-2020.pdf/254_annual-report-2020.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "255_strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/255_strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/255_strategic-report.pdf/255_strategic-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "256_directors-remuneration-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/256_directors-remuneration-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/256_directors-remuneration-report.pdf/256_directors-remuneration-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "257_corporate-governance-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/257_corporate-governance-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/257_corporate-governance-report.pdf/257_corporate-governance-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "258_audit-committee-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/258_audit-committee-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/258_audit-committee-report.pdf/258_audit-committee-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "259_diageo_sustainability_-_responsibility_performance_addendum_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/259_diageo_sustainability_-_responsibility_performance_addendum_2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/259_diageo_sustainability_-_responsibility_performance_addendum_2020.pdf/259_diageo_sustainability_-_responsibility_performance_addendum_2020.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "260_nyse-statement-of-differences-for-year-ended-30-june-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/260_nyse-statement-of-differences-for-year-ended-30-june-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/260_nyse-statement-of-differences-for-year-ended-30-june-2020.pdf/260_nyse-statement-of-differences-for-year-ended-30-june-2020.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "253_diageo-community-assurance-statement-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/253_diageo-community-assurance-statement-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/253_diageo-community-assurance-statement-2020.pdf/253_diageo-community-assurance-statement-2020.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "261_form-20-f-for-year-ended-30-june-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2020/261_form-20-f-for-year-ended-30-june-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/261_form-20-f-for-year-ended-30-june-2020.pdf/261_form-20-f-for-year-ended-30-june-2020.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2019",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "235_b3801-000797_diageo_ar2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/235_b3801-000797_diageo_ar2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/235_b3801-000797_diageo_ar2019.pdf/235_b3801-000797_diageo_ar2019.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "236_b3801-000797_diageo_ar2019_strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/236_b3801-000797_diageo_ar2019_strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/236_b3801-000797_diageo_ar2019_strategic-report.pdf/236_b3801-000797_diageo_ar2019_strategic-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "237_b3801-000797_diageo_ar2019_remuneration.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/237_b3801-000797_diageo_ar2019_remuneration.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/237_b3801-000797_diageo_ar2019_remuneration.pdf/237_b3801-000797_diageo_ar2019_remuneration.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "238_b3801-000797_diageo_ar2019_governance.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/238_b3801-000797_diageo_ar2019_governance.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/238_b3801-000797_diageo_ar2019_governance.pdf/238_b3801-000797_diageo_ar2019_governance.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "239_b3801-000797_diageo_ar2019_audit-committee-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/239_b3801-000797_diageo_ar2019_audit-committee-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/239_b3801-000797_diageo_ar2019_audit-committee-report.pdf/239_b3801-000797_diageo_ar2019_audit-committee-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "240_diageo_srperf_add2019_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/240_diageo_srperf_add2019_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/240_diageo_srperf_add2019_final.pdf/240_diageo_srperf_add2019_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "241_nyse-corporate-governance-rules-differences-disclosure-for-ye-30-june-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/241_nyse-corporate-governance-rules-differences-disclosure-for-ye-30-june-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/241_nyse-corporate-governance-rules-differences-disclosure-for-ye-30-june-2019.pdf/241_nyse-corporate-governance-rules-differences-disclosure-for-ye-30-june-2019.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "242_diageo-community-assurance-statement-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/242_diageo-community-assurance-statement-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/242_diageo-community-assurance-statement-2019.pdf/242_diageo-community-assurance-statement-2019.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "243_20-f-f19-p12_full_05082019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/243_20-f-f19-p12_full_05082019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/243_20-f-f19-p12_full_05082019.pdf/243_20-f-f19-p12_full_05082019.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "244_2019-20-f-filing-exhibits.zip",
+        "file_type": "zip",
+        "published_date": "2019-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2019/244_2019-20-f-filing-exhibits.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-04/244_2019-20-f-filing-exhibits.zip/244_2019-20-f-filing-exhibits.zip",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2018",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "197_b0000391_diageo_ar-2018_interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/197_b0000391_diageo_ar-2018_interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/197_b0000391_diageo_ar-2018_interactive.pdf/197_b0000391_diageo_ar-2018_interactive.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "198_b0000391_diageo_ar2018_strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/198_b0000391_diageo_ar2018_strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/198_b0000391_diageo_ar2018_strategic-report.pdf/198_b0000391_diageo_ar2018_strategic-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "199_b0000391_diageo_ar2018_remuneration.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/199_b0000391_diageo_ar2018_remuneration.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/199_b0000391_diageo_ar2018_remuneration.pdf/199_b0000391_diageo_ar2018_remuneration.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "200_b0000391_diageo_ar2018_governance.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/200_b0000391_diageo_ar2018_governance.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/200_b0000391_diageo_ar2018_governance.pdf/200_b0000391_diageo_ar2018_governance.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "201_b0000391_diageo_ar2018_audit.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/201_b0000391_diageo_ar2018_audit.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/201_b0000391_diageo_ar2018_audit.pdf/201_b0000391_diageo_ar2018_audit.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "202_diageo_sustainability-responsibility_perfaddendum_2018_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/202_diageo_sustainability-responsibility_perfaddendum_2018_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/202_diageo_sustainability-responsibility_perfaddendum_2018_final.pdf/202_diageo_sustainability-responsibility_perfaddendum_2018_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "203_new-york-stock-exchange-statement-of-differences-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/203_new-york-stock-exchange-statement-of-differences-2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/203_new-york-stock-exchange-statement-of-differences-2018.pdf/203_new-york-stock-exchange-statement-of-differences-2018.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "204_diageo-lbg-assurance-statement-2018_issued_09-07-18.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/204_diageo-lbg-assurance-statement-2018_issued_09-07-18.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/204_diageo-lbg-assurance-statement-2018_issued_09-07-18.pdf/204_diageo-lbg-assurance-statement-2018_issued_09-07-18.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "205_2018-20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/205_2018-20f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/205_2018-20f.pdf/205_2018-20f.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "206_20-f-2018-xbrl.zip",
+        "file_type": "zip",
+        "published_date": "2018-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2018/206_20-f-2018-xbrl.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-04/206_20-f-2018-xbrl.zip/206_20-f-2018-xbrl.zip",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2017",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "168_diageo-2017-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/168_diageo-2017-annual-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/168_diageo-2017-annual-report.pdf/168_diageo-2017-annual-report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageo-2017-strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/diageo-2017-strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/diageo-2017-strategic-report.pdf/diageo-2017-strategic-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "170_diageo-2017-directors-remuneration-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/170_diageo-2017-directors-remuneration-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/170_diageo-2017-directors-remuneration-report.pdf/170_diageo-2017-directors-remuneration-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "171_diageo-2017-corporate-governance-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/171_diageo-2017-corporate-governance-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/171_diageo-2017-corporate-governance-report.pdf/171_diageo-2017-corporate-governance-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "172_diageo-2017-audit-committee-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/172_diageo-2017-audit-committee-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/172_diageo-2017-audit-committee-report.pdf/172_diageo-2017-audit-committee-report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "173_diageo_pa_2017_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/173_diageo_pa_2017_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/173_diageo_pa_2017_final.pdf/173_diageo_pa_2017_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "174_new-york-stock-exchange-statement-of-differences-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/174_new-york-stock-exchange-statement-of-differences-2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/174_new-york-stock-exchange-statement-of-differences-2017.pdf/174_new-york-stock-exchange-statement-of-differences-2017.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "175_diageo-lbg-assurance-statement-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/175_diageo-lbg-assurance-statement-2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/175_diageo-lbg-assurance-statement-2017.pdf/175_diageo-lbg-assurance-statement-2017.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "176_diageo-2017-20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2017/176_diageo-2017-20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-04/176_diageo-2017-20-f.pdf/176_diageo-2017-20-f.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2016",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "105_diageo_annual_report_2016_interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/105_diageo_annual_report_2016_interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/105_diageo_annual_report_2016_interactive.pdf/105_diageo_annual_report_2016_interactive.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "106_sustainability___responsibility_performance_addendum_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/106_sustainability___responsibility_performance_addendum_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/106_sustainability___responsibility_performance_addendum_2016.pdf/106_sustainability___responsibility_performance_addendum_2016.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "111_diageo_annual_report_strategic_report_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/111_diageo_annual_report_strategic_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/111_diageo_annual_report_strategic_report_2016.pdf/111_diageo_annual_report_strategic_report_2016.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "110_diageo_audit_committee_report_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/110_diageo_audit_committee_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/110_diageo_audit_committee_report_2016.pdf/110_diageo_audit_committee_report_2016.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "108_diageo_corporate_governance_report_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/108_diageo_corporate_governance_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/108_diageo_corporate_governance_report_2016.pdf/108_diageo_corporate_governance_report_2016.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "109_diageo_directors__remuneration_report_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/109_diageo_directors__remuneration_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/109_diageo_directors__remuneration_report_2016.pdf/109_diageo_directors__remuneration_report_2016.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "107_diageo-2016-form-20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/107_diageo-2016-form-20f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-04/107_diageo-2016-form-20f.pdf/107_diageo-2016-form-20f.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "1 JUL 2016 VIEW ONLINE DOWNLOAD Diageo Consumer Information Standards \u2013 Summary",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "65_dcis_ext_stake_short_version_june_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2016/65_dcis_ext_stake_short_version_june_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/65_dcis_ext_stake_short_version_june_2016.pdf/65_dcis_ext_stake_short_version_june_2016.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2015",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "7_diageo_interactive_ar2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/7_diageo_interactive_ar2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/7_diageo_interactive_ar2015.pdf/7_diageo_interactive_ar2015.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "12_diageo_sr_perf_addendum_2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/12_diageo_sr_perf_addendum_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/12_diageo_sr_perf_addendum_2015.pdf/12_diageo_sr_perf_addendum_2015.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "8_diageo_ar15_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/8_diageo_ar15_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/8_diageo_ar15_strategic_report.pdf/8_diageo_ar15_strategic_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "11_diageo_ar15_audit_committee_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/11_diageo_ar15_audit_committee_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/11_diageo_ar15_audit_committee_report.pdf/11_diageo_ar15_audit_committee_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "10_diageo_ar15_corporate_governance_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/10_diageo_ar15_corporate_governance_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/10_diageo_ar15_corporate_governance_report.pdf/10_diageo_ar15_corporate_governance_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "9_diageo_ar15_remuneration_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/9_diageo_ar15_remuneration_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/9_diageo_ar15_remuneration_report.pdf/9_diageo_ar15_remuneration_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "13_diageo_20f.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2015/13_diageo_20f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-04/13_diageo_20f.pdf/13_diageo_20f.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2014",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "14_2014_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/14_2014_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/14_2014_annual_report.pdf/14_2014_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "17_diageo_pa14-performance-addendum.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/17_diageo_pa14-performance-addendum.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/17_diageo_pa14-performance-addendum.pdf/17_diageo_pa14-performance-addendum.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "15_2014_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/15_2014_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/15_2014_strategic_report.pdf/15_2014_strategic_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "66_diageo_ar14_corporate_governance_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/66_diageo_ar14_corporate_governance_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/66_diageo_ar14_corporate_governance_report.pdf/66_diageo_ar14_corporate_governance_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "16_diageo_ar14_remuneration_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/16_diageo_ar14_remuneration_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/16_diageo_ar14_remuneration_report.pdf/16_diageo_ar14_remuneration_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "18_diageo_20f_13058-2-d74-5453594-edgarpdfnobl_website_a4.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2014/18_diageo_20f_13058-2-d74-5453594-edgarpdfnobl_website_a4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2014-04/18_diageo_20f_13058-2-d74-5453594-edgarpdfnobl_website_a4.pdf/18_diageo_20f_13058-2-d74-5453594-edgarpdfnobl_website_a4.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2013",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "19_diageo_ar_2013_lo-res_master_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2013/19_diageo_ar_2013_lo-res_master_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013/19_diageo_ar_2013_lo-res_master_final.pdf/19_diageo_ar_2013_lo-res_master_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "23_diageo_sr_web_pdf_final_3.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2013/23_diageo_sr_web_pdf_final_3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013/23_diageo_sr_web_pdf_final_3.pdf/23_diageo_sr_web_pdf_final_3.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "21_diageo_ar13_corporate_governance_report_lo-res.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2013/21_diageo_ar13_corporate_governance_report_lo-res.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013/21_diageo_ar13_corporate_governance_report_lo-res.pdf/21_diageo_ar13_corporate_governance_report_lo-res.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20_diageo_ar13_dirs_remuneration_report_lo-res.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2013/20_diageo_ar13_dirs_remuneration_report_lo-res.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013/20_diageo_ar13_dirs_remuneration_report_lo-res.pdf/20_diageo_ar13_dirs_remuneration_report_lo-res.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "22_20-f_august_2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2013/22_20-f_august_2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013/22_20-f_august_2013.pdf/22_20-f_august_2013.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "5 SEPT 2012 VIEW ONLINE DOWNLOAD Annual Report 2012 Sustainability & Responsibility Report 2012 Corporate Governance Report 2012 Directors' Remuneration Report 2012 Form 20F 2012",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "24_diageo_ar_2012_low_res.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2012/24_diageo_ar_2012_low_res.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/24_diageo_ar_2012_low_res.pdf/24_diageo_ar_2012_low_res.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "25_diageo_srr_2012_72dpi.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2012/25_diageo_srr_2012_72dpi.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/25_diageo_srr_2012_72dpi.pdf/25_diageo_srr_2012_72dpi.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "26_diageo_ar12_corporate_governance_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2012/26_diageo_ar12_corporate_governance_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/26_diageo_ar12_corporate_governance_final.pdf/26_diageo_ar12_corporate_governance_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "27_diageo_ar12_full_remuneration_report_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2012/27_diageo_ar12_full_remuneration_report_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/27_diageo_ar12_full_remuneration_report_final.pdf/27_diageo_ar12_full_remuneration_report_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "28_form_20-f_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2012/28_form_20-f_2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/28_form_20-f_2012.pdf/28_form_20-f_2012.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "9 SEPT 2011 VIEW ONLINE DOWNLOAD Annual Report 2011 Corporate Governance Report 2011 Directors' Remuneration Report 2011 Form 20-F - 2011 Sustainability and Responsibility Report 2011",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "29_diageo_annual_report_2011_final_april_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-09-09",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2011/29_diageo_annual_report_2011_final_april_2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-09-09/29_diageo_annual_report_2011_final_april_2012.pdf/29_diageo_annual_report_2011_final_april_2012.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "31_corporate_governance_report_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-09-09",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2011/31_corporate_governance_report_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-09-09/31_corporate_governance_report_final.pdf/31_corporate_governance_report_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "30_directors_remuneration_report_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-09-09",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2011/30_directors_remuneration_report_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-09-09/30_directors_remuneration_report_final.pdf/30_directors_remuneration_report_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "32_2011_form_20-f_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-09-09",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2011/32_2011_form_20-f_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-09-09/32_2011_form_20-f_final.pdf/32_2011_form_20-f_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "187_diageo-sr-report-2011_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-09-09",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2011/187_diageo-sr-report-2011_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-09-09/187_diageo-sr-report-2011_final.pdf/187_diageo-sr-report-2011_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2010 Corporate Governance Report 2010 Directors' Remuneration Report 2010 Sustainability and Responsibility Report 2010",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "33_diageo_ar10_full_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2010/33_diageo_ar10_full_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010-09-14/33_diageo_ar10_full_report.pdf/33_diageo_ar10_full_report.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "34_corporate_governance_report_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2010/34_corporate_governance_report_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010-09-14/34_corporate_governance_report_2010.pdf/34_corporate_governance_report_2010.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "35_directors_remuneration_report_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2010/35_directors_remuneration_report_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010-09-14/35_directors_remuneration_report_2010.pdf/35_directors_remuneration_report_2010.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "186_diageo_corp-cit_2010_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2010/186_diageo_corp-cit_2010_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010-09-14/186_diageo_corp-cit_2010_final.pdf/186_diageo_corp-cit_2010_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2009 Corporate governance report 2009 Sustainability and Responsibility Report 2009",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "36_diageo_ar09.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2009/36_diageo_ar09.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2009-09-14/36_diageo_ar09.pdf/36_diageo_ar09.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "42_diageo_ar09_corporate_governance.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2009/42_diageo_ar09_corporate_governance.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2009-09-14/42_diageo_ar09_corporate_governance.pdf/42_diageo_ar09_corporate_governance.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "185_diageo_corp-cit_2009_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-09-14",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/reports/2009/185_diageo_corp-cit_2009_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2009-09-14/185_diageo_corp-cit_2009_final.pdf/185_diageo_corp-cit_2009_final.pdf",
+        "content_type": [
+          "financial-filings",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

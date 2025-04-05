@@ -1,0 +1,22 @@
+[
+  {
+    "event_name": "Capital Markets Day 2024, Webcast",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://players.brightcove.net/2335723898001/experience_66ebd9f05301347ddf788644/share.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024-04/share.html/share.html",
+        "content_type": [
+          "presentations",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

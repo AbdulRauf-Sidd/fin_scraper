@@ -398,6 +398,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan joins forces with COMET to expand its gut-friendly fibre offering with natural, upcycled fibre Arrabina® Trade Taste & Wellbeing Givaudan joins forces with COMET to expand its gut-friendly fibre offering with natural, upcycled fibre Arrabina®",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -455,6 +456,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan opens new space in Paris for its Digital&nbsp;Factory Corporate Givaudan opens new space in Paris for its Digital Factory 08",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -778,6 +781,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan receives recognition for its long-standing equal pay practices Corporate Givaudan receives recognition for its long-standing equal pay practices 01 May 2024 - 07:30 C | Givaudan achieves Fair-ON-Pay certification in multiple sites globally, a recognition of its commitment to inclusion",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -892,6 +896,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit 2024 Annual General Meeting Corporate Financ",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -1182,6 +1188,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan ned ‘Enterprising Leader’ at 2023 RE100 Awards Corporate Sustainability Givaudan ned ‘Enterprising Leader’ at 2023 RE100 Awards 20 Sep 2023 - 08:30 C",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -1250,6 +1257,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan reveals five consumer trends to help turn market disruption into opportunities for food and beverages Trade Taste & Wellbeing Givaudan reveals five consumer trends to help turn market disruption into opportunities for food and beverages 31 Aug 2023 - 09:00 C",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -1574,6 +1583,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan celebrates 85 years of creativity in Haute Parfumerie and offers a glimpse into the future Trade Fragrance & Beauty Givaudan celebrates 85 years of creativity in Haute Parfumerie and offers a glimpse into the future 06 Mar 2023 - 09:00 CET",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -1650,6 +1660,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan recognised for climate and water leadership with fourth consecutive CDP double A Corporate Sustainability Givaudan recognised for climate and water leadership with fourth consecutive CDP double",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -1889,6 +1901,7 @@
         "record_type": "download"
       },
       {
+<<<<<<< HEAD
         "file_name": "special-chapter-02.pdf",
         "file_type": "pdf",
         "published_date": "2022",
@@ -2030,6 +2043,13 @@
         "published_date": "2022",
         "source_url": "http://www.adb.org/sites/default/files/publication/27726/special-chapter-02.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022/special-chapter-02.pdf/special-chapter-02.pdf",
+=======
+        "file_name": "world-population-prospects-2019.html",
+        "file_type": "html",
+        "published_date": "2022",
+        "source_url": "http://www.un.org/development/desa/en/news/population/world-population-prospects-2019.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022/world-population-prospects-2019.html/world-population-prospects-2019.html",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
         "content_type": [
           "news"
         ],
@@ -2382,6 +2402,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan acquires 48% of Nanovetores Group Corporate Fragrance & Beauty Givaudan acquires 48% of Nanovetores Group 26 Jan 2022 - 17:45 CET",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -2459,6 +2480,9 @@
   },
   {
     "event_name": "visit Givaudan opens Nordic Experience Centre in Sweden Trade Taste & Wellbeing Givaudan opens Nordic Experience Centre in Sweden 18 Nov 2021 - 14:30 CET | Givaudan today reaffirmed its commitment to customers and partners in the Nordic region with the opening of the Givaudan Nordic Experience Centre in Malmö, Sweden",
+=======
+    "event_name": "visit Givaudan opens Nordic Experience Centre in Sweden Trade Taste & Wellbeing Givaudan opens Nordic Experience Centre in Sweden 18 Nov 2021 - 14:30 CET | Givaudan today reaffirmed its commitment to customers and partners in the Nordic region with the opening of the Givaudan Nordic Experience Centre in Malm\u00f6, Sweden",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "GIVN",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2762,6 +2786,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan joins Animal-Free Safety Assessment Collaboration to advance chemical safety without animal ting globally Trade Fragrance & Beauty Givaudan joins Animal-Free Safety Assessment Collaboration to advance chemical safety without animal ting globally 17 Sep 2021 - 10:30 C | Givaudan is taking its commitment to the next level by joining the Animal-Free Safety Assessment Collaboration",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -2896,6 +2921,9 @@
   },
   {
     "event_name": "visit Givaudan acquires 25% of b.kolormakeup & skincare’s shares Corporate Fragrance & Beauty Givaudan acquires 25% of b.kolormakeup & skincare’s shares 01 Jul 2021 - 06:30 C | Givaudan announces that it has acquired 25% of b.kolormakeup & skincare’s shares, an innovative Italian company specialised in developing and producing end to end products in make-up and skin care for Consumer Packaged Goods (CPG) and luxury customers",
+=======
+    "event_name": "visit Givaudan acquires 25% of b.kolormakeup & skincare\u2019s shares Corporate Fragrance & Beauty Givaudan acquires 25% of b.kolormakeup & skincare\u2019s shares 01 Jul 2021 - 06:30 C | Givaudan announces that it has acquired 25% of b.kolormakeup & skincare\u2019s shares, an innovative Italian company specialised in developing and producing end to end products in make-up and skin care for Consumer Packaged Goods (CPG) and luxury customers",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "GIVN",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -3143,6 +3171,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan draws inspiration from nature with Phytogaia™ and Thalassogaia™ Trade Fragrance & Beauty Givaudan draws inspiration from nature with Phytogaia™ and Thalassogaia™ 27 Jul 2021 - 09:00 C |",
     "equity_ticker": "GIVN",
     "geography": "European",
@@ -3676,6 +3705,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan reorganises its Taste & Wellbeing product portfolio around Food Experience spaces Trade Taste & Wellbeing Givaudan reorganises its Taste & Wellbeing product portfolio around Food Experience spaces",
     "equity_ticker": "GIVN",
     "geography": "European",

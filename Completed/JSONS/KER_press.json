@@ -110,17 +110,6 @@
           "news"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "kering-was-included-in-the-cdp-triple-a-list-climate-water-forests-in-2024-for-the-2nd-year-in-a-row.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2024-03",
-        "source_url": "https://www.kering.com/en/news/kering-was-included-in-the-cdp-triple-a-list-climate-water-forests-in-2024-for-the-2nd-year-in-a-row/",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2024-03/kering-was-included-in-the-cdp-triple-a-list-climate-water-forests-in-2024-for-the-2nd-year-in-a-row.jpeg/kering-was-included-in-the-cdp-triple-a-list-climate-water-forests-in-2024-for-the-2nd-year-in-a-row.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
       }
     ]
   },
@@ -217,17 +206,6 @@
           "news"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "kering-holds-the-first-edition-of-its-kering-generation-award-x-saudi-arabia.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2025",
-        "source_url": "https://www.kering.com/en/news/kering-holds-the-first-edition-of-its-kering-generation-award-x-saudi-arabia/",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2025/kering-holds-the-first-edition-of-its-kering-generation-award-x-saudi-arabia.jpeg/kering-holds-the-first-edition-of-its-kering-generation-award-x-saudi-arabia.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
       }
     ]
   },
@@ -242,18 +220,6 @@
         "file_type": "jpeg",
         "published_date": "2025",
         "source_url": "https://www.kering.com/en/news/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2025/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china.jpeg/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china.jpeg",
-        "content_type": [
-          "news",
-          "announcement"
-        ],
-        "record_type": "screenshot"
-      },
-      {
-        "file_name": "kering-announces-the-4th-edition-of-its-kering-generation-award-in-china.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2025",
-        "source_url": "https://www.kering.com/en/news/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china/",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2025/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china.jpeg/kering-announces-the-4th-edition-of-its-kering-generation-award-in-china.jpeg",
         "content_type": [
           "news",
@@ -394,25 +360,6 @@
           "news"
         ],
         "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Published on 11/14/2024 Bond issue for a total ount of eur 750 million see more",
-    "equity_ticker": "KER",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Press_release_Bond_issue_November_2024_0e62968c7f.pdf",
-        "file_type": "pdf",
-        "published_date": "2024-11-14",
-        "source_url": "https://www.kering.com/api/download-file/?path=Press_release_Bond_issue_November_2024_0e62968c7f.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2024-11-14/Press_release_Bond_issue_November_2024_0e62968c7f.pdf/Press_release_Bond_issue_November_2024_0e62968c7f.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -2362,6 +2309,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Published on 04/29/2022 2022 Annual General Meeting: approval of all resolutions and changes in the membership of Kering’s Board of Directors see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -2382,6 +2330,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Published on 04/28/2022 Dual-tranche bond issue for a total ount of 1.5 billion euros see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -4345,6 +4295,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Published on 09/10/2019 Kering to provide 14 weeks of paid baby leave to all parents of a new child see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -4481,6 +4432,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Published on 06/28/2019 Focus on the Women In Motion LAB see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -4764,25 +4717,6 @@
         "published_date": "2018-03",
         "source_url": "https://www.kering.com/api/download-file/?path=An_outstanding_2018_performance_e318bb8ee2.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2018-03/An_outstanding_2018_performance_e318bb8ee2.pdf/An_outstanding_2018_performance_e318bb8ee2.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Published on 01/25/2019 Tax Invigation in Italy see more",
-    "equity_ticker": "KER",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Tax_Investigation_in_Italy_be72512e79.pdf",
-        "file_type": "pdf",
-        "published_date": "2019",
-        "source_url": "https://www.kering.com/api/download-file/?path=Tax_Investigation_in_Italy_be72512e79.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2019/Tax_Investigation_in_Italy_be72512e79.pdf/Tax_Investigation_in_Italy_be72512e79.pdf",
         "content_type": [
           "news"
         ],
@@ -5949,6 +5883,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Published on 10/12/2017 Kering inaugure la nouvelle Tannerie de Périers see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -5968,6 +5903,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Published on 10/11/2017 Winners of the 2017 Kering award for sustainable fashion see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -6351,6 +6288,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Published on 05/12/2017 Kering and UniFrance join forces to strengthen the impact of Women in Motion throughout the world see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -6371,6 +6309,9 @@
   },
   {
     "event_name": "Published on 05/03/2017 The 2017 heritage days at 40 rue de Sèvres: an exceptional encounter with history, art & creation see more",
+=======
+    "event_name": "Published on 05/03/2017 The 2017 heritage days at 40 rue de S\u00e8vres: an exceptional encounter with history, art & creation see more",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "KER",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -6729,25 +6670,6 @@
         "published_date": "2016-11-15",
         "source_url": "https://www.kering.com/api/download-file/?path=kering_EN_presse_communique_london_college_fashion_reveal_winners_2016_award_sustainable_fashion_20161115_pdf_a2472062b9.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2016-11-15/kering_EN_presse_communique_london_college_fashion_reveal_winners_2016_award_sustainable_fashion_20161115_pdf_a2472062b9.pdf/kering_EN_presse_communique_london_college_fashion_reveal_winners_2016_award_sustainable_fashion_20161115_pdf_a2472062b9.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Published on 11/10/2016 PUMA - Continued Sales Growth and Further Improvement of Operating Result in Third Quarter see more",
-    "equity_ticker": "KER",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "kering_EN_presse_communique_puma_continued_sales_growth_further_improvement_operating_result_in_third_quarter_20161110_pdf_53cb0cefb3.pdf",
-        "file_type": "pdf",
-        "published_date": "2016",
-        "source_url": "https://www.kering.com/api/download-file/?path=kering_EN_presse_communique_puma_continued_sales_growth_further_improvement_operating_result_in_third_quarter_20161110_pdf_53cb0cefb3.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2016/kering_EN_presse_communique_puma_continued_sales_growth_further_improvement_operating_result_in_third_quarter_20161110_pdf_53cb0cefb3.pdf/kering_EN_presse_communique_puma_continued_sales_growth_further_improvement_operating_result_in_third_quarter_20161110_pdf_53cb0cefb3.pdf",
         "content_type": [
           "news"
         ],
@@ -7495,45 +7417,6 @@
         "published_date": "2016",
         "source_url": "https://www.kering.com/api/download-file/?path=kering_EN_presse_communique_recognised_as_one_global_100_most_sustainable_corporations_in_world_by_corporate_knights_20160121_pdf_fff8d5d728.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2016/kering_EN_presse_communique_recognised_as_one_global_100_most_sustainable_corporations_in_world_by_corporate_knights_20160121_pdf_fff8d5d728.pdf/kering_EN_presse_communique_recognised_as_one_global_100_most_sustainable_corporations_in_world_by_corporate_knights_20160121_pdf_fff8d5d728.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Published on 01/20/2016 Kering and Sundance Institute announce a collaboration to support women in the film industry see more",
-    "equity_ticker": "KER",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "kering_EN_presse_communique_sundance_institute_announce_collaboration_support_women_in_film_industry_20160120_pdf_72b083ebef.pdf",
-        "file_type": "pdf",
-        "published_date": "2016",
-        "source_url": "https://www.kering.com/api/download-file/?path=kering_EN_presse_communique_sundance_institute_announce_collaboration_support_women_in_film_industry_20160120_pdf_72b083ebef.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2016/kering_EN_presse_communique_sundance_institute_announce_collaboration_support_women_in_film_industry_20160120_pdf_72b083ebef.pdf/kering_EN_presse_communique_sundance_institute_announce_collaboration_support_women_in_film_industry_20160120_pdf_72b083ebef.pdf",
-        "content_type": [
-          "news",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Published on 12/30/2015 Kering closes the sale of the Italian luxury shoemaker Sergio Rossi see more",
-    "equity_ticker": "KER",
-    "geography": "European",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "kering_EN_presse_communique_closes_sale_italian_luxury_shoemaker_sergio_rossi_20151230_pdf_a6e650abaa.pdf",
-        "file_type": "pdf",
-        "published_date": "2015-12-30",
-        "source_url": "https://www.kering.com/api/download-file/?path=kering_EN_presse_communique_closes_sale_italian_luxury_shoemaker_sergio_rossi_20151230_pdf_a6e650abaa.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KER/2015-12-30/kering_EN_presse_communique_closes_sale_italian_luxury_shoemaker_sergio_rossi_20151230_pdf_a6e650abaa.pdf/kering_EN_presse_communique_closes_sale_italian_luxury_shoemaker_sergio_rossi_20151230_pdf_a6e650abaa.pdf",
         "content_type": [
           "news"
         ],
@@ -10690,6 +10573,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Published on 07/18/2012 Ad Hoc Release Pursuant to § 15 WpHG see more",
     "equity_ticker": "KER",
     "geography": "European",
@@ -14879,6 +14763,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Published on 02/27/2012 Yves Saint Laurent announces the departure of Creative Director Stefano Pilati see more",
     "equity_ticker": "KER",
     "geography": "European",

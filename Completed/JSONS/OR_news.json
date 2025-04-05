@@ -605,6 +605,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "International L'Oréal Groupe unveils Airlight Pro, a breakthrough professional-grade hair drying tool that cares for the hair and for the planet at CES® 2024 News release 10 January 2024 CEO Nicolas Hieronimus Revealed the CES® 2024 Innovation Award-Winning Technology at the Opening Keynote",
     "equity_ticker": "OR",
     "geography": "European",
@@ -665,6 +666,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Sales Sales at 30 September 2023 News release 19 O",
     "equity_ticker": "OR",
     "geography": "European",
@@ -1208,6 +1211,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Sales First Quarter 2022 Sales News release 19 Apr",
     "equity_ticker": "OR",
     "geography": "European",
@@ -1257,6 +1261,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Annual General Meeting Annual General Meeting to b",
     "equity_ticker": "OR",
     "geography": "European",
@@ -1815,6 +1821,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Annual General Meeting Annual General Meeting and",
     "equity_ticker": "OR",
     "geography": "European",
@@ -1848,6 +1855,9 @@
   },
   {
     "event_name": "Acquisitions L’Oréal has finalised the sale of Roger & Gallet to Impala News release",
+=======
+    "event_name": "Acquisitions L\u2019Or\u00e9al has finalised the sale of Roger & Gallet to Impala News release",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "OR",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2405,38 +2415,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OR/2019-04-16/LOREAL_Sales_Q12019_EN.pdf/LOREAL_Sales_Q12019_EN.pdf",
         "content_type": [
           "news"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Annual General Meeting Annual General Meeting of 1",
-    "equity_ticker": "OR",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "annual-general-meeting-18-april-2019-2018-registration-document.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2019-03-14",
-        "source_url": "https://www.loreal-finance.com/eng/news-release/annual-general-meeting-18-april-2019-2018-registration-document",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OR/2019-03-14/annual-general-meeting-18-april-2019-2018-registration-document.jpeg/annual-general-meeting-18-april-2019-2018-registration-document.jpeg",
-        "content_type": [
-          "news",
-          "annual-general-meeting"
-        ],
-        "record_type": "screenshot"
-      },
-      {
-        "file_name": "LOREAL_Communique_DDR_EN_2019_03_14.pdf",
-        "file_type": "pdf",
-        "published_date": "2019-03-14",
-        "source_url": "https://www.loreal-finance.com/system/files/publication-content/documents/LOREAL_Communique_DDR_EN_2019_03_14.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OR/2019-03-14/LOREAL_Communique_DDR_EN_2019_03_14.pdf/LOREAL_Communique_DDR_EN_2019_03_14.pdf",
-        "content_type": [
-          "news",
-          "annual-general-meeting"
         ],
         "record_type": "download"
       }
@@ -3053,6 +3031,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Acquisitions L'Oréal and Armani renew their partnership in beauty News release 22 March 2018 Clichy, Milan - Thursday 22 March 2018",
     "equity_ticker": "OR",
     "geography": "European",
@@ -3206,6 +3185,9 @@
   },
   {
     "event_name": "Governance The passing of Mrs Liliane Bettencourt News release 21 September 2017 Clichy, 21 September 2017 Message from Jean-Paul Agon, Chairman and CEO of L’Oréal Group I have just learned with great sadness the passing of Mrs Liliane Bettencourt, daughter of Eugène Schueller, founder of the L'Oréal Group",
+=======
+    "event_name": "Governance The passing of Mrs Liliane Bettencourt News release 21 September 2017 Clichy, 21 September 2017 Message from Jean-Paul Agon, Chairman and CEO of L\u2019Or\u00e9al Group I have just learned with great sadness the passing of Mrs Liliane Bettencourt, daughter of Eug\u00e8ne Schueller, founder of the L'Or\u00e9al Group",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "OR",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -3649,6 +3631,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Acquisitions L'Oréal signs an agreement to acquire Atelier Cologne News release 30 June 2016 Clichy, 30 June 2016 - Today, L'Oréal announced the signature of an agreement to acquire Atelier Cologne",
     "equity_ticker": "OR",
     "geography": "European",
@@ -3679,6 +3662,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Annual General Meeting Annual General Meeting and",
     "equity_ticker": "OR",
     "geography": "European",
@@ -6673,6 +6658,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Sales Sales at September 30 2010 News release 21",
     "equity_ticker": "OR",
     "geography": "European",
@@ -7287,6 +7273,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Results 2008 Annual Results in a difficult envir",
     "equity_ticker": "OR",
     "geography": "European",

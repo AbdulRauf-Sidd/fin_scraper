@@ -338,6 +338,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès unveils its newly renovated store in Shenzhen’s MixC shopping mall (China) 10.23.2024 - | 10.23.2024",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -411,6 +412,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "2024 Half-year Results 1.32 MB 07.25.2024 - | 1.32 MB | 07.25.2024",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -694,6 +697,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès strengthens its presence in Tokyo with a new Azabudai Hills store 02.27.2024 - | 02.27.2024",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -711,6 +715,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "2023 full-year results presentation (e-accessible) 5.87 MB 02.09.2024 | 5.87 MB | 02.09.2024",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -1056,6 +1062,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "2023 Half-year Results Presentation (e-accessible) 5.57 MB 07.28.2023 | 5.57 MB | 07.28.2023",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -1135,6 +1142,9 @@
   },
   {
     "event_name": "Hermès expands its textile site in Pierre-Bénite (Rhône, France), cradle of its regional division of excellence",
+=======
+    "event_name": "Herm\u00e8s expands its textile site in Pierre-B\u00e9nite (Rh\u00f4ne, France), cradle of its regional division of excellence",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1422,6 +1432,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "2022 Universal Registration Document (2022 URD, including the annual financial report) (e-accessible) 7.86 MB 03.24.2023 - | 7.86 MB | 03.24.2023",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -1535,6 +1546,9 @@
   },
   {
     "event_name": "Hermès reinforces its presence in Nanjing with the opening of a larger store in the Deji Plaza 364.56 KB 01.06.2023 | 364.56 KB | 01.06.2023",
+=======
+    "event_name": "Herm\u00e8s reinforces its presence in Nanjing with the opening of a larger store in the Deji Plaza 364.56 KB 01.06.2023 | 364.56 KB | 01.06.2023",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1782,6 +1796,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès opens its very first store in Pangyo, the advanced technology hub of South Korea 250.93 KB 10.07.2022 | 250.93 KB | 10.07.2022",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -1875,6 +1890,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "2022 half year report (e-accessible) 1.1 MB 07.29.2022 - | 1.1 MB | 07.29.2022",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -2145,6 +2162,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "2021 Universal Registration Document (2021 URD, including the annual financial report) (e-accessible) 6.99 MB 03.25.2022 - | 6.99 MB | 03.25.2022",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -2259,6 +2277,9 @@
   },
   {
     "event_name": "Hermès Hong Kong Pacific Place store reopening 626.64 KB 01.14.2022 - | 626.64",
+=======
+    "event_name": "Herme\u0300s Hong Kong Pacific Place store reopening 626.64 KB 01.14.2022 - | 626.64",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2500,6 +2521,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès continues to inv in employment and its production capacities, laying the foundation stone for the Maroquinerie de la Sormonne (Ardennes) 233.58 KB 09.24.2021 | 233.58 KB",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -2571,6 +2593,9 @@
   },
   {
     "event_name": "Hermès opens its 19th leather workshop in Saint-Vincent-de-Paul (Gironde) 295.74 KB 09.10.2021 | 295.74 KB | 09.10.2021",
+=======
+    "event_name": "Herm\u00e8s opens its 19th leather workshop in Saint-Vincent-de-Paul (Gironde) 295.74 KB 09.10.2021 | 295.74 KB | 09.10.2021",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2856,6 +2881,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès transforms its China World Store in Beijing 326.66 KB 04.29.2021 | 326.66 KB | 04.29.2021",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -2944,6 +2970,9 @@
   },
   {
     "event_name": "Hermès opens its newly renovated store on rue de Sèvres in Paris 2.76 MB 03.04.2021 | 2.76 MB | 03.04.2021",
+=======
+    "event_name": "Herm\u00e8s opens its newly renovated store on rue de S\u00e8vres in Paris 2.76 MB 03.04.2021 | 2.76 MB | 03.04.2021",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -3202,6 +3231,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Hermès unveils its first flagship digital store in Saudi Arabia and the United Arab Emirates 210.43 KB 10.15.2020 | 210.43 KB | 10.15.2020",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -5429,6 +5459,9 @@
   },
   {
     "event_name": "Hermès continues to inv in its production capacity and announces the creation of 250 jobs in Auvergne, France 255.98 KB 09.16.2020 | 255.98 KB | 09.16.2020",
+=======
+    "event_name": "Herm\u00e8s continues to inv in its production capacity and announces the creation of 250 jobs in Auvergne, France 255.98 KB 09.16.2020 | 255.98 KB | 09.16.2020",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",

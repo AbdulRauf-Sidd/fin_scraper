@@ -15,6 +15,7 @@
           "financial-filing",
           "annual-report"
         ]
+<<<<<<< HEAD
       },
       {
         "file_name": "Mowi-Integrated-Annual-Report-2024.pdf",
@@ -3714,6 +3715,8 @@
           "financial-filing",
           "presentation"
         ]
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
       }
     ]
   },
@@ -3739,6 +3742,49 @@
     ]
   },
   {
+<<<<<<< HEAD
+=======
+    "event_name": "Q1 2024 Report 652 KB Presentation 2",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024",
+        "source_url": "https://players.brightcove.net/2335723898001/experience_6634eaa6bea9f77a1b4a9a8c/share.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "reports"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://players.brightcove.net/2335723898001/experience_6729dd5ce14cd3522e761e17/share.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024-04/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "reports"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2023",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -3760,6 +3806,29 @@
     ]
   },
   {
+<<<<<<< HEAD
+=======
+    "event_name": "Quarter 2023",
+    "equity_ticker": "MOWI",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "share.html",
+        "file_type": "html",
+        "published_date": "2023",
+        "source_url": "https://players.brightcove.net/2335723898001/experience_6458dc227926750025951583/share.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2023/share.html/share.html",
+        "content_type": [
+          "webcast",
+          "reports"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2022",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -5284,70 +5353,6 @@
         "published_date": "2013",
         "source_url": "http://hugin.info/209/R/1724036/574609.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/574609.pdf/574609.pdf",
-        "content_type": [
-          "reports",
-          "presentation"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Quarter 2013",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "582554.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1737495/582554.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/582554.pdf/582554.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "582555.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1737495/582555.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/582555.pdf/582555.pdf",
-        "content_type": [
-          "reports",
-          "presentation"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q4 2013 Report 971 KB Presentation 5",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "594923.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1759213/594923.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/594923.pdf/594923.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "594924.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1759213/594924.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/594924.pdf/594924.pdf",
         "content_type": [
           "reports",
           "presentation"

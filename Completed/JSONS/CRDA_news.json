@@ -1881,6 +1881,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "CrodaTherm helps COVID19 nurses in The Netherlands CrodaTherm™ helps reduce heat strain experienced by COVID-19 nurses in The Netherlands",
     "equity_ticker": "CRDA",
     "geography": "European",
@@ -3927,6 +3928,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Null",
     "equity_ticker": "CRDA",
     "geography": "European",
@@ -5382,6 +5385,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Five year invment plan in Brazil Croda Brazil, part of Croda International Plc, who make speciality chemical ingredients that enhance everyday consumer and industrial products, has just announced the opening of a new distribution",
     "equity_ticker": "CRDA",
     "geography": "European",
@@ -5710,6 +5714,9 @@
   },
   {
     "event_name": "Striving for Global Manufacturing Excellence Croda Inc proudly announces that its manufacturing sites in New Castle, Delaware and Mill Hall, Pennsylvania have been awarded the EFfCI’s (The European Federation for Cosmetic Ingredients)",
+=======
+    "event_name": "Striving for Global Manufacturing Excellence Croda Inc proudly announces that its manufacturing sites in New Castle, Delaware and Mill Hall, Pennsylvania have been awarded the EFfCI\u2019s (The European Federation for Cosmetic Ingredients)",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "CRDA",
     "geography": "European",
     "periodicity": "non-periodic",

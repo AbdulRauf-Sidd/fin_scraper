@@ -426,86 +426,6 @@
     ]
   },
   {
-    "event_name": "visit Bonds issue: Givaudan announces the successful placement of EUR 500 million of senior debt Corporate Financial Bonds issue: Givaudan announces the successful placement of EUR 500 million of senior debt 21 Nov 2023 - 17:30 CET | Givaudan announces the successful placement of EUR 500 million of senior debt",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "bonds-issue-november.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2023",
-        "source_url": "https://www.givaudan.com/media/media-releases/2023/bonds-issue-november",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023/bonds-issue-november.jpeg/bonds-issue-november.jpeg",
-        "content_type": [
-          "publication",
-          "announcement"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit Bonds issue: Givaudan announces the issue of two Swiss francs domic bonds Bonds issue: Givaudan announces the issue of two Swiss francs domic bonds 27 Oct 2016 - 17:02 C | Givaudan SA announces today the issue of two Swiss Francs straight bonds of respectively 100,000,000 CHF and CHF 200,000,000 CHF in the Swiss franc domic market",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "bonds-issue-givaudan-announces-issue-two-swiss-francs-domestic-bonds.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2016-10",
-        "source_url": "https://www.givaudan.com/bonds-issue-givaudan-announces-issue-two-swiss-francs-domestic-bonds",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2016-10/bonds-issue-givaudan-announces-issue-two-swiss-francs-domestic-bonds.jpeg/bonds-issue-givaudan-announces-issue-two-swiss-francs-domestic-bonds.jpeg",
-        "content_type": [
-          "publication",
-          "announcement"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit Bonds issue: Givaudan announces the successful placement of CHF 250 mln of Swiss franc bonds Corporate Financial Bonds issue: Givaudan announces the successful placement of CHF 250 mln of Swiss franc bonds 08 Nov 2023 - 17:30 CET | Givaudan today announces the successful placement of CHF 250 million straight bonds in the domic market",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "bonds-issue.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2023",
-        "source_url": "https://www.givaudan.com/media/media-releases/2023/bonds-issue",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023/bonds-issue.jpeg/bonds-issue.jpeg",
-        "content_type": [
-          "publication",
-          "announcement"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit Bonds issue: Givaudan announces the issue of two Swiss franc domic bonds Bonds issue: Givaudan announces the issue of two Swiss franc domic bonds 13 Mar 2018 - 16:22 CET | Givaudan SA announces today the issue of two Swiss franc straight bonds of respectively CHF 150,000,000 and CHF 200,000,000 in the Swiss franc domic market",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "bonds-issue-givaudan-announces-issue-two-swiss-franc-domestic-bonds.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2018-03-05",
-        "source_url": "https://www.givaudan.com/media/media-releases/2018/bonds-issue-givaudan-announces-issue-two-swiss-franc-domestic-bonds",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-03-05/bonds-issue-givaudan-announces-issue-two-swiss-franc-domestic-bonds.jpeg/bonds-issue-givaudan-announces-issue-two-swiss-franc-domestic-bonds.jpeg",
-        "content_type": [
-          "publication",
-          "announcement"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "visit Givaudan recognised for global supply chain leadership in lat CDP Supplier Engagement Leaderboard Corporate Sustainability Givaudan recognised for global supply chain leadership in lat CDP Supplier Engagement Leaderboard 10 Feb 2022 - 18:00 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -840,6 +760,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan secures fifth consecutive CDP Double A on climate action and water security Corporate Sustainability Givaudan secures fifth consecutive CDP Double A on climate action and water security",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -911,6 +832,9 @@
   },
   {
     "event_name": "visit Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June 26 Jun 2018 - 07:24 C | Givaudan today announced the tender offer in cash for all remaining outstanding shares of Naturex will open on 28 June, following clearance of the offer by the French markets regulator Autorité des marchés financiers (F)",
+=======
+    "event_name": "visit Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June 26 Jun 2018 - 07:24 C | Givaudan today announced the tender offer in cash for all remaining outstanding shares of Naturex will open on 28 June, following clearance of the offer by the French markets regulator Autorit\u00e9 des march\u00e9s financiers (F)",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1151,84 +1075,6 @@
         "published_date": "2020",
         "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-awarded-platinum-medal-ecovadis-corporate-social-responsibility",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-awarded-platinum-medal-ecovadis-corporate-social-responsibility.jpeg/givaudan-awarded-platinum-medal-ecovadis-corporate-social-responsibility.jpeg",
-        "content_type": [
-          "publication"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit Givaudan signs WBCSD CEO Guide to Human Rights Corporate Sustainability Givaudan signs WBCSD CEO Guide to Human Rights 28 Oct 2020 - 17:30 CET",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "givaudan-signs-wbcsd-ceo-guide-human-rights.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2020",
-        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-signs-wbcsd-ceo-guide-human-rights",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-signs-wbcsd-ceo-guide-human-rights.jpeg/givaudan-signs-wbcsd-ceo-guide-human-rights.jpeg",
-        "content_type": [
-          "publication"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit 2019 Annual General Meeting 2019 Annual Gene",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "2019-annual-general-meeting.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2019-03-28",
-        "source_url": "https://www.givaudan.com/media/media-releases/2019/2019-annual-general-meeting",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-03-28/2019-annual-general-meeting.jpeg/2019-annual-general-meeting.jpeg",
-        "content_type": [
-          "annual-general-meeting",
-          "publication"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit 2018 Annual General Meeting 2018 Annual Gene",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "2018-annual-general-meeting.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2018-03-22",
-        "source_url": "https://www.givaudan.com/media/media-releases/2018/2018-annual-general-meeting",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-03-22/2018-annual-general-meeting.jpeg/2018-annual-general-meeting.jpeg",
-        "content_type": [
-          "annual-general-meeting",
-          "publication"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "visit Givaudan appoints two new Executive Committee members Givaudan appoints two new Executive Committee members 16 Oct 2015 - 06:55 C",
-    "equity_ticker": "GIVN",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "givaudan-appoints-two-new-executive-committee-members.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2015-10-05",
-        "source_url": "https://www.givaudan.com/media/media-releases/2015/givaudan-appoints-two-new-executive-committee-members",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2015-10-05/givaudan-appoints-two-new-executive-committee-members.jpeg/givaudan-appoints-two-new-executive-committee-members.jpeg",
         "content_type": [
           "publication"
         ],
@@ -1621,6 +1467,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan completes acquisition of Nutrition Division of Centroflora Givaudan completes acquisition of Nutrition Division of Centroflora",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -1698,6 +1545,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan announces changes to Executive Committee Givaudan announces changes to Executive Committee 21",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2005,6 +1854,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan strengthens global innovation ecosystem with opening of new flagship Innovation Centre in Switzerland Givaudan strengthens global innovation ecosystem with opening of new flagship Innovation Centre in Switzerland 17 Jun 2019 - 06:00 C |",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2062,6 +1912,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan opens new Flavours technical and commercial centre in Casablanca Givaudan opens new Flavours technical and commercial centre in Casablanca",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2399,6 +2251,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan rebrands cosmetic business as ‘Active Beauty’ Givaudan rebrands cosmetic business as ‘Active Beauty’ 06",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2494,6 +2347,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan announces diviture of processed and grated cheese business Corporate Taste & Wellbeing Givaudan announces diviture of processed and grated cheese business 13 May 2020 - 06:30 C | Givaudan today announced that it has entered into an agreement to div its processed and grated cheese business to St. Paul Group, a cheese specialist with premises in Belgium and the Netherlands",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2784,6 +2639,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan introduces Sourcing4Good progrme Corporate Sustainability Givaudan introduces Sourcing4Good progrme 22 Apr 2021 - 06:30 C",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2899,6 +2755,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan completes the acquisition of Drom Givaudan completes the acquisition of Drom 06 Sep 2019 - 06:30 C | Givaudan, the global leader in flavours and fragrances, today announced that it has completed the acquisition of Drom",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -3168,6 +3026,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan celebrates ten years of ethical sourcing Givaudan celebrates ten years of ethical sourcing 20 Jan 2016 - 10:29 CET | Givaudan is proudly marking a milone in its journey to sustainable natural ingredients with an event celebrating ‘Ten years of Ethical Sourcing’ in Paris from 18 to 22 January 2016",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -3263,6 +3122,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan to acquire Ungerer Corporate Financial Taste & Wellbeing Givaudan to acquire Ungerer 08 Nov 2019 - 06:30 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -3598,6 +3459,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "visit Givaudan completes acquisition of Vika B.V. Givaudan completes acquisition of Vika B.V. 31 Aug 2017 - 10:37 C",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -3794,6 +3656,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan to implement bitious science-based targets for greenhouse gas reduction Givaudan to implement bitious science-based targets for greenhouse gas reduction 13 Sep 2017 - 08:42 C | Givaudan will implement bitious science-based targets to ensure sustainable long-term growth by committing to reduce absolute Scope 1 and 2 greenhouse gas (GHG) emissions by 30% between 2015 and 2030",
     "equity_ticker": "GIVN",
     "geography": "european",

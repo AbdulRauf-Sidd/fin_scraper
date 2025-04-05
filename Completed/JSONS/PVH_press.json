@@ -431,46 +431,6 @@
     ]
   },
   {
-    "event_name": "Q4 2024",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2023-Fourth-Quarter-Revenue-and-Earnings-Above-Guidance-and-Provides-2024-Outlook.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2024-04-01",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2023-Fourth-Quarter-Revenue-and-Earnings-Above-Guidance-and-Provides-2024-Outlook",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2024-04-01/PVH-Corp-Reports-2023-Fourth-Quarter-Revenue-and-Earnings-Above-Guidance-and-Provides-2024-Outlook.jpeg/PVH-Corp-Reports-2023-Fourth-Quarter-Revenue-and-Earnings-Above-Guidance-and-Provides-2024-Outlook.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q4 2023",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2023-Earnings-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2024-03-18",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2023-Earnings-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2024-03-18/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2023-Earnings-Results.jpeg/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-YearEnd-2023-Earnings-Results.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Quarterly 2024",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -803,26 +763,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2023-03-27/PVH-Corp-Reports-Strong-2022-Fourth-Quarter-Results-Above-Guidance-2023-Outlook-Reflects-Strong-EPS.jpeg/PVH-Corp-Reports-Strong-2022-Fourth-Quarter-Results-Above-Guidance-2023-Outlook-Reflects-Strong-EPS.jpeg",
         "content_type": [
           "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "FY 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-Year-End-2022-Earnings-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2023-03-13",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-Year-End-2022-Earnings-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2023-03-13/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-Year-End-2022-Earnings-Results.jpeg/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-and-Year-End-2022-Earnings-Results.jpeg",
-        "content_type": [
-          "announcement",
           "press-release"
         ],
         "record_type": "screenshot"
@@ -1231,26 +1171,6 @@
     ]
   },
   {
-    "event_name": "FY 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2022-First-Quarter-Results-Above-Guidance.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2001-06-01",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2022-First-Quarter-Results-Above-Guidance",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2001-06-01/PVH-Corp-Reports-2022-First-Quarter-Results-Above-Guidance.jpeg/PVH-Corp-Reports-2022-First-Quarter-Results-Above-Guidance.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "The PVH Foundation Makes Global Invments to plify Awareness and Access in Fashion The PVH Foundation will inv $10 million USD to create opportunities for underserved and underrepresented communities NEW YORK --(BUSINESS",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -1562,66 +1482,6 @@
         "published_date": "2021-03-21",
         "source_url": "https://www.pvh.com/news/press-releases/Manny-Chirico-to-Retire-From-PVH-Corp-Board-of-Directors-Henry-Nasella-to-Succeed-Chirico-as-Chairma",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2021-03-21/Manny-Chirico-to-Retire-From-PVH-Corp-Board-of-Directors-Henry-Nasella-to-Succeed-Chirico-as-Chairma.jpeg/Manny-Chirico-to-Retire-From-PVH-Corp-Board-of-Directors-Henry-Nasella-to-Succeed-Chirico-as-Chairma.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q2 2019",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2021-Second-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2021-03-31",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2021-Second-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2021-03-31/PVH-Corp-Reports-2021-Second-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg/PVH-Corp-Reports-2021-Second-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q2 2021",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2021-Earnings-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2021-03-16",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2021-Earnings-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2021-03-16/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2021-Earnings-Results.jpeg/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2021-Earnings-Results.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "[NYSE: PVH] , parent company of Calvin Klein and TOMMY HILFIGER , announced today it has completed its previously announced sale of certain intellectual property and other assets Aug 02, 2021",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Completes-Sale-of-Heritage-Brands-to-Authentic-Brands-Group.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2021-02-28",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Completes-Sale-of-Heritage-Brands-to-Authentic-Brands-Group",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2021-02-28/PVH-Corp-Completes-Sale-of-Heritage-Brands-to-Authentic-Brands-Group.jpeg/PVH-Corp-Completes-Sale-of-Heritage-Brands-to-Authentic-Brands-Group.jpeg",
         "content_type": [
           "announcement",
           "press-release"
@@ -2428,66 +2288,6 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Announces Phased Reopening of Global Stores Company priority is health, safety and local guidance NEW YORK --(BUSINESS",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Announces-Phased-Reopening-of-Global-Stores.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2020-05-19",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Announces-Phased-Reopening-of-Global-Stores",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2020-05-19/PVH-Corp-Announces-Phased-Reopening-of-Global-Stores.jpeg/PVH-Corp-Announces-Phased-Reopening-of-Global-Stores.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. Announces Closing of Euro 175 Million Private Offering of Senior Notes Due 2027 NEW YORK --(BUSINESS WIRE)--Apr. 24, 2020-- PVH Corp",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-Notes-Due-2027.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2020-04-25",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-Notes-Due-2027",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2020-04-25/PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-Notes-Due-2027.jpeg/PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-Notes-Due-2027.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Announces Closing of Euro 175 Million Private Offering of Senior Notes",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "CORRECTING-and-REPLACING-PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-N.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2020-04-25",
-        "source_url": "https://www.pvh.com/news/press-releases/CORRECTING-and-REPLACING-PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-N",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2020-04-25/CORRECTING-and-REPLACING-PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-N.jpeg/CORRECTING-and-REPLACING-PVH-Corp-Announces-Closing-of-Euro-175-Million-Private-Offering-of-Senior-N.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Launch of Euro Private Offering of Senior Notes NEW YORK --(BUSINESS WIRE)--Apr. 21, 2020-- PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -2827,6 +2627,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH Corp. Announces $1 Million Contribution to Fordh University’s Gabelli School of Business – New partnership works to harness the power of corporate responsibility to inspire global change –",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -2867,6 +2668,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Tommy Hilfiger Commits to 3D Design to Realize bitious Digitalization Journey Tommy Hilfiger is implementing new learning and technology capabilities for all global design tes at its sterd headquarters to achieve 100% 3D apparel design by its Spring 2022 collections",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3224,6 +3027,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH Corp. Enters into Licensing Agreement with NIKE, Inc. for Men’s Underwear Business NIKE -branded men’s underwear will be produced by PVH’s Center of Excellence for Underwear NEW YORK --(BUSINESS WIRE)--Apr. 30, 2019-- PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3263,6 +3067,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2018",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3619,6 +3425,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH Corp. Sets Renewable Electricity Targets with RE100 Commitment - Company aims for 100 percent renewable electricity by 2030 and will set science-based target on carbon emissions - NEW YORK --(BUSINESS WIRE)--Sep. 19, 2018-- PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3658,6 +3465,9 @@
   },
   {
     "event_name": "IZOD Enlists ‘Saturday Night Live’ Cast Member and Head Writer Colin Jost and Green Bay Packers MVP Quarterback Aaron Rodgers for New Marketing Cpaign Unconventional New Commercial Pokes Fun at Traditional Advertising NEW YORK --(BUSINESS WIRE)--Sep. 5, 2018-- PVH Corp. (NYSE: PVH) today announced its new marketing cpaign for IZOD, which stars “Saturday Night Live” cast member and head writer Colin Jost and Green Bay Packers MVP quarterback Sep 05, 2018",
+=======
+    "event_name": "IZOD Enlists \u2018Saturday Night Live\u2019 Cast Member and Head Writer Colin Jost and Green Bay Packers MVP Quarterback Aaron Rodgers for New Marketing Cpaign Unconventional New Commercial Pokes Fun at Traditional Advertising NEW YORK --(BUSINESS WIRE)--Sep. 5, 2018-- PVH Corp. (NYSE: PVH) today announced its new marketing cpaign for IZOD, which stars \u201cSaturday Night Live\u201d cast member and head writer Colin Jost and Green Bay Packers MVP quarterback Sep 05, 2018",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3990,27 +3800,6 @@
         "content_type": [
           "announcement",
           "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "FY 2017",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2017-Fourth-Quarter-and-Full-Year-Results-above-Guidance-and-Provides-2018-Outlook.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2018-03-29",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2017-Fourth-Quarter-and-Full-Year-Results-above-Guidance-and-Provides-2018-Outlook",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2018-03-29/PVH-Corp-Reports-2017-Fourth-Quarter-and-Full-Year-Results-above-Guidance-and-Provides-2018-Outlook.jpeg/PVH-Corp-Reports-2017-Fourth-Quarter-and-Full-Year-Results-above-Guidance-and-Provides-2018-Outlook.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release",
-          "full-year-results"
         ],
         "record_type": "screenshot"
       }
@@ -6021,26 +5810,6 @@
     ]
   },
   {
-    "event_name": "WIRE)--May 21, 2015-- PVH Corp. (NYSE: PVH), the owner of the IZOD brand, today announced the launch of the IZOD May 21, 2015",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Launches-New-IZOD-Tour-Golf-Apparel-Line-Delivering-Premium-Performance-and-Style.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2015-05-21",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Launches-New-IZOD-Tour-Golf-Apparel-Line-Delivering-Premium-Performance-and-Style",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2015-05-21/PVH-Corp-Launches-New-IZOD-Tour-Golf-Apparel-Line-Delivering-Premium-Performance-and-Style.jpeg/PVH-Corp-Launches-New-IZOD-Tour-Golf-Apparel-Line-Delivering-Premium-Performance-and-Style.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Q1 2015",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -6421,6 +6190,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Calvin Klein, Inc. Announces Executive Promotions in Global Marketing and Communications NEW YORK, NY, NOVEMBER 6, 2014 – Calvin Klein, Inc., a wholly owned subsidiary of PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -6441,6 +6211,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Tommy Hilfiger and Fred Gehring Speak at Harvard Business School (Photo: Business Wire)",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -7218,26 +6990,6 @@
     ]
   },
   {
-    "event_name": "Q4 2013",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-2013-Earnings-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2014-03-07",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-2013-Earnings-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2014-03-07/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-2013-Earnings-Results.jpeg/PVH-Corp-to-Host-Conference-Call-to-Discuss-Fourth-Quarter-2013-Earnings-Results.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "[NYSE: PVH], owner of Warner's and Olga , two of the leading women's intimate apparel brands, announced today the launches of two innovative bra Feb 26, 2014",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -7616,6 +7368,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Business NEW YORK --(BUSINESS WIRE)--Nov",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -7637,6 +7390,9 @@
   },
   {
     "event_name": "Calvin Klein Platinum Label Presented Asian Launch with Men’s and Women's Spring 2014 Lines in Hong Kong NEW YORK , NY , OCTOBER 2 4 , 2013 – Calvin Klein, Inc. today announced that it celebrated the Asian launch of Calvin Klein platinum label with a special runway show featuring the men’s and women’s Spring 2014 lines this evening at Shaw Studios in Hong Kong",
+=======
+    "event_name": "Calvin Klein Platinum Label Presented Asian Launch with Men\u2019s and Women's Spring 2014 Lines in Hong Kong NEW YORK , NY , OCTOBER 2 4 , 2013 \u2013 Calvin Klein, Inc. today announced that it celebrated the Asian launch of Calvin Klein platinum label with a special runway show featuring the men\u2019s and women\u2019s Spring 2014 lines this evening at Shaw Studios in Hong Kong",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8816,26 +8572,6 @@
     ]
   },
   {
-    "event_name": "[NYSE: PVH] today announced that it is commencing an offering of $500 million of senior unsecured notes due 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Announces-Offering-of-500-Million-of-Senior-Notes-Due-2022.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2012-12-06",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Announces-Offering-of-500-Million-of-Senior-Notes-Due-2022",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-12-06/PVH-Corp-Announces-Offering-of-500-Million-of-Senior-Notes-Due-2022.jpeg/PVH-Corp-Announces-Offering-of-500-Million-of-Senior-Notes-Due-2022.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Q3 2012",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -9169,46 +8905,6 @@
         "published_date": "2012-03-16",
         "source_url": "https://www.pvh.com/news/press-releases/Autism-Speaks-Names-Tommy-and-Dee-Hilfiger-to-Board-of-Directors",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-03-16/Autism-Speaks-Names-Tommy-and-Dee-Hilfiger-to-Board-of-Directors.jpeg/Autism-Speaks-Names-Tommy-and-Dee-Hilfiger-to-Board-of-Directors.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "[NYSE: WRC], along with Calvin Klein, Inc., a wholly owned subsidiary of PVH Corp",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Calvin-Klein-Underwear-Announces-Fall-2012-Global-Advertising-Campaign.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2012-03-15",
-        "source_url": "https://www.pvh.com/news/press-releases/Calvin-Klein-Underwear-Announces-Fall-2012-Global-Advertising-Campaign",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-03-15/Calvin-Klein-Underwear-Announces-Fall-2012-Global-Advertising-Campaign.jpeg/Calvin-Klein-Underwear-Announces-Fall-2012-Global-Advertising-Campaign.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q2 2012",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2012-Earnings-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2012-08-08",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2012-Earnings-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-08-08/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2012-Earnings-Results.jpeg/PVH-Corp-to-Host-Conference-Call-to-Discuss-Second-Quarter-2012-Earnings-Results.jpeg",
         "content_type": [
           "announcement",
           "press-release"
@@ -9620,6 +9316,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Q1 2012",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -9663,6 +9360,9 @@
   },
   {
     "event_name": "Tommy Hilfiger Announces Britt Robertson as Global bassador for Tommy Girl Britt will kick off her new position as global brand bassador for „Tommy Girl‟ on May 9 as co-host for Nylon Magazine‟s Young Hollywood Issue party presented by „Tommy Girl‟. NEW YORK, NEW YORK (May 9, 2012)",
+=======
+    "event_name": "Tommy Hilfiger Announces Britt Robertson as Global bassador for Tommy Girl Britt will kick off her new position as global brand bassador for \u201eTommy Girl\u201f on May 9 as co-host for Nylon Magazine\u201fs Young Hollywood Issue party presented by \u201eTommy Girl\u201f. NEW YORK, NEW YORK (May 9, 2012)",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -11619,26 +11319,6 @@
     ]
   },
   {
-    "event_name": "Q3 2010",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PhillipsVan-Heusen-Corporation-to-Host-Conference-Call-to-Discuss---Third-Quarter-2010-Earnings-Resu.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-11-29",
-        "source_url": "https://www.pvh.com/news/press-releases/PhillipsVan-Heusen-Corporation-to-Host-Conference-Call-to-Discuss---Third-Quarter-2010-Earnings-Resu",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-11-29/PhillipsVan-Heusen-Corporation-to-Host-Conference-Call-to-Discuss---Third-Quarter-2010-Earnings-Resu.jpeg/PhillipsVan-Heusen-Corporation-to-Host-Conference-Call-to-Discuss---Third-Quarter-2010-Earnings-Resu.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Phillips-Van Heusen Inks Sponsorship Deal with National Football League and Expands Pro Football Portfolio Integrated Marketing Progr for Van Heusen Brand Launches Thanksgiving Weekend NEW YORK, Nov 22, 2010 (BUSINESS WIRE)",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -12417,6 +12097,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Phillips-Van Heusen Corporation Receives the Requisite Consents Pursuant to Its Tender Offer and Consent Solicitation for Its Outstanding 7¼% Senior Notes Due 2011 and Its 8⅛% Senior Notes Due 2013 NEW YORK, Apr 20, 2010 (BUSINESS WIRE) --Phillips-Van Heusen Corporation (NYSE: PVH) announced today that it has received the requisite tenders and consents from holders of both its 7¼% Senior Notes due 2011 and 8⅛% Senior Notes due 2013 to end the indentures governing each series of notes",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -12437,6 +12118,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2010",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -12817,6 +12500,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Phillips-Van Heusen Corporation to Appear at the Bank of erica Merrill Lynch 2010 Consumer Conference on March 11, 2010 NEW YORK, Mar 10, 2010 (BUSINESS WIRE)",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -12936,6 +12620,9 @@
   },
   {
     "event_name": "Tommy Hilfiger Announces the Opening of its Second Larg European Store in Frankfurt STERD, THE NETHERLANDS (February, 2010) – Tommy Hilfiger Europe is pleased to announce the opening of its second larg Tommy Hilfiger store in Europe in Frankfurt, Germany",
+=======
+    "event_name": "Tommy Hilfiger Announces the Opening of its Second Larg European Store in Frankfurt STERD, THE NETHERLANDS (February, 2010) \u2013 Tommy Hilfiger Europe is pleased to announce the opening of its second larg Tommy Hilfiger store in Europe in Frankfurt, Germany",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",

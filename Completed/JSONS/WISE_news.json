@@ -479,6 +479,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "March 6, 2025 Employer March 6, 2025 Employer Wise expands in London and Tallinn with new office moves into spaces built for growth Wise is relocating its offices in London and Tallinn while expanding its hubs in Austin and Singapore",
     "equity_ticker": "WISE",
     "geography": "European",
@@ -958,6 +959,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Now in its 5th year, the 20 Under 20 competition hel",
     "equity_ticker": "WISE",
     "geography": "European",

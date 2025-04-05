@@ -8204,6 +8204,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Scent & Care | Corporate March 4, 2019 Hydrolite® 5 green wins PCHi Fountain award in the category ‘Actives Moisturizing & Hydrating’ — Sustainable product develoent at Symrise recognized — Presentation of green ingredients featuring the theme of the trade show",
     "equity_ticker": "SY1",
     "geography": "European",
@@ -8225,6 +8226,9 @@
   },
   {
     "event_name": "Scent & Care | Corporate | Financial February 22, 2019 Protecting climate, water and fors: Symrise again rated well — Nonprofit organization CDP awards Symrise A- and B grades — Symrise is one of the most sustainable companies in its industry",
+=======
+    "event_name": "Scent & Care | Corporate | Financial February 22, 2019 Protecting climate, water and fors: Symrise again rated well \u2014 Nonprofit organization CDP awards Symrise A- and B grades \u2014 Symrise is one of the most sustainable companies in its industry",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11725,6 +11729,7 @@
     "periodicity": "periodic",
     "data": [
       {
+<<<<<<< HEAD
         "file_name": "appeal-by-german-consumer-organization-stiftung-warentest-rejected-symrise-ag-sees-quality-and-reli.jpeg",
         "file_type": "jpeg",
         "published_date": "2014-09-09",
@@ -12099,6 +12104,8 @@
     "periodicity": "periodic",
     "data": [
       {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
         "file_name": "symrise-welcomes-continuance-of-preliminary-injunction-for-ritter-sport-stiftung-warentests-appea.jpeg",
         "file_type": "jpeg",
         "published_date": "2014-01-13",
