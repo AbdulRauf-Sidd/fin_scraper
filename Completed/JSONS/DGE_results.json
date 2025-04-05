@@ -1,0 +1,2575 @@
+[
+  {
+    "event_name": "H1 2025",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "policy.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.investis-live.com/policy.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/policy.html/policy.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "help.html",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.investis-live.com/help.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/help.html/help.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-preliminary-results-year-ended-30-june-2024.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2024/2024-preliminary-results-year-ended-30-june-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/2024-preliminary-results-year-ended-30-june-2024.jpeg/2024-preliminary-results-year-ended-30-june-2024.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "videos.aspx?videoid=_ZiXLoCFlv8.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/news-and-media/videos.aspx?videoid=_ZiXLoCFlv8",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/videos.aspx%3Fvideoid%3D_ZiXLoCFlv8.jpeg/videos.aspx%3Fvideoid%3D_ZiXLoCFlv8.jpeg",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "diageo-preliminary-results-qa-conference-call-transcript-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2024/diageo-preliminary-results-qa-conference-call-transcript-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/diageo-preliminary-results-qa-conference-call-transcript-2024.pdf/diageo-preliminary-results-qa-conference-call-transcript-2024.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageo-preliminary-results-qa-conference-call-2024.mp3",
+        "file_type": "mpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2024/diageo-preliminary-results-qa-conference-call-2024.mp3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/diageo-preliminary-results-qa-conference-call-2024.mp3/diageo-preliminary-results-qa-conference-call-2024.mp3",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2F4E2DE195B4436C95B8C3CA7888EACC.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/news-and-media/~/media/2F4E2DE195B4436C95B8C3CA7888EACC.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/2F4E2DE195B4436C95B8C3CA7888EACC.pdf/2F4E2DE195B4436C95B8C3CA7888EACC.pdf",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "D9494515D5264B64B706DA71C8139149.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/news-and-media/~/media/D9494515D5264B64B706DA71C8139149.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/D9494515D5264B64B706DA71C8139149.pdf/D9494515D5264B64B706DA71C8139149.pdf",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2024",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "f24-interims-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/f24-interims-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/f24-interims-results-press-release.pdf/f24-interims-results-press-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-interim-results-half-year-ended-31-december-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2024/2024-interim-results-half-year-ended-31-december-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/2024-interim-results-half-year-ended-31-december-2023.jpeg/2024-interim-results-half-year-ended-31-december-2023.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "investor-webcast-interim-results-2024.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/en/news-and-media/videos/2024/investor-webcast-interim-results-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/investor-webcast-interim-results-2024.jpeg/investor-webcast-interim-results-2024.jpeg",
+        "content_type": [
+          "webcast",
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "f24-interim-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/f24-interim-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/f24-interim-results-presentation.pdf/f24-interim-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f24-interim-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/f24-interim-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/f24-interim-results-presentation-with-script.pdf/f24-interim-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-diageo-f24-interim-results-qa-conference.pdf",
+        "file_type": "pdf",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/transcript-diageo-f24-interim-results-qa-conference.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/transcript-diageo-f24-interim-results-qa-conference.pdf/transcript-diageo-f24-interim-results-qa-conference.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageointerimresultsqaconferencecall.mp3",
+        "file_type": "mpeg",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/diageointerimresultsqaconferencecall.mp3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/diageointerimresultsqaconferencecall.mp3/diageointerimresultsqaconferencecall.mp3",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-interim-results-image-pack.zip",
+        "file_type": "zip",
+        "published_date": "2000-04-05",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2024-interim-results-image-pack.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2000-04-05/2024-interim-results-image-pack.zip/2024-interim-results-image-pack.zip",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "10 Nov 2023 Trading Update Trading Update Trading Update Q&A transcript Trading Update Q&A recording CLOSE",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "press-release_diageo-issues-trading-update_10-november-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/press-release_diageo-issues-trading-update_10-november-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/press-release_diageo-issues-trading-update_10-november-2023.pdf/press-release_diageo-issues-trading-update_10-november-2023.pdf",
+        "content_type": [
+          "trading-update",
+          "financial-filing",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-diageo-analyst-call.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/transcript-diageo-analyst-call.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/transcript-diageo-analyst-call.pdf/transcript-diageo-analyst-call.pdf",
+        "content_type": [
+          "trading-update",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "trading-update-10112023.mp3",
+        "file_type": "mpeg",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/trading-update-10112023.mp3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/trading-update-10112023.mp3/trading-update-10112023.mp3",
+        "content_type": [
+          "trading-update",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "01 Aug 2023 2023 Preliminary Results Year Ended 30",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "f23-prelims-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-prelims-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/f23-prelims-results-press-release.pdf/f23-prelims-results-press-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-preliminary-results-year-ended-30-june-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2023/2023-preliminary-results-year-ended-30-june-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/2023-preliminary-results-year-ended-30-june-2023.jpeg/2023-preliminary-results-year-ended-30-june-2023.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "investor-webcast-diageo-preliminary-results-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/en/news-and-media/videos/2023/investor-webcast-diageo-preliminary-results-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/investor-webcast-diageo-preliminary-results-2023.jpeg/investor-webcast-diageo-preliminary-results-2023.jpeg",
+        "content_type": [
+          "webcast",
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "f23-prelims-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-prelims-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/f23-prelims-results-presentation.pdf/f23-prelims-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f23-prelims-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-prelims-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/f23-prelims-results-presentation-with-script.pdf/f23-prelims-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-preliminary-results-qa-transcript-010823.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/2023-preliminary-results-qa-transcript-010823.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/2023-preliminary-results-qa-transcript-010823.pdf/2023-preliminary-results-qa-transcript-010823.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageo-preliminary-results-announcement-2023.mp3",
+        "file_type": "mpeg",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/diageo-preliminary-results-announcement-2023.mp3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/diageo-preliminary-results-announcement-2023.mp3/diageo-preliminary-results-announcement-2023.mp3",
+        "content_type": [
+          "announcement",
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "prelims-2023-image-pack.zip",
+        "file_type": "zip",
+        "published_date": "2023-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/prelims-2023-image-pack.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-06/prelims-2023-image-pack.zip/prelims-2023-image-pack.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "26 Jan 2023 2023 Interim Results Half Year Ended 3",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "f23-interims-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-interims-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/f23-interims-results-press-release.pdf/f23-interims-results-press-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-interim-results-half-year-ended-31-december-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2023/2023-interim-results-half-year-ended-31-december-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/2023-interim-results-half-year-ended-31-december-2022.jpeg/2023-interim-results-half-year-ended-31-december-2022.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "investor-webcast-interim-results-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/en/news-and-media/videos/2023/investor-webcast-interim-results-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/investor-webcast-interim-results-2023.jpeg/investor-webcast-interim-results-2023.jpeg",
+        "content_type": [
+          "webcast",
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "f23-interim-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-interim-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/f23-interim-results-presentation.pdf/f23-interim-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f23-interim-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/f23-interim-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/f23-interim-results-presentation-with-script.pdf/f23-interim-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "diageo-f23-interim-results-investor-qa-call.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/diageo-f23-interim-results-investor-qa-call.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/diageo-f23-interim-results-investor-qa-call.pdf/diageo-f23-interim-results-investor-qa-call.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-interim-results-image-pack.zip",
+        "file_type": "zip",
+        "published_date": "2023",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2023/2023-interim-results-image-pack.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023/2023-interim-results-image-pack.zip/2023-interim-results-image-pack.zip",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jul 2022 2022 Preliminary Results Year ended 30",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "f22-prelims-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/f22-prelims-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/f22-prelims-results-press-release.pdf/f22-prelims-results-press-release.pdf",
+        "content_type": [
+          "financial-filing",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-preliminary-results-year-ended-30-june-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2022/2022-preliminary-results-year-ended-30-june-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/2022-preliminary-results-year-ended-30-june-2022.jpeg/2022-preliminary-results-year-ended-30-june-2022.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "investor-webcast-preliminary-results-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/en/news-and-media/videos/2022/investor-webcast-preliminary-results-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/investor-webcast-preliminary-results-2022.jpeg/investor-webcast-preliminary-results-2022.jpeg",
+        "content_type": [
+          "webcast",
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "f22-prelims-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/f22-prelims-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/f22-prelims-results-presentation.pdf/f22-prelims-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f22-prelims-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/f22-prelims-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/f22-prelims-results-presentation-with-script.pdf/f22-prelims-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f22-preliminary-results-investor-qa-call.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/f22-preliminary-results-investor-qa-call.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/f22-preliminary-results-investor-qa-call.pdf/f22-preliminary-results-investor-qa-call.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-2022-image-pack.zip",
+        "file_type": "zip",
+        "published_date": "2022",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/preliminary-results-2022-image-pack.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022/preliminary-results-2022-image-pack.zip/preliminary-results-2022-image-pack.zip",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "27 Jan 2022 2022 Interim Results Half year ended 3",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-interim-results-half-year-ended-31-december-2021.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-01-27",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2022/2022-interim-results-half-year-ended-31-december-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-01-27/2022-interim-results-half-year-ended-31-december-2021.jpeg/2022-interim-results-half-year-ended-31-december-2021.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "282-f22-interims-results-presentation-26-01-22-without-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-01-27",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/282-f22-interims-results-presentation-26-01-22-without-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-01-27/282-f22-interims-results-presentation-26-01-22-without-script.pdf/282-f22-interims-results-presentation-26-01-22-without-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "283_f22-interims-results-presentation-26-01-22-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-01-27",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/283_f22-interims-results-presentation-26-01-22-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-01-27/283_f22-interims-results-presentation-26-01-22-with-script.pdf/283_f22-interims-results-presentation-26-01-22-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "284-2022-diageo-interim-results-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-01-27",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/284-2022-diageo-interim-results-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2022-01-27/284-2022-diageo-interim-results-q-a-transcript.pdf/284-2022-diageo-interim-results-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "29 Jul 2021 2021 Preliminary Results Year ended 30",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-preliminary-results-year-ended-30-june-2021.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2021/2021-preliminary-results-year-ended-30-june-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021/2021-preliminary-results-year-ended-30-june-2021.jpeg/2021-preliminary-results-year-ended-30-june-2021.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "269-20210728-f21-prelims-investor-presentation-combined-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/269-20210728-f21-prelims-investor-presentation-combined-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021/269-20210728-f21-prelims-investor-presentation-combined-final.pdf/269-20210728-f21-prelims-investor-presentation-combined-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "270-20210728-f21-prelims-investor-presentation-combined-final-with-notes-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/270-20210728-f21-prelims-investor-presentation-combined-final-with-notes-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021/270-20210728-f21-prelims-investor-presentation-combined-final-with-notes-1.pdf/270-20210728-f21-prelims-investor-presentation-combined-final-with-notes-1.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "271-2021-prelim-results-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/271-2021-prelim-results-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2021/271-2021-prelim-results-q-a-transcript.pdf/271-2021-prelim-results-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jan 2021 2021 Interim Results Result Overview H",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "263-f21-interim-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/263-f21-interim-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020-12-31/263-f21-interim-results-overview.pdf/263-f21-interim-results-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-interim-results-half-year-ended-31-december-2020.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020-12-31",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2021/2021-interim-results-half-year-ended-31-december-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020-12-31/2021-interim-results-half-year-ended-31-december-2020.jpeg/2021-interim-results-half-year-ended-31-december-2020.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "264-f21-h1-results-presentation-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/264-f21-h1-results-presentation-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020-12-31/264-f21-h1-results-presentation-final.pdf/264-f21-h1-results-presentation-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "265-f21-h1-results-presentation-28-january-2021-final-with-script-2.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/265-f21-h1-results-presentation-28-january-2021-final-with-script-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020-12-31/265-f21-h1-results-presentation-28-january-2021-final-with-script-2.pdf/265-f21-h1-results-presentation-28-january-2021-final-with-script-2.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "266-2021-interim-results-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2021/266-2021-interim-results-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020-12-31/266-2021-interim-results-q-a-transcript.pdf/266-2021-interim-results-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "04 Aug 2020 2020 Preliminary Results Results overv",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "249-f20-prelim-four-pager-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/249-f20-prelim-four-pager-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/249-f20-prelim-four-pager-final.pdf/249-f20-prelim-four-pager-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-preliminary-results-year-ended-30-june-2020.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2020/2020-preliminary-results-year-ended-30-june-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/2020-preliminary-results-year-ended-30-june-2020.jpeg/2020-preliminary-results-year-ended-30-june-2020.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "250-2020-preliminary-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/250-2020-preliminary-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/250-2020-preliminary-results-presentation.pdf/250-2020-preliminary-results-presentation.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "251-diageo-f20-prelims-presentation-3-aug-2020-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/251-diageo-f20-prelims-presentation-3-aug-2020-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/251-diageo-f20-prelims-presentation-3-aug-2020-with-script.pdf/251-diageo-f20-prelims-presentation-3-aug-2020-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "252-diageo-f20-preliminary-results-investor-call-q-a-transcript-4th-august-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/252-diageo-f20-preliminary-results-investor-call-q-a-transcript-4th-august-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2020/252-diageo-f20-preliminary-results-investor-call-q-a-transcript-4th-august-2020.pdf/252-diageo-f20-preliminary-results-investor-call-q-a-transcript-4th-august-2020.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "30 Jan 2020 2020 Interim Results Results overview",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "245-f20-interim-diageo-four-pager.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/245-f20-interim-diageo-four-pager.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-12-31/245-f20-interim-diageo-four-pager.pdf/245-f20-interim-diageo-four-pager.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-interim-results-half-year-ended-31-december-2019.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-12-31",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2020/2020-interim-results-half-year-ended-31-december-2019",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-12-31/2020-interim-results-half-year-ended-31-december-2019.jpeg/2020-interim-results-half-year-ended-31-december-2019.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "246-f20-interim-diageo-results-presentation-slides-only.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/246-f20-interim-diageo-results-presentation-slides-only.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-12-31/246-f20-interim-diageo-results-presentation-slides-only.pdf/246-f20-interim-diageo-results-presentation-slides-only.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "247-f20-interim-diageo-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/247-f20-interim-diageo-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-12-31/247-f20-interim-diageo-results-presentation-with-script.pdf/247-f20-interim-diageo-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "248-f20-diageo-interims-results-q-a-30-jan-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2020/248-f20-diageo-interims-results-q-a-30-jan-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019-12-31/248-f20-diageo-interims-results-q-a-30-jan-2020.pdf/248-f20-diageo-interims-results-q-a-30-jan-2020.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "25 Jul 2019 2019 Preliminary Results Results overv",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "229-four-pager-f19-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/229-four-pager-f19-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/229-four-pager-f19-final.pdf/229-four-pager-f19-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019-preliminary-results-year-ended-30-june-2019.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2019/2019-preliminary-results-year-ended-30-june-2019",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/2019-preliminary-results-year-ended-30-june-2019.jpeg/2019-preliminary-results-year-ended-30-june-2019.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "230-f19-prelims-results-presentation-240719-without-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/230-f19-prelims-results-presentation-240719-without-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/230-f19-prelims-results-presentation-240719-without-script.pdf/230-f19-prelims-results-presentation-240719-without-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "231-f19-prelims-results-presentation-240719.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/231-f19-prelims-results-presentation-240719.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/231-f19-prelims-results-presentation-240719.pdf/231-f19-prelims-results-presentation-240719.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "232-2019-preliminary-results-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/232-2019-preliminary-results-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/232-2019-preliminary-results-q-a-transcript.pdf/232-2019-preliminary-results-q-a-transcript.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "276_2019-preliminary-results-year-ended-30-june-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2019/276_2019-preliminary-results-year-ended-30-june-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2019/276_2019-preliminary-results-year-ended-30-june-2019.pdf/276_2019-preliminary-results-year-ended-30-june-2019.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "31 Jan 2019 2019 Interim Results Investor overview",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "213-2019-interim-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/213-2019-interim-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/213-2019-interim-results-overview.pdf/213-2019-interim-results-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019-interim-results-half-year-ended-31-december-2018.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2019/2019-interim-results-half-year-ended-31-december-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/2019-interim-results-half-year-ended-31-december-2018.jpeg/2019-interim-results-half-year-ended-31-december-2018.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "215-diageo-f19-interim-results-presentation-slides-only.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/215-diageo-f19-interim-results-presentation-slides-only.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/215-diageo-f19-interim-results-presentation-slides-only.pdf/215-diageo-f19-interim-results-presentation-slides-only.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "216-diageo-f19-interim-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/216-diageo-f19-interim-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/216-diageo-f19-interim-results-presentation.pdf/216-diageo-f19-interim-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "218-investor-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2019/218-investor-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/218-investor-q-a-transcript.pdf/218-investor-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "322-press-release-f19-interims-31-01-19.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2019/322-press-release-f19-interims-31-01-19.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-12-31/322-press-release-f19-interims-31-01-19.pdf/322-press-release-f19-interims-31-01-19.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "26 Jul 2018 2018 Preliminary Results Factsheet Yea",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "191-2018-preliminary-results-factsheet.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/191-2018-preliminary-results-factsheet.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/191-2018-preliminary-results-factsheet.pdf/191-2018-preliminary-results-factsheet.pdf",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2018-preliminary-results-year-ended-30-june-2018.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2018/2018-preliminary-results-year-ended-30-june-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/2018-preliminary-results-year-ended-30-june-2018.jpeg/2018-preliminary-results-year-ended-30-june-2018.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "192-diageo-four-pager-f18-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/192-diageo-four-pager-f18-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/192-diageo-four-pager-f18-final.pdf/192-diageo-four-pager-f18-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "194-f18-prelims-results-presentation-final-slides-only.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/194-f18-prelims-results-presentation-final-slides-only.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/194-f18-prelims-results-presentation-final-slides-only.pdf/194-f18-prelims-results-presentation-final-slides-only.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "195-f18-prelims-results-presentation-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/195-f18-prelims-results-presentation-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/195-f18-prelims-results-presentation-final.pdf/195-f18-prelims-results-presentation-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "196-diageo-2018-preliminary-results-investor-q-a-call-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/196-diageo-2018-preliminary-results-investor-q-a-call-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/196-diageo-2018-preliminary-results-investor-q-a-call-transcript.pdf/196-diageo-2018-preliminary-results-investor-q-a-call-transcript.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "193-2018-preliminary-results-infographic.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/193-2018-preliminary-results-infographic.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/193-2018-preliminary-results-infographic.pdf/193-2018-preliminary-results-infographic.pdf",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "369_diageo-2018-preliminary-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2018/369_diageo-2018-preliminary-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2018-06-30/369_diageo-2018-preliminary-results-press-release.pdf/369_diageo-2018-preliminary-results-press-release.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "25 Jan 2018 2018 Interim Results Investor overview",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "181-diageo-f18-h1-interim-results-investor-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/181-diageo-f18-h1-interim-results-investor-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/181-diageo-f18-h1-interim-results-investor-overview.pdf/181-diageo-f18-h1-interim-results-investor-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2018-interim-results-half-year-ended-31-december-2017.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2018/2018-interim-results-half-year-ended-31-december-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/2018-interim-results-half-year-ended-31-december-2017.jpeg/2018-interim-results-half-year-ended-31-december-2017.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "182-diageo-f18-h1-interim-results-presentation-slides-only.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/182-diageo-f18-h1-interim-results-presentation-slides-only.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/182-diageo-f18-h1-interim-results-presentation-slides-only.pdf/182-diageo-f18-h1-interim-results-presentation-slides-only.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "183-diageo-f18-h1-interim-results-presentation-slides-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/183-diageo-f18-h1-interim-results-presentation-slides-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/183-diageo-f18-h1-interim-results-presentation-slides-with-script.pdf/183-diageo-f18-h1-interim-results-presentation-slides-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "184-diageo-2018-interim-results-investor-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/184-diageo-2018-interim-results-investor-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/184-diageo-2018-interim-results-investor-q-a-transcript.pdf/184-diageo-2018-interim-results-investor-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "180-diageo-f18-h1-interim-results-factsheet.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2018/180-diageo-f18-h1-interim-results-factsheet.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/180-diageo-f18-h1-interim-results-factsheet.pdf/180-diageo-f18-h1-interim-results-factsheet.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "444_diageo_f18_h1_interim_results_press_release.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2018/444_diageo_f18_h1_interim_results_press_release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-12-31/444_diageo_f18_h1_interim_results_press_release.pdf/444_diageo_f18_h1_interim_results_press_release.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "27 Jul 2017 2017 Preliminary Results Investor Over",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "164-diageo-f17-preliminary-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/164-diageo-f17-preliminary-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/164-diageo-f17-preliminary-results-overview.pdf/164-diageo-f17-preliminary-results-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2017-preliminary-results-year-ended-30-june-2017.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2017/2017-preliminary-results-year-ended-30-june-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/2017-preliminary-results-year-ended-30-june-2017.jpeg/2017-preliminary-results-year-ended-30-june-2017.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "165-f17-prelims-results-presentation-combined-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/165-f17-prelims-results-presentation-combined-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/165-f17-prelims-results-presentation-combined-final.pdf/165-f17-prelims-results-presentation-combined-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "166-f17-prelims-results-presentation-combined-with-script-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/166-f17-prelims-results-presentation-combined-with-script-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/166-f17-prelims-results-presentation-combined-with-script-final.pdf/166-f17-prelims-results-presentation-combined-with-script-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "167-diageo-2017-preliminary-results-investor-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/167-diageo-2017-preliminary-results-investor-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/167-diageo-2017-preliminary-results-investor-q-a-transcript.pdf/167-diageo-2017-preliminary-results-investor-q-a-transcript.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "163-f17-prelims-results-factsheet-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/163-f17-prelims-results-factsheet-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/163-f17-prelims-results-factsheet-final.pdf/163-f17-prelims-results-factsheet-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "507_diageo-2017-preliminary-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2017/507_diageo-2017-preliminary-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2017-06/507_diageo-2017-preliminary-results-press-release.pdf/507_diageo-2017-preliminary-results-press-release.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "26 Jan 2017 2017 Interim Results Investor Overview",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "45-diageo-f17-h1-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/45-diageo-f17-h1-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/45-diageo-f17-h1-results-overview.pdf/45-diageo-f17-h1-results-overview.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2017-interim-results-six-months-ended-31-december-2016.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2017/2017-interim-results-six-months-ended-31-december-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/2017-interim-results-six-months-ended-31-december-2016.jpeg/2017-interim-results-six-months-ended-31-december-2016.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "89-f17-interim-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/89-f17-interim-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/89-f17-interim-results-presentation.pdf/89-f17-interim-results-presentation.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "88-f17-interim-results-presentation-with-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/88-f17-interim-results-presentation-with-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/88-f17-interim-results-presentation-with-script.pdf/88-f17-interim-results-presentation-with-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "90-170127-f17-interims-investor-qa-call-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/90-170127-f17-interims-investor-qa-call-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/90-170127-f17-interims-investor-qa-call-transcript.pdf/90-170127-f17-interims-investor-qa-call-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "44-170126-factsheet-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2017/44-170126-factsheet-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/44-170126-factsheet-final.pdf/44-170126-factsheet-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "531_diageo_2017_interims_press_release.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-12-31",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2017/531_diageo_2017_interims_press_release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-12-31/531_diageo_2017_interims_press_release.pdf/531_diageo_2017_interims_press_release.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jul 2016 2016 Preliminary Results Diageo F16 pr",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "87-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/87-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/87-diageo-2016-preliminary-results-qa-transcript.pdf/87-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-year-ended-30-june-2016.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2016/preliminary-results-year-ended-30-june-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/preliminary-results-year-ended-30-june-2016.jpeg/preliminary-results-year-ended-30-june-2016.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "86-2016-preliminary-results.zip",
+        "file_type": "zip",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/86-2016-preliminary-results.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/86-2016-preliminary-results.zip/86-2016-preliminary-results.zip",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "41-diageo-2016-preliminary-results-factsheet.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/41-diageo-2016-preliminary-results-factsheet.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/41-diageo-2016-preliminary-results-factsheet.pdf/41-diageo-2016-preliminary-results-factsheet.pdf",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "85-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/85-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/85-diageo-2016-preliminary-results-qa-transcript.pdf/85-diageo-2016-preliminary-results-qa-transcript.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "546_diageo-2016-preliminary-results-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2016/546_diageo-2016-preliminary-results-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016/546_diageo-2016-preliminary-results-press-release.pdf/546_diageo-2016-preliminary-results-press-release.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jan 2016 2016 Interim Results IR summary 2016 I",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "68-diageo-f16-h1-overview-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/68-diageo-f16-h1-overview-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/68-diageo-f16-h1-overview-final.pdf/68-diageo-f16-h1-overview-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-six-months-ended-31-december-2015.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2016/interim-results-six-months-ended-31-december-2015",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/interim-results-six-months-ended-31-december-2015.jpeg/interim-results-six-months-ended-31-december-2015.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "67-2016-interim-results-investor-presentation.zip",
+        "file_type": "zip",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/67-2016-interim-results-investor-presentation.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/67-2016-interim-results-investor-presentation.zip/67-2016-interim-results-investor-presentation.zip",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "46-diageo-interim-fast-facts.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/46-diageo-interim-fast-facts.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/46-diageo-interim-fast-facts.pdf/46-diageo-interim-fast-facts.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "69-diageo-h1f16analyst-conf-call-qanda.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/69-diageo-h1f16analyst-conf-call-qanda.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/69-diageo-h1f16analyst-conf-call-qanda.pdf/69-diageo-h1f16analyst-conf-call-qanda.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "212-2016-hy-fact-sheet-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/212-2016-hy-fact-sheet-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/212-2016-hy-fact-sheet-final.pdf/212-2016-hy-fact-sheet-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "70-diageo-f16-h1-results-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2016/70-diageo-f16-h1-results-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/70-diageo-f16-h1-results-final.pdf/70-diageo-f16-h1-results-final.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "573_diageo_press_release_f16_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-01-28",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2016/573_diageo_press_release_f16_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2016-01-28/573_diageo_press_release_f16_final.pdf/573_diageo_press_release_f16_final.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "30 Jul 2015 2015 Preliminary Results Diageo F15 pr",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "79-diageo-f15-prelims-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/79-diageo-f15-prelims-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/79-diageo-f15-prelims-results-overview.pdf/79-diageo-f15-prelims-results-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-year-ended-30-june-2015.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2015/preliminary-results-year-ended-30-june-2015",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/preliminary-results-year-ended-30-june-2015.jpeg/preliminary-results-year-ended-30-june-2015.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "72-2015-preliminary-results-presentations.zip",
+        "file_type": "zip",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/72-2015-preliminary-results-presentations.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/72-2015-preliminary-results-presentations.zip/72-2015-preliminary-results-presentations.zip",
+        "content_type": [
+          "financial-filing",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "1-fact-sheet-final-f15-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/1-fact-sheet-final-f15-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/1-fact-sheet-final-f15-1.pdf/1-fact-sheet-final-f15-1.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "49-final-fast-facts-f15-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/49-final-fast-facts-f15-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/49-final-fast-facts-f15-1.pdf/49-final-fast-facts-f15-1.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "607_f15-fy-press-release-charts.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2015/607_f15-fy-press-release-charts.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/607_f15-fy-press-release-charts.pdf/607_f15-fy-press-release-charts.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "29 Jan 2015 2015 Interim Results Diageo F15 interi",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "83-diageo-f15-interim-results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/83-diageo-f15-interim-results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/83-diageo-f15-interim-results-overview.pdf/83-diageo-f15-interim-results-overview.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-six-months-ended-31-december-2014.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/2015/interim-results-six-months-ended-31-december-2014",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/interim-results-six-months-ended-31-december-2014.jpeg/interim-results-six-months-ended-31-december-2014.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "75-2015-interim-results.zip",
+        "file_type": "zip",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/75-2015-interim-results.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/75-2015-interim-results.zip/75-2015-interim-results.zip",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "43-2015-interim-results-factsheet-final-v2.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/43-2015-interim-results-factsheet-final-v2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/43-2015-interim-results-factsheet-final-v2.pdf/43-2015-interim-results-factsheet-final-v2.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "f15-analyst-q-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/f15-analyst-q-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/f15-analyst-q-a-transcript.pdf/f15-analyst-q-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "84-diageo-investor-relations-one-pager.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2015/84-diageo-investor-relations-one-pager.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/84-diageo-investor-relations-one-pager.pdf/84-diageo-investor-relations-one-pager.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "655_press-release-final-v3.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2015/655_press-release-final-v3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015/655_press-release-final-v3.pdf/655_press-release-final-v3.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "31 Jul 2015 2014 Preliminary Results Media Present",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "117-ivan-menezes-media-presentation-final-slides-only-for-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/117-ivan-menezes-media-presentation-final-slides-only-for-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/117-ivan-menezes-media-presentation-final-slides-only-for-com.pdf/117-ivan-menezes-media-presentation-final-slides-only-for-com.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor-presentation-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/investor-presentation-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/investor-presentation-script.pdf/investor-presentation-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "115-investor-prelims-presentation-final-slides.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/115-investor-prelims-presentation-final-slides.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/115-investor-prelims-presentation-final-slides.pdf/115-investor-prelims-presentation-final-slides.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5-diageo-results-factsheet-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/5-diageo-results-factsheet-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/5-diageo-results-factsheet-final.pdf/5-diageo-results-factsheet-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "112-2014-prelim-investor-qa-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/112-2014-prelim-investor-qa-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/112-2014-prelim-investor-qa-transcript.pdf/112-2014-prelim-investor-qa-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "results-overview.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/results-overview.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/results-overview.pdf/results-overview.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "113-diageo-investor-relations-one-pager-31-july-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/113-diageo-investor-relations-one-pager-31-july-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2015-06/113-diageo-investor-relations-one-pager-31-july-2014.pdf/113-diageo-investor-relations-one-pager-31-july-2014.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2014",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121-diageo-q3-ims-final-170414.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/121-diageo-q3-ims-final-170414.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/121-diageo-q3-ims-final-170414.pdf/121-diageo-q3-ims-final-170414.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-six-months-ended-31-december-2013.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/interim-results-six-months-ended-31-december-2013",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/interim-results-six-months-ended-31-december-2013.jpeg/interim-results-six-months-ended-31-december-2013.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "118-interim-results-ir-presentation-final-slides.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/118-interim-results-ir-presentation-final-slides.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/118-interim-results-ir-presentation-final-slides.pdf/118-interim-results-ir-presentation-final-slides.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "4-interim-results-factsheet-2014-final-high-res.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/4-interim-results-factsheet-2014-final-high-res.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/4-interim-results-factsheet-2014-final-high-res.pdf/4-interim-results-factsheet-2014-final-high-res.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "119-interim-results-ir-presentation-final-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2014/119-interim-results-ir-presentation-final-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/119-interim-results-ir-presentation-final-script.pdf/119-interim-results-ir-presentation-final-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "661_press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-12",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2014/661_press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-12/661_press-release-final.pdf/661_press-release-final.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2013",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "125-diageo-q1-ims-final-18-10-13-revised.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/125-diageo-q1-ims-final-18-10-13-revised.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-06-30/125-diageo-q1-ims-final-18-10-13-revised.pdf/125-diageo-q1-ims-final-18-10-13-revised.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "122-2013-preliminary-results-final-investor-slides.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/122-2013-preliminary-results-final-investor-slides.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-06-30/122-2013-preliminary-results-final-investor-slides.pdf/122-2013-preliminary-results-final-investor-slides.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2-f13-factsheet-final-final-31-july.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/2-f13-factsheet-final-final-31-july.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-06-30/2-f13-factsheet-final-final-31-july.pdf/2-f13-factsheet-final-final-31-july.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "123-2013-preliminary-results-final-investor-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/123-2013-preliminary-results-final-investor-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-06-30/123-2013-preliminary-results-final-investor-script.pdf/123-2013-preliminary-results-final-investor-script.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "124-2013-preliminary-results-media-presentation-final-for-diageo-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/124-2013-preliminary-results-media-presentation-final-for-diageo-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2013-06-30/124-2013-preliminary-results-media-presentation-final-for-diageo-com.pdf/124-2013-preliminary-results-media-presentation-final-for-diageo-com.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2013",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "130-diageo-q3-f13-ims-final-17-april.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/130-diageo-q3-f13-ims-final-17-april.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/130-diageo-q3-f13-ims-final-17-april.pdf/130-diageo-q3-f13-ims-final-17-april.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-six-months-ended-31-december-2012.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/interim-results-six-months-ended-31-december-2012",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/interim-results-six-months-ended-31-december-2012.jpeg/interim-results-six-months-ended-31-december-2012.jpeg",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2013-interim-results-factsheet.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/2013-interim-results-factsheet.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/2013-interim-results-factsheet.pdf/2013-interim-results-factsheet.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "127-2013-interim-results-final-investor-slides-for-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/127-2013-interim-results-final-investor-slides-for-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/127-2013-interim-results-final-investor-slides-for-com.pdf/127-2013-interim-results-final-investor-slides-for-com.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "128-2013-interim-results-final-investor-script-for-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/128-2013-interim-results-final-investor-script-for-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/128-2013-interim-results-final-investor-script-for-com.pdf/128-2013-interim-results-final-investor-script-for-com.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "126-diageo-2013-interim-results-q-and-a-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/126-diageo-2013-interim-results-q-and-a-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/126-diageo-2013-interim-results-q-and-a-transcript.pdf/126-diageo-2013-interim-results-q-and-a-transcript.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "129-2013-half-year-results-media-slides-final-for-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2013/129-2013-half-year-results-media-slides-final-for-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/129-2013-half-year-results-media-slides-final-for-com.pdf/129-2013-half-year-results-media-slides-final-for-com.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "665_press-release-interims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2013/665_press-release-interims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012-04/665_press-release-interims-final.pdf/665_press-release-interims-final.pdf",
+        "content_type": [
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2012",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "134-ims-final-171012.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/134-ims-final-171012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/134-ims-final-171012.pdf/134-ims-final-171012.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-year-ended-30-june-2012.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/preliminary-results-year-ended-30-june-2012",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/preliminary-results-year-ended-30-june-2012.jpeg/preliminary-results-year-ended-30-june-2012.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "131-2012-preliminary-results-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/131-2012-preliminary-results-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/131-2012-preliminary-results-final.pdf/131-2012-preliminary-results-final.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "133-f12-preliminary-results-media-presentation-230812-diageo-com.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/133-f12-preliminary-results-media-presentation-230812-diageo-com.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/133-f12-preliminary-results-media-presentation-230812-diageo-com.pdf/133-f12-preliminary-results-media-presentation-230812-diageo-com.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "132-2012-preliminary-results-final-notes.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/132-2012-preliminary-results-final-notes.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/132-2012-preliminary-results-final-notes.pdf/132-2012-preliminary-results-final-notes.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "667_press-release-prelims-2012-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-30",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2012/667_press-release-prelims-2012-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011-06-30/667_press-release-prelims-2012-final.pdf/667_press-release-prelims-2012-final.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2012",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "138-ims-final-19-10-11.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/138-ims-final-19-10-11.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/138-ims-final-19-10-11.pdf/138-ims-final-19-10-11.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "half-year-results-six-months-ended-31-december-2011.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/half-year-results-six-months-ended-31-december-2011",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/half-year-results-six-months-ended-31-december-2011.jpeg/half-year-results-six-months-ended-31-december-2011.jpeg",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "135-2012-half-year-results-investor-presentation-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/135-2012-half-year-results-investor-presentation-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/135-2012-half-year-results-investor-presentation-final.pdf/135-2012-half-year-results-investor-presentation-final.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "137-2012-half-year-results-media-presentation-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/137-2012-half-year-results-media-presentation-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/137-2012-half-year-results-media-presentation-final.pdf/137-2012-half-year-results-media-presentation-final.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "136-diageo-half-year-results-2012-presentation-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2012/136-diageo-half-year-results-2012-presentation-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/136-diageo-half-year-results-2012-presentation-script.pdf/136-diageo-half-year-results-2012-presentation-script.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "669_interims-2012-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2012/669_interims-2012-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2012/669_interims-2012-press-release-final.pdf/669_interims-2012-press-release-final.pdf",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2011",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "142-ims-31-march-2011-finalv1.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/142-ims-31-march-2011-finalv1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/142-ims-31-march-2011-finalv1.pdf/142-ims-31-march-2011-finalv1.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-year-ended-30-june-2011.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/preliminary-results-year-ended-30-june-2011",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/preliminary-results-year-ended-30-june-2011.jpeg/preliminary-results-year-ended-30-june-2011.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "139-investor-presentation-preliminary-results-2011-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/139-investor-presentation-preliminary-results-2011-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/139-investor-presentation-preliminary-results-2011-final.pdf/139-investor-presentation-preliminary-results-2011-final.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "141-prelim-2011-media-presentation-final-diageo.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/141-prelim-2011-media-presentation-final-diageo.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/141-prelim-2011-media-presentation-final-diageo.pdf/141-prelim-2011-media-presentation-final-diageo.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "140-investor-presentation-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/140-investor-presentation-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/140-investor-presentation-script.pdf/140-investor-presentation-script.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "671_diageo-f11-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2011/671_diageo-f11-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/671_diageo-f11-press-release-final.pdf/671_diageo-f11-press-release-final.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2011",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "146-october-ims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/146-october-ims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/146-october-ims-final.pdf/146-october-ims-final.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "half-year-results-six-months-ended-31-december-2010.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/half-year-results-six-months-ended-31-december-2010",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/half-year-results-six-months-ended-31-december-2010.jpeg/half-year-results-six-months-ended-31-december-2010.jpeg",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "143-2011-half-year-results-final-ir-presentation-web.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/143-2011-half-year-results-final-ir-presentation-web.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/143-2011-half-year-results-final-ir-presentation-web.pdf/143-2011-half-year-results-final-ir-presentation-web.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "145-2011-half-year-results-final-media-presentation-no-notes.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/145-2011-half-year-results-final-media-presentation-no-notes.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/145-2011-half-year-results-final-media-presentation-no-notes.pdf/145-2011-half-year-results-final-media-presentation-no-notes.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "144-diageo-half-year-results-presentation-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2011/144-diageo-half-year-results-presentation-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/144-diageo-half-year-results-presentation-script.pdf/144-diageo-half-year-results-presentation-script.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "673_pres-rel-dec-10-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2011",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2011/673_pres-rel-dec-10-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2011/673_pres-rel-dec-10-final.pdf/673_pres-rel-dec-10-final.pdf",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2010",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "154-halfyearresults2010usconferencecall.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/154-halfyearresults2010usconferencecall.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/154-halfyearresults2010usconferencecall.pdf/154-halfyearresults2010usconferencecall.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "half-year-results-six-months-ended-31-december-2009.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/half-year-results-six-months-ended-31-december-2009",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/half-year-results-six-months-ended-31-december-2009.jpeg/half-year-results-six-months-ended-31-december-2009.jpeg",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "151-2010-half-year-results-final-investor-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/151-2010-half-year-results-final-investor-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/151-2010-half-year-results-final-investor-presentation.pdf/151-2010-half-year-results-final-investor-presentation.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "153-halfyearresults2010investorsconfqatranscript.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/153-halfyearresults2010investorsconfqatranscript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/153-halfyearresults2010investorsconfqatranscript.pdf/153-halfyearresults2010investorsconfqatranscript.pdf",
+        "content_type": [
+          "financial-filing",
+          "transcript",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "152-half-year-results-2010-investor-presentation-script-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/152-half-year-results-2010-investor-presentation-script-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/152-half-year-results-2010-investor-presentation-script-final.pdf/152-half-year-results-2010-investor-presentation-script-final.pdf",
+        "content_type": [
+          "half-year-results",
+          "financial-filing",
+          "transcript",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "155-14-october-2009-pr.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/155-14-october-2009-pr.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/155-14-october-2009-pr.pdf/155-14-october-2009-pr.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "677_h1-2010-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2010/677_h1-2010-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/677_h1-2010-press-release-final.pdf/677_h1-2010-press-release-final.pdf",
+        "content_type": [
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2010",
+    "equity_ticker": "DGE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "150-ims-may-2010-rns.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/150-ims-may-2010-rns.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/150-ims-may-2010-rns.pdf/150-ims-may-2010-rns.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-year-ended-30-june-2010.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/en/news-and-media/press-releases/archive/preliminary-results-year-ended-30-june-2010",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/preliminary-results-year-ended-30-june-2010.jpeg/preliminary-results-year-ended-30-june-2010.jpeg",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "147-preliminary-results-2010-investor-final-web.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/147-preliminary-results-2010-investor-final-web.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/147-preliminary-results-2010-investor-final-web.pdf/147-preliminary-results-2010-investor-final-web.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "148-preliminary-results-2010-investor-final-script.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/148-preliminary-results-2010-investor-final-script.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/148-preliminary-results-2010-investor-final-script.pdf/148-preliminary-results-2010-investor-final-script.pdf",
+        "content_type": [
+          "preliminary-results",
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "149-f10-media-presentation-final-no-notes.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/our-results/2022/149-f10-media-presentation-final-no-notes.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/149-f10-media-presentation-final-no-notes.pdf/149-f10-media-presentation-final-no-notes.pdf",
+        "content_type": [
+          "financial-filing",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "675_press-release-fy2010-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2010",
+        "source_url": "https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/press-release/2010/675_press-release-fy2010-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2010/675_press-release-fy2010-final.pdf/675_press-release-fy2010-final.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
