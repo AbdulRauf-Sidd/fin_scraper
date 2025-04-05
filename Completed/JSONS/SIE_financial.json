@@ -1,0 +1,3832 @@
+[
+  {
+    "event_name": "Q1 FY25 Q1 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2025-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8bd20994-21a2-4c87-9115-6da02e5bda13/2025-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2025-q1-earnings-release-en.pdf/2025-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2025-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e5bbbc23-01c9-4214-a050-0c671b3e9d6b/2025-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2025-q1-presentation-en.pdf/2025-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q12025.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q12025.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q12025.html/disclaimer-q12025.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2025-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:dadfb907-c7e2-4574-b497-90eae486cb1a/2025-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2025-q1-Financial-Results-Excel.xlsx/2025-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2025-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:73b8da06-0f90-4eb4-872a-1f04e4a0d8ca/2025-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2025-q1-press-release-en.pdf/2025-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY24 Q4 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7c6b9d32-94a1-450d-a921-ce8c09544ad9/2024-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-earnings-release-en.pdf/2024-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8a7337e7-d3db-42bb-851e-3d649a19747b/2024-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-presentation-en.pdf/2024-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q42024.html/disclaimer-q42024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:933a97f0-53ec-4319-b4d1-86a6de040026/2024-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-Financial-Results-Excel.xlsx/2024-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec109872-6521-42bd-a2e4-ee8958def605/2024-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-press-release-en.pdf/2024-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "annualreports.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/annualreports.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/annualreports.html/annualreports.html",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY24 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4091122e-baa2-4c30-bf53-b6ff2b5e898b/2024-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-earnings-release-en.pdf/2024-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb245700-0afe-4455-9cdf-f683866ea2fd/2024-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-presentation-en.pdf/2024-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32024.html/disclaimer-q32024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d1493998-8344-4971-886d-4ea454e97893/2024-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-Financial-Results-Excel.xlsx/2024-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b8bf2cac-8802-496b-a1eb-39c45fe8af63/2024-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-press-release-en.pdf/2024-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY24 Q2 Q2 Q2 Q2 Q2 Halfyear Comp Key Figures",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d3cabfe3-25a4-43e4-95da-d360e689c42a/2024-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-earnings-release-en.pdf/2024-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:05ba6864-7225-43eb-8c90-e6f1beedb890/2024-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-presentation-en.pdf/2024-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22024.html/disclaimer-q22024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cb7a8acc-adac-45ee-a325-dd432214a0c1/2024-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-Financial-Results-Excel.xlsx/2024-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:72b4b425-c47c-4ec5-aead-5b3594f4a82d/2024-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-HY-report-en.pdf/2024-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Comparable-key-figures-innomotics.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:437c573b-9714-41db-848d-86b4b6cbece3/Comparable-key-figures-innomotics.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Comparable-key-figures-innomotics.pdf/Comparable-key-figures-innomotics.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20240516-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f29e5fd2-5c70-46b3-a02a-ddb4cb21dee1/20240516-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/20240516-press-release-en.pdf/20240516-press-release-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY24 Q1 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4a2c9d4f-45f3-4b01-a1b3-d4bc02b678ba/2024-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-earnings-release-en.pdf/2024-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:9ea577c0-1977-4287-ae0f-358538c678c0/2024-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-presentation-en.pdf/2024-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q12024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q12024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q12024.html/disclaimer-q12024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8ba81d2c-b424-4799-bf25-7bc5629afcea/2024-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-Financial-Results-Excel.xlsx/2024-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:311a8f40-b968-429f-8b8e-94ea513b991b/2024-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-press-release-en.pdf/2024-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cec87c63-1199-48db-8163-a7e3c2bccbd6/2023-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-earnings-release-en.pdf/2023-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:67151fa8-beb6-470a-8303-823ea68dffb4/2023-q4-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-presentation-en.pdf/2023-q4-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42023.html",
+        "file_type": "html",
+        "published_date": "2023-10-01",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/disclaimer-q42023.html/disclaimer-q42023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:51cfae25-9d6a-4a57-b7ff-b3d4736b47bb/2023-q4-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-Financial-Results-Excel.xlsx/2023-q4-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:93c22da4-ae74-40eb-8d85-d1c24955807b/2023-q4-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-press-release-en.pdf/2023-q4-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:be1828a9-2368-4c3b-a85f-f1bcb1f14a59/Siemens-Annual-Report-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/Siemens-Annual-Report-2023.pdf/Siemens-Annual-Report-2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-comparable-key-figures-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:91a25635-8782-4360-8899-7e8eaf392b8e/2023-q4-comparable-key-figures-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-comparable-key-figures-en.pdf/2023-q4-comparable-key-figures-en.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY23 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:2fbfb90c-9337-4588-87b2-ffbaf23aab6d/2023-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-earnings-release-en.pdf/2023-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f14416ff-c66b-4e4a-a40d-30b4477cbcf3/2023-q3-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-presentation-en.pdf/2023-q3-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32023.html/disclaimer-q32023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:861b29c0-e39a-43e5-9b07-c23173ca7ddd/2023-q3-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-Financial-Results-Excel.xlsx/2023-q3-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:92cf9882-5edb-49ba-be86-c2fead07a9db/2023-q3-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-press-release-en.pdf/2023-q3-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY23 Q2 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q2-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e2ded62e-f35a-42eb-b02a-a7babc5a10f5/2023-q2-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-earnings-release-en.pdf/2023-q2-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e11dd29e-eb48-43b4-8c3a-f0d2f16fade4/2023-q2-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-presentation-en.pdf/2023-q2-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22023.html/disclaimer-q22023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:14cce5a1-fe02-4517-94de-fae842624c9f/2023-q2-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-Financial-Results-Excel.xlsx/2023-q2-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:931b644e-2f6c-4e7c-91ac-e8762b9b2af1/2023-q2-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-press-release-en.pdf/2023-q2-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:569c28b5-3e69-4e04-abc7-7ed499bea298/2023-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-HY-report-en.pdf/2023-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY23 Q1 Q1 Q1 Q1 Ad hoc",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q1-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:494b8e39-10be-48df-b5db-15859497ba47/2023-q1-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-earnings-release-en.pdf/2023-q1-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cada153e-39a3-491e-b9ad-64642d0ecdc0/2023-q1-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-presentation-en.pdf/2023-q1-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7adc7403-52dd-4bfd-8964-380aa989e35a/2023-q1-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-Financial-Results-Excel.xlsx/2023-q1-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:19e7da25-e62b-4a95-9efd-2e7a98ec8968/2023-q1-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-press-release-en.pdf/2023-q1-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7864a537-7980-4c87-bff2-89df0d7e7f76/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-ad-hoc-pre-release-2.pdf/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY22 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6cf373b3-0336-49b6-97af-a74f79b38218/2022-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-earnings-release-en.pdf/2022-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-presentation-en-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb2270f7-8343-4163-abaa-6802f2ad3bea/2022-q4-presentation-en-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-presentation-en-2.pdf/2022-q4-presentation-en-2.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-Financial-Results-Excel-2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:fe315388-73b3-4fe5-96b4-556b31a45a88/2022-q4-Financial-Results-Excel-2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-Financial-Results-Excel-2.xlsx/2022-q4-Financial-Results-Excel-2.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:944138df-6628-4894-a3fd-0f9ea3826a92/2022-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-press-release-en.pdf/2022-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7bb00e91-04b9-4daf-b123-e77e43de80ab/Siemens-Annual-Report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Siemens-Annual-Report-2022.pdf/Siemens-Annual-Report-2022.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY22 Q3 Q3 Q3 Q3 Press Release PwC",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8eab820d-e0b2-48bd-b7eb-d3b4572de1d2/2022-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-earnings-release-en.pdf/2022-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:0d2863b7-8fd1-42d1-bcd2-b8e925cdc8ad/2022-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-presentation-en.pdf/2022-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:747363d8-fc73-43be-a914-b77b168ac878/2022-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-Financial-Results-Excel.xlsx/2022-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:00e9357d-38d3-4840-8cc0-478498aacb83/2022-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-en.pdf/2022-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-audit-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:297168c6-ecf2-4dc3-b5da-41fee1df9ffd/2022-q3-press-release-audit-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-audit-en.pdf/2022-q3-press-release-audit-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY22 Q2 Q2 Q2 Q2 Halfyear Press Release Russi",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f5a3804c-0f7e-480b-bc95-1cb153ecb6b0/2022-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-earnings-release-en.pdf/2022-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d07b9a9a-824a-45fe-b96b-2415432fdad7/2022-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-presentation-en.pdf/2022-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:47176a9a-a768-4dbf-b78a-e677f78fcb64/2022-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-Financial-Results-Excel.xlsx/2022-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8df3d41a-f6b0-4f95-a7a6-d34dfc3f5fbc/2022-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-en.pdf/2022-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:33cfaa47-daaa-42b4-9a7a-502278ec0971/2022-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-HY-report-en.pdf/2022-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-II-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b2d9139c-44e6-4a09-a261-fb8adac84f43/2022-q2-press-release-II-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-II-en.pdf/2022-q2-press-release-II-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY22 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:30128993-bdb2-4370-8a16-b147ec240350/2022-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-earnings-release-en.pdf/2022-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c5c1d052-76f7-4244-97b0-2a622aa8b684/2022-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-presentation-en.pdf/2022-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8762694f-745b-4186-9038-a5f25cc61b7e/2022-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-Financial-Results-Excel.xlsx/2022-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1dbcd238-2a93-43a6-a758-6611224c3c01/2022-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-press-release-en.pdf/2022-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY21 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:43a7e8bc-d805-46d4-81f3-eac8cfdea8e9/2021-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-earnings-release-en.pdf/2021-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec99c49c-490d-4f9e-b3fe-155de98fd8d4/2021-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-presentation-en.pdf/2021-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a13121c-aedb-40c0-b8f6-408a03e870b2/2021-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-Financial-Results-Excel.xlsx/2021-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f2acc1fd-e06e-4deb-97f5-bd464ad8e055/2021-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-press-release-en.pdf/2021-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "siemens-ar-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:82e18947-09d4-403e-a30e-26795c949c07/siemens-ar-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/siemens-ar-2021.pdf/siemens-ar-2021.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY21 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5957b065-0007-43fd-a276-f5bf3232b184/2021-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-earnings-release-en.pdf/2021-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:257ff823-602d-4739-99dd-6c8f33a989c0/2021-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-presentation-en.pdf/2021-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c6526a4e-72cd-464b-ae81-227d0a8c348e/2021-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-Financial-Results-Excel.xlsx/2021-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:710ffcae-a330-4c11-9216-7a903d381e4d/2021-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-press-release-en.pdf/2021-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY21 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8f8a1ad5-809d-4534-98f3-967f6de104a8/2021-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-earnings-release-en.pdf/2021-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3e01d27d-7eed-41ba-a6e2-d789ea4c58c8/2021-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-presentation-en.pdf/2021-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d6ac3461-ea2f-4221-96b5-7f37f263c0b5/2021-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-Financial-Results-Excel.xlsx/2021-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:52824092-4ed4-4269-8260-c83138d1bf3b/2021-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-press-release-en.pdf/2021-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-h1-FinancialReport-EN.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec8600ff-e5fe-4650-bacf-64ff2de88e17/2021-h1-FinancialReport-EN.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-h1-FinancialReport-EN.pdf/2021-h1-FinancialReport-EN.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY21 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5c99514e-1ee6-4860-a655-67e7c74cfa2f/2021-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-earnings-release-en.pdf/2021-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4675c27f-d3ae-42d6-96c4-23255db563b5/2021-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-presentation-en.pdf/2021-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f00efc49-106a-4d87-be6a-99d78b3a9d7a/2021-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-press-release-en.pdf/2021-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY24 Q4 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7c6b9d32-94a1-450d-a921-ce8c09544ad9/2024-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-earnings-release-en.pdf/2024-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8a7337e7-d3db-42bb-851e-3d649a19747b/2024-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-presentation-en.pdf/2024-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q42024.html/disclaimer-q42024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:933a97f0-53ec-4319-b4d1-86a6de040026/2024-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-Financial-Results-Excel.xlsx/2024-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec109872-6521-42bd-a2e4-ee8958def605/2024-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-press-release-en.pdf/2024-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "annualreports.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/annualreports.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/annualreports.html/annualreports.html",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY24 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4091122e-baa2-4c30-bf53-b6ff2b5e898b/2024-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-earnings-release-en.pdf/2024-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb245700-0afe-4455-9cdf-f683866ea2fd/2024-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-presentation-en.pdf/2024-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32024.html/disclaimer-q32024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d1493998-8344-4971-886d-4ea454e97893/2024-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-Financial-Results-Excel.xlsx/2024-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b8bf2cac-8802-496b-a1eb-39c45fe8af63/2024-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-press-release-en.pdf/2024-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY24 Q2 Q2 Q2 Q2 Q2 Halfyear Comp Key Figures",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d3cabfe3-25a4-43e4-95da-d360e689c42a/2024-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-earnings-release-en.pdf/2024-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:05ba6864-7225-43eb-8c90-e6f1beedb890/2024-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-presentation-en.pdf/2024-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22024.html/disclaimer-q22024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cb7a8acc-adac-45ee-a325-dd432214a0c1/2024-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-Financial-Results-Excel.xlsx/2024-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:72b4b425-c47c-4ec5-aead-5b3594f4a82d/2024-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-HY-report-en.pdf/2024-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Comparable-key-figures-innomotics.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:437c573b-9714-41db-848d-86b4b6cbece3/Comparable-key-figures-innomotics.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Comparable-key-figures-innomotics.pdf/Comparable-key-figures-innomotics.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20240516-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f29e5fd2-5c70-46b3-a02a-ddb4cb21dee1/20240516-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/20240516-press-release-en.pdf/20240516-press-release-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY24 Q1 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4a2c9d4f-45f3-4b01-a1b3-d4bc02b678ba/2024-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-earnings-release-en.pdf/2024-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:9ea577c0-1977-4287-ae0f-358538c678c0/2024-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-presentation-en.pdf/2024-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q12024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q12024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q12024.html/disclaimer-q12024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8ba81d2c-b424-4799-bf25-7bc5629afcea/2024-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-Financial-Results-Excel.xlsx/2024-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:311a8f40-b968-429f-8b8e-94ea513b991b/2024-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-press-release-en.pdf/2024-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cec87c63-1199-48db-8163-a7e3c2bccbd6/2023-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-earnings-release-en.pdf/2023-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:67151fa8-beb6-470a-8303-823ea68dffb4/2023-q4-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-presentation-en.pdf/2023-q4-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42023.html",
+        "file_type": "html",
+        "published_date": "2023-10-01",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/disclaimer-q42023.html/disclaimer-q42023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:51cfae25-9d6a-4a57-b7ff-b3d4736b47bb/2023-q4-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-Financial-Results-Excel.xlsx/2023-q4-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:93c22da4-ae74-40eb-8d85-d1c24955807b/2023-q4-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-press-release-en.pdf/2023-q4-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:be1828a9-2368-4c3b-a85f-f1bcb1f14a59/Siemens-Annual-Report-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/Siemens-Annual-Report-2023.pdf/Siemens-Annual-Report-2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-comparable-key-figures-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:91a25635-8782-4360-8899-7e8eaf392b8e/2023-q4-comparable-key-figures-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-comparable-key-figures-en.pdf/2023-q4-comparable-key-figures-en.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY23 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:2fbfb90c-9337-4588-87b2-ffbaf23aab6d/2023-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-earnings-release-en.pdf/2023-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f14416ff-c66b-4e4a-a40d-30b4477cbcf3/2023-q3-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-presentation-en.pdf/2023-q3-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32023.html/disclaimer-q32023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:861b29c0-e39a-43e5-9b07-c23173ca7ddd/2023-q3-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-Financial-Results-Excel.xlsx/2023-q3-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:92cf9882-5edb-49ba-be86-c2fead07a9db/2023-q3-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-press-release-en.pdf/2023-q3-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY23 Q2 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q2-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e2ded62e-f35a-42eb-b02a-a7babc5a10f5/2023-q2-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-earnings-release-en.pdf/2023-q2-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e11dd29e-eb48-43b4-8c3a-f0d2f16fade4/2023-q2-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-presentation-en.pdf/2023-q2-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22023.html/disclaimer-q22023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:14cce5a1-fe02-4517-94de-fae842624c9f/2023-q2-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-Financial-Results-Excel.xlsx/2023-q2-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:931b644e-2f6c-4e7c-91ac-e8762b9b2af1/2023-q2-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-press-release-en.pdf/2023-q2-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:569c28b5-3e69-4e04-abc7-7ed499bea298/2023-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-HY-report-en.pdf/2023-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY23 Q1 Q1 Q1 Q1 Ad hoc",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q1-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:494b8e39-10be-48df-b5db-15859497ba47/2023-q1-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-earnings-release-en.pdf/2023-q1-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cada153e-39a3-491e-b9ad-64642d0ecdc0/2023-q1-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-presentation-en.pdf/2023-q1-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7adc7403-52dd-4bfd-8964-380aa989e35a/2023-q1-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-Financial-Results-Excel.xlsx/2023-q1-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:19e7da25-e62b-4a95-9efd-2e7a98ec8968/2023-q1-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-press-release-en.pdf/2023-q1-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7864a537-7980-4c87-bff2-89df0d7e7f76/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-ad-hoc-pre-release-2.pdf/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY22 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6cf373b3-0336-49b6-97af-a74f79b38218/2022-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-earnings-release-en.pdf/2022-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-presentation-en-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb2270f7-8343-4163-abaa-6802f2ad3bea/2022-q4-presentation-en-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-presentation-en-2.pdf/2022-q4-presentation-en-2.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-Financial-Results-Excel-2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:fe315388-73b3-4fe5-96b4-556b31a45a88/2022-q4-Financial-Results-Excel-2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-Financial-Results-Excel-2.xlsx/2022-q4-Financial-Results-Excel-2.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:944138df-6628-4894-a3fd-0f9ea3826a92/2022-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-press-release-en.pdf/2022-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7bb00e91-04b9-4daf-b123-e77e43de80ab/Siemens-Annual-Report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Siemens-Annual-Report-2022.pdf/Siemens-Annual-Report-2022.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY22 Q3 Q3 Q3 Q3 Press Release PwC",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8eab820d-e0b2-48bd-b7eb-d3b4572de1d2/2022-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-earnings-release-en.pdf/2022-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:0d2863b7-8fd1-42d1-bcd2-b8e925cdc8ad/2022-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-presentation-en.pdf/2022-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:747363d8-fc73-43be-a914-b77b168ac878/2022-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-Financial-Results-Excel.xlsx/2022-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:00e9357d-38d3-4840-8cc0-478498aacb83/2022-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-en.pdf/2022-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-audit-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:297168c6-ecf2-4dc3-b5da-41fee1df9ffd/2022-q3-press-release-audit-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-audit-en.pdf/2022-q3-press-release-audit-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY22 Q2 Q2 Q2 Q2 Halfyear Press Release Russi",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f5a3804c-0f7e-480b-bc95-1cb153ecb6b0/2022-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-earnings-release-en.pdf/2022-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d07b9a9a-824a-45fe-b96b-2415432fdad7/2022-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-presentation-en.pdf/2022-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:47176a9a-a768-4dbf-b78a-e677f78fcb64/2022-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-Financial-Results-Excel.xlsx/2022-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8df3d41a-f6b0-4f95-a7a6-d34dfc3f5fbc/2022-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-en.pdf/2022-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:33cfaa47-daaa-42b4-9a7a-502278ec0971/2022-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-HY-report-en.pdf/2022-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-II-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b2d9139c-44e6-4a09-a261-fb8adac84f43/2022-q2-press-release-II-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-II-en.pdf/2022-q2-press-release-II-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY22 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:30128993-bdb2-4370-8a16-b147ec240350/2022-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-earnings-release-en.pdf/2022-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c5c1d052-76f7-4244-97b0-2a622aa8b684/2022-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-presentation-en.pdf/2022-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8762694f-745b-4186-9038-a5f25cc61b7e/2022-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-Financial-Results-Excel.xlsx/2022-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1dbcd238-2a93-43a6-a758-6611224c3c01/2022-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-press-release-en.pdf/2022-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY21 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:43a7e8bc-d805-46d4-81f3-eac8cfdea8e9/2021-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-earnings-release-en.pdf/2021-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec99c49c-490d-4f9e-b3fe-155de98fd8d4/2021-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-presentation-en.pdf/2021-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a13121c-aedb-40c0-b8f6-408a03e870b2/2021-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-Financial-Results-Excel.xlsx/2021-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f2acc1fd-e06e-4deb-97f5-bd464ad8e055/2021-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-press-release-en.pdf/2021-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "siemens-ar-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:82e18947-09d4-403e-a30e-26795c949c07/siemens-ar-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/siemens-ar-2021.pdf/siemens-ar-2021.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY21 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5957b065-0007-43fd-a276-f5bf3232b184/2021-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-earnings-release-en.pdf/2021-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:257ff823-602d-4739-99dd-6c8f33a989c0/2021-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-presentation-en.pdf/2021-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c6526a4e-72cd-464b-ae81-227d0a8c348e/2021-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-Financial-Results-Excel.xlsx/2021-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:710ffcae-a330-4c11-9216-7a903d381e4d/2021-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-press-release-en.pdf/2021-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY21 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8f8a1ad5-809d-4534-98f3-967f6de104a8/2021-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-earnings-release-en.pdf/2021-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3e01d27d-7eed-41ba-a6e2-d789ea4c58c8/2021-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-presentation-en.pdf/2021-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d6ac3461-ea2f-4221-96b5-7f37f263c0b5/2021-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-Financial-Results-Excel.xlsx/2021-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:52824092-4ed4-4269-8260-c83138d1bf3b/2021-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-press-release-en.pdf/2021-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-h1-FinancialReport-EN.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec8600ff-e5fe-4650-bacf-64ff2de88e17/2021-h1-FinancialReport-EN.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-h1-FinancialReport-EN.pdf/2021-h1-FinancialReport-EN.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY21 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5c99514e-1ee6-4860-a655-67e7c74cfa2f/2021-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-earnings-release-en.pdf/2021-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4675c27f-d3ae-42d6-96c4-23255db563b5/2021-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-presentation-en.pdf/2021-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f00efc49-106a-4d87-be6a-99d78b3a9d7a/2021-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-press-release-en.pdf/2021-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY20 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:fcdf5aa0-bb77-4b85-92c4-8348bc56e477/2020-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-earnings-release-en.pdf/2020-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a087f848-4d4c-465e-be06-1d554085483a/2020-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-presentation-en.pdf/2020-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e717defd-52e4-44f7-9b7c-2f41ec3d750c/2020-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-press-release-en.pdf/2020-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "siemens-ar2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:45446098-6c39-45ba-a5fc-e5f27ebfa875/siemens-ar2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/siemens-ar2020.pdf/siemens-ar2020.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY20 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:88bb310d-a5b7-4d75-8a20-06af35708615/2020-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-earnings-release-en.pdf/2020-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5ba17800-fdaf-4fac-ba39-82bcc7075d07/2020-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-presentation-en.pdf/2020-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8c0a9838-646e-42cd-9e15-fcf3c7818980/2020-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-press-release-en.pdf/2020-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2020",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e82bab29-25dc-49c5-b508-ecf4514dff3c/2020-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-earnings-release-en.pdf/2020-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3f931aad-fb8c-43ce-9346-76d6e918cd3d/2020-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-presentation-en.pdf/2020-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:230388f3-db45-4818-8b19-cf78d6fa0001/2020-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-press-release-en.pdf/2020-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-h1-half-year-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:397fd63a-0a40-4654-86c9-fa1447977b84/2020-h1-half-year-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-h1-half-year-report-en.pdf/2020-h1-half-year-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-comparable-key-figures-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c26b1590-32ca-4afd-aa4a-ca90901c872b/2020-q2-comparable-key-figures-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-comparable-key-figures-en.pdf/2020-q2-comparable-key-figures-en.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY20 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q1-earnings-release-e.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:48c983f0-fffd-4073-85ab-f5b28320b258/2020-q1-earnings-release-e.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q1-earnings-release-e.pdf/2020-q1-earnings-release-e.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "200205-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:32c92a69-f508-4e6f-9257-135c3e3553a2/200205-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/200205-q1-presentation-en.pdf/200205-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY24 Q4 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7c6b9d32-94a1-450d-a921-ce8c09544ad9/2024-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-earnings-release-en.pdf/2024-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8a7337e7-d3db-42bb-851e-3d649a19747b/2024-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-presentation-en.pdf/2024-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q42024.html/disclaimer-q42024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:933a97f0-53ec-4319-b4d1-86a6de040026/2024-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-Financial-Results-Excel.xlsx/2024-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec109872-6521-42bd-a2e4-ee8958def605/2024-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q4-press-release-en.pdf/2024-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "annualreports.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/annualreports.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/annualreports.html/annualreports.html",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY24 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4091122e-baa2-4c30-bf53-b6ff2b5e898b/2024-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-earnings-release-en.pdf/2024-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb245700-0afe-4455-9cdf-f683866ea2fd/2024-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-presentation-en.pdf/2024-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32024.html/disclaimer-q32024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d1493998-8344-4971-886d-4ea454e97893/2024-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-Financial-Results-Excel.xlsx/2024-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b8bf2cac-8802-496b-a1eb-39c45fe8af63/2024-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q3-press-release-en.pdf/2024-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY24 Q2 Q2 Q2 Q2 Q2 Halfyear Comp Key Figures",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d3cabfe3-25a4-43e4-95da-d360e689c42a/2024-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-earnings-release-en.pdf/2024-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:05ba6864-7225-43eb-8c90-e6f1beedb890/2024-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-presentation-en.pdf/2024-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22024.html/disclaimer-q22024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cb7a8acc-adac-45ee-a325-dd432214a0c1/2024-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-Financial-Results-Excel.xlsx/2024-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:72b4b425-c47c-4ec5-aead-5b3594f4a82d/2024-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q2-HY-report-en.pdf/2024-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Comparable-key-figures-innomotics.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:437c573b-9714-41db-848d-86b4b6cbece3/Comparable-key-figures-innomotics.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Comparable-key-figures-innomotics.pdf/Comparable-key-figures-innomotics.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20240516-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f29e5fd2-5c70-46b3-a02a-ddb4cb21dee1/20240516-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/20240516-press-release-en.pdf/20240516-press-release-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY24 Q1 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4a2c9d4f-45f3-4b01-a1b3-d4bc02b678ba/2024-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-earnings-release-en.pdf/2024-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:9ea577c0-1977-4287-ae0f-358538c678c0/2024-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-presentation-en.pdf/2024-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q12024.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q12024.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q12024.html/disclaimer-q12024.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8ba81d2c-b424-4799-bf25-7bc5629afcea/2024-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-Financial-Results-Excel.xlsx/2024-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:311a8f40-b968-429f-8b8e-94ea513b991b/2024-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2024-q1-press-release-en.pdf/2024-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cec87c63-1199-48db-8163-a7e3c2bccbd6/2023-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-earnings-release-en.pdf/2023-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:67151fa8-beb6-470a-8303-823ea68dffb4/2023-q4-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-presentation-en.pdf/2023-q4-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q42023.html",
+        "file_type": "html",
+        "published_date": "2023-10-01",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q42023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/disclaimer-q42023.html/disclaimer-q42023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:51cfae25-9d6a-4a57-b7ff-b3d4736b47bb/2023-q4-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-Financial-Results-Excel.xlsx/2023-q4-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:93c22da4-ae74-40eb-8d85-d1c24955807b/2023-q4-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-p-press-release-en.pdf/2023-q4-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:be1828a9-2368-4c3b-a85f-f1bcb1f14a59/Siemens-Annual-Report-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/Siemens-Annual-Report-2023.pdf/Siemens-Annual-Report-2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q4-comparable-key-figures-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-01",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:91a25635-8782-4360-8899-7e8eaf392b8e/2023-q4-comparable-key-figures-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2023-10-01/2023-q4-comparable-key-figures-en.pdf/2023-q4-comparable-key-figures-en.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY23 Q3 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:2fbfb90c-9337-4588-87b2-ffbaf23aab6d/2023-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-earnings-release-en.pdf/2023-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f14416ff-c66b-4e4a-a40d-30b4477cbcf3/2023-q3-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-presentation-en.pdf/2023-q3-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q32023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q32023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q32023.html/disclaimer-q32023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:861b29c0-e39a-43e5-9b07-c23173ca7ddd/2023-q3-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-Financial-Results-Excel.xlsx/2023-q3-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q3-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:92cf9882-5edb-49ba-be86-c2fead07a9db/2023-q3-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q3-p-press-release-en.pdf/2023-q3-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY23 Q2 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q2-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e2ded62e-f35a-42eb-b02a-a7babc5a10f5/2023-q2-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-earnings-release-en.pdf/2023-q2-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e11dd29e-eb48-43b4-8c3a-f0d2f16fade4/2023-q2-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-presentation-en.pdf/2023-q2-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "disclaimer-q22023.html",
+        "file_type": "html",
+        "published_date": "Null",
+        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/disclaimer-q22023.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/disclaimer-q22023.html/disclaimer-q22023.html",
+        "content_type": [
+          "financial",
+          "three-month-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:14cce5a1-fe02-4517-94de-fae842624c9f/2023-q2-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-Financial-Results-Excel.xlsx/2023-q2-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:931b644e-2f6c-4e7c-91ac-e8762b9b2af1/2023-q2-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-p-press-release-en.pdf/2023-q2-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:569c28b5-3e69-4e04-abc7-7ed499bea298/2023-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q2-HY-report-en.pdf/2023-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY23 Q1 Q1 Q1 Q1 Ad hoc",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-q1-p-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:494b8e39-10be-48df-b5db-15859497ba47/2023-q1-p-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-earnings-release-en.pdf/2023-q1-p-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:cada153e-39a3-491e-b9ad-64642d0ecdc0/2023-q1-p-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-presentation-en.pdf/2023-q1-p-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7adc7403-52dd-4bfd-8964-380aa989e35a/2023-q1-p-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-Financial-Results-Excel.xlsx/2023-q1-p-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:19e7da25-e62b-4a95-9efd-2e7a98ec8968/2023-q1-p-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-press-release-en.pdf/2023-q1-p-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7864a537-7980-4c87-bff2-89df0d7e7f76/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2023-q1-p-ad-hoc-pre-release-2.pdf/2023-q1-p-ad-hoc-pre-release-2.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY22 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6cf373b3-0336-49b6-97af-a74f79b38218/2022-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-earnings-release-en.pdf/2022-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-presentation-en-2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:bb2270f7-8343-4163-abaa-6802f2ad3bea/2022-q4-presentation-en-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-presentation-en-2.pdf/2022-q4-presentation-en-2.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-Financial-Results-Excel-2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:fe315388-73b3-4fe5-96b4-556b31a45a88/2022-q4-Financial-Results-Excel-2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-Financial-Results-Excel-2.xlsx/2022-q4-Financial-Results-Excel-2.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:944138df-6628-4894-a3fd-0f9ea3826a92/2022-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q4-press-release-en.pdf/2022-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Siemens-Annual-Report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:7bb00e91-04b9-4daf-b123-e77e43de80ab/Siemens-Annual-Report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/Siemens-Annual-Report-2022.pdf/Siemens-Annual-Report-2022.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY22 Q3 Q3 Q3 Q3 Press Release PwC",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8eab820d-e0b2-48bd-b7eb-d3b4572de1d2/2022-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-earnings-release-en.pdf/2022-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:0d2863b7-8fd1-42d1-bcd2-b8e925cdc8ad/2022-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-presentation-en.pdf/2022-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:747363d8-fc73-43be-a914-b77b168ac878/2022-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-Financial-Results-Excel.xlsx/2022-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:00e9357d-38d3-4840-8cc0-478498aacb83/2022-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-en.pdf/2022-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q3-press-release-audit-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:297168c6-ecf2-4dc3-b5da-41fee1df9ffd/2022-q3-press-release-audit-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q3-press-release-audit-en.pdf/2022-q3-press-release-audit-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY22 Q2 Q2 Q2 Q2 Halfyear Press Release Russi",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f5a3804c-0f7e-480b-bc95-1cb153ecb6b0/2022-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-earnings-release-en.pdf/2022-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d07b9a9a-824a-45fe-b96b-2415432fdad7/2022-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-presentation-en.pdf/2022-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:47176a9a-a768-4dbf-b78a-e677f78fcb64/2022-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-Financial-Results-Excel.xlsx/2022-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8df3d41a-f6b0-4f95-a7a6-d34dfc3f5fbc/2022-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-en.pdf/2022-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-HY-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:33cfaa47-daaa-42b4-9a7a-502278ec0971/2022-q2-HY-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-HY-report-en.pdf/2022-q2-HY-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q2-press-release-II-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:b2d9139c-44e6-4a09-a261-fb8adac84f43/2022-q2-press-release-II-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q2-press-release-II-en.pdf/2022-q2-press-release-II-en.pdf",
+        "content_type": [
+          "seminar",
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY22 Q1 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:30128993-bdb2-4370-8a16-b147ec240350/2022-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-earnings-release-en.pdf/2022-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c5c1d052-76f7-4244-97b0-2a622aa8b684/2022-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-presentation-en.pdf/2022-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8762694f-745b-4186-9038-a5f25cc61b7e/2022-q1-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-Financial-Results-Excel.xlsx/2022-q1-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2022-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1dbcd238-2a93-43a6-a758-6611224c3c01/2022-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2022-q1-press-release-en.pdf/2022-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY21 Q4 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:43a7e8bc-d805-46d4-81f3-eac8cfdea8e9/2021-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-earnings-release-en.pdf/2021-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec99c49c-490d-4f9e-b3fe-155de98fd8d4/2021-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-presentation-en.pdf/2021-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:1a13121c-aedb-40c0-b8f6-408a03e870b2/2021-q4-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-Financial-Results-Excel.xlsx/2021-q4-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f2acc1fd-e06e-4deb-97f5-bd464ad8e055/2021-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q4-press-release-en.pdf/2021-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "siemens-ar-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:82e18947-09d4-403e-a30e-26795c949c07/siemens-ar-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/siemens-ar-2021.pdf/siemens-ar-2021.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY21 Q3 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5957b065-0007-43fd-a276-f5bf3232b184/2021-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-earnings-release-en.pdf/2021-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:257ff823-602d-4739-99dd-6c8f33a989c0/2021-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-presentation-en.pdf/2021-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c6526a4e-72cd-464b-ae81-227d0a8c348e/2021-q3-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-Financial-Results-Excel.xlsx/2021-q3-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:710ffcae-a330-4c11-9216-7a903d381e4d/2021-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q3-press-release-en.pdf/2021-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 FY21 Q2 Q2 Q2 Q2 Halfyear",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8f8a1ad5-809d-4534-98f3-967f6de104a8/2021-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-earnings-release-en.pdf/2021-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3e01d27d-7eed-41ba-a6e2-d789ea4c58c8/2021-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-presentation-en.pdf/2021-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-Financial-Results-Excel.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:d6ac3461-ea2f-4221-96b5-7f37f263c0b5/2021-q2-Financial-Results-Excel.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-Financial-Results-Excel.xlsx/2021-q2-Financial-Results-Excel.xlsx",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:52824092-4ed4-4269-8260-c83138d1bf3b/2021-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q2-press-release-en.pdf/2021-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-h1-FinancialReport-EN.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ec8600ff-e5fe-4650-bacf-64ff2de88e17/2021-h1-FinancialReport-EN.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-h1-FinancialReport-EN.pdf/2021-h1-FinancialReport-EN.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY21 Q1 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-q1-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5c99514e-1ee6-4860-a655-67e7c74cfa2f/2021-q1-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-earnings-release-en.pdf/2021-q1-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4675c27f-d3ae-42d6-96c4-23255db563b5/2021-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-presentation-en.pdf/2021-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-q1-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f00efc49-106a-4d87-be6a-99d78b3a9d7a/2021-q1-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2021-q1-press-release-en.pdf/2021-q1-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 FY20 Q4 Q4 Q4 Annual",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q4-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:fcdf5aa0-bb77-4b85-92c4-8348bc56e477/2020-q4-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-earnings-release-en.pdf/2020-q4-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q4-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a087f848-4d4c-465e-be06-1d554085483a/2020-q4-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-presentation-en.pdf/2020-q4-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q4-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e717defd-52e4-44f7-9b7c-2f41ec3d750c/2020-q4-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q4-press-release-en.pdf/2020-q4-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "siemens-ar2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:45446098-6c39-45ba-a5fc-e5f27ebfa875/siemens-ar2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/siemens-ar2020.pdf/siemens-ar2020.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY20 Q3 Q3 Q3",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q3-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:88bb310d-a5b7-4d75-8a20-06af35708615/2020-q3-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-earnings-release-en.pdf/2020-q3-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q3-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:5ba17800-fdaf-4fac-ba39-82bcc7075d07/2020-q3-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-presentation-en.pdf/2020-q3-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q3-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:8c0a9838-646e-42cd-9e15-fcf3c7818980/2020-q3-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q3-press-release-en.pdf/2020-q3-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2020",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q2-earnings-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:e82bab29-25dc-49c5-b508-ecf4514dff3c/2020-q2-earnings-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-earnings-release-en.pdf/2020-q2-earnings-release-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3f931aad-fb8c-43ce-9346-76d6e918cd3d/2020-q2-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-presentation-en.pdf/2020-q2-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-press-release-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:230388f3-db45-4818-8b19-cf78d6fa0001/2020-q2-press-release-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-press-release-en.pdf/2020-q2-press-release-en.pdf",
+        "content_type": [
+          "financial",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-h1-half-year-report-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:397fd63a-0a40-4654-86c9-fa1447977b84/2020-h1-half-year-report-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-h1-half-year-report-en.pdf/2020-h1-half-year-report-en.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-q2-comparable-key-figures-en.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-31",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:c26b1590-32ca-4afd-aa4a-ca90901c872b/2020-q2-comparable-key-figures-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2020-03-31/2020-q2-comparable-key-figures-en.pdf/2020-q2-comparable-key-figures-en.pdf",
+        "content_type": [
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY20 Q1 Q1",
+    "equity_ticker": "SIE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-q1-earnings-release-e.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:48c983f0-fffd-4073-85ab-f5b28320b258/2020-q1-earnings-release-e.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/2020-q1-earnings-release-e.pdf/2020-q1-earnings-release-e.pdf",
+        "content_type": [
+          "financial",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "200205-q1-presentation-en.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:32c92a69-f508-4e6f-9257-135c3e3553a2/200205-q1-presentation-en.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/Null/200205-q1-presentation-en.pdf/200205-q1-presentation-en.pdf",
+        "content_type": [
+          "presentation",
+          "financial"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

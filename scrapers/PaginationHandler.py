@@ -218,4 +218,36 @@ class PaginationHandler:
 
         return all_events
     
+    async def click_expandable_containers(self, page, expand_button_selector):
+        """
+        Clicks all unexpanded accordion buttons to reveal hidden content.
+        Avoids clicking already expanded buttons by checking 'aria-expanded'.
+        """
+        try:
+            buttons = await page.query_selector_all(expand_button_selector)
+            print(f"🔘 Found {len(buttons)} expandable containers.")
     
+            clicked = 0
+            for button in buttons:
+                if await button.is_visible():
+                    expanded = await button.get_attribute("aria-expanded")
+                    if expanded == "false":
+                        try:
+                            await button.click()
+                            await asyncio.sleep(1.5)  # wait for content animation
+                            clicked += 1
+                        except Exception as e:
+                            print(f"⚠️ Failed to click: {e}")
+                    else:
+                        print("↪️ Already expanded, skipping...")
+    
+            if clicked == 0:
+                print("⚠️ No unexpanded containers were clicked.")
+            else:
+                print(f"✅ Clicked and expanded {clicked} containers.")
+    
+            return clicked > 0
+    
+        except Exception as e:
+            print(f"❌ Error in click_expandable_containers: {e}")
+            return False

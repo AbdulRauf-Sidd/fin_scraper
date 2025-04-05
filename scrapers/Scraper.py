@@ -162,6 +162,16 @@ class Scraper:
                         events = await self.extract_data_from_page(page)
                         all_events.extend(events)
                         print(f"✅ Scraped {len(events)} items from page {i}")
+                elif pag_type == "expand_all":
+                    while True:
+                        print(f"\n📄 Scraping page")
+                        clicked = await self.pagination_handler.click_expandable_containers(page, selector)
+                        events = await self.extract_data_from_page(page)
+                        all_events.extend(events)
+                        print(f"✅ Scraped {len(events)} items from page")
+
+                        if not clicked:
+                            break
                 else:
                     print("\n📄 Scraping single page")
                     events = await self.extract_data_from_page(page)
