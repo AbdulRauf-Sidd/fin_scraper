@@ -1135,9 +1135,10 @@ DGE_news:     # review
   url: https://www.diageo.com/en/news-and-media/stories
   output: data/DGE_news.json
   output_json: JSONS/DGE_news.json
-  base_address: https://www.diageo.com/
+  base_address: https://www.diageo.com/en/
   periodic: false
   geography: "European"
+  link_archive: 'links/DGE.txt'
   forced_type: "news"
   headless: false
   direct: false
@@ -1156,9 +1157,10 @@ DGE_results:    # review
   output: data/DGE_results.json
   output_json: JSONS/DGE_results.json
   base_address: https://www.diageo.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "results"
+  forced_type: null
+  link_archive: 'links/DGE.txt'
   headless: false
   direct: false
   selectors:
