@@ -1129,7 +1129,7 @@ WISE_press:
     archive: null
     timeout: null
 
-DGE_news:     # review
+DGE_news:     # working
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/news-and-media/stories
@@ -1150,7 +1150,7 @@ DGE_news:     # review
     archive: null
     timeout: null
 
-DGE_results:    # review
+DGE_results:    # working
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/results
@@ -1171,58 +1171,61 @@ DGE_results:    # review
     archive: null
     timeout: null 
 
-DGE_events:     # review
+DGE_events:     # working
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-events
   output: data/DGE_events.json
   output_json: JSONS/DGE_events.json
   base_address: https://www.diageo.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: null
+  link_archive: 'links/DGE.txt'
   headless: false
-  direct: true
+  direct: false
   selectors:
-    event_block:
+    event_block: table.w-100
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null 
 
-DGE_reports:      # review
+DGE_reports:      # working
   ticker: DGE
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/annual-reports
   output: data/DGE_reports.json
   output_json: JSONS/DGE_reports.json
   base_address: https://www.diageo.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "reports"
+  forced_type: "financial-filings"
+  link_archive: 'links/DGE.txt'
   headless: false
-  direct: true
+  direct: false
   selectors:
-    event_block:
+    event_block: table.w-100
   pagination:
     type: null
     next_button: null
     archive: null
     timeout: null
 
-DGE_press-releases:       # review 
+DGE_press_releases:       # review 
   ticker: DGE       # Complete
   scraper: null
   url: https://www.diageo.com/en/investors/results-reports-and-events/investor-press-releases
   output: data/DGE_press-releases.json
   output_json: JSONS/DGE_press-releases.json
   base_address: https://www.diageo.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "press releases"
+  forced_type: "press-release"
+  link_archive: 'links/DGE.txt'
   headless: false
-  direct: true
+  direct: false
   selectors:
     event_block: div.press-releaseCard__content.p-sm-2
   pagination:
