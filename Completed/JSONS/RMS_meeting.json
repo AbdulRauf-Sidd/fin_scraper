@@ -1,0 +1,40 @@
+[
+  {
+    "event_name": "2024 Universal Registration Document (e-accessible) 15.36 MB 03.27.2025 - | 15.36 MB | 03.27.2025",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2024-universal-registration-document",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://finance.hermes.com/2024-universal-registration-document",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04/2024-universal-registration-document/2024-universal-registration-document.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 au BALO (in French) - Combined General Meeting of 30 April 2025",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2025",
+        "file_type": "pdf",
+        "published_date": "2025-04-30",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2025",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2025-04-30/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2025/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2025.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
