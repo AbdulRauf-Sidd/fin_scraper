@@ -635,7 +635,7 @@ SY1_events:
   output_json: JSONS/SY1_events.json
   base_address: https://www.symrise.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: null
   headless: false
   direct: true
