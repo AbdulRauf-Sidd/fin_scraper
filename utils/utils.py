@@ -242,6 +242,7 @@ async def extract_links_from_url(page, url):
         await page.goto(url)
         await enable_stealth(page)
         await page.wait_for_load_state('load')
+        await scroll_page(page)
         # if await is_bad_link(page2):
         #     logging.warning(f"Bad link detected: {url}")
         #     return None, None
@@ -258,6 +259,25 @@ async def extract_links_from_url(page, url):
         print('ERROR LOGGING', e)
         logging.info(f"Error extracting links from url: {url}")
         return [url], False
+
+
+async def scroll_page(page):
+        """Scrolls to the bottom of the page to trigger lazy loading."""
+        try:
+            last_height = await page.evaluate("document.body.scrollHeight")
+
+            while True:
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await asyncio.sleep(5)  # Allow time for loading
+
+                new_height = await page.evaluate("document.body.scrollHeight")
+                if new_height == last_height:
+                    break  # Stop when no more content is loading
+                last_height = new_height
+
+            print("✅ Scrolling complete, all content loaded.")
+        except:
+            print("⚠️ Error during scrolling, content may not be fully loaded.")
     
     
 # async def convert_page_to_pdf(url, base_url="https://www.sec.gov", headless=True):
@@ -315,6 +335,7 @@ async def capture_full_page_screenshot(context, page=None, url=None):
             await page.goto(url)
             await page.wait_for_load_state('load')
             await asyncio.sleep(2)  # Adjust sleep time as necessary
+            await scroll_page(page)
         # Navigate to the URL
         # Create downloads directory if it does not exist
         os.makedirs('downloads', exist_ok=True)
