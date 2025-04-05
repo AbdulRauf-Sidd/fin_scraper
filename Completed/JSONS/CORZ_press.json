@@ -302,127 +302,6 @@
     ]
   },
   {
-    "event_name": "Nov 20, 2024 Core Scientific Announces Approval of Lease endments with the City of Denton to Enable High-Performance Computing Expansion",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion",
-        "file_type": "html",
-        "published_date": "2024-11-20",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/100/core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-11-20/core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion/core-scientific-announces-approval-of-lease-amendments-with-the-city-of-denton-to-enable-high-performance-computing-expansion.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Nov 6, 2024 Core Scientific Announces Fiscal Third Quarter 2024 Results",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-fiscal-third-quarter-2024-results",
-        "file_type": "html",
-        "published_date": "2024-11-06",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/98/core-scientific-announces-fiscal-third-quarter-2024-results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-11-06/core-scientific-announces-fiscal-third-quarter-2024-results/core-scientific-announces-fiscal-third-quarter-2024-results.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Nov 5, 2024 Core Scientific Announces October 2024 Production and Operations Updates",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-october-2024-production-and-operations-updates",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/97/core-scientific-announces-october-2024-production-and-operations-updates",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-11-05/core-scientific-announces-october-2024-production-and-operations-updates/core-scientific-announces-october-2024-production-and-operations-updates.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Schedules Third Quarter Fiscal Year 2024 Earnings Release, Conference Call and Webcast",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
-        "file_type": "html",
-        "published_date": "2024-10-30",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/96/core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-10-30/core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast/core-scientific-inc-schedules-third-quarter-fiscal-year-2024-earnings-release-conference-call-and-webcast.html",
-        "content_type": [
-          "press",
-          "financial-filing",
-          "webcast"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Oct 22, 2024 Core Scientific Announces Exercise of Final Contract Option by CoreWeave for Delivery of Approximately 120 MW of Additional Digital Infrastructure to Host High-Performance Computing Operations",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations",
-        "file_type": "html",
-        "published_date": "2024-10-22",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/95/core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-10-22/core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations/core-scientific-announces-exercise-of-final-contract-option-by-coreweave-for-delivery-of-approximately-120-mw-of-additional-digital-infrastructure-to-host-high-performance-computing-operations.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Oct 7, 2024 Core Scientific Announces September 2024 Production and Operations Updates",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-september-2024-production-and-operations-updates",
-        "file_type": "html",
-        "published_date": "2024-10-07",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/94/core-scientific-announces-september-2024-production-and-operations-updates",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-10-07/core-scientific-announces-september-2024-production-and-operations-updates/core-scientific-announces-september-2024-production-and-operations-updates.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Sep 6, 2024 Core Scientific Announces CFO Transition Plan",
     "equity_ticker": "CORZ",
     "geography": "US",
@@ -655,45 +534,6 @@
         "content_type": [
           "presentation",
           "webcast",
-          "press"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Jun 5, 2024 Core Scientific Announces May 2024 Production and Operations Updates",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-announces-may-2024-production-and-operations-updates",
-        "file_type": "html",
-        "published_date": "2024-06-05",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/75/core-scientific-announces-may-2024-production-and-operations-updates",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-06-05/core-scientific-announces-may-2024-production-and-operations-updates/core-scientific-announces-may-2024-production-and-operations-updates.html",
-        "content_type": [
-          "press",
-          "announcement"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "May 15, 2024 Core Scientific, Inc. to Participate in 19th Annual Needh Technology, Media, & Consumer Conference",
-    "equity_ticker": "CORZ",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference",
-        "file_type": "html",
-        "published_date": "2024-05-15",
-        "source_url": "https://investors.corescientific.com/news-events/press-releases/detail/73/core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2024-05-15/core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference/core-scientific-inc-to-participate-in-19th-annual-needham-technology-media-consumer-conference.html",
-        "content_type": [
           "press"
         ],
         "record_type": "download"
@@ -1098,6 +938,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Dec 21, 2023 Core Scientific, Inc. Announces Agreement in Principle on Terms of Chapter 11 Global Plan Settlement with All Key Stakeholders and Extension of Equity Rights Offering Subscription Deadline",
     "equity_ticker": "CORZ",
     "geography": "US",
@@ -1118,7 +959,10 @@
     ]
   },
   {
+    "event_name": "Dec 8, 2023 How to Subscribe to Core Scientific’s Equity Rights Offering",
+=======
     "event_name": "Dec 8, 2023 How to Subscribe to Core Scientific\u2019s Equity Rights Offering",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1297,7 +1141,7 @@
     ]
   },
   {
-    "event_name": "Sep 15, 2023 Core Scientific, Inc. and Celsius Mining LLC Enter into Purchase Agreement for Core Scientific\u2019s Texas Data Center Site, Agree to Settle All Existing Litigation",
+    "event_name": "Sep 15, 2023 Core Scientific, Inc. and Celsius Mining LLC Enter into Purchase Agreement for Core Scientific’s Texas Data Center Site, Agree to Settle All Existing Litigation",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1394,7 +1238,7 @@
     ]
   },
   {
-    "event_name": "Appoints Ad Sullivan as CEO to Lead the Company\u2019s Next Phase of Growth",
+    "event_name": "Appoints Ad Sullivan as CEO to Lead the Company’s Next Phase of Growth",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1473,7 +1317,7 @@
     ]
   },
   {
-    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization \u2013 Maintains Industry Position as One of North erica\u2019s Larg Bitcoin Miners",
+    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization – Maintains Industry Position as One of North erica’s Larg Bitcoin Miners",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1492,6 +1336,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Annual Global Invment Conference",
     "equity_ticker": "CORZ",
     "geography": "US",
@@ -1570,7 +1415,7 @@
     ]
   },
   {
-    "event_name": "Appoints Ad Sullivan as CEO to Lead the Company\u2019s Next Phase of Growth",
+    "event_name": "Appoints Ad Sullivan as CEO to Lead the Company’s Next Phase of Growth",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1649,7 +1494,7 @@
     ]
   },
   {
-    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization \u2013 Maintains Industry Position as One of North erica\u2019s Larg Bitcoin Miners",
+    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization – Maintains Industry Position as One of North erica’s Larg Bitcoin Miners",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1927,7 +1772,7 @@
     ]
   },
   {
-    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization \u2013 Maintains Industry Position as One of North erica\u2019s Larg Bitcoin Miners",
+    "event_name": "Apr 28, 2023 Core Scientific Signs Hosting Contracts with Three Public Companies During Reorganization – Maintains Industry Position as One of North erica’s Larg Bitcoin Miners",
     "equity_ticker": "CORZ",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1946,6 +1791,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Apr 5, 2023 Core Scientific Announces March 2023 Production and Operations Updates",
     "equity_ticker": "CORZ",
     "geography": "US",

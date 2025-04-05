@@ -400,7 +400,7 @@ async def check_file_link(url):
         return None
     url = url.rstrip('/')
     logging.info(f"Checking file link: {url}")
-    return any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.htm', '.mkv', '.avi', '.csv', '.xlsx'])
+    return any(ext in url for ext in ['.pdf', '.zip', '.rar', '.mkv', '.mp4', '.mp3', '.mkv', '.avi', '.csv', '.xlsx'])
 
 
 import requests

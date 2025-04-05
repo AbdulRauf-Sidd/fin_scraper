@@ -38,7 +38,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Collection Presents Veronica Leoni\u2019s Debut Runway Show For Fall 2025",
+    "event_name": "Calvin Klein Collection Presents Veronica Leoni’s Debut Runway Show For Fall 2025",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Returns to New York Fashion Week Brand to unveil Veronica Leoni\u2019s Fall/Winter 2025 debut for Calvin Klein Collection",
+    "event_name": "Calvin Klein Returns to New York Fashion Week Brand to unveil Veronica Leoni’s Fall/Winter 2025 debut for Calvin Klein Collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -114,7 +114,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand\u2019s new womenswear",
+    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand’s new womenswear",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsg\u00e5rd Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsg\u00e5rd in the brand\u2019s lat men\u2019s apparel",
+    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsgård Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsgård in the brand’s lat men’s apparel",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -152,6 +152,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Calvin Klein launches new cpaign starring Lily Collins Calvin Klein today unveils its Spring 2025 cpaign starring actor Lily Collins in her debut for the brand",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -190,7 +191,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Collection Presents Veronica Leoni\u2019s Debut Runway Show For Fall 2025",
+    "event_name": "Calvin Klein Collection Presents Veronica Leoni’s Debut Runway Show For Fall 2025",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -209,7 +210,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Returns to New York Fashion Week Brand to unveil Veronica Leoni\u2019s Fall/Winter 2025 debut for Calvin Klein Collection",
+    "event_name": "Calvin Klein Returns to New York Fashion Week Brand to unveil Veronica Leoni’s Fall/Winter 2025 debut for Calvin Klein Collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -266,7 +267,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand\u2019s new womenswear",
+    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand’s new womenswear",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -285,7 +286,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsg\u00e5rd Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsg\u00e5rd in the brand\u2019s lat men\u2019s apparel",
+    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsgård Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsgård in the brand’s lat men’s apparel",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -304,7 +305,10 @@
     ]
   },
   {
+    "event_name": "TOMMY HILFIGER Takes Stray Kids to New York City Skyline for Fall 2024 Cpaign Launching a collection of distinctly New York autumn visuals, the K-pop boyband showcases their signature style atop the city’s rooftops",
+=======
     "event_name": "TOMMY HILFIGER Takes Stray Kids to New York City Skyline for Fall 2024 Cpaign Launching a collection of distinctly New York autumn visuals, the K-pop boyband showcases their signature style atop the city\u2019s rooftops",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -323,7 +327,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER and Mercedes-G Petronas Formula One\u2122 Te launch limited-edition collection with Clarence Ruth The collaboration fuses 'Tommy Hilfiger\u2019s\u2019 signature prep with the cutting-edge power of Mercedes-G F1 Te and puts emerging designer Clarence Ruth in the driver\u2019s seat",
+    "event_name": "TOMMY HILFIGER and Mercedes-G Petronas Formula One™ Te launch limited-edition collection with Clarence Ruth The collaboration fuses 'Tommy Hilfiger’s’ signature prep with the cutting-edge power of Mercedes-G F1 Te and puts emerging designer Clarence Ruth in the driver’s seat",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -438,6 +442,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Calvin Klein launches Fall 2024 cpaign with NewJeans Calvin Klein today introduces the final chapter of its Fall 2024 cpaign starring the five members of global musical phenomenon NewJeans",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -476,7 +481,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand\u2019s new womenswear",
+    "event_name": "Calvin Klein unveils new womenswear cpaign starring Kendall Jenner Calvin Klein launches a new installment of its Fall 2024 cpaign starring supermodel Kendall Jenner in the brand’s new womenswear",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -495,7 +500,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsg\u00e5rd Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsg\u00e5rd in the brand\u2019s lat men\u2019s apparel",
+    "event_name": "Calvin Klein launches new menswear cpaign starring Alexander Skarsgård Calvin Klein introduces a new installment of its Fall 2024 cpaign featuring award-winning actor Alexander Skarsgård in the brand’s lat men’s apparel",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -514,7 +519,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Takes Stray Kids to New York City Skyline for Fall 2024 Cpaign Launching a collection of distinctly New York autumn visuals, the K-pop boyband showcases their signature style atop the city\u2019s rooftops",
+    "event_name": "TOMMY HILFIGER Takes Stray Kids to New York City Skyline for Fall 2024 Cpaign Launching a collection of distinctly New York autumn visuals, the K-pop boyband showcases their signature style atop the city’s rooftops",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -533,7 +538,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER and Mercedes-G Petronas Formula One\u2122 Te launch limited-edition collection with Clarence Ruth The collaboration fuses 'Tommy Hilfiger\u2019s\u2019 signature prep with the cutting-edge power of Mercedes-G F1 Te and puts emerging designer Clarence Ruth in the driver\u2019s seat",
+    "event_name": "TOMMY HILFIGER and Mercedes-G Petronas Formula One™ Te launch limited-edition collection with Clarence Ruth The collaboration fuses 'Tommy Hilfiger’s’ signature prep with the cutting-edge power of Mercedes-G F1 Te and puts emerging designer Clarence Ruth in the driver’s seat",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -648,7 +653,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein launches new Calvin Klein Home cpaign starring Cila Morrone The Calvin Klein Home Spring 2024 cpaign stars Emmy Award-nominated actress Cila Morrone surrounded by the brand\u2019s lat home essentials Mar 19, 2024",
+    "event_name": "Calvin Klein launches new Calvin Klein Home cpaign starring Cila Morrone The Calvin Klein Home Spring 2024 cpaign stars Emmy Award-nominated actress Cila Morrone surrounded by the brand’s lat home essentials Mar 19, 2024",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -686,7 +691,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils Spring 2024 womenswear cpaign starring Kendall Jenner Longtime brand bassador Kendall channels sophisticated, effortless sensuality in Calvin Klein\u2019s Spring womenswear collection",
+    "event_name": "Calvin Klein unveils Spring 2024 womenswear cpaign starring Kendall Jenner Longtime brand bassador Kendall channels sophisticated, effortless sensuality in Calvin Klein’s Spring womenswear collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -705,7 +710,7 @@
     ]
   },
   {
-    "event_name": "For Fall-Winter \u201924 Runway Show With the Grand Central\u2019s Oyster Bar as its backdrop, the brand highlighted the icons of Classic erican Cool both on and off the runway as \u2018See Now, Buy Now\u2019 shifts to the front row",
+    "event_name": "For Fall-Winter ’24 Runway Show With the Grand Central’s Oyster Bar as its backdrop, the brand highlighted the icons of Classic erican Cool both on and off the runway as ‘See Now, Buy Now’ shifts to the front row",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -743,7 +748,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER\u2019s red, white and blue DNA",
+    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER’s red, white and blue DNA",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -801,7 +806,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein\u2019s most emblematic underwear Jan 04, 2024",
+    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein’s most emblematic underwear Jan 04, 2024",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -916,7 +921,10 @@
     ]
   },
   {
+    "event_name": "Calvin Klein launches new Calvin Klein Home cpaign starring Cila Morrone The Calvin Klein Home Spring 2024 cpaign stars Emmy Award-nominated actress Cila Morrone surrounded by the brand’s lat home essentials Mar 19, 2024",
+=======
     "event_name": "Calvin Klein launches new Calvin Klein Home cpaign starring Cila Morrone The Calvin Klein Home Spring 2024 cpaign stars Emmy Award-nominated actress Cila Morrone surrounded by the brand\u2019s lat home essentials Mar 19, 2024",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -954,7 +962,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils Spring 2024 womenswear cpaign starring Kendall Jenner Longtime brand bassador Kendall channels sophisticated, effortless sensuality in Calvin Klein\u2019s Spring womenswear collection",
+    "event_name": "Calvin Klein unveils Spring 2024 womenswear cpaign starring Kendall Jenner Longtime brand bassador Kendall channels sophisticated, effortless sensuality in Calvin Klein’s Spring womenswear collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -973,7 +981,7 @@
     ]
   },
   {
-    "event_name": "For Fall-Winter \u201924 Runway Show With the Grand Central\u2019s Oyster Bar as its backdrop, the brand highlighted the icons of Classic erican Cool both on and off the runway as \u2018See Now, Buy Now\u2019 shifts to the front row",
+    "event_name": "For Fall-Winter ’24 Runway Show With the Grand Central’s Oyster Bar as its backdrop, the brand highlighted the icons of Classic erican Cool both on and off the runway as ‘See Now, Buy Now’ shifts to the front row",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1011,7 +1019,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER\u2019s red, white and blue DNA",
+    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER’s red, white and blue DNA",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1069,7 +1077,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein\u2019s most emblematic underwear Jan 04, 2024",
+    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein’s most emblematic underwear Jan 04, 2024",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1088,7 +1096,7 @@
     ]
   },
   {
-    "event_name": "PVH Ned to Forbes World\u2019s Top Companies for Women List We strive to promote inclusion, equity, belonging and the advancement of women in our workplace and communities",
+    "event_name": "PVH Ned to Forbes World’s Top Companies for Women List We strive to promote inclusion, equity, belonging and the advancement of women in our workplace and communities",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1137,7 +1145,7 @@
     ]
   },
   {
-    "event_name": "I&D Commitment No. 9 \u2013 One Year Progress Report A global invment and commitment to plify awareness and access in fashion Sep 18, 2023",
+    "event_name": "I&D Commitment No. 9 – One Year Progress Report A global invment and commitment to plify awareness and access in fashion Sep 18, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1157,7 +1165,7 @@
     ]
   },
   {
-    "event_name": "Warners\u2019 New Fall 2023 Collections",
+    "event_name": "Warners’ New Fall 2023 Collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1214,6 +1222,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH and The PVH Foundation Welcome New Global Partners for 2024 Commitment to Professional Advancement in Fashion An update on the continued invment in our four-year progr Feb 07, 2024",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -1233,7 +1242,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER\u2019s red, white and blue DNA",
+    "event_name": "Tommy Hilfiger Announces Sofia Richie Grainge as Womenswear bassador through 2025 A multi-year deal including seasonal storytelling, brand cpaigns and collection collaborations will fuse the fashion icon's impeccable taste with TOMMY HILFIGER’s red, white and blue DNA",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1291,7 +1300,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein\u2019s most emblematic underwear Jan 04, 2024",
+    "event_name": "Calvin Klein unveils first installment of its Spring 2024 cpaign starring Jeremy Allen White Renowned actor Jeremy Allen White in his debut for the brand wearing Calvin Klein’s most emblematic underwear Jan 04, 2024",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1310,7 +1319,7 @@
     ]
   },
   {
-    "event_name": "PVH Ned to Forbes World\u2019s Top Companies for Women List We strive to promote inclusion, equity, belonging and the advancement of women in our workplace and communities",
+    "event_name": "PVH Ned to Forbes World’s Top Companies for Women List We strive to promote inclusion, equity, belonging and the advancement of women in our workplace and communities",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1359,7 +1368,7 @@
     ]
   },
   {
-    "event_name": "I&D Commitment No. 9 \u2013 One Year Progress Report A global invment and commitment to plify awareness and access in fashion Sep 18, 2023",
+    "event_name": "I&D Commitment No. 9 – One Year Progress Report A global invment and commitment to plify awareness and access in fashion Sep 18, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1379,7 +1388,7 @@
     ]
   },
   {
-    "event_name": "Warners\u2019 New Fall 2023 Collections",
+    "event_name": "Warners’ New Fall 2023 Collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1455,7 +1464,7 @@
     ]
   },
   {
-    "event_name": "This year on International Women\u2019s Day, True & Co called on its community to create a special video speaking to the brand\u2019s values of togetherness and female empowerment",
+    "event_name": "This year on International Women’s Day, True & Co called on its community to create a special video speaking to the brand’s values of togetherness and female empowerment",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1474,7 +1483,7 @@
     ]
   },
   {
-    "event_name": "The brand has released its first-ever wireless, Easy Size\u2122 strapless bra from its bselling Easy Does It\u00ae collection",
+    "event_name": "The brand has released its first-ever wireless, Easy Size™ strapless bra from its bselling Easy Does It® collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1493,7 +1502,7 @@
     ]
   },
   {
-    "event_name": "Warners\u2019 Legacy of Material Innovation From molded mesh to stretch lace and microfibers, the stuff of Warners intimates has yielded comfort, support, and easy care\u2014complemented by sleek and attractive style\u2014for generations of women Jun 21, 2023",
+    "event_name": "Warners’ Legacy of Material Innovation From molded mesh to stretch lace and microfibers, the stuff of Warners intimates has yielded comfort, support, and easy care—complemented by sleek and attractive style—for generations of women Jun 21, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1531,7 +1540,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Celebrates 100 Years of Disney with Disney X Tommy Collaboration erican icons ' TOMMY HILFIGER ' and \u2018Disney\u2019 come together to present a collection of prep classics with a manga twist",
+    "event_name": "TOMMY HILFIGER Celebrates 100 Years of Disney with Disney X Tommy Collaboration erican icons ' TOMMY HILFIGER ' and ‘Disney’ come together to present a collection of prep classics with a manga twist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1550,7 +1559,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 \u201cThis Is Love\u201d collection May 23, 2023",
+    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 “This Is Love” collection May 23, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1588,7 +1597,7 @@
     ]
   },
   {
-    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand\u2019s Spring 2023 collections",
+    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand’s Spring 2023 collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1608,7 +1617,7 @@
     ]
   },
   {
-    "event_name": "Warners\u2019 New Fall 2023 Collections",
+    "event_name": "Warners’ New Fall 2023 Collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1665,6 +1674,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "True & Co Launches First-Ever Bandeau Bra True & Co is adding to its assortment of soft, comfy wirefree bras with its first-ever bandeau silhouette Jun 28, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -1684,7 +1695,7 @@
     ]
   },
   {
-    "event_name": "This year on International Women\u2019s Day, True & Co called on its community to create a special video speaking to the brand\u2019s values of togetherness and female empowerment",
+    "event_name": "This year on International Women’s Day, True & Co called on its community to create a special video speaking to the brand’s values of togetherness and female empowerment",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1703,7 +1714,7 @@
     ]
   },
   {
-    "event_name": "The brand has released its first-ever wireless, Easy Size\u2122 strapless bra from its bselling Easy Does It\u00ae collection",
+    "event_name": "The brand has released its first-ever wireless, Easy Size™ strapless bra from its bselling Easy Does It® collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1722,7 +1733,7 @@
     ]
   },
   {
-    "event_name": "Warners\u2019 Legacy of Material Innovation From molded mesh to stretch lace and microfibers, the stuff of Warners intimates has yielded comfort, support, and easy care\u2014complemented by sleek and attractive style\u2014for generations of women Jun 21, 2023",
+    "event_name": "Warners’ Legacy of Material Innovation From molded mesh to stretch lace and microfibers, the stuff of Warners intimates has yielded comfort, support, and easy care—complemented by sleek and attractive style—for generations of women Jun 21, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1760,7 +1771,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Celebrates 100 Years of Disney with Disney X Tommy Collaboration erican icons ' TOMMY HILFIGER ' and \u2018Disney\u2019 come together to present a collection of prep classics with a manga twist",
+    "event_name": "TOMMY HILFIGER Celebrates 100 Years of Disney with Disney X Tommy Collaboration erican icons ' TOMMY HILFIGER ' and ‘Disney’ come together to present a collection of prep classics with a manga twist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1779,7 +1790,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 \u201cThis Is Love\u201d collection May 23, 2023",
+    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 “This Is Love” collection May 23, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1817,7 +1828,7 @@
     ]
   },
   {
-    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand\u2019s Spring 2023 collections",
+    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand’s Spring 2023 collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1837,7 +1848,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER and Shawn Mendes Collaborate on a Collection for a Better Tomorrow with \u2018Classics Reborn\u2019 for Spring 2023 The partnership with Shawn Mendes develops with a focus on sustainability shaping the lat cpaign and collection",
+    "event_name": "TOMMY HILFIGER and Shawn Mendes Collaborate on a Collection for a Better Tomorrow with ‘Classics Reborn’ for Spring 2023 The partnership with Shawn Mendes develops with a focus on sustainability shaping the lat cpaign and collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1856,7 +1867,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Launches Its \u2018Classics Reborn\u2019 Cpaign for Spring \u201823 Renowned prep style finds new life through the self-expression of the next generation Feb 15, 2023",
+    "event_name": "TOMMY HILFIGER Launches Its ‘Classics Reborn’ Cpaign for Spring ‘23 Renowned prep style finds new life through the self-expression of the next generation Feb 15, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1875,7 +1886,7 @@
     ]
   },
   {
-    "event_name": "\u2018Tommy Collection\u2019 by TOMMY JEANS Returns for Spring \u201823 A new collection of contemporary streetwear classics Feb 13, 2023",
+    "event_name": "‘Tommy Collection’ by TOMMY JEANS Returns for Spring ‘23 A new collection of contemporary streetwear classics Feb 13, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1894,7 +1905,7 @@
     ]
   },
   {
-    "event_name": "Winners of the TOMMY HILFIGER Fashion Frontier Challenge Bring Impactful and Inclusive Solutions for the Future Koalaa and Moner Bondhu were ned winners of the global progr\u2019s fourth edition Feb 10, 2023",
+    "event_name": "Winners of the TOMMY HILFIGER Fashion Frontier Challenge Bring Impactful and Inclusive Solutions for the Future Koalaa and Moner Bondhu were ned winners of the global progr’s fourth edition Feb 10, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1913,7 +1924,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Unveils 2023 \u201cThis is Love\u201d Pride Collection and Exclusive First Nations Capsule in Australia Launches 'Feel Pride' cpaign starring Troye Sivan in celebration of Pride Feb 06, 2023",
+    "event_name": "Calvin Klein Unveils 2023 “This is Love” Pride Collection and Exclusive First Nations Capsule in Australia Launches 'Feel Pride' cpaign starring Troye Sivan in celebration of Pride Feb 06, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -1932,7 +1943,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Unveils Lat \u2018Calvins or nothing\u2019 Cpaign featuring Tennis Player Carlos Alcaraz Calvin Klein is excited to launch the lat chapter of its 'Calvins or nothing' cpaign starring the world No. 1 singles player Jan 10, 2023",
+    "event_name": "Calvin Klein Unveils Lat ‘Calvins or nothing’ Cpaign featuring Tennis Player Carlos Alcaraz Calvin Klein is excited to launch the lat chapter of its 'Calvins or nothing' cpaign starring the world No. 1 singles player Jan 10, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2011,7 +2022,8 @@
     ]
   },
   {
-    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 \u201cThis Is Love\u201d collection May 23, 2023",
+<<<<<<< HEAD
+    "event_name": "Calvin Klein celebrates Pride through sensual self-expression in Let It Out cpaign Starring actors andla Stenberg (she/her) and Brandon Flynn (he/him) in the 2023 “This Is Love” collection May 23, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2049,7 +2061,7 @@
     ]
   },
   {
-    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand\u2019s Spring 2023 collections",
+    "event_name": "The world-renowned sensation makes his debut for the brand in a new cpaign wearing the brand’s Spring 2023 collections",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2069,7 +2081,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER and Shawn Mendes Collaborate on a Collection for a Better Tomorrow with \u2018Classics Reborn\u2019 for Spring 2023 The partnership with Shawn Mendes develops with a focus on sustainability shaping the lat cpaign and collection",
+    "event_name": "TOMMY HILFIGER and Shawn Mendes Collaborate on a Collection for a Better Tomorrow with ‘Classics Reborn’ for Spring 2023 The partnership with Shawn Mendes develops with a focus on sustainability shaping the lat cpaign and collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2088,7 +2100,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Launches Its \u2018Classics Reborn\u2019 Cpaign for Spring \u201823 Renowned prep style finds new life through the self-expression of the next generation Feb 15, 2023",
+    "event_name": "TOMMY HILFIGER Launches Its ‘Classics Reborn’ Cpaign for Spring ‘23 Renowned prep style finds new life through the self-expression of the next generation Feb 15, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2107,7 +2119,7 @@
     ]
   },
   {
-    "event_name": "\u2018Tommy Collection\u2019 by TOMMY JEANS Returns for Spring \u201823 A new collection of contemporary streetwear classics Feb 13, 2023",
+    "event_name": "‘Tommy Collection’ by TOMMY JEANS Returns for Spring ‘23 A new collection of contemporary streetwear classics Feb 13, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2126,7 +2138,7 @@
     ]
   },
   {
-    "event_name": "Winners of the TOMMY HILFIGER Fashion Frontier Challenge Bring Impactful and Inclusive Solutions for the Future Koalaa and Moner Bondhu were ned winners of the global progr\u2019s fourth edition Feb 10, 2023",
+    "event_name": "Winners of the TOMMY HILFIGER Fashion Frontier Challenge Bring Impactful and Inclusive Solutions for the Future Koalaa and Moner Bondhu were ned winners of the global progr’s fourth edition Feb 10, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2145,7 +2157,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Unveils 2023 \u201cThis is Love\u201d Pride Collection and Exclusive First Nations Capsule in Australia Launches 'Feel Pride' cpaign starring Troye Sivan in celebration of Pride Feb 06, 2023",
+    "event_name": "Calvin Klein Unveils 2023 “This is Love” Pride Collection and Exclusive First Nations Capsule in Australia Launches 'Feel Pride' cpaign starring Troye Sivan in celebration of Pride Feb 06, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2164,7 +2176,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Unveils Lat \u2018Calvins or nothing\u2019 Cpaign featuring Tennis Player Carlos Alcaraz Calvin Klein is excited to launch the lat chapter of its 'Calvins or nothing' cpaign starring the world No. 1 singles player Jan 10, 2023",
+    "event_name": "Calvin Klein Unveils Lat ‘Calvins or nothing’ Cpaign featuring Tennis Player Carlos Alcaraz Calvin Klein is excited to launch the lat chapter of its 'Calvins or nothing' cpaign starring the world No. 1 singles player Jan 10, 2023",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2183,6 +2195,240 @@
     ]
   },
   {
+    "event_name": "2022 Corporate Responsibility Year-in-Review A snapshot of the global progress we made in 2022 toward our Corporate Responsibility priorities Dec 19, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-cr-year-in-review.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-12-19",
+        "source_url": "https://www.pvh.com/news/2022-cr-year-in-review",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/2022-cr-year-in-review.jpeg/2022-cr-year-in-review.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "CR Dindigul Agreement.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-12-19",
+        "source_url": "https://pvh.com/-/media/Files/pvh/responsibility/CR-Dindigul-Agreement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/CR%20Dindigul%20Agreement.pdf/CR%20Dindigul%20Agreement.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "PVH CR Report 2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-12-19",
+        "source_url": "https://pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/PVH%20CR%20Report%202021.pdf/PVH%20CR%20Report%202021.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "TOMMY HILFIGER Collaborates with Anthony Ros on Holiday 2022 Capsule Collection Capsule collection celebrates the holiday season with go-to new prep staples Nov 30, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "tommy-hilfiger-anthony-ramos-holiday-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-11-30",
+        "source_url": "https://www.pvh.com/news/tommy-hilfiger-anthony-ramos-holiday-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-11-30/tommy-hilfiger-anthony-ramos-holiday-2022.jpeg/tommy-hilfiger-anthony-ramos-holiday-2022.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
+    "event_name": "TOMMY JEANS and the NBA Drop New Collaborative Collection Gender inclusive collection celebrates the essence of basketball Oct 25, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "tommy-jeans-nba-collection.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-10-25",
+        "source_url": "https://www.pvh.com/news/tommy-jeans-nba-collection",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-25/tommy-jeans-nba-collection.jpeg/tommy-jeans-nba-collection.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "LGBTQ History Month: PVH Associates Discuss Pride Tune in to the discussion Oct 12, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "lgbtq-history-month-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-10-12",
+        "source_url": "https://www.pvh.com/news/lgbtq-history-month-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-12/lgbtq-history-month-2022.jpeg/lgbtq-history-month-2022.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "PVH Corp. Associates Discuss Advancing Disability Awareness and Inclusion for National Disability Employee Awareness Month Tune in to the roundtable discussion Oct 03, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ndeam-pov-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-10-03",
+        "source_url": "https://www.pvh.com/news/ndeam-pov-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-03/ndeam-pov-2022.jpeg/ndeam-pov-2022.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "True & Co Launches Any Wear Lounge Collection True & Co x",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "true-co-any-wear-lounge-collection.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-09-26",
+        "source_url": "https://www.pvh.com/news/true-co-any-wear-lounge-collection",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-26/true-co-any-wear-lounge-collection.jpeg/true-co-any-wear-lounge-collection.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "The PVH Foundation Joins Apparel Impact Institute Fashion Climate Fund as New Lead Funder Contribution by The PVH Foundation supports supply chain improvements to drive fashion forward – for good Sep 22, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "fashion-climate-fund.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-09-22",
+        "source_url": "https://www.pvh.com/news/fashion-climate-fund",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-22/fashion-climate-fund.jpeg/fashion-climate-fund.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "PVH Corp. Associates Discuss Supporting Vibrant Cultures and Communities for Hispanic & Latinx Heritage Month Tune in to the roundtable discussion Sep 15, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "hispanic-latinx-heritage-month-pov-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-09-15",
+        "source_url": "https://www.pvh.com/news/hispanic-latinx-heritage-month-pov-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-15/hispanic-latinx-heritage-month-pov-2022.jpeg/hispanic-latinx-heritage-month-pov-2022.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Tommy Hilfiger Collaborates with British Designer Richard Quinn to Create a Limited-Edition Capsule Award-winning designer Richard Quinn brings his iconoclastic vision to the TOMMY HILFIGER brand in a dazzling gender-inclusive collection Sep 01, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "th-richard-quinn-capsule.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-09-01",
+        "source_url": "https://www.pvh.com/news/th-richard-quinn-capsule",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-01/th-richard-quinn-capsule.jpeg/th-richard-quinn-capsule.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Calvin Klein Launches Fall 2022 Cpaign Featuring Expansive Cast of Culture Shapers Featuring the new Underwear and Jeans, the collection of original essentials is designed for the everyday and updated for now Aug 31, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "calvin-klein-fall-2022-campaign.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-08-31",
+        "source_url": "https://www.pvh.com/news/calvin-klein-fall-2022-campaign",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-08-31/calvin-klein-fall-2022-campaign.jpeg/calvin-klein-fall-2022-campaign.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Tommy Hilfiger Introduces Fall 2022 “TH Monogr” Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
+    "equity_ticker": "PVH",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "th-monogram.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-08-25",
+        "source_url": "https://www.pvh.com/news/th-monogram",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-08-25/th-monogram.jpeg/th-monogram.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+<<<<<<< HEAD
     "event_name": "2022 Corporate Responsibility Year-in-Review A snapshot of the global progress we made in 2022 toward our Corporate Responsibility priorities Dec 19, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -2319,7 +2565,7 @@
     ]
   },
   {
-    "event_name": "The PVH Foundation Joins Apparel Impact Institute Fashion Climate Fund as New Lead Funder Contribution by The PVH Foundation supports supply chain improvements to drive fashion forward \u2013 for good Sep 22, 2022",
+    "event_name": "The PVH Foundation Joins Apparel Impact Institute Fashion Climate Fund as New Lead Funder Contribution by The PVH Foundation supports supply chain improvements to drive fashion forward – for good Sep 22, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2395,7 +2641,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Introduces Fall 2022 \u201cTH Monogr\u201d Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
+    "event_name": "Tommy Hilfiger Introduces Fall 2022 “TH Monogr” Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2414,238 +2660,7 @@
     ]
   },
   {
-    "event_name": "2022 Corporate Responsibility Year-in-Review A snapshot of the global progress we made in 2022 toward our Corporate Responsibility priorities Dec 19, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "2022-cr-year-in-review.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-12-19",
-        "source_url": "https://www.pvh.com/news/2022-cr-year-in-review",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/2022-cr-year-in-review.jpeg/2022-cr-year-in-review.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      },
-      {
-        "file_name": "CR Dindigul Agreement.pdf",
-        "file_type": "pdf",
-        "published_date": "2022-12-19",
-        "source_url": "https://pvh.com/-/media/Files/pvh/responsibility/CR-Dindigul-Agreement.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/CR%20Dindigul%20Agreement.pdf/CR%20Dindigul%20Agreement.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "PVH CR Report 2021.pdf",
-        "file_type": "pdf",
-        "published_date": "2022-12-19",
-        "source_url": "https://pvh.com/-/media/Files/pvh/responsibility/PVH-CR-Report-2021.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-12-19/PVH%20CR%20Report%202021.pdf/PVH%20CR%20Report%202021.pdf",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "TOMMY HILFIGER Collaborates with Anthony Ros on Holiday 2022 Capsule Collection Capsule collection celebrates the holiday season with go-to new prep staples Nov 30, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "tommy-hilfiger-anthony-ramos-holiday-2022.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-11-30",
-        "source_url": "https://www.pvh.com/news/tommy-hilfiger-anthony-ramos-holiday-2022",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-11-30/tommy-hilfiger-anthony-ramos-holiday-2022.jpeg/tommy-hilfiger-anthony-ramos-holiday-2022.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "TOMMY JEANS and the NBA Drop New Collaborative Collection Gender inclusive collection celebrates the essence of basketball Oct 25, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "tommy-jeans-nba-collection.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-10-25",
-        "source_url": "https://www.pvh.com/news/tommy-jeans-nba-collection",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-25/tommy-jeans-nba-collection.jpeg/tommy-jeans-nba-collection.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "LGBTQ History Month: PVH Associates Discuss Pride Tune in to the discussion Oct 12, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "lgbtq-history-month-2022.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-10-12",
-        "source_url": "https://www.pvh.com/news/lgbtq-history-month-2022",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-12/lgbtq-history-month-2022.jpeg/lgbtq-history-month-2022.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. Associates Discuss Advancing Disability Awareness and Inclusion for National Disability Employee Awareness Month Tune in to the roundtable discussion Oct 03, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "ndeam-pov-2022.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-10-03",
-        "source_url": "https://www.pvh.com/news/ndeam-pov-2022",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-10-03/ndeam-pov-2022.jpeg/ndeam-pov-2022.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "True & Co Launches Any Wear Lounge Collection True & Co x",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "true-co-any-wear-lounge-collection.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-09-26",
-        "source_url": "https://www.pvh.com/news/true-co-any-wear-lounge-collection",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-26/true-co-any-wear-lounge-collection.jpeg/true-co-any-wear-lounge-collection.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "The PVH Foundation Joins Apparel Impact Institute Fashion Climate Fund as New Lead Funder Contribution by The PVH Foundation supports supply chain improvements to drive fashion forward \u2013 for good Sep 22, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "fashion-climate-fund.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-09-22",
-        "source_url": "https://www.pvh.com/news/fashion-climate-fund",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-22/fashion-climate-fund.jpeg/fashion-climate-fund.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. Associates Discuss Supporting Vibrant Cultures and Communities for Hispanic & Latinx Heritage Month Tune in to the roundtable discussion Sep 15, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "hispanic-latinx-heritage-month-pov-2022.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-09-15",
-        "source_url": "https://www.pvh.com/news/hispanic-latinx-heritage-month-pov-2022",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-15/hispanic-latinx-heritage-month-pov-2022.jpeg/hispanic-latinx-heritage-month-pov-2022.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Tommy Hilfiger Collaborates with British Designer Richard Quinn to Create a Limited-Edition Capsule Award-winning designer Richard Quinn brings his iconoclastic vision to the TOMMY HILFIGER brand in a dazzling gender-inclusive collection Sep 01, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "th-richard-quinn-capsule.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-09-01",
-        "source_url": "https://www.pvh.com/news/th-richard-quinn-capsule",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-09-01/th-richard-quinn-capsule.jpeg/th-richard-quinn-capsule.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Calvin Klein Launches Fall 2022 Cpaign Featuring Expansive Cast of Culture Shapers Featuring the new Underwear and Jeans, the collection of original essentials is designed for the everyday and updated for now Aug 31, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "calvin-klein-fall-2022-campaign.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-08-31",
-        "source_url": "https://www.pvh.com/news/calvin-klein-fall-2022-campaign",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-08-31/calvin-klein-fall-2022-campaign.jpeg/calvin-klein-fall-2022-campaign.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Tommy Hilfiger Introduces Fall 2022 \u201cTH Monogr\u201d Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "th-monogram.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2022-08-25",
-        "source_url": "https://www.pvh.com/news/th-monogram",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2022-08-25/th-monogram.jpeg/th-monogram.jpeg",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. and HSBC Partner on First Sustainable Supply Chain Finance Progr Tied to Environmental and Social Factors Providing PVH\u2019s suppliers with access to critical funding based on a science-based environmental and social targets Jun 29, 2022",
+    "event_name": "PVH Corp. and HSBC Partner on First Sustainable Supply Chain Finance Progr Tied to Environmental and Social Factors Providing PVH’s suppliers with access to critical funding based on a science-based environmental and social targets Jun 29, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2664,7 +2679,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Expands Roblox Partnership with Immersive Community Space \u2018TOMMY PLAY\u2019 to further engage Roblox community members and enrich their experiences Jun 02, 2022",
+    "event_name": "Tommy Hilfiger Expands Roblox Partnership with Immersive Community Space ‘TOMMY PLAY’ to further engage Roblox community members and enrich their experiences Jun 02, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2713,7 +2728,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Celebrates Chosen Filies Within the LGBTQIA+ Community in \"This is Love\" Cpaign Featuring the brand\u2019s new collection, a reimagined approach to Pride May 19, 2022",
+    "event_name": "Calvin Klein Celebrates Chosen Filies Within the LGBTQIA+ Community in \"This is Love\" Cpaign Featuring the brand’s new collection, a reimagined approach to Pride May 19, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2732,7 +2747,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Announces Global \u201cPlay It Forward\u201d Partnership with Shawn Mendes on its Sustainability Journey Kicking off with the Summer 2022 \u2018Classics Reborn\u2019 cpaign May 12, 2022",
+    "event_name": "Tommy Hilfiger Announces Global “Play It Forward” Partnership with Shawn Mendes on its Sustainability Journey Kicking off with the Summer 2022 ‘Classics Reborn’ cpaign May 12, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2792,7 +2807,7 @@
     ]
   },
   {
-    "event_name": "CK1 Palace A collection that unites Calvin Klein\u2019s iconic minimalism with Palace\u2019s irreverent, modern style Apr 07, 2022",
+    "event_name": "CK1 Palace A collection that unites Calvin Klein’s iconic minimalism with Palace’s irreverent, modern style Apr 07, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2887,7 +2902,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Introduces Fall 2022 \u201cTH Monogr\u201d Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
+    "event_name": "Tommy Hilfiger Introduces Fall 2022 “TH Monogr” Collection Created in collaboration with Fergus Purcell, the new monogr is the centerpiece of the Fall 2022 collection Aug 25, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2906,7 +2921,10 @@
     ]
   },
   {
+    "event_name": "PVH Corp. and HSBC Partner on First Sustainable Supply Chain Finance Progr Tied to Environmental and Social Factors Providing PVH’s suppliers with access to critical funding based on a science-based environmental and social targets Jun 29, 2022",
+=======
     "event_name": "PVH Corp. and HSBC Partner on First Sustainable Supply Chain Finance Progr Tied to Environmental and Social Factors Providing PVH\u2019s suppliers with access to critical funding based on a science-based environmental and social targets Jun 29, 2022",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2925,7 +2943,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Expands Roblox Partnership with Immersive Community Space \u2018TOMMY PLAY\u2019 to further engage Roblox community members and enrich their experiences Jun 02, 2022",
+    "event_name": "Tommy Hilfiger Expands Roblox Partnership with Immersive Community Space ‘TOMMY PLAY’ to further engage Roblox community members and enrich their experiences Jun 02, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2974,7 +2992,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Celebrates Chosen Filies Within the LGBTQIA+ Community in \"This is Love\" Cpaign Featuring the brand\u2019s new collection, a reimagined approach to Pride May 19, 2022",
+    "event_name": "Calvin Klein Celebrates Chosen Filies Within the LGBTQIA+ Community in \"This is Love\" Cpaign Featuring the brand’s new collection, a reimagined approach to Pride May 19, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -2993,7 +3011,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Announces Global \u201cPlay It Forward\u201d Partnership with Shawn Mendes on its Sustainability Journey Kicking off with the Summer 2022 \u2018Classics Reborn\u2019 cpaign May 12, 2022",
+    "event_name": "Tommy Hilfiger Announces Global “Play It Forward” Partnership with Shawn Mendes on its Sustainability Journey Kicking off with the Summer 2022 ‘Classics Reborn’ cpaign May 12, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3053,7 +3071,7 @@
     ]
   },
   {
-    "event_name": "CK1 Palace A collection that unites Calvin Klein\u2019s iconic minimalism with Palace\u2019s irreverent, modern style Apr 07, 2022",
+    "event_name": "CK1 Palace A collection that unites Calvin Klein’s iconic minimalism with Palace’s irreverent, modern style Apr 07, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3091,7 +3109,7 @@
     ]
   },
   {
-    "event_name": "Leadership Update \u2013 Rick Relinger Rick Relinger is confirmed as SVP, Chief Sustainability Officer Mar 31, 2022",
+    "event_name": "Leadership Update – Rick Relinger Rick Relinger is confirmed as SVP, Chief Sustainability Officer Mar 31, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3148,7 +3166,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Associates Share Insights on Empowerment and Resilience on International Women\u2019s Day PVH Corp",
+    "event_name": "PVH Corp. Associates Share Insights on Empowerment and Resilience on International Women’s Day PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3205,7 +3223,7 @@
     ]
   },
   {
-    "event_name": "PVH Receives 100 on Human Rights Cpaign Foundation\u2019s 2022 Corporate Equality Index Recognized as one of the B Places To Work For LGBTQ+ Equality Jan 27, 2022",
+    "event_name": "PVH Receives 100 on Human Rights Cpaign Foundation’s 2022 Corporate Equality Index Recognized as one of the B Places To Work For LGBTQ+ Equality Jan 27, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3224,6 +3242,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "TOMMY HILFIGER Joins the First-Ever Decentraland Metaverse Fashion Week TOMMY HILFIGER will present its Spring 2022 collection at the first-ever virtual Metaverse Fashion Week Mar 24, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3262,7 +3281,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Associates Share Insights on Empowerment and Resilience on International Women\u2019s Day PVH Corp",
+    "event_name": "PVH Corp. Associates Share Insights on Empowerment and Resilience on International Women’s Day PVH Corp",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3319,7 +3338,7 @@
     ]
   },
   {
-    "event_name": "PVH Receives 100 on Human Rights Cpaign Foundation\u2019s 2022 Corporate Equality Index Recognized as one of the B Places To Work For LGBTQ+ Equality Jan 27, 2022",
+    "event_name": "PVH Receives 100 on Human Rights Cpaign Foundation’s 2022 Corporate Equality Index Recognized as one of the B Places To Work For LGBTQ+ Equality Jan 27, 2022",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3338,6 +3357,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "An Update on Our Inclusion & Diversity Progress Even in 2021, the COVID-19 pandemic continued to challenge the fashion industry in new ways",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3396,7 +3417,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Launches Tommy X Roblox Creators Virtual Collection Furthering Tommy Hilfiger\u2019s commitment to create innovative, immersive, and accessible digital experiences Dec 16, 2021",
+    "event_name": "Tommy Hilfiger Launches Tommy X Roblox Creators Virtual Collection Furthering Tommy Hilfiger’s commitment to create innovative, immersive, and accessible digital experiences Dec 16, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3491,7 +3512,7 @@
     ]
   },
   {
-    "event_name": "PVH Recognized on Fortune\u2019s B Workplaces in Retail List A ranking of the b companies to work for in the retail industry in the US Nov 04, 2021",
+    "event_name": "PVH Recognized on Fortune’s B Workplaces in Retail List A ranking of the b companies to work for in the retail industry in the US Nov 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3567,7 +3588,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Empower Women Progress Reported in UNF\u2019s Private Sector Action Progress Report The Report details Women\u2019s Health and Empowerment commitments and progress from 20 private sector companies Oct 22, 2021",
+    "event_name": "PVH’s Empower Women Progress Reported in UNF’s Private Sector Action Progress Report The Report details Women’s Health and Empowerment commitments and progress from 20 private sector companies Oct 22, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3618,6 +3639,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Power of Us: PVH University bassadors Click to meet our PVH U bassadors Isabel Huang, Marco Shimomoto and Tim Goedhart!",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3675,7 +3697,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Empower Women Progress Reported in UNF\u2019s Private Sector Action Progress Report The Report details Women\u2019s Health and Empowerment commitments and progress from 20 private sector companies Oct 22, 2021",
+    "event_name": "PVH’s Empower Women Progress Reported in UNF’s Private Sector Action Progress Report The Report details Women’s Health and Empowerment commitments and progress from 20 private sector companies Oct 22, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3726,7 +3748,10 @@
     ]
   },
   {
+    "event_name": "Tommy Jeans Celebrates Launch of \"Tommy Revisited: Music Edition\" TOMMY JEANS honors iconic musicians from the brand’s archives with a streetwear-inspired take on music-merch Oct 21, 2021",
+=======
     "event_name": "Tommy Jeans Celebrates Launch of \"Tommy Revisited: Music Edition\" TOMMY JEANS honors iconic musicians from the brand\u2019s archives with a streetwear-inspired take on music-merch Oct 21, 2021",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3840,7 +3865,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Launches Inspirational Fall 2021 \u201cPass the Mic\u201d Cpaign With Yara Shahidi, Anthony Ros, Jack Harlow, Wizkid, Kim Soo-Hyun and DJ",
+    "event_name": "TOMMY HILFIGER Launches Inspirational Fall 2021 “Pass the Mic” Cpaign With Yara Shahidi, Anthony Ros, Jack Harlow, Wizkid, Kim Soo-Hyun and DJ",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3878,7 +3903,7 @@
     ]
   },
   {
-    "event_name": "Advancing PVH\u2019s commitment to sustainably source 100% of its cotton by 2025 Sep 09, 2021",
+    "event_name": "Advancing PVH’s commitment to sustainably source 100% of its cotton by 2025 Sep 09, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3897,7 +3922,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces the Lat Chapter of the #mycalvins Movement: The Language of Calvin Klein Furthering the brand\u2019s exploration of self-expression through the words we speak and the clothes we wear Sep 09, 2021",
+    "event_name": "Calvin Klein Introduces the Lat Chapter of the #mycalvins Movement: The Language of Calvin Klein Furthering the brand’s exploration of self-expression through the words we speak and the clothes we wear Sep 09, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -3973,7 +3998,7 @@
     ]
   },
   {
-    "event_name": "A six-part video series that answers Europe\u2019s most Google-searched quions about jeans Aug 18, 2021",
+    "event_name": "A six-part video series that answers Europe’s most Google-searched quions about jeans Aug 18, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4022,6 +4047,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH Celebrates National Disability Employee Awareness Month Hear from the Co-Chairs of our Differently-Abled Asia Business Resource Group (BRG) Oct 14, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -4098,7 +4124,7 @@
     ]
   },
   {
-    "event_name": "TOMMY HILFIGER Launches Inspirational Fall 2021 \u201cPass the Mic\u201d Cpaign With Yara Shahidi, Anthony Ros, Jack Harlow, Wizkid, Kim Soo-Hyun and DJ",
+    "event_name": "TOMMY HILFIGER Launches Inspirational Fall 2021 “Pass the Mic” Cpaign With Yara Shahidi, Anthony Ros, Jack Harlow, Wizkid, Kim Soo-Hyun and DJ",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4136,7 +4162,7 @@
     ]
   },
   {
-    "event_name": "Advancing PVH\u2019s commitment to sustainably source 100% of its cotton by 2025 Sep 09, 2021",
+    "event_name": "Advancing PVH’s commitment to sustainably source 100% of its cotton by 2025 Sep 09, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4155,7 +4181,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces the Lat Chapter of the #mycalvins Movement: The Language of Calvin Klein Furthering the brand\u2019s exploration of self-expression through the words we speak and the clothes we wear Sep 09, 2021",
+    "event_name": "Calvin Klein Introduces the Lat Chapter of the #mycalvins Movement: The Language of Calvin Klein Furthering the brand’s exploration of self-expression through the words we speak and the clothes we wear Sep 09, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4231,7 +4257,7 @@
     ]
   },
   {
-    "event_name": "A six-part video series that answers Europe\u2019s most Google-searched quions about jeans Aug 18, 2021",
+    "event_name": "A six-part video series that answers Europe’s most Google-searched quions about jeans Aug 18, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4280,7 +4306,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Reimagines Iconic Styles in TommyXRomeo Capsule Collection Co-Designed with Romeo Hunte Co-created with Brooklyn designer Romeo Hunte, the \u201cTommyXRomeo\u201d capsule reconstructs, remixes and reimagines the b of the brand\u2019s archives Aug 12, 2021",
+    "event_name": "Tommy Hilfiger Reimagines Iconic Styles in TommyXRomeo Capsule Collection Co-Designed with Romeo Hunte Co-created with Brooklyn designer Romeo Hunte, the “TommyXRomeo” capsule reconstructs, remixes and reimagines the b of the brand’s archives Aug 12, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4318,7 +4344,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces New Video Series, On The Line Watch the first episode, featuring Calvin Klein cpaign talents Honey Dijon and Janaya \u201cFuture\u201d Khan Jul 23, 2021",
+    "event_name": "Calvin Klein Introduces New Video Series, On The Line Watch the first episode, featuring Calvin Klein cpaign talents Honey Dijon and Janaya “Future” Khan Jul 23, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4394,7 +4420,7 @@
     ]
   },
   {
-    "event_name": "PVH Ranked No. 9 on Fortune\u2019s 20 Most Progressive Companies in Diversity and Inclusion Measure Up is Fortune\u2019s new initiative that aims to make Inclusion & Diversity critical to business success Jun 03, 2021",
+    "event_name": "PVH Ranked No. 9 on Fortune’s 20 Most Progressive Companies in Diversity and Inclusion Measure Up is Fortune’s new initiative that aims to make Inclusion & Diversity critical to business success Jun 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4470,7 +4496,7 @@
     ]
   },
   {
-    "event_name": "A six-part video series that answers Europe\u2019s most Google-searched quions about jeans Aug 18, 2021",
+    "event_name": "A six-part video series that answers Europe’s most Google-searched quions about jeans Aug 18, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4519,7 +4545,10 @@
     ]
   },
   {
+    "event_name": "Tommy Hilfiger Reimagines Iconic Styles in TommyXRomeo Capsule Collection Co-Designed with Romeo Hunte Co-created with Brooklyn designer Romeo Hunte, the “TommyXRomeo” capsule reconstructs, remixes and reimagines the b of the brand’s archives Aug 12, 2021",
+=======
     "event_name": "Tommy Hilfiger Reimagines Iconic Styles in TommyXRomeo Capsule Collection Co-Designed with Romeo Hunte Co-created with Brooklyn designer Romeo Hunte, the \u201cTommyXRomeo\u201d capsule reconstructs, remixes and reimagines the b of the brand\u2019s archives Aug 12, 2021",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4557,7 +4586,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces New Video Series, On The Line Watch the first episode, featuring Calvin Klein cpaign talents Honey Dijon and Janaya \u201cFuture\u201d Khan Jul 23, 2021",
+    "event_name": "Calvin Klein Introduces New Video Series, On The Line Watch the first episode, featuring Calvin Klein cpaign talents Honey Dijon and Janaya “Future” Khan Jul 23, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4633,7 +4662,7 @@
     ]
   },
   {
-    "event_name": "PVH Ranked No. 9 on Fortune\u2019s 20 Most Progressive Companies in Diversity and Inclusion Measure Up is Fortune\u2019s new initiative that aims to make Inclusion & Diversity critical to business success Jun 03, 2021",
+    "event_name": "PVH Ranked No. 9 on Fortune’s 20 Most Progressive Companies in Diversity and Inclusion Measure Up is Fortune’s new initiative that aims to make Inclusion & Diversity critical to business success Jun 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4652,7 +4681,7 @@
     ]
   },
   {
-    "event_name": "Leadership Update \u2013 Sarah Clarke Sarah Clarke will now serve as Chief Supply Chain Officer May 27, 2021",
+    "event_name": "Leadership Update – Sarah Clarke Sarah Clarke will now serve as Chief Supply Chain Officer May 27, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4690,7 +4719,7 @@
     ]
   },
   {
-    "event_name": "Announce New Partnership to Improve Nutrition for Working Women and Mothers in Bangladesh\u2019s Garment Sector We have an important role to play in inving in the health and prosperity of our people and their communities May 17, 2021",
+    "event_name": "Announce New Partnership to Improve Nutrition for Working Women and Mothers in Bangladesh’s Garment Sector We have an important role to play in inving in the health and prosperity of our people and their communities May 17, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4730,7 +4759,7 @@
     ]
   },
   {
-    "event_name": "Leadership Update \u2013 Dana Perlman Dana Perlman will now serve as Chief Strategy Officer and Treasurer May 04, 2021",
+    "event_name": "Leadership Update – Dana Perlman Dana Perlman will now serve as Chief Strategy Officer and Treasurer May 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4749,7 +4778,7 @@
     ]
   },
   {
-    "event_name": "Power of Us: Jan\u00e1 Neal and Rose Bailey Discuss their New Appointments as BRAAVE Co-Chairs BRAAVE is the Building Resources for African erican Voices and Empowerment Business Resource Group at PVH Apr 26, 2021",
+    "event_name": "Power of Us: Janá Neal and Rose Bailey Discuss their New Appointments as BRAAVE Co-Chairs BRAAVE is the Building Resources for African erican Voices and Empowerment Business Resource Group at PVH Apr 26, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4768,7 +4797,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Meghan Schulze on Making Social and Environmental Strides at PVH To celebrate Earth Day, Meghan discusses Tommy Hilfiger\u2019s Make It Possible Strategy Apr 22, 2021",
+    "event_name": "@Home Interview: Meghan Schulze on Making Social and Environmental Strides at PVH To celebrate Earth Day, Meghan discusses Tommy Hilfiger’s Make It Possible Strategy Apr 22, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4806,6 +4835,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH Associates Reflect One Year Later Today marks one year since the tragic killing of George Floyd May 25, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -4825,7 +4855,7 @@
     ]
   },
   {
-    "event_name": "Announce New Partnership to Improve Nutrition for Working Women and Mothers in Bangladesh\u2019s Garment Sector We have an important role to play in inving in the health and prosperity of our people and their communities May 17, 2021",
+    "event_name": "Announce New Partnership to Improve Nutrition for Working Women and Mothers in Bangladesh’s Garment Sector We have an important role to play in inving in the health and prosperity of our people and their communities May 17, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4865,7 +4895,7 @@
     ]
   },
   {
-    "event_name": "Leadership Update \u2013 Dana Perlman Dana Perlman will now serve as Chief Strategy Officer and Treasurer May 04, 2021",
+    "event_name": "Leadership Update – Dana Perlman Dana Perlman will now serve as Chief Strategy Officer and Treasurer May 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4884,7 +4914,7 @@
     ]
   },
   {
-    "event_name": "Power of Us: Jan\u00e1 Neal and Rose Bailey Discuss their New Appointments as BRAAVE Co-Chairs BRAAVE is the Building Resources for African erican Voices and Empowerment Business Resource Group at PVH Apr 26, 2021",
+    "event_name": "Power of Us: Janá Neal and Rose Bailey Discuss their New Appointments as BRAAVE Co-Chairs BRAAVE is the Building Resources for African erican Voices and Empowerment Business Resource Group at PVH Apr 26, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4903,7 +4933,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Meghan Schulze on Making Social and Environmental Strides at PVH To celebrate Earth Day, Meghan discusses Tommy Hilfiger\u2019s Make It Possible Strategy Apr 22, 2021",
+    "event_name": "@Home Interview: Meghan Schulze on Making Social and Environmental Strides at PVH To celebrate Earth Day, Meghan discusses Tommy Hilfiger’s Make It Possible Strategy Apr 22, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -4941,6 +4971,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Lance LaVergne on the Future of Inclusion & Diversity How I&D will play a central role in PVH's future Apr 02, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -4971,7 +5003,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Shawuan Johnson on the Future of Brick and Mortar Stores Driving consumers to store through compelling store presentations and \u201cmust have\u201d products Mar 18, 2021",
+    "event_name": "@Home Interview: Shawuan Johnson on the Future of Brick and Mortar Stores Driving consumers to store through compelling store presentations and “must have” products Mar 18, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5028,7 +5060,7 @@
     ]
   },
   {
-    "event_name": "\u2018Ship from Store\u2019 Powers PVH\u2019s E-Commerce Growth PVH maximized ROI and increased available assortment for online shoppers Mar 10, 2021",
+    "event_name": "‘Ship from Store’ Powers PVH’s E-Commerce Growth PVH maximized ROI and increased available assortment for online shoppers Mar 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5058,7 +5090,7 @@
     ]
   },
   {
-    "event_name": "PVH Celebrates International Women\u2019s Day By plifying our female associate voices from around the world Mar 08, 2021",
+    "event_name": "PVH Celebrates International Women’s Day By plifying our female associate voices from around the world Mar 08, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5115,7 +5147,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Launches First Circular Design Denim Collection in Partnership with The Ellen MacArthur Foundation The EMF Jeans Redesign collection represents a milone in Tommy Hilfiger\u2019s vision to create fully circular products Mar 03, 2021",
+    "event_name": "Tommy Hilfiger Launches First Circular Design Denim Collection in Partnership with The Ellen MacArthur Foundation The EMF Jeans Redesign collection represents a milone in Tommy Hilfiger’s vision to create fully circular products Mar 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5134,7 +5166,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein\u2019s minimalism as a canvas for creative exploration, this season\u2019s cpaign strips back to the essentials Mar 03, 2021",
+    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein’s minimalism as a canvas for creative exploration, this season’s cpaign strips back to the essentials Mar 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5210,6 +5242,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "PVH University Creates Meaningful Learning Opportunities for Associates PVH U fosters a culture of learning & develoent virtually during immense change Mar 16, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -5248,7 +5281,7 @@
     ]
   },
   {
-    "event_name": "\u2018Ship from Store\u2019 Powers PVH\u2019s E-Commerce Growth PVH maximized ROI and increased available assortment for online shoppers Mar 10, 2021",
+    "event_name": "‘Ship from Store’ Powers PVH’s E-Commerce Growth PVH maximized ROI and increased available assortment for online shoppers Mar 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5278,7 +5311,7 @@
     ]
   },
   {
-    "event_name": "PVH Celebrates International Women\u2019s Day By plifying our female associate voices from around the world Mar 08, 2021",
+    "event_name": "PVH Celebrates International Women’s Day By plifying our female associate voices from around the world Mar 08, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5335,7 +5368,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Launches First Circular Design Denim Collection in Partnership with The Ellen MacArthur Foundation The EMF Jeans Redesign collection represents a milone in Tommy Hilfiger\u2019s vision to create fully circular products Mar 03, 2021",
+    "event_name": "Tommy Hilfiger Launches First Circular Design Denim Collection in Partnership with The Ellen MacArthur Foundation The EMF Jeans Redesign collection represents a milone in Tommy Hilfiger’s vision to create fully circular products Mar 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5354,7 +5387,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein\u2019s minimalism as a canvas for creative exploration, this season\u2019s cpaign strips back to the essentials Mar 03, 2021",
+    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein’s minimalism as a canvas for creative exploration, this season’s cpaign strips back to the essentials Mar 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5430,7 +5463,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Randy Cousin on How Tommy Hilfiger\u2019s People\u2019s Place Progr Is Taking Action Advancing Inclusion and Diversity in the Fashion Industry and Creating Meaningful Change Feb 22, 2021",
+    "event_name": "@Home Interview: Randy Cousin on How Tommy Hilfiger’s People’s Place Progr Is Taking Action Advancing Inclusion and Diversity in the Fashion Industry and Creating Meaningful Change Feb 22, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5468,7 +5501,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Partners with Mysterious Al for Limited-Edition Tommy\u2019s Drop Shop Micro-Capsule Spotlights creators from all areas of the pop culture community by collaborating on lightning-quick, limited-edition style releases Feb 12, 2021",
+    "event_name": "Tommy Hilfiger Partners with Mysterious Al for Limited-Edition Tommy’s Drop Shop Micro-Capsule Spotlights creators from all areas of the pop culture community by collaborating on lightning-quick, limited-edition style releases Feb 12, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5487,7 +5520,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Takes Next Steps Towards Long-Term Minority Representation The People\u2019s Place Progr announces its first round of partnerships Feb 10, 2021",
+    "event_name": "Tommy Hilfiger Takes Next Steps Towards Long-Term Minority Representation The People’s Place Progr announces its first round of partnerships Feb 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5507,7 +5540,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Clair Mah on the Future of Calvin Klein\u2019s Go-to-Market Strategy Our @Home Interview series showcases associates from around the world Feb 10, 2021",
+    "event_name": "@Home Interview: Clair Mah on the Future of Calvin Klein’s Go-to-Market Strategy Our @Home Interview series showcases associates from around the world Feb 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5526,7 +5559,7 @@
     ]
   },
   {
-    "event_name": "PVH Heritage Brands Prioritize Corporate Responsibility With \u2018Together in Good Company\u2019 Five new pillars lay out corporate responsibility strategy to drive sustainability forward Feb 04, 2021",
+    "event_name": "PVH Heritage Brands Prioritize Corporate Responsibility With ‘Together in Good Company’ Five new pillars lay out corporate responsibility strategy to drive sustainability forward Feb 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5545,7 +5578,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS \u201cMusic Takes Us Further\u201d Cpaign Built on the brand\u2019s deeply rooted music heritage Feb 04, 2021",
+    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS “Music Takes Us Further” Cpaign Built on the brand’s deeply rooted music heritage Feb 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5583,7 +5616,7 @@
     ]
   },
   {
-    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD\u2019s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
+    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD’s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5602,7 +5635,7 @@
     ]
   },
   {
-    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein\u2019s minimalism as a canvas for creative exploration, this season\u2019s cpaign strips back to the essentials Mar 03, 2021",
+    "event_name": "Calvin Klein Introduces its Spring 2021 Cpaign: Blank Canvas Embracing Calvin Klein’s minimalism as a canvas for creative exploration, this season’s cpaign strips back to the essentials Mar 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5678,7 +5711,10 @@
     ]
   },
   {
+    "event_name": "@Home Interview: Randy Cousin on How Tommy Hilfiger’s People’s Place Progr Is Taking Action Advancing Inclusion and Diversity in the Fashion Industry and Creating Meaningful Change Feb 22, 2021",
+=======
     "event_name": "@Home Interview: Randy Cousin on How Tommy Hilfiger\u2019s People\u2019s Place Progr Is Taking Action Advancing Inclusion and Diversity in the Fashion Industry and Creating Meaningful Change Feb 22, 2021",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5716,7 +5752,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Partners with Mysterious Al for Limited-Edition Tommy\u2019s Drop Shop Micro-Capsule Spotlights creators from all areas of the pop culture community by collaborating on lightning-quick, limited-edition style releases Feb 12, 2021",
+    "event_name": "Tommy Hilfiger Partners with Mysterious Al for Limited-Edition Tommy’s Drop Shop Micro-Capsule Spotlights creators from all areas of the pop culture community by collaborating on lightning-quick, limited-edition style releases Feb 12, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5735,7 +5771,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Takes Next Steps Towards Long-Term Minority Representation The People\u2019s Place Progr announces its first round of partnerships Feb 10, 2021",
+    "event_name": "Tommy Hilfiger Takes Next Steps Towards Long-Term Minority Representation The People’s Place Progr announces its first round of partnerships Feb 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5755,7 +5791,7 @@
     ]
   },
   {
-    "event_name": "@Home Interview: Clair Mah on the Future of Calvin Klein\u2019s Go-to-Market Strategy Our @Home Interview series showcases associates from around the world Feb 10, 2021",
+    "event_name": "@Home Interview: Clair Mah on the Future of Calvin Klein’s Go-to-Market Strategy Our @Home Interview series showcases associates from around the world Feb 10, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5774,7 +5810,7 @@
     ]
   },
   {
-    "event_name": "PVH Heritage Brands Prioritize Corporate Responsibility With \u2018Together in Good Company\u2019 Five new pillars lay out corporate responsibility strategy to drive sustainability forward Feb 04, 2021",
+    "event_name": "PVH Heritage Brands Prioritize Corporate Responsibility With ‘Together in Good Company’ Five new pillars lay out corporate responsibility strategy to drive sustainability forward Feb 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5793,7 +5829,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS \u201cMusic Takes Us Further\u201d Cpaign Built on the brand\u2019s deeply rooted music heritage Feb 04, 2021",
+    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS “Music Takes Us Further” Cpaign Built on the brand’s deeply rooted music heritage Feb 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5831,7 +5867,7 @@
     ]
   },
   {
-    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD\u2019s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
+    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD’s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5850,7 +5886,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Inspires Global Community to Unite for Social Change with Spring 2021 \u2018Moving Forward Together\u2019 Cpaign The collection",
+    "event_name": "Tommy Hilfiger Inspires Global Community to Unite for Social Change with Spring 2021 ‘Moving Forward Together’ Cpaign The collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5869,7 +5905,7 @@
     ]
   },
   {
-    "event_name": "PVH Receives 100% on Human Rights Cpaign\u2019s 2021 Corporate Equality Index For the fifth year in a row, PVH is once again ned one of the B Places to Work for LGBTQIA+ Equality Jan 28, 2021",
+    "event_name": "PVH Receives 100% on Human Rights Cpaign’s 2021 Corporate Equality Index For the fifth year in a row, PVH is once again ned one of the B Places to Work for LGBTQIA+ Equality Jan 28, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5888,7 +5924,7 @@
     ]
   },
   {
-    "event_name": "PVH Powers Brands that Drive Fashion Forward \u2013",
+    "event_name": "PVH Powers Brands that Drive Fashion Forward –",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5956,7 +5992,7 @@
     ]
   },
   {
-    "event_name": "The Runway Unbound: Geoffrey Beene\u2019s Fashion Presentations Geoffrey Beene\u2019s runway was a lively place of performance art Jan 25, 2021",
+    "event_name": "The Runway Unbound: Geoffrey Beene’s Fashion Presentations Geoffrey Beene’s runway was a lively place of performance art Jan 25, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5975,7 +6011,7 @@
     ]
   },
   {
-    "event_name": "Jersey in the Ballroom: Geoffrey Beene\u2019s Sportif Evening Wear The designer infused evening wear with features from athletic wear, teasing the future of a more wearable standard Jan 25, 2021",
+    "event_name": "Jersey in the Ballroom: Geoffrey Beene’s Sportif Evening Wear The designer infused evening wear with features from athletic wear, teasing the future of a more wearable standard Jan 25, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -5994,7 +6030,8 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS \u201cMusic Takes Us Further\u201d Cpaign Built on the brand\u2019s deeply rooted music heritage Feb 04, 2021",
+<<<<<<< HEAD
+    "event_name": "Tommy Hilfiger Taps into the Power of Creativity to Inspire Social Change with TOMMY JEANS “Music Takes Us Further” Cpaign Built on the brand’s deeply rooted music heritage Feb 04, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6032,7 +6069,7 @@
     ]
   },
   {
-    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD\u2019s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
+    "event_name": "Michael Miille, VP of Design at IZOD, Looks to the Future IZOD’s Fall 2021 season will embrace comfort, athleisure, 3D design, and sustainability Feb 03, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6051,7 +6088,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Inspires Global Community to Unite for Social Change with Spring 2021 \u2018Moving Forward Together\u2019 Cpaign The collection",
+    "event_name": "Tommy Hilfiger Inspires Global Community to Unite for Social Change with Spring 2021 ‘Moving Forward Together’ Cpaign The collection",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6070,7 +6107,7 @@
     ]
   },
   {
-    "event_name": "PVH Receives 100% on Human Rights Cpaign\u2019s 2021 Corporate Equality Index For the fifth year in a row, PVH is once again ned one of the B Places to Work for LGBTQIA+ Equality Jan 28, 2021",
+    "event_name": "PVH Receives 100% on Human Rights Cpaign’s 2021 Corporate Equality Index For the fifth year in a row, PVH is once again ned one of the B Places to Work for LGBTQIA+ Equality Jan 28, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6089,7 +6126,7 @@
     ]
   },
   {
-    "event_name": "PVH Powers Brands that Drive Fashion Forward \u2013",
+    "event_name": "PVH Powers Brands that Drive Fashion Forward –",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6157,7 +6194,7 @@
     ]
   },
   {
-    "event_name": "The Runway Unbound: Geoffrey Beene\u2019s Fashion Presentations Geoffrey Beene\u2019s runway was a lively place of performance art Jan 25, 2021",
+    "event_name": "The Runway Unbound: Geoffrey Beene’s Fashion Presentations Geoffrey Beene’s runway was a lively place of performance art Jan 25, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6176,7 +6213,7 @@
     ]
   },
   {
-    "event_name": "Jersey in the Ballroom: Geoffrey Beene\u2019s Sportif Evening Wear The designer infused evening wear with features from athletic wear, teasing the future of a more wearable standard Jan 25, 2021",
+    "event_name": "Jersey in the Ballroom: Geoffrey Beene’s Sportif Evening Wear The designer infused evening wear with features from athletic wear, teasing the future of a more wearable standard Jan 25, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6214,7 +6251,7 @@
     ]
   },
   {
-    "event_name": "Jaal Layne to Join Calvin Klein in Key Marketing Role Layne will lead and develop Calvin Klein\u2019s global brand and marketing strategy Jan 08, 2021",
+    "event_name": "Jaal Layne to Join Calvin Klein in Key Marketing Role Layne will lead and develop Calvin Klein’s global brand and marketing strategy Jan 08, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6233,7 +6270,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Calls on Social Entrepreneurs for the Fashion Frontier Challenge Applications for the progr\u2019s third edition are open from January 6 until March 8, 2021 Jan 06, 2021",
+    "event_name": "Tommy Hilfiger Calls on Social Entrepreneurs for the Fashion Frontier Challenge Applications for the progr’s third edition are open from January 6 until March 8, 2021 Jan 06, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6272,7 +6309,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Recognized on erica\u2019s 100 Most JUST Companies List by Forbes and JUST Capital PVH Corp. has been recognized as one of erica\u2019s 100 Most JUST Companies by Forbes and JUST Capital on the 2021 list Dec 15, 2020",
+    "event_name": "PVH Corp. Recognized on erica’s 100 Most JUST Companies List by Forbes and JUST Capital PVH Corp. has been recognized as one of erica’s 100 Most JUST Companies by Forbes and JUST Capital on the 2021 list Dec 15, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6370,7 +6407,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
+    "event_name": "PVH’s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6389,7 +6426,7 @@
     ]
   },
   {
-    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Nov 19, 2020",
+    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Nov 19, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6408,6 +6445,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Calvin Klein Introduces pgLang for Calvin Klein pgLang for Calvin Klein is a series of short films conceptualized, cast, written and directed in LA by Dave Free at pgLang Jan 14, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -6427,7 +6466,7 @@
     ]
   },
   {
-    "event_name": "Jaal Layne to Join Calvin Klein in Key Marketing Role Layne will lead and develop Calvin Klein\u2019s global brand and marketing strategy Jan 08, 2021",
+    "event_name": "Jaal Layne to Join Calvin Klein in Key Marketing Role Layne will lead and develop Calvin Klein’s global brand and marketing strategy Jan 08, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6446,7 +6485,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Calls on Social Entrepreneurs for the Fashion Frontier Challenge Applications for the progr\u2019s third edition are open from January 6 until March 8, 2021 Jan 06, 2021",
+    "event_name": "Tommy Hilfiger Calls on Social Entrepreneurs for the Fashion Frontier Challenge Applications for the progr’s third edition are open from January 6 until March 8, 2021 Jan 06, 2021",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6485,7 +6524,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Recognized on erica\u2019s 100 Most JUST Companies List by Forbes and JUST Capital PVH Corp. has been recognized as one of erica\u2019s 100 Most JUST Companies by Forbes and JUST Capital on the 2021 list Dec 15, 2020",
+    "event_name": "PVH Corp. Recognized on erica’s 100 Most JUST Companies List by Forbes and JUST Capital PVH Corp. has been recognized as one of erica’s 100 Most JUST Companies by Forbes and JUST Capital on the 2021 list Dec 15, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6583,7 +6622,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
+    "event_name": "PVH’s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6602,7 +6641,7 @@
     ]
   },
   {
-    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Nov 19, 2020",
+    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Nov 19, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6681,7 +6720,7 @@
     ]
   },
   {
-    "event_name": "Installation Completed of the World\u2019s Most Powerful Solar Roof Currently Operating at PVH Europe\u2019s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
+    "event_name": "Installation Completed of the World’s Most Powerful Solar Roof Currently Operating at PVH Europe’s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6701,7 +6740,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly\u2019s 75th Anniversary PVH Corp. joined the UN Global Compact\u2019s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
+    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly’s 75th Anniversary PVH Corp. joined the UN Global Compact’s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6731,7 +6770,7 @@
     ]
   },
   {
-    "event_name": "How PVH Corp. is Positioning Itself for Fashion\u2019s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Sep 28, 2020",
+    "event_name": "How PVH Corp. is Positioning Itself for Fashion’s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Sep 28, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6826,7 +6865,8 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
+<<<<<<< HEAD
+    "event_name": "PVH’s Recruit Ethically Training Drives Progress Toward Forward Fashion Target PVH launches Recruit Ethically training for our suppliers in 12 high-risk countries",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6845,7 +6885,7 @@
     ]
   },
   {
-    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Nov 19, 2020",
+    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Nov 19, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6924,7 +6964,7 @@
     ]
   },
   {
-    "event_name": "Installation Completed of the World\u2019s Most Powerful Solar Roof Currently Operating at PVH Europe\u2019s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
+    "event_name": "Installation Completed of the World’s Most Powerful Solar Roof Currently Operating at PVH Europe’s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6944,7 +6984,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly\u2019s 75th Anniversary PVH Corp. joined the UN Global Compact\u2019s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
+    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly’s 75th Anniversary PVH Corp. joined the UN Global Compact’s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6974,7 +7014,7 @@
     ]
   },
   {
-    "event_name": "How PVH Corp. is Positioning Itself for Fashion\u2019s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Sep 28, 2020",
+    "event_name": "How PVH Corp. is Positioning Itself for Fashion’s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Sep 28, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7069,6 +7109,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Tommy Hilfiger Accelerates Sustainability Journey With bitious Make it Possible Progr Tommy Hilfiger announces Make it Possible, a bold approach to environmental and social sustainability Aug 31, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -7108,7 +7150,7 @@
     ]
   },
   {
-    "event_name": "Look Who\u2019s the New Face of Warner\u2019s First-Ever Celebrity Cpaign Warner\u2019s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
+    "event_name": "Look Who’s the New Face of Warner’s First-Ever Celebrity Cpaign Warner’s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7147,7 +7189,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of \u2018Moving Forward Together\u2019 by representing inclusivity and diversity Aug 01, 2020",
+    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of ‘Moving Forward Together’ by representing inclusivity and diversity Aug 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7166,7 +7208,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People\u2019s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
+    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People’s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7204,7 +7246,7 @@
     ]
   },
   {
-    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company\u2019s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
+    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company’s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7223,7 +7265,8 @@
     ]
   },
   {
-    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Nov 19, 2020",
+<<<<<<< HEAD
+    "event_name": "We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Nov 19, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7302,7 +7345,7 @@
     ]
   },
   {
-    "event_name": "Installation Completed of the World\u2019s Most Powerful Solar Roof Currently Operating at PVH Europe\u2019s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
+    "event_name": "Installation Completed of the World’s Most Powerful Solar Roof Currently Operating at PVH Europe’s State-of-the-Art Warehouse and Logistics Center PVH Europe announces the installation of solar roof at warehouse and logistics center in Venlo, the Netherlands Oct 06, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7322,7 +7365,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly\u2019s 75th Anniversary PVH Corp. joined the UN Global Compact\u2019s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
+    "event_name": "PVH Corp. Continues Commitment to Drive Climate Action During United Nations General Assembly’s 75th Anniversary PVH Corp. joined the UN Global Compact’s (UNGC) virtual event Uniting Business LIVE Oct 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7352,7 +7395,7 @@
     ]
   },
   {
-    "event_name": "How PVH Corp. is Positioning Itself for Fashion\u2019s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Sep 28, 2020",
+    "event_name": "How PVH Corp. is Positioning Itself for Fashion’s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Sep 28, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7486,7 +7529,7 @@
     ]
   },
   {
-    "event_name": "Look Who\u2019s the New Face of Warner\u2019s First-Ever Celebrity Cpaign Warner\u2019s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
+    "event_name": "Look Who’s the New Face of Warner’s First-Ever Celebrity Cpaign Warner’s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7525,7 +7568,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of \u2018Moving Forward Together\u2019 by representing inclusivity and diversity Aug 01, 2020",
+    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of ‘Moving Forward Together’ by representing inclusivity and diversity Aug 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7544,7 +7587,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People\u2019s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
+    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People’s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7582,7 +7625,7 @@
     ]
   },
   {
-    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company\u2019s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
+    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company’s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7631,7 +7674,7 @@
     ]
   },
   {
-    "event_name": "How PVH Corp. is Positioning Itself for Fashion\u2019s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward \u2013 for good Sep 28, 2020",
+    "event_name": "How PVH Corp. is Positioning Itself for Fashion’s New Normal We partnered with Business of Fashion on a content series that supports our purpose to drive fashion forward – for good Sep 28, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7765,7 +7808,7 @@
     ]
   },
   {
-    "event_name": "Look Who\u2019s the New Face of Warner\u2019s First-Ever Celebrity Cpaign Warner\u2019s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
+    "event_name": "Look Who’s the New Face of Warner’s First-Ever Celebrity Cpaign Warner’s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7804,7 +7847,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of \u2018Moving Forward Together\u2019 by representing inclusivity and diversity Aug 01, 2020",
+    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of ‘Moving Forward Together’ by representing inclusivity and diversity Aug 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7823,7 +7866,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People\u2019s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
+    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People’s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7861,7 +7904,7 @@
     ]
   },
   {
-    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company\u2019s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
+    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company’s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7910,7 +7953,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign\u2019s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
+    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign’s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7959,7 +8002,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Ranks on Fortune Magazine\u2019s 100 B Workplaces for Diversity List Powered by our Great Place to Work\u00ae certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
+    "event_name": "PVH Corp. Ranks on Fortune Magazine’s 100 B Workplaces for Diversity List Powered by our Great Place to Work® certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -7989,7 +8032,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Manny Chirico Discusses \u2018The CEO Balancing Act\u2019 at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
+    "event_name": "PVH’s Manny Chirico Discusses ‘The CEO Balancing Act’ at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8008,7 +8051,7 @@
     ]
   },
   {
-    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children\u2019s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
+    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children’s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8027,7 +8070,7 @@
     ]
   },
   {
-    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work\u00ae in the U.S. for the second year in a row Sep 09, 2019",
+    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work® in the U.S. for the second year in a row Sep 09, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8123,7 +8166,7 @@
     ]
   },
   {
-    "event_name": "Look Who\u2019s the New Face of Warner\u2019s First-Ever Celebrity Cpaign Warner\u2019s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
+    "event_name": "Look Who’s the New Face of Warner’s First-Ever Celebrity Cpaign Warner’s announces first-ever celebrity cpaign with actor, The New York Times bselling author and activist",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8162,7 +8205,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of \u2018Moving Forward Together\u2019 by representing inclusivity and diversity Aug 01, 2020",
+    "event_name": "Tommy Hilfiger Chpions Inclusivity & Diversity in Fall 2020 TOMMY ICONS Collection Cpaign Centered around the theme of ‘Moving Forward Together’ by representing inclusivity and diversity Aug 01, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8181,7 +8224,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People\u2019s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
+    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People’s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8219,7 +8262,7 @@
     ]
   },
   {
-    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company\u2019s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
+    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company’s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8268,7 +8311,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign\u2019s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
+    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign’s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8317,7 +8360,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Ranks on Fortune Magazine\u2019s 100 B Workplaces for Diversity List Powered by our Great Place to Work\u00ae certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
+    "event_name": "PVH Corp. Ranks on Fortune Magazine’s 100 B Workplaces for Diversity List Powered by our Great Place to Work® certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8347,7 +8390,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Manny Chirico Discusses \u2018The CEO Balancing Act\u2019 at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
+    "event_name": "PVH’s Manny Chirico Discusses ‘The CEO Balancing Act’ at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8366,7 +8409,7 @@
     ]
   },
   {
-    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children\u2019s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
+    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children’s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8385,7 +8428,7 @@
     ]
   },
   {
-    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work\u00ae in the U.S. for the second year in a row Sep 09, 2019",
+    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work® in the U.S. for the second year in a row Sep 09, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8461,7 +8504,7 @@
     ]
   },
   {
-    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People\u2019s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
+    "event_name": "Tommy Hilfiger Commits To Advancing Minority Representation Throughout The Fashion & Creative Industries Tommy Hilfiger launches the People’s Place Progr, a three-pillared platform that will seek to advance the representation of black, indigenous and people of color (BIPOC) within the fashion and creative industries Jul 09, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8499,7 +8542,7 @@
     ]
   },
   {
-    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company\u2019s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
+    "event_name": "PVH Developing Action Plan Addressing Racism: Be BRAAVE PVH Corp. launched this week the new initiative Be BRAAVE, a global call-to-action cpaign to support the Black community to advance the company’s ongoing efforts to achieve equality and racial justice Jun 20, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8518,6 +8561,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Innovating id Disruption: Insights into Deploying During a Pandemic PVH moves further forward in becoming one of the first global companies to deploy SAP S/4 Fashion Jun 17, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -8548,7 +8593,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign\u2019s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
+    "event_name": "PVH Corp. Receives Score of 100% in Human Rights Cpaign’s Corporate Equality Index The lat score of 100% ce in the 2020 CEI Jan 22, 2020",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8597,7 +8642,7 @@
     ]
   },
   {
-    "event_name": "PVH Corp. Ranks on Fortune Magazine\u2019s 100 B Workplaces for Diversity List Powered by our Great Place to Work\u00ae certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
+    "event_name": "PVH Corp. Ranks on Fortune Magazine’s 100 B Workplaces for Diversity List Powered by our Great Place to Work® certification, PVH Corp. has been listed on the 2019 100 B Workplaces for Diversity list Dec 20, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8627,7 +8672,7 @@
     ]
   },
   {
-    "event_name": "PVH\u2019s Manny Chirico Discusses \u2018The CEO Balancing Act\u2019 at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
+    "event_name": "PVH’s Manny Chirico Discusses ‘The CEO Balancing Act’ at WWD CEO Summit Manny led a timely conversation about the dilemmas CEOs are facing, including when to publicly take a stand on issues and how to serve all stakeholder groups Oct 30, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8646,7 +8691,7 @@
     ]
   },
   {
-    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children\u2019s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
+    "event_name": "PVH Celebrates Save the Children Centennial, Tommy Hilfiger Receives Humanitarian Award Tommy Hilfiger was presented with Save the Children’s Humanitarian award for his dedication to uplifting the lives of others Sep 16, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8665,7 +8710,7 @@
     ]
   },
   {
-    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work\u00ae in the U.S. for the second year in a row Sep 09, 2019",
+    "event_name": "Great Associates, Great Culture Help Make PVH a Certified Great Place to Work PVH has been certified as a Great Place To Work® in the U.S. for the second year in a row Sep 09, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -8775,7 +8820,7 @@
     ]
   },
   {
-    "event_name": "Forbes Magazine Recognizes PVH on the 2019 erica\u2019s B Large Employers List PVH was ranked in the Clothing, Shoes, Sports Equient category ong key competitors including LVMH, Tapry, and Capri Holdings Apr 17, 2019",
+    "event_name": "Forbes Magazine Recognizes PVH on the 2019 erica’s B Large Employers List PVH was ranked in the Clothing, Shoes, Sports Equient category ong key competitors including LVMH, Tapry, and Capri Holdings Apr 17, 2019",
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",

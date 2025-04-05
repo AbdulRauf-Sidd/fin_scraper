@@ -115,7 +115,7 @@
     ]
   },
   {
-    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) \u2013 Answer to our commitment letter 137.79 Ko 03.22.2021 | 137.79 Ko | 03.22.2021",
+    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) – Answer to our commitment letter 137.79 Ko 03.22.2021 | 137.79 Ko | 03.22.2021",
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) \u2013 Commitment letter 500.44 Ko 12.14.2020 | 500.44",
+    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) – Commitment letter 500.44 Ko 12.14.2020 | 500.44",
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -230,6 +230,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "Business model 368.11 KB 04.03.2025 | 368.11 KB | 04.03.2025",
     "equity_ticker": "RMS",
     "geography": "European",
@@ -345,7 +346,7 @@
     ]
   },
   {
-    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) \u2013 Answer to our commitment letter 137.79 Ko 03.22.2021 | 137.79 Ko | 03.22.2021",
+    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) – Answer to our commitment letter 137.79 Ko 03.22.2021 | 137.79 Ko | 03.22.2021",
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -364,7 +365,7 @@
     ]
   },
   {
-    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) \u2013 Commitment letter 500.44 Ko 12.14.2020 | 500.44",
+    "event_name": "United Nations Frework Convention on Climate Change (UNFCCC) – Commitment letter 500.44 Ko 12.14.2020 | 500.44",
     "equity_ticker": "RMS",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -460,6 +461,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Hermes business model 1.88 MB 06.09.2020 | 1.88 MB | 06.09.2020",
     "equity_ticker": "RMS",
     "geography": "European",

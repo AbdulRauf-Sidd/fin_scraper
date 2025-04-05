@@ -15,6 +15,7 @@
           "financial-filing",
           "annual-report"
         ]
+<<<<<<< HEAD
       },
       {
         "file_name": "Mowi-Integrated-Annual-Report-2024.pdf",
@@ -73,19 +74,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -126,19 +114,6 @@
         "file_type": "pdf",
         "published_date": "2024",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/Alternative-Performance-Measures-APM-Q2-2024.pdf/Alternative-Performance-Measures-APM-Q2-2024.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -193,19 +168,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -246,19 +208,6 @@
         "file_type": "pdf",
         "published_date": "2024",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/Alternative-Performance-Measures-APM-Q4-2024.pdf/Alternative-Performance-Measures-APM-Q4-2024.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2024/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -343,19 +292,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -396,19 +332,6 @@
         "file_type": "pdf",
         "published_date": "2023",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/Alternative-Performance-Measures-APM-Q2-2023.pdf/Alternative-Performance-Measures-APM-Q2-2023.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -463,19 +386,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -516,19 +426,6 @@
         "file_type": "pdf",
         "published_date": "2023",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/Alternative-Performance-Measures-Q4-2023-1.pdf/Alternative-Performance-Measures-Q4-2023-1.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2023/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -613,19 +510,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -666,19 +550,6 @@
         "file_type": "pdf",
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/Alternative-Performance-Measures-APM-Q2-2022.pdf/Alternative-Performance-Measures-APM-Q2-2022.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -733,19 +604,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -786,19 +644,6 @@
         "file_type": "pdf",
         "published_date": "2022",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/Alternative-Performance-Measures-APM-Q4-2022.pdf/Alternative-Performance-Measures-APM-Q4-2022.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2022/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -865,19 +710,6 @@
         "file_type": "pdf",
         "published_date": "2021",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2021/Alternative-Performance-Measures-APM-Non-IFRS-Financial-Measures-Q1-2021.pdf/Alternative-Performance-Measures-APM-Non-IFRS-Financial-Measures-Q1-2021.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2021",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2021/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -1037,19 +869,6 @@
           "webcast",
           "three-month-results"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2020/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
       }
     ]
   },
@@ -1090,19 +909,6 @@
         "file_type": "pdf",
         "published_date": "2020",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2020/APM-Q2-2020.pdf/APM-Q2-2020.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2020/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -1198,18 +1004,6 @@
           "webcast",
           "presentation"
         ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2020/share.html/share.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
       }
     ]
   },
@@ -1253,17 +1047,6 @@
         ]
       },
       {
-        "file_name": "platform-privacy-policy.html",
-        "file_type": "javascript",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/platform-privacy-policy.html/platform-privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "data-privacy.html#legitimate_interest_claim",
         "file_type": "pdf",
         "published_date": "2019-03-28",
@@ -1279,28 +1062,6 @@
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/data-privacy.html%23legitimate_interest_claim/data-privacy.html%23legitimate_interest_claim.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "corporate-privacy-policy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/corporate-privacy-policy.html/corporate-privacy-policy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1319,109 +1080,10 @@
         ]
       },
       {
-        "file_name": "privacy_policy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy_policy.html/privacy_policy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "adjoe-data-privacy-latest.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/adjoe-data-privacy-latest.html/adjoe-data-privacy-latest.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "politica.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/politica.html/politica.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "experience-cloud.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/experience-cloud.html/experience-cloud.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/policy.html/policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "adtarget-privacy-policy-2020.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/adtarget-privacy-policy-2020.pdf/adtarget-privacy-policy-2020.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacypolicy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacypolicy.html/privacypolicy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1506,54 +1168,10 @@
         ]
       },
       {
-        "file_name": "privacy-enduser.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-enduser.html/privacy-enduser.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Privacy-Policy_2023_6_7_Bannerse.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/Privacy-Policy_2023_6_7_Bannerse.pdf/Privacy-Policy_2023_6_7_Bannerse.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "politique-de-confidentialite.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/politique-de-confidentialite.html/politique-de-confidentialite.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "legitimate-interest-claim.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/legitimate-interest-claim.html/legitimate-interest-claim.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html.pdf",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1594,43 +1212,10 @@
         ]
       },
       {
-        "file_name": "en.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/en.html/en.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/policy.html/policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "brandmetrics_privacypolicy.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/brandmetrics_privacypolicy.pdf/brandmetrics_privacypolicy.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy_policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy_policy.html/privacy_policy.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1693,28 +1278,6 @@
         ]
       },
       {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Demand_Science_US_LLC_LIA_v3_Jan_2025.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
@@ -1726,120 +1289,10 @@
         ]
       },
       {
-        "file_name": "privacy-policy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/policy.html/policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "legitimate-interest.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/legitimate-interest.html/legitimate-interest.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "en.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/en.html/en.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Balancing-Assessment-for-Legitimate-Interest-Publishers-v2.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/Balancing-Assessment-for-Legitimate-Interest-Publishers-v2.pdf/Balancing-Assessment-for-Legitimate-Interest-Publishers-v2.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "PrivacyPolicy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/PrivacyPolicy.html/PrivacyPolicy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacypolicy_en.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacypolicy_en.html/privacypolicy_en.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html.pdf",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1891,28 +1344,6 @@
         ]
       },
       {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "terms.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/terms.html/terms.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "PRIVACY_POLICY.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
@@ -1935,32 +1366,10 @@
         ]
       },
       {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "TC_String_Legitimate_Interests_Assessment_Lotame.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/TC_String_Legitimate_Interests_Assessment_Lotame.pdf/TC_String_Legitimate_Interests_Assessment_Lotame.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/index.html/index.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -1979,131 +1388,10 @@
         ]
       },
       {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacyPolicy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacyPolicy.html/privacyPolicy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "data_information.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/data_information.html/data_information.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "cookies.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/cookies.pdf/cookies.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "politica-privacidad.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/politica-privacidad.html/politica-privacidad.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-statement-en-us.htm",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-statement-en-us.htm/privacy-statement-en-us.htm.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "legitimate_interests.htm",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/legitimate_interests.htm/legitimate_interests.htm.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2122,28 +1410,6 @@
         ]
       },
       {
-        "file_name": "privacies.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacies.html/privacies.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "datenschutzbestimmungen-cdb.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/datenschutzbestimmungen-cdb.html/datenschutzbestimmungen-cdb.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Services-Privacy-Policy-English.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
@@ -2155,32 +1421,10 @@
         ]
       },
       {
-        "file_name": "policies.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/policies.html/policies.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Privacy-Policy-Roivenue.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/Privacy-Policy-Roivenue.pdf/Privacy-Policy-Roivenue.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy_policy_en.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy_policy_en.html/privacy_policy_en.html.pdf",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2221,54 +1465,10 @@
         ]
       },
       {
-        "file_name": "informativa_privacy_generale.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/informativa_privacy_generale.html/informativa_privacy_generale.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Politica_privacidad_Smartmeanalytics.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/Politica_privacidad_Smartmeanalytics.pdf/Politica_privacidad_Smartmeanalytics.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacypolicy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacypolicy.html/privacypolicy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2287,109 +1487,10 @@
         ]
       },
       {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "legitimate-interest-claim.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/legitimate-interest-claim.html/legitimate-interest-claim.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy.html/privacy-policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy_policy_servizi_prodotti.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy_policy_servizi_prodotti.html/privacy_policy_servizi_prodotti.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "Legitimate-Interests-Assessment-Online-Advertising.pdf",
         "file_type": "pdf",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/Legitimate-Interests-Assessment-Online-Advertising.pdf/Legitimate-Interests-Assessment-Online-Advertising.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "data_privacy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/data_privacy.html/data_privacy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy-policy-en.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy-policy-en.html/privacy-policy-en.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "PrivacyPolicyPrimo.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/PrivacyPolicyPrimo.html/PrivacyPolicyPrimo.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2419,120 +1520,10 @@
         ]
       },
       {
-        "file_name": "datenschutzhinweise_aid_607698849b8ecf79e21584fa.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/datenschutzhinweise_aid_607698849b8ecf79e21584fa.html/datenschutzhinweise_aid_607698849b8ecf79e21584fa.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/index.html/index.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
         "file_name": "index.html#6-c",
         "file_type": "html",
         "published_date": "2019-03-28",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/index.html%236-c/index.html%236-c.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.en-gb.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.en-gb.html/privacy.en-gb.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "data_policy.html",
-        "file_type": "javascript",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/data_policy.html/data_policy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy.html",
-        "file_type": "html",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy.html/privacy.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "privacy_policy.htm",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/privacy_policy.htm/privacy_policy.htm.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "securite-confidentialite.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/securite-confidentialite.html/securite-confidentialite.html.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "annual-report"
-        ]
-      },
-      {
-        "file_name": "datenschutz-privatsphaere.html",
-        "file_type": "pdf",
-        "published_date": "2019-03-28",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019-03-28/datenschutz-privatsphaere.html/datenschutz-privatsphaere.html.pdf",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2578,19 +1569,6 @@
         "file_type": "pdf",
         "published_date": "2019",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/APM-Q1-2019-final.pdf/APM-Q1-2019-final.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -2649,18 +1627,6 @@
         "file_type": "pdf",
         "published_date": "2019",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/APM_Q2_2019.pdf/APM_Q2_2019.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/share.html/share.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -2728,19 +1694,6 @@
         ]
       },
       {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/share.html/share.html",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
         "file_name": "Audio-Q3-19.mp3",
         "file_type": "mpeg",
         "published_date": "2019",
@@ -2792,19 +1745,6 @@
         "file_type": "pdf",
         "published_date": "2019",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/APM-Q4-2019.pdf/APM-Q4-2019.pdf",
-        "content_type": [
-          "reports",
-          "presentation",
-          "financial-filing",
-          "webcast",
-          "three-month-results"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2019/share.html/share.html",
         "content_type": [
           "reports",
           "presentation",
@@ -3072,18 +2012,6 @@
         "file_type": "pdf",
         "published_date": "2018",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2018/879436.pdf/879436.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2018",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2018/share.html/share.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -3383,18 +2311,6 @@
         ]
       },
       {
-        "file_name": "a6-kq12016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/a6-kq12016exhibit994.htm/a6-kq12016exhibit994.htm.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
         "file_name": "744696.pdf",
         "file_type": "pdf",
         "published_date": "2016",
@@ -3443,18 +2359,6 @@
         "file_type": "pdf",
         "published_date": "2016",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/758269.pdf/758269.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
-        "file_name": "a6-kq22016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/a6-kq22016exhibit994.htm/a6-kq22016exhibit994.htm.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -3519,18 +2423,6 @@
         ]
       },
       {
-        "file_name": "a6-kq32016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/a6-kq32016exhibit994.htm/a6-kq32016exhibit994.htm.html",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
         "file_name": "768554.pdf",
         "file_type": "pdf",
         "published_date": "2016",
@@ -3579,18 +2471,6 @@
         "file_type": "pdf",
         "published_date": "2016",
         "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/782391.pdf/782391.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing",
-          "webcast",
-          "presentation"
-        ]
-      },
-      {
-        "file_name": "a6-kq42016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MOWI/2016/a6-kq42016exhibit994.htm/a6-kq42016exhibit994.htm.html",
         "content_type": [
           "reports",
           "financial-filing",
@@ -4835,6 +3715,8 @@
           "financial-filing",
           "presentation"
         ]
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
       }
     ]
   },
@@ -4860,6 +3742,8 @@
     ]
   },
   {
+<<<<<<< HEAD
+=======
     "event_name": "Q1 2024 Report 652 KB Presentation 2",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -4870,26 +3754,6 @@
         "file_type": "html",
         "published_date": "2024",
         "source_url": "https://players.brightcove.net/2335723898001/experience_6634eaa6bea9f77a1b4a9a8c/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q2 2024 Report 9 MB Presentation 2 MB",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_66c2e86114ae68706eeea3a3/share.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024/share.html/share.html",
         "content_type": [
           "webcast",
@@ -4920,26 +3784,7 @@
     ]
   },
   {
-    "event_name": "Q4 2024 Report Presentation Appendix Webcast",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2024",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_67a5d0ee4816dda35cbd0798/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2024/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2023",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -4961,6 +3806,8 @@
     ]
   },
   {
+<<<<<<< HEAD
+=======
     "event_name": "Quarter 2023",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -4981,66 +3828,7 @@
     ]
   },
   {
-    "event_name": "Quarter 2023",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_64e33241d3917b1ff9153f70/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2023/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Quarter 2023",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_6545039c09d2cb7ca3b5ad89/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2023/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q4 2023 Report 6 MB Presentation 3 MB",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2023",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_65c1026242d7b743cd02c2a7/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2023/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2022",
     "equity_ticker": "MOWI",
     "geography": "European",
@@ -5058,26 +3846,6 @@
           "annual-report"
         ],
         "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q1 2022 Report 3 MB Presentation 1 MB",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_627532b9e5737d0021b8f2e8/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -5110,58 +3878,6 @@
           "presentation"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_63031d804e5204002420c833/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q3 2022 Report 7 MB Presentation 1 MB",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_636247626b319e001d61b6c8/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q4 2022 Report 5 MB Presentation 2 MB",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2022",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_63e63a3d187ad70025b8ccdf/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2022/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -5205,18 +3921,6 @@
           "three-month-results",
           "reports",
           "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2021",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_60a36715b0df0b0022f47b9a/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2021/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
         ],
         "record_type": "download"
       }
@@ -5285,18 +3989,6 @@
           "financial-filing"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5eaac55b4707d500236ffe89/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2020/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -5338,18 +4030,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2020/APM-Q2-2020.pdf/APM-Q2-2020.pdf",
         "content_type": [
           "three-month-results",
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5f3fc8c4b50037002341126e/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2020/share.html/share.html",
-        "content_type": [
-          "webcast",
           "reports"
         ],
         "record_type": "download"
@@ -5439,18 +4119,6 @@
           "reports"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_602bb33184727c0022380487/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2020/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -5518,18 +4186,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5ccc456736fc5c0021960a99/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "AudioQ1-19.mp3",
         "file_type": "mpeg",
         "published_date": "2019",
@@ -5555,18 +4211,6 @@
         "source_url": "https://corpsite.azureedge.net/corpsite/wp-content/uploads/2019/08/APM_Q2_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/APM_Q2_2019.pdf/APM_Q2_2019.pdf",
         "content_type": [
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5d5678910ec61c00232284bf/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/share.html/share.html",
-        "content_type": [
-          "webcast",
           "reports"
         ],
         "record_type": "download"
@@ -5604,18 +4248,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5db2bb59f840430023f5f2d0/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "Audio-Q3-19.mp3",
         "file_type": "mpeg",
         "published_date": "2019",
@@ -5642,18 +4274,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/APM-Q4-2019.pdf/APM-Q4-2019.pdf",
         "content_type": [
           "three-month-results",
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2019",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5e3aadad2254d7001d945534/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2019/share.html/share.html",
-        "content_type": [
-          "webcast",
           "reports"
         ],
         "record_type": "download"
@@ -5881,18 +4501,6 @@
         "content_type": [
           "reports",
           "presentation"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "share.html",
-        "file_type": "html",
-        "published_date": "2018",
-        "source_url": "https://players.brightcove.net/2335723898001/experience_5c5d7a038d212d001254f488/share.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2018/share.html/share.html",
-        "content_type": [
-          "webcast",
-          "reports"
         ],
         "record_type": "download"
       },
@@ -6174,17 +4782,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "a6-kq12016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1578526/000162828016016134/a6-kq12016exhibit994.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2016/a6-kq12016exhibit994.htm/a6-kq12016exhibit994.htm.html",
-        "content_type": [
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "744696.pdf",
         "file_type": "pdf",
         "published_date": "2016",
@@ -6224,17 +4821,6 @@
         "content_type": [
           "reports",
           "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "a6-kq22016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1578526/000162828016019119/a6-kq22016exhibit994.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2016/a6-kq22016exhibit994.htm/a6-kq22016exhibit994.htm.html",
-        "content_type": [
-          "reports"
         ],
         "record_type": "download"
       },
@@ -6282,17 +4868,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "a6-kq32016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1578526/000162828016020589/a6-kq32016exhibit994.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2016/a6-kq32016exhibit994.htm/a6-kq32016exhibit994.htm.html",
-        "content_type": [
-          "reports"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "768554.pdf",
         "file_type": "pdf",
         "published_date": "2016",
@@ -6332,17 +4907,6 @@
         "content_type": [
           "reports",
           "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "a6-kq42016exhibit994.htm",
-        "file_type": "html",
-        "published_date": "2016",
-        "source_url": "https://www.sec.gov/Archives/edgar/data/1578526/000157852617000002/a6-kq42016exhibit994.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2016/a6-kq42016exhibit994.htm/a6-kq42016exhibit994.htm.html",
-        "content_type": [
-          "reports"
         ],
         "record_type": "download"
       },
@@ -6789,70 +5353,6 @@
         "published_date": "2013",
         "source_url": "http://hugin.info/209/R/1724036/574609.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/574609.pdf/574609.pdf",
-        "content_type": [
-          "reports",
-          "presentation"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Quarter 2013",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "582554.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1737495/582554.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/582554.pdf/582554.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "582555.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1737495/582555.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/582555.pdf/582555.pdf",
-        "content_type": [
-          "reports",
-          "presentation"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Q4 2013 Report 971 KB Presentation 5",
-    "equity_ticker": "MOWI",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "594923.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1759213/594923.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/594923.pdf/594923.pdf",
-        "content_type": [
-          "reports",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "594924.pdf",
-        "file_type": "pdf",
-        "published_date": "2013",
-        "source_url": "http://hugin.info/209/R/1759213/594924.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MOWI/2013/594924.pdf/594924.pdf",
         "content_type": [
           "reports",
           "presentation"

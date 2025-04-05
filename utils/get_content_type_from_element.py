@@ -59,6 +59,11 @@ CONTENT_PATTERNS = {
     r"\bagm\b": ["annual-general-meeting"],
     r"\bq[1-4][-_]?\d{4}\b": ["three-month-results"],
     r"\bannounce(?:ment|s|d)?\b": ["announcement"],
+    r"\bsustainability\b": ["esg"],
+    r"\bgovernance\b": ["esg"],
+    r"\bgreen\b": ["esg"],
+    r"\benvironment\b": ["esg"],
+    r"\bclimate\b": ["esg"],
 }
 
 CONTENT_TYPE_CONCEPTS = [
@@ -86,7 +91,8 @@ CONTENT_TYPE_CONCEPTS = [
     "announcement",
     "seminar",
     "annual-general-meeting",
-    "announcement"
+    "announcement",
+    "esg"
 ]
 
 def _precompute_content_type_embeddings(labels: List[str]):

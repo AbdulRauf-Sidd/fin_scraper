@@ -1,0 +1,983 @@
+[
+  {
+    "event_name": "2022 Half Year Results Presentation 21 Jul 2022",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2022_HY_presentation2.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-07-21",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2022-07/GIV_2022_HY_presentation2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022-07-21/GIV_2022_HY_presentation2.pdf/GIV_2022_HY_presentation2.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Investor Presentation 28 Jan 2022 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2021_FYRPresentation_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-01-28",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2022-01/GIV_2021_FYRPresentation_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022-01-28/GIV_2021_FYRPresentation_0.pdf/GIV_2021_FYRPresentation_0.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Half Year Results Presentation 22 Jul 2021",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2021_HY_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-22",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2021_HY_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021-07-22/GIV_2021_HY_Presentation.pdf/GIV_2021_HY_Presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Annual Investor Conference Presentation 14 Ap",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2021_AnnualInvestorConference.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04-13",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2021_AnnualInvestorConference.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021-04-13/GIV_2021_AnnualInvestorConference.pdf/GIV_2021_AnnualInvestorConference.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2020 Investor Presentation 29 Jan 2021 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2020_InvestorPresentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-01-29",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2020_InvestorPresentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021-01-29/GIV_2020_InvestorPresentation.pdf/GIV_2020_InvestorPresentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2025 Strategy Presentation 27 Aug 2020 · 14:00 C | Presentation for the Invor Conference webcast of the 2025 Strategy on Thursday 27 August 2020",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "GIV_2025_StrategyPresentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/2022-11/GIV_2025_StrategyPresentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2025-04/GIV_2025_StrategyPresentation.pdf/GIV_2025_StrategyPresentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2020 Half Year Results Presentation 21 Jul 2020",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2020_HY_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-07-21",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/GIV_2020_HY_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020-07-21/GIV_2020_HY_Presentation.pdf/GIV_2020_HY_Presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2019 Full Year Results Presentation 24 Jan 2020",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2019_FYR_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-01-24",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/GIV_2019_FYR_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-01-24/GIV_2019_FYR_Presentation.pdf/GIV_2019_FYR_Presentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2019 Half Year Results Presentation 18 Jul 2019",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2019_HYR_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-07-18",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/GIV_2019_HYR_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-07-18/GIV_2019_HYR_Presentation.pdf/GIV_2019_HYR_Presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2018 Full Year Results Presentation 25 Jan 2019",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2018_FYR_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-01-25",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2018_FYR_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-01-25/GIV_2018_FYR_Presentation.pdf/GIV_2018_FYR_Presentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2018 Half Year Results Presentation 19 Jul 2018",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2018_HYR-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-07-19",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/GIV_2018_HYR-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-07-19/GIV_2018_HYR-presentation.pdf/GIV_2018_HYR-presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2017 Investor Presentation 26 Jan 2018 1300 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2017_InvestorPresentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-01-26",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2017_InvestorPresentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-01-26/GIV_2017_InvestorPresentation.pdf/GIV_2017_InvestorPresentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2017 Half Year Results Presentation 20 Jul 2017",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2017_HYR-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-07-20",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2017_HYR-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2017-07-20/GIV_2017_HYR-presentation.pdf/GIV_2017_HYR-presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2016 Full Year Results Presentation 31 Jan 2017",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2016_InvestorPresentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-01-31",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2016_InvestorPresentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2017-01-31/GIV_2016_InvestorPresentation.pdf/GIV_2016_InvestorPresentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2016 Half Year Results Presentation 18 Jul 2016",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2016_HYR-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-07-18",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_files/GIV_2016_HYR-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2016-07-18/GIV_2016_HYR-presentation.pdf/GIV_2016_HYR-presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2015 Full Year Results Presentation 02 Feb 2016",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "GIV_2015_FullYearResults.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-02-02",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/GIV_2015_FullYearResults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2016-02-02/GIV_2015_FullYearResults.pdf/GIV_2015_FullYearResults.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2015 Invor Presentation How Givaudan is reinforcing a leadership position and outperforming the market",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "GIV_2015-investor-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2015-investor-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2015-04/GIV_2015-investor-presentation.pdf/GIV_2015-investor-presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2020 Givaudan’s bition Presentation How Givaudan aims to outperform the market and deliver a continued strong free cash flow",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "GIV_2015_2020-Ambitions_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/GIV_2015_2020-Ambitions_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/GIV_2015_2020-Ambitions_0.pdf/GIV_2015_2020-Ambitions_0.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2015 Half Year Results Presentation 17 Jul 2015",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2015%20HYR%20Presentation_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-07-17",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/2015%20HYR%20Presentation_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2015-07-17/2015%2520HYR%2520Presentation_0.pdf/2015%2520HYR%2520Presentation_0.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2014 Half Year Results Presentation 17 Jul 2014",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2014_HYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-07-17",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2014_HYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2014-07-17/Giv_2014_HYresults.pdf/Giv_2014_HYresults.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2014 Full Year Results Presentation 29 Jan 2015",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2014%20FY%20Results%20Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-01-29",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/download_links/2014%20FY%20Results%20Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2015-01-29/2014%2520FY%2520Results%2520Presentation.pdf/2014%2520FY%2520Results%2520Presentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2013 Half Year Results Presentation 25 Jul 2013",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2013_HYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-07-25",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2013_HYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2013-07-25/Giv_2013_HYresults.pdf/Giv_2013_HYresults.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2012 Half Year Results Presentation 03 Aug 2012",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2012_HYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-08-03",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2012_HYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2012-08-03/Giv_2012_HYresults.pdf/Giv_2012_HYresults.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2010 Full Year Results Presentation 08 Feb 2011",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2010_FYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02-08",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2010_FYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2011-02-08/Giv_2010_FYresults.pdf/Giv_2010_FYresults.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2010 Half Year Investor Conference Presentation 31",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2010_HYconference.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-08-31",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2010_HYconference.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2010-08-31/Giv_2010_HYconference.pdf/Giv_2010_HYconference.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Full Year Results Presentation 16 Feb 2010",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_2009_fy_pr.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02-16",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_2009_fy_pr.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2010-02-16/givaudan_2009_fy_pr.pdf/givaudan_2009_fy_pr.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2009 Half Year Results Presentation 04 Aug 2009",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_pr_hy_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-08-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_pr_hy_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2009-08-04/givaudan_pr_hy_2009.pdf/givaudan_pr_hy_2009.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Full Year Results Presentation 17 Feb 2009",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_2008_fy_pr.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-02-17",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_2008_fy_pr.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2009-02-17/givaudan_2008_fy_pr.pdf/givaudan_2008_fy_pr.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2008 Half Year Investor Conference Presentation 28",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "08_08_28_Gilles_Andrier_presentaion.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-08-28",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/08_08_28_Gilles_Andrier_presentaion.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2008-08-28/08_08_28_Gilles_Andrier_presentaion.pdf/08_08_28_Gilles_Andrier_presentaion.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Full Year Results Presentation 19 Feb 2008",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_pr_fy2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-02-19",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_pr_fy2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2008-02-19/givaudan_pr_fy2007.pdf/givaudan_pr_fy2007.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Annual Investor Conference Presentation 04 Ap",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "07_Inv_Conf.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-04-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/07_Inv_Conf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2007-04-04/07_Inv_Conf.pdf/07_Inv_Conf.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2007 Half Year Results Presentation 03 Aug 2007",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Givaudan_2007_HY_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-08-03",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Givaudan_2007_HY_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2007-08-03/Givaudan_2007_HY_Presentation.pdf/Givaudan_2007_HY_Presentation.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Full Year Results Presentation 20 Feb 2007",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_pr_fy2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02-20",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_pr_fy2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2007-02-20/givaudan_pr_fy2006.pdf/givaudan_pr_fy2006.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2006 Half Year Results Presentation 04 Aug 2006",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy2006-pres.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-08-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/hy2006-pres.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2006-08-04/hy2006-pres.pdf/hy2006-pres.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2005 Full Year Results Presentation 21 Feb 2006",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan-fy-2005-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-02-21",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan-fy-2005-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2006-02-21/givaudan-fy-2005-presentation.pdf/givaudan-fy-2005-presentation.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2004 Annual Investor Conference Presentation 08 Ap",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan_ip_investor_020404.pdf",
+        "file_type": "pdf",
+        "published_date": "2004-04-08",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan_ip_investor_020404.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2004-04-08/givaudan_ip_investor_020404.pdf/givaudan_ip_investor_020404.pdf",
+        "content_type": [
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2001 Full Year Results Presentation 06 Mar 2002",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ip_fy_2001.pdf",
+        "file_type": "pdf",
+        "published_date": "2002-03-06",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/ip_fy_2001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2002-03-06/ip_fy_2001.pdf/ip_fy_2001.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2013 Full Year Results Presentation 30 Jan 2014",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2013_FYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-01-30",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2013_FYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2014-01-30/Giv_2013_FYresults.pdf/Giv_2013_FYresults.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2012 Full Year Results Presentation 05 Feb 2013",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2012_FYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-02-05",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2012_FYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2013-02-05/Giv_2012_FYresults.pdf/Giv_2012_FYresults.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2011 Full Year Results Presentation 16 Feb 2012",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2011_FYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02-16",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2011_FYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2012-02-16/Giv_2011_FYresults.pdf/Giv_2011_FYresults.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2011 Half Year Results Presentation 04 Aug 2011",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2011_HYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-08-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2011_HYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2011-08-04/Giv_2011_HYresults.pdf/Giv_2011_HYresults.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2010 Half Year Results Presentation 05 Aug 2010",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Giv_2010_HYresults.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-08-05",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/Giv_2010_HYresults.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2010-08-05/Giv_2010_HYresults.pdf/Giv_2010_HYresults.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2005 Half Year Results Presentation 09 Aug 2005",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan-hy2005-pres.pdf",
+        "file_type": "pdf",
+        "published_date": "2005-04",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan-hy2005-pres.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2005-04/givaudan-hy2005-pres.pdf/givaudan-hy2005-pres.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2004 Full Year Results Presentation 01 Mar 2005",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan-fy2004.pdf",
+        "file_type": "pdf",
+        "published_date": "2005-03-01",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan-fy2004.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2005-03-01/givaudan-fy2004.pdf/givaudan-fy2004.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2003 Full Year Results Presentation 02 Mar 2004",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "givaudan-fy2003-pres.pdf",
+        "file_type": "pdf",
+        "published_date": "2004-03-02",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/givaudan-fy2003-pres.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2004-03-02/givaudan-fy2003-pres.pdf/givaudan-fy2003-pres.pdf",
+        "content_type": [
+          "full-year-results",
+          "news",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2003 Annual General Meeting Key Notes 11 Apr 2003",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "AGM2003Keynote.pdf",
+        "file_type": "pdf",
+        "published_date": "2003-04-11",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/AGM2003Keynote.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2003-04-11/AGM2003Keynote.pdf/AGM2003Keynote.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2003 Annual General Meeting Presentation 11 Apr 20",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "AGM2003-cfo.pdf",
+        "file_type": "pdf",
+        "published_date": "2003-04-11",
+        "source_url": "https://www.givaudan.com/sites/givaudanweb.int/files/imported/pdf/AGM2003-cfo.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2003-04-11/AGM2003-cfo.pdf/AGM2003-cfo.pdf",
+        "content_type": [
+          "news",
+          "presentation",
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "event_name": "visit 2024 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-01-24",
+        "source_url": "https://www.givaudan.com/media/media-releases/2025/2024-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2025-01-24/2024-full-year-results.jpeg/2024-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "giv-2025-investor-presentation-jan.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-01-24",
+        "source_url": "https://www.givaudan.com/files/giv-2025-investor-presentation-jan.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2025-01-24/giv-2025-investor-presentation-jan.pdf/giv-2025-investor-presentation-jan.pdf",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "giv-ps-compliance-california-transparency-act.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-01-24",
+        "source_url": "https://www.givaudan.com/files/giv-ps-compliance-california-transparency-act.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2025-01-24/giv-ps-compliance-california-transparency-act.pdf/giv-ps-compliance-california-transparency-act.pdf",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2024 Nine month sales Ad hoc Corporate Financial 2024 Nine month sales 10 Oct 2024 - 06:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2024-nine-month-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-07",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/2024-nine-month-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024-07/2024-nine-month-sales.jpeg/2024-nine-month-sales.jpeg",
+        "content_type": [
+          "nine-month-sales",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2024 Half year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-half-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/2024-half-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024/2024-half-year-results.jpeg/2024-half-year-results.jpeg",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2024 First quarter sales Ad hoc Corporate Fi",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-first-quarter-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/2024-first-quarter-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024/2024-first-quarter-sales.jpeg/2024-first-quarter-sales.jpeg",
+        "content_type": [
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Corrigendum Ad hoc Corporate Financial Corrigendum 06",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "gcfr-corrigendum.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/gcfr-corrigendum",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023-04/gcfr-corrigendum.jpeg/gcfr-corrigendum.jpeg",
+        "content_type": [
+          "press-release",
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "giv-2023-gcfr.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.givaudan.com/files/giv-2023-gcfr.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023-04/giv-2023-gcfr.pdf/giv-2023-gcfr.pdf",
+        "content_type": [
+          "press-release",
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2023 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-01-25",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/2023-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024-01-25/2023-full-year-results.jpeg/2023-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2023 Nine month sales Ad hoc Corporate Financial 2023 Nine month sales 12 Oct 2023 - 07:00 C",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2023-nine-month-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023",
+        "source_url": "https://www.givaudan.com/media/media-releases/2023/2023-nine-month-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023/2023-nine-month-sales.jpeg/2023-nine-month-sales.jpeg",
+        "content_type": [
+          "nine-month-sales",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2023 Half year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-half-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023",
+        "source_url": "https://www.givaudan.com/media/media-releases/2023/2023-half-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023/2023-half-year-results.jpeg/2023-half-year-results.jpeg",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2023 First quarter sales Ad hoc Corporate Fi",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-first-quarter-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023",
+        "source_url": "https://www.givaudan.com/media/media-releases/2023/2023-first-quarter-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023/2023-first-quarter-sales.jpeg/2023-first-quarter-sales.jpeg",
+        "content_type": [
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2022 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-01-25",
+        "source_url": "https://www.givaudan.com/media/media-releases/2023/2022-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2023-01-25/2022-full-year-results.jpeg/2022-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2022 Nine month results Ad hoc Corporate Financial 2022 Nine month results 11 Oct 2022 - 06:30 C | Ad hoc announcement pursuant to art",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-nine-month-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2022/2022-nine-month-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022-04/2022-nine-month-sales.jpeg/2022-nine-month-sales.jpeg",
+        "content_type": [
+          "nine-month-sales",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2022 Half year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-half-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022",
+        "source_url": "https://www.givaudan.com/media/media-releases/2022/2022-half-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022/2022-half-year-results.jpeg/2022-half-year-results.jpeg",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Bonds issue: Givaudan announces the successful placement of CHF 300M of Swiss Franc Bonds Ad hoc Corporate Financial Bonds issue: Givaudan announces the successful placement of CHF 300M of Swiss Franc Bonds 30 May 2022 - 17:20 C | Givaudan SA announces the successful placement of CHF 300M of Swiss Franc Bonds",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "bonds-issue-may.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-05-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2022/bonds-issue-may",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022-05-05/bonds-issue-may.jpeg/bonds-issue-may.jpeg",
+        "content_type": [
+          "announcement",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2022 First quarter sales Ad hoc Corporate Fi",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-first-quarter-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022",
+        "source_url": "https://www.givaudan.com/media/media-releases/2022/2022-first-quarter-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2022/2022-first-quarter-sales.jpeg/2022-first-quarter-sales.jpeg",
+        "content_type": [
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2021 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2022/2021-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/2021-full-year-results.jpeg/2021-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2021 Nine month sales Ad hoc Corporate Financial 2021 Nine month sales 12 Oct 2021 - 06:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2021-nine-month-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/2021-nine-month-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021-04/2021-nine-month-sales.jpeg/2021-nine-month-sales.jpeg",
+        "content_type": [
+          "nine-month-sales",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2021 Half year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-half-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/2021-half-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/2021-half-year-results.jpeg/2021-half-year-results.jpeg",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2021 First quarter sales Ad hoc Corporate Fi",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-first-quarter-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/2021-first-quarter-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/2021-first-quarter-sales.jpeg/2021-first-quarter-sales.jpeg",
+        "content_type": [
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2020 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/2020-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-04/2020-full-year-results.jpeg/2020-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2020 Nine month sales Ad hoc Corporate Financial 2020 Nine month sales 08 Oct 2020 - 06:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-nine-month-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/2020-nine-month-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/2020-nine-month-sales.jpeg/2020-nine-month-sales.jpeg",
+        "content_type": [
+          "nine-month-sales",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2020 Half year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-half-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/2020-half-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/2020-half-year-results.jpeg/2020-half-year-results.jpeg",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "giv-2020-hy-report.pdf#page=24",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/files/giv-2020-hy-report.pdf#page=24",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/giv-2020-hy-report.pdf%23page%3D24/giv-2020-hy-report.pdf%23page%3D24.pdf",
+        "content_type": [
+          "half-year-results",
+          "press-release"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan announces the successful placement of EUR 1,000 million of senior debt Ad hoc Corporate Financial Givaudan announces the successful placement of EUR 1,000 million of senior debt 15 Apr 2020 - 19:00 C",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-announces-successful-placement-eur-1000-million-senior-debt.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-announces-successful-placement-eur-1000-million-senior-debt",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-announces-successful-placement-eur-1000-million-senior-debt.jpeg/givaudan-announces-successful-placement-eur-1000-million-senior-debt.jpeg",
+        "content_type": [
+          "announcement",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2020 First quarter sales Ad hoc Corporate Fi",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-first-quarter-sales.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/2020-first-quarter-sales",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/2020-first-quarter-sales.jpeg/2020-first-quarter-sales.jpeg",
+        "content_type": [
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2019 Full year results Ad hoc Corporate Fina",
+    "equity_ticker": "GIVN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2019-full-year-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020-01-24",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/2019-full-year-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020-01-24/2019-full-year-results.jpeg/2019-full-year-results.jpeg",
+        "content_type": [
+          "full-year-results",
+          "press-release"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  }
+]

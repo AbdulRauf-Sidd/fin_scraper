@@ -58,17 +58,6 @@
         "record_type": "screenshot"
       },
       {
-        "file_name": "Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "file_type": "html",
-        "published_date": "2025-01-07",
-        "source_url": "https://www.dailymail.co.uk/money/markets/article-9766001/Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2025-01-07/Wise-Londons-biggest-tech-listing-worth-8bn.html/Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "attachment",
         "file_type": "pdf",
         "published_date": "2025-01-07",
@@ -82,7 +71,7 @@
     ]
   },
   {
-    "event_name": "October 21, 2024 Product October 21, 2024 Product Wise Platform Boosts Global Payments with Enhanced Infrastructure for Faster, Cheaper Cross-Border Solutions Wise\u2019s global payments infrastructure for banks, financial institutions and larger enterprises, has further enhanced its product suite for partners and significantly expanded its global regulatory",
+    "event_name": "October 21, 2024 Product October 21, 2024 Product Wise Platform Boosts Global Payments with Enhanced Infrastructure for Faster, Cheaper Cross-Border Solutions Wise’s global payments infrastructure for banks, financial institutions and larger enterprises, has further enhanced its product suite for partners and significantly expanded its global regulatory",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -217,7 +206,7 @@
     ]
   },
   {
-    "event_name": "September 5, 2023 News September 5, 2023 News Barely half of banks\u2019 own employees would recommend their international payment services to customers A recent survey has revealed that only 51% of employees at the UK's top banks would recommend their respective institutions' international payments services",
+    "event_name": "September 5, 2023 News September 5, 2023 News Barely half of banks’ own employees would recommend their international payment services to customers A recent survey has revealed that only 51% of employees at the UK's top banks would recommend their respective institutions' international payments services",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -247,7 +236,7 @@
     ]
   },
   {
-    "event_name": "July 11, 2023 Insights July 11, 2023 Insights New Data From Wise Shows Irish People Plan To Retire Abroad and Reveals Top Dinations Are Portugal, The UK and Spain New research by Wise, the global technology company building the b way to move and manage money, has found that 27% of Irish people are \u2018very likely\u2019 to retire abroad",
+    "event_name": "July 11, 2023 Insights July 11, 2023 Insights New Data From Wise Shows Irish People Plan To Retire Abroad and Reveals Top Dinations Are Portugal, The UK and Spain New research by Wise, the global technology company building the b way to move and manage money, has found that 27% of Irish people are ‘very likely’ to retire abroad",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -288,7 +277,7 @@
     ]
   },
   {
-    "event_name": "March 7, 2023 Insights March 7, 2023 Insights Rising costs impacting holiday decisions, but Irish travel makers still set for big summer plans Majority of Irish people will use personal savings to pay for 2023 holidays, but will spend more time researching holiday options The average Irish person is set to spend \u20ac2,800 on summer vacation",
+    "event_name": "March 7, 2023 Insights March 7, 2023 Insights Rising costs impacting holiday decisions, but Irish travel makers still set for big summer plans Majority of Irish people will use personal savings to pay for 2023 holidays, but will spend more time researching holiday options The average Irish person is set to spend €2,800 on summer vacation",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -318,7 +307,7 @@
     ]
   },
   {
-    "event_name": "March 1, 2023 Corporate March 1, 2023 Corporate Wise unveils new look as it reaches 16 million customers served worldwide and continues global expansion New look reflects Wise\u2019s global community, as the company doubles down on expansion, revealing new product and global growth plans",
+    "event_name": "March 1, 2023 Corporate March 1, 2023 Corporate Wise unveils new look as it reaches 16 million customers served worldwide and continues global expansion New look reflects Wise’s global community, as the company doubles down on expansion, revealing new product and global growth plans",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -378,7 +367,7 @@
     ]
   },
   {
-    "event_name": "December 15, 2022 Product December 15, 2022 Product Wise sets a new standard for holding money: Introducing \u201cInter\u201d product in Wise Assets New fund will track the inter rate offered by major central banks, allowing UK customers to earn in line with local inter rates",
+    "event_name": "December 15, 2022 Product December 15, 2022 Product Wise sets a new standard for holding money: Introducing “Inter” product in Wise Assets New fund will track the inter rate offered by major central banks, allowing UK customers to earn in line with local inter rates",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -490,6 +479,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "event_name": "March 6, 2025 Employer March 6, 2025 Employer Wise expands in London and Tallinn with new office moves into spaces built for growth Wise is relocating its offices in London and Tallinn while expanding its hubs in Austin and Singapore",
     "equity_ticker": "WISE",
     "geography": "European",
@@ -548,17 +538,6 @@
         "record_type": "screenshot"
       },
       {
-        "file_name": "Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "file_type": "html",
-        "published_date": "2025-01-07",
-        "source_url": "https://www.dailymail.co.uk/money/markets/article-9766001/Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2025-01-07/Wise-Londons-biggest-tech-listing-worth-8bn.html/Wise-Londons-biggest-tech-listing-worth-8bn.html",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "attachment",
         "file_type": "pdf",
         "published_date": "2025-01-07",
@@ -572,7 +551,7 @@
     ]
   },
   {
-    "event_name": "October 21, 2024 Product October 21, 2024 Product Wise Platform Boosts Global Payments with Enhanced Infrastructure for Faster, Cheaper Cross-Border Solutions Wise\u2019s global payments infrastructure for banks, financial institutions and larger enterprises, has further enhanced its product suite for partners and significantly expanded its global regulatory",
+    "event_name": "October 21, 2024 Product October 21, 2024 Product Wise Platform Boosts Global Payments with Enhanced Infrastructure for Faster, Cheaper Cross-Border Solutions Wise’s global payments infrastructure for banks, financial institutions and larger enterprises, has further enhanced its product suite for partners and significantly expanded its global regulatory",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -707,7 +686,7 @@
     ]
   },
   {
-    "event_name": "September 5, 2023 News September 5, 2023 News Barely half of banks\u2019 own employees would recommend their international payment services to customers A recent survey has revealed that only 51% of employees at the UK's top banks would recommend their respective institutions' international payments services",
+    "event_name": "September 5, 2023 News September 5, 2023 News Barely half of banks’ own employees would recommend their international payment services to customers A recent survey has revealed that only 51% of employees at the UK's top banks would recommend their respective institutions' international payments services",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -737,7 +716,7 @@
     ]
   },
   {
-    "event_name": "July 11, 2023 Insights July 11, 2023 Insights New Data From Wise Shows Irish People Plan To Retire Abroad and Reveals Top Dinations Are Portugal, The UK and Spain New research by Wise, the global technology company building the b way to move and manage money, has found that 27% of Irish people are \u2018very likely\u2019 to retire abroad",
+    "event_name": "July 11, 2023 Insights July 11, 2023 Insights New Data From Wise Shows Irish People Plan To Retire Abroad and Reveals Top Dinations Are Portugal, The UK and Spain New research by Wise, the global technology company building the b way to move and manage money, has found that 27% of Irish people are ‘very likely’ to retire abroad",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -778,7 +757,7 @@
     ]
   },
   {
-    "event_name": "March 7, 2023 Insights March 7, 2023 Insights Rising costs impacting holiday decisions, but Irish travel makers still set for big summer plans Majority of Irish people will use personal savings to pay for 2023 holidays, but will spend more time researching holiday options The average Irish person is set to spend \u20ac2,800 on summer vacation",
+    "event_name": "March 7, 2023 Insights March 7, 2023 Insights Rising costs impacting holiday decisions, but Irish travel makers still set for big summer plans Majority of Irish people will use personal savings to pay for 2023 holidays, but will spend more time researching holiday options The average Irish person is set to spend €2,800 on summer vacation",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -808,7 +787,7 @@
     ]
   },
   {
-    "event_name": "March 1, 2023 Corporate March 1, 2023 Corporate Wise unveils new look as it reaches 16 million customers served worldwide and continues global expansion New look reflects Wise\u2019s global community, as the company doubles down on expansion, revealing new product and global growth plans",
+    "event_name": "March 1, 2023 Corporate March 1, 2023 Corporate Wise unveils new look as it reaches 16 million customers served worldwide and continues global expansion New look reflects Wise’s global community, as the company doubles down on expansion, revealing new product and global growth plans",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -868,7 +847,7 @@
     ]
   },
   {
-    "event_name": "December 15, 2022 Product December 15, 2022 Product Wise sets a new standard for holding money: Introducing \u201cInter\u201d product in Wise Assets New fund will track the inter rate offered by major central banks, allowing UK customers to earn in line with local inter rates",
+    "event_name": "December 15, 2022 Product December 15, 2022 Product Wise sets a new standard for holding money: Introducing “Inter” product in Wise Assets New fund will track the inter rate offered by major central banks, allowing UK customers to earn in line with local inter rates",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -980,6 +959,8 @@
     ]
   },
   {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Now in its 5th year, the 20 Under 20 competition hel",
     "equity_ticker": "WISE",
     "geography": "European",
@@ -1042,7 +1023,7 @@
     ]
   },
   {
-    "event_name": "September 21, 2021 Product September 21, 2021 Product Wise launches Assets, your Wise account inved in the world\u2019s larg companies Wise, the global technology company building the b way to move money around the world, has today introduced its multi-currency invment feature Assets, to UK customers",
+    "event_name": "September 21, 2021 Product September 21, 2021 Product Wise launches Assets, your Wise account inved in the world’s larg companies Wise, the global technology company building the b way to move money around the world, has today introduced its multi-currency invment feature Assets, to UK customers",
     "equity_ticker": "WISE",
     "geography": "European",
     "periodicity": "non-periodic",

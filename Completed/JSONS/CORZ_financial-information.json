@@ -637,19 +637,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "core-20230630.htm",
-        "file_type": "html",
-        "published_date": "2023-04-30",
-        "source_url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-23-032799/core-20230630.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CORZ/2023-04-30/core-20230630.htm/core-20230630.htm.html",
-        "content_type": [
-          "10-Q",
-          "financial-information",
-          "sec-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "0001628280-23-032799.pdf",
         "file_type": "pdf",
         "published_date": "2023-04-30",

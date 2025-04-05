@@ -17,6 +17,8 @@
         "record_type": "screenshot"
       },
       {
+<<<<<<< HEAD
+=======
         "file_name": "en.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -2013,17 +2015,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/buildings/digital-building-lifecycle/haystack-tagging-standard.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/haystack-tagging-standard.html/haystack-tagging-standard.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "terms.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/buildings/building-x/terms.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/terms.html/terms.html",
         "content_type": [
           "press"
         ],
@@ -4087,61 +4078,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "io-box-siprotec-6md61.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/io-box-siprotec-6md61.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/io-box-siprotec-6md61.html/io-box-siprotec-6md61.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "bay-controller-unit-siprotec-6md63.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/bay-controller-unit-siprotec-6md63.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/bay-controller-unit-siprotec-6md63.html/bay-controller-unit-siprotec-6md63.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "bay-controller-siprotec-6md66.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/bay-controller-siprotec-6md66.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/bay-controller-siprotec-6md66.html/bay-controller-siprotec-6md66.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "engineering-software-digsi-4.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/engineering-software-digsi-4.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/engineering-software-digsi-4.html/engineering-software-digsi-4.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "engineering-software-iec-61850-system-configurator.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/engineering-software-iec-61850-system-configurator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/engineering-software-iec-61850-system-configurator.html/engineering-software-iec-61850-system-configurator.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "short-circuit-indicator-for-cable-sicam-fcm.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -4224,17 +4160,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/protocol-test-system-sicam-pts.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/protocol-test-system-sicam-pts.html/protocol-test-system-sicam-pts.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "certificate-manager-sicam-gridpass.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/substation-automation/certificate-manager-sicam-gridpass.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/certificate-manager-sicam-gridpass.html/certificate-manager-sicam-gridpass.html",
         "content_type": [
           "press"
         ],
@@ -4373,17 +4298,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "fault-recorder-siprotec-7ke85.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/power-quality-measurement/fault-recorder-siprotec-7ke85.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/fault-recorder-siprotec-7ke85.html/fault-recorder-siprotec-7ke85.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "power-quality-analysis-sicam-pq-analyzer.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -4411,17 +4325,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/power-quality-measurement/power-quality-monitoring-pq-advisor-compact.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/power-quality-monitoring-pq-advisor-compact.html/power-quality-monitoring-pq-advisor-compact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "certificate-manager-sicam-gridpass.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/power-quality-measurement/certificate-manager-sicam-gridpass.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/certificate-manager-sicam-gridpass.html/certificate-manager-sicam-gridpass.html",
         "content_type": [
           "press"
         ],
@@ -4604,17 +4507,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "webinars.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/webinars.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/webinars.html/webinars.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "siapp.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -4758,17 +4650,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "siprotec-tools.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/subscription/protips/siprotec-tools.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/siprotec-tools.html/siprotec-tools.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "siprotec-5-easy-configuration-and-test.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -4818,17 +4699,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/subscription/expert-tutorial/cybersecurity-for-energy-automation.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/cybersecurity-for-energy-automation.html/cybersecurity-for-energy-automation.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "busbar-protection-siprotec-7ss85.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/subscription/expert-tutorial/busbar-protection-siprotec-7ss85.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/busbar-protection-siprotec-7ss85.html/busbar-protection-siprotec-7ss85.html",
         "content_type": [
           "press"
         ],
@@ -4950,17 +4820,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/grid-security/system-security.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/system-security.html/system-security.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "certificate-manager-sicam-gridpass.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/grid-security/products/certificate-manager-sicam-gridpass.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/certificate-manager-sicam-gridpass.html/certificate-manager-sicam-gridpass.html",
         "content_type": [
           "press"
         ],
@@ -5847,17 +5706,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "sentron-digital.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/low-voltage/solution-concepts/sentron-digital.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sentron-digital.html/sentron-digital.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "nis2.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -5918,17 +5766,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/low-voltage/solution-concepts/lowvoltage-availability.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/lowvoltage-availability.html/lowvoltage-availability.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "energy-efficiency.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/low-voltage/solution-concepts/energy-efficiency.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/energy-efficiency.html/energy-efficiency.html",
         "content_type": [
           "press"
         ],
@@ -6160,17 +5997,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/medium-voltage/systems/generator-circuit-breakers/pumped-storage-solution.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/pumped-storage-solution.html/pumped-storage-solution.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/medium-voltage/systems/generator-circuit-breakers/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -6716,17 +6542,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/distributed-energy-systems/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "dyna-grid-center.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -6793,33 +6608,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "data-centers.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/smart-power-distribution/data-centers.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/data-centers.html/data-centers.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "harbors.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/topics/smart-power-distribution/harbors.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/harbors.html/harbors.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "oil-gas.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/smart-power-distribution/oil-gas.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/oil-gas.html/oil-gas.html",
         "content_type": [
           "press"
         ],
@@ -6842,17 +6635,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/topics/innosys.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/innosys.html/innosys.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "power-quality.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/municipalities-dsos/power-quality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/power-quality.html/power-quality.html",
         "content_type": [
           "press"
         ],
@@ -7079,33 +6861,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "terms.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/electrification-x/terms.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/terms.html/terms.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "network-fault-management.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/topics/electrification-x/network-fault-management.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/network-fault-management.html/network-fault-management.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "ot-companion.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/electrification-x/ot-companion.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/ot-companion.html/ot-companion.html",
         "content_type": [
           "press"
         ],
@@ -7365,17 +7125,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "newsletter.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/newsletter.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/newsletter.html/newsletter.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "gsw-partners.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -7425,17 +7174,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control/advanced-distribution-management.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/advanced-distribution-management.html/advanced-distribution-management.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/operation/lv-insights-x/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -7728,33 +7466,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "webinar-simulation-software-power-grids.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software/webinar-simulation-software-power-grids.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/webinar-simulation-software-power-grids.html/webinar-simulation-software-power-grids.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "electrical-digital-twin.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/planning/electrical-digital-twin.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/electrical-digital-twin.html/electrical-digital-twin.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/planning/der-insights/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -7783,17 +7499,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/maintain/protection-data-manager/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "water.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -7810,17 +7515,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/meter-data-management/saas.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/saas.html/saas.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "training.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/grid-software/meter-data-management/training.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/training.html/training.html",
         "content_type": [
           "press"
         ],
@@ -8107,17 +7801,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/energy/emobility/sifinity-charge.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sifinity-charge.html/sifinity-charge.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "terms.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/emobility/depotfinity/terms.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/terms.html/terms.html",
         "content_type": [
           "press"
         ],
@@ -8729,17 +8412,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "digital-twin.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/systems/cnc-sinumerik/automation-systems/sinumerik-one/digital-twin.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digital-twin.html/digital-twin.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "sinumerik-one-dynamics.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -8943,17 +8615,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/identification-and-locating/optical-identification-systems.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/optical-identification-systems.html/optical-identification-systems.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/identification-and-locating/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -9367,17 +9028,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "cybersecurity.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/ruggedcom/cybersecurity.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/cybersecurity.html/cybersecurity.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "opc-ua.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -9741,17 +9391,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "whitepaper.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industrial-communication/network-security/zero-trust/whitepaper.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/whitepaper.html/whitepaper.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "industrial-wireless-communication.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -10032,17 +9671,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/industrial-controls/sirius/sirius-monitor/3rk3-modular-safety-system.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/3rk3-modular-safety-system.html/3rk3-modular-safety-system.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "as-interface.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industrial-controls/sirius/sirius-monitor/as-interface.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/as-interface.html/as-interface.html",
         "content_type": [
           "press"
         ],
@@ -10599,17 +10227,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "training.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/plant-engineering-software-comos/training.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/training.html/training.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "comos-v10-4.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -10670,28 +10287,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/plant-engineering-software-comos/smart-data-for-brownfield.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/smart-data-for-brownfield.html/smart-data-for-brownfield.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "training.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/xhq-operations-intelligence-software/training.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/training.html/training.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "partner-business.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/xhq-operations-intelligence-software/partner-business.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/partner-business.html/partner-business.html",
         "content_type": [
           "press"
         ],
@@ -10967,17 +10562,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/machine-tools-digitalization-machinum/shop-floor-check-up-tool.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/shop-floor-check-up-tool.html/shop-floor-check-up-tool.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "references.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/industry-software/machine-tools-digitalization-machinum/references.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/references.html/references.html",
         "content_type": [
           "press"
         ],
@@ -11391,33 +10975,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "whitepaper.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/power-supply/dc-ups/whitepaper.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/whitepaper.html/whitepaper.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "sitop-sel1600.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/power-supply/add-on-modules/sitop-sel1600.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sitop-sel1600.html/sitop-sel1600.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/power-supply/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -11660,17 +11222,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/process-control/simatic-pcs-7/engineering-system.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/engineering-system.html/engineering-system.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "migration.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/process-control/simatic-pcs-7/migration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/migration.html/migration.html",
         "content_type": [
           "press"
         ],
@@ -12612,17 +12163,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "software.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/process-instrumentation/weight-measurement/software.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/software.html/software.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "load-cells.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -12711,17 +12251,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "training.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/process-instrumentation/training.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/training.html/training.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "siplus-cms.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -12760,17 +12289,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/products-for-specific-requirements/siplus-extreme/siplus-extreme-rail.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/siplus-extreme-rail.html/siplus-extreme-rail.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "controllers.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/products-for-specific-requirements/siplus-extreme/controllers.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/controllers.html/controllers.html",
         "content_type": [
           "press"
         ],
@@ -13030,17 +12548,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "digital-twin.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/digital-enterprise/digital-transformers/electronics-factory-erlangen/digital-twin.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digital-twin.html/digital-twin.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "industrial-metaverse.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -13090,17 +12597,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/digital-enterprise/partner-ecosystem/co-innovation/it-like-asset-management.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/it-like-asset-management.html/it-like-asset-management.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-metaverse.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/digital-enterprise/industrial-metaverse.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/industrial-metaverse.html/industrial-metaverse.html",
         "content_type": [
           "press"
         ],
@@ -13316,17 +12812,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/process-industries/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "safety-consulting.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -13409,17 +12894,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge/developer/mendix-on-edge/virtual-lab-registration.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/virtual-lab-registration.html/virtual-lab-registration.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "process-automation.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge/process-automation.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/process-automation.html/process-automation.html",
         "content_type": [
           "press"
         ],
@@ -13662,17 +13136,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/tia/whitepaper-it-and-ot-integration.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/whitepaper-it-and-ot-integration.html/whitepaper-it-and-ot-integration.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/artificial-intelligence-in-industry/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -14058,17 +13521,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/sce-education-training/trainer-packages.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/trainer-packages.html/trainer-packages.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "iot2000.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/sce-education-training/iot2000.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/iot2000.html/iot2000.html",
         "content_type": [
           "press"
         ],
@@ -14614,17 +14066,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "cybersecurity.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/cybersecurity.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/cybersecurity.html/cybersecurity.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "iot-siemens.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -14757,17 +14198,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/senseye-predictive-maintenance/senseye-cloud-application/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "how-it-works.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -14806,28 +14236,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/senseye-predictive-maintenance/senseye-cloud-application/predictive-maintenance-senseye-white-paper.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/predictive-maintenance-senseye-white-paper.html/predictive-maintenance-senseye-white-paper.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "benefits.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/senseye-predictive-maintenance/benefits.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/benefits.html/benefits.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industry-specific-solutions.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/senseye-predictive-maintenance/industry-specific-solutions.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/industry-specific-solutions.html/industry-specific-solutions.html",
         "content_type": [
           "press"
         ],
@@ -14911,17 +14319,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "whitepaper.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/whitepaper.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/whitepaper.html/whitepaper.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "network-operation-analytics.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -14988,17 +14385,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "maintenance-workflow-management.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/maintenance-workflow-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/maintenance-workflow-management.html/maintenance-workflow-management.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "e-book-primer-for-cybersecurity-in-industrial-automation.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -15026,17 +14412,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/industrial-security-services/idmz.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/idmz.html/idmz.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "vulnerability-management.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/industrial-security-services/vulnerability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/vulnerability-management.html/vulnerability-management.html",
         "content_type": [
           "press"
         ],
@@ -15945,17 +15320,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "business-administration.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/gbs/record-to-report/real-estate-services/business-administration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/business-administration.html/business-administration.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "autocad.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -16143,17 +15507,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "about-us.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/gbs/business-solutions-services/global-marketing-services/pulse/about-us.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/about-us.html/about-us.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "heavy-transport-to-uruguay.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -16297,17 +15650,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "digital-solutions.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/gbs/operations/digital-solutions.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digital-solutions.html/digital-solutions.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "engineering-services.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -16390,17 +15732,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/services/technology-accelerator/sta-approach.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sta-approach.html/sta-approach.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "portfolio.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/services/technology-accelerator/portfolio.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/portfolio.html/portfolio.html",
         "content_type": [
           "press"
         ],
@@ -16902,17 +16233,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "newsletter.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/chemical-industry/applications/hydrogen/newsletter.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/newsletter.html/newsletter.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "genai-in-hydrogen.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -17056,17 +16376,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "portfolio.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/chemical-industry/portfolio.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/portfolio.html/portfolio.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "safety-security.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -17094,17 +16403,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/chemical-industry/infrastructure/chemical-learning-world/generation-control-in-industrial-power-grids.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/generation-control-in-industrial-power-grids.html/generation-control-in-industrial-power-grids.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "automation.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cement-industry/automation.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/automation.html/automation.html",
         "content_type": [
           "press"
         ],
@@ -17276,17 +16574,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "predictive-maintenance.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/harbor-cranes/predictive-maintenance.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/predictive-maintenance.html/predictive-maintenance.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "mediacenter.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -17303,17 +16590,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/cranes/harbor-cranes/patrick-sydney-rail-terminal-sustainable-trade-gateway.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/patrick-sydney-rail-terminal-sustainable-trade-gateway.html/patrick-sydney-rail-terminal-sustainable-trade-gateway.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "remote-control.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/industry-cranes/remote-control.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/remote-control.html/remote-control.html",
         "content_type": [
           "press"
         ],
@@ -17342,44 +16618,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "drive-based-crane-technology.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/industry-cranes/drive-based-crane-technology.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/drive-based-crane-technology.html/drive-based-crane-technology.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "drive-based-sway-control.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/cranes/industry-cranes/drive-based-sway-control.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/drive-based-sway-control.html/drive-based-sway-control.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sway-control.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/industry-cranes/sway-control.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sway-control.html/sway-control.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "simocrane-crane-management-system-cms.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/industry-cranes/simocrane-crane-management-system-cms.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/simocrane-crane-management-system-cms.html/simocrane-crane-management-system-cms.html",
         "content_type": [
           "press"
         ],
@@ -17446,17 +16689,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/cranes/services-and-modernization/partners.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/partners.html/partners.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/cranes/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
         "content_type": [
           "press"
         ],
@@ -17633,17 +16865,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/glass-solar/glass-industry/digitalization-glassprocessing.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digitalization-glassprocessing.html/digitalization-glassprocessing.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "references.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/glass-solar/glass-industry/references.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/references.html/references.html",
         "content_type": [
           "press"
         ],
@@ -17842,17 +17063,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/intralogistics/reference-mecalux.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/reference-mecalux.html/reference-mecalux.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "newsletter.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/intralogistics/newsletter.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/newsletter.html/newsletter.html",
         "content_type": [
           "press"
         ],
@@ -18216,17 +17426,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/cnc4you-videos/ttt-gen/punch-tap.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/punch-tap.html/punch-tap.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "robot-integration.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/cnc4you-videos/ttt-gen/robot-integration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/robot-integration.html/robot-integration.html",
         "content_type": [
           "press"
         ],
@@ -20257,17 +19456,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "energy-efficiency.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/machinebuilding/machine-tools/cnc4you/basics-articles/energy-efficiency.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/energy-efficiency.html/energy-efficiency.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "additive-manufacturing-in-a-cutting-edge-environment.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -20796,17 +19984,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "standardization.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/machinebuilding/panel-building/standardization.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/standardization.html/standardization.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "emc-guideline.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -21214,17 +20391,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "protection-relay-basics.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/power-utilities/tutorials-for-power-utility-professionals/protection-relay-basics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/protection-relay-basics.html/protection-relay-basics.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "protection-relay-advanced.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -21318,17 +20484,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/semiconductors/tutorials-for-semiconductor-professionals/sustainability-intermediate.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sustainability-intermediate.html/sustainability-intermediate.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "power-quality.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/semiconductors/tutorials-for-semiconductor-professionals/power-quality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/power-quality.html/power-quality.html",
         "content_type": [
           "press"
         ],
@@ -21500,17 +20655,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "decarbonizing-real-estate-sector-net-zero.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/urban-communities/documents-resources/decarbonizing-real-estate-sector-net-zero.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/decarbonizing-real-estate-sector-net-zero.html/decarbonizing-real-estate-sector-net-zero.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "toolkit-for-resilient-cities.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -21577,33 +20721,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "contact.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/water/contact.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/contact.html/contact.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "reducing-non-revenue-water-webinar.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/water/non-revenue-water/reducing-non-revenue-water-webinar.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/reducing-non-revenue-water-webinar.html/reducing-non-revenue-water-webinar.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "roi-calculator.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/water/non-revenue-water/roi-calculator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/roi-calculator.html/roi-calculator.html",
         "content_type": [
           "press"
         ],
@@ -21698,17 +20820,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "security.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/wind/equipment/security.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/security.html/security.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "industrial-communication.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -21725,17 +20836,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/industries/wind/equipment/turbine-automation.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/turbine-automation.html/turbine-automation.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "digitalization.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries/wind/equipment/digitalization.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digitalization.html/digitalization.html",
         "content_type": [
           "press"
         ],
@@ -21874,17 +20974,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "siemens-healthineers.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/siemens-healthineers.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/siemens-healthineers.html/siemens-healthineers.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "siemens-advanta.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -21912,17 +21001,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/businesses/real-estate/sustainability/stories.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/stories.html/stories.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "digitalization.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/real-estate/digitalization.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digitalization.html/digitalization.html",
         "content_type": [
           "press"
         ],
@@ -22303,33 +21381,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "mobility.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/real-estate/siemens-campus-erlangen/mobility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/mobility.html/mobility.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "module-1.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/businesses/real-estate/siemens-campus-erlangen/module-1.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/module-1.html/module-1.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "campus.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/real-estate/siemens-campus-erlangen/campus.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/campus.html/campus.html",
         "content_type": [
           "press"
         ],
@@ -22820,28 +21876,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "stories.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/history/stories.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/stories.html/stories.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "siemensstadt.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/history/specials/siemensstadt.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/siemensstadt.html/siemensstadt.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "women-at-siemens.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -22913,17 +21947,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/history/specials/siemens-energy-history.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/siemens-energy-history.html/siemens-energy-history.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "60-years-of-sinumerik.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/history/specials/60-years-of-sinumerik.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/60-years-of-sinumerik.html/60-years-of-sinumerik.html",
         "content_type": [
           "press"
         ],
@@ -23056,17 +22079,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/history/specials/175-years/sigreen-estainium.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sigreen-estainium.html/sigreen-estainium.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-metaverse.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/history/specials/175-years/industrial-metaverse.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/industrial-metaverse.html/industrial-metaverse.html",
         "content_type": [
           "press"
         ],
@@ -23491,28 +22503,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "basel-institute.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/basel-institute.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/basel-institute.html/basel-institute.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "natc.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/natc.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/natc.html/natc.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "cii.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -23562,17 +22552,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/global-compact-korea.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/global-compact-korea.html/global-compact-korea.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "iaca.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/iaca.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/iaca.html/iaca.html",
         "content_type": [
           "press"
         ],
@@ -23634,17 +22613,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "polmed.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/polmed.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/polmed.html/polmed.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "ethics-institute-mozambique.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -23683,17 +22651,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/ti-espana.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/ti-espana.html/ti-espana.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "ti-italia.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about/compliance/collective-action/status-of-the-second-funding-round/ti-italia.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/ti-italia.html/ti-italia.html",
         "content_type": [
           "press"
         ],
@@ -24041,44 +22998,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "cybersecurity.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/digital-transformation/cybersecurity.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/cybersecurity.html/cybersecurity.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "intelligent-automation.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/digital-transformation/intelligent-automation.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/intelligent-automation.html/intelligent-automation.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "digital-twin.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/digital-transformation/digital-twin.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/digital-twin.html/digital-twin.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "artificial-intelligence.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/digital-transformation/artificial-intelligence.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/artificial-intelligence.html/artificial-intelligence.html",
         "content_type": [
           "press"
         ],
@@ -24745,17 +23669,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "buildings.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/stories/buildings.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/buildings.html/buildings.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "electrification-initiatives-for-a-sustainable-future.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -24811,33 +23724,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "software.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/stories/industry/software.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/software.html/software.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "research-technologies.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/stories/research-technologies.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/research-technologies.html/research-technologies.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "newsletter.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/stories/newsletter.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/newsletter.html/newsletter.html",
         "content_type": [
           "press"
         ],
@@ -24860,17 +23751,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/stories/sx-ecosystem.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sx-ecosystem.html/sx-ecosystem.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "managed-it-ot-infrastructure.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/webinars/managed-it-ot-infrastructure.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/managed-it-ot-infrastructure.html/managed-it-ot-infrastructure.html",
         "content_type": [
           "press"
         ],
@@ -24937,17 +23817,6 @@
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/fairs-events/webinars/green-hydrogen-grid-planning-consulting.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/green-hydrogen-grid-planning-consulting.html/green-hydrogen-grid-planning-consulting.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "device-integration.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/webinars/device-integration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/device-integration.html/device-integration.html",
         "content_type": [
           "press"
         ],
@@ -25086,17 +23955,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "simatic-pcs-neo.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/partners/product-partners-industry/simatic-pcs-neo.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/simatic-pcs-neo.html/simatic-pcs-neo.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "gridplus.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -25207,33 +24065,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "industries.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/industries.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/industries.html/industries.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "company.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/company.html/company.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "about.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/about.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/about.html/about.html",
         "content_type": [
           "press"
         ],
@@ -25251,33 +24087,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "sustainability.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/sustainability.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/sustainability.html/sustainability.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "innovation.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/company/innovation.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/innovation.html/innovation.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "stories.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/stories.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/stories.html/stories.html",
         "content_type": [
           "press"
         ],
@@ -25295,17 +24109,7 @@
         "record_type": "download"
       },
       {
-        "file_name": "partners.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/company/partners.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/partners.html/partners.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
         "file_name": "HQCOPR202504027147EN.pdf",
         "file_type": "pdf",
         "published_date": "2025-02-05",
@@ -25315,17 +24119,8 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "buildings.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/buildings.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/buildings.html/buildings.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
+<<<<<<< HEAD
+=======
       },
       {
         "file_name": "drives.html",
@@ -25361,55 +24156,11 @@
         "record_type": "download"
       },
       {
-        "file_name": "healthcare.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/healthcare.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/healthcare.html/healthcare.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "automation.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/automation.html/automation.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "mobility.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/mobility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/mobility.html/mobility.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "services.html",
         "file_type": "html",
         "published_date": "2025-02-05",
         "source_url": "https://www.siemens.com/global/en/products/services.html",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/services.html/services.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "software.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/products/software.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/software.html/software.html",
         "content_type": [
           "press"
         ],
@@ -25449,17 +24200,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "terms-of-use.html",
-        "file_type": "html",
-        "published_date": "2025-02-05",
-        "source_url": "https://www.siemens.com/global/en/general/terms-of-use.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-02-05/terms-of-use.html/terms-of-use.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "digital-id.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -25469,6 +24209,7 @@
           "press"
         ],
         "record_type": "download"
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
       }
     ]
   },
@@ -25720,17 +24461,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "smart-infrastructure.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/smart-infrastructure.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-27/smart-infrastructure.html/smart-infrastructure.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -25881,17 +24611,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "senseye-predictive-maintenance.html",
-        "file_type": "html",
-        "published_date": "2025-03-24",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/predictive-services/senseye-predictive-maintenance.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-24/senseye-predictive-maintenance.html/senseye-predictive-maintenance.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26010,17 +24729,6 @@
         "published_date": "2025-03-17",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a058e506-1453-442e-86f7-de30b0ac757c/HQSIPR202503127120EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-17/HQSIPR202503127120EN.pdf/HQSIPR202503127120EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "portfolio-manager.html",
-        "file_type": "html",
-        "published_date": "2025-03-17",
-        "source_url": "https://xcelerator.siemens.com/global/en/products/buildings/building-x/solutions/applications/portfolio-manager.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-17/portfolio-manager.html/portfolio-manager.html",
         "content_type": [
           "press"
         ],
@@ -26231,17 +24939,6 @@
         "published_date": "2025-03-03",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a433f8f6-d357-4550-9a8d-f2b19ca125b0/HQSIPR202502257111EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-03/HQSIPR202502257111EN.pdf/HQSIPR202502257111EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "ish.html",
-        "file_type": "html",
-        "published_date": "2025-03-03",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/ish.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-03/ish.html/ish.html",
         "content_type": [
           "press"
         ],
@@ -26518,17 +25215,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "annual-shareholder-meeting.html",
-        "file_type": "html",
-        "published_date": "2025-04-13",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations/annual-shareholder-meeting.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-04-13/annual-shareholder-meeting.html/annual-shareholder-meeting.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26771,17 +25457,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "electrification-x.html",
-        "file_type": "html",
-        "published_date": "2025-05-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/electrification-x.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-05-05/electrification-x.html/electrification-x.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26868,17 +25543,6 @@
         "published_date": "2025-01-15",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:0434b1e3-96bd-441e-a87e-07766a650740/HQSIPR202501087078EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-15/HQSIPR202501087078EN.pdf/HQSIPR202501087078EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "emobility.html",
-        "file_type": "html",
-        "published_date": "2025-01-15",
-        "source_url": "https://www.siemens.com/global/en/products/energy/emobility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-15/emobility.html/emobility.html",
         "content_type": [
           "press"
         ],
@@ -27018,17 +25682,6 @@
         "published_date": "2025-01-08",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:87684e4b-698d-4e36-8839-290e3701916e/HQSIPR202501067074EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-08/HQSIPR202501067074EN.pdf/HQSIPR202501067074EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "building-x.html",
-        "file_type": "html",
-        "published_date": "2025-01-08",
-        "source_url": "https://xcelerator.siemens.com/global/en/products/buildings/building-x.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-08/building-x.html/building-x.html",
         "content_type": [
           "press"
         ],
@@ -27363,17 +26016,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "carbonneutral.html",
-        "file_type": "html",
-        "published_date": "2024-05-05",
-        "source_url": "https://www.siemens.com/global/en/company/sustainability/carbonneutral.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-05-05/carbonneutral.html/carbonneutral.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -27460,17 +26102,6 @@
         "published_date": "2024-12-04",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:de8020d2-c21d-4f75-9913-e05ff93feace/HQSIPR202411297057EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-12-04/HQSIPR202411297057EN.pdf/HQSIPR202411297057EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "medium-voltage.html",
-        "file_type": "html",
-        "published_date": "2024-12-04",
-        "source_url": "https://www.siemens.com/us/en/products/energy/medium-voltage.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-12-04/medium-voltage.html/medium-voltage.html",
         "content_type": [
           "press"
         ],
@@ -27685,17 +26316,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "tech-report.html",
-        "file_type": "html",
-        "published_date": "2024-04-26",
-        "source_url": "https://www.siemens.com/global/en/company/insights/tech-report.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-26/tech-report.html/tech-report.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -27848,30 +26468,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "registration.html",
-        "file_type": "html",
-        "published_date": "2024-04-14",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/registration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-14/registration.html/registration.html",
-        "content_type": [
-          "financial-filing",
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "investor-relations.html",
-        "file_type": "html",
-        "published_date": "2024-04-14",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-14/investor-relations.html/investor-relations.html",
-        "content_type": [
-          "financial-filing",
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -27964,33 +26560,11 @@
         "record_type": "screenshot"
       },
       {
-        "file_name": "siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "source_url": "https://www.siemens.com/global/en/company/digital-transformation/industrial-metaverse/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "HQDIPR202411077040EN.pdf",
         "file_type": "pdf",
         "published_date": "2024-11-05",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a34f27f9-1e10-4932-8a97-60b1dcbf309a/HQDIPR202411077040EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/HQDIPR202411077040EN.pdf/HQDIPR202411077040EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-ai-enabled-operations.html",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/artificial-intelligence-in-industry/industrial-ai-enabled-operations.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/industrial-ai-enabled-operations.html/industrial-ai-enabled-operations.html",
         "content_type": [
           "press"
         ],
@@ -28081,17 +26655,6 @@
         "published_date": "2024-11-07",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:58d764f6-8fb5-47fe-8a90-b5fc08da84de/HQDIPR202411057037EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-07/HQDIPR202411057037EN.pdf/HQDIPR202411057037EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sps-fair.html",
-        "file_type": "html",
-        "published_date": "2024-11-07",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/sps-fair.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-07/sps-fair.html/sps-fair.html",
         "content_type": [
           "press"
         ],
@@ -28212,17 +26775,6 @@
         "published_date": "2024-10-24",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ea89c9fd-e37e-41c6-98eb-cd307679ac99/HQCOPR202410227027EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-24/HQCOPR202410227027EN.pdf/HQCOPR202410227027EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-copilot.html",
-        "file_type": "html",
-        "published_date": "2024-10-24",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/tia/future-topics/industrial-copilot.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-24/industrial-copilot.html/industrial-copilot.html",
         "content_type": [
           "press"
         ],
@@ -28613,17 +27165,6 @@
         "published_date": "2024-10-01",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3702df6a-1723-4517-8230-bd8a6d719657/HQSIPR202409307013EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-01/HQSIPR202409307013EN.pdf/HQSIPR202409307013EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chillventa.html",
-        "file_type": "html",
-        "published_date": "2024-10-01",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/chillventa.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-01/chillventa.html/chillventa.html",
         "content_type": [
           "press"
         ],
