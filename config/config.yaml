@@ -329,10 +329,10 @@ GIVN_news:
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.show
+    event_block: div.views-row
   pagination:
-    type: load_more
-    next_button: div.load-more-news button
+    type: null
+    next_button: null
     archive: null
     timeout: null
 
@@ -345,14 +345,15 @@ GIVN_media_releases:
   base_address: https://www.givaudan.com/
   periodic: null
   geography: "European"
-  forced_type: "news"
+  forced_type: "press-release"
+  link_archive: 'links/GIVN.txt'
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.show
+    event_block: div.views-row
   pagination:
-    type: load_more
-    next_button: div.load-more-news 
+    type: null
+    next_button: div.load-more-news:not(.hide) 
     archive: null
     timeout: null
 
@@ -364,15 +365,16 @@ GIVN_publication:
   output_json: JSONS/GIVN_publication.json
   base_address: https://www.givaudan.com/
   periodic: null
-  geography: "European"
-  forced_type: "news"
+  geography: "european"
+  link_archive: 'links/GIVN.txt'
+  forced_type: "publication"
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.show
+    event_block: div.views-row
   pagination:
-    type: load_more
-    next_button: div.load-more-news 
+    type: null
+    next_button: div.load-more-news:not(.hide)
     archive: null
     timeout: null
 
@@ -384,15 +386,16 @@ GIVN_media:        #COMPLETED
   output_json: JSONS/GIVN_media.json
   base_address: https://www.givaudan.com/
   periodic: null
-  geography: "European"
+  geography: "european"
+  link_archive: 'links/GIVN.txt'
   forced_type: "news"
   headless: false
   direct: false
   selectors:
-    event_block: div.views-row.showx
+    event_block: div.views-row
   pagination: 
-    type: load_more
-    next_button: div.load-more-documents 
+    type: null
+    next_button: div.load-more-documents:not(.hide)
     archive: null
     timeout: null
 
