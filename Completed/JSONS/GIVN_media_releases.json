@@ -763,18 +763,6 @@
         "record_type": "screenshot"
       },
       {
-        "file_name": "indexl.html",
-        "file_type": "html",
-        "published_date": "2020",
-        "source_url": "https://78449.choruscall.com/dataconf/productusers/givaudan/mediaframe/32173/indexl.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/indexl.html/indexl.html",
-        "content_type": [
-          "half-year-results",
-          "press-release"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "giv-2020-hy-report.pdf#page=24",
         "file_type": "pdf",
         "published_date": "2020",

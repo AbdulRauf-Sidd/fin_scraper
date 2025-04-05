@@ -64,17 +64,6 @@
     "periodicity": "non-periodic",
     "data": [
       {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2024/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "index.html#downloads",
         "file_type": "html",
         "published_date": "2025-03-27",
@@ -168,61 +157,6 @@
         "published_date": "2025-03-27",
         "source_url": "https://symrise.com/corporatereport/2024/home/SYM_Verguetungsbericht_2024_EN_250326_safe.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/SYM_Verguetungsbericht_2024_EN_250326_safe.pdf/SYM_Verguetungsbericht_2024_EN_250326_safe.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/corporatereport/2024/konzernkennzahlen/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/corporatereport/2024/creating-one-symrise/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/corporatereport/2024/editorial/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/corporatereport/2024/finanzkalender/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://symrise.com/corporatereport/2024/at-a-glance/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-03-27/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -333,7 +267,7 @@
     ]
   },
   {
-    "event_name": "Financial October 24, 2024 Interim Group Report January \u2013 September 2024 (trading update)",
+    "event_name": "Financial October 24, 2024 Interim Group Report January – September 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -512,7 +446,7 @@
     ]
   },
   {
-    "event_name": "Financial April 25, 2024 Quarterly Statement January \u2013 March 2024 (trading update)",
+    "event_name": "Financial April 25, 2024 Quarterly Statement January – March 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -590,7 +524,7 @@
     ]
   },
   {
-    "event_name": "Financial October 24, 2024 Interim Group Report January \u2013 September 2024 (trading update)",
+    "event_name": "Financial October 24, 2024 Interim Group Report January – September 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -769,7 +703,7 @@
     ]
   },
   {
-    "event_name": "Financial April 25, 2024 Quarterly Statement January \u2013 March 2024 (trading update)",
+    "event_name": "Financial April 25, 2024 Quarterly Statement January – March 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -935,7 +869,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1074,7 +1008,7 @@
     ]
   },
   {
-    "event_name": "Financial April 25, 2024 Quarterly Statement January \u2013 March 2024 (trading update)",
+    "event_name": "Financial April 25, 2024 Quarterly Statement January – March 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1240,7 +1174,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1405,193 +1339,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -1663,17 +1410,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -1820,7 +1556,7 @@
     ]
   },
   {
-    "event_name": "Financial April 25, 2024 Quarterly Statement January \u2013 March 2024 (trading update)",
+    "event_name": "Financial April 25, 2024 Quarterly Statement January – March 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1986,7 +1722,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2151,193 +1887,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -2409,17 +1958,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -2516,7 +2054,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2556,7 +2094,7 @@
     ]
   },
   {
-    "event_name": "Financial April 25, 2024 Quarterly Statement January \u2013 March 2024 (trading update)",
+    "event_name": "Financial April 25, 2024 Quarterly Statement January – March 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2722,7 +2260,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2887,193 +2425,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -3145,17 +2496,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -3252,7 +2592,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -4020,7 +3360,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -4185,193 +3525,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -4443,17 +3596,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -4550,7 +3692,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -5213,7 +4355,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -5290,7 +4432,7 @@
     ]
   },
   {
-    "event_name": "Financial October 25, 2023 Interim Group Report January \u2013 September 2023 (trading update)",
+    "event_name": "Financial October 25, 2023 Interim Group Report January – September 2023 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -5455,193 +4597,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -5713,17 +4668,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -5820,7 +4764,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -6483,7 +5427,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -6503,7 +5447,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2021 Quarterly Statement January \u2013 March 2021 (trading update)",
+    "event_name": "Financial April 28, 2021 Quarterly Statement January – March 2021 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -6624,17 +5568,6 @@
         "published_date": "2021-03-09",
         "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTI5NDAsImV4cCI6MTc0Mzg5OTc0MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fVW50ZXJuZWhtZW5zYmVyaWNodF8yMDE5LnBkZiIsInBhZ2UiOjY4MX0.OxQr_MPjJYWZmzHd4Pxl61j704lmnkD_yf3Zbp4OgIk/200310_SYM_Unternehmensbericht_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/200310_SYM_Unternehmensbericht_2019.pdf/200310_SYM_Unternehmensbericht_2019.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2021-03-09",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2023/unternehmen/nachhaltigkeitsbilanz/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -7105,7 +6038,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2020 Interim Group Report January \u2013 September 2020 (trading update)",
+    "event_name": "Financial October 29, 2020 Interim Group Report January – September 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -7270,193 +6203,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -7528,17 +6274,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -7635,7 +6370,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -8298,7 +7033,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -8318,7 +7053,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2021 Quarterly Statement January \u2013 March 2021 (trading update)",
+    "event_name": "Financial April 28, 2021 Quarterly Statement January – March 2021 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -8439,17 +7174,6 @@
         "published_date": "2021-03-09",
         "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTI5NDAsImV4cCI6MTc0Mzg5OTc0MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fVW50ZXJuZWhtZW5zYmVyaWNodF8yMDE5LnBkZiIsInBhZ2UiOjY4MX0.OxQr_MPjJYWZmzHd4Pxl61j704lmnkD_yf3Zbp4OgIk/200310_SYM_Unternehmensbericht_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/200310_SYM_Unternehmensbericht_2019.pdf/200310_SYM_Unternehmensbericht_2019.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2021-03-09",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2023/unternehmen/nachhaltigkeitsbilanz/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -8920,7 +7644,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2020 Interim Group Report January \u2013 September 2020 (trading update)",
+    "event_name": "Financial October 29, 2020 Interim Group Report January – September 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -8941,7 +7665,7 @@
     ]
   },
   {
-    "event_name": "Financial August 6, 2020 Interim Group Report January \u2013 June 2020 (2 MB) ICS",
+    "event_name": "Financial August 6, 2020 Interim Group Report January – June 2020 (2 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -8961,7 +7685,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2020 Quarterly Statement January \u2013 March 2020 (trading update)",
+    "event_name": "Financial April 28, 2020 Quarterly Statement January – March 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -9078,193 +7802,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "executive-board-and-divisional-heads-of-symrise.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/executive-board-and-divisional-heads-of-symrise.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/executive-board-and-divisional-heads-of-symrise.html/executive-board-and-divisional-heads-of-symrise.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "magazine.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/magazine.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/magazine.html/magazine.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-and-responsibility.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-and-responsibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-and-responsibility.html/sustainability-and-responsibility.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "financial-calendar.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/financial-calendar.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/financial-calendar.html/financial-calendar.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-company.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-company.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-company.html/our-company.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sharing-values.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/sharing-values.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sharing-values.html/sharing-values.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-purpose.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-purpose.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-purpose.html/our-purpose.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-integrated-corporate-strategy.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/our-integrated-corporate-strategy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-integrated-corporate-strategy.html/our-integrated-corporate-strategy.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "making-sustainability-measurable.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/making-sustainability-measurable.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/making-sustainability-measurable.html/making-sustainability-measurable.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "2022-track-record-and-2025-goals.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/company/2022-track-record-and-2025-goals.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/2022-track-record-and-2025-goals.html/2022-track-record-and-2025-goals.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "highly-rated.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/highly-rated.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/highly-rated.html/highly-rated.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sustainability-management.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/sustainability-management.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/sustainability-management.html/sustainability-management.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "our-material-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/our-material-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/our-material-topics.html/our-material-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "goals-and-management-of-our-sustainability-topics.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/goals-and-management-of-our-sustainability-topics.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/goals-and-management-of-our-sustainability-topics.html/goals-and-management-of-our-sustainability-topics.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "focus-on-materiality.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/sustainability-responsibility/focus-on-materiality.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/focus-on-materiality.html/focus-on-materiality.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "key-figures-of-the-group.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/key-figures-of-the-group.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/key-figures-of-the-group.html/key-figures-of-the-group.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chart-generator.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/finances-downloads/chart-generator.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/chart-generator.html/chart-generator.html",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "SYM_groupmanagementreport_2022_EN.pdf",
         "file_type": "pdf",
         "published_date": "2023-03-08",
@@ -9336,17 +7873,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://symrise.com/corporatereport/2022/downloads/SYM_remunerationreport_2022_EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/SYM_remunerationreport_2022_EN.pdf/SYM_remunerationreport_2022_EN.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2023-03-08",
-        "source_url": "https://symrise.com/corporatereport/2022/en/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -9443,7 +7969,7 @@
     ]
   },
   {
-    "event_name": "Financial October 26, 2022 Interim Group Report January \u2013 September 2022 (trading update)",
+    "event_name": "Financial October 26, 2022 Interim Group Report January – September 2022 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10106,7 +8632,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10126,7 +8652,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2021 Quarterly Statement January \u2013 March 2021 (trading update)",
+    "event_name": "Financial April 28, 2021 Quarterly Statement January – March 2021 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10247,17 +8773,6 @@
         "published_date": "2021-03-09",
         "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTI5NDAsImV4cCI6MTc0Mzg5OTc0MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fVW50ZXJuZWhtZW5zYmVyaWNodF8yMDE5LnBkZiIsInBhZ2UiOjY4MX0.OxQr_MPjJYWZmzHd4Pxl61j704lmnkD_yf3Zbp4OgIk/200310_SYM_Unternehmensbericht_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/200310_SYM_Unternehmensbericht_2019.pdf/200310_SYM_Unternehmensbericht_2019.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2021-03-09",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2023/unternehmen/nachhaltigkeitsbilanz/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -10728,7 +9243,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2020 Interim Group Report January \u2013 September 2020 (trading update)",
+    "event_name": "Financial October 29, 2020 Interim Group Report January – September 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10749,7 +9264,7 @@
     ]
   },
   {
-    "event_name": "Financial August 6, 2020 Interim Group Report January \u2013 June 2020 (2 MB) ICS",
+    "event_name": "Financial August 6, 2020 Interim Group Report January – June 2020 (2 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10769,7 +9284,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2020 Quarterly Statement January \u2013 March 2020 (trading update)",
+    "event_name": "Financial April 28, 2020 Quarterly Statement January – March 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10850,7 +9365,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2019 Interim Group Report January \u2013 September 2019 (trading update) (339 KB) ICS",
+    "event_name": "Financial October 29, 2019 Interim Group Report January – September 2019 (trading update) (339 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10870,7 +9385,7 @@
     ]
   },
   {
-    "event_name": "Financial August 8, 2019 Interim Group Report January \u2013 June 2019",
+    "event_name": "Financial August 8, 2019 Interim Group Report January – June 2019",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10930,7 +9445,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -10950,7 +9465,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2021 Quarterly Statement January \u2013 March 2021 (trading update)",
+    "event_name": "Financial April 28, 2021 Quarterly Statement January – March 2021 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11071,17 +9586,6 @@
         "published_date": "2021-03-09",
         "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTI5NDAsImV4cCI6MTc0Mzg5OTc0MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fVW50ZXJuZWhtZW5zYmVyaWNodF8yMDE5LnBkZiIsInBhZ2UiOjY4MX0.OxQr_MPjJYWZmzHd4Pxl61j704lmnkD_yf3Zbp4OgIk/200310_SYM_Unternehmensbericht_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/200310_SYM_Unternehmensbericht_2019.pdf/200310_SYM_Unternehmensbericht_2019.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2021-03-09",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2023/unternehmen/nachhaltigkeitsbilanz/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -11552,7 +10056,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2020 Interim Group Report January \u2013 September 2020 (trading update)",
+    "event_name": "Financial October 29, 2020 Interim Group Report January – September 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11573,7 +10077,7 @@
     ]
   },
   {
-    "event_name": "Financial August 6, 2020 Interim Group Report January \u2013 June 2020 (2 MB) ICS",
+    "event_name": "Financial August 6, 2020 Interim Group Report January – June 2020 (2 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11593,7 +10097,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2020 Quarterly Statement January \u2013 March 2020 (trading update)",
+    "event_name": "Financial April 28, 2020 Quarterly Statement January – March 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11674,7 +10178,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2019 Interim Group Report January \u2013 September 2019 (trading update) (339 KB) ICS",
+    "event_name": "Financial October 29, 2019 Interim Group Report January – September 2019 (trading update) (339 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11694,7 +10198,7 @@
     ]
   },
   {
-    "event_name": "Financial August 8, 2019 Interim Group Report January \u2013 June 2019",
+    "event_name": "Financial August 8, 2019 Interim Group Report January – June 2019",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11771,7 +10275,7 @@
     ]
   },
   {
-    "event_name": "Financial April 30, 2019 Quarterly Statement January \u2013 March 2019 (trading update) (350 KB) ICS",
+    "event_name": "Financial April 30, 2019 Quarterly Statement January – March 2019 (trading update) (350 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11869,7 +10373,7 @@
     ]
   },
   {
-    "event_name": "Financial August 5, 2021 Interim Group Report January \u2013 June 2021",
+    "event_name": "Financial August 5, 2021 Interim Group Report January – June 2021",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -11889,7 +10393,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2021 Quarterly Statement January \u2013 March 2021 (trading update)",
+    "event_name": "Financial April 28, 2021 Quarterly Statement January – March 2021 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12010,17 +10514,6 @@
         "published_date": "2021-03-09",
         "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTI5NDAsImV4cCI6MTc0Mzg5OTc0MCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDIwLzIwMDMxMF9TWU1fVW50ZXJuZWhtZW5zYmVyaWNodF8yMDE5LnBkZiIsInBhZ2UiOjY4MX0.OxQr_MPjJYWZmzHd4Pxl61j704lmnkD_yf3Zbp4OgIk/200310_SYM_Unternehmensbericht_2019.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/200310_SYM_Unternehmensbericht_2019.pdf/200310_SYM_Unternehmensbericht_2019.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "index.html",
-        "file_type": "html",
-        "published_date": "2021-03-09",
-        "source_url": "https://symrise.com/de/unternehmensbericht/2023/unternehmen/nachhaltigkeitsbilanz/index.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-03-09/index.html/index.html",
         "content_type": [
           "financial-filing"
         ],
@@ -12491,7 +10984,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2020 Interim Group Report January \u2013 September 2020 (trading update)",
+    "event_name": "Financial October 29, 2020 Interim Group Report January – September 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12512,7 +11005,7 @@
     ]
   },
   {
-    "event_name": "Financial August 6, 2020 Interim Group Report January \u2013 June 2020 (2 MB) ICS",
+    "event_name": "Financial August 6, 2020 Interim Group Report January – June 2020 (2 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12532,7 +11025,7 @@
     ]
   },
   {
-    "event_name": "Financial April 28, 2020 Quarterly Statement January \u2013 March 2020 (trading update)",
+    "event_name": "Financial April 28, 2020 Quarterly Statement January – March 2020 (trading update)",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12613,7 +11106,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2019 Interim Group Report January \u2013 September 2019 (trading update) (339 KB) ICS",
+    "event_name": "Financial October 29, 2019 Interim Group Report January – September 2019 (trading update) (339 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12633,7 +11126,7 @@
     ]
   },
   {
-    "event_name": "Financial August 8, 2019 Interim Group Report January \u2013 June 2019",
+    "event_name": "Financial August 8, 2019 Interim Group Report January – June 2019",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12710,7 +11203,7 @@
     ]
   },
   {
-    "event_name": "Financial April 30, 2019 Quarterly Statement January \u2013 March 2019 (trading update) (350 KB) ICS",
+    "event_name": "Financial April 30, 2019 Quarterly Statement January – March 2019 (trading update) (350 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12887,7 +11380,7 @@
     ]
   },
   {
-    "event_name": "Financial October 29, 2019 Interim Group Report January \u2013 September 2019 (trading update) (339 KB) ICS",
+    "event_name": "Financial October 29, 2019 Interim Group Report January – September 2019 (trading update) (339 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12907,7 +11400,7 @@
     ]
   },
   {
-    "event_name": "Financial August 8, 2019 Interim Group Report January \u2013 June 2019",
+    "event_name": "Financial August 8, 2019 Interim Group Report January – June 2019",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -12984,7 +11477,7 @@
     ]
   },
   {
-    "event_name": "Financial April 30, 2019 Quarterly Statement January \u2013 March 2019 (trading update) (350 KB) ICS",
+    "event_name": "Financial April 30, 2019 Quarterly Statement January – March 2019 (trading update) (350 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -13235,7 +11728,7 @@
     ]
   },
   {
-    "event_name": "Financial April 30, 2019 Quarterly Statement January \u2013 March 2019 (trading update) (350 KB) ICS",
+    "event_name": "Financial April 30, 2019 Quarterly Statement January – March 2019 (trading update) (350 KB) ICS",
     "equity_ticker": "SY1",
     "geography": "European",
     "periodicity": "non-periodic",

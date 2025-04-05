@@ -22,6 +22,10 @@ except Exception as e:
 db = client["myDatabase"]         # Replace with your target database name.
 collection = db["myCollection"]   # Replace with your target collection name.
 
+# Clear the collection before inserting new data.
+collection.delete_many({})
+print("Cleared the collection before inserting new data.")
+
 # Define the directory containing the JSON files.
 json_directory = "Completed/JSONS"  # Ensure this path is correct relative to your script.
 

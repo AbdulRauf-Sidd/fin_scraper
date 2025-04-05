@@ -1201,16 +1201,10 @@ DGE_events:     # working
   forced_type: null
   link_archive: 'links/DGE.txt'
   headless: false
-<<<<<<< Updated upstream
-  direct: false
-  selectors:
-    event_block: table.w-100
-=======
   link_archive: 'links/DGE.txt'
   direct: true
   selectors:
     event_block: div.standard-accordion__dropdown-inner-content
->>>>>>> Stashed changes
   pagination:
     type: button
     next_button: div.standard-accordion__title.d-flex.justify-content-between.align-items-center
@@ -1226,11 +1220,7 @@ DGE_reports:      # working
   base_address: https://www.diageo.com/
   periodic: null
   geography: "European"
-<<<<<<< Updated upstream
-  forced_type: "financial-filings"
-=======
   forced_type: "reports"
->>>>>>> Stashed changes
   link_archive: 'links/DGE.txt'
   headless: false
   direct: false
@@ -1254,12 +1244,8 @@ DGE_press_releases:       # review
   forced_type: "press-release"
   link_archive: 'links/DGE.txt'
   headless: false
-<<<<<<< Updated upstream
-  direct: false
-=======
   direct: true
   link_archive: 'links/DGE.txt'
->>>>>>> Stashed changes
   selectors:
     event_block: div.press-releaseCard__content.p-sm-2
   pagination:
