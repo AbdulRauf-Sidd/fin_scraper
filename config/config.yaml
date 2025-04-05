@@ -983,16 +983,17 @@ SAP_reports:      # Configs finalized
   output: data/SAP_reports.json
   output_json: JSONS/SAP_reports.json
   base_address: https://www.sap.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "reports"
+  link_archive: links/SAP.txt
   headless: false
   direct: true
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU.slide-visible
+    event_block: div.ItemContainer__item--w7chQ.Cover__container--wCzVG.ItemContainer__clickable--tAckr a
   pagination:
     type: button
-    next_button: div.NumberedList__container--Vt4OQ.Slider__pagination--bM51F button.Button__button--Dgp43.NumberedList__arrow--rkskz.NumberedList__arrowRight--XecYg.Button__l--wew_t.Button__tertiary--u5zqY.Button__focusState--C2LxD
+    next_button: button.Button__button--Dgp43.NumberedList__arrow--rkskz.NumberedList__arrowRight--XecYg.Button__l--wew_t.Button__tertiary--u5zqY
     archive: null
     timeout: null
 
@@ -1003,16 +1004,17 @@ SAP_presentations:
   output: data/SAP_presentations.json
   output_json: JSONS/SAP_presentations.json
   base_address: https://www.sap.com/
-  periodic: false
+  periodic: true
   geography: "European"
   forced_type: "presentations"
   headless: false
+  link_archive: links/SAP.txt
   direct: true
   selectors:
     event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO
     archive: null
     timeout: null
 
@@ -1026,13 +1028,14 @@ SAP_events:
   periodic: false
   geography: "European"
   forced_type: null
+  link_archive: links/SAP.txt
   headless: true
   direct: false
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+    event_block: div.Tile__emptyContainer--QCWjW
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO
     archive: null
     timeout: null
 
@@ -1048,6 +1051,7 @@ SAP_news:
   forced_type: "news"
   headless: false
   direct: true
+  link_archive: links/SAP.txt
   selectors:
     event_block: article.c-post-teaser
   pagination: 
@@ -1152,13 +1156,14 @@ DGE_news:     # working
   geography: "European"
   link_archive: 'links/DGE.txt'
   forced_type: "news"
+  link_archive: 'links/DGE.txt'
   headless: false
   direct: false
   selectors:
     event_block: div.col-12.col-lg-4.col-md-6.mb-sm-1
   pagination:
     type: button
-    next_button: .action-button.icon-chevron-right
+    next_button: button.action-button.icon-chevron-right
     archive: null
     timeout: null
 
@@ -1174,6 +1179,7 @@ DGE_results:    # working
   forced_type: null
   link_archive: 'links/DGE.txt'
   headless: false
+  link_archive: 'links/DGE.txt'
   direct: false
   selectors:
     event_block: div.resultAccordion__item.position-relative.bg-blur.p-sm-2
@@ -1195,12 +1201,19 @@ DGE_events:     # working
   forced_type: null
   link_archive: 'links/DGE.txt'
   headless: false
+<<<<<<< Updated upstream
   direct: false
   selectors:
     event_block: table.w-100
+=======
+  link_archive: 'links/DGE.txt'
+  direct: true
+  selectors:
+    event_block: div.standard-accordion__dropdown-inner-content
+>>>>>>> Stashed changes
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: div.standard-accordion__title.d-flex.justify-content-between.align-items-center
     archive: null
     timeout: null 
 
@@ -1213,7 +1226,11 @@ DGE_reports:      # working
   base_address: https://www.diageo.com/
   periodic: null
   geography: "European"
+<<<<<<< Updated upstream
   forced_type: "financial-filings"
+=======
+  forced_type: "reports"
+>>>>>>> Stashed changes
   link_archive: 'links/DGE.txt'
   headless: false
   direct: false
@@ -1237,7 +1254,12 @@ DGE_press_releases:       # review
   forced_type: "press-release"
   link_archive: 'links/DGE.txt'
   headless: false
+<<<<<<< Updated upstream
   direct: false
+=======
+  direct: true
+  link_archive: 'links/DGE.txt'
+>>>>>>> Stashed changes
   selectors:
     event_block: div.press-releaseCard__content.p-sm-2
   pagination:
@@ -1356,13 +1378,14 @@ HEIO_media-releases:
   periodic: false
   geography: "European"
   forced_type: "media-releases"
+  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
-    event_block:
+    event_block: div.single-media-release.mb-100
   pagination:
-    type: null
-    next_button: null
+    type: button
+    next_button: div.tab-list.tab-list--underlined.tab-list--stretched.border-color-primary-1 a
     archive: null
     timeout: null
 
@@ -1376,6 +1399,7 @@ HEIO_reports:
   periodic: false
   geography: "European"
   forced_type: "reports"
+  link_archive: links/HEIO.txt
   headless: false
   direct: false
   selectors:
@@ -1397,7 +1421,8 @@ RKT_presentations:  #working
   link_archive: links/RKT.txt
   geography: "European"
   forced_type: "presentations"
-  direct: false
+  link_archive: links/HEIO.txt
+  direct: true
   headless: false
   selectors: 
     event_block: div.results-and-presentation__item-holder
@@ -1421,7 +1446,7 @@ RKT_investor_seminars:  #working
   headless: false
   direct: false
   selectors:
-    event_block: li.results-and-presentation__item div.results-and-presentation__item-holder
+    event_block: li.results-and-presentation__item
   pagination:
     type: null
     next_button: null
