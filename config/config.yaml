@@ -744,7 +744,7 @@ WMT_news:
   headless: false
   direct: false
   selectors:
-    event_block: li.in-page__card.search-result-tag div.in-page__content-wrapper
+    event_block: li.in-page__card.search-result-tag:not(.hidden) div.in-page__content-wrapper
   pagination:
     type: button
     next_button: div.search-page-arrow.search-page-higher.js-load-more.active
@@ -815,7 +815,7 @@ KER_finance:   #scroll issue.
     timeout: null
 
 #checkkkkk
-KER_annual_general_meeting:  
+KER_annual_general_meeting:  #scroll issue
   ticker: KER
   scraper: null
   url: https://www.kering.com/en/finance/shareholders-information/annual-general-meeting/
@@ -847,64 +847,67 @@ KER_annual_general_meeting:
 
 
 
-RMS_meeting:   #redirection problem. but COMPLETED
+RMS_meeting:   #load_more and tabs
   ticker: RMS
   scraper: null
+  link_archive: 'links/RMS.txt'
   url: https://finance.hermes.com/en/general-meetings/
   output: data/RMS_meeting.json
   output_json: JSONS/RMS_meeting.json
-  base_address: https://finance.hermes.com/
+  base_address: https://finance.hermes.com/en/
   periodic: false
   geography: "European"
   forced_type: "meeting"
   headless: false
   direct: true
   selectors:
-    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
+    event_block: ul.py-8.bg-beige3.font-manrope li
   pagination:
-    type: year_tabs
-    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    type: load_more
+    next_button: button.flex.cursor-pointer
     archive: null
     timeout: null
 
-RMS_finance:   
+RMS_publications:   
   ticker: RMS
   scraper: null
+  link_archive: 'links/RMS.txt'
   url: https://finance.hermes.com/en/publications/
-  output: data/RMS_finance.json
-  output_json: JSONS/RMS_finance.json
-  base_address: https://finance.hermes.com/
+  output: data/RMS_publications.json
+  output_json: JSONS/RMS_publications.json
+  base_address: https://finance.hermes.com/en/
   periodic: false
   geography: "European"
-  forced_type: "meeting"
+  forced_type: null
   headless: false
   direct: false
   selectors:
-    event_block: div.flex.justify-between.items-center.pb-6.mb-2\.5
+    event_block: ul.py-8.bg-beige3.font-manrope li
   pagination:
-    type: year_tabs
-    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    type: load_more
+    next_button: button.flex.cursor-pointer
     archive: null
     timeout: null
 
-#checkkkkk
-RMS_finance:   
+# #checkkkkk
+RMS_policies-publications:   
   ticker: RMS
   scraper: null
-  url: https://finance.hermes.com/fr/politiques-publications/
-  output: data/RMS_finance.json
-  output_json: JSONS/RMS_finance.json
-  base_address: https://finance.hermes.com/
+  link_archive: 'links/RMS.txt'
+  url: https://finance.hermes.com/en/policies-publications/
+  output: data/RMS_policies-publications.json
+  output_json: JSONS/RMS_policies-publications.json
+  base_address: https://finance.hermes.com/en/
   periodic: false
   geography: "European"
-  forced_type: "meeting"
+  forced_type: "policies"
   headless: false
   direct: false
   selectors:
-    event_block: div.class="pt-8.lg:pt-10.lg:pb-0.layout-container"
+    event_block: ul.py-8.bg-beige3.font-manrope li
   pagination:
-    type: year_tabs
-    next_button: button.cursor-pointer.pt-2\.5.px-5.font-normal.tracking-normal.font-overpass.text-xl.pb-3\.5.border-b-2.border-grey
+    type: load_more
+    next_button: button.flex.cursor-pointer
     archive: null
     timeout: null
 
@@ -1056,6 +1059,7 @@ SAP_news:
 WISE_reports:
   ticker: WISE
   scraper: null
+  link_archive: 'links/WISE.txt'
   url: https://wise.com/owners/results-reports-presentations
   output: data/WISE_reports.json
   output_json: JSONS/WISE_reports.json
@@ -1076,10 +1080,11 @@ WISE_reports:
 WISE_news:
   ticker: WISE
   scraper: null
+  link_archive: 'links/WISE.txt'
   url: https://newsroom.wise.com/en-UKI/releases/?tags=news
   output: data/WISE_news.json
   output_json: JSONS/WISE_news.json
-  base_address: https://wise.com/
+  base_address: https://newsroom.wise.com/en-UKI/
   periodic: false
   geography: "European"
   forced_type: "news"
@@ -1090,13 +1095,14 @@ WISE_news:
     event_block: li.article__item
   pagination:
     type: button
-    next_button: a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--paginationc-btn--pagination-next
+    next_button: div.pagination.viewport-section.in-viewport a.c-btn.c-btn--primary.c-btn--icon-only.c-btn--pagination.c-btn--pagination-next
     archive: null
     timeout: null
 
 WISE_presentations:
   ticker: WISE
   scraper: null
+  link_archive: 'links/WISE.txt'
   url: https://wise.com/owners/results-reports-presentations
   output: data/WISE_presentations.json
   output_json: JSONS/WISE_presentations.json
@@ -1117,6 +1123,7 @@ WISE_presentations:
 WISE_press:
   ticker: WISE
   scraper: null
+  link_archive: 'links/WISE.txt'
   url: https://newsroom.wise.com/en-UKI/releases/
   output: data/WISE_press.json
   output_json: JSONS/WISE_press.json
@@ -1140,9 +1147,10 @@ DGE_news:     # review
   url: https://www.diageo.com/en/news-and-media/stories
   output: data/DGE_news.json
   output_json: JSONS/DGE_news.json
-  base_address: https://www.diageo.com/
+  base_address: https://www.diageo.com/en/
   periodic: false
   geography: "European"
+  link_archive: 'links/DGE.txt'
   forced_type: "news"
   headless: false
   direct: false
@@ -1161,9 +1169,10 @@ DGE_results:    # review
   output: data/DGE_results.json
   output_json: JSONS/DGE_results.json
   base_address: https://www.diageo.com/
-  periodic: false
+  periodic: null
   geography: "European"
-  forced_type: "results"
+  forced_type: null
+  link_archive: 'links/DGE.txt'
   headless: false
   direct: false
   selectors:
@@ -1656,10 +1665,11 @@ NOVO-B_news:        # testing done ( working )
 SIE_press:   
   ticker: SIE
   scraper: null
+  link_archive: links/SIE.txt
   url: https://press.siemens.com/global/en/press-search?f0=&f%5B0%5D=content_type%3Ac2_ct_press_release
   output: data/SIE_press.json
   output_json: JSONS/SIE_press.json
-  base_address: https://www.siemens.com/
+  base_address: https://press.siemens.com/global/en/
   periodic: true
   geography: "European"
   forced_type: "press"
@@ -1669,47 +1679,49 @@ SIE_press:
     event_block: div.press-search-results-view-row.content-type-c2-ct-press-release.views-row
   pagination:
     type: load_more
-    next_button:  a.button.js-search__load-more-results
+    next_button:  li.pager__item a.button.js-search__load-more-results
     archive: null
     timeout: null
 
-SIE_financial:      # Du=ynamic loading collapsable
+SIE_financial:    
   ticker: SIE
   scraper: null
+  link_archive: links/SIE.txt
   url: https://www.siemens.com/global/en/company/investor-relations/financial-results.html
   output: data/SIE_financial.json
   output_json: JSONS/SIE_financial.json
-  base_address: https://www.siemens.com/
+  base_address: https://www.siemens.com/global/en/
   periodic: true
   geography: "European"
   forced_type: "financial"
   headless: false
   direct: true
   selectors:
-    event_block:     # hassannnnnnnnnnnnnn
+    event_block: table.table__table.table--animationFinished tbody tr
   pagination:
-    type: null
-    next_button:  null
+    type: expand_all
+    next_button:  div.accordion__wrapper button
     archive: null
     timeout: null
 
 SIE_financial-results-archive:   
   ticker: SIE
   scraper: null
+  link_archive: links/SIE.txt
   url: https://www.siemens.com/global/en/company/investor-relations/financial-results-archive.html
   output: data/SIE_financial-results-archive.json
   output_json: JSONS/SIE_financial-results-archive.json
-  base_address: https://www.siemens.com/
+  base_address: https://www.siemens.com/global/en/
   periodic: true
   geography: "European"
   forced_type: "financial-results-archive"
   headless: false
   direct: true
   selectors:
-    event_block:     # hassannnnnnnnnnnnnn
+    event_block: table.table__table.table--animationFinished tbody tr
   pagination:
-    type: null
-    next_button:  null
+    type: expand_all
+    next_button: div.accordion__wrapper button
     archive: null
     timeout: null
 
