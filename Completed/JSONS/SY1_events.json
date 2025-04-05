@@ -375,139 +375,6 @@
     ]
   },
   {
-    "event_name": "Financial February 18, 2025 Fireside Chat (Barclays), virtual ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20250218T100000.ics",
-        "file_type": "calendar",
-        "published_date": "2025-02-18",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25780",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-02-18/symrise_event_20250218T100000.ics/symrise_event_20250218T100000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial February 5-6, 2025 Roadshow, London (BofA) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20250205T100000.ics",
-        "file_type": "calendar",
-        "published_date": "2025",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25741",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025/symrise_event_20250205T100000.ics/symrise_event_20250205T100000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial February 4, 2025 Roadshow, Frankfurt (Kepler Cheuvreux) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20250204T100000.ics",
-        "file_type": "calendar",
-        "published_date": "2025-02-04",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25739",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-02-04/symrise_event_20250204T100000.ics/symrise_event_20250204T100000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "FY 2025",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "financial-results",
-        "file_type": "html",
-        "published_date": "2025-01-30",
-        "source_url": "https://www.symrise.com/investors/financial-results/",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-01-30/financial-results/financial-results.html",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
-        "file_type": "pdf",
-        "published_date": "2025-01-30",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NTMwMDQsImV4cCI6MTc0Mzg5OTgwNCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9Eb3dubG9hZHNfcmVwb3J0cy9yZXBvcnRzL2RvY3VtZW50cy8yMDI1LzI1MDEzMC1TeW1yaXNlLWFuYWx5c3QtYW5kLWludmVzdG9yLXByZXNlbnRhdGlvbi1GWTIwMjQucGRmIiwicGFnZSI6NzZ9.jsNvLv24toPfFrHxhVkI-qJMz4xX0JLGv5IVgjbPBeg/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-01-30/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf/250130-Symrise-analyst-and-investor-presentation-FY2024.pdf",
-        "content_type": [
-          "financial-filing",
-          "press-release",
-          "presentation"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20250130T073000.ics",
-        "file_type": "calendar",
-        "published_date": "2025-01-30",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25722",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2025-01-30/symrise_event_20250130T073000.ics/symrise_event_20250130T073000.ics",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial November 19-20, 2024 Capital Markets Day 2024, Holzminden (Germany) (9 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "241120-Symrise-CMD-2024-Presentation.pdf",
-        "file_type": "pdf",
-        "published_date": "2020-11-19",
-        "source_url": "https://www.symrise.com/fileadmin/symrise/Corporate/Investors/Financial_calendar_and_presentations/241120-Symrise-CMD-2024-Presentation.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2020-11-19/241120-Symrise-CMD-2024-Presentation.pdf/241120-Symrise-CMD-2024-Presentation.pdf",
-        "content_type": [
-          "financial-filing",
-          "presentation"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20241119T090000.ics",
-        "file_type": "calendar",
-        "published_date": "2020-11-19",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25623",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2020-11-19/symrise_event_20241119T090000.ics/symrise_event_20241119T090000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial October 24, 2024 Interim Group Report January \u2013 September 2024 (trading update)",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -783,25 +650,6 @@
         "published_date": "2024-03-14",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25399",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2024-03-14/symrise_event_20240314T100000.ics/symrise_event_20240314T100000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial March 13, 2024 Consumer Ingredients Conference (BNP Paribas Exane), London ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20240313T100000.ics",
-        "file_type": "calendar",
-        "published_date": "2024-03-13",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25398",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2024-03-13/symrise_event_20240313T100000.ics/symrise_event_20240313T100000.ics",
         "content_type": [
           "financial-filing"
         ],
@@ -1608,25 +1456,6 @@
         "published_date": "2023-03-08",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25087",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-03-08/symrise_event_20230127T060000.ics/symrise_event_20230127T060000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial January 17-18, 2023 German Corporate Conference (Kepler Cheuvreux Unicredit), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20230117T090000.ics",
-        "file_type": "calendar",
-        "published_date": "2023-01-17",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=25086",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2023-01-17/symrise_event_20230117T090000.ics/symrise_event_20230117T090000.ics",
         "content_type": [
           "financial-filing"
         ],
@@ -2471,25 +2300,6 @@
     ]
   },
   {
-    "event_name": "Financial January 31 March 1 2022 Quiet period",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20220131T060000.ics",
-        "file_type": "calendar",
-        "published_date": "2022-03-01",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=24765",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2022-03-01/symrise_event_20220131T060000.ics/symrise_event_20220131T060000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial January 18, 2022 German Corporate Conference (Kepler Cheuvreux Unicredit), virtual ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -2851,25 +2661,6 @@
         "published_date": "2021-06-08",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=24523",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-06-08/symrise_event_20210608T122700.ics/symrise_event_20210608T122700.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 20, 2021 Virtual Chemicals Conference (Citi), London ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20210520T183600.ics",
-        "file_type": "calendar",
-        "published_date": "2021-05-20",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=24581",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-05-20/symrise_event_20210520T183600.ics/symrise_event_20210520T183600.ics",
         "content_type": [
           "financial-filing"
         ],
@@ -3778,37 +3569,6 @@
     ]
   },
   {
-    "event_name": "Financial January 20-21, 2020 German Corporate Conference (Kepler Cheuvreux Unicredit), Frankfurt (2 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "200108_Symrise_IR_presentation_final_GCC_Kepler_Cheuvreux.pdf",
-        "file_type": "pdf",
-        "published_date": "2021-01-20",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4NTcsImV4cCI6MTc0MzkwOTY1NywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAyMC8yMDAxMDhfU3ltcmlzZV9JUl9wcmVzZW50YXRpb25fZmluYWxfR0NDX0tlcGxlcl9DaGV1dnJldXgucGRmIiwicGFnZSI6NzZ9.uBXfUCgqhWDayzRBAre7-XKeZekKOyQBg_maX_UNaF8/200108_Symrise_IR_presentation_final_GCC_Kepler_Cheuvreux.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-01-20/200108_Symrise_IR_presentation_final_GCC_Kepler_Cheuvreux.pdf/200108_Symrise_IR_presentation_final_GCC_Kepler_Cheuvreux.pdf",
-        "content_type": [
-          "financial-filing",
-          "presentation"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20200120T090000.ics",
-        "file_type": "calendar",
-        "published_date": "2021-01-20",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=24048",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2021-01-20/symrise_event_20200120T090000.ics/symrise_event_20200120T090000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial January 13-14, 2020 German Invment Seminar (Commerzbank), New York (2 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -4240,36 +4000,6 @@
         "published_date": "2019-08-07",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=2351",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2019-08-07/symrise_event_20190708T083400.ics/symrise_event_20190708T083400.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial July 2-3, 2019 Roadshow (Davy), Dublin & Edinburgh (2 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "190702_SYM_Roadshow_Dublin.pdf",
-        "file_type": "pdf",
-        "published_date": "2019",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4NjIsImV4cCI6MTc0MzkwOTY2MiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxOS8xOTA3MDJfU1lNX1JvYWRzaG93X0R1Ymxpbi5wZGYiLCJwYWdlIjo3Nn0.IiYX8HKLLjXP0-76dkMGgkN0Lrj1x5WDbZM5pEkebBw/190702_SYM_Roadshow_Dublin.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2019/190702_SYM_Roadshow_Dublin.pdf/190702_SYM_Roadshow_Dublin.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20190702T100000.ics",
-        "file_type": "calendar",
-        "published_date": "2019",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=23930",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2019/symrise_event_20190702T100000.ics/symrise_event_20190702T100000.ics",
         "content_type": [
           "financial-filing"
         ],
@@ -5234,25 +4964,6 @@
     ]
   },
   {
-    "event_name": "Financial June 6, 2018 Berlin Conference (Deutsche Bank), Berlin ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20180606T140500.ics",
-        "file_type": "calendar",
-        "published_date": "2018-06-06",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=1934",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2018-06-06/symrise_event_20180606T140500.ics/symrise_event_20180606T140500.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial May 28-30, 2018 Roadshow (Credit Suisse), Geneva and Zurich ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -5487,25 +5198,6 @@
         "file_type": "calendar",
         "published_date": "2018-03-14",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=2060",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2018-03-14/symrise_event_20180314T112800.ics/symrise_event_20180314T112800.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial March 14, 2018 Corporate and Financial Report 2017",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20180314T112800.ics",
-        "file_type": "calendar",
-        "published_date": "2018-03-14",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=447",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2018-03-14/symrise_event_20180314T112800.ics/symrise_event_20180314T112800.ics",
         "content_type": [
           "financial-filing"
@@ -6498,17 +6190,6 @@
           "financial-filing"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20170314T104200.ics",
-        "file_type": "calendar",
-        "published_date": "2017-03-14",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=2062",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2017-03-14/symrise_event_20170314T104200.ics/symrise_event_20170314T104200.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -6543,25 +6224,6 @@
         "published_date": "2017-01-18",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=67",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2017-01-18/symrise_event_20170118T104000.ics/symrise_event_20170118T104000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial January 17-18, 2017 German Corporate Conference (Kepler Cheuvrex), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20170117T103800.ics",
-        "file_type": "calendar",
-        "published_date": "2017-01-17",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=63",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2017-01-17/symrise_event_20170117T103800.ics/symrise_event_20170117T103800.ics",
         "content_type": [
           "financial-filing"
         ],
@@ -7055,25 +6717,6 @@
     ]
   },
   {
-    "event_name": "Financial May 10, 2016 Quarterly Statement January-March 2016 ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20160510T020000.ics",
-        "file_type": "calendar",
-        "published_date": "2016-05-10",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=126",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2016-05-10/symrise_event_20160510T020000.ics/symrise_event_20160510T020000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial April 26, 2016 Nutrition Panel 2016 (Davy), London ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -7512,36 +7155,6 @@
     ]
   },
   {
-    "event_name": "Financial September 22-23, 2015 German Corporate Conference (Berenberg, Goldman Sachs), Munich (1 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "150922_Muenchen_final_Webseite.pdf",
-        "file_type": "pdf",
-        "published_date": "2015-09-22",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4ODMsImV4cCI6MTc0MzkwOTY4MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxNS8xNTA5MjJfTXVlbmNoZW5fZmluYWxfV2Vic2VpdGUucGRmIiwicGFnZSI6NzZ9.o10BT07De6rginT6Bst3VayYCZn_hkRR84iklo2UMdE/150922_Muenchen_final_Webseite.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2015-09-22/150922_Muenchen_final_Webseite.pdf/150922_Muenchen_final_Webseite.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20150922T132900.ics",
-        "file_type": "calendar",
-        "published_date": "2015-09-22",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=221",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2015-09-22/symrise_event_20150922T132900.ics/symrise_event_20150922T132900.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial September 8, 2015 Sector Conference Week (Commerzbank), Frankfurt ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -7869,17 +7482,6 @@
           "financial-filing"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20150310T102700.ics",
-        "file_type": "calendar",
-        "published_date": "2015-03-10",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=2066",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2015-03-10/symrise_event_20150310T102700.ics/symrise_event_20150310T102700.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -8173,25 +7775,6 @@
     ]
   },
   {
-    "event_name": "Financial August 7 2014 Interim Report 2nd Quarte",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20140807T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2014-08-07",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=651",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2014-08-07/symrise_event_20140807T000000.ics/symrise_event_20140807T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial June 19, 2014 European CEO Seminar (Exane BNP Paribas), Paris (1 MB) ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -8361,26 +7944,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2014-05-15/symrise_event_20140515T000000.ics/symrise_event_20140515T000000.ics",
         "content_type": [
           "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 14, 2014 Annual General Meeting ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20140514T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2014-05-14",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=641",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2014-05-14/symrise_event_20140514T000000.ics/symrise_event_20140514T000000.ics",
-        "content_type": [
-          "financial-filing",
-          "annual-general-meeting"
         ],
         "record_type": "download"
       }
@@ -8844,36 +8407,6 @@
     ]
   },
   {
-    "event_name": "Financial June 12, 2013 Global Consumer Conference (Deutsche Bank), Paris (4 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "130611_DB_Paris_FINAL.pdf",
-        "file_type": "pdf",
-        "published_date": "2013-06-12",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4OTMsImV4cCI6MTc0MzkwOTY5MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxMy8xMzA2MTFfREJfUGFyaXNfRklOQUwucGRmIiwicGFnZSI6NzZ9.TwtMRaVz3db54VdNMUVWtPxRQbZVezyn4FQ5JgR7PIU/130611_DB_Paris_FINAL.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2013-06-12/130611_DB_Paris_FINAL.pdf/130611_DB_Paris_FINAL.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20130612T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2013-06-12",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=459",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2013-06-12/symrise_event_20130612T000000.ics/symrise_event_20130612T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "Financial June 4, 2013 Sustainable Technologies Conference (DZ Bank), Zurich ICS",
     "equity_ticker": "SY1",
     "geography": "european",
@@ -8960,26 +8493,6 @@
         "file_type": "calendar",
         "published_date": "2013-05-14",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=418",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2013-05-14/symrise_event_20130514T000000.ics/symrise_event_20130514T000000.ics",
-        "content_type": [
-          "financial-filing",
-          "annual-general-meeting"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial Corporate May 14, 2013 Annual General Meeting ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20130514T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2013-05-14",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=567",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2013-05-14/symrise_event_20130514T000000.ics/symrise_event_20130514T000000.ics",
         "content_type": [
           "financial-filing",
@@ -9329,345 +8842,6 @@
         "published_date": "2012-09-25",
         "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=587",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-09-25/symrise_event_20120925T000000.ics/symrise_event_20120925T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial September 13, 2012 Chemicals Conference (Macquire), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120913T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-09-13",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=584",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-09-13/symrise_event_20120913T000000.ics/symrise_event_20120913T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial September 12, 2012 Pan-European Consumer Conference (Citi), London (4 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "120906_Symrise_Company_Presentation.pdf",
-        "file_type": "pdf",
-        "published_date": "2012-09-12",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4OTksImV4cCI6MTc0MzkwOTY5OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxMi8xMjA5MDZfU3ltcmlzZV9Db21wYW55X1ByZXNlbnRhdGlvbi5wZGYiLCJwYWdlIjo3Nn0.mhmSMVp_uzBPyyKXvhR_K3ORhX6wnRT6oYUjhAbmw1Y/120906_Symrise_Company_Presentation.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-09-12/120906_Symrise_Company_Presentation.pdf/120906_Symrise_Company_Presentation.pdf",
-        "content_type": [
-          "financial-filing",
-          "presentation"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20120912T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-09-12",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=578",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-09-12/symrise_event_20120912T000000.ics/symrise_event_20120912T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial September 11, 2012 ESN Conference (Equinet), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120911T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-09-11",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=576",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-09-11/symrise_event_20120911T000000.ics/symrise_event_20120911T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial August 28, 2012 Sector Conference Chemicals & Life Sciences (Commerzbank), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120828T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-08-28",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=571",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-08-28/symrise_event_20120828T000000.ics/symrise_event_20120828T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial August 14, 2012 Roadshow, London ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120814T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-08-14",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=568",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-08-14/symrise_event_20120814T000000.ics/symrise_event_20120814T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial August 9 2012 Interim Report 2nd Quarte",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120809T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-08-09",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=564",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-08-09/symrise_event_20120809T000000.ics/symrise_event_20120809T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial June 21, 2012 Chemical One-on-One Forum (MainFirst), Frankfurt ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120621T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-06-21",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=558",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-06-21/symrise_event_20120621T000000.ics/symrise_event_20120621T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial June 20, 2012 Global Consumer Conference (Deutsche Bank), Paris (4 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "120620_DB_Paris.pdf",
-        "file_type": "pdf",
-        "published_date": "2012-06-20",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4OTksImV4cCI6MTc0MzkwOTY5OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxMi8xMjA2MjBfREJfUGFyaXMucGRmIiwicGFnZSI6NzZ9.aLAPX9lBrdR0XYX5nnplYkndSLtrzDDgxu9fGS8a5Kw/120620_DB_Paris.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-06-20/120620_DB_Paris.pdf/120620_DB_Paris.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20120620T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-06-20",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=555",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-06-20/symrise_event_20120620T000000.ics/symrise_event_20120620T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial June 12, 2012 Roadshow, London ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120612T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-06-12",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=561",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-06-12/symrise_event_20120612T000000.ics/symrise_event_20120612T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 22, 2012 Consumer Ingredients Conference (BNP Paribas), London ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120522T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-05-22",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=552",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-05-22/symrise_event_20120522T000000.ics/symrise_event_20120522T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 15, 2012 Annual General Meeting ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120515T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-05-15",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=549",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-05-15/symrise_event_20120515T000000.ics/symrise_event_20120515T000000.ics",
-        "content_type": [
-          "financial-filing",
-          "annual-general-meeting"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 10, 2012 Small & Mid-Cap Symposium (Goldman Sachs), London (4 MB) ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "120509_SYM_GS_London.pdf",
-        "file_type": "pdf",
-        "published_date": "2012-05-10",
-        "source_url": "https://www.symrise.com/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDM4NjI4OTksImV4cCI6MTc0MzkwOTY5OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vc3ltcmlzZS9FdmVudHNfcHJlc2VudGF0aW9ucy9kb2N1bWVudHMvMjAxMi8xMjA1MDlfU1lNX0dTX0xvbmRvbi5wZGYiLCJwYWdlIjo3Nn0.KDsaSp0sGlra8EHiZjfs5BgRVacIWapCcE1bTyrRE3I/120509_SYM_GS_London.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-05-10/120509_SYM_GS_London.pdf/120509_SYM_GS_London.pdf",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "symrise_event_20120510T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-05-10",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=547",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-05-10/symrise_event_20120510T000000.ics/symrise_event_20120510T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial May 9 2012 Interim Report 1st Quarter 2",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120509T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-05-09",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=545",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-05-09/symrise_event_20120509T000000.ics/symrise_event_20120509T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial April 26, 2012 Deutschlandkonferenz (Bankhaus Lpe), Baden-Baden ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120426T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012-04-26",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=542",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012-04-26/symrise_event_20120426T000000.ics/symrise_event_20120426T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial April 2-5, 2012 Roadshow, Scandinavia ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120402T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2012",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=610",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2012/symrise_event_20120402T000000.ics/symrise_event_20120402T000000.ics",
-        "content_type": [
-          "financial-filing"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
-    "event_name": "Financial March 27-28, 2012 Equity Conference (HSBC), Paris ICS",
-    "equity_ticker": "SY1",
-    "geography": "european",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "symrise_event_20120327T000000.ics",
-        "file_type": "calendar",
-        "published_date": "2028-03-27",
-        "source_url": "https://www.symrise.com/?eID=toolsEid&action=icsDownload&uid=536",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SY1/2028-03-27/symrise_event_20120327T000000.ics/symrise_event_20120327T000000.ics",
         "content_type": [
           "financial-filing"
         ],
