@@ -64,6 +64,7 @@ CONTENT_PATTERNS = {
     r"\bgreen\b": ["esg"],
     r"\benvironment\b": ["esg"],
     r"\bclimate\b": ["esg"],
+    r"\bhistorical[-_\s]+information\b": ["historical-information"],
 }
 
 CONTENT_TYPE_CONCEPTS = [
@@ -92,7 +93,8 @@ CONTENT_TYPE_CONCEPTS = [
     "seminar",
     "annual-general-meeting",
     "announcement",
-    "esg"
+    "esg",
+    "historical-information"
 ]
 
 def _precompute_content_type_embeddings(labels: List[str]):
