@@ -1,0 +1,98 @@
+[
+  {
+    "event_name": "Trade News | April 3, 2025 BASF launches aroma ingredients with reduced Product Carbon Footprints to enable customers reach their sustainability targets Ludwigshafen, Germany \u2013 BASF Aroma Ingredients has successfully launched L-Menthol FCC rPCF as its first product with a reduced Product Carbon Footprint (rPCF)",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-070",
+        "file_type": "html",
+        "published_date": "2025-04-03",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/04/p-25-070",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-04-03/p-25-070/p-25-070.html",
+        "content_type": [
+          "news",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trade News | April 3, 2025 BASF launches natural-based innovations for personal care at in-cosmetics Global 2025 BASF is expanding its portfolio of natural-based ingredients with three new products that enable more sustainable personal care solutions while not compromising on performance: Verdessence \u00ae Maize, a natural styling polymer, Lesoft \u00ae OP Plus, a wax-based opacifier dispersion, and Dehyton \u00ae PK45 GA/RA, a betaine derived from Rainfor Alliance Certified coconut oil",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-057",
+        "file_type": "html",
+        "published_date": "2025-04-03",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/04/p-25-057",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-04-03/p-25-057/p-25-057.html",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trade News | April 2, 2025 CHINAPLAS 2025: Cellasto\u00ae and \u00d6ssur collaborate to enhance performance in foot prosthesis Lemfoerde, Germany \u2013 April 2, 2025 \u2013 At CHINAPLAS 2025, BASF will present the Pro-Flex \u00ae Terra foot prosthesis, co-created with the leading global prosthetic provider, \u00d6ssur",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-055",
+        "file_type": "html",
+        "published_date": "2025-04-02",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/04/p-25-055",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-04-02/p-25-055/p-25-055.html",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trade News | April 1, 2025 in-cosmetics Global 2025:",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-056",
+        "file_type": "html",
+        "published_date": "2010-04-08",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/04/p-25-056",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2010-04-08/p-25-056/p-25-056.html",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trade News | March 31, 2025 New possibilities for challenging E&E parts with specialty plastic Ultrason \u00ae D For challenging E&E components, BASF has now developed the high-flow Ultrason\u00ae D 1010 G6 U40",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-064",
+        "file_type": "html",
+        "published_date": "2025-03-31",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/03/p-25-064",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-03-31/p-25-064/p-25-064.html",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

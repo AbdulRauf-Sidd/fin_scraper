@@ -132,7 +132,7 @@ class Scraper:
 
                 elif pag_type == "load_more":
                     if selector:
-                        await self.pagination_handler.click_load_more(page, selector, self.selector)
+                        await self.pagination_handler.click_load_more(page, selector)
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
                 elif pag_type == "dropdown":
