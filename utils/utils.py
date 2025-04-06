@@ -369,6 +369,8 @@ async def download_file(context, url, session=None):
             if content_disposition:
                 # Extract the filename from the header (if present)
                 filename = content_disposition.split("filename=")[-1].strip('\"')
+                if filename:
+                    filename = filename.split("/")[-1]
             else:
                 # If no filename is provided in the header, use the URL or a default name
                 filename = url.split("/")[-1]  # Extract filename from URL (default)
