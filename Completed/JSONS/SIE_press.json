@@ -17,6 +17,8 @@
         "record_type": "screenshot"
       },
       {
+<<<<<<< HEAD
+=======
         "file_name": "en.html",
         "file_type": "html",
         "published_date": "2025-02-05",
@@ -24107,6 +24109,7 @@
         "record_type": "download"
       },
       {
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
         "file_name": "HQCOPR202504027147EN.pdf",
         "file_type": "pdf",
         "published_date": "2025-02-05",
@@ -24116,6 +24119,8 @@
           "press"
         ],
         "record_type": "download"
+<<<<<<< HEAD
+=======
       },
       {
         "file_name": "drives.html",
@@ -24204,6 +24209,7 @@
           "press"
         ],
         "record_type": "download"
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
       }
     ]
   },
@@ -24455,17 +24461,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "smart-infrastructure.html",
-        "file_type": "html",
-        "published_date": "2025-03-27",
-        "source_url": "https://www.siemens.com/global/en/company/about/businesses/smart-infrastructure.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-27/smart-infrastructure.html/smart-infrastructure.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -24616,17 +24611,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "senseye-predictive-maintenance.html",
-        "file_type": "html",
-        "published_date": "2025-03-24",
-        "source_url": "https://www.siemens.com/global/en/products/services/digital-enterprise-services/analytics-artificial-intelligence-services/predictive-services/senseye-predictive-maintenance.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-24/senseye-predictive-maintenance.html/senseye-predictive-maintenance.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -24745,17 +24729,6 @@
         "published_date": "2025-03-17",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a058e506-1453-442e-86f7-de30b0ac757c/HQSIPR202503127120EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-17/HQSIPR202503127120EN.pdf/HQSIPR202503127120EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "portfolio-manager.html",
-        "file_type": "html",
-        "published_date": "2025-03-17",
-        "source_url": "https://xcelerator.siemens.com/global/en/products/buildings/building-x/solutions/applications/portfolio-manager.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-17/portfolio-manager.html/portfolio-manager.html",
         "content_type": [
           "press"
         ],
@@ -24966,17 +24939,6 @@
         "published_date": "2025-03-03",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a433f8f6-d357-4550-9a8d-f2b19ca125b0/HQSIPR202502257111EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-03/HQSIPR202502257111EN.pdf/HQSIPR202502257111EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "ish.html",
-        "file_type": "html",
-        "published_date": "2025-03-03",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/ish.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-03-03/ish.html/ish.html",
         "content_type": [
           "press"
         ],
@@ -25253,17 +25215,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "annual-shareholder-meeting.html",
-        "file_type": "html",
-        "published_date": "2025-04-13",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations/annual-shareholder-meeting.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-04-13/annual-shareholder-meeting.html/annual-shareholder-meeting.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -25506,17 +25457,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "electrification-x.html",
-        "file_type": "html",
-        "published_date": "2025-05-05",
-        "source_url": "https://www.siemens.com/global/en/products/energy/topics/electrification-x.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-05-05/electrification-x.html/electrification-x.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -25603,17 +25543,6 @@
         "published_date": "2025-01-15",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:0434b1e3-96bd-441e-a87e-07766a650740/HQSIPR202501087078EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-15/HQSIPR202501087078EN.pdf/HQSIPR202501087078EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "emobility.html",
-        "file_type": "html",
-        "published_date": "2025-01-15",
-        "source_url": "https://www.siemens.com/global/en/products/energy/emobility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-15/emobility.html/emobility.html",
         "content_type": [
           "press"
         ],
@@ -25753,17 +25682,6 @@
         "published_date": "2025-01-08",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:87684e4b-698d-4e36-8839-290e3701916e/HQSIPR202501067074EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-08/HQSIPR202501067074EN.pdf/HQSIPR202501067074EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "building-x.html",
-        "file_type": "html",
-        "published_date": "2025-01-08",
-        "source_url": "https://xcelerator.siemens.com/global/en/products/buildings/building-x.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2025-01-08/building-x.html/building-x.html",
         "content_type": [
           "press"
         ],
@@ -26098,17 +26016,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "carbonneutral.html",
-        "file_type": "html",
-        "published_date": "2024-05-05",
-        "source_url": "https://www.siemens.com/global/en/company/sustainability/carbonneutral.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-05-05/carbonneutral.html/carbonneutral.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26195,17 +26102,6 @@
         "published_date": "2024-12-04",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:de8020d2-c21d-4f75-9913-e05ff93feace/HQSIPR202411297057EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-12-04/HQSIPR202411297057EN.pdf/HQSIPR202411297057EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "medium-voltage.html",
-        "file_type": "html",
-        "published_date": "2024-12-04",
-        "source_url": "https://www.siemens.com/us/en/products/energy/medium-voltage.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-12-04/medium-voltage.html/medium-voltage.html",
         "content_type": [
           "press"
         ],
@@ -26420,17 +26316,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "tech-report.html",
-        "file_type": "html",
-        "published_date": "2024-04-26",
-        "source_url": "https://www.siemens.com/global/en/company/insights/tech-report.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-26/tech-report.html/tech-report.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26583,30 +26468,6 @@
           "press"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "registration.html",
-        "file_type": "html",
-        "published_date": "2024-04-14",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/registration.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-14/registration.html/registration.html",
-        "content_type": [
-          "financial-filing",
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "investor-relations.html",
-        "file_type": "html",
-        "published_date": "2024-04-14",
-        "source_url": "https://www.siemens.com/global/en/company/investor-relations.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-04-14/investor-relations.html/investor-relations.html",
-        "content_type": [
-          "financial-filing",
-          "press"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -26699,33 +26560,11 @@
         "record_type": "screenshot"
       },
       {
-        "file_name": "siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "source_url": "https://www.siemens.com/global/en/company/digital-transformation/industrial-metaverse/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html/siemens-and-nvidia-partner-to-build-the-industrial-metaverse.html",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "HQDIPR202411077040EN.pdf",
         "file_type": "pdf",
         "published_date": "2024-11-05",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:a34f27f9-1e10-4932-8a97-60b1dcbf309a/HQDIPR202411077040EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/HQDIPR202411077040EN.pdf/HQDIPR202411077040EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-ai-enabled-operations.html",
-        "file_type": "html",
-        "published_date": "2024-11-05",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/artificial-intelligence-in-industry/industrial-ai-enabled-operations.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-05/industrial-ai-enabled-operations.html/industrial-ai-enabled-operations.html",
         "content_type": [
           "press"
         ],
@@ -26816,17 +26655,6 @@
         "published_date": "2024-11-07",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:58d764f6-8fb5-47fe-8a90-b5fc08da84de/HQDIPR202411057037EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-07/HQDIPR202411057037EN.pdf/HQDIPR202411057037EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "sps-fair.html",
-        "file_type": "html",
-        "published_date": "2024-11-07",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/sps-fair.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-11-07/sps-fair.html/sps-fair.html",
         "content_type": [
           "press"
         ],
@@ -26947,17 +26775,6 @@
         "published_date": "2024-10-24",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ea89c9fd-e37e-41c6-98eb-cd307679ac99/HQCOPR202410227027EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-24/HQCOPR202410227027EN.pdf/HQCOPR202410227027EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "industrial-copilot.html",
-        "file_type": "html",
-        "published_date": "2024-10-24",
-        "source_url": "https://www.siemens.com/global/en/products/automation/topic-areas/tia/future-topics/industrial-copilot.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-24/industrial-copilot.html/industrial-copilot.html",
         "content_type": [
           "press"
         ],
@@ -27348,17 +27165,6 @@
         "published_date": "2024-10-01",
         "source_url": "https://assets.new.siemens.com/siemens/assets/api/uuid:3702df6a-1723-4517-8230-bd8a6d719657/HQSIPR202409307013EN.pdf",
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-01/HQSIPR202409307013EN.pdf/HQSIPR202409307013EN.pdf",
-        "content_type": [
-          "press"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "chillventa.html",
-        "file_type": "html",
-        "published_date": "2024-10-01",
-        "source_url": "https://www.siemens.com/global/en/company/fairs-events/fairs/chillventa.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SIE/2024-10-01/chillventa.html/chillventa.html",
         "content_type": [
           "press"
         ],

@@ -117,7 +117,7 @@
     ]
   },
   {
-    "event_name": "visit Analyst visit to biorefinery at Pomacle Analyst visit to biorefinery at Pomacle 16 Sep 2019 - 10:30 C | On 13 September 2019, Givaudan welcomed 34 invors and analysts to its \u2018white biotechnology\u2019 Centre of Excellence at Pomacle in France, where active cosmetic ingredients are researched, developed and produced",
+    "event_name": "visit Analyst visit to biorefinery at Pomacle Analyst visit to biorefinery at Pomacle 16 Sep 2019 - 10:30 C | On 13 September 2019, Givaudan welcomed 34 invors and analysts to its ‘white biotechnology’ Centre of Excellence at Pomacle in France, where active cosmetic ingredients are researched, developed and produced",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan scored double \u2018A\u2019 by CDP for both climate change and water security Corporate Sustainability Givaudan scored double \u2018A\u2019 by CDP for both climate change and water security 03 Feb 2020 - 10:00 CET | Givaudan is recognised for its leadership in water security by CDP with the high \u2018A\u2019 score",
+    "event_name": "visit Givaudan scored double ‘A’ by CDP for both climate change and water security Corporate Sustainability Givaudan scored double ‘A’ by CDP for both climate change and water security 03 Feb 2020 - 10:00 CET | Givaudan is recognised for its leadership in water security by CDP with the high ‘A’ score",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan on CDP\u2019s prigious \u2018A List\u2019 for leading effort against climate change Corporate Sustainability Givaudan on CDP\u2019s prigious \u2018A List\u2019 for leading effort against climate change 16 Jan 2020 - 05:45 CET | Givaudan is ned on CDP\u2019s prigious \u2018A List\u2019 for its actions to cut emissions, mitigate climate risks and develop the low-carbon economy",
+    "event_name": "visit Givaudan on CDP’s prigious ‘A List’ for leading effort against climate change Corporate Sustainability Givaudan on CDP’s prigious ‘A List’ for leading effort against climate change 16 Jan 2020 - 05:45 CET | Givaudan is ned on CDP’s prigious ‘A List’ for its actions to cut emissions, mitigate climate risks and develop the low-carbon economy",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan included in CDP Supplier Engagement Leaderboard Corporate Sustainability Givaudan included in CDP Supplier Engagement Leaderboard 09 Feb 2021 - 11:00 CET | Givaudan has been included once again in CDP\u2019s prigious Supplier Engagement Leaderboard",
+    "event_name": "visit Givaudan included in CDP Supplier Engagement Leaderboard Corporate Sustainability Givaudan included in CDP Supplier Engagement Leaderboard 09 Feb 2021 - 11:00 CET | Givaudan has been included once again in CDP’s prigious Supplier Engagement Leaderboard",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "event_name": "visit Share Buyback 2003/04 \u2013 update 1 Share Buyback 2003/04 \u2013 update 1 01 Dec 2014 - 08:55 CET | From 30 June 2003, to 19 December 2003, Givaudan SA has repurchased 45,000 own shares (5.63% of the progrme) in the fre of the buy back progrme announced on 18 June 2003",
+    "event_name": "visit Share Buyback 2003/04 – update 1 Share Buyback 2003/04 – update 1 01 Dec 2014 - 08:55 CET | From 30 June 2003, to 19 December 2003, Givaudan SA has repurchased 45,000 own shares (5.63% of the progrme) in the fre of the buy back progrme announced on 18 June 2003",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "event_name": "visit F publishes results of Givaudan\u2019s second tender offer for the remaining shares of Naturex F publishes results of Givaudan\u2019s second tender offer for the remaining shares of Naturex 06 Sep 2018 - 11:10 C |",
+    "event_name": "visit F publishes results of Givaudan’s second tender offer for the remaining shares of Naturex F publishes results of Givaudan’s second tender offer for the remaining shares of Naturex 06 Sep 2018 - 11:10 C |",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -760,7 +760,81 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan secures fifth consecutive CDP Double A on climate action and water security Corporate Sustainability Givaudan secures fifth consecutive CDP Double A on climate action and water security",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "cdp-scores.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024",
+        "source_url": "https://www.givaudan.com/media/media-releases/2024/cdp-scores",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024/cdp-scores.jpeg/cdp-scores.jpeg",
+        "content_type": [
+          "esg",
+          "publication"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "giv-2023-integrated-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.givaudan.com/files/giv-2023-integrated-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2024/giv-2023-integrated-report.pdf/giv-2023-integrated-report.pdf",
+        "content_type": [
+          "esg",
+          "publication"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan to complete squeeze out and delisting of Naturex Givaudan to complete squeeze out and delisting of Naturex 13 Sep 2018 - 06:10 C |",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-complete-squeeze-out-and-delisting-naturex.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-complete-squeeze-out-and-delisting-naturex",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018/givaudan-complete-squeeze-out-and-delisting-naturex.jpeg/givaudan-complete-squeeze-out-and-delisting-naturex.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit F publishes results of Givaudan’s second tender offer for the remaining shares of Naturex F publishes results of Givaudan’s second tender offer for the remaining shares of Naturex 06 Sep 2018 - 11:10 C |",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "amf-publishes-results-givaudans-second-tender-offer-remaining-shares.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-04-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/amf-publishes-results-givaudans-second-tender-offer-remaining-shares",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-04-05/amf-publishes-results-givaudans-second-tender-offer-remaining-shares.jpeg/amf-publishes-results-givaudans-second-tender-offer-remaining-shares.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June 26 Jun 2018 - 07:24 C | Givaudan today announced the tender offer in cash for all remaining outstanding shares of Naturex will open on 28 June, following clearance of the offer by the French markets regulator Autorité des marchés financiers (F)",
+=======
     "event_name": "visit Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June Opening of the tender offer in cash for the remaining outstanding shares of Naturex on 28 June 26 Jun 2018 - 07:24 C | Givaudan today announced the tender offer in cash for all remaining outstanding shares of Naturex will open on 28 June, following clearance of the offer by the French markets regulator Autorit\u00e9 des march\u00e9s financiers (F)",
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -779,7 +853,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan Active Beauty launches Synchronight\u2122 Corporate Fragrance & Beauty Givaudan Active Beauty launches Synchronight\u2122 13 Mar 2020 - 09:00 CET",
+    "event_name": "visit Givaudan Active Beauty launches Synchronight™ Corporate Fragrance & Beauty Givaudan Active Beauty launches Synchronight™ 13 Mar 2020 - 09:00 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -798,7 +872,7 @@
     ]
   },
   {
-    "event_name": "visit Reopening of Givaudan\u2019s tender offer for the remaining shares of Naturex on 8 August 2018 Reopening of Givaudan\u2019s tender offer for the remaining shares of Naturex on 8 August 2018 07 Aug 2018 - 07:23 C",
+    "event_name": "visit Reopening of Givaudan’s tender offer for the remaining shares of Naturex on 8 August 2018 Reopening of Givaudan’s tender offer for the remaining shares of Naturex on 8 August 2018 07 Aug 2018 - 07:23 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1145,7 +1219,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan co-founds \u2018Future Food Initiative\u2019 to advance sustainable food and nutrition research Givaudan co-founds \u2018Future Food Initiative\u2019 to advance sustainable food and nutrition research 05",
+    "event_name": "visit Givaudan co-founds ‘Future Food Initiative’ to advance sustainable food and nutrition research Givaudan co-founds ‘Future Food Initiative’ to advance sustainable food and nutrition research 05",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1202,7 +1276,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan presents the exclusive anthology \u2018An Odyssey of Flavours and Fragrances\u2019 Givaudan presents the exclusive anthology \u2018An Odyssey of Flavours and Fragrances\u2019 16 Feb 2016 - 19:24 CET",
+    "event_name": "visit Givaudan presents the exclusive anthology ‘An Odyssey of Flavours and Fragrances’ Givaudan presents the exclusive anthology ‘An Odyssey of Flavours and Fragrances’ 16 Feb 2016 - 19:24 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1278,7 +1352,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan presents a new biotechnology approach for synthesising the most widely used biodegradable fragrance ingredient, brofix Givaudan presents a new biotechnology approach for synthesising the most widely used biodegradable fragrance ingredient, brofix 30 Oct 2019 - 10:00 CET | brofix, one of the most widely used biodegradable fragrance ingredients, is now produced using Givaudan\u2019s new breakthrough biotechnology which delivers identical olfactive qualities as the traditional method while being the most sustainable and carbon efficient on the market",
+    "event_name": "visit Givaudan presents a new biotechnology approach for synthesising the most widely used biodegradable fragrance ingredient, brofix Givaudan presents a new biotechnology approach for synthesising the most widely used biodegradable fragrance ingredient, brofix 30 Oct 2019 - 10:00 CET | brofix, one of the most widely used biodegradable fragrance ingredients, is now produced using Givaudan’s new breakthrough biotechnology which delivers identical olfactive qualities as the traditional method while being the most sustainable and carbon efficient on the market",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1374,7 +1448,7 @@
     ]
   },
   {
-    "event_name": "visit Sourcing for Shared Value Corporate Sustainability Sourcing for Shared Value 28 Mar 2017 - 08:06 C | Givaudan announced today the introduction of \u2018Sourcing for Shared Value\u2019, a comprehensive approach to its sustainable procurement practices in three core areas: Responsible Sourcing, Sourcing at Origin, and Communities at Source",
+    "event_name": "visit Sourcing for Shared Value Corporate Sustainability Sourcing for Shared Value 28 Mar 2017 - 08:06 C | Givaudan announced today the introduction of ‘Sourcing for Shared Value’, a comprehensive approach to its sustainable procurement practices in three core areas: Responsible Sourcing, Sourcing at Origin, and Communities at Source",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1393,6 +1467,86 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan completes acquisition of Nutrition Division of Centroflora Givaudan completes acquisition of Nutrition Division of Centroflora",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-completes-acquisition-nutrition-division-centroflora.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-completes-acquisition-nutrition-division-centroflora",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-05/givaudan-completes-acquisition-nutrition-division-centroflora.jpeg/givaudan-completes-acquisition-nutrition-division-centroflora.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan acquires 40.6% of the shares in Naturex and intends to launch cash tender offer for the remaining outstanding shares Givaudan acquires 40.6% of the shares in Naturex and intends to launch cash tender offer for the remaining outstanding shares 26 Mar 2018 - 05:34 C",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-acquires-406-shares-naturex-and-intends-launch-cash-tender-offer.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-03-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-acquires-406-shares-naturex-and-intends-launch-cash-tender-offer",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-03-05/givaudan-acquires-406-shares-naturex-and-intends-launch-cash-tender-offer.jpeg/givaudan-acquires-406-shares-naturex-and-intends-launch-cash-tender-offer.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan announces changes to the Executive Committee Givaudan announces changes to the Executive Committee 05",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-announces-changes-executive-committee.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-announces-changes-executive-committee",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018/givaudan-announces-changes-executive-committee.jpeg/givaudan-announces-changes-executive-committee.jpeg",
+        "content_type": [
+          "publication",
+          "announcement"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Sourcing for Shared Value Corporate Sustainability Sourcing for Shared Value 28 Mar 2017 - 08:06 C | Givaudan announced today the introduction of ‘Sourcing for Shared Value’, a comprehensive approach to its sustainable procurement practices in three core areas: Responsible Sourcing, Sourcing at Origin, and Communities at Source",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sourcing-shared-value.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2017-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2017/sourcing-shared-value",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2017-04/sourcing-shared-value.jpeg/sourcing-shared-value.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan announces changes to Executive Committee Givaudan announces changes to Executive Committee 21",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -1491,7 +1645,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan\u2019s VAS technology wins b technological breakthrough of the year Givaudan\u2019s VAS technology wins b technological breakthrough of the year",
+    "event_name": "visit Givaudan’s VAS technology wins b technological breakthrough of the year Givaudan’s VAS technology wins b technological breakthrough of the year",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1529,7 +1683,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan introduces perfumery\u2019s first \u2018blossom[lab]\u2122\u2019 to design the future of Naturals at Origin Corporate Fragrance & Beauty Sustainability Givaudan introduces perfumery\u2019s first \u2018blossom[lab]\u2122\u2019 to design the future of Naturals at Origin 07 Apr 2021 - 07:00 C",
+    "event_name": "visit Givaudan introduces perfumery’s first ‘blossom[lab]™’ to design the future of Naturals at Origin Corporate Fragrance & Beauty Sustainability Givaudan introduces perfumery’s first ‘blossom[lab]™’ to design the future of Naturals at Origin 07 Apr 2021 - 07:00 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1548,7 +1702,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan launches its Naturality Index\u2122 to support nature conscious fragrance creation Corporate Fragrance & Beauty Sustainability Givaudan launches its Naturality Index\u2122 to support nature conscious fragrance creation 15 Mar 2021 - 06:30 CET | Givaudan is accelerating its journey towards nature-conscious creations with the launch of its Naturality Index\u2122 and in line with the Company\u2019s purpose goal to \u201cshow our love for nature in everything we do\u201d",
+    "event_name": "visit Givaudan launches its Naturality Index™ to support nature conscious fragrance creation Corporate Fragrance & Beauty Sustainability Givaudan launches its Naturality Index™ to support nature conscious fragrance creation 15 Mar 2021 - 06:30 CET | Givaudan is accelerating its journey towards nature-conscious creations with the launch of its Naturality Index™ and in line with the Company’s purpose goal to “show our love for nature in everything we do”",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1586,7 +1740,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan launches VivaScentz\u2122, a leading edge fragrance innovation to enhance consumer wellbeing Corporate Fragrance & Beauty Givaudan launches VivaScentz\u2122, a leading edge fragrance innovation to enhance consumer wellbeing 12 Jun 2020 - 06:30 C",
+    "event_name": "visit Givaudan launches VivaScentz™, a leading edge fragrance innovation to enhance consumer wellbeing Corporate Fragrance & Beauty Givaudan launches VivaScentz™, a leading edge fragrance innovation to enhance consumer wellbeing 12 Jun 2020 - 06:30 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1681,7 +1835,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan Fragrances launches its FiveCarbon Path\u2122 Givaudan Fragrances launches its FiveCarbon Path\u2122 23 Jan 2019 - 09:30 CET",
+    "event_name": "visit Givaudan Fragrances launches its FiveCarbon Path™ Givaudan Fragrances launches its FiveCarbon Path™ 23 Jan 2019 - 09:30 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1700,6 +1854,66 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan strengthens global innovation ecosystem with opening of new flagship Innovation Centre in Switzerland Givaudan strengthens global innovation ecosystem with opening of new flagship Innovation Centre in Switzerland 17 Jun 2019 - 06:00 C |",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-strengthens-global-innovation-ecosystem-opening-new-flagship.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-04-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-strengthens-global-innovation-ecosystem-opening-new-flagship",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-04-05/givaudan-strengthens-global-innovation-ecosystem-opening-new-flagship.jpeg/givaudan-strengthens-global-innovation-ecosystem-opening-new-flagship.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan to acquire Vietnese flavour company Golden Frog Givaudan to acquire Vietnese flavour company Golden Frog 17 May 2019 - 10:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-to-acquire-vietnamese-flavour-company-golden-frog.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-05-17",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-to-acquire-vietnamese-flavour-company-golden-frog",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-05-17/givaudan-to-acquire-vietnamese-flavour-company-golden-frog.jpeg/givaudan-to-acquire-vietnamese-flavour-company-golden-frog.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan Fragrances launches its FiveCarbon Path™ Givaudan Fragrances launches its FiveCarbon Path™ 23 Jan 2019 - 09:30 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-fragrances-launches-its-fivecarbon-pathtm.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-fragrances-launches-its-fivecarbon-pathtm",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-fragrances-launches-its-fivecarbon-pathtm.jpeg/givaudan-fragrances-launches-its-fivecarbon-pathtm.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan opens new Flavours technical and commercial centre in Casablanca Givaudan opens new Flavours technical and commercial centre in Casablanca",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -1719,7 +1933,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan introduces \u2018A sense of tomorrow\u2019",
+    "event_name": "visit Givaudan introduces ‘A sense of tomorrow’",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1768,7 +1982,7 @@
     ]
   },
   {
-    "event_name": "visit Enhancing the way people sleep with DreScentz\u2122 Enhancing the way people sleep with DreScentz\u2122 17 Aug 2017 - 13:47 C",
+    "event_name": "visit Enhancing the way people sleep with DreScentz™ Enhancing the way people sleep with DreScentz™ 17 Aug 2017 - 13:47 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1825,7 +2039,7 @@
     ]
   },
   {
-    "event_name": "visit 2016 Sustainability Report 2016 Sustainability Report 21 Mar 2017 - 11:19 CET | Givaudan announced today the publication of its 2016 Sustainability Report in accordance with the Global Reporting Initiative\u2019s G4 Sustainability Reporting Guidelines, the most widely used sustainability reporting standard in the world",
+    "event_name": "visit 2016 Sustainability Report 2016 Sustainability Report 21 Mar 2017 - 11:19 CET | Givaudan announced today the publication of its 2016 Sustainability Report in accordance with the Global Reporting Initiative’s G4 Sustainability Reporting Guidelines, the most widely used sustainability reporting standard in the world",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1846,7 +2060,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan to participate in \u2018FReSH\u2019 as new member of WBCSD Givaudan to participate in \u2018FReSH\u2019 as new member of WBCSD 17 Jan 2017 - 09:00 CET",
+    "event_name": "visit Givaudan to participate in ‘FReSH’ as new member of WBCSD Givaudan to participate in ‘FReSH’ as new member of WBCSD 17 Jan 2017 - 09:00 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1923,7 +2137,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan to acquire Spicetec Flavors & Seasonings from ConAgra Foods Givaudan to acquire Spicetec Flavors & Seasonings from ConAgra Foods 23 May 2016 - 20:18 C | As part of its 2020 strategy to strengthen capabilities in integrated solutions, Givaudan today announced that it is acquiring ConAgra Foods\u2019 Spicetec Flavors & Seasonings business",
+    "event_name": "visit Givaudan to acquire Spicetec Flavors & Seasonings from ConAgra Foods Givaudan to acquire Spicetec Flavors & Seasonings from ConAgra Foods 23 May 2016 - 20:18 C | As part of its 2020 strategy to strengthen capabilities in integrated solutions, Givaudan today announced that it is acquiring ConAgra Foods’ Spicetec Flavors & Seasonings business",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1942,7 +2156,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan rebrands cosmetic business as \u2018Active Beauty\u2019 Givaudan rebrands cosmetic business as \u2018Active Beauty\u2019 06",
+    "event_name": "visit Givaudan rebrands cosmetic business as ‘Active Beauty’ Givaudan rebrands cosmetic business as ‘Active Beauty’ 06",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -1995,17 +2209,6 @@
           "publication"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "plant-based-meat-market-44922705.html",
-        "file_type": "javascript",
-        "published_date": "2021",
-        "source_url": "https://www.marketsandmarkets.com/Market-Reports/plant-based-meat-market-44922705.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/plant-based-meat-market-44922705.html/plant-based-meat-market-44922705.html",
-        "content_type": [
-          "publication"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -2029,7 +2232,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan introduces its Naturality Platform\u2122, a major step towards nature-conscious fragrances creation Corporate Fragrance & Beauty Givaudan introduces its Naturality Platform\u2122, a major step towards nature-conscious fragrances creation 14 Sep 2020 - 06:30 C | Givaudan introduces its Naturality Platform\u2122, reinforcing its capabilities and commitment to nature-conscious fragrances, and advancing the Company purpose of \u201cCreating for happier, healthier lives with love for nature\u201d",
+    "event_name": "visit Givaudan introduces its Naturality Platform™, a major step towards nature-conscious fragrances creation Corporate Fragrance & Beauty Givaudan introduces its Naturality Platform™, a major step towards nature-conscious fragrances creation 14 Sep 2020 - 06:30 C | Givaudan introduces its Naturality Platform™, reinforcing its capabilities and commitment to nature-conscious fragrances, and advancing the Company purpose of “Creating for happier, healthier lives with love for nature”",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2048,6 +2251,104 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan rebrands cosmetic business as ‘Active Beauty’ Givaudan rebrands cosmetic business as ‘Active Beauty’ 06",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-rebrands-cosmetic-business-active-beauty.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016",
+        "source_url": "https://www.givaudan.com/media/media-releases/2016/givaudan-rebrands-cosmetic-business-active-beauty",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2016/givaudan-rebrands-cosmetic-business-active-beauty.jpeg/givaudan-rebrands-cosmetic-business-active-beauty.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan lays the foundation for new flavours facility in Pune, India Givaudan lays the foundation for new flavours facility in Pune, India 22 Oct 2015 - 21:25 C | Givaudan is demonstrating the importance of India, as one of its key high growth markets, to its growth strategy by inving CHF 55 million in this new world-class flavours manufacturing facility",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-lays-foundation-new-flavours-facility-pune-india.jpeg",
+        "file_type": "jpeg",
+        "published_date": "1998-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2015/givaudan-lays-foundation-new-flavours-facility-pune-india",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/1998-04/givaudan-lays-foundation-new-flavours-facility-pune-india.jpeg/givaudan-lays-foundation-new-flavours-facility-pune-india.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan launches new Protein Hub at its Zurich Innovation Centre Corporate Taste & Wellbeing Givaudan launches new Protein Hub at its Zurich Innovation Centre 07 Sep 2021 - 06:30 C | Givaudan today expanded its global protein innovation network with a new Protein Hub at its flagship Zurich Innovation Centre in Kemptthal, Switzerland",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-launches-new-protein-hub-its-zurich-innovation-centre.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/givaudan-launches-new-protein-hub-its-zurich-innovation-centre",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/givaudan-launches-new-protein-hub-its-zurich-innovation-centre.jpeg/givaudan-launches-new-protein-hub-its-zurich-innovation-centre.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan further expands fragrance production capabilities in Pedro Escobedo, Mexico Corporate Fragrance & Beauty Givaudan further expands fragrance production capabilities in Pedro Escobedo, Mexico 19 Aug 2021 - 06:30 C | Givaudan Fragrance & Beauty today announced a CHF 75 million invment in a new extension to its Pedro Escobedo (Mexico) production facility to further support its growth in Latin erica across customer segments",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-further-expands-fragrance-production-capabilities-pedro-escobedo.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/givaudan-further-expands-fragrance-production-capabilities-pedro-escobedo",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/givaudan-further-expands-fragrance-production-capabilities-pedro-escobedo.jpeg/givaudan-further-expands-fragrance-production-capabilities-pedro-escobedo.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan introduces its Naturality Platform™, a major step towards nature-conscious fragrances creation Corporate Fragrance & Beauty Givaudan introduces its Naturality Platform™, a major step towards nature-conscious fragrances creation 14 Sep 2020 - 06:30 C | Givaudan introduces its Naturality Platform™, reinforcing its capabilities and commitment to nature-conscious fragrances, and advancing the Company purpose of “Creating for happier, healthier lives with love for nature”",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-introduces-its-naturality-platformtm-major-step-towards-nature.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-introduces-its-naturality-platformtm-major-step-towards-nature",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-introduces-its-naturality-platformtm-major-step-towards-nature.jpeg/givaudan-introduces-its-naturality-platformtm-major-step-towards-nature.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan announces diviture of processed and grated cheese business Corporate Taste & Wellbeing Givaudan announces diviture of processed and grated cheese business 13 May 2020 - 06:30 C | Givaudan today announced that it has entered into an agreement to div its processed and grated cheese business to St. Paul Group, a cheese specialist with premises in Belgium and the Netherlands",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2083,17 +2384,6 @@
           "publication"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "green_mark_buildings.html",
-        "file_type": "javascript",
-        "published_date": "2019-02-14",
-        "source_url": "https://www.bca.gov.sg/GreenMark/green_mark_buildings.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-02-14/green_mark_buildings.html/green_mark_buildings.html",
-        "content_type": [
-          "publication"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -2118,7 +2408,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan announces a CHF 20 million invment at Expressions Parfum\u00e9es in Grasse to support the growth of local and regional customers Givaudan announces a CHF 20 million invment at Expressions Parfum\u00e9es in Grasse to support the growth of local and regional customers 13 Nov 2018 - 11:41 CET | Givaudan, the global leader in flavours and fragrances, today announced the invment of CHF 20 million in Expressions Parfum\u00e9es\u2019 facilities in Grasse to expand and modernise the research and develoent laboratories as well as the production facilities with new robotics and digitalisation of operations",
+    "event_name": "visit Givaudan announces a CHF 20 million invment at Expressions Parfumées in Grasse to support the growth of local and regional customers Givaudan announces a CHF 20 million invment at Expressions Parfumées in Grasse to support the growth of local and regional customers 13 Nov 2018 - 11:41 CET | Givaudan, the global leader in flavours and fragrances, today announced the invment of CHF 20 million in Expressions Parfumées’ facilities in Grasse to expand and modernise the research and develoent laboratories as well as the production facilities with new robotics and digitalisation of operations",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2176,7 +2466,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan announces \u2018Fair for Life\u2019 certification of clove leaf oil collection network in Madagascar Givaudan announces \u2018Fair for Life\u2019 certification of clove leaf oil collection network in Madagascar 20 Jan 2017 - 08:57 CET",
+    "event_name": "visit Givaudan announces ‘Fair for Life’ certification of clove leaf oil collection network in Madagascar Givaudan announces ‘Fair for Life’ certification of clove leaf oil collection network in Madagascar 20 Jan 2017 - 08:57 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2215,7 +2505,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan doubles flavour production capacity in China Givaudan doubles flavour production capacity in China 30 Jun 2015 - 11:13 C | Givaudan, the world\u2019s leading fragrance and flavour company, today officially opened its new world-class, savoury flavours manufacturing facility in Nantong, China",
+    "event_name": "visit Givaudan doubles flavour production capacity in China Givaudan doubles flavour production capacity in China 30 Jun 2015 - 11:13 C | Givaudan, the world’s leading fragrance and flavour company, today officially opened its new world-class, savoury flavours manufacturing facility in Nantong, China",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2273,7 +2563,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan prepares for the future of perfumery with \u2018Naturals at Origin\u2019 Corporate Fragrance & Beauty Givaudan prepares for the future of perfumery with \u2018Naturals at Origin\u2019 19 Oct 2020 - 06:30 C | Givaudan is delighted to unveil \u2018Naturals at Origin\u2019, a strategic approach for the sourcing, develoent and innovation of responsible naturals directly in the country of origin",
+    "event_name": "visit Givaudan prepares for the future of perfumery with ‘Naturals at Origin’ Corporate Fragrance & Beauty Givaudan prepares for the future of perfumery with ‘Naturals at Origin’ 19 Oct 2020 - 06:30 C | Givaudan is delighted to unveil ‘Naturals at Origin’, a strategic approach for the sourcing, develoent and innovation of responsible naturals directly in the country of origin",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2330,7 +2620,7 @@
     ]
   },
   {
-    "event_name": "visit Keeping up the momentum against global warming: Givaudan signs UN\u2019s Business bition for 1.5\u00b0C Corporate Sustainability Keeping up the momentum against global warming:",
+    "event_name": "visit Keeping up the momentum against global warming: Givaudan signs UN’s Business bition for 1.5°C Corporate Sustainability Keeping up the momentum against global warming:",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2349,6 +2639,124 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan introduces Sourcing4Good progrme Corporate Sustainability Givaudan introduces Sourcing4Good progrme 22 Apr 2021 - 06:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-introduces-sourcing4good-programme.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/givaudan-introduces-sourcing4good-programme",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/givaudan-introduces-sourcing4good-programme.jpeg/givaudan-introduces-sourcing4good-programme.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit 2021 Annual General Meeting Corporate Financ",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-annual-general-meeting.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021-03-25",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/2021-annual-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021-03-25/2021-annual-general-meeting.jpeg/2021-annual-general-meeting.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan prepares for the future of perfumery with ‘Naturals at Origin’ Corporate Fragrance & Beauty Givaudan prepares for the future of perfumery with ‘Naturals at Origin’ 19 Oct 2020 - 06:30 C | Givaudan is delighted to unveil ‘Naturals at Origin’, a strategic approach for the sourcing, develoent and innovation of responsible naturals directly in the country of origin",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-prepares-future-perfumery-naturals-origin.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-prepares-future-perfumery-naturals-origin",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-prepares-future-perfumery-naturals-origin.jpeg/givaudan-prepares-future-perfumery-naturals-origin.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan renes its Flavour and Fragrance divisions to Taste & Wellbeing and Fragrance & Beauty Corporate Fragrance & Beauty Taste & Wellbeing Givaudan renes its Flavour and Fragrance divisions to Taste & Wellbeing and Fragrance & Beauty 28",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-renames-its-flavour-and-fragrance-divisions-taste-wellbeing-and.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-renames-its-flavour-and-fragrance-divisions-taste-wellbeing-and",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-renames-its-flavour-and-fragrance-divisions-taste-wellbeing-and.jpeg/givaudan-renames-its-flavour-and-fragrance-divisions-taste-wellbeing-and.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan sets an bition to become a certified B Corp Corporate Sustainability Givaudan sets an bition to become a certified B Corp 15 Jul 2020 - 14:15 C | Givaudan today announces its intention to become a certified B Corporation (B Corp)",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-sets-ambition-become-certified-b-corp.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-sets-ambition-become-certified-b-corp",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-sets-ambition-become-certified-b-corp.jpeg/givaudan-sets-ambition-become-certified-b-corp.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Keeping up the momentum against global warming: Givaudan signs UN’s Business bition for 1.5°C Corporate Sustainability Keeping up the momentum against global warming:",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "keeping-momentum-against-global-warming-givaudan-signs-uns-business.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-12-05",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/keeping-momentum-against-global-warming-givaudan-signs-uns-business",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019-12-05/keeping-momentum-against-global-warming-givaudan-signs-uns-business.jpeg/keeping-momentum-against-global-warming-givaudan-signs-uns-business.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan completes the acquisition of Drom Givaudan completes the acquisition of Drom 06 Sep 2019 - 06:30 C | Givaudan, the global leader in flavours and fragrances, today announced that it has completed the acquisition of Drom",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2523,7 +2931,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan celebrates ten years of ethical sourcing Givaudan celebrates ten years of ethical sourcing 20 Jan 2016 - 10:29 CET | Givaudan is proudly marking a milone in its journey to sustainable natural ingredients with an event celebrating \u2018Ten years of Ethical Sourcing\u2019 in Paris from 18 to 22 January 2016",
+    "event_name": "visit Givaudan celebrates ten years of ethical sourcing Givaudan celebrates ten years of ethical sourcing 20 Jan 2016 - 10:29 CET | Givaudan is proudly marking a milone in its journey to sustainable natural ingredients with an event celebrating ‘Ten years of Ethical Sourcing’ in Paris from 18 to 22 January 2016",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2618,6 +3026,104 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan celebrates ten years of ethical sourcing Givaudan celebrates ten years of ethical sourcing 20 Jan 2016 - 10:29 CET | Givaudan is proudly marking a milone in its journey to sustainable natural ingredients with an event celebrating ‘Ten years of Ethical Sourcing’ in Paris from 18 to 22 January 2016",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-celebrates-ten-years-ethical-sourcing.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016-01-20",
+        "source_url": "https://www.givaudan.com/media/media-releases/2016/givaudan-celebrates-ten-years-ethical-sourcing",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2016-01-20/givaudan-celebrates-ten-years-ethical-sourcing.jpeg/givaudan-celebrates-ten-years-ethical-sourcing.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan expands flavour capabilities in Japan Givaudan expands flavour capabilities in Japan 09 Jul 2015 - 14:41 C |",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-expands-flavour-capabilities-japan.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2015",
+        "source_url": "https://www.givaudan.com/media/media-releases/2015/givaudan-expands-flavour-capabilities-japan",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2015/givaudan-expands-flavour-capabilities-japan.jpeg/givaudan-expands-flavour-capabilities-japan.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan completes the acquisition of Myrissi Corporate Fragrance & Beauty Givaudan completes the acquisition of Myrissi 14 Apr 2021 - 06:30 C",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-completes-acquisition-myrissi.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/givaudan-completes-acquisition-myrissi",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/givaudan-completes-acquisition-myrissi.jpeg/givaudan-completes-acquisition-myrissi.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan opens its world-class fragrance production facility in Changzhou, China Corporate Fragrance & Beauty Givaudan opens its world-class fragrance production facility in Changzhou",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-opens-its-world-class-fragrance-production-facility-changzhou.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020",
+        "source_url": "https://www.givaudan.com/media/media-releases/2020/givaudan-opens-its-world-class-fragrance-production-facility-changzhou",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2020/givaudan-opens-its-world-class-fragrance-production-facility-changzhou.jpeg/givaudan-opens-its-world-class-fragrance-production-facility-changzhou.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan doubles flavour production capacity in China with expansion of Nantong manufacturing facility Corporate Taste & Wellbeing Givaudan doubles flavour production capacity in China with expansion of Nantong manufacturing facility 27 Nov 2019 - 08:00 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-doubles-flavour-production-capacity-china-expansion-nantong.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-doubles-flavour-production-capacity-china-expansion-nantong",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-doubles-flavour-production-capacity-china-expansion-nantong.jpeg/givaudan-doubles-flavour-production-capacity-china-expansion-nantong.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan to acquire Ungerer Corporate Financial Taste & Wellbeing Givaudan to acquire Ungerer 08 Nov 2019 - 06:30 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2637,7 +3143,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan Fragrances launches \u2018Carto\u2019, its artificial intelligence powered tool to reinvent the way perfumers create Givaudan Fragrances launches \u2018Carto\u2019, its artificial intelligence powered tool to reinvent the way perfumers create 03 Apr 2019 - 09:00 C",
+    "event_name": "visit Givaudan Fragrances launches ‘Carto’, its artificial intelligence powered tool to reinvent the way perfumers create Givaudan Fragrances launches ‘Carto’, its artificial intelligence powered tool to reinvent the way perfumers create 03 Apr 2019 - 09:00 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2700,7 +3206,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan opens new commercial and develoent centre in Indonesia Givaudan opens new commercial and develoent centre in Indonesia 24 Oct 2018 - 06:16 C | Givaudan, the world\u2019s leading flavour and fragrance company, has today officially opened a new commercial and develoent centre in Jakarta",
+    "event_name": "visit Givaudan opens new commercial and develoent centre in Indonesia Givaudan opens new commercial and develoent centre in Indonesia 24 Oct 2018 - 06:16 C | Givaudan, the world’s leading flavour and fragrance company, has today officially opened a new commercial and develoent centre in Jakarta",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2719,7 +3225,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan enters into exclusive negotiations to acquire Expressions Parfum\u00e9es Givaudan enters into exclusive negotiations to acquire Expressions Parfum\u00e9es 15 Dec 2017 - 14:32 CET",
+    "event_name": "visit Givaudan enters into exclusive negotiations to acquire Expressions Parfumées Givaudan enters into exclusive negotiations to acquire Expressions Parfumées 15 Dec 2017 - 14:32 CET",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2877,7 +3383,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan unveils Sensityl\u2122, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers\u2019 mood Givaudan unveils Sensityl\u2122, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers\u2019 mood 04",
+    "event_name": "visit Givaudan unveils Sensityl™, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers’ mood Givaudan unveils Sensityl™, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers’ mood 04",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -2953,6 +3459,205 @@
     ]
   },
   {
+<<<<<<< HEAD
+    "event_name": "visit Givaudan completes acquisition of Vika B.V. Givaudan completes acquisition of Vika B.V. 31 Aug 2017 - 10:37 C",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-completes-acquisition-vika-bv.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2017-04",
+        "source_url": "https://www.givaudan.com/media/media-releases/2017/givaudan-completes-acquisition-vika-bv",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2017-04/givaudan-completes-acquisition-vika-bv.jpeg/givaudan-completes-acquisition-vika-bv.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan to acquire Myrissi Corporate Fragrance & Beauty Givaudan to acquire Myrissi 08 Feb 2021 - 18:00 CET | As part of its long term strategy to expand its capabilities in Artificial Intelligence (AI), Givaudan today announced that it is to acquire Myrissi",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-acquire-myrissi.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021",
+        "source_url": "https://www.givaudan.com/media/media-releases/2021/givaudan-acquire-myrissi",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2021/givaudan-acquire-myrissi.jpeg/givaudan-acquire-myrissi.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan introduces newly defined purpose Corporate Givaudan introduces newly defined purpose 19 Nov 2019 - 10:00 CET",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-introduces-newly-defined-purpose.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-introduces-newly-defined-purpose",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-introduces-newly-defined-purpose.jpeg/givaudan-introduces-newly-defined-purpose.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan rises up to the high climate action bition Givaudan rises up to the high climate action bition",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-rises-highest-climate-action-ambition.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-rises-highest-climate-action-ambition",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-rises-highest-climate-action-ambition.jpeg/givaudan-rises-highest-climate-action-ambition.jpeg",
+        "content_type": [
+          "esg",
+          "publication"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "giv-2018-sustainability-key-achievements.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/files/giv-2018-sustainability-key-achievements.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/giv-2018-sustainability-key-achievements.pdf/giv-2018-sustainability-key-achievements.pdf",
+        "content_type": [
+          "esg",
+          "publication"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "giv-sustainability-approach.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/files/giv-sustainability-approach.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/giv-sustainability-approach.pdf/giv-sustainability-approach.pdf",
+        "content_type": [
+          "esg",
+          "publication"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan acquires Fragrance Oils Givaudan acquires Fragrance Oils 20 Aug 2019 - 17:30 C |",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-acquires-fragrance-oils.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-acquires-fragrance-oils",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-acquires-fragrance-oils.jpeg/givaudan-acquires-fragrance-oils.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan unveils Sensityl™, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers’ mood Givaudan unveils Sensityl™, a sustainable concentrate of marine biotechnology for cosmetics that also influences consumers’ mood 04",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-unveils-sensityltm-sustainable-concentrate-marine-biotechnology.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019",
+        "source_url": "https://www.givaudan.com/media/media-releases/2019/givaudan-unveils-sensityltm-sustainable-concentrate-marine-biotechnology",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2019/givaudan-unveils-sensityltm-sustainable-concentrate-marine-biotechnology.jpeg/givaudan-unveils-sensityltm-sustainable-concentrate-marine-biotechnology.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan enters into exclusive negotiations to acquire Albert Vieille SAS Givaudan enters into exclusive negotiations to acquire Albert Vieille SAS",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-enters-exclusive-negotiations-acquire-albert-vieille-sas.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-12-13",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-enters-exclusive-negotiations-acquire-albert-vieille-sas",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018-12-13/givaudan-enters-exclusive-negotiations-acquire-albert-vieille-sas.jpeg/givaudan-enters-exclusive-negotiations-acquire-albert-vieille-sas.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan strengthens sustainable patchouli supply chain in Indonesia Givaudan strengthens sustainable patchouli supply chain in Indonesia",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-strengthens-sustainable-patchouli-supply-chain-indonesia.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-strengthens-sustainable-patchouli-supply-chain-indonesia",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018/givaudan-strengthens-sustainable-patchouli-supply-chain-indonesia.jpeg/givaudan-strengthens-sustainable-patchouli-supply-chain-indonesia.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "visit Givaudan Active Beauty leads the way in skin microbiome research Givaudan Active Beauty leads the way in skin microbiome research 05",
+    "equity_ticker": "GIVN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "givaudan-active-beauty-leads-way-skin-microbiome-research.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018",
+        "source_url": "https://www.givaudan.com/media/media-releases/2018/givaudan-active-beauty-leads-way-skin-microbiome-research",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GIVN/2018/givaudan-active-beauty-leads-way-skin-microbiome-research.jpeg/givaudan-active-beauty-leads-way-skin-microbiome-research.jpeg",
+        "content_type": [
+          "publication"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+=======
+>>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "visit Givaudan to implement bitious science-based targets for greenhouse gas reduction Givaudan to implement bitious science-based targets for greenhouse gas reduction 13 Sep 2017 - 08:42 C | Givaudan will implement bitious science-based targets to ensure sustainable long-term growth by committing to reduce absolute Scope 1 and 2 greenhouse gas (GHG) emissions by 30% between 2015 and 2030",
     "equity_ticker": "GIVN",
     "geography": "european",
@@ -2992,7 +3697,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan marks 10th anniversary of TasteTrek\u00ae Citrus with the creation of Global Citrus Collection Givaudan marks 10th anniversary of TasteTrek\u00ae Citrus with the creation of Global Citrus Collection 07 Mar 2016 - 19:23 CET | Givaudan is celebrating the 10th anniversary of its customer TasteTrek\u00ae Citrus progrme, with an Anniversary Global Citrus Flavour Collection inspired by a decade of exploring citrus in groves around the world",
+    "event_name": "visit Givaudan marks 10th anniversary of TasteTrek® Citrus with the creation of Global Citrus Collection Givaudan marks 10th anniversary of TasteTrek® Citrus with the creation of Global Citrus Collection 07 Mar 2016 - 19:23 CET | Givaudan is celebrating the 10th anniversary of its customer TasteTrek® Citrus progrme, with an Anniversary Global Citrus Flavour Collection inspired by a decade of exploring citrus in groves around the world",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -3011,7 +3716,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan launches Koffee\u2019Up\u2122, a new sustainable beauty elixir crafted from upcycled Arabica coffee Corporate Fragrance & Beauty Givaudan launches Koffee\u2019Up\u2122, a new sustainable beauty elixir crafted from upcycled Arabica coffee 22 Jun 2020 - 14:00 C",
+    "event_name": "visit Givaudan launches Koffee’Up™, a new sustainable beauty elixir crafted from upcycled Arabica coffee Corporate Fragrance & Beauty Givaudan launches Koffee’Up™, a new sustainable beauty elixir crafted from upcycled Arabica coffee 22 Jun 2020 - 14:00 C",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -3030,7 +3735,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan publishes insights from Givaudan\u2019s Chef\u2019s Council 2019 Corporate Taste & Wellbeing Givaudan publishes insights from Givaudan\u2019s Chef\u2019s Council",
+    "event_name": "visit Givaudan publishes insights from Givaudan’s Chef’s Council 2019 Corporate Taste & Wellbeing Givaudan publishes insights from Givaudan’s Chef’s Council",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -3106,7 +3811,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan demonstrates its commitment to citrus biodiversity with new donation to University of California, Riverside Givaudan demonstrates its commitment to citrus biodiversity with new donation to University of California, Riverside 13 Mar 2019 - 10:30 CET | Givaudan and the University of California Riverside strengthen collaboration to further protect one of the world\u2019s most extensive citrus diversity collections for future research, characterisation and citrus flavour inspiration",
+    "event_name": "visit Givaudan demonstrates its commitment to citrus biodiversity with new donation to University of California, Riverside Givaudan demonstrates its commitment to citrus biodiversity with new donation to University of California, Riverside 13 Mar 2019 - 10:30 CET | Givaudan and the University of California Riverside strengthen collaboration to further protect one of the world’s most extensive citrus diversity collections for future research, characterisation and citrus flavour inspiration",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -3125,7 +3830,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan completes the acquisition of Expressions Parfum\u00e9es Givaudan completes the acquisition of Expressions Parfum\u00e9es 29 May 2018 - 16:33 C | Givaudan, the global leader in flavours and fragrances, today announced it has completed the acquisition of Expressions Parfum\u00e9es, a French fragrance creation house, from its current shareholders, Orfite and Expressions Parfum\u00e9es\u2019 management",
+    "event_name": "visit Givaudan completes the acquisition of Expressions Parfumées Givaudan completes the acquisition of Expressions Parfumées 29 May 2018 - 16:33 C | Givaudan, the global leader in flavours and fragrances, today announced it has completed the acquisition of Expressions Parfumées, a French fragrance creation house, from its current shareholders, Orfite and Expressions Parfumées’ management",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
@@ -3144,7 +3849,7 @@
     ]
   },
   {
-    "event_name": "visit Givaudan Active Beauty to launch Vetivyne\u2122, a new cosmetic active offering powerful beauty benefits Givaudan Active Beauty to launch Vetivyne\u2122, a new cosmetic active offering powerful beauty benefits 13 Apr 2018 - 10:28 C |",
+    "event_name": "visit Givaudan Active Beauty to launch Vetivyne™, a new cosmetic active offering powerful beauty benefits Givaudan Active Beauty to launch Vetivyne™, a new cosmetic active offering powerful beauty benefits 13 Apr 2018 - 10:28 C |",
     "equity_ticker": "GIVN",
     "geography": "european",
     "periodicity": "non-periodic",
