@@ -1128,7 +1128,7 @@ WISE_reports:
   output: data/WISE_reports.json
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "investors"
   headless: false
@@ -1171,7 +1171,7 @@ WISE_presentations:
   output: data/WISE_presentations.json
   output_json: JSONS/WISE_presentations.json
   base_address: https://wise.com/
-  periodic: false
+  periodic: null
   geography: "European"
   forced_type: "presentations"
   headless: false
