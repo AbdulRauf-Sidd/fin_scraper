@@ -1,0 +1,790 @@
+[
+  {
+    "event_name": "Firmenich International SA Financial Statements 20",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2023-12-31",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-combined-firmenich-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-12-31/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2023 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-half-year-results-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "half-year-results",
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2022 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-hy-2022-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2021 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-hy-2021-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA 1 Financial Statements- July 2017 - December 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/financial-statements-firmenich_2018_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2017/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "DRT2 Financial Statements 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2019/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Report 2022",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-esg-report-fy2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Report 2021",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-esg-report-fy21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2020",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-sustainability-report-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2019-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2018",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/sustainability_report_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2018-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2017",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2017-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2016",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2016/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2015",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-sustainability_report_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2015-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2023 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-half-year-results-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "half-year-results",
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2022 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-hy-2022-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA HY2021 Report",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-hy-2021-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/Null/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Firmenich International SA 1 Financial Statements- July 2017 - December 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/financial-statements-firmenich_2018_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2017/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "DRT2 Financial Statements 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/annual-report-firmenich-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2019/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Report 2022",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-esg-report-fy2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Report 2021",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-esg-report-fy21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2020",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-sustainability-report-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2019",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2019-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2018",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/sustainability_report_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2018-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2017",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2017-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2016",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2016/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Performance & Sustainability Report 2015",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-sustainability_report_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2015-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Sustainability report 2014",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2014-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Sustainability report 2013",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2013-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Sustainability report 2012",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_sustainability_report_2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2012-04/inline/inline.pdf",
+        "content_type": [
+          "historical-information",
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
