@@ -903,8 +903,8 @@ RMS_meeting:   #load_more and tabs
   selectors:
     event_block: ul.py-8.bg-beige3.font-manrope li
   pagination:
-    type: load_more
-    next_button: button.flex.cursor-pointer
+    type: year_tabs
+    next_button: button.cursor-pointer
     archive: null
     timeout: null
 
@@ -1297,17 +1297,18 @@ DGE_press_releases:       # review
 CPRI_results:
   ticker: CPRI
   scraper: null
+  link_archive: 'links/CPRI.txt'
   url: https://www.camparigroup.com/en/page/investors/results-centre
   output: data/CPRI_results.json
   output_json: JSONS/CPRI_results.json
-  base_address: https://investors.capriholdings.com/
+  base_address: https://www.camparigroup.com/en/
   periodic: false
   geography: "European"
   forced_type: "results"
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: div.views-row
   pagination:
     type: null
     next_button: null
@@ -1317,17 +1318,18 @@ CPRI_results:
 CPRI_press-releases:
   ticker: CPRI
   scraper: null
+  link_archive: 'links/CPRI.txt'
   url: https://www.camparigroup.com/en/page/investors/press-releases
   output: data/CPRI_press-releases.json
   output_json: JSONS/CPRI_press-releases.json
-  base_address: https://investors.capriholdings.com/
+  base_address: https://www.camparigroup.com/en/
   periodic: false
   geography: "European"
   forced_type: "press-releases"
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: div.views-row
   pagination:
     type: null
     next_button: null
@@ -1337,17 +1339,18 @@ CPRI_press-releases:
 CPRI_presentations:
   ticker: CPRI
   scraper: null
+  link_archive: 'links/CPRI.txt'
   url: https://www.camparigroup.com/en/page/investors/investor-presentations
   output: data/CPRI_presentations.json
   output_json: JSONS/CPRI_presentations.json
-  base_address: https://investors.capriholdings.com/
+  base_address: https://www.camparigroup.com/en/
   periodic: false
   geography: "European"
   forced_type: "presentations"
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: div.views-row
   pagination:
     type: null
     next_button: null
@@ -1357,17 +1360,18 @@ CPRI_presentations:
 CPRI_reports:
   ticker: CPRI
   scraper: null
+  link_archive: 'links/CPRI.txt'
   url: https://www.camparigroup.com/en/page/investors/financial-reports
   output: data/CPRI_reports.json
   output_json: JSONS/CPRI_reports.json  
-  base_address: https://investors.capriholdings.com/
+  base_address: https://www.camparigroup.com/en/
   periodic: false
   geography: "European"
   forced_type: "financial reports"
   headless: false
   direct: true
   selectors:
-    event_block:
+    event_block: div.views-row
   pagination:
     type: null
     next_button: null
@@ -1377,10 +1381,11 @@ CPRI_reports:
 CPRI_acquisitions:
   ticker: CPRI
   scraper: null
-  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals
+  link_archive: 'links/CPRI.txt'
+  url: https://www.camparigroup.com/en/page/investors/acquisitions-disposals/
   output: data/CPRI_acquisitions.json
   output_json: JSONS/CPRI_acquisitions.json
-  base_address: https://investors.capriholdings.com/
+  base_address: https://www.camparigroup.com/en/
   periodic: false
   geography: "European"
   forced_type: "acquisitions"
@@ -1931,7 +1936,6 @@ BAS_publications:       #Complete
     timeout: null
 
 BAS_news:           # Rauf will check it !!!!
-BAS_news:                         
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1996,9 +2000,10 @@ SAN_stock-exchange:   # Complete
     archive: null
     timeout: null
 
-SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
+SAN_group-holdings:
   ticker: SAN
   scraper: null
+  link_archive: 'links/SAN.txt'
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
   output: data/SAN_group-holdings.json
   output_json: JSONS/SAN_group-holdings-.json
@@ -2012,7 +2017,7 @@ SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   selectors:
     event_block: div.row.two-col-left
   pagination:
-    type:                 # Expand
-    next_button: div.panel-title
+    type: expand_all
+    next_button: div.panel-title a
     archive: null
     timeout: null

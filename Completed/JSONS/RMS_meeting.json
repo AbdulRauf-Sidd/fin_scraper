@@ -36,5 +36,2582 @@
         "record_type": "download"
       }
     ]
+  },
+  {
+    "event_name": "Access the 2024 General Meeting webcast 04.30.2024 - 04.30.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "en.hermesag2024.fr",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "http://en.hermesag2024.fr",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04/en.hermesag2024.fr/en.hermesag2024.fr.html",
+        "content_type": [
+          "webcast",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report on the Combined General Meeting of 30 April 2024 344.96 KB 05.27.2024 - | 344.96 KB | 05.27.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-30-april-2024",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-30-april-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/report-combined-general-meeting-30-april-2024/report-combined-general-meeting-30-april-2024.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members - General Meeting of 30 April 2024 207.86 KB 05.02.2024 - | 207.86 KB | 05.02.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-30",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-30",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-30/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-30.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results - Combined General Meeting 30 April 2024 138.76 KB 04.30.2024 - | 138.76 KB | 04.30.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-30-april-2024",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-30-april-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/voting-results-combined-general-meeting-30-april-2024/voting-results-combined-general-meeting-30-april-2024.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answers from the Executive Management of Herm\u00e8s International to the written quions - 2024 General Meeting 638.82 KB 04.30.2024 | 638.82 KB | 04.30.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answers-executive-management-hermes-international-written-questions-2024-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://finance.hermes.com/answers-executive-management-hermes-international-written-questions-2024-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04/answers-executive-management-hermes-international-written-questions-2024-general-meeting/answers-executive-management-hermes-international-written-questions-2024-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 General Meeting presentation (e-accessible) 18.81 MB 04.30.2024 | 18.81 MB | 04.30.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2024-general-meeting-presentation",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://finance.hermes.com/2024-general-meeting-presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04/2024-general-meeting-presentation/2024-general-meeting-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on the Scrutineers General Meeting 30 April 2024 172.07 KB 04.22.2024 - | 172.07 KB | 04.22.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-scrutineers-general-meeting-30-april-2024",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/release-scrutineers-general-meeting-30-april-2024",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/release-scrutineers-general-meeting-30-april-2024/release-scrutineers-general-meeting-30-april-2024.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 au BALO (in French) - Combined General Meeting of 30 April 2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2024-0",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2024-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2024-0/avis-de-convocation-publie-au-balo-french-combined-general-meeting-30-april-2024-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 dans un journal d'annonces l\u00e9gales (in French) - Combined General Meeting of 30 April 2024 505.43 Ko 04.10.2024 - | 505.43 Ko | 04.10.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-30",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-30",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04-30/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-30/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-30.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting 2024 (with e-accessibilty) including purpose and draft resolutions (e-accessible) 3.41 MB 04.09.2024 - | 3.41 MB | 04.09.2024",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-2024-e-accessibilty-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://finance.hermes.com/notice-meeting-2024-e-accessibilty-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2024-04/notice-meeting-2024-e-accessibilty-including-purpose-and-draft-resolutions/notice-meeting-2024-e-accessibilty-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report on the Combined General Meeting of 20 April 2023 374.75 KB 05.25.2023 - |",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/report-combined-general-meeting-20-april-2023/report-combined-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members - General Meeting of 20 April 2023 209.49 KB 04.20.2023 - | 209.49",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-0",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-0/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results - Combined General Meeting 20 April 2023 170.79 KB 04.20.2023 - | 170.79 KB | 04.20.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/voting-results-combined-general-meeting-20-april-2023/voting-results-combined-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2023 General Meeting presentation (e-accessible) 21.5 MB 04.20.2023 | 21.5 MB | 04.20.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2023-general-meeting-presentation",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://finance.hermes.com/2023-general-meeting-presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04/2023-general-meeting-presentation/2023-general-meeting-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results - Combined General Meeting 20 April 2023 170.79 KB 04.20.2023 - | 170.79 KB | 04.20.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/voting-results-combined-general-meeting-20-april-2023/voting-results-combined-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2023 General Meeting presentation (e-accessible) 21.5 MB 04.20.2023 | 21.5 MB | 04.20.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2023-general-meeting-presentation",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://finance.hermes.com/2023-general-meeting-presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04/2023-general-meeting-presentation/2023-general-meeting-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answers from the Executive Management of Herm\u00e8s International to the written quions - 2023 General Meeting 435.23 KB 04.20.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answers-executive-management-hermes-international-written-questions-2023-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://finance.hermes.com/answers-executive-management-hermes-international-written-questions-2023-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04/answers-executive-management-hermes-international-written-questions-2023-general-meeting/answers-executive-management-hermes-international-written-questions-2023-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on the Scrutineers General Meeting 20 April 2023 171.22 KB 04.12.2023 - | 171.22",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-scrutineers-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/release-scrutineers-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/release-scrutineers-general-meeting-20-april-2023/release-scrutineers-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 au BALO (in French) - Combined General Meeting of 20 April 2023 511.01 KB 03.31.2023 - | 511.01 KB | 03.31.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023-0",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023-0/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 dans un journal d'annonces l\u00e9gales (in French) - Combined General Meeting of 20 April 2023 306.94 KB 03.31.2023 - | 306.94 KB | 03.31.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20-0",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20-0/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "How to participate in the Combined Shareholders\u2019 Meeting of 20 April 2023 699.29 KB 03.30.2023 - | 699.29 KB | 03.30.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "how-participate-combined-shareholders-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/how-participate-combined-shareholders-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/how-participate-combined-shareholders-meeting-20-april-2023/how-participate-combined-shareholders-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information - General Meeting 20 April 2023 190.2 KB 03.30.2023 - | 190.2 KB | 03.30.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/request-mailing-documents-and-legal-information-general-meeting-20-april-2023/request-mailing-documents-and-legal-information-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Electronic communication services membership - General Meeting 20 April 2023 173.91 KB 03.30.2023 - | 173.91 KB | 03.30.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "electronic-communication-services-membership-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/electronic-communication-services-membership-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/electronic-communication-services-membership-general-meeting-20-april-2023/electronic-communication-services-membership-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority - General Meeting 20 Avril 2023 154.78 KB 03.30.2023 - | 154.78 KB | 03.30.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority-general-meeting-20-avril-2023",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2023/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2023.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting 2023 (with e-accessibilty) including purpose and draft resolutions (e-accessible) 2.07 MB 03.30.2023 - | 2.07 MB | 03.30.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-2023-e-accessibilty-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://finance.hermes.com/notice-meeting-2023-e-accessibilty-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04/notice-meeting-2023-e-accessibilty-including-purpose-and-draft-resolutions/notice-meeting-2023-e-accessibilty-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 Universal Registration Document (e-accessible) 7.86 MB 03.24.2023 - | 7.86 MB | 03.24.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-universal-registration-document",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://finance.hermes.com/2022-universal-registration-document",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022/2022-universal-registration-document/2022-universal-registration-document.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights as at March 10, 2023 249.02 KB 03.14.2023 - | 249.02 KB | 03.14.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-march-10-2023",
+        "file_type": "pdf",
+        "published_date": "2023-03-10",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-march-10-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-03-10/disclosure-total-outstanding-shares-and-voting-rights-march-10-2023/disclosure-total-outstanding-shares-and-voting-rights-march-10-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on terms of availability of information regarding the Combined General Meeting of 20 April 2023 162.42 KB 03.10.2023 - | 162.42 KB | 03.10.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-terms-availability-information-regarding-combined-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/release-terms-availability-information-regarding-combined-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/release-terms-availability-information-regarding-combined-general-meeting-20-april-2023/release-terms-availability-information-regarding-combined-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 au BALO (in French) - Combined General Meeting of 20 April 2023 710.64 KB 03.10.2023 - | 710.64 KB | 03.10.2023",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2023-04-20/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2023.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report on the Combined General Meeting of 20 April 2022 294.46 KB 05.16.2022 - | 294.46 KB | 05.16.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/report-combined-general-meeting-20-april-2022/report-combined-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members - General Meeting of 20 April 2022 208.81 KB 04.20.2022 - | 208.81 KB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-20",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-20",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-20/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-20.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results - Combined General Meeting 20 April 2022 152.66 KB 04.20.2022 - | 152.66 KB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/voting-results-combined-general-meeting-20-april-2022/voting-results-combined-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 General Meeting presentation (e-accessible) 8.77 MB 04.20.2022 | 8.77 MB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-general-meeting-presentation",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://finance.hermes.com/2022-general-meeting-presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04/2022-general-meeting-presentation/2022-general-meeting-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answers from the Executive Management of Herm\u00e8s International to the written quions - 2022 General Meeting 509.45 KB 04.20.2022 | 509.45 KB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answers-executive-management-hermes-international-written-questions-2022-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://finance.hermes.com/answers-executive-management-hermes-international-written-questions-2022-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04/answers-executive-management-hermes-international-written-questions-2022-general-meeting/answers-executive-management-hermes-international-written-questions-2022-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 General Meeting presentation (e-accessible) 8.77 MB 04.20.2022 | 8.77 MB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-general-meeting-presentation",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://finance.hermes.com/2022-general-meeting-presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04/2022-general-meeting-presentation/2022-general-meeting-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answers from the Executive Management of Herm\u00e8s International to the written quions - 2022 General Meeting 509.45 KB 04.20.2022 | 509.45 KB | 04.20.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answers-executive-management-hermes-international-written-questions-2022-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://finance.hermes.com/answers-executive-management-hermes-international-written-questions-2022-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04/answers-executive-management-hermes-international-written-questions-2022-general-meeting/answers-executive-management-hermes-international-written-questions-2022-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on the Scrutineers General Meeting 20 April 2022 180.89 KB 04.14.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-scrutineers-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/release-scrutineers-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/release-scrutineers-general-meeting-20-april-2022/release-scrutineers-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 dans un journal d'annonces l\u00e9gales (in French) - Combined General Meeting of 20 April 2022 252.31 KB 04.01.2022 | 252.31 KB | 04.01.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20/avis-de-convocation-publie-dans-un-journal-dannonces-legales-french-combined-general-meeting-20.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Avis de convocation publi\u00e9 au BALO (in French) - Combined General Meeting of 20 April 2022 425.2 KB 04.01.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2022/avis-de-convocation-publie-au-balo-french-combined-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting 2022 (with e-accessibilty) including purpose and draft resolutions (e-accessible) 1.5 MB 03.30.2022 - | 1.5 MB | 03.30.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-2022-e-accessibilty-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://finance.hermes.com/notice-meeting-2022-e-accessibilty-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04/notice-meeting-2022-e-accessibilty-including-purpose-and-draft-resolutions/notice-meeting-2022-e-accessibilty-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority - General Meeting 20 Avril 2022 388.39 KB 03.30.2022 - |",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority-general-meeting-20-avril-2022",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2022/summary-table-use-financial-delegations-authority-general-meeting-20-avril-2022.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Electronic communication services membership - General Meeting 20 April 2022 99.41 KB 03.30.2022 - | 99.41 KB | 03.30.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "electronic-communication-services-membership-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/electronic-communication-services-membership-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/electronic-communication-services-membership-general-meeting-20-april-2022/electronic-communication-services-membership-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information - General Meeting 20 April 2022 427.75 KB 03.30.2022 - | 427.75 KB | 03.30.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/request-mailing-documents-and-legal-information-general-meeting-20-april-2022/request-mailing-documents-and-legal-information-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "How to participate in the Combined Shareholders\u2019 Meeting of 20 April 2022 732.35 KB 03.30.2022 - | 732.35 KB | 03.30.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "how-participate-combined-shareholders-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/how-participate-combined-shareholders-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/how-participate-combined-shareholders-meeting-20-april-2022/how-participate-combined-shareholders-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Universal Registration Document (e-accessible) 6.99 MB 03.25.2022 - | 6.99 MB | 03.25.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2021-universal-registration-document",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://finance.hermes.com/2021-universal-registration-document",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-04/2021-universal-registration-document/2021-universal-registration-document.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights as at March 11, 2022 248.54 KB 03.17.2022 | 248.54 KB | 03.17.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-march-11-2022",
+        "file_type": "pdf",
+        "published_date": "2022-03-11",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-march-11-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-03-11/disclosure-total-outstanding-shares-and-voting-rights-march-11-2022/disclosure-total-outstanding-shares-and-voting-rights-march-11-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "\"Avis de r\u00e9union publi\u00e9 au BALO\" (in French) - Combined General Meeting of 20 April 2022 514.4 KB 03.11.2022 | 514.4 KB | 03.11.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-reunion-publie-au-balo-french-combined-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/avis-de-reunion-publie-au-balo-french-combined-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/avis-de-reunion-publie-au-balo-french-combined-general-meeting-20-april-2022/avis-de-reunion-publie-au-balo-french-combined-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Terms of availability of information regarding the Combined General Meeting of 20 April 2022 2.59 MB 03.11.2022 | 2.59 MB | 03.11.2022",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "terms-availability-information-regarding-combined-general-meeting-20-april-2022",
+        "file_type": "pdf",
+        "published_date": "2022-04-20",
+        "source_url": "https://finance.hermes.com/terms-availability-information-regarding-combined-general-meeting-20-april-2022",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2022-04-20/terms-availability-information-regarding-combined-general-meeting-20-april-2022/terms-availability-information-regarding-combined-general-meeting-20-april-2022.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report on the Combined General Meeting of 4 May 2021 350.53 KB 05.12.2021 - | 350.53 KB | 05.12.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05-04",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05-04/report-combined-general-meeting-4-may-2021/report-combined-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from PETA - 2021 General Meeting 192.73 KB 05.07.2021 | 192.73 KB | 05.07.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-peta-2021-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-peta-2021-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021/answer-executive-management-hermes-international-written-question-peta-2021-general-meeting/answer-executive-management-hermes-international-written-question-peta-2021-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members - General Meeting of 4 May 2021 298.93 KB 05.04.2021 - | 298.93 KB | 05.04.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-4",
+        "file_type": "pdf",
+        "published_date": "2021-05-04",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-4",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05-04/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-4/approval-compensation-policies-executive-chairmen-and-supervisory-board-members-general-meeting-4.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined General Meeting 4 May 2021 195.73 KB 05.04.2021 - | 195.73",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/voting-results-combined-general-meeting-4-may-2021/voting-results-combined-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from FIR - 2021 General Meeting 272.17 KB 05.04.2021 | 272.17 KB",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-fir-2021-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-fir-2021-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021/answer-executive-management-hermes-international-written-question-fir-2021-general-meeting/answer-executive-management-hermes-international-written-question-fir-2021-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation to the 2021 General Meeting 13.34 MB 05.04.2021 | 13.34 MB | 05.04.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-2021-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://finance.hermes.com/presentation-2021-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-04/presentation-2021-general-meeting/presentation-2021-general-meeting.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "How to participate in the Combined Shareholders\u2019 Meeting of May 4, 2021 506.05 KB 04.15.2021 - | 506.05 KB | 04.15.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "how-participate-combined-shareholders-meeting-may-4-2021",
+        "file_type": "pdf",
+        "published_date": "2021-04-15",
+        "source_url": "https://finance.hermes.com/how-participate-combined-shareholders-meeting-may-4-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-04-15/how-participate-combined-shareholders-meeting-may-4-2021/how-participate-combined-shareholders-meeting-may-4-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting including purpose and draft resolutions (e-accessible) 2.18 MB 04.13.2021 | 2.18 MB | 04.13.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://finance.hermes.com/notice-meeting-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021/notice-meeting-including-purpose-and-draft-resolutions/notice-meeting-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Postal vote and voting proxy form - General Meeting 4 May 2021 832.83 KB 04.13.2021 | 832.83 KB | 04.13.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "postal-vote-and-voting-proxy-form-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/postal-vote-and-voting-proxy-form-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/postal-vote-and-voting-proxy-form-general-meeting-4-may-2021/postal-vote-and-voting-proxy-form-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority - General Meeting 4 May 2021 120.72 KB 04.13.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/summary-table-use-financial-delegations-authority-general-meeting-4-may-2021/summary-table-use-financial-delegations-authority-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Electronic communication services membership - General Meeting 4 May 2021 99.41 KB 04.13.2021 | 99.41 KB | 04.13.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "electronic-communication-services-membership-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/electronic-communication-services-membership-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/electronic-communication-services-membership-general-meeting-4-may-2021/electronic-communication-services-membership-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information - General Meeting 4 May 2021 158.55 KB 04.13.2021 | 158.55 KB | 04.13.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/request-mailing-documents-and-legal-information-general-meeting-4-may-2021/request-mailing-documents-and-legal-information-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2020 Universal registration document 3.41 MB 03.26.2021 | 3.41 MB | 03.26.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2020-universal-registration-document",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/2020-universal-registration-document",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/2020-universal-registration-document/2020-universal-registration-document.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights as of 17th March 2021 230.67 KB 03.19.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-17th-march-2021",
+        "file_type": "pdf",
+        "published_date": "2021-03-17",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-17th-march-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-03-17/disclosure-total-outstanding-shares-and-voting-rights-17th-march-2021/disclosure-total-outstanding-shares-and-voting-rights-17th-march-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "\"Avis de r\u00e9union publi\u00e9 au BALO\" (in French) - General Meeting of May 4, 2021 488.42 KB 03.17.2021 | 488.42 KB | 03.17.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "avis-de-reunion-publie-au-balo-french-general-meeting-may-4-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05-04",
+        "source_url": "https://finance.hermes.com/avis-de-reunion-publie-au-balo-french-general-meeting-may-4-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05-04/avis-de-reunion-publie-au-balo-french-general-meeting-may-4-2021/avis-de-reunion-publie-au-balo-french-general-meeting-may-4-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the General Meeting of 4 May 2021 377.29 KB 03.17.2021 - | 377.29 KB | 03.17.2021",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05-04",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05-04/release-conditions-availability-or-consultation-related-general-meeting-4-may-2021/release-conditions-availability-or-consultation-related-general-meeting-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on details for the General Meeting of Shareholders of 4 May 2021 68.27 KB 03.17.2021 - | 68.27",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-details-general-meeting-shareholders-4-may-2021",
+        "file_type": "pdf",
+        "published_date": "2021-05",
+        "source_url": "https://finance.hermes.com/release-details-general-meeting-shareholders-4-may-2021",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2021-05/release-details-general-meeting-shareholders-4-may-2021/release-details-general-meeting-shareholders-4-may-2021.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Access to the 2020 General Meeting webcast (e-accessible) 04.24.2020 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "en",
+        "file_type": "html",
+        "published_date": "2020",
+        "source_url": "http://hermes.fcst.tv/ag2020/en",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/en/en.html",
+        "content_type": [
+          "webcast",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report on the Combined General Meeting of 24 April 2020 209.79 KB 05.07.2020 | 209.79 KB | 05.07.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-24-april-2020",
+        "file_type": "pdf",
+        "published_date": "2020-04-24",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-24-april-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-04-24/report-combined-general-meeting-24-april-2020/report-combined-general-meeting-24-april-2020.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members 173.64 KB 04.27.2020 | 173.64 KB | 04.27.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/approval-compensation-policies-executive-chairmen-and-supervisory-board-members/approval-compensation-policies-executive-chairmen-and-supervisory-board-members.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation of the 2020 General Meeting (e-accessible) 8.17 MB 04.24.2020 | 8.17 MB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-2020-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/presentation-2020-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/presentation-2020-general-meeting/presentation-2020-general-meeting.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 24 April 2020 165.36 KB 04.24.2020 | 165.36 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-24-april-2020",
+        "file_type": "pdf",
+        "published_date": "2020-04-24",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-24-april-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-04-24/voting-results-combined-general-meeting-24-april-2020/voting-results-combined-general-meeting-24-april-2020.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from FIR 336.76 KB 04.24.2020 | 336.76 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-fir",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-fir",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/answer-executive-management-hermes-international-written-question-fir/answer-executive-management-hermes-international-written-question-fir.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from PETA erica 242.44 KB 04.24.2020 | 242.44 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-peta-america",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-peta-america",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/answer-executive-management-hermes-international-written-question-peta-america/answer-executive-management-hermes-international-written-question-peta-america.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Updated of proxy voting instructions 188.75 KB 04.16.2020 | 188.75 KB | 04.16.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "updated-proxy-voting-instructions",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/updated-proxy-voting-instructions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/updated-proxy-voting-instructions/updated-proxy-voting-instructions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Reminder of the conditions of the general meeting of April 24, 2020 774.74 KB 04.09.2020 | 774.74 KB | 04.09.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "reminder-conditions-general-meeting-april-24-2020",
+        "file_type": "pdf",
+        "published_date": "2020-04-24",
+        "source_url": "https://finance.hermes.com/reminder-conditions-general-meeting-april-24-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-04-24/reminder-conditions-general-meeting-april-24-2020/reminder-conditions-general-meeting-april-24-2020.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Approval of the compensation policies for executive chairmen and supervisory board members 173.64 KB 04.27.2020 | 173.64 KB | 04.27.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "approval-compensation-policies-executive-chairmen-and-supervisory-board-members",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/approval-compensation-policies-executive-chairmen-and-supervisory-board-members",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/approval-compensation-policies-executive-chairmen-and-supervisory-board-members/approval-compensation-policies-executive-chairmen-and-supervisory-board-members.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation of the 2020 General Meeting (e-accessible) 8.17 MB 04.24.2020 | 8.17 MB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-2020-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/presentation-2020-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/presentation-2020-general-meeting/presentation-2020-general-meeting.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 24 April 2020 165.36 KB 04.24.2020 | 165.36 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-24-april-2020",
+        "file_type": "pdf",
+        "published_date": "2020-04-24",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-24-april-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-04-24/voting-results-combined-general-meeting-24-april-2020/voting-results-combined-general-meeting-24-april-2020.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from FIR 336.76 KB 04.24.2020 | 336.76 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-fir",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-fir",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/answer-executive-management-hermes-international-written-question-fir/answer-executive-management-hermes-international-written-question-fir.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Answer from the Executive Management of Herm\u00e8s International to the written quion from PETA erica 242.44 KB 04.24.2020 | 242.44 KB | 04.24.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "answer-executive-management-hermes-international-written-question-peta-america",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/answer-executive-management-hermes-international-written-question-peta-america",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/answer-executive-management-hermes-international-written-question-peta-america/answer-executive-management-hermes-international-written-question-peta-america.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Updated of proxy voting instructions 188.75 KB 04.16.2020 | 188.75 KB | 04.16.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "updated-proxy-voting-instructions",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/updated-proxy-voting-instructions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/updated-proxy-voting-instructions/updated-proxy-voting-instructions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Reminder of the conditions of the general meeting of April 24, 2020 774.74 KB 04.09.2020 | 774.74 KB | 04.09.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "reminder-conditions-general-meeting-april-24-2020",
+        "file_type": "pdf",
+        "published_date": "2020-04-24",
+        "source_url": "https://finance.hermes.com/reminder-conditions-general-meeting-april-24-2020",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-04-24/reminder-conditions-general-meeting-april-24-2020/reminder-conditions-general-meeting-april-24-2020.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Updated release on conditions of the holding of the general meeting 369.44 KB 04.09.2020 | 369.44 KB | 04.09.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "updated-release-conditions-holding-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/updated-release-conditions-holding-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/updated-release-conditions-holding-general-meeting/updated-release-conditions-holding-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information 99.41 KB 04.06.2020 | 99.41 KB | 04.06.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information-0",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/request-mailing-documents-and-legal-information-0/request-mailing-documents-and-legal-information-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Addendum to the notice of meeting (with e-accessibility) including purpose and draft resolutions (e-accessible) 214.78 KB 04.03.2020 | 214.78 KB | 04.03.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "addendum-notice-meeting-e-accessibility-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/addendum-notice-meeting-e-accessibility-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/addendum-notice-meeting-e-accessibility-including-purpose-and-draft-resolutions/addendum-notice-meeting-e-accessibility-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting (with e-accessibilty) including purpose and draft resolutions (e-accessible) 3.31 MB 04.03.2020 | 3.31 MB | 04.03.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-e-accessibilty-including-purpose-and-draft-resolutions",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/notice-meeting-e-accessibilty-including-purpose-and-draft-resolutions",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/notice-meeting-e-accessibilty-including-purpose-and-draft-resolutions/notice-meeting-e-accessibilty-including-purpose-and-draft-resolutions.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority 656.04 KB 04.03.2020 | 656.04",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority-0",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/summary-table-use-financial-delegations-authority-0/summary-table-use-financial-delegations-authority-0.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2019 Universal registration document 3.68 MB 03.25.2020 | 3.68 MB | 03.25.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2019-universal-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/2019-universal-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/2019-universal-registration-document-0/2019-universal-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 104.5 KB 03.17.2020 | 104.5 KB | 03.17.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 85.41 KB 03.12.2020 | 85.41 KB | 03.12.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-3",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/release-conditions-availability-or-consultation-related-general-meeting-3/release-conditions-availability-or-consultation-related-general-meeting-3.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 4 June 2019 194.8 KB 07.30.2019 | 194.8 KB | 07.30.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-4-june-2019",
+        "file_type": "pdf",
+        "published_date": "2019-06",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-4-june-2019",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019-06/report-combined-general-meeting-4-june-2019/report-combined-general-meeting-4-june-2019.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 4 June 20 152.77 KB 06.11.2019 | 152.77 KB | 06.11.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-4-june-20",
+        "file_type": "pdf",
+        "published_date": "2020-06-04",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-4-june-20",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-06-04/voting-results-combined-general-meeting-4-june-20/voting-results-combined-general-meeting-4-june-20.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Addendum to the notice of meeting (with e-accessibility) (e-accessible) 231.58 KB 05.14.2019 | 231.58 KB | 05.14.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "addendum-notice-meeting-e-accessibility",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/addendum-notice-meeting-e-accessibility",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/addendum-notice-meeting-e-accessibility/addendum-notice-meeting-e-accessibility.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting (with e-accessibilty) (e-accessible) 1.28 MB 05.14.2019 | 1.28 MB | 05.14.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-e-accessibilty-0",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/notice-meeting-e-accessibilty-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/notice-meeting-e-accessibilty-0/notice-meeting-e-accessibilty-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 556.22 KB 04.24.2019 | 556.22 KB | 04.24.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-2",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/release-conditions-availability-or-consultation-related-general-meeting-2/release-conditions-availability-or-consultation-related-general-meeting-2.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 104.5 KB 03.17.2020 | 104.5 KB | 03.17.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-2.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 85.41 KB 03.12.2020 | 85.41 KB | 03.12.2020",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-3",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020/release-conditions-availability-or-consultation-related-general-meeting-3/release-conditions-availability-or-consultation-related-general-meeting-3.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 4 June 2019 194.8 KB 07.30.2019 | 194.8 KB | 07.30.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-4-june-2019",
+        "file_type": "pdf",
+        "published_date": "2019-06",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-4-june-2019",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019-06/report-combined-general-meeting-4-june-2019/report-combined-general-meeting-4-june-2019.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 4 June 20 152.77 KB 06.11.2019 | 152.77 KB | 06.11.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-4-june-20",
+        "file_type": "pdf",
+        "published_date": "2020-06-04",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-4-june-20",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2020-06-04/voting-results-combined-general-meeting-4-june-20/voting-results-combined-general-meeting-4-june-20.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Addendum to the notice of meeting (with e-accessibility) (e-accessible) 231.58 KB 05.14.2019 | 231.58 KB | 05.14.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "addendum-notice-meeting-e-accessibility",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/addendum-notice-meeting-e-accessibility",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/addendum-notice-meeting-e-accessibility/addendum-notice-meeting-e-accessibility.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting (with e-accessibilty) (e-accessible) 1.28 MB 05.14.2019 | 1.28 MB | 05.14.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-e-accessibilty-0",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/notice-meeting-e-accessibilty-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/notice-meeting-e-accessibilty-0/notice-meeting-e-accessibilty-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 556.22 KB 04.24.2019 | 556.22 KB | 04.24.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-2",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2019/release-conditions-availability-or-consultation-related-general-meeting-2/release-conditions-availability-or-consultation-related-general-meeting-2.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2018 registration document 4.11 MB 04.10.2019 | 4.11 MB | 04.10.2019",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2018-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://finance.hermes.com/2018-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018-04/2018-registration-document-0/2018-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 5 June 2018 128.89 KB 06.07.2018 | 128.89 KB | 06.07.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-5-june-2018",
+        "file_type": "pdf",
+        "published_date": "2018-06",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-5-june-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018-06/report-combined-general-meeting-5-june-2018/report-combined-general-meeting-5-june-2018.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Pr\u00e9sentation - General Meeting as of 5 June 2018 7.09 MB 06.07.2018 | 7.09 MB | 06.07.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-general-meeting-5-june-2018",
+        "file_type": "pdf",
+        "published_date": "2018-06",
+        "source_url": "https://finance.hermes.com/presentation-general-meeting-5-june-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018-06/presentation-general-meeting-5-june-2018/presentation-general-meeting-5-june-2018.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 5 June 2018 72.55 KB 06.07.2018 | 72.55 KB | 06.07.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-5-june-2018",
+        "file_type": "pdf",
+        "published_date": "2018-06",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-5-june-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018-06/voting-results-combined-general-meeting-5-june-2018/voting-results-combined-general-meeting-5-june-2018.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 39.78 KB 05.14.2018 | 39.78 KB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting (with e-accessibilty) (e-accessible) 1.24 MB 05.14.2018 | 1.24 MB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-e-accessibilty",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/notice-meeting-e-accessibilty",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/notice-meeting-e-accessibilty/notice-meeting-e-accessibilty.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information 90.87 KB 05.14.2018 | 90.87 KB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/request-mailing-documents-and-legal-information/request-mailing-documents-and-legal-information.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 535.12 KB 04.24.2018 | 535.12 KB | 04.24.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-1",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-1",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/release-conditions-availability-or-consultation-related-general-meeting-1/release-conditions-availability-or-consultation-related-general-meeting-1.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority 154.82 KB 04.24.2018 | 154.82 KB | 04.24.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/summary-table-use-financial-delegations-authority/summary-table-use-financial-delegations-authority.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2017 registration document 4.74 MB 04.13.2018 | 4.74 MB | 04.13.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2017-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://finance.hermes.com/2017-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-04/2017-registration-document-0/2017-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 6 June 2017 129.55 KB 09.06.2017 | 129.55 KB | 09.06.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-6-june-2017",
+        "file_type": "pdf",
+        "published_date": "2017-06-06",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-6-june-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-06-06/voting-results-combined-general-meeting-6-june-2017/voting-results-combined-general-meeting-6-june-2017.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 6 June 2017 222.76 KB 07.07.2017 | 222.76 KB | 07.07.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-6-june-2017",
+        "file_type": "pdf",
+        "published_date": "2017-06-06",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-6-june-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-06-06/report-combined-general-meeting-6-june-2017/report-combined-general-meeting-6-june-2017.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation to the 2017 general meeting 840.92 KB 06.09.2017 | 840.92 KB | 06.09.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-0",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://finance.hermes.com/presentation-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-04/presentation-0/presentation-0.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 39.78 KB 05.14.2018 | 39.78 KB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-1.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting (with e-accessibilty) (e-accessible) 1.24 MB 05.14.2018 | 1.24 MB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-e-accessibilty",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/notice-meeting-e-accessibilty",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/notice-meeting-e-accessibilty/notice-meeting-e-accessibilty.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Requ for the mailing of documents and legal information 90.87 KB 05.14.2018 | 90.87 KB | 05.14.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "request-mailing-documents-and-legal-information",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/request-mailing-documents-and-legal-information",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/request-mailing-documents-and-legal-information/request-mailing-documents-and-legal-information.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 535.12 KB 04.24.2018 | 535.12 KB | 04.24.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-1",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-1",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/release-conditions-availability-or-consultation-related-general-meeting-1/release-conditions-availability-or-consultation-related-general-meeting-1.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Summary table of the use of financial delegations of authority 154.82 KB 04.24.2018 | 154.82 KB | 04.24.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "summary-table-use-financial-delegations-authority",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://finance.hermes.com/summary-table-use-financial-delegations-authority",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2018/summary-table-use-financial-delegations-authority/summary-table-use-financial-delegations-authority.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2017 registration document 4.74 MB 04.13.2018 | 4.74 MB | 04.13.2018",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2017-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://finance.hermes.com/2017-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-04/2017-registration-document-0/2017-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 6 June 2017 129.55 KB 09.06.2017 | 129.55 KB | 09.06.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-6-june-2017",
+        "file_type": "pdf",
+        "published_date": "2017-06-06",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-6-june-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-06-06/voting-results-combined-general-meeting-6-june-2017/voting-results-combined-general-meeting-6-june-2017.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 6 June 2017 222.76 KB 07.07.2017 | 222.76 KB | 07.07.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-6-june-2017",
+        "file_type": "pdf",
+        "published_date": "2017-06-06",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-6-june-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-06-06/report-combined-general-meeting-6-june-2017/report-combined-general-meeting-6-june-2017.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation to the 2017 general meeting 840.92 KB 06.09.2017 | 840.92 KB | 06.09.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation-0",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://finance.hermes.com/presentation-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017-04/presentation-0/presentation-0.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 48.79 KB 05.15.2017 | 48.79 KB | 05.15.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-0",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-0/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting 1.4 MB 05.15.2017 | 1.4 MB | 05.15.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-0",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://finance.hermes.com/notice-meeting-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017/notice-meeting-0/notice-meeting-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 741.19 KB 04.26.2017 | 741.19 KB | 04.26.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting-0",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2017/release-conditions-availability-or-consultation-related-general-meeting-0/release-conditions-availability-or-consultation-related-general-meeting-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2016 registration document 2.89 MB 04.20.2017 | 2.89 MB | 04.20.2017",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2016-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://finance.hermes.com/2016-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016-04/2016-registration-document-0/2016-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Report of the Combined General Meeting of 31 May 2016 203.21 KB 07.29.2016 | 203.21 KB | 07.29.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "report-combined-general-meeting-31-may-2016",
+        "file_type": "pdf",
+        "published_date": "2016-05-31",
+        "source_url": "https://finance.hermes.com/report-combined-general-meeting-31-may-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016-05-31/report-combined-general-meeting-31-may-2016/report-combined-general-meeting-31-may-2016.pdf",
+        "content_type": [
+          "financial-filing",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Presentation to the 2016 general meeting 2.4 MB 06.03.2016 | 2.4 MB | 06.03.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "presentation",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://finance.hermes.com/presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016-04/presentation/presentation.pdf",
+        "content_type": [
+          "presentation",
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Voting results combined general meeting 31 May 2016 66.13 KB 05.31.2016 | 66.13 KB",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "voting-results-combined-general-meeting-31-may-2016",
+        "file_type": "pdf",
+        "published_date": "2016-05",
+        "source_url": "https://finance.hermes.com/voting-results-combined-general-meeting-31-may-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016-05/voting-results-combined-general-meeting-31-may-2016/voting-results-combined-general-meeting-31-may-2016.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Notice of Meeting published in the official gazette (BALO) on 22 April 2016 68.81 KB 05.13.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "notice-meeting-published-official-gazette-balo-22-april-2016",
+        "file_type": "pdf",
+        "published_date": "2016-04-22",
+        "source_url": "https://finance.hermes.com/notice-meeting-published-official-gazette-balo-22-april-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016-04-22/notice-meeting-published-official-gazette-balo-22-april-2016/notice-meeting-published-official-gazette-balo-22-april-2016.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Disclosure of total outstanding shares and voting rights at the date of publication of the meeting notice 39.94 KB 05.09.2016 | 39.94 KB | 05.09.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://finance.hermes.com/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice/disclosure-total-outstanding-shares-and-voting-rights-date-publication-meeting-notice.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Release on conditions of the availability or the consultation related to the general meeting 162.15 KB 04.22.2016 | 162.15 KB | 04.22.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "release-conditions-availability-or-consultation-related-general-meeting",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://finance.hermes.com/release-conditions-availability-or-consultation-related-general-meeting",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2016/release-conditions-availability-or-consultation-related-general-meeting/release-conditions-availability-or-consultation-related-general-meeting.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2015 registration document 7.77 MB 04.15.2016 | 7.77 MB | 04.15.2016",
+    "equity_ticker": "RMS",
+    "geography": "European",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2015-registration-document-0",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://finance.hermes.com/2015-registration-document-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RMS/2015-04/2015-registration-document-0/2015-registration-document-0.pdf",
+        "content_type": [
+          "meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
   }
 ]

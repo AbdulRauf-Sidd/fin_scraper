@@ -1,0 +1,1059 @@
+[
+  {
+    "event_name": "Quarterly 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "pr_250314_CorpDividend.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/pr_250314_CorpDividend.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/pr_250314_CorpDividend.html.jpeg/pr_250314_CorpDividend.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "031425-QuarterlyDividend.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwadfd3dcf/assets/images/PRESS_RELEASES/031425-QuarterlyDividend.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/031425-QuarterlyDividend.pdf/031425-QuarterlyDividend.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pr_250314_CorpDividend.html#.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/pr_250314_CorpDividend.html#",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/pr_250314_CorpDividend.html%23.jpeg/pr_250314_CorpDividend.html%23.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "pr_250205_Q3FY25_EarningsResults.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/pr_250205_Q3FY25_EarningsResults.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/pr_250205_Q3FY25_EarningsResults.html.jpeg/pr_250205_Q3FY25_EarningsResults.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY25Q3-PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwa60a12b8/assets/images/PRESS_RELEASES/FY25Q3-PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/FY25Q3-PressRelease.pdf/FY25Q3-PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pr_250121_EnterpriseLeadershipChanges.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/pr_250121_EnterpriseLeadershipChanges.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/pr_250121_EnterpriseLeadershipChanges.html.jpeg/pr_250121_EnterpriseLeadershipChanges.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "012125_EnterpriseLeadershipChanges.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwcf3eb02e/assets/images/PRESS_RELEASES/012125_EnterpriseLeadershipChanges.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/012125_EnterpriseLeadershipChanges.pdf/012125_EnterpriseLeadershipChanges.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pr_250109_Q3FY25_EarningsRelease.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/pr_250109_Q3FY25_EarningsRelease.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/pr_250109_Q3FY25_EarningsRelease.html.jpeg/pr_250109_Q3FY25_EarningsRelease.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3FY25_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw17ac59d5/assets/images/PRESS_RELEASES/Q3FY25_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/Q3FY25_Announcement.pdf/Q3FY25_Announcement.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "RL_COBCE_FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-03-14",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw17b5c2fe/documents/RL_COBCE_FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-03-14/RL_COBCE_FINAL.pdf/RL_COBCE_FINAL.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "pr_250205_Q3FY25_EarningsResults.html#.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-02-06",
+        "source_url": "https://corporate.ralphlauren.com/pr_250205_Q3FY25_EarningsResults.html#",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-02-06/pr_250205_Q3FY25_EarningsResults.html%23.jpeg/pr_250205_Q3FY25_EarningsResults.html%23.jpeg",
+        "content_type": [
+          "news",
+          "financial-filing"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "pr_250109_Q3FY25_EarningsRelease.html#.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-01-09",
+        "source_url": "https://corporate.ralphlauren.com/pr_250109_Q3FY25_EarningsRelease.html#",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025-01-09/pr_250109_Q3FY25_EarningsRelease.html%23.jpeg/pr_250109_Q3FY25_EarningsRelease.html%23.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarterly 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "pr_241213_CorpDividend.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-12-13",
+        "source_url": "https://corporate.ralphlauren.com/pr_241213_CorpDividend.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-12-13/pr_241213_CorpDividend.html.jpeg/pr_241213_CorpDividend.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "121324-RL-QuarterlyDividend.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-12-13",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw6ec78569/assets/images/PRESS_RELEASES/121324-RL-QuarterlyDividend.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-12-13/121324-RL-QuarterlyDividend.pdf/121324-RL-QuarterlyDividend.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pr_241213_CorpDividend.html#.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-12-13",
+        "source_url": "https://corporate.ralphlauren.com/pr_241213_CorpDividend.html#",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-12-13/pr_241213_CorpDividend.html%23.jpeg/pr_241213_CorpDividend.html%23.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarterly 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "pr_240314_CorpDividend.html.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-12-13",
+        "source_url": "https://corporate.ralphlauren.com/pr_240314_CorpDividend.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-12-13/pr_240314_CorpDividend.html.jpeg/pr_240314_CorpDividend.html.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "pr_240314_CorpDividend.html#.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-12-13",
+        "source_url": "https://corporate.ralphlauren.com/pr_240314_CorpDividend.html#",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-12-13/pr_240314_CorpDividend.html%23.jpeg/pr_240314_CorpDividend.html%23.jpeg",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q2FY25_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-10-10",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw870f0e1b/assets/images/PRESS_RELEASES/Q2FY25_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-10-10/Q2FY25_Announcement.pdf/Q2FY25_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Releases 2024 Global Citizenship & Sustainability Report Sep 18, 2024 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2024-GCSReport_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09-18",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw8cfe220f/assets/images/PRESS_RELEASES/2024-GCSReport_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-09-18/2024-GCSReport_PressRelease.pdf/2024-GCSReport_PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q1FY25_RLEarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-08-07",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwe8d6fe97/assets/images/PRESS_RELEASES/Q1FY25_RLEarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-08-07/Q1FY25_RLEarningsRelease.pdf/Q1FY25_RLEarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q1FY25_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-07-10",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw4c45b8d1/assets/images/PRESS_RELEASES/Q1FY25_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-07-10/Q1FY25_Announcement.pdf/Q1FY25_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY24_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-23",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw7ba70ad2/assets/images/PRESS_RELEASES/Q4FY24_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-05-23/Q4FY24_EarningsRelease.pdf/Q4FY24_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Announces Finance Leadership Changes May 23, 2024 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "052324-FinanceOrgAnnouncement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-23",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwb1f3de71/assets/images/PRESS_RELEASES/052324-FinanceOrgAnnouncement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-05-23/052324-FinanceOrgAnnouncement.pdf/052324-FinanceOrgAnnouncement.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Presents the Fall / Holiday 2024 Collection in New York Apr 29, 2024 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Fall-Holiday-2024Collection.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04-29",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw8ab63546/assets/images/PRESS_RELEASES/Fall-Holiday-2024Collection.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-04-29/Fall-Holiday-2024Collection.pdf/Fall-Holiday-2024Collection.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY24_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04-25",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwcd611010/assets/images/PRESS_RELEASES/Q4FY24_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-04-25/Q4FY24_Announcement.pdf/Q4FY24_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q3FY24_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-02-08",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw02dc0249/assets/images/PRESS_RELEASES/Q3FY24_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-02-08/Q3FY24_EarningsRelease.pdf/Q3FY24_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q3FY24_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-01-11",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwbd134352/assets/images/PRESS_RELEASES/Q3FY24_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024-01-11/Q3FY24_Announcement.pdf/Q3FY24_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Announces Strategic Collaboration to Accelerate Growth of Luxury Furniture Business Dec 12, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "121223_HaworthLifestyleDesign.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-12",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwd4264a4f/assets/images/PRESS_RELEASES/121223_HaworthLifestyleDesign.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-12-12/121223_HaworthLifestyleDesign.pdf/121223_HaworthLifestyleDesign.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Presents First Artist in Residence Collaboration Dec 5, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "231205_AiR_NaiomiGlasses.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-12-05",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwe577236f/assets/images/PRESS_RELEASES/231205_AiR_NaiomiGlasses.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-12-05/231205_AiR_NaiomiGlasses.pdf/231205_AiR_NaiomiGlasses.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q2FY24_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-11-08",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw0f76edcf/assets/images/PRESS_RELEASES/Q2FY24_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-11-08/Q2FY24_EarningsRelease.pdf/Q2FY24_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "The Ralph Lauren Corporate Foundation to Open Ralph Lauren Center for Cancer Prevention at USC Norris Oct 9, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "RalphLaurenCenter-USC.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-09",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc2ca7839/assets/images/PRESS_RELEASES/RalphLaurenCenter-USC.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-10-09/RalphLaurenCenter-USC.pdf/RalphLaurenCenter-USC.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q2FY24_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-10-06",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw370d2ee3/assets/images/PRESS_RELEASES/Q2FY24_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-10-06/Q2FY24_Announcement.pdf/Q2FY24_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren is Expanding in Canada with Digital Commerce Launch and First Luxury Store Opening Sep 27, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "230927_TorontoStoreOpening.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-09-27",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw217f8272/assets/images/PRESS_RELEASES/230927_TorontoStoreOpening.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-09-27/230927_TorontoStoreOpening.pdf/230927_TorontoStoreOpening.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Showcases Spring 2024 Collection in New York Sep 8, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Spring2024Collection.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-09-08",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw93aa4cee/assets/images/PRESS_RELEASES/Spring2024Collection.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-09-08/Spring2024Collection.pdf/Spring2024Collection.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Partners with the PGA of erica as Official Outfitter of the 2023 United States Ryder Cup Te Aug 16, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "RyderCup2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-16",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw55cf1813/assets/images/PRESS_RELEASES/RyderCup2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-04-16/RyderCup2023.pdf/RyderCup2023.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q1FY24_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-08-10",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw29c3984c/assets/images/PRESS_RELEASES/Q1FY24_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-08-10/Q1FY24_EarningsRelease.pdf/Q1FY24_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q1FY24_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-13",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw79c7479d/assets/images/PRESS_RELEASES/Q1FY24_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-07-13/Q1FY24_Announcement.pdf/Q1FY24_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Details Progress on Social and Environmental Goals in 2023 Global Citizenship & Sustainability Report Jun 20, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2023GCS-Report_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-20",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc156d0f9/assets/images/PRESS_RELEASES/2023GCS-Report_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-04-20/2023GCS-Report_PressRelease.pdf/2023GCS-Report_PressRelease.pdf",
+        "content_type": [
+          "news",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY23_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-05-25",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw347818b9/assets/images/PRESS_RELEASES/Q4FY23_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-05-25/Q4FY23_EarningsRelease.pdf/Q4FY23_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY23_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-27",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw70a0acb1/assets/images/PRESS_RELEASES/Q4FY23_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-04-27/Q4FY23_Announcement.pdf/Q4FY23_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Georgetown Announces New Ralph Lauren Center for Cancer Prevention to Address Health Disparities in Washington, D.C. Apr 10, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "RalphLaurenCenter-Georgetown.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-10",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw845a55eb/assets/images/PRESS_RELEASES/RalphLaurenCenter-Georgetown.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-04-10/RalphLaurenCenter-Georgetown.pdf/RalphLaurenCenter-Georgetown.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q3FY23_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-02-09",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw033fb019/assets/images/PRESS_RELEASES/Q3FY23_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-02-09/Q3FY23_EarningsRelease.pdf/Q3FY23_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Reimagines Timeless Luxury with First-Of-Its-Kind Cradle to Cradle Certified® Gold Cashmere Sweater Jan 24, 2023 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "C2C2023_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-01-24",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwad1aabfd/assets/images/PRESS_RELEASES/C2C2023_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-01-24/C2C2023_PressRelease.pdf/C2C2023_PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q3FY23_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-01-12",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc9ac485a/assets/images/PRESS_RELEASES/Q3FY23_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023-01-12/Q3FY23_Announcement.pdf/Q3FY23_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q2FY23_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11-10",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw82de3ac2/assets/images/PRESS_RELEASES/Q2FY23_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-11-10/Q2FY23_EarningsRelease.pdf/Q2FY23_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Statement Regarding Product Inspired by Mexican Indigenous Design Motifs Oct 20, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "221020_StatementRegardingProduct.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-10-20",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwf3a5f5b2/assets/images/PRESS_RELEASES/221020_StatementRegardingProduct.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-10-20/221020_StatementRegardingProduct.pdf/221020_StatementRegardingProduct.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q2FY23_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-10-13",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc86b795d/assets/images/PRESS_RELEASES/Q2FY23_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-10-13/Q2FY23_Announcement.pdf/Q2FY23_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Presents Its Updated Strategic Growth Plan, “Next Great Chapter: Accelerate,” and Long-Term Financial Outlook Sep 19, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "220919_NextGreatChapter_Accelerate.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-09-19",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwf25f77a8/assets/images/PRESS_RELEASES/220919_NextGreatChapter_Accelerate.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-09-19/220919_NextGreatChapter_Accelerate.pdf/220919_NextGreatChapter_Accelerate.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Corporation to Host Invor Day on September 19, 2022 Sep 12, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "220912_InvestorDayTuneIn_FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-09-12",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw638b096b/assets/images/PRESS_RELEASES/220912_InvestorDayTuneIn_FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-09-12/220912_InvestorDayTuneIn_FINAL.pdf/220912_InvestorDayTuneIn_FINAL.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q1FY23_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-08-09",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw7cf9abae/assets/images/PRESS_RELEASES/Q1FY23_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-08-09/Q1FY23_EarningsRelease.pdf/Q1FY23_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Deepens Commitment to Timelessness in 2022 Global Citizenship & Sustainability Report Jun 24, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022GCS-Report_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-24",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw44e33d4d/assets/images/PRESS_RELEASES/2022GCS-Report_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-06-24/2022GCS-Report_PressRelease.pdf/2022GCS-Report_PressRelease.pdf",
+        "content_type": [
+          "news",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Strengthens Its Commitments to Advancing a Circular Economy with New ‘Live On’ Promise, Further Enabling Extended Life of Its Products Jun 7, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "TimelessByDesign_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-07",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw654050b7/assets/images/PRESS_RELEASES/TimelessByDesign_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-06-07/TimelessByDesign_PressRelease.pdf/TimelessByDesign_PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY22_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-24",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwf5c76e3b/assets/images/PRESS_RELEASES/Q4FY22_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-05-24/Q4FY22_EarningsRelease.pdf/Q4FY22_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Corporate Foundation Announces $25 Million Commitment to Five Cancer Centers Across erica with Goal of Reducing Disparities in Cancer Care in Underserved Communities May 11, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "051122_FoundationDonation.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-11",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw55ab7f2c/assets/images/PRESS_RELEASES/051122_FoundationDonation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-05-11/051122_FoundationDonation.pdf/051122_FoundationDonation.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY22_Announcement.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04-26",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwcfac0e66/assets/images/PRESS_RELEASES/Q4FY22_Announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-04-26/Q4FY22_Announcement.pdf/Q4FY22_Announcement.pdf",
+        "content_type": [
+          "news",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Debuts The Fall/Winter 2022 Collection Mar 22, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "AnEveningWithRalphLauren-PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-22",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw75f768c1/assets/images/PRESS_RELEASES/AnEveningWithRalphLauren-PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-03-22/AnEveningWithRalphLauren-PressRelease.pdf/AnEveningWithRalphLauren-PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarterly 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q4FY22-Dividend.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-18",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw61551e65/assets/images/PRESS_RELEASES/Q4FY22-Dividend.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-03-18/Q4FY22-Dividend.pdf/Q4FY22-Dividend.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Polo Ralph Lauren Introduces New Collection That Builds Upon Its Historic Partnership with Morehouse and Spelman Colleges Mar 15, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "PoloRalphLaurenForMorehouseSpelmanColleges_PressRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-03-15",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwcb59c219/assets/images/PRESS_RELEASES/PoloRalphLaurenForMorehouseSpelmanColleges_PressRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-03-15/PoloRalphLaurenForMorehouseSpelmanColleges_PressRelease.pdf/PoloRalphLaurenForMorehouseSpelmanColleges_PressRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Q3FY22_EarningsRelease.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-02-03",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwcc25471f/assets/images/PRESS_RELEASES/Q3FY22_EarningsRelease.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-02-03/Q3FY22_EarningsRelease.pdf/Q3FY22_EarningsRelease.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ralph Lauren Corporation Announces Strategic Partnership With Franklin Venture Partners Jan 31, 2022 Download",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022FranklinVenture.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-01-31",
+        "source_url": "https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwc5647503/assets/images/PRESS_RELEASES/2022FranklinVenture.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022-01-31/2022FranklinVenture.pdf/2022FranklinVenture.pdf",
+        "content_type": [
+          "news"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

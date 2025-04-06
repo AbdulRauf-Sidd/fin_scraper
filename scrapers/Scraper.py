@@ -114,7 +114,7 @@ class Scraper:
                 if pag_type == "year_tabs":
                         events = await self.extract_data_from_page(page)
                         all_events.extend(events)
-                        events = await self.pagination_handler.switch_all_tabs(page, selector, self.extract_data_from_page, archive_class=self.archive, timeout=self.timeout)
+                        events = await self.pagination_handler.switch_all_tabs(page, selector, self.extract_data_from_page, archive_class=self.archive, timeout=self.timeout, selector=self.selector)
                         all_events.extend(events)
                 
                 elif pag_type == "button" and selector:
