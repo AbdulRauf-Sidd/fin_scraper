@@ -979,11 +979,11 @@ WDAY_press:
   link_archive: 'links/WDAY.txt'
   periodic: false
   geography: "US"
-  forced_type: "press"
+  forced_type: "press-release"
   headless: false
-  direct: false
+  direct: true
   selectors:
-    event_block: .wd_item
+    event_block: ul.wd_layout-simple.wd_item_list li.wd_item
   pagination:
     type: button
     archive: null
