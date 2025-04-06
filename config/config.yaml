@@ -976,7 +976,6 @@ WDAY_press:
   output_json: JSONS/WDAY_press.json
   link_archive: 'links/WDAY.txt'
   base_address: https://investor.workday.com/
-  link_archive: 'links/WDAY.txt'
   periodic: false
   geography: "US"
   forced_type: "press"
@@ -986,6 +985,26 @@ WDAY_press:
     event_block: .wd_item
   pagination:
     type: button
+    archive: null
+    next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
+    timeout: null
+
+WDAY_financial_results:
+  ticker: WDAY
+  url: https://stock.walmart.com/financial-information/financial-results
+  output: data/WDAY_financial_results.json
+  output_json: JSONS/WDAY_financial_results.json
+  link_archive: 'links/WDAY.txt'
+  base_address: https://investor.workday.com/
+  periodic: true
+  geography: "US"
+  forced_type: "financial-filing"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.row
+  pagination:
+    type: null
     archive: null
     next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
     timeout: null

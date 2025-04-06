@@ -60,5 +60,5 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
         
         
 asyncio.run(download_file(url=
-"https://wise.com/imaginary-v2/images/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf"
+"https://stock.walmart.com/_assets/_d8a7629bf13926d180bb3b1e5e2a9a95/walmart/db/938/9939/earnings_release/Earnings+Release+%28FY25+Q4%29.pdf"
 , headless=False, base_url='https://www.reckitt.com'))
