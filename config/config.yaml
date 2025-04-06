@@ -605,12 +605,12 @@ RL_newsroom:
     timeout: 5
 
 #checkkkkkk
-RL_news-2025:     
+RL_news:     
   ticker: 
   link_archive: 'links/RL.txt'
   url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2025&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-sGYko_3PbuRrwqHUP37VwZbEmG617ODbr7_1qHi_SUA&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2025.json
-  output_json: JSONS/RL_news-2025.json
+  output: data/RL_news.json
+  output_json: JSONS/RL_news.json
   base_address: https://investor.ralphlauren.com/
   periodic: null
   geography: "US"
@@ -624,235 +624,15 @@ RL_news-2025:
     next_button: null
     archive: null
     timeout: 5
-
-RL_news-2024:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2024&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-HE_K2VJ5zhXIb8HTswkXZK7fuF36vNNJZ2G7u4ehhUY&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2024.json
-  output_json: JSONS/RL_news-2024.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2023:
-  link_archive: 'links/RL.txt'
-  ticker: RL
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2023&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-MMu0Hp0i1OOFV-Vej1vg-eLpTFjw5nc-pkOHiop3NNQ&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2023.json
-  output_json: JSONS/RL_news-2023.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2022:
-  link_archive: 'links/RL.txt'
-  ticker: RL
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2022&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-s8vgoM7y8G8B8jD90d852yA5czSdckwSVl0z8saKbmc&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2022.json
-  output_json: JSONS/RL_news-2022.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2021:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2021&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-8uVewm2vZNUuHQT9ZR-68tfmv4vNGmxzZa4zUEB8LFA&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2021.json
-  output_json: JSONS/RL_news-2021.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2020:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2020&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-C-LYEoS-UaIdCccCTzkXjevMyteGoaOSOvcJwg22n0k&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2020.json
-  output_json: JSONS/RL_news-2020.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2019:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2019&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-U3qLoklDEBr4m5wsgzODQA63rl4b-CvPT8GLaXbP1Dc&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2019.json
-  output_json: JSONS/RL_news-2019.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2018:
-  link_archive: 'links/RL.txt'
-  ticker: RL
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2018&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-_t9qV_okz3eZOalBj0ZHX06tJUgQl8pDnNOPUueTGto&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2018.json
-  output_json: JSONS/RL_news-2018.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2017:
-  link_archive: 'links/RL.txt'
-  ticker: RL
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2017&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-i56NZRYpw8nRMAuVb235R5bohyVyIovG8KgsIn0dWhc&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2017.json
-  output_json: JSONS/RL_news-2017.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2016:
-  link_archive: 'links/RL.txt'
-  ticker: RL
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2016&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-DgIDvPG8tvolXieeUVhWQdj6EKBZKVhhDYJMbAzONWw&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2016.json
-  output_json: JSONS/RL_news-2016.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2015:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2015&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-08_1Vrk3qJfnz8Vm5gm6lYM_Fi_OBslm6F9Dl1ELlpY&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2015.json
-  output_json: JSONS/RL_news-2015.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
-RL_news-2014:
-  ticker: RL
-  link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2014&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-0s1eJHnA4AK2tVhW-jB9iWkenrfosQb-P7yPnGLV8_I&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
-  output: data/RL_news-2014.json
-  output_json: JSONS/RL_news-2014.json
-  base_address: https://investor.ralphlauren.com/
-  periodic: null
-  geography: "US"
-  forced_type: "news"
-  headless: false
-  direct: false
-  selectors:
-    event_block: table.nirtable tbody tr
-  pagination:
-    type: null
-    next_button: null
-    archive: null
-    timeout: 5
-
 
 #checkkkkkk
 RL_earnings:     
   ticker: RL
+  link_archive: 'links/RL.txt'
   url: https://investor.ralphlauren.com/earnings-releases
   output: data/RL_earnings.json
   output_json: JSONS/RL_earnings.json
-  base_address: https://corporate.ralphlauren.com/
+  base_address: https://investor.ralphlauren.com/
   periodic: null
   geography: "US"
   forced_type: null
@@ -1349,8 +1129,8 @@ WISE_reports:
   output: data/WISE_reports.json
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
-  periodic: null
-  geography: "european"
+  periodic: true
+  geography: "European"
   forced_type: "investors"
   headless: false
   direct: false
@@ -1392,8 +1172,8 @@ WISE_presentations:
   output: data/WISE_presentations.json
   output_json: JSONS/WISE_presentations.json
   base_address: https://wise.com/
-  periodic: null
-  geography: "european"
+  periodic: true
+  geography: "European"
   forced_type: "presentations"
   headless: false
   direct: false
