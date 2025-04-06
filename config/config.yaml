@@ -2155,7 +2155,7 @@ RACE_news:
 
 
 #BAS
-BAS_publications:       #Complete
+BAS_publications:       #Completed
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/investors/calendar-and-publications/investor-releases
@@ -2176,7 +2176,7 @@ BAS_publications:       #Complete
     archive: null
     timeout: null
 
-BAS_news:           # Rauf will check it !!!!
+BAS_news:           # Compelted
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
