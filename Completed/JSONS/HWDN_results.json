@@ -1,0 +1,4178 @@
+[
+  {
+    "event_name": "Full Year Results 27 February 2025 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-04/preliminary_results_2024.pdf/preliminary_results_2024.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-preliminary-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/2024-preliminary-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-04/2024-preliminary-results-presentation.pdf/2024-preliminary-results-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "67936371f6f7a6723285f9d5",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://stream.brrmedia.co.uk/broadcast/67936371f6f7a6723285f9d5",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-04/67936371f6f7a6723285f9d5/67936371f6f7a6723285f9d5.html",
+        "content_type": [
+          "webcast",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 07 November 2024 Trading Update",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-071124.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-07",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-071124.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-11-07/trading-update-071124.pdf/trading-update-071124.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "www.howdenjoinerygroupplc.com",
+        "file_type": "javascript",
+        "published_date": "2024-11-07",
+        "source_url": "https://www.howdenjoinerygroupplc.com/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-11-07/www.howdenjoinerygroupplc.com/www.howdenjoinerygroupplc.com",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 25 July 2024 Half Year Announceme",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_25_july_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_25_july_2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024/half_yearly_results_25_july_2024.pdf/half_yearly_results_25_july_2024.pdf",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024/hyr_presentation_2024.pdf/hyr_presentation_2024.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "HWDN_HY24",
+        "file_type": "html",
+        "published_date": "2024",
+        "source_url": "https://brrmedia.news/HWDN_HY24",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024/HWDN_HY24/HWDN_HY24.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 30 April 2024 Trading Update",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-300424.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04-30",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-300424.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2024-04-30/trading-update-300424.pdf/trading-update-300424.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 27 April 2023 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-270423.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04-27",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-270423.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-04-27/trading-update-270423.pdf/trading-update-270423.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 20 July 2023 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_resutls_july_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_resutls_july_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-07-20/half_yearly_resutls_july_2023.pdf/half_yearly_resutls_july_2023.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-20",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-07-20/hyr_presentation_2023.pdf/hyr_presentation_2023.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "64a417d4a0226e22686970e8",
+        "file_type": "html",
+        "published_date": "2023-07-20",
+        "source_url": "https://stream.brrmedia.co.uk/broadcast/64a417d4a0226e22686970e8",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-07-20/64a417d4a0226e22686970e8/64a417d4a0226e22686970e8.html",
+        "content_type": [
+          "half-year-results",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 02 November 2023 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-021123.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-021123.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-11/trading-update-021123.pdf/trading-update-021123.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 29 February 2024 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-04/preliminary_results_2023.pdf/preliminary_results_2023.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2023-preliminary-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/2023-preliminary-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-04/2023-preliminary-results-presentation.pdf/2023-preliminary-results-presentation.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "65c9e9d23542db7be03f80e8",
+        "file_type": "html",
+        "published_date": "2023-04",
+        "source_url": "https://stream.brrmedia.co.uk/broadcast/65c9e9d23542db7be03f80e8",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2023-04/65c9e9d23542db7be03f80e8/65c9e9d23542db7be03f80e8.html",
+        "content_type": [
+          "webcast",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 28 April 2022 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading_update_280422.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04-28",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading_update_280422.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04-28/trading_update_280422.pdf/trading_update_280422.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 22 July 2022 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_july_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_july_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/half_yearly_results_july_2022.pdf/half_yearly_results_july_2022.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_july_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_july_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/hyr_presentation_july_2022.pdf/hyr_presentation_july_2022.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "62b99c8171203e42c1fbf58c",
+        "file_type": "html",
+        "published_date": "2022-04",
+        "source_url": "https://stream.brrmedia.co.uk/broadcast/62b99c8171203e42c1fbf58c",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/62b99c8171203e42c1fbf58c/62b99c8171203e42c1fbf58c.html",
+        "content_type": [
+          "half-year-results",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 03 November 2022 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading_update_03_november_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading_update_03_november_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-11/trading_update_03_november_2022.pdf/trading_update_03_november_2022.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 23 February 2023 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/preliminary_results_2022.pdf/preliminary_results_2022.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/preliminary-results-presentation-2022.pdf/preliminary-results-presentation-2022.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Howden_fy22results",
+        "file_type": "html",
+        "published_date": "2022-04",
+        "source_url": "https://brrmedia.news/Howden_fy22results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2022-04/Howden_fy22results/Howden_fy22results.html",
+        "content_type": [
+          "webcast",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 29 April 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-290421.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04-29",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-290421.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-04-29/trading-update-290421.pdf/trading-update-290421.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 13 July 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-130721.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-13",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-130721.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-07-13/trading-update-130721.pdf/trading-update-130721.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 21 July 2021 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_22_july_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-21",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_22_july_2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-07-21/half_yearly_results_22_july_2021.pdf/half_yearly_results_22_july_2021.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_22_july_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-07-21",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_22_july_2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-07-21/hyr_presentation_22_july_2021.pdf/hyr_presentation_22_july_2021.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "60e55dff1ba1724bfa99f8a4",
+        "file_type": "html",
+        "published_date": "2021-07-21",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/60e55dff1ba1724bfa99f8a4",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-07-21/60e55dff1ba1724bfa99f8a4/60e55dff1ba1724bfa99f8a4.html",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 01 November 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-november-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-11-01",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update-november-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-11-01/trading-update-november-2021.pdf/trading-update-november-2021.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Results 24 February 2022 download result",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-04/preliminary_results_2021.pdf/preliminary_results_2021.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-04/preliminary-results-presentation-2021.pdf/preliminary-results-presentation-2021.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "61e703257eb59509ae2f986c",
+        "file_type": "html",
+        "published_date": "2021-04",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/61e703257eb59509ae2f986c",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-04/61e703257eb59509ae2f986c/61e703257eb59509ae2f986c.html",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 26 March 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-260320.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-03-26",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-260320.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-03-26/trading-update-260320.pdf/trading-update-260320.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Results 23 July 2020 download report dow",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_23_july_2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020/half_yearly_results_23_july_2020.pdf/half_yearly_results_23_july_2020.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_23_july_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/hyr_presentation_23_july_2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020/hyr_presentation_23_july_2020.pdf/hyr_presentation_23_july_2020.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5f0723324e934f0a0e3ec753",
+        "file_type": "html",
+        "published_date": "2020",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5f0723324e934f0a0e3ec753",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020/5f0723324e934f0a0e3ec753/5f0723324e934f0a0e3ec753.html",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 02 November 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-021120.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-021120.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-11/trading-update-021120.pdf/trading-update-021120.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 09 December 2020 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-091220.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-12-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-091220.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-12-09/trading-update-091220.pdf/trading-update-091220.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Trading Update 13 January 2021 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-130121.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-01-13",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-130121.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-01-13/trading-update-130121.pdf/trading-update-130121.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2021 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-02/preliminary_results_2020.pdf/preliminary_results_2020.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-02/preliminary-results-presentation-2020.pdf/preliminary-results-presentation-2020.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "60212affa6bfbf43d06aded9",
+        "file_type": "html",
+        "published_date": "2021-02",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/60212affa6bfbf43d06aded9",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2021-02/60212affa6bfbf43d06aded9/60212affa6bfbf43d06aded9.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 02 May 2019 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-020519.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-020519.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-05/trading-update-020519.pdf/trading-update-020519.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 16 June 2019 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_16_june_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_16_june_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-04/half_yearly_results_16_june_2019.pdf/half_yearly_results_16_june_2019.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_16_june_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_16_june_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-04/hyr_presentation_16_june_2019.pdf/hyr_presentation_16_june_2019.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5d1e1b49da68dd4b10ae75a2",
+        "file_type": "html",
+        "published_date": "2019-04",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5d1e1b49da68dd4b10ae75a2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-04/5d1e1b49da68dd4b10ae75a2/5d1e1b49da68dd4b10ae75a2.html",
+        "content_type": [
+          "presentation",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 07 November 2019 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-071119.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-071119.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-11/trading-update-071119.pdf/trading-update-071119.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 28 February 2020 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-02/preliminary_results_2019.pdf/preliminary_results_2019.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-02/preliminary-results-presentation-2019.pdf/preliminary-results-presentation-2019.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5e1db9d6fb21a407ce74ca66",
+        "file_type": "html",
+        "published_date": "2020-02",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5e1db9d6fb21a407ce74ca66",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2020-02/5e1db9d6fb21a407ce74ca66/5e1db9d6fb21a407ce74ca66.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 02 May 2018 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-020518.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-020518.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-05/trading-update-020518.pdf/trading-update-020518.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 26 June 2018 download report down",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_16_june_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_16_june_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-06/half_yearly_results_16_june_2018.pdf/half_yearly_results_16_june_2018.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_16_june_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_16_june_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-06/hyr_presentation_16_june_2018.pdf/hyr_presentation_16_june_2018.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5b48c969b648f6302b14db5a",
+        "file_type": "html",
+        "published_date": "2018-06",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5b48c969b648f6302b14db5a",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-06/5b48c969b648f6302b14db5a/5b48c969b648f6302b14db5a.html",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 08 November 2018 download announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "trading-update-081118.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-11-08",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/trading-update/trading-update-081118.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-11-08/trading-update-081118.pdf/trading-update-081118.pdf",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 27 February 2019 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-02/preliminary_results_2018.pdf/preliminary_results_2018.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-02/preliminary-results-presentation-2018.pdf/preliminary-results-presentation-2018.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5c6c3895e6e1d92d38f4f3b9",
+        "file_type": "html",
+        "published_date": "2019-02",
+        "source_url": "http://webcasting.brrmedia.co.uk/broadcast/5c6c3895e6e1d92d38f4f3b9",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2019-02/5c6c3895e6e1d92d38f4f3b9/5c6c3895e6e1d92d38f4f3b9.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 27 April 2017 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "270417",
+        "file_type": "javascript",
+        "published_date": "2017-04-27",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2017/270417",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-04-27/270417/270417",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Report 20 July 2017 download report list",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_results_11_june_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-07-20",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_results_11_june_2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-07-20/half_yearly_results_11_june_2017.pdf/half_yearly_results_11_june_2017.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "595f4714e0455d29e61eaec7",
+        "file_type": "html",
+        "published_date": "2017-07-20",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/595f4714e0455d29e61eaec7",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-07-20/595f4714e0455d29e61eaec7/595f4714e0455d29e61eaec7.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 02 November 2017 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "021117",
+        "file_type": "javascript",
+        "published_date": "2017-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2017/021117",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-11/021117/021117",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 01 March 2018 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-03/preliminary_results_2017.pdf/preliminary_results_2017.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-03/preliminary-results-presentation-2017.pdf/preliminary-results-presentation-2017.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5a86ff2386b1fa2108c966b2",
+        "file_type": "html",
+        "published_date": "2018-03",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5a86ff2386b1fa2108c966b2",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2018-03/5a86ff2386b1fa2108c966b2/5a86ff2386b1fa2108c966b2.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 28 April 2016 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "280416",
+        "file_type": "javascript",
+        "published_date": "2016-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2016/280416",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-04/280416/280416",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2016",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half_yearly_report_11_june_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-07",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/half-year/half_yearly_report_11_june_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-07/half_yearly_report_11_june_2016.pdf/half_yearly_report_11_june_2016.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hyr_presentation_11_june_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-07",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/hyr_presentation_11_june_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-07/hyr_presentation_11_june_2016.pdf/hyr_presentation_11_june_2016.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5784c81237132a6b5c68e037",
+        "file_type": "html",
+        "published_date": "2016-07",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/5784c81237132a6b5c68e037",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-07/5784c81237132a6b5c68e037/5784c81237132a6b5c68e037.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 03 November 2016 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "031116",
+        "file_type": "javascript",
+        "published_date": "2016-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2016/031116",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-11/031116/031116",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 23 February 2017 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-02/preliminary_results_2016.pdf/preliminary_results_2016.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-02/preliminary-results-presentation-2016.pdf/preliminary-results-presentation-2016.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "58a56f77a4affcc1110438ed",
+        "file_type": "html",
+        "published_date": "2017-02",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/58a56f77a4affcc1110438ed",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2017-02/58a56f77a4affcc1110438ed/58a56f77a4affcc1110438ed.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Trading Update 30 April 2015 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "300415",
+        "file_type": "javascript",
+        "published_date": "2015-04-30",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2015/300415",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-04-30/300415/300415",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2015",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_report_july_2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_report_july_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-06/interim_report_july_2015.pdf/interim_report_july_2015.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-06/interim-results-presentation-2015.pdf/interim-results-presentation-2015.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "55ae21a0309ffcbd1b67bd86",
+        "file_type": "html",
+        "published_date": "2015-06",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/55ae21a0309ffcbd1b67bd86",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-06/55ae21a0309ffcbd1b67bd86/55ae21a0309ffcbd1b67bd86.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Trading Update 05 November 2015 view announcement",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "051115",
+        "file_type": "javascript",
+        "published_date": "2015-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2015/051115",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-11/051115/051115",
+        "content_type": [
+          "trading-update",
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2016 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-02/preliminary_results_2015.pdf/preliminary_results_2015.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-02/preliminary-results-presentation-2015.pdf/preliminary-results-presentation-2015.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "56bb0210c23d9659538e228c",
+        "file_type": "html",
+        "published_date": "2016-02",
+        "source_url": "https://webcasting.brrmedia.co.uk/broadcast/56bb0210c23d9659538e228c",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2016-02/56bb0210c23d9659538e228c/56bb0210c23d9659538e228c.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2014 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010514",
+        "file_type": "javascript",
+        "published_date": "2014-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2014/010514",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-05/010514/010514",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2014",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_report_july_2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_report_july_2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-06/interim_report_july_2014.pdf/interim_report_july_2014.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-06/interim-results-presentation-2014.pdf/interim-results-presentation-2014.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 05 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "051114",
+        "file_type": "javascript",
+        "published_date": "2014-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2014/051114",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-11/051114/051114",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 27 February 2015 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-02/preliminary_results_2014.pdf/preliminary_results_2014.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2015-02/preliminary-results-presentation-2014.pdf/preliminary-results-presentation-2014.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 03 May 2013 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "020513",
+        "file_type": "javascript",
+        "published_date": "2013-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2013/020513",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-05/020513/020513",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2013",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_report_july_2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_report_july_2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-06/interim_report_july_2013.pdf/interim_report_july_2013.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-06/interim-results-presentation-2013.pdf/interim-results-presentation-2013.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 06 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "061113",
+        "file_type": "javascript",
+        "published_date": "2013-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2013/061113",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-11/061113/061113",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 28 February 2014 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-02/preliminary_results_2013.pdf/preliminary_results_2013.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2013.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2013.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2014-02/preliminary-results-presentation-2013.pdf/preliminary-results-presentation-2013.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 26 April 2012 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "260412",
+        "file_type": "javascript",
+        "published_date": "2012-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2012/260412",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-04/260412/260412",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2012",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-06/interim_results_july_2012.pdf/interim_results_july_2012.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-06/interim-results-presentation-2012.pdf/interim-results-presentation-2012.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 08 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "081112",
+        "file_type": "javascript",
+        "published_date": "2012-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2012/081112",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-11/081112/081112",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 22 February 2013 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-02/preliminary_results_2012.pdf/preliminary_results_2012.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2012.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2012.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2013-02/preliminary-results-presentation-2012.pdf/preliminary-results-presentation-2012.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "javascript",
+        "published_date": "2010-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/031110",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-11/031110/031110",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "javascript",
+        "published_date": "2009-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/300409",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-04/300409/300409",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/2009interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/interim-results-july-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "javascript",
+        "published_date": "2009-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/121109",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-11/121109/121109",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "javascript",
+        "published_date": "2008-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/010508",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-05/010508/010508",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/2008interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/interim-results-july-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "javascript",
+        "published_date": "2008-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/131108",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-11/131108/131108",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-03/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_07.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim-results-sept-2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_06.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2006-05/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/powerpoint/prelims_060307.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-02/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "javascript",
+        "published_date": "2010-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/031110",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-11/031110/031110",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "javascript",
+        "published_date": "2009-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/300409",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-04/300409/300409",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/2009interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/interim-results-july-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "javascript",
+        "published_date": "2009-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/121109",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-11/121109/121109",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "javascript",
+        "published_date": "2008-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/010508",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-05/010508/010508",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/2008interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/interim-results-july-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "javascript",
+        "published_date": "2008-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/131108",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-11/131108/131108",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-03/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_07.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim-results-sept-2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_06.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2006-05/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/powerpoint/prelims_060307.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-02/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "javascript",
+        "published_date": "2010-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/031110",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-11/031110/031110",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "javascript",
+        "published_date": "2009-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/300409",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-04/300409/300409",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/2009interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/interim-results-july-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "javascript",
+        "published_date": "2009-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/121109",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-11/121109/121109",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "javascript",
+        "published_date": "2008-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/010508",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-05/010508/010508",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/2008interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/interim-results-july-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "javascript",
+        "published_date": "2008-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/131108",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-11/131108/131108",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-03/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_07.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim-results-sept-2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_06.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2006-05/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/powerpoint/prelims_060307.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-02/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "javascript",
+        "published_date": "2010-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/031110",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-11/031110/031110",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "javascript",
+        "published_date": "2009-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/300409",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-04/300409/300409",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/2009interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/interim-results-july-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "javascript",
+        "published_date": "2009-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/121109",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-11/121109/121109",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "javascript",
+        "published_date": "2008-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/010508",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-05/010508/010508",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/2008interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/interim-results-july-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "javascript",
+        "published_date": "2008-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/131108",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-11/131108/131108",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-03/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_07.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim-results-sept-2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_06.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2006-05/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/powerpoint/prelims_060307.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-02/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 28 April 2011 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "280411",
+        "file_type": "javascript",
+        "published_date": "2011-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/280411",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-04/280411/280411",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2011",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim_results_july_2011.pdf/interim_results_july_2011.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-06-24",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-06-24/interim-results-presentation-2011.pdf/interim-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 10 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "101111",
+        "file_type": "javascript",
+        "published_date": "2011-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2011/101111",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-11/101111/101111",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 24 February 2012 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary_results_2011.pdf/preliminary_results_2011.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2011.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2012-02/preliminary-results-presentation-2011.pdf/preliminary-results-presentation-2011.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 29 April 2010 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "290410",
+        "file_type": "javascript",
+        "published_date": "2010-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/290410",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-04/290410/290410",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2010",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_july_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_july_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim_results_july_2010.pdf/interim_results_july_2010.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/interim-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-06/interim-results-presentation-2010.pdf/interim-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 03 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "031110",
+        "file_type": "javascript",
+        "published_date": "2010-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2010/031110",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-11/031110/031110",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 25 February 2011 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary_results_2010.pdf/preliminary_results_2010.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2010.pdf",
+        "file_type": "pdf",
+        "published_date": "2011-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2011-02/preliminary-results-presentation-2010.pdf/preliminary-results-presentation-2010.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 30 April 2009 v",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "300409",
+        "file_type": "javascript",
+        "published_date": "2009-04",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/300409",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-04/300409/300409",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2009",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2009interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/2009interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/2009interims.pdf/2009interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2009/interim-results-july-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-06/interim-results-july-2009.pdf/interim-results-july-2009.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 12 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "121109",
+        "file_type": "javascript",
+        "published_date": "2009-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2009/121109",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-11/121109/121109",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 26 February 2010 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary_results_2009.pdf/preliminary_results_2009.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2009.pdf",
+        "file_type": "pdf",
+        "published_date": "2010-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2010-02/preliminary-results-presentation-2009.pdf/preliminary-results-presentation-2009.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "First Interim Management Statement 01 May 2008 vie",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "010508",
+        "file_type": "javascript",
+        "published_date": "2008-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/010508",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-05/010508/010508",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2008",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2008interims.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/2008interims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/2008interims.pdf/2008interims.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-july-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2008-06",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/2008/interim-results-july-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-06/interim-results-july-2008.pdf/interim-results-july-2008.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Second Interim Management Statement 13 November 20",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "131108",
+        "file_type": "javascript",
+        "published_date": "2008-11",
+        "source_url": "https://www.howdenjoinerygroupplc.com/media-centre/archive/2008/131108",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2008-11/131108/131108",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2009 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary_results_2008.pdf/preliminary_results_2008.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "preliminary-results-presentation-2008.pdf",
+        "file_type": "pdf",
+        "published_date": "2009-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/presentations/preliminary-results-presentation-2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2009-03/preliminary-results-presentation-2008.pdf/preliminary-results-presentation-2008.pdf",
+        "content_type": [
+          "presentation",
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 06 March 2007 download results",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "preliminary_results_2006.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-03",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/prelims/preliminary_results_2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-03/preliminary_results_2006.pdf/preliminary_results_2006.pdf",
+        "content_type": [
+          "preliminary-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 06 September 2007 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_07.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_07.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim_results_june_07.pdf/interim_results_june_07.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "interim-results-sept-2007.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-09",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim-results-sept-2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-09/interim-results-sept-2007.pdf/interim-results-sept-2007.pdf",
+        "content_type": [
+          "presentation",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Interim Results 02 May 2006 download report",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "interim_results_june_06.pdf",
+        "file_type": "pdf",
+        "published_date": "2006-05",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/interims/interim_results_june_06.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2006-05/interim_results_june_06.pdf/interim_results_june_06.pdf",
+        "content_type": [
+          "financial-filing",
+          "interim-results"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Preliminary Results 02 February 2007 download resu",
+    "equity_ticker": "HWDN",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "prelims_060307.pdf",
+        "file_type": "pdf",
+        "published_date": "2007-02",
+        "source_url": "https://www.howdenjoinerygroupplc.com/docs/librariesprovider25/archives/powerpoint/prelims_060307.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HWDN/2007-02/prelims_060307.pdf/prelims_060307.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
