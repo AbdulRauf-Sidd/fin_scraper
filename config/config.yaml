@@ -333,6 +333,26 @@ DSFIR_firmenich_archive2:
     archive: null
     timeout: null
 
+DSFIR_firmenich_archive3:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive3.json
+  output_json: JSONS/DSFIR_firenic_archive3.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.text.aem-GridColumn--default--none.aem-GridColumn.aem-GridColumn--default--6.aem-GridColumn--offset--default--0 a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
 # DSFIR_press:    #
 #   ticker: DSFIR
 #   scraper: null
