@@ -250,32 +250,6 @@
           "financial-filing"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "www.diageo.com_en-gb_final_accessibility.html",
-        "file_type": "html",
-        "published_date": "2024-04",
-        "source_url": "https://footer.diageohorizon.com/dfs/assets/www.diageo.com/www.diageo.com_en-gb_final_accessibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/www.diageo.com_en-gb_final_accessibility.html/www.diageo.com_en-gb_final_accessibility.html",
-        "content_type": [
-          "annual-report",
-          "financial-filings",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "PrivacyPolicy_en.html",
-        "file_type": "html",
-        "published_date": "2024-04",
-        "source_url": "https://footer.diageohorizon.com/dfs/assets/policies.diageohorizon.com/PrivacyPolicy_en.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/PrivacyPolicy_en.html/PrivacyPolicy_en.html",
-        "content_type": [
-          "annual-report",
-          "financial-filings",
-          "financial-filing"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -1404,7 +1378,7 @@
     ]
   },
   {
-    "event_name": "1 JUL 2016 VIEW ONLINE DOWNLOAD Diageo Consumer Information Standards \u2013 Summary",
+    "event_name": "1 JUL 2016 VIEW ONLINE DOWNLOAD Diageo Consumer Information Standards – Summary",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",

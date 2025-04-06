@@ -1,35 +1,5 @@
 [
   {
-    "event_name": "H1 2025",
-    "equity_ticker": "DGE",
-    "geography": "European",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "policy.html",
-        "file_type": "html",
-        "published_date": "2024-04",
-        "source_url": "https://www.investis-live.com/policy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/policy.html/policy.html",
-        "content_type": [
-          "webcast"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "help.html",
-        "file_type": "html",
-        "published_date": "2024-04",
-        "source_url": "https://www.investis-live.com/help.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024-04/help.html/help.html",
-        "content_type": [
-          "webcast"
-        ],
-        "record_type": "download"
-      }
-    ]
-  },
-  {
     "event_name": "FY 2024",
     "equity_ticker": "DGE",
     "geography": "European",

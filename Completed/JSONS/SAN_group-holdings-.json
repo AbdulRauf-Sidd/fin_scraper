@@ -1,0 +1,2942 @@
+[
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Santander%20UK%20Group%20Holdings%20plc%202024%20Annual%20Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Group%20Holdings%20plc%202024%20Annual%20Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Annual%2520Report.pdf/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Annual%2520Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander-ESG-Supp_2024_Final_For_Upload.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander-ESG-Supp_2024_Final_For_Upload.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander-ESG-Supp_2024_Final_For_Upload.pdf/Santander-ESG-Supp_2024_Final_For_Upload.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ACRMD%20FINAL_Dec%2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/ACRMD%20FINAL_Dec%2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/ACRMD%2520FINAL_Dec%252024.pdf/ACRMD%2520FINAL_Dec%252024.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20ACRMD%202024.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20ACRMD%202024.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520ACRMD%25202024.xlsx/Santander%2520UK%2520ACRMD%25202024.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Regulatory%20Remuneration%20Disclosure%202024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Regulatory%20Remuneration%20Disclosure%202024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520Regulatory%2520Remuneration%2520Disclosure%25202024.pdf/Santander%2520UK%2520Regulatory%2520Remuneration%2520Disclosure%25202024.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Group%20Holdings%20plc%202024%20Form%2020-F%20filed%20with%20the%20SEC.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Group%20Holdings%20plc%202024%20Form%2020-F%20filed%20with%20the%20SEC.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Form%252020-F%2520filed%2520with%2520the%2520SEC.pdf/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Form%252020-F%2520filed%2520with%2520the%2520SEC.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Group%20Holdings%20plc%202024%20Form%2020-F%20iXBRL%20files.zip",
+        "file_type": "zip",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Group%20Holdings%20plc%202024%20Form%2020-F%20iXBRL%20files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Form%252020-F%2520iXBRL%2520files.zip/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Form%252020-F%2520iXBRL%2520files.zip",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement Opens in",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Santander%20UK%20QMS%20Q4-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20QMS%20Q4-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520QMS%2520Q4-24.pdf/Santander%2520UK%2520QMS%2520Q4-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Quarterly%20Data%20Series%20Q4-24.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Quarterly%20Data%20Series%20Q4-24.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q4-24.xlsx/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q4-24.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement Opens in",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Santander%20UK%20QMS%20Q3-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20QMS%20Q3-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520QMS%2520Q3-24.pdf/Santander%2520UK%2520QMS%2520Q3-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Quarterly%20Data%20Series%20Q3-24.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Quarterly%20Data%20Series%20Q3-24.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q3-24.xlsx/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q3-24.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ACRMD%20Q3-24_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/ACRMD%20Q3-24_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/ACRMD%2520Q3-24_1.pdf/ACRMD%2520Q3-24_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2024 Half Yearly Financial Report Opens",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Santander%20UK%20Group%20Holdings%20plc%202024%20Half%20Yearly%20Financial%20Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Group%20Holdings%20plc%202024%20Half%20Yearly%20Financial%20Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Half%2520Yearly%2520Financial%2520Report.pdf/Santander%2520UK%2520Group%2520Holdings%2520plc%25202024%2520Half%2520Yearly%2520Financial%2520Report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024%20Half%20Yearly%20Additional%20Capital%20and%20Risk%20Management%20Disclosures_1.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2024%20Half%20Yearly%20Additional%20Capital%20and%20Risk%20Management%20Disclosures_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/2024%2520Half%2520Yearly%2520Additional%2520Capital%2520and%2520Risk%2520Management%2520Disclosures_1.pdf/2024%2520Half%2520Yearly%2520Additional%2520Capital%2520and%2520Risk%2520Management%2520Disclosures_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024%20Half%20Yearly%20Additional%20Capital%20and%20Risk%20Management%20Disclosures.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2024%20Half%20Yearly%20Additional%20Capital%20and%20Risk%20Management%20Disclosures.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/2024%2520Half%2520Yearly%2520Additional%2520Capital%2520and%2520Risk%2520Management%2520Disclosures.xlsx/2024%2520Half%2520Yearly%2520Additional%2520Capital%2520and%2520Risk%2520Management%2520Disclosures.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024%20Half%20Yearly%20Environmental%2C%20Social%20and%20Governance%20Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2024%20Half%20Yearly%20Environmental%2C%20Social%20and%20Governance%20Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2024-04/2024%2520Half%2520Yearly%2520Environmental%252C%2520Social%2520and%2520Governance%2520Update.pdf/2024%2520Half%2520Yearly%2520Environmental%252C%2520Social%2520and%2520Governance%2520Update.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement Opens in",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Santander%20UK%20QMS%20Q2-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20QMS%20Q2-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520QMS%2520Q2-24.pdf/Santander%2520UK%2520QMS%2520Q2-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Investor%20Update%20Q2-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Investor%20Update%20Q2-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520Investor%2520Update%2520Q2-24.pdf/Santander%2520UK%2520Investor%2520Update%2520Q2-24.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Santander%20UK%20Quarterly%20Data%20Series%20Q2-24.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/Santander%20UK%20Quarterly%20Data%20Series%20Q2-24.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q2-24.xlsx/Santander%2520UK%2520Quarterly%2520Data%2520Series%2520Q2-24.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 28",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q1-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q1-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q1-24.pdf/santander_uk_qms_q1-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q1-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q1-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q1-24.pdf/santander_uk_investor_update_q1-24.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q1-24.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q1-24.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q1-24.xlsx/santander_uk_quarterly_data_series_q1-24.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_q1-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_q1-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_acrmd_q1-24.pdf/santander_uk_acrmd_q1-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_annual_report_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_annual_report_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_group_holdings_plc_annual_report_2023.pdf/santander_uk_group_holdings_plc_annual_report_2023.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_esg_supplement_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_esg_supplement_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_esg_supplement_2023.pdf/santander_uk_esg_supplement_2023.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_acrmd_2023.pdf/santander_uk_acrmd_2023.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_tables_2023.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_tables_2023.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_acrmd_tables_2023.xlsx/santander_uk_acrmd_tables_2023.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_pillar_3_remuneration_report_2023_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_pillar_3_remuneration_report_2023_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_pillar_3_remuneration_report_2023_0.pdf/santander_uk_pillar_3_remuneration_report_2023_0.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2023_form_20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2023_form_20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_group_holdings_plc_2023_form_20-f.pdf/santander_uk_group_holdings_plc_2023_form_20-f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2023_form_20-f_ixbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2023",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2023_form_20-f_ixbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023/santander_uk_group_holdings_plc_2023_form_20-f_ixbrl_files.zip/santander_uk_group_holdings_plc_2023_form_20-f_ixbrl_files.zip",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement 33",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q4-23.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q4-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q4-23.pdf/santander_uk_qms_q4-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q4-23_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q4-23_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q4-23_1.pdf/santander_uk_investor_update_q4-23_1.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q4-23.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q4-23.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q4-23.xlsx/santander_uk_quarterly_data_series_q4-23.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement 32",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q3-23.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q3-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q3-23.pdf/santander_uk_qms_q3-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q3-23_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q3-23_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q3-23_0.pdf/santander_uk_investor_update_q3-23_0.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q3-23.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q3-23.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q3-23.xlsx/santander_uk_quarterly_data_series_q3-23.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "acrmd_q3-23_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/acrmd_q3-23_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/acrmd_q3-23_0.pdf/acrmd_q3-23_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2023 Half Yearly Financial Report",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2023_half_yearly_financial_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2023_half_yearly_financial_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023-04/santander_uk_group_holdings_plc_2023_half_yearly_financial_report.pdf/santander_uk_group_holdings_plc_2023_half_yearly_financial_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_june_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_june_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023-04/santander_uk_acrmd_june_2023.pdf/santander_uk_acrmd_june_2023.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_esg_supplement_h1-23.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_esg_supplement_h1-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2023-04/santander_uk_esg_supplement_h1-23.pdf/santander_uk_esg_supplement_h1-23.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement 34",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q2-23.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q2-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q2-23.pdf/santander_uk_qms_q2-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q2_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q2_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q2_2023.pdf/santander_uk_investor_update_q2_2023.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q2_2023.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q2_2023.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q2_2023.xlsx/santander_uk_quarterly_data_series_q2_2023.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 31",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q1-23.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q1-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q1-23.pdf/santander_uk_qms_q1-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q1_2023.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q1_2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q1_2023.pdf/santander_uk_investor_update_q1_2023.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q1_2023.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q1_2023.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q1_2023.xlsx/santander_uk_quarterly_data_series_q1_2023.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_q1_23.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_q1_23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_acrmd_q1_23.pdf/santander_uk_acrmd_q1_23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2022_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2022_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_group_holdings_plc_2022_annual_report.pdf/santander_uk_group_holdings_plc_2022_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_esg_supplement_2022_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_esg_supplement_2022_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_esg_supplement_2022_0.pdf/santander_uk_esg_supplement_2022_0.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_additional_capital_and_risk_management_disclosures_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_additional_capital_and_risk_management_disclosures_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_additional_capital_and_risk_management_disclosures_2022.pdf/santander_uk_additional_capital_and_risk_management_disclosures_2022.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_pillar_3_remuneration_report_2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_pillar_3_remuneration_report_2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_pillar_3_remuneration_report_2022.pdf/santander_uk_pillar_3_remuneration_report_2022.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2022_form_20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2022_form_20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_group_holdings_plc_2022_form_20-f.pdf/santander_uk_group_holdings_plc_2022_form_20-f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2022_form_20-f_ixbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2022_form_20-f_ixbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_group_holdings_plc_2022_form_20-f_ixbrl_files.zip/santander_uk_group_holdings_plc_2022_form_20-f_ixbrl_files.zip",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement 39",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q4-22_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q4-22_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q4-22_1.pdf/santander_uk_qms_q4-22_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q4_22_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q4_22_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q4_22_0.pdf/santander_uk_investor_update_q4_22_0.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q4-22.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q4-22.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q4-22.xlsx/santander_uk_quarterly_data_series_q4-22.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement 31",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q3-22.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q3-22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q3-22.pdf/santander_uk_qms_q3-22.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_investor_update_q3_22.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_investor_update_q3_22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_group_holdings_investor_update_q3_22.pdf/santander_uk_group_holdings_investor_update_q3_22.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q3-22.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q3-22.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q3-22.xlsx/san_uk_quarterly_data_series_q3-22.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosure_q3-22.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosure_q3-22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_and_risk_management_disclosure_q3-22.pdf/additional_capital_and_risk_management_disclosure_q3-22.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2022 Half Yearly Financial Report",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2022_half_yearly_financial_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2022_half_yearly_financial_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_group_holdings_plc_2022_half_yearly_financial_report.pdf/santander_uk_group_holdings_plc_2022_half_yearly_financial_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_june_2022_acrmd.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_june_2022_acrmd.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_june_2022_acrmd.pdf/santander_uk_june_2022_acrmd.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_h122_esg_update.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_h122_esg_update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2022-04/santander_uk_h122_esg_update.pdf/santander_uk_h122_esg_update.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement 35",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q2_22.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q2_22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q2_22.pdf/santander_uk_qms_q2_22.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_q2_22_iu_final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_q2_22_iu_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_q2_22_iu_final.pdf/santander_uk_q2_22_iu_final.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q222_final.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q222_final.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q222_final.xlsx/san_uk_quarterly_data_series_q222_final.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 36",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q122.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q122.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q122.pdf/santander_uk_qms_q122.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q122.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q122.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q122.pdf/santander_uk_investor_update_q122.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q122.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q122.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q122.xlsx/santander_uk_quarterly_data_series_q122.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosures_q1_22_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosures_q1_22_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_and_risk_management_disclosures_q1_22_0.pdf/additional_capital_and_risk_management_disclosures_q1_22_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2021_annual_report_1.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2021_annual_report_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_2021_annual_report_1.pdf/santander_uk_group_holdings_plc_2021_annual_report_1.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_esg_2021_interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_esg_2021_interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_esg_2021_interactive.pdf/santander_esg_2021_interactive.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021_additional_capital_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2021_additional_capital_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/2021_additional_capital_risk_management_disclosures.pdf/2021_additional_capital_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021_regulatory_remuneration_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2021_regulatory_remuneration_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/2021_regulatory_remuneration_disclosures.pdf/2021_regulatory_remuneration_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2021_annual_report_on_form_20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2021_annual_report_on_form_20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_2021_annual_report_on_form_20-f.pdf/santander_uk_group_holdings_plc_2021_annual_report_on_form_20-f.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2021_form_20-f-ixbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2021_form_20-f-ixbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_2021_form_20-f-ixbrl_files.zip/santander_uk_group_holdings_plc_2021_form_20-f-ixbrl_files.zip",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement 37",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q421_final_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q421_final_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q421_final_0.pdf/santander_uk_qms_q421_final_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q421_final_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q421_final_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q421_final_0.pdf/santander_uk_investor_update_q421_final_0.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q421_final.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q421_final.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q421_final.xlsx/santander_uk_quarterly_data_series_q421_final.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement 32",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q321.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q321.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q321.pdf/santander_uk_qms_q321.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q321_4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q321_4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q321_4.pdf/santander_uk_investor_update_q321_4.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q321.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q321.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q321.xlsx/san_uk_quarterly_data_series_q321.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_q321.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_q321.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_acrmd_q321.pdf/santander_uk_acrmd_q321.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2021 Half Yearly Financial Report",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2021_hy_financial_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2021_hy_financial_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_2021_hy_financial_report.pdf/santander_uk_group_holdings_plc_2021_hy_financial_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_hy21.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_hy21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_acrmd_hy21.pdf/santander_uk_acrmd_hy21.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_esg_update_hy21.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_esg_update_hy21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_esg_update_hy21.pdf/santander_uk_esg_update_hy21.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2021_form_6-k_xbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2021_form_6-k_xbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_2021_form_6-k_xbrl_files.zip/santander_uk_group_holdings_plc_2021_form_6-k_xbrl_files.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_h121_form_6-k.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_h121_form_6-k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_group_holdings_plc_h121_form_6-k.pdf/santander_uk_group_holdings_plc_h121_form_6-k.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_factsheet_hy_update.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_factsheet_hy_update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2021-04/santander_uk_factsheet_hy_update.pdf/santander_uk_factsheet_hy_update.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement 53",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q221_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q221_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q221_0.pdf/santander_uk_qms_q221_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q221.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q221.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q221.pdf/santander_uk_investor_update_q221.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q221.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q221.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q221.xlsx/santander_uk_quarterly_data_series_q221.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 15",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q121_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q121_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q121_0.pdf/santander_uk_qms_q121_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q121.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q121.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q121.pdf/santander_uk_investor_update_q121.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q121.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q121.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q121.xlsx/santander_uk_quarterly_data_series_q121.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_31_march_2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_31_march_2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_acrmd_31_march_2021.pdf/santander_uk_acrmd_31_march_2021.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2020_annual_report_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2020_annual_report_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_group_holdings_plc_2020_annual_report_0.pdf/santander_uk_group_holdings_plc_2020_annual_report_0.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_strategic_report_2020_3.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_strategic_report_2020_3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_strategic_report_2020_3.pdf/santander_uk_strategic_report_2020_3.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_esg_supplement_2020_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_esg_supplement_2020_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_esg_supplement_2020_0.pdf/santander_uk_esg_supplement_2020_0.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_acrmd_2020_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_acrmd_2020_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_acrmd_2020_0.pdf/santander_uk_acrmd_2020_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_regulatory_remuneration_disclosures_2020_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_regulatory_remuneration_disclosures_2020_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_regulatory_remuneration_disclosures_2020_0.pdf/santander_uk_regulatory_remuneration_disclosures_2020_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2020_form_20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2020_form_20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_group_holdings_plc_2020_form_20-f.pdf/santander_uk_group_holdings_plc_2020_form_20-f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2020_form_20-f_xbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2020_form_20-f_xbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_group_holdings_plc_2020_form_20-f_xbrl_files.zip/santander_uk_group_holdings_plc_2020_form_20-f_xbrl_files.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement 32",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q420_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q420_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q420_0.pdf/santander_uk_qms_q420_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q420_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q420_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q420_0.pdf/santander_uk_investor_update_q420_0.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q420.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q420.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q420.xlsx/santander_uk_quarterly_data_series_q420.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement 17",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q320.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q320.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q320.pdf/santander_uk_qms_q320.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q320.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q320.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q320.pdf/santander_uk_investor_update_q320.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q320.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q320.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q320.xlsx/santander_uk_quarterly_data_series_q320.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "final_acrmd_september_2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/final_acrmd_september_2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/final_acrmd_september_2020.pdf/final_acrmd_september_2020.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2020 Half Yearly Financial Report",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2020_hy_financial_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2020_hy_financial_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_group_holdings_plc_2020_hy_financial_report.pdf/santander_uk_group_holdings_plc_2020_hy_financial_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_risk_management_disclosures_jun-20.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_risk_management_disclosures_jun-20.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/additional_capital_risk_management_disclosures_jun-20.pdf/additional_capital_risk_management_disclosures_jun-20.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "xbrl_h120_santander_uk_group_holdings_plc.zip",
+        "file_type": "zip",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/xbrl_h120_santander_uk_group_holdings_plc.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/xbrl_h120_santander_uk_group_holdings_plc.zip/xbrl_h120_santander_uk_group_holdings_plc.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_h120_form_6-k.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_h120_form_6-k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2020/santander_uk_group_holdings_plc_h120_form_6-k.pdf/santander_uk_group_holdings_plc_h120_form_6-k.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement 65",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q220_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q220_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q220_0.pdf/santander_uk_qms_q220_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q220.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q220.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q220.pdf/santander_uk_investor_update_q220.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_quarterly_data_series_q220.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_quarterly_data_series_q220.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_quarterly_data_series_q220.xlsx/santander_uk_quarterly_data_series_q220.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 2",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q120_final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q120_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q120_final.pdf/santander_uk_qms_q120_final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q120.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q120.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q120.pdf/santander_uk_investor_update_q120.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q120.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q120.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q120.xlsx/san_uk_quarterly_data_series_q120.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "acrmd_q120.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/acrmd_q120.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/acrmd_q120.pdf/acrmd_q120.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2019",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_2019_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2019_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/santander_uk_group_holdings_plc_2019_annual_report.pdf/santander_uk_group_holdings_plc_2019_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2019_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2019_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/santander_uk_group_holdings_plc_2019_strategic_report.pdf/santander_uk_group_holdings_plc_2019_strategic_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019_santander_esg_supplement.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2019_santander_esg_supplement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/2019_santander_esg_supplement.pdf/2019_santander_esg_supplement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019_acrmd.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2019_acrmd.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/2019_acrmd.pdf/2019_acrmd.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2019_form_20-f.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2019_form_20-f.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/santander_uk_group_holdings_plc_2019_form_20-f.pdf/santander_uk_group_holdings_plc_2019_form_20-f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2019_xbrl_files.zip",
+        "file_type": "zip",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2019_xbrl_files.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/santander_uk_group_holdings_plc_2019_xbrl_files.zip/santander_uk_group_holdings_plc_2019_xbrl_files.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019_regulatory_remuneration_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2019_regulatory_remuneration_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/2019_regulatory_remuneration_disclosures.pdf/2019_regulatory_remuneration_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement 54",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q419_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q419_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q419_1.pdf/santander_uk_qms_q419_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q419_feb.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q419_feb.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q419_feb.pdf/santander_uk_investor_update_q419_feb.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q419.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q419.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q419.xlsx/san_uk_quarterly_data_series_q419.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement 16",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q319.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q319.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q319.pdf/santander_uk_qms_q319.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q319_v3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q319_v3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q319_v3.pdf/santander_uk_investor_update_q319_v3.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_excel_data_series_q319.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_excel_data_series_q319.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_excel_data_series_q319.xlsx/san_uk_excel_data_series_q319.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosure_sep_19_final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosure_sep_19_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_and_risk_management_disclosure_sep_19_final.pdf/additional_capital_and_risk_management_disclosure_sep_19_final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year 2019 Half Yearly Financial Report",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_hy_financial_report_2019_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_hy_financial_report_2019_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/santander_uk_group_holdings_plc_hy_financial_report_2019_0.pdf/santander_uk_group_holdings_plc_hy_financial_report_2019_0.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosures_pdf.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosures_pdf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/additional_capital_and_risk_management_disclosures_pdf.pdf/additional_capital_and_risk_management_disclosures_pdf.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019_half_yearly_financial_statements_included_in_form_6-k_filed_with_the_sec_xbrl.zip",
+        "file_type": "zip",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2019_half_yearly_financial_statements_included_in_form_6-k_filed_with_the_sec_xbrl.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/2019_half_yearly_financial_statements_included_in_form_6-k_filed_with_the_sec_xbrl.zip/2019_half_yearly_financial_statements_included_in_form_6-k_filed_with_the_sec_xbrl.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2019_half_yearly_financial_report_on_form_6-k_filed_with_the_sec.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2019_half_yearly_financial_report_on_form_6-k_filed_with_the_sec.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2019-04/2019_half_yearly_financial_report_on_form_6-k_filed_with_the_sec.pdf/2019_half_yearly_financial_report_on_form_6-k_filed_with_the_sec.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement 25",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q219_final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q219_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q219_final.pdf/santander_uk_qms_q219_final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q219.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q219.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q219.pdf/santander_uk_investor_update_q219.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_excel_data_series_q219_updated.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_excel_data_series_q219_updated.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_excel_data_series_q219_updated.xlsx/san_uk_excel_data_series_q219_updated.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement 17",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q119.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q119.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q119.pdf/santander_uk_qms_q119.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q119.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q119.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q119.pdf/santander_uk_investor_update_q119.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q119.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q119.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q119.xlsx/san_uk_quarterly_data_series_q119.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_additional_capital_disclosures_q119.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_additional_capital_disclosures_q119.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_group_holdings_plc_additional_capital_disclosures_q119.pdf/santander_uk_group_holdings_plc_additional_capital_disclosures_q119.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2018",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2018_annual_report_santander_uk_group_holdings_plc.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2018_annual_report_santander_uk_group_holdings_plc.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/2018_annual_report_santander_uk_group_holdings_plc.pdf/2018_annual_report_santander_uk_group_holdings_plc.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "strategic_report_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/strategic_report_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/strategic_report_2018.pdf/strategic_report_2018.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosures_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosures_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/additional_capital_and_risk_management_disclosures_2018.pdf/additional_capital_and_risk_management_disclosures_2018.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "remuneration_report_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/remuneration_report_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/remuneration_report_2018.pdf/remuneration_report_2018.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2018_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl_0.zip",
+        "file_type": "zip",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2018_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl_0.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/2018_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl_0.zip/2018_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl_0.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2018_form_20-f_0.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2018_form_20-f_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/santander_uk_group_holdings_plc_2018_form_20-f_0.pdf/santander_uk_group_holdings_plc_2018_form_20-f_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q418.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q418.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q418.pdf/santander_uk_qms_q418.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q418_final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q418_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q418_final.pdf/santander_uk_investor_update_q418_final.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q418.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q418.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q418.xlsx/san_uk_quarterly_data_series_q418.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander016",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander016/santander016",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q318.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q318.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q318.pdf/santander_uk_qms_q318.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investorupdatepresentationq3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investorupdatepresentationq3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investorupdatepresentationq3.pdf/investorupdatepresentationq3.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q318.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q318.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q318.xlsx/san_uk_quarterly_data_series_q318.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_risk_management_disclosures_q318_0.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_risk_management_disclosures_q318_0.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_risk_management_disclosures_q318_0.pdf/additional_capital_risk_management_disclosures_q318_0.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander015",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander015/santander015",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Santander UK Group Holdings plc Half Y",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_half_yearly_financial_report_2018_pdf.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_half_yearly_financial_report_2018_pdf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/santander_uk_group_holdings_plc_half_yearly_financial_report_2018_pdf.pdf/santander_uk_group_holdings_plc_half_yearly_financial_report_2018_pdf.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosures_hy_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosures_hy_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/additional_capital_and_risk_management_disclosures_hy_2018.pdf/additional_capital_and_risk_management_disclosures_hy_2018.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc.zip",
+        "file_type": "zip",
+        "published_date": "2018-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2018-04/santander_uk_group_holdings_plc.zip/santander_uk_group_holdings_plc.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_qms_q218.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_qms_q218.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_qms_q218.pdf/santander_uk_qms_q218.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_investor_update_q218.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_investor_update_q218.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_investor_update_q218.pdf/santander_uk_investor_update_q218.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q218.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q218.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q218.xlsx/san_uk_quarterly_data_series_q218.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander014",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander014/santander014",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2018_quarter_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2018_quarter_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2018_quarter_1.pdf/quarterly_management_statement_2018_quarter_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2018_quarter_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2018_quarter_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2018_quarter_1.pdf/investor_update_presentation_2018_quarter_1.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "san_uk_quarterly_data_series_q118.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/san_uk_quarterly_data_series_q118.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/san_uk_quarterly_data_series_q118.xlsx/san_uk_quarterly_data_series_q118.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_and_risk_management_disclosures_2018_quarter_1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_and_risk_management_disclosures_2018_quarter_1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_and_risk_management_disclosures_2018_quarter_1.pdf/additional_capital_and_risk_management_disclosures_2018_quarter_1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander013",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander013",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander013/santander013",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2017",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2017_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2017_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/2017_annual_report.pdf/2017_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2017_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2017_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/2017_strategic_report.pdf/2017_strategic_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2017_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2017_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/2017_additional_capital_and_risk_management_disclosures.pdf/2017_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transition_to_ifrs_9.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/transition_to_ifrs_9.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/transition_to_ifrs_9.pdf/transition_to_ifrs_9.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2017_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl.zip",
+        "file_type": "zip",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2017_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/2017_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl.zip/2017_financial_statements_included_in_form_20-f_filed_with_the_sec_xbrl.zip",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2017_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2017_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2017_q4.pdf/quarterly_management_statement_2017_q4.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2017_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2017_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2017_q4.pdf/investor_update_presentation_2017_q4.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2017_q4.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2017_q4.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2017_q4.xlsx/quarterly_xls_series_2017_q4.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander012",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander012",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander012/santander012",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2017_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2017_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2017_q3.pdf/quarterly_management_statement_2017_q3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2017_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2017_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2017_q3.pdf/investor_update_presentation_2017_q3.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2017_q3.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2017_q3.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2017_q3.xlsx/quarterly_xls_series_2017_q3.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_disclosures_2017_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_disclosures_2017_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_disclosures_2017_q3.pdf/additional_capital_disclosures_2017_q3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander011",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander011",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander011/santander011",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2017",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_half_yearly_financial_report_2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_half_yearly_financial_report_2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/santander_uk_group_holdings_plc_half_yearly_financial_report_2017.pdf/santander_uk_group_holdings_plc_half_yearly_financial_report_2017.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "h1_2017_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/h1_2017_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2017-04/h1_2017_additional_capital_and_risk_management_disclosures.pdf/h1_2017_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2017_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2017_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2017_q2.pdf/quarterly_management_statement_2017_q2.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2017_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2017_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2017_q2.pdf/investor_update_presentation_2017_q2.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2017_q2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2017_q2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2017_q2.xlsx/quarterly_xls_series_2017_q2.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "factsheet_2017_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/factsheet_2017_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/factsheet_2017_q2.pdf/factsheet_2017_q2.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander010",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander010",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander010/santander010",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2017_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2017_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2017_q1.pdf/quarterly_management_statement_2017_q1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2017_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2017_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2017_q1.pdf/investor_update_presentation_2017_q1.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2017_q1.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2017_q1.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2017_q1.xlsx/quarterly_xls_series_2017_q1.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "additional_capital_disclosures_2017_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/additional_capital_disclosures_2017_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/additional_capital_disclosures_2017_q1.pdf/additional_capital_disclosures_2017_q1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander009",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander009",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander009/santander009",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2016",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2016_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2016_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016-04/2016_annual_report.pdf/2016_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2016_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2016_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016-04/2016_strategic_report.pdf/2016_strategic_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2016_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2016_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016-04/2016_additional_capital_and_risk_management_disclosures.pdf/2016_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2016_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2016_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2016_q4.pdf/quarterly_management_statement_2016_q4.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2016_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2016_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2016_q4.pdf/investor_update_presentation_2016_q4.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2016_q4.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2016_q4.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2016_q4.xlsx/quarterly_xls_series_2016_q4.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander008",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander008",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander008/santander008",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2016_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2016_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2016_q3.pdf/quarterly_management_statement_2016_q3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2016_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2016_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2016_q3.pdf/investor_update_presentation_2016_q3.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_q316_additional_capital_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_q316_additional_capital_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_group_holdings_plc_q316_additional_capital_disclosures.pdf/santander_uk_group_holdings_plc_q316_additional_capital_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander007",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander007/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander007/santander007",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2016",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_half_yearly_financial_report_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_half_yearly_financial_report_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016/santander_uk_group_holdings_plc_half_yearly_financial_report_2016.pdf/santander_uk_group_holdings_plc_half_yearly_financial_report_2016.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "h1_2016_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/h1_2016_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016/h1_2016_additional_capital_and_risk_management_disclosures.pdf/h1_2016_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2016_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2016_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2016_q2.pdf/quarterly_management_statement_2016_q2.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2016_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2016_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2016_q2.pdf/investor_update_presentation_2016_q2.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2016_q2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2016_q2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2016_q2.xlsx/quarterly_xls_series_2016_q2.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander006",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander006/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander006/santander006",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2016_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2016_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2016_q1.pdf/quarterly_management_statement_2016_q1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2016_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2016_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2016_q1.pdf/investor_update_presentation_2016_q1.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2016_q1.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2016_q1.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2016_q1.xlsx/quarterly_xls_series_2016_q1.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_q1_16_additional_capital_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_q1_16_additional_capital_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander_uk_group_holdings_plc_q1_16_additional_capital_disclosures.pdf/santander_uk_group_holdings_plc_q1_16_additional_capital_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander005",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander005",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander005/santander005",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Other Presentations Santander Investor Day 2016 Op",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_investor_day_2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_investor_day_2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2016/santander_investor_day_2016.pdf/santander_investor_day_2016.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2015",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2015_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2015_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015-04/2015_annual_report.pdf/2015_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2015_strategic_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2015_strategic_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015-04/2015_strategic_report.pdf/2015_strategic_report.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2015_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2015_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015-04/2015_additional_capital_and_risk_management_disclosures.pdf/2015_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 4 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2015_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2015_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2015_q4.pdf/quarterly_management_statement_2015_q4.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2015_q4.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2015_q4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2015_q4.pdf/investor_update_presentation_2015_q4.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2015_q4.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2015_q4.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2015_q4.xlsx/quarterly_xls_series_2015_q4.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander004",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "https://secure.emincote.com/client/santander/santander004",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander004/santander004",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 3 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2015_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2015_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/quarterly_management_statement_2015_q3.pdf/quarterly_management_statement_2015_q3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2015_q3.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2015_q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/investor_update_presentation_2015_q3.pdf/investor_update_presentation_2015_q3.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2015_q3.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2015_q3.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/quarterly_xls_series_2015_q3.xlsx/quarterly_xls_series_2015_q3.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q3_2015_additional_capital_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/q3_2015_additional_capital_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/q3_2015_additional_capital_disclosures.pdf/q3_2015_additional_capital_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander003",
+        "file_type": "javascript",
+        "published_date": "2015",
+        "source_url": "https://secure.emincote.com/client/santander/santander003/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/santander003/santander003",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2015",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_uk_group_holdings_plc_half_yearly_financial_report_2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_half_yearly_financial_report_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/santander_uk_group_holdings_plc_half_yearly_financial_report_2015.pdf/santander_uk_group_holdings_plc_half_yearly_financial_report_2015.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "h1_2015_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/h1_2015_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/h1_2015_additional_capital_and_risk_management_disclosures.pdf/h1_2015_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2015_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2015_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2015_q2.pdf/quarterly_management_statement_2015_q2.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2015_q2.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2015_q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2015_q2.pdf/investor_update_presentation_2015_q2.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2015_q2.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2015_q2.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2015_q2.xlsx/quarterly_xls_series_2015_q2.xlsx",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander002",
+        "file_type": "javascript",
+        "published_date": "Null",
+        "source_url": "http://secure.emincote.com/client/santander/santander002/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/santander002/santander002",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 1 Quarterly Management Statement Ope",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "quarterly_management_statement_2015_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_management_statement_2015_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_management_statement_2015_q1.pdf/quarterly_management_statement_2015_q1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "investor_update_presentation_2015_q1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/investor_update_presentation_2015_q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/investor_update_presentation_2015_q1.pdf/investor_update_presentation_2015_q1.pdf",
+        "content_type": [
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "quarterly_xls_series_2015_q1.xls",
+        "file_type": "vnd.ms-excel",
+        "published_date": "Null",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/quarterly_xls_series_2015_q1.xls",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/Null/quarterly_xls_series_2015_q1.xls/quarterly_xls_series_2015_q1.xls",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Other Presentations Santander Investor Day 2015 Op",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "santander_investor_day_2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_investor_day_2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2015/santander_investor_day_2015.pdf/santander_investor_day_2015.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year 2014 Annual Report 354 MB Opens",
+    "equity_ticker": "SAN",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2014_annual_report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/2014_annual_report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2014/2014_annual_report.pdf/2014_annual_report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "santander_uk_group_holdings_plc_2014_additional_capital_and_risk_management_disclosures.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.santander.co.uk/assets/s3fs-public/documents/santander_uk_group_holdings_plc_2014_additional_capital_and_risk_management_disclosures.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAN/2014/santander_uk_group_holdings_plc_2014_additional_capital_and_risk_management_disclosures.pdf/santander_uk_group_holdings_plc_2014_additional_capital_and_risk_management_disclosures.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  }
+]

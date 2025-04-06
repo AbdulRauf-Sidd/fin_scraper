@@ -1896,7 +1896,6 @@ BAS_publications:       #Complete
     timeout: null
 
 BAS_news:           # Rauf will check it !!!!
-BAS_news:                         
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases
@@ -1961,9 +1960,10 @@ SAN_stock-exchange:   # Complete
     archive: null
     timeout: null
 
-SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
+SAN_group-holdings:
   ticker: SAN
   scraper: null
+  link_archive: 'links/SAN.txt'
   url: https://www.santander.co.uk/about-santander/investor-relations/santander-uk-group-holdings-plc
   output: data/SAN_group-holdings.json
   output_json: JSONS/SAN_group-holdings-.json
@@ -1977,7 +1977,7 @@ SAN_group-holdings:   # Remaining ( Hassan Expand function remaining )
   selectors:
     event_block: div.row.two-col-left
   pagination:
-    type:                 # Expand
-    next_button: div.panel-title
+    type: expand_all
+    next_button: div.panel-title a
     archive: null
     timeout: null
