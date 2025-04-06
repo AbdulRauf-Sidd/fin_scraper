@@ -2162,7 +2162,7 @@ BAS_publications:       #Complete
   output: data/BAS_publications.json
   output_json: JSONS/BAS_publications-.json
   base_address: https://www.basf.com/
-  periodic: true
+  periodic: null
   geography: "european"
   forced_type: "publications"
   link_archive: 'links/BAS.txt'
@@ -2183,7 +2183,7 @@ BAS_news:           # Rauf will check it !!!!
   output: data/BAS_news.json
   output_json: JSONS/BAS_news.json
   base_address: https://www.basf.com/
-  periodic: true
+  periodic: null
   geography: "european"
   forced_type: "news"
   headless: false
@@ -2193,8 +2193,8 @@ BAS_news:           # Rauf will check it !!!!
     event_block: article.wxp-content-item
   pagination:
     type: load_more
-    next_button:  div.wxp-result-list-footer-button button
-    next_button:  div.wxp-result-list-footer-button.mt-5 button
+    # next_button:  div.wxp-result-list-footer-button button
+    next_button:  div.wxp-result-list-footer-button.mt-5 button:not(.hide)
     archive: null
     timeout: null
 
