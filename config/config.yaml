@@ -293,10 +293,50 @@ DSFIR_news:
     archive: null
     timeout: null
 
+DSFIR_firmenich_archive1:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive1.json
+  output_json: JSONS/DSFIR_firenic_archive1.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.aem-Grid.aem-Grid--4.aem-Grid--default--4 
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DSFIR_firmenich_archive2:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive2.json
+  output_json: JSONS/DSFIR_firenic_archive2.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.text.aem-GridColumn--default--none.aem-GridColumn.aem-GridColumn--default--5 a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
 # DSFIR_press:    #
 #   ticker: DSFIR
 #   scraper: null
-#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   url: c
 #   output: data/DSFIR_press.json
 #   output_json: JSONS/DSFIR_press.json
 #   base_address: https://investors.dsm-firmenich.com/
