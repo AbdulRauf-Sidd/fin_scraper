@@ -1,0 +1,639 @@
+[
+  {
+    "event_name": "Quarter 2025",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-01-16",
+        "source_url": "https://wise.com/imaginary-v2/images/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2025-01-16/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY25 Interim Results November 6 2024 Download",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "source_url": "https://wise.com/imaginary-v2/images/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "source_url": "https://wise.com/imaginary-v2/images/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "1020594957?share=copy#t=0.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-11-06",
+        "source_url": "https://vimeo.com/1020594957?share=copy#t=0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/1020594957%3Fshare%3Dcopy%23t%3D0.jpeg/1020594957%3Fshare%3Dcopy%23t%3D0.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-10-15",
+        "source_url": "https://wise.com/imaginary-v2/images/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-10-15/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-07-16",
+        "source_url": "https://wise.com/imaginary-v2/images/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-07-16/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Financial Year 2024 Results June 13 202",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-13",
+        "source_url": "https://wise.com/imaginary-v2/images/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-13",
+        "source_url": "https://wise.com/imaginary-v2/images/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "944042157?share.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-06-13",
+        "source_url": "https://vimeo.com/944042157?share",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/944042157%3Fshare.jpeg/944042157%3Fshare.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY24 Interim Results November 14 2023 Download",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "884406637.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-11-14",
+        "source_url": "https://vimeo.com/884406637",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-11-14/884406637.jpeg/884406637.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "e0232c0d499a84f171e656da179c6bac-Wise%20Plc%20Q1%20FY24%20Trading%20Update%20July%2018,%202023%20-%20FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-18",
+        "source_url": "https://wise.com/imaginary-v2/images/e0232c0d499a84f171e656da179c6bac-Wise%20Plc%20Q1%20FY24%20Trading%20Update%20July%2018,%202023%20-%20FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-07-18/e0232c0d499a84f171e656da179c6bac-Wise%2520Plc%2520Q1%2520FY24%2520Trading%2520Update%2520July%252018%2C%25202023%2520-%2520FINAL.pdf/e0232c0d499a84f171e656da179c6bac-Wise%2520Plc%2520Q1%2520FY24%2520Trading%2520Update%2520July%252018%2C%25202023%2520-%2520FINAL.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Financial Year 2023 Results June 27 202",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "FY23-Mar-23-Analyst-Presentation-(June-27-2023).pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06-27",
+        "source_url": "https://wise.com/imaginary-v2/FY23-Mar-23-Analyst-Presentation-(June-27-2023).pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-06-27/FY23-Mar-23-Analyst-Presentation-%28June-27-2023%29.pdf/FY23-Mar-23-Analyst-Presentation-%28June-27-2023%29.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "3494595.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-06-27",
+        "source_url": "https://vimeo.com/event/3494595",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-06-27/3494595.jpeg/3494595.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2025",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-01-16",
+        "source_url": "https://wise.com/imaginary-v2/images/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2025-01-16/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY25 Interim Results November 6 2024 Download",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "source_url": "https://wise.com/imaginary-v2/images/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf/97c51957002352675ad2f67f905e9950-WISE_PLC_HY_FY25_RNS.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-11-06",
+        "source_url": "https://wise.com/imaginary-v2/images/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf/5b2bb84ff23eb690fda40fa9a92c27ed-HY_FY25_Sep-24_Presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "1020594957?share=copy#t=0.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-11-06",
+        "source_url": "https://vimeo.com/1020594957?share=copy#t=0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-11-06/1020594957%3Fshare%3Dcopy%23t%3D0.jpeg/1020594957%3Fshare%3Dcopy%23t%3D0.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-10-15",
+        "source_url": "https://wise.com/imaginary-v2/images/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-10-15/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf/1930f0aa3e13b468811004898f7b97da-Wise_Q2_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-07-16",
+        "source_url": "https://wise.com/imaginary-v2/images/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-07-16/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf/d584d8e6048354c5506e4f0e6a5462f9-Wise_plc_Q1_FY25_Trading_Update.pdf",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Financial Year 2024 Results June 13 202",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-13",
+        "source_url": "https://wise.com/imaginary-v2/images/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf/d1442409bf85ed7ad4b66b6050fc8036-Wise-plc-FY24.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-06-13",
+        "source_url": "https://wise.com/imaginary-v2/images/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf/2bbbb368c98fe4aa7b2aa3e133341520-FY24_Analyst_Presentation_.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "944042157?share.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-06-13",
+        "source_url": "https://vimeo.com/944042157?share",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2024-06-13/944042157%3Fshare.jpeg/944042157%3Fshare.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY24 Interim Results November 14 2023 Download",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "884406637.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-11-14",
+        "source_url": "https://vimeo.com/884406637",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-11-14/884406637.jpeg/884406637.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "e0232c0d499a84f171e656da179c6bac-Wise%20Plc%20Q1%20FY24%20Trading%20Update%20July%2018,%202023%20-%20FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-07-18",
+        "source_url": "https://wise.com/imaginary-v2/images/e0232c0d499a84f171e656da179c6bac-Wise%20Plc%20Q1%20FY24%20Trading%20Update%20July%2018,%202023%20-%20FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-07-18/e0232c0d499a84f171e656da179c6bac-Wise%2520Plc%2520Q1%2520FY24%2520Trading%2520Update%2520July%252018%2C%25202023%2520-%2520FINAL.pdf/e0232c0d499a84f171e656da179c6bac-Wise%2520Plc%2520Q1%2520FY24%2520Trading%2520Update%2520July%252018%2C%25202023%2520-%2520FINAL.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Financial Year 2023 Results June 27 202",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "FY23-Mar-23-Analyst-Presentation-(June-27-2023).pdf",
+        "file_type": "pdf",
+        "published_date": "2023-06-27",
+        "source_url": "https://wise.com/imaginary-v2/FY23-Mar-23-Analyst-Presentation-(June-27-2023).pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-06-27/FY23-Mar-23-Analyst-Presentation-%28June-27-2023%29.pdf/FY23-Mar-23-Analyst-Presentation-%28June-27-2023%29.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "3494595.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-06-27",
+        "source_url": "https://vimeo.com/event/3494595",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-06-27/3494595.jpeg/3494595.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2023",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "790052901.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-01-17",
+        "source_url": "https://vimeo.com/790052901",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2023-01-17/790052901.jpeg/790052901.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY23 Interim Results November 29 2022 Download",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "33a3eecb45992980d2c5acacb2bc310f-HY%20FY23%20Sep-22%20Analyst%20Presentation%20-%20FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11-29",
+        "source_url": "https://wise.com/imaginary-v2/images/33a3eecb45992980d2c5acacb2bc310f-HY%20FY23%20Sep-22%20Analyst%20Presentation%20-%20FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-11-29/33a3eecb45992980d2c5acacb2bc310f-HY%2520FY23%2520Sep-22%2520Analyst%2520Presentation%2520-%2520FINAL.pdf/33a3eecb45992980d2c5acacb2bc310f-HY%2520FY23%2520Sep-22%2520Analyst%2520Presentation%2520-%2520FINAL.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "764486475.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-11-29",
+        "source_url": "https://vimeo.com/764486475",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-11-29/764486475.jpeg/764486475.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "059d290564f11b83ebaad1795f07df37-WISE%20FY23%20HALF%20YEAR%20RESULTS%20PRESENTATION%20-%20TRANSCRIPT%20(Final%20for%20Website).pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11-29",
+        "source_url": "https://wise.com/imaginary-v2/images/059d290564f11b83ebaad1795f07df37-WISE%20FY23%20HALF%20YEAR%20RESULTS%20PRESENTATION%20-%20TRANSCRIPT%20(Final%20for%20Website).pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-11-29/059d290564f11b83ebaad1795f07df37-WISE%2520FY23%2520HALF%2520YEAR%2520RESULTS%2520PRESENTATION%2520-%2520TRANSCRIPT%2520%28Final%2520for%2520Website%29.pdf/059d290564f11b83ebaad1795f07df37-WISE%2520FY23%2520HALF%2520YEAR%2520RESULTS%2520PRESENTATION%2520-%2520TRANSCRIPT%2520%28Final%2520for%2520Website%29.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Market Update September 29 2022 Download Listen",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "34d98999c8b65abdee2a3ed594f849de-Wise%20Plc%20-%20%20Sept%2029,%202022%20RNS%20Market%20Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-09-29",
+        "source_url": "https://wise.com/imaginary-v2/images/34d98999c8b65abdee2a3ed594f849de-Wise%20Plc%20-%20%20Sept%2029,%202022%20RNS%20Market%20Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-09-29/34d98999c8b65abdee2a3ed594f849de-Wise%2520Plc%2520-%2520%2520Sept%252029%2C%25202022%2520RNS%2520Market%2520Update.pdf/34d98999c8b65abdee2a3ed594f849de-Wise%2520Plc%2520-%2520%2520Sept%252029%2C%25202022%2520RNS%2520Market%2520Update.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "755538768.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-09-29",
+        "source_url": "https://vimeo.com/755538768",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-09-29/755538768.jpeg/755538768.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2022",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "731313825.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-07-19",
+        "source_url": "https://vimeo.com/731313825",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-07-19/731313825.jpeg/731313825.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Full Year Financial Year 2022 Results June 28 202",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "76b71d4539a5445fa91ad30eaa65b96e-WISE%20FY22%20FINAL%20RNS%20_%20Preliminary%20Financial%20Announcement%20_%20(June%2028,%202022)_FINAL%20for%20Owner%20Relations.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-28",
+        "source_url": "https://wise.com/imaginary-v2/images/76b71d4539a5445fa91ad30eaa65b96e-WISE%20FY22%20FINAL%20RNS%20_%20Preliminary%20Financial%20Announcement%20_%20(June%2028,%202022)_FINAL%20for%20Owner%20Relations.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-06-28/76b71d4539a5445fa91ad30eaa65b96e-WISE%2520FY22%2520FINAL%2520RNS%2520_%2520Preliminary%2520Financial%2520Announcement%2520_%2520%28June%252028%2C%25202022%29_FINAL%2520for%2520Owner%2520Relations.pdf/76b71d4539a5445fa91ad30eaa65b96e-WISE%2520FY22%2520FINAL%2520RNS%2520_%2520Preliminary%2520Financial%2520Announcement%2520_%2520%28June%252028%2C%25202022%29_FINAL%2520for%2520Owner%2520Relations.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "d2a10809af0b305224a5f0b1e21c241d-FINAL%20-%20Full%20Year%20Presentation%20-%20FY22%20June%2028,%202022%20(1).pdf",
+        "file_type": "pdf",
+        "published_date": "2022-06-28",
+        "source_url": "https://wise.com/imaginary-v2/images/d2a10809af0b305224a5f0b1e21c241d-FINAL%20-%20Full%20Year%20Presentation%20-%20FY22%20June%2028,%202022%20(1).pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-06-28/d2a10809af0b305224a5f0b1e21c241d-FINAL%2520-%2520Full%2520Year%2520Presentation%2520-%2520FY22%2520June%252028%2C%25202022%2520%281%29.pdf/d2a10809af0b305224a5f0b1e21c241d-FINAL%2520-%2520Full%2520Year%2520Presentation%2520-%2520FY22%2520June%252028%2C%25202022%2520%281%29.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "719843765.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-06-28",
+        "source_url": "https://vimeo.com/719843765",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-06-28/719843765.jpeg/719843765.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "667831957.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-01-19",
+        "source_url": "https://vimeo.com/667831957",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2022-01-19/667831957.jpeg/667831957.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  },
+  {
+    "event_name": "Half Year Financial Year 2022 Interim Results N",
+    "equity_ticker": "WISE",
+    "geography": "European",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "57f23844cd057c40730beb7b17ea4443-FY21%20HY%20report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-11-30",
+        "source_url": "https://wise.com/imaginary-v2/images/57f23844cd057c40730beb7b17ea4443-FY21%20HY%20report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2021-11-30/57f23844cd057c40730beb7b17ea4443-FY21%2520HY%2520report.pdf/57f23844cd057c40730beb7b17ea4443-FY21%2520HY%2520report.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "15be9150128638c0611e6ac06490aa60-Wise-Half-Year-Presentation-HY1FY22.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-11-30",
+        "source_url": "https://wise.com/imaginary-v2/images/15be9150128638c0611e6ac06490aa60-Wise-Half-Year-Presentation-HY1FY22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2021-11-30/15be9150128638c0611e6ac06490aa60-Wise-Half-Year-Presentation-HY1FY22.pdf/15be9150128638c0611e6ac06490aa60-Wise-Half-Year-Presentation-HY1FY22.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "646087136.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021-11-30",
+        "source_url": "https://vimeo.com/646087136",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WISE/2021-11-30/646087136.jpeg/646087136.jpeg",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "screenshot"
+      }
+    ]
+  }
+]
