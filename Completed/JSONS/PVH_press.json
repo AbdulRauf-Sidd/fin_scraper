@@ -2627,49 +2627,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "PVH Corp. Announces $1 Million Contribution to Fordh University’s Gabelli School of Business – New partnership works to harness the power of corporate responsibility to inspire global change –",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Announces-1-Million-Contribution-to-Fordham-Universitys-Gabelli-School-of-Business.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2020-01-02",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Announces-1-Million-Contribution-to-Fordham-Universitys-Gabelli-School-of-Business",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2020-01-02/PVH-Corp-Announces-1-Million-Contribution-to-Fordham-Universitys-Gabelli-School-of-Business.jpeg/PVH-Corp-Announces-1-Million-Contribution-to-Fordham-Universitys-Gabelli-School-of-Business.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Q3 2019",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2019-Third-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2019-11-26",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2019-Third-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2019-11-26/PVH-Corp-Reports-2019-Third-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg/PVH-Corp-Reports-2019-Third-Quarter-Results-Above-Guidance-and-Raises-Full-Year-Outlook.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-=======
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Tommy Hilfiger Commits to 3D Design to Realize bitious Digitalization Journey Tommy Hilfiger is implementing new learning and technology capabilities for all global design tes at its sterd headquarters to achieve 100% 3D apparel design by its Spring 2022 collections",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3027,48 +2984,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "PVH Corp. Enters into Licensing Agreement with NIKE, Inc. for Men’s Underwear Business NIKE -branded men’s underwear will be produced by PVH’s Center of Excellence for Underwear NEW YORK --(BUSINESS WIRE)--Apr. 30, 2019-- PVH Corp",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Enters-into-Licensing-Agreement-with-NIKE-Inc-for-Mens-Underwear-Business.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2019-03-30",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Enters-into-Licensing-Agreement-with-NIKE-Inc-for-Mens-Underwear-Business",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2019-03-30/PVH-Corp-Enters-into-Licensing-Agreement-with-NIKE-Inc-for-Mens-Underwear-Business.jpeg/PVH-Corp-Enters-into-Licensing-Agreement-with-NIKE-Inc-for-Mens-Underwear-Business.jpeg",
-        "content_type": [
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. Announces Refinancing of Senior Credit Facilities NEW YORK --(BUSINESS WIRE)--Apr. 29, 2019-- Third paragraph, first sentence of release should read: \"The new credit facilities provide for an approximately $1.093 billion U.S. dollar-denominated Term Loan A facility, a €500 million Euro denominated Term Loan A facility and senior unsecured Apr 29, 2019",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Announces-Refinancing-of-Senior-Credit-Facilities.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2019-03-29",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Announces-Refinancing-of-Senior-Credit-Facilities",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2019-03-29/PVH-Corp-Announces-Refinancing-of-Senior-Credit-Facilities.jpeg/PVH-Corp-Announces-Refinancing-of-Senior-Credit-Facilities.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-=======
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2018",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -3425,49 +3340,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "PVH Corp. Sets Renewable Electricity Targets with RE100 Commitment - Company aims for 100 percent renewable electricity by 2030 and will set science-based target on carbon emissions - NEW YORK --(BUSINESS WIRE)--Sep. 19, 2018-- PVH Corp",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Sets-Renewable-Electricity-Targets-with-RE100-Commitment.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2018-09-19",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Sets-Renewable-Electricity-Targets-with-RE100-Commitment",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2018-09-19/PVH-Corp-Sets-Renewable-Electricity-Targets-with-RE100-Commitment.jpeg/PVH-Corp-Sets-Renewable-Electricity-Targets-with-RE100-Commitment.jpeg",
-        "content_type": [
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. Receives 2018 U.S. Secretary of State’s Award for Corporate Excellence - Recognized for Sustainable Operations in Hawassa",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Receives-2018-US-Secretary-of-States-Award-for-Corporate-Excellence.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2018-09-12",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Receives-2018-US-Secretary-of-States-Award-for-Corporate-Excellence",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2018-09-12/PVH-Corp-Receives-2018-US-Secretary-of-States-Award-for-Corporate-Excellence.jpeg/PVH-Corp-Receives-2018-US-Secretary-of-States-Award-for-Corporate-Excellence.jpeg",
-        "content_type": [
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "IZOD Enlists ‘Saturday Night Live’ Cast Member and Head Writer Colin Jost and Green Bay Packers MVP Quarterback Aaron Rodgers for New Marketing Cpaign Unconventional New Commercial Pokes Fun at Traditional Advertising NEW YORK --(BUSINESS WIRE)--Sep. 5, 2018-- PVH Corp. (NYSE: PVH) today announced its new marketing cpaign for IZOD, which stars “Saturday Night Live” cast member and head writer Colin Jost and Green Bay Packers MVP quarterback Sep 05, 2018",
-=======
-    "event_name": "IZOD Enlists \u2018Saturday Night Live\u2019 Cast Member and Head Writer Colin Jost and Green Bay Packers MVP Quarterback Aaron Rodgers for New Marketing Cpaign Unconventional New Commercial Pokes Fun at Traditional Advertising NEW YORK --(BUSINESS WIRE)--Sep. 5, 2018-- PVH Corp. (NYSE: PVH) today announced its new marketing cpaign for IZOD, which stars \u201cSaturday Night Live\u201d cast member and head writer Colin Jost and Green Bay Packers MVP quarterback Sep 05, 2018",
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -6190,29 +6063,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "Calvin Klein, Inc. Announces Executive Promotions in Global Marketing and Communications NEW YORK, NY, NOVEMBER 6, 2014 – Calvin Klein, Inc., a wholly owned subsidiary of PVH Corp",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Calvin-Klein-Inc-Announces-Executive-Promotions-in-Global-Marketing-and-Communications.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2014-11-06",
-        "source_url": "https://www.pvh.com/news/press-releases/Calvin-Klein-Inc-Announces-Executive-Promotions-in-Global-Marketing-and-Communications",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2014-11-06/Calvin-Klein-Inc-Announces-Executive-Promotions-in-Global-Marketing-and-Communications.jpeg/Calvin-Klein-Inc-Announces-Executive-Promotions-in-Global-Marketing-and-Communications.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-=======
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "Tommy Hilfiger and Fred Gehring Speak at Harvard Business School (Photo: Business Wire)",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -7368,31 +7218,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "Business NEW YORK --(BUSINESS WIRE)--Nov",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-and-GIII-Apparel-Group-Ltd-Complete-Sale-of-GH-Bass--Co-Business.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2013-11-04",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-and-GIII-Apparel-Group-Ltd-Complete-Sale-of-GH-Bass--Co-Business",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2013-11-04/PVH-Corp-and-GIII-Apparel-Group-Ltd-Complete-Sale-of-GH-Bass--Co-Business.jpeg/PVH-Corp-and-GIII-Apparel-Group-Ltd-Complete-Sale-of-GH-Bass--Co-Business.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Calvin Klein Platinum Label Presented Asian Launch with Men’s and Women's Spring 2014 Lines in Hong Kong NEW YORK , NY , OCTOBER 2 4 , 2013 – Calvin Klein, Inc. today announced that it celebrated the Asian launch of Calvin Klein platinum label with a special runway show featuring the men’s and women’s Spring 2014 lines this evening at Shaw Studios in Hong Kong",
-=======
-    "event_name": "Calvin Klein Platinum Label Presented Asian Launch with Men\u2019s and Women's Spring 2014 Lines in Hong Kong NEW YORK , NY , OCTOBER 2 4 , 2013 \u2013 Calvin Klein, Inc. today announced that it celebrated the Asian launch of Calvin Klein platinum label with a special runway show featuring the men\u2019s and women\u2019s Spring 2014 lines this evening at Shaw Studios in Hong Kong",
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -9316,53 +9142,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "Q1 2012",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-Reports-2012-First-Quarter-Results.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2012-05-24",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-Reports-2012-First-Quarter-Results",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-05-24/PVH-Corp-Reports-2012-First-Quarter-Results.jpeg/PVH-Corp-Reports-2012-First-Quarter-Results.jpeg",
-        "content_type": [
-          "financial-filing",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "PVH Corp. to Participate in Citi 2012 Global Consumer Conference May 24, 2012 NEW YORK --(BUSINESS WIRE)--May. 10, 2012-- PVH Corp. (NYSE: PVH) announced today that Company management will participate in the Citi 2012 Global Consumer Conference on Thursday, May 24, 2012 beginning at Eastern Time",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PVH-Corp-to-Participate-in-Citi-2012-Global-Consumer-Conference-May-24-2012.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2012-05-10",
-        "source_url": "https://www.pvh.com/news/press-releases/PVH-Corp-to-Participate-in-Citi-2012-Global-Consumer-Conference-May-24-2012",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2012-05-10/PVH-Corp-to-Participate-in-Citi-2012-Global-Consumer-Conference-May-24-2012.jpeg/PVH-Corp-to-Participate-in-Citi-2012-Global-Consumer-Conference-May-24-2012.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release",
-          "presentation",
-          "webcast"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Tommy Hilfiger Announces Britt Robertson as Global bassador for Tommy Girl Britt will kick off her new position as global brand bassador for „Tommy Girl‟ on May 9 as co-host for Nylon Magazine‟s Young Hollywood Issue party presented by „Tommy Girl‟. NEW YORK, NEW YORK (May 9, 2012)",
-=======
-    "event_name": "Tommy Hilfiger Announces Britt Robertson as Global bassador for Tommy Girl Britt will kick off her new position as global brand bassador for \u201eTommy Girl\u201f on May 9 as co-host for Nylon Magazine\u201fs Young Hollywood Issue party presented by \u201eTommy Girl\u201f. NEW YORK, NEW YORK (May 9, 2012)",
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",
@@ -12097,29 +11877,6 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "Phillips-Van Heusen Corporation Receives the Requisite Consents Pursuant to Its Tender Offer and Consent Solicitation for Its Outstanding 7¼% Senior Notes Due 2011 and Its 8⅛% Senior Notes Due 2013 NEW YORK, Apr 20, 2010 (BUSINESS WIRE) --Phillips-Van Heusen Corporation (NYSE: PVH) announced today that it has received the requisite tenders and consents from holders of both its 7¼% Senior Notes due 2011 and 8⅛% Senior Notes due 2013 to end the indentures governing each series of notes",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PhillipsVan-Heusen-Corporation--Receives-the-Requisite-Consents-Pursuant-to-Its-Tender-Offer-and-Con.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-03-20",
-        "source_url": "https://www.pvh.com/news/press-releases/PhillipsVan-Heusen-Corporation--Receives-the-Requisite-Consents-Pursuant-to-Its-Tender-Offer-and-Con",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-03-20/PhillipsVan-Heusen-Corporation--Receives-the-Requisite-Consents-Pursuant-to-Its-Tender-Offer-and-Con.jpeg/PhillipsVan-Heusen-Corporation--Receives-the-Requisite-Consents-Pursuant-to-Its-Tender-Offer-and-Con.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-=======
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "event_name": "FY 2010",
     "equity_ticker": "PVH",
     "geography": "US",
@@ -12500,129 +12257,7 @@
     ]
   },
   {
-<<<<<<< HEAD
-    "event_name": "Phillips-Van Heusen Corporation to Appear at the Bank of erica Merrill Lynch 2010 Consumer Conference on March 11, 2010 NEW YORK, Mar 10, 2010 (BUSINESS WIRE)",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "PhillipsVan-Heusen-Corporation-to-Appear-at-the-Bank-of-America---Merrill-Lynch-2010-Consumer-Confer.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-03-10",
-        "source_url": "https://www.pvh.com/news/press-releases/PhillipsVan-Heusen-Corporation-to-Appear-at-the-Bank-of-America---Merrill-Lynch-2010-Consumer-Confer",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-03-10/PhillipsVan-Heusen-Corporation-to-Appear-at-the-Bank-of-America---Merrill-Lynch-2010-Consumer-Confer.jpeg/PhillipsVan-Heusen-Corporation-to-Appear-at-the-Bank-of-America---Merrill-Lynch-2010-Consumer-Confer.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Men’s and Women’s Collection Preppy with a Pop The Fall 2010 collection retrofits Tommy Hilfiger’s preppy heritage from 1985 for a dynic new decade",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Tommy-Hilfiger-Fall-2010-Mens-and-Womens-Collection.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-03-01",
-        "source_url": "https://www.pvh.com/news/press-releases/Tommy-Hilfiger-Fall-2010-Mens-and-Womens-Collection",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-03-01/Tommy-Hilfiger-Fall-2010-Mens-and-Womens-Collection.jpeg/Tommy-Hilfiger-Fall-2010-Mens-and-Womens-Collection.jpeg",
-        "content_type": [
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Tommy Hilfiger Europe Announces Three Exclusive Events with Milla Jovovich in Milan, sterd and Madrid STERD, THE NETHERLANDS (March, 2010) – Tommy Hilfiger Europe is pleased to announce three exclusive events with international supermodel and actress Milla Jovovich",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Tommy-Hilfiger-Europe-Announces-Three-Exclusive-Events-with-Milla-Jovovich-in-Milan-Amsterdam-and-Ma.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-01-31",
-        "source_url": "https://www.pvh.com/news/press-releases/Tommy-Hilfiger-Europe-Announces-Three-Exclusive-Events-with-Milla-Jovovich-in-Milan-Amsterdam-and-Ma",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-01-31/Tommy-Hilfiger-Europe-Announces-Three-Exclusive-Events-with-Milla-Jovovich-in-Milan-Amsterdam-and-Ma.jpeg/Tommy-Hilfiger-Europe-Announces-Three-Exclusive-Events-with-Milla-Jovovich-in-Milan-Amsterdam-and-Ma.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "FY 2009",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "periodic",
-    "data": [
-      {
-        "file_name": "PhillipsVan-Heusen-Raises-Guidance-for-Fourth-Quarter-and-Full-Year---2009-Provides-Initial-Guidance.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-02-17",
-        "source_url": "https://www.pvh.com/news/press-releases/PhillipsVan-Heusen-Raises-Guidance-for-Fourth-Quarter-and-Full-Year---2009-Provides-Initial-Guidance",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-02-17/PhillipsVan-Heusen-Raises-Guidance-for-Fourth-Quarter-and-Full-Year---2009-Provides-Initial-Guidance.jpeg/PhillipsVan-Heusen-Raises-Guidance-for-Fourth-Quarter-and-Full-Year---2009-Provides-Initial-Guidance.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Cris Carter, Charles Haley, Ed \"Too Tall\" Jones, Jerry Rice and Emmitt Smith are Ned to the Inaugural Fan's Choice Hall of Fe Class of 2010 Fans Voice their Choice and Submit Nearly 1.5 Million Votes FORT LAUDERDALE, Fla., Feb 06, 2010 (BUSINESS WIRE)",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Cris-Carter-Charles-Haley-Ed-Too-Tall-Jones-Jerry-Rice-and---Emmitt-Smith-are-Named-to-the-Inaugural.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-02-06",
-        "source_url": "https://www.pvh.com/news/press-releases/Cris-Carter-Charles-Haley-Ed-Too-Tall-Jones-Jerry-Rice-and---Emmitt-Smith-are-Named-to-the-Inaugural",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-02-06/Cris-Carter-Charles-Haley-Ed-Too-Tall-Jones-Jerry-Rice-and---Emmitt-Smith-are-Named-to-the-Inaugural.jpeg/Cris-Carter-Charles-Haley-Ed-Too-Tall-Jones-Jerry-Rice-and---Emmitt-Smith-are-Named-to-the-Inaugural.jpeg",
-        "content_type": [
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
-    "event_name": "Tommy Hilfiger Announces its Spring/Summer 2010",
-    "equity_ticker": "PVH",
-    "geography": "US",
-    "periodicity": "non-periodic",
-    "data": [
-      {
-        "file_name": "Tommy-Hilfiger-Announces-its-SpringSummer-2010-Global-Sportswear-Advertising-Campaign.jpeg",
-        "file_type": "jpeg",
-        "published_date": "2010-02-05",
-        "source_url": "https://www.pvh.com/news/press-releases/Tommy-Hilfiger-Announces-its-SpringSummer-2010-Global-Sportswear-Advertising-Campaign",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PVH/2010-02-05/Tommy-Hilfiger-Announces-its-SpringSummer-2010-Global-Sportswear-Advertising-Campaign.jpeg/Tommy-Hilfiger-Announces-its-SpringSummer-2010-Global-Sportswear-Advertising-Campaign.jpeg",
-        "content_type": [
-          "announcement",
-          "press-release"
-        ],
-        "record_type": "screenshot"
-      }
-    ]
-  },
-  {
     "event_name": "Tommy Hilfiger Announces the Opening of its Second Larg European Store in Frankfurt STERD, THE NETHERLANDS (February, 2010) – Tommy Hilfiger Europe is pleased to announce the opening of its second larg Tommy Hilfiger store in Europe in Frankfurt, Germany",
-=======
-    "event_name": "Tommy Hilfiger Announces the Opening of its Second Larg European Store in Frankfurt STERD, THE NETHERLANDS (February, 2010) \u2013 Tommy Hilfiger Europe is pleased to announce the opening of its second larg Tommy Hilfiger store in Europe in Frankfurt, Germany",
->>>>>>> 37cd3456b037125271de48a1edbb2d1205970878
     "equity_ticker": "PVH",
     "geography": "US",
     "periodicity": "non-periodic",

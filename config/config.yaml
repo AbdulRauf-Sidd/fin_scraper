@@ -1896,7 +1896,6 @@ BAS_publications:       #Complete
     timeout: null
 
 BAS_news:           # Rauf will check it !!!!
-BAS_news:                         
   ticker: BAS
   scraper: null
   url: https://www.basf.com/global/en/media/news-releases

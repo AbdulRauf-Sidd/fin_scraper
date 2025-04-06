@@ -62,35 +62,11 @@
           "seminars"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "policy.html",
-        "file_type": "html",
-        "published_date": "2022-05-06",
-        "source_url": "https://www.investis-live.com/policy.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RKT/2022-05-06/policy.html/policy.html",
-        "content_type": [
-          "seminars",
-          "webcast"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "help.html",
-        "file_type": "html",
-        "published_date": "2022-05-06",
-        "source_url": "https://www.investis-live.com/help.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RKT/2022-05-06/help.html/help.html",
-        "content_type": [
-          "seminars",
-          "webcast"
-        ],
-        "record_type": "download"
       }
     ]
   },
   {
-    "event_name": "23 Sept 2021 Launch of Invor Seminar Series and trading update Reckitt will today host the first of a series of \u2018bite size\u2019 Invor Seminars",
+    "event_name": "23 Sept 2021 Launch of Invor Seminar Series and trading update Reckitt will today host the first of a series of ‘bite size’ Invor Seminars",
     "equity_ticker": "RKT",
     "geography": "European",
     "periodicity": "non-periodic",

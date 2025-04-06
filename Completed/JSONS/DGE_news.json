@@ -88,30 +88,6 @@
           "financial-filing"
         ],
         "record_type": "download"
-      },
-      {
-        "file_name": "www.diageo.com_en-gb_final_accessibility.html",
-        "file_type": "html",
-        "published_date": "2025-04",
-        "source_url": "https://footer.diageohorizon.com/dfs/assets/www.diageo.com/www.diageo.com_en-gb_final_accessibility.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2025-04/www.diageo.com_en-gb_final_accessibility.html/www.diageo.com_en-gb_final_accessibility.html",
-        "content_type": [
-          "news",
-          "financial-filing"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "PrivacyPolicy_en.html",
-        "file_type": "html",
-        "published_date": "2025-04",
-        "source_url": "https://footer.diageohorizon.com/dfs/assets/policies.diageohorizon.com/PrivacyPolicy_en.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2025-04/PrivacyPolicy_en.html/PrivacyPolicy_en.html",
-        "content_type": [
-          "news",
-          "financial-filing"
-        ],
-        "record_type": "download"
       }
     ]
   },
@@ -319,7 +295,7 @@
     ]
   },
   {
-    "event_name": "25 Jun 2024 Eleanor Morgan included in Management Today\u2019s 35 Under 35 List for 2024",
+    "event_name": "25 Jun 2024 Eleanor Morgan included in Management Today’s 35 Under 35 List for 2024",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -372,22 +348,11 @@
           "news"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "MediaLink-Beach-2024.html",
-        "file_type": "javascript",
-        "published_date": "2024",
-        "source_url": "https://pages.medialink.com/MediaLink-Beach-2024.html",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2024/MediaLink-Beach-2024.html/MediaLink-Beach-2024.html",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
       }
     ]
   },
   {
-    "event_name": "Presenting the future of celebration at the inaugural \u2018Demo Day\u2019",
+    "event_name": "Presenting the future of celebration at the inaugural ‘Demo Day’",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -406,7 +371,7 @@
     ]
   },
   {
-    "event_name": "01 May 2024 The Distilled Series: 3 \u2013 Expanding Reality and our Breakthrough \u2018Hunting Grounds\u2019",
+    "event_name": "01 May 2024 The Distilled Series: 3 – Expanding Reality and our Breakthrough ‘Hunting Grounds’",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -457,7 +422,7 @@
     ]
   },
   {
-    "event_name": "19 Mar 2024 Port Ellen Reborn \u2013 the reopening of Islay\u2019s legendary \u201cghost\u201d distillery",
+    "event_name": "19 Mar 2024 Port Ellen Reborn – the reopening of Islay’s legendary “ghost” distillery",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -525,7 +490,7 @@
     ]
   },
   {
-    "event_name": "16 Feb 2024 International Day of Women and Girls in Science \u2013 the te behind Spicy Tarind",
+    "event_name": "16 Feb 2024 International Day of Women and Girls in Science – the te behind Spicy Tarind",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -544,7 +509,7 @@
     ]
   },
   {
-    "event_name": "06 Feb 2024 Diageo contributes \u20ac13 billion to Europe\u2019s economy every year, driving growth across the spirits\u2019 sector",
+    "event_name": "06 Feb 2024 Diageo contributes €13 billion to Europe’s economy every year, driving growth across the spirits’ sector",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -793,22 +758,11 @@
           "news"
         ],
         "record_type": "screenshot"
-      },
-      {
-        "file_name": "dq230529b-eng.htm",
-        "file_type": "html",
-        "published_date": "2023-04",
-        "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230529/dq230529b-eng.htm",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DGE/2023-04/dq230529b-eng.htm/dq230529b-eng.htm.html",
-        "content_type": [
-          "news"
-        ],
-        "record_type": "download"
       }
     ]
   },
   {
-    "event_name": "26 Sep 2023 Diageo\u2019s legal te recognised at the Financial Times Innovative Lawyers Awards",
+    "event_name": "26 Sep 2023 Diageo’s legal te recognised at the Financial Times Innovative Lawyers Awards",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -896,7 +850,7 @@
     ]
   },
   {
-    "event_name": "Creating the world\u2019s first zero-carbon glass bottles",
+    "event_name": "Creating the world’s first zero-carbon glass bottles",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -954,7 +908,7 @@
     ]
   },
   {
-    "event_name": "23 Jun 2023 Simone Sargeant recognised in Management Today\u2019s 35 Under 35 List for 2023",
+    "event_name": "23 Jun 2023 Simone Sargeant recognised in Management Today’s 35 Under 35 List for 2023",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1060,7 +1014,7 @@
     ]
   },
   {
-    "event_name": "03 Apr 2023 Diageo celebrates International Women\u2019s Day around the world",
+    "event_name": "03 Apr 2023 Diageo celebrates International Women’s Day around the world",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1079,7 +1033,7 @@
     ]
   },
   {
-    "event_name": "13 Mar 2023 Diageo and Sa\u00efd Business School at the University of Oxford partner on bespoke Sustainability Leadership Progrme",
+    "event_name": "13 Mar 2023 Diageo and Saïd Business School at the University of Oxford partner on bespoke Sustainability Leadership Progrme",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1098,7 +1052,7 @@
     ]
   },
   {
-    "event_name": "13 Mar 2023 Watch our International Women\u2019s Day 2023 Launch Panel",
+    "event_name": "13 Mar 2023 Watch our International Women’s Day 2023 Launch Panel",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1118,7 +1072,7 @@
     ]
   },
   {
-    "event_name": "08 Mar 2023 International Women\u2019s Day: What does equity mean to us?",
+    "event_name": "08 Mar 2023 International Women’s Day: What does equity mean to us?",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1137,7 +1091,7 @@
     ]
   },
   {
-    "event_name": "02 Mar 2023 Diageo ranks number two globally in Equileap\u2019s 2023 Gender Equality Global Report",
+    "event_name": "02 Mar 2023 Diageo ranks number two globally in Equileap’s 2023 Gender Equality Global Report",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1195,7 +1149,7 @@
     ]
   },
   {
-    "event_name": "10 Feb 2023 International Day of Women and Girls in Science \u2013 Experiences from our colleagues",
+    "event_name": "10 Feb 2023 International Day of Women and Girls in Science – Experiences from our colleagues",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1278,7 +1232,7 @@
     ]
   },
   {
-    "event_name": "12 Dec 2022 Diageo North erica\u2019s journey to help shape a more sustainable future",
+    "event_name": "12 Dec 2022 Diageo North erica’s journey to help shape a more sustainable future",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1316,7 +1270,7 @@
     ]
   },
   {
-    "event_name": "02 Dec 2022 Meet the te behind Guinness\u2019 lat advert in Africa",
+    "event_name": "02 Dec 2022 Meet the te behind Guinness’ lat advert in Africa",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1354,7 +1308,7 @@
     ]
   },
   {
-    "event_name": "20 Oct 2022 Guinness presents Niall Horan\u2019s Homecoming",
+    "event_name": "20 Oct 2022 Guinness presents Niall Horan’s Homecoming",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1491,7 +1445,7 @@
     ]
   },
   {
-    "event_name": "14 Jul 2022 Jillian Fisher recognised in Management Today\u2019s 35 Under 35 list for 2022",
+    "event_name": "14 Jul 2022 Jillian Fisher recognised in Management Today’s 35 Under 35 list for 2022",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1510,7 +1464,7 @@
     ]
   },
   {
-    "event_name": "30 Jun 2022 Diageo acquires Vivanda, owner of flavour matching technology behind \u2018What\u2019s Your Whisky\u2019",
+    "event_name": "30 Jun 2022 Diageo acquires Vivanda, owner of flavour matching technology behind ‘What’s Your Whisky’",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1643,7 +1597,7 @@
     ]
   },
   {
-    "event_name": "08 Mar 2022 Watch our International Women\u2019s Day 2022 LinkedIn Live recording",
+    "event_name": "08 Mar 2022 Watch our International Women’s Day 2022 LinkedIn Live recording",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1662,7 +1616,7 @@
     ]
   },
   {
-    "event_name": "08 Mar 2022 Hear from our Chief HR Officer on International Women\u2019s Day",
+    "event_name": "08 Mar 2022 Hear from our Chief HR Officer on International Women’s Day",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1681,7 +1635,7 @@
     ]
   },
   {
-    "event_name": "03 Mar 2022 Diageo recognised in Equileap\u2019s 2022 Gender Equality Global Report",
+    "event_name": "03 Mar 2022 Diageo recognised in Equileap’s 2022 Gender Equality Global Report",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1720,7 +1674,7 @@
     ]
   },
   {
-    "event_name": "09 Feb 2022 Talisker Whisky Atlantic Challenge: Winners cross line and Diageo\u2019s Charlotte Harris breaks World Record",
+    "event_name": "09 Feb 2022 Talisker Whisky Atlantic Challenge: Winners cross line and Diageo’s Charlotte Harris breaks World Record",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -1955,7 +1909,7 @@
     ]
   },
   {
-    "event_name": "18 Oct 2021 Diageo\u2019s Global Talent Director on how we can all play a role in supporting those going through menopause",
+    "event_name": "18 Oct 2021 Diageo’s Global Talent Director on how we can all play a role in supporting those going through menopause",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2012,7 +1966,7 @@
     ]
   },
   {
-    "event_name": "30 Sep 2021 Diageo unveils 2021 Scotch Whisky Special Releases Collection \u201cLegends Untold\u201d",
+    "event_name": "30 Sep 2021 Diageo unveils 2021 Scotch Whisky Special Releases Collection “Legends Untold”",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2357,7 +2311,7 @@
     ]
   },
   {
-    "event_name": "08 Mar 2021 International Women\u2019s Day 2021",
+    "event_name": "08 Mar 2021 International Women’s Day 2021",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2376,7 +2330,7 @@
     ]
   },
   {
-    "event_name": "04 Mar 2021 Diageo ranked number six in Equileap\u2019s 2021 Gender Equality Global Report and Ranking",
+    "event_name": "04 Mar 2021 Diageo ranked number six in Equileap’s 2021 Gender Equality Global Report and Ranking",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
@@ -2892,7 +2846,7 @@
     ]
   },
   {
-    "event_name": "03 Mar 2020 Celebrating International Women\u2019s Day 2020: #EachforEqual",
+    "event_name": "03 Mar 2020 Celebrating International Women’s Day 2020: #EachforEqual",
     "equity_ticker": "DGE",
     "geography": "European",
     "periodicity": "non-periodic",
