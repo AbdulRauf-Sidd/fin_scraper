@@ -863,8 +863,8 @@ RMS_meeting:   #load_more and tabs
   selectors:
     event_block: ul.py-8.bg-beige3.font-manrope li
   pagination:
-    type: load_more
-    next_button: button.flex.cursor-pointer
+    type: year_tabs
+    next_button: button.cursor-pointer
     archive: null
     timeout: null
 

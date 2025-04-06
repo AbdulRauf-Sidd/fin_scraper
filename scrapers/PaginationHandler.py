@@ -2,7 +2,7 @@ import asyncio
 from urllib.parse import urljoin
 
 class PaginationHandler:
-    async def click_load_more(self, page, selector, event_selector):
+    async def click_load_more(self, page, selector):
         """Clicks 'Load More' until it disappears."""
         while True:
             try:
@@ -55,8 +55,33 @@ class PaginationHandler:
         except Exception:
             pass
         return False
+    
+    async def click_more(self, page):
+        """Scrolls to and clicks elements containing 'load more', 'load', or 'more' in their text."""
+        try:
+            # Search for all clickable elements
+            buttons = await page.query_selector_all('button, a, div')  # Searching common clickable elements
+            for button in buttons:
+                # text_content = await button.inner_text() 
+                text_content = await button.evaluate('node => node.innerText') # Get the full text content as a single string
+                print('abc', text_content)
+                # Check if any of the keywords are found in the text (case insensitive)
+                if text_content and any(keyword in text_content.lower() for keyword in ['load more', 'load', 'more']):
+                    print(f"🔘 Found button with text: {text_content}")
+                    if await button.is_visible():
+                        # Scroll the element into view if it's not already visible
+                        await button.scroll_into_view_if_needed()
+                        # Click the button
+                        await button.click()
+                        await asyncio.sleep(2)
+                        return True
+        except Exception as e:
+            print(f"Error: {e}")
 
-    async def switch_all_tabs(self, page, tab_selector, extract_function, timeout=None, archive_class=None):
+        return False
+
+
+    async def switch_all_tabs(self, page, tab_selector, extract_function, timeout=None, archive_class=None, selector=None):
         """Switches through all tabs without scraping, handling potential blockers."""
         all_events = []
         # Handle consent banner if present
@@ -68,6 +93,9 @@ class PaginationHandler:
                 await page.wait_for_timeout(1000)  # Small delay to ensure it disappears
         except Exception as e:
             print(f"⚠️ Consent banner not found or error: {e}")
+
+        # await self.click_more(page)
+
 
         if archive_class:
             try:
@@ -85,6 +113,7 @@ class PaginationHandler:
 
         for i in range(num_tabs):
             # Re-query the tabs and select the i-th tab each time
+            # await self.click_more(page)
             if archive_class:
                 try:
                     archive_tab = await page.query_selector(archive_class) # Modify selector as needed
@@ -116,7 +145,7 @@ class PaginationHandler:
                     await asyncio.sleep(timeout)  # Wait for the DOM to update
 
                 # Wait for new content to load (adjust selector)
-                await page.wait_for_selector("div.t-table", timeout=5000)
+                await page.wait_for_selector(selector, timeout=5000)
 
                 event = await extract_function(page)
                 all_events.extend(event)
