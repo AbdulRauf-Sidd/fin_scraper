@@ -1,0 +1,106 @@
+[
+  {
+    "event_name": "Business & Financial News | March 25, 2025 BASF sells share in Nordlicht wind farms back to Vattenfall and secures access to long-term supply of renewable electricity To align the company\u2019s green power supply and demand, BASF is strelining its current portfolio of renewable power projects",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-063",
+        "file_type": "html",
+        "published_date": "2025-03-25",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/03/p-25-063",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-03-25/p-25-063/p-25-063.html",
+        "content_type": [
+          "esg",
+          "publications",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2025",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "p-25-045",
+        "file_type": "html",
+        "published_date": "2025-03-21",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/03/p-25-045",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-03-21/p-25-045/p-25-045.html",
+        "content_type": [
+          "annual-report",
+          "esg",
+          "publications",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Business Financial News February 28 2025 BASF",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "p-25-026",
+        "file_type": "html",
+        "published_date": "2025-02-28",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/02/p-25-026",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-02-28/p-25-026/p-25-026.html",
+        "content_type": [
+          "esg",
+          "publications",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Business Financial News February 20 2025 Adva",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "p-25-025",
+        "file_type": "html",
+        "published_date": "2025-02-20",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/02/p-25-025",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-02-20/p-25-025/p-25-025.html",
+        "content_type": [
+          "publications",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Business & Financial News | February 17, 2025 BASF to sell Brazilian decorative paints business to Sherwin-Willis BASF and Sherwin-Willis have signed an agreement on the sale of the Brazilian decorative paints business, which is part of BASF\u2019s Coatings division",
+    "equity_ticker": "BAS",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "p-25-029",
+        "file_type": "html",
+        "published_date": "2025-02-17",
+        "source_url": "https://www.basf.com/global/en/media/news-releases/2025/02/p-25-029",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BAS/2025-02-17/p-25-029/p-25-029.html",
+        "content_type": [
+          "publications",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
