@@ -155,7 +155,7 @@ CRDA_esg:     #COMPLETED
   output_json: JSONS/CRDA_esg.json
   base_address: https://www.croda.com/en-gb/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: esg
   headless: false
   direct: true
@@ -177,7 +177,7 @@ CRDA_presentations:
   base_address: https://www.croda.com/en-gb/
   periodic: null
   headless: false
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   direct: true
   selectors:
@@ -197,7 +197,7 @@ CRDA_news:     #COMPLETED
   output_json: JSONS/CRDA_news.json
   base_address: https://www.croda.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: true
   direct: false
@@ -280,7 +280,7 @@ DSFIR_news:
   output_json: JSONS/DSFIR_news.json
   base_address: https://investors.dsm-firmenich.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   link_archive: 'links/DSFIR.txt'
   forced_type: "news"
   headless: false
@@ -361,7 +361,7 @@ DSFIR_firmenich_archive3:
 #   output_json: JSONS/DSFIR_press.json
 #   base_address: https://investors.dsm-firmenich.com/
 #   periodic: null
-#   geography: "European"
+#   geography: "european"
 #   forced_type: "press-release"
 #   headless: false
 #   direct: true
@@ -383,7 +383,7 @@ GIVN_news:
   output_json: JSONS/GIVN_news.json
   base_address: https://www.givaudan.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   link_archive: 'links/GIVN.txt'
   forced_type: "news"
   headless: false
@@ -404,7 +404,7 @@ GIVN_media_releases:
   output_json: JSONS/GIVN_media_releases.json
   base_address: https://www.givaudan.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "press-release"
   link_archive: 'links/GIVN.txt'
   headless: false
@@ -715,7 +715,7 @@ SY1_news:
   base_address: https://www.symrise.com/
   link_archive: 'links/SY1.txt'
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: false
   direct: false
@@ -736,7 +736,7 @@ SY1_financial:
   base_address: https://www.symrise.com/
   link_archive: 'links/SY1.txt'
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: null
   headless: false
   direct: false
@@ -841,7 +841,7 @@ KER_press: #COMPLETED
   base_address: https://www.kering.com/
   periodic: false
   link_archive: links/KER.txt
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: false
   direct: false
@@ -862,7 +862,7 @@ KER_finance:   #scroll issue.
   base_address: https://www.kering.com/
   periodic: null
   link_archive: links/KER.txt
-  geography: "European"
+  geography: "european"
   forced_type: "finance"
   headless: false
   direct: true
@@ -884,7 +884,7 @@ KER_annual_general_meeting:  #scroll issue
   base_address: https://www.kering.com/
   periodic: null
   link_archive: links/KER.txt
-  geography: "European"
+  geography: "european"
   forced_type: "annual-general-meeting"
   headless: false
   direct: true
@@ -916,7 +916,7 @@ RMS_meeting:   #load_more and tabs
   output_json: JSONS/RMS_meeting.json
   base_address: https://finance.hermes.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "meeting"
   headless: false
   direct: true
@@ -937,7 +937,7 @@ RMS_publications:
   output_json: JSONS/RMS_publications.json
   base_address: https://finance.hermes.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: null
   headless: false
   direct: false
@@ -959,7 +959,7 @@ RMS_policies-publications:
   output_json: JSONS/RMS_policies-publications.json
   base_address: https://finance.hermes.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "policies"
   headless: false
   direct: false
@@ -981,7 +981,7 @@ MOWI_reports:
   output_json: JSONS/MOWI_reports.json
   base_address: https://www.mowi.com/
   periodic: True
-  geography: "European"
+  geography: "european"
   forced_type: "reports"
   headless: false
   direct: false
@@ -1002,7 +1002,7 @@ MOWI_presentations:
   output_json: JSONS/MOWI_presentations.json
   base_address: https://www.mowi.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   headless: false
   direct: false
@@ -1023,7 +1023,7 @@ MOWI_capital-markets-day:
   output_json: JSONS/MOWI_capital-markets-day.json
   base_address: https://www.mowi.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "capital-markets-day"
   headless: false
   direct: false
@@ -1044,7 +1044,7 @@ SAP_reports:      # Configs finalized
   output_json: JSONS/SAP_reports.json
   base_address: https://www.sap.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "reports"
   link_archive: links/SAP.txt
   headless: false
@@ -1065,7 +1065,7 @@ SAP_presentations:
   output_json: JSONS/SAP_presentations.json
   base_address: https://www.sap.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   headless: false
   link_archive: links/SAP.txt
@@ -1086,7 +1086,7 @@ SAP_events:
   output_json: JSONS/SAP_events.json
   base_address: https://www.sap.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: null
   link_archive: links/SAP.txt
   headless: true
@@ -1107,7 +1107,7 @@ SAP_news:
   output_json: JSONS/SAP_news.json
   base_address: https://www.sap.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: false
   direct: true
@@ -1129,7 +1129,7 @@ WISE_reports:
   output_json: JSONS/WISE_reports.json
   base_address: https://wise.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "investors"
   headless: false
   direct: false
@@ -1150,7 +1150,7 @@ WISE_news:
   output_json: JSONS/WISE_news.json
   base_address: https://newsroom.wise.com/en-UKI/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: false
   direct: false
@@ -1172,7 +1172,7 @@ WISE_presentations:
   output_json: JSONS/WISE_presentations.json
   base_address: https://wise.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   headless: false
   direct: false
@@ -1193,7 +1193,7 @@ WISE_press:
   output_json: JSONS/WISE_press.json
   base_address: https://wise.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "press"
   headless: false
   direct: false
@@ -1213,7 +1213,7 @@ DGE_news:     # working
   output_json: JSONS/DGE_news.json
   base_address: https://www.diageo.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   link_archive: 'links/DGE.txt'
   forced_type: "news"
   link_archive: 'links/DGE.txt'
@@ -1235,7 +1235,7 @@ DGE_results:    # working
   output_json: JSONS/DGE_results.json
   base_address: https://www.diageo.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: null
   link_archive: 'links/DGE.txt'
   headless: false
@@ -1257,7 +1257,7 @@ DGE_events:     # working
   output_json: JSONS/DGE_events.json
   base_address: https://www.diageo.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: null
   link_archive: 'links/DGE.txt'
   headless: false
@@ -1279,7 +1279,7 @@ DGE_reports:      # working
   output_json: JSONS/DGE_reports.json
   base_address: https://www.diageo.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "reports"
   link_archive: 'links/DGE.txt'
   headless: false
@@ -1300,7 +1300,7 @@ DGE_press_releases:       # review
   output_json: JSONS/DGE_press-releases.json
   base_address: https://www.diageo.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "press-release"
   link_archive: 'links/DGE.txt'
   headless: false
@@ -1323,7 +1323,7 @@ CPRI_results:
   output_json: JSONS/CPRI_results.json
   base_address: https://www.camparigroup.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "results"
   headless: false
   direct: true
@@ -1344,7 +1344,7 @@ CPRI_press-releases:
   output_json: JSONS/CPRI_press-releases.json
   base_address: https://www.camparigroup.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "press-releases"
   headless: false
   direct: true
@@ -1365,7 +1365,7 @@ CPRI_presentations:
   output_json: JSONS/CPRI_presentations.json
   base_address: https://www.camparigroup.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   headless: false
   direct: true
@@ -1386,7 +1386,7 @@ CPRI_reports:
   output_json: JSONS/CPRI_reports.json  
   base_address: https://www.camparigroup.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "financial reports"
   headless: false
   direct: true
@@ -1407,7 +1407,7 @@ CPRI_acquisitions:
   output_json: JSONS/CPRI_acquisitions.json
   base_address: https://www.camparigroup.com/en/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "acquisitions"
   headless: false
   direct: true
@@ -1427,7 +1427,7 @@ HEIO_media-releases:
   output_json: JSONS/HEIO_media-releases.json
   base_address: https://www.heineken.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "media-releases"
   link_archive: links/HEIO.txt
   headless: false
@@ -1448,7 +1448,7 @@ HEIO_reports:
   output_json: JSONS/HEIO_reports.json
   base_address: https://www.heineken.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "reports"
   link_archive: links/HEIO.txt
   headless: false
@@ -1470,7 +1470,7 @@ RKT_presentations:  #working
   base_address: https://www.reckitt.com/
   periodic: true
   link_archive: links/RKT.txt
-  geography: "European"
+  geography: "european"
   forced_type: "presentations"
   link_archive: links/HEIO.txt
   direct: true
@@ -1491,7 +1491,7 @@ RKT_investor_seminars:  #working
   output_json: JSONS/RKT_investor_seminars.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "seminars"
   link_archive: links/RKT.txt
   headless: false
@@ -1512,7 +1512,7 @@ RKT_news:             #Iframe, And other big problems
   output_json: JSONS/RKT_news.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   link_archive: links/RKT.txt
   headless: false
@@ -1533,7 +1533,7 @@ RKT_agm:            # working
   output_json: JSONS/RKT_agm.json
   base_address: https://www.reckitt.com/
   periodic: false
-  geography: "European"
+  geography: "european"
   forced_type: "Annual General Meetings"
   link_archive: links/RKT.txt
   headless: false
@@ -1556,7 +1556,7 @@ VOW3_press:
   base_address: https://www.volkswagen-group.com/
   periodic: null
   link_archive: links/VOW3.txt
-  geography: "European"
+  geography: "european"
   forced_type: "press-release"
   headless: false
   direct: true
@@ -1576,7 +1576,7 @@ VOW3_financial:    # Period
   output_json: JSONS/VOW3_financial.json
   base_address: https://www.volkswagen-group.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "financial"
   link_archive: links/VOW3.txt
   headless: false
@@ -1597,7 +1597,7 @@ VOW3_annual-general-meeting:
   output_json: JSONS/VOW3_annual-general-meeting.json
   base_address: https://www.volkswagen-group.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "annual-general-meeting"
   link_archive: links/VOW3.txt
   headless: false
@@ -1620,7 +1620,7 @@ OR_news:           #Complete
   base_address: https://www.loreal-finance.com/
   periodic: null
   link_archive: links/OR.txt
-  geography: "European"
+  geography: "european"
   headless: true
   forced_type: "news"
   direct: false
@@ -1640,7 +1640,7 @@ OR_half:          #Complete
   output_json: JSONS/OR_half.json
   base_address: https://www.loreal-finance.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   link_archive: links/OR.txt
   forced_type: "half-year-results"
   headless: false
@@ -1662,7 +1662,7 @@ OR_annual:       #Complete
   base_address: https://www.loreal-finance.com/
   periodic: null
   link_archive: links/OR.txt
-  geography: "European"
+  geography: "european"
   forced_type: "annual-results-archives"
   headless: false
   direct: true
@@ -1683,7 +1683,7 @@ NOVO-B_finance:     #LLM  # Remaining ( Hassan Expand function remaining )
   output_json: JSONS/NOVO-B_financial.json
   base_address: https://www.novonordisk.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "financial"
   headless: false
   direct: false
@@ -1703,7 +1703,7 @@ NOVO-B_reporting:   # testing done ( working )
   output_json: JSONS/NOVO-B_reporting.json
   base_address: https://www.novonordisk.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "reporting"
   link_archive: "links/NOVO.txt"
   direct: true
@@ -1725,7 +1725,7 @@ NOVO-B_news:        # testing done ( working )
   output_json: JSONS/NOVO-B_news.json
   base_address: https://www.novonordisk.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   link_archive: "links/NOVO.txt"
   direct: false
@@ -1750,7 +1750,7 @@ SIE_press:
   output_json: JSONS/SIE_press.json
   base_address: https://press.siemens.com/global/en/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "press"
   headless: false
   direct: false
@@ -1771,7 +1771,7 @@ SIE_financial:
   output_json: JSONS/SIE_financial.json
   base_address: https://www.siemens.com/global/en/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "financial"
   headless: false
   direct: true
@@ -1792,7 +1792,7 @@ SIE_financial-results-archive:
   output_json: JSONS/SIE_financial-results-archive.json
   base_address: https://www.siemens.com/global/en/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "financial-results-archive"
   headless: false
   direct: true
@@ -1834,13 +1834,13 @@ HWDN_sustainability:
   output_json: JSONS/HWDN_sustainability.json
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "esg"
-  link_archive: "links/RACE.txt"
+  link_archive: "links/HWDN.txt"
   headless: false
   direct: true
   selectors:
-    event_block: div.sf_colsIn.col-lg-3
+    event_block: div.row.text-center div.sf_colsIn.col-lg-3
   pagination:
     type: null
     next_button: null
@@ -1855,7 +1855,7 @@ HWDN_press-releases:
   output_json: JSONS/HWDN_press-releases.json
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "press-releases"
   link_archive: "links/RACE.txt"
   headless: false
@@ -1877,7 +1877,7 @@ RACE_press:         #Complete
   output_json: JSONS/RACE_press-.json
   base_address: https://www.ferrari.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "press-release"
   link_archive: "links/RACE.txt"
   headless: false
@@ -1898,7 +1898,7 @@ RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "financial-filing"
   link_archive: "links/RACE.txt"
   headless: false
@@ -1919,7 +1919,7 @@ RACE_news:
   output_json: JSONS/RACE_news-.json
   base_address: https://www.ferrari.com/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   link_archive: "links/RACE.txt"
   headless: false
@@ -1942,7 +1942,7 @@ BAS_publications:       #Complete
   output_json: JSONS/BAS_publications-.json
   base_address: https://www.basf.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "publications"
   link_archive: 'links/BAS.txt'
   headless: false
@@ -1963,7 +1963,7 @@ BAS_news:           # Rauf will check it !!!!
   output_json: JSONS/BAS_news.json
   base_address: https://www.basf.com/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: "news"
   headless: false
   direct: true
@@ -1986,7 +1986,7 @@ SAN_investor-relations:      # Complete
   output_json: JSONS/SAN_investor-relations-.json
   base_address: https://www.santander.co.uk/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: null
   link_archive: 'links/SAN.txt'
   headless: false
@@ -2007,7 +2007,7 @@ SAN_stock-exchange:   # Complete
   output_json: JSONS/SAN_stock-exchange-.json
   base_address: https://www.santander.co.uk/
   periodic: null
-  geography: "European"
+  geography: "european"
   forced_type: null
   headless: false
   link_archive: 'links/SAN.txt'
@@ -2029,7 +2029,7 @@ SAN_group-holdings:
   output_json: JSONS/SAN_group-holdings-.json
   base_address: https://www.santander.co.uk/
   periodic: true
-  geography: "European"
+  geography: "european"
   forced_type: null
   headless: false
   link_archive: 'links/SAN.txt'
