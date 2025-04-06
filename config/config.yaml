@@ -293,10 +293,70 @@ DSFIR_news:
     archive: null
     timeout: null
 
+DSFIR_firmenich_archive1:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive1.json
+  output_json: JSONS/DSFIR_firenic_archive1.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.aem-Grid.aem-Grid--4.aem-Grid--default--4 
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DSFIR_firmenich_archive2:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive2.json
+  output_json: JSONS/DSFIR_firenic_archive2.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.text.aem-GridColumn--default--none.aem-GridColumn.aem-GridColumn--default--5 a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+DSFIR_firmenich_archive3:
+  ticker: DSFIR
+  url: https://investors.dsm-firmenich.com/en/investors/historical-information/firmenich-investors.html
+  output: data/DSFIR_firenic_archive3.json
+  output_json: JSONS/DSFIR_firenic_archive3.json
+  base_address: https://investors.dsm-firmenich.com/
+  periodic: null
+  geography: "european"
+  link_archive: 'links/DSFIR.txt'
+  forced_type: null
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.text.aem-GridColumn--default--none.aem-GridColumn.aem-GridColumn--default--6.aem-GridColumn--offset--default--0 a
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
 # DSFIR_press:    #
 #   ticker: DSFIR
 #   scraper: null
-#   url: https://investors.dsm-firmenich.com/en/investors/historical-information/results-presentations.html
+#   url: c
 #   output: data/DSFIR_press.json
 #   output_json: JSONS/DSFIR_press.json
 #   base_address: https://investors.dsm-firmenich.com/
@@ -1966,28 +2026,28 @@ SIE_financial-results-archive:
     timeout: null
 
 #HWDN
-HWDN_presentations:   # COMPLETE
+HWDN_results:
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/investors/results-reports-and-presentations/results-centre
-  output: data/HWDN_presentations.json
-  output_json: JSONS/HWDN_presentations.json
+  output: data/HWDN_results.json
+  output_json: JSONS/HWDN_results.json
   base_address: https://www.howdenjoinerygroupplc.com/
   periodic: null
   geography: "european"
-  forced_type: "presentation"
-  link_archive: "links/RACE.txt"
+  forced_type: null
+  link_archive: "links/HWDN.txt"
   headless: false
   direct: true
   selectors:
     event_block: div.col-lg-6.pb-5
   pagination:
-    type: null
-    next_button:  null
+    type: year_tabs
+    next_button:  div.col-4.col-lg-12.tablinks
     archive: null
     timeout: null
 
-HWDN_sustainability:   # COMPLETE
+HWDN_sustainability:   
   ticker: HWDN
   scraper: null
   url: https://www.howdenjoinerygroupplc.com/sustainability/index

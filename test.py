@@ -29,7 +29,11 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
             content_disposition = response.headers.get('Content-Disposition')
             if content_disposition:
                 # Extract the filename from the header (if present)
+                print('adsds')
                 filename = content_disposition.split("filename=")[-1].strip('\"')
+                if file_name:
+                    filename = url.split("/")[-1]    
+                print('filename:', filename)
             else:
                 # If no filename is provided in the header, use the URL or a default name
                 filename = url.split("/")[-1]  # Extract filename from URL (default)
@@ -39,6 +43,7 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
                 os.remove(f'test_docs/{filename}')
             # Save the content to the file
             with open(f'test_docs/{filename}', 'wb') as f:
+                print('saving file')
                 f.write(response.content)
             print(f"✅ Successfully downloaded: {file_name}")
         print('downloaded')
@@ -50,10 +55,10 @@ async def download_file(url, base_url="https://www.sec.gov", headless=False):
         # logging.info(f"File downloaded: {absolute_path} ({file_type})")
         return absolute_path, file_name, file_type 
     except Exception as e:
-        # logging.error(f"Can't download file using PYPDL: {e}")
+        print(f"Can't download file using PYPDL: {e}")
         pass 
         
         
 asyncio.run(download_file(url=
-"https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-introduces-next-evolution-wearable-technology"
-, headless=False, base_url='https://investor.ralphlauren.com/'))
+"https://wise.com/imaginary-v2/images/c0dcd192e7cf42eadc139adc47fb529b-Wise_plc_Q3_FY25_Trading_Update.pdf"
+, headless=False, base_url='https://www.reckitt.com'))

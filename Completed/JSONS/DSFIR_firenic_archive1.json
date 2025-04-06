@@ -1,0 +1,307 @@
+[
+  {
+    "event_name": "Firmenich completes Merger of Equals with DSM 09 May 2023 View",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2023-05-09",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/pr-firmenich-completion-of-merger-with-dsm-9-may-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-05-09/inline/inline.pdf",
+        "content_type": [
+          "historical-information"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Final results of the exchange offer 01",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2023-05",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/exchange-offer-and-egm-announcement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-05/inline/inline.pdf",
+        "content_type": [
+          "announcement",
+          "historical-information"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "DSM-Firmenich merger - information website 31 May 2022 Read about merger",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "merger-documents.html",
+        "file_type": "html",
+        "published_date": "2022",
+        "source_url": "https://investors.dsm-firmenich.com/en/investors/results-center/merger-documents.html",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022/merger-documents.html/merger-documents.html",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FEBRUARY 16, 2023 Half-year 2023 results Download presentation Download transcript Watch the webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2023-02-16",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/hy2023-ir-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-02-16/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2023-02-16",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/half-year-2023-results-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-02-16/inline/inline.pdf",
+        "content_type": [
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "registration",
+        "file_type": "html",
+        "published_date": "2023-02-16",
+        "source_url": "https://broadcaster-audience.mediaplatform.com/event/63c17d4cb389f42c6f386651/registration",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-02-16/registration/registration.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "AUGUST 5, 2022 Full-year 2022 results Download presentation Download transcript Watch the webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-08-05",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/fy22_ir_presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-08-05/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-08-05",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-full-year-2022-results-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-08-05/inline/inline.pdf",
+        "content_type": [
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "presentation",
+        "file_type": "html",
+        "published_date": "2022-08-05",
+        "source_url": "https://broadcaster-audience.mediaplatform.com/event/62bb0f4db21779633ede1c85/presentation",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-08-05/presentation/presentation.html",
+        "content_type": [
+          "presentation",
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FEBRUARY 10, 2022 Half-year 2022 results Download presentation Download transcript Watch the webcast",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-02-10",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/hy22_ir_presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-02-10/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2022-02-10",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_hy22_presentation_transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-02-10/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "registration",
+        "file_type": "html",
+        "published_date": "2022-02-10",
+        "source_url": "https://broadcaster-audience.mediaplatform.com/event/61bb4623ecc3610309ae4852/registration",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-02-10/registration/registration.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Fullyear 2021 results Download presentation Downl",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/investor-relations-presentation-fy21-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/full_year_2021_earnings_call_transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
+        "content_type": [
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "registration",
+        "file_type": "html",
+        "published_date": "2021-04",
+        "source_url": "https://broadcaster-audience.mediaplatform.com/event/60e82b4c4478b80383825e94/registration",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/registration/registration.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 2021",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/hy21_ir_presentation_presented.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/hy21_earnings_call.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021/inline/inline.pdf",
+        "content_type": [
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "registration",
+        "file_type": "html",
+        "published_date": "2021",
+        "source_url": "https://broadcaster-audience.mediaplatform.com/event/600afbbef22d360380f09ec2/registration",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021/registration/registration.html",
+        "content_type": [
+          "webcast"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Fullyear 2020 results Download presentation Downl",
+    "equity_ticker": "DSFIR",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/fy20_investor_presentation_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
+        "content_type": [
+          "presentation",
+          "historical-information"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "inline",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_fy_2020_results_transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
+        "content_type": [
+          "transcript",
+          "historical-information"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

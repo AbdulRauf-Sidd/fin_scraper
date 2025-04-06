@@ -365,14 +365,8 @@ async def download_file(context, url, session=None):
         print(f"📡 Response Status: {response.status_code}")
         if 200 <= response.status_code < 300:
             # Try to extract filename from Content-Disposition header (if available)
-            content_disposition = response.headers.get('Content-Disposition')
-            if content_disposition:
-                # Extract the filename from the header (if present)
-                filename = content_disposition.split("filename=")[-1].strip('\"')
-            else:
-                # If no filename is provided in the header, use the URL or a default name
-                filename = url.split("/")[-1]  # Extract filename from URL (default)
-
+               # If no filename is provided in the header, use the URL or a default name
+            filename = url.split("/")[-1]  # Extract filename from URL (default)
             # Save the content to the file
             with open(f'downloads/{filename}', 'wb') as f:
                 f.write(response.content)
