@@ -2080,7 +2080,7 @@ HWDN_press-releases:
   forced_type: "press-releases"
   link_archive: "links/HWDN.txt"
   headless: false
-  direct: true
+  direct: false
   selectors:
     event_block: div.news-list div.row
   pagination:
