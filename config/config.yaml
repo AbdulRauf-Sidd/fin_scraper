@@ -526,7 +526,7 @@ IFF_press:      # COMPLETED
 #     timeout: 5
 
 
-KO_company-updates:     #
+KO_company-updates:  
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
@@ -544,7 +544,7 @@ KO_company-updates:     #
     type: null
     next_button: null
 
-KO_poclicies-practices-reports:     # 
+KO_poclicies-practices-reports:     
   ticker: KO
   url: https://www.coca-colacompany.com/policies-and-practices/
   output: data/KO_poclicies-practices-reports.json
@@ -561,7 +561,7 @@ KO_poclicies-practices-reports:     #
     type: null
     next_button: null
 
-KO_press:     # 
+KO_press:
   ticker: KO
   url: https://investors.coca-colacompany.com/news-events/press-releases
   output: data/KO_press.json
@@ -1710,8 +1710,8 @@ NOVO-B_finance:     #LLM  # Remaining ( Hassan Expand function remaining )
   selectors:
     event_block: 
   pagination:
-    type: null
-    next_button:  null
+    type: collapse_all
+    next_button:  button.cmp-accordion__button
     archive: null
     timeout: null
 
@@ -1937,15 +1937,15 @@ RACE_news:
   url: https://www.ferrari.com/en-EN/esports/news
   output: data/RACE_news.json
   output_json: JSONS/RACE_news-.json
-  base_address: https://www.ferrari.com/en-EN/
+  base_address: https://www.ferrari.com/
   periodic: null
   geography: "european"
   forced_type: "news"
   link_archive: "links/RACE.txt"
   headless: false
-  direct: false
+  direct: false 
   selectors:
-    event_block: div.Card__content__1iV95PHv
+    event_block: a.Card__card__cwFFUad8 
   pagination:
     type: scroll
     next_button:  null
