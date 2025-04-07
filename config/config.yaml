@@ -2145,3 +2145,24 @@ OTIS_esg:
     next_button: null
     archive: null
     timeout: null
+
+RYAAY_results_center:
+  ticker: RYAAY
+  scraper: null
+  url: https://investor.ryanair.com/results-centre/
+  output: data/RYAAY_results_center.json
+  output_json: JSONS/RYAAY_results_center.json
+  base_address: https://investor.ryanair.com/
+  periodic: null
+  geography: "european"
+  forced_type: null
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: false
+  selectors:
+    event_block: a.ryanair-results-centre-query-list-item
+  pagination:
+    type: load_more
+    next_button: button:has-text("More")
+    archive: null
+    timeout: null
