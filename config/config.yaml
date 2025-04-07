@@ -756,16 +756,35 @@ WDAY_press:
   output_json: JSONS/WDAY_press.json
   link_archive: 'links/WDAY.txt'
   base_address: https://investor.workday.com/
-  link_archive: 'links/WDAY.txt'
   periodic: false
   geography: "US"
-  forced_type: "press"
+  forced_type: "press-release"
   headless: false
-  direct: false
+  direct: true
   selectors:
-    event_block: .wd_item
+    event_block: ul.wd_layout-simple.wd_item_list li.wd_item
   pagination:
     type: button
+    archive: null
+    next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
+    timeout: null
+
+WDAY_financial_results:
+  ticker: WDAY
+  url: https://stock.walmart.com/financial-information/financial-results
+  output: data/WDAY_financial_results.json
+  output_json: JSONS/WDAY_financial_results.json
+  link_archive: 'links/WDAY.txt'
+  base_address: https://investor.workday.com/
+  periodic: true
+  geography: "US"
+  forced_type: "financial-filing"
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.row
+  pagination:
+    type: null
     archive: null
     next_button: div.wd_page_menu nav ul.wd_page_links li.wd_page_link.wd_page_next a
     timeout: null
@@ -1044,8 +1063,8 @@ SAP_reports:      # Configs finalized
   output: data/SAP_reports.json
   output_json: JSONS/SAP_reports.json
   base_address: https://www.sap.com/
-  periodic: null
-  geography: "european"
+  periodic: true
+  geography: "US"
   forced_type: "reports"
   link_archive: links/SAP.txt
   headless: false
@@ -1066,13 +1085,13 @@ SAP_presentations:
   output_json: JSONS/SAP_presentations.json
   base_address: https://www.sap.com/
   periodic: true
-  geography: "european"
+  geography: "US"
   forced_type: "presentations"
   headless: false
   link_archive: links/SAP.txt
   direct: true
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+    event_block: div.Tile__emptyContainer--QCWjW
   pagination:
     type: button
     next_button: button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO
@@ -1087,7 +1106,7 @@ SAP_events:
   output_json: JSONS/SAP_events.json
   base_address: https://www.sap.com/
   periodic: false
-  geography: "european"
+  geography: "US"
   forced_type: null
   link_archive: links/SAP.txt
   headless: true
@@ -1108,7 +1127,7 @@ SAP_news:
   output_json: JSONS/SAP_news.json
   base_address: https://www.sap.com/
   periodic: false
-  geography: "european"
+  geography: "US"
   forced_type: "news"
   headless: false
   direct: true
@@ -2142,6 +2161,174 @@ HEN_events:
   direct: false
   selectors:
     event_block: div.swiper-slide
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+OTIS_events&presentations1:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/events-and-presentations/default.aspx
+  output: data/OTIS_events&presentations1.json
+  output_json: JSONS/OTIS_events&presentations1.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: null
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.evergreen-g.evergreen-g--gutter
+  pagination:
+    type: null # drop down
+    next_button: div.pagination a[aria-label="Next"]
+    archive: null
+    timeout: null
+
+OTIS_events&presentations2:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/events-and-presentations/default.aspx
+  output: data/OTIS_events&presentations2.json
+  output_json: JSONS/OTIS_events&presentations2.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "presentation"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.evergreen-presentation-item-wrap.evergreen-presentation-item-wrap-position-right
+  pagination:
+    type: null # drop down
+    next_button: div.pagination a[aria-label="Next"]
+    archive: null
+    timeout: null
+
+OTIS_governance:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/governance/governance-documents/default.aspx
+  output: data/OTIS_governance.json
+  output_json: JSONS/OTIS_governance.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "esg"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.module_item
+  pagination:
+    type: null # drop down
+    next_button: null
+    archive: null
+    timeout: null
+
+OTIS_esg:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/esg/default.aspx
+  output: data/OTIS_esg.json
+  output_json: JSONS/OTIS_esg.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "esg"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.module-downloads_title.q4icons
+  pagination:
+    type: null # drop down
+    next_button: null
+    archive: null
+    timeout: null
+
+RYAAY_results_center:
+  ticker: RYAAY
+  scraper: null
+  url: https://investor.ryanair.com/results-centre/
+  output: data/RYAAY_results_center.json
+  output_json: JSONS/RYAAY_results_center.json
+  base_address: https://investor.ryanair.com/
+  periodic: null
+  geography: "european"
+  forced_type: null
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: false
+  selectors:
+    event_block: a.ryanair-results-centre-query-list-item
+  pagination:
+    type: load_more
+    next_button: button:has-text("More")
+    archive: null
+    timeout: null
+
+RYAAY_sustainability:
+  ticker: RYAAY
+  scraper: null
+  url: https://corporate.ryanair.com/sustainability/our-policies/
+  output: data/RYAAY_sustainability.json
+  output_json: JSONS/RYAAY_sustainability.json
+  base_address: https://investor.ryanair.com/
+  periodic: null
+  geography: "european"
+  forced_type: "esg"
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+RYAAY_CSD_migration:
+  ticker: RYAAY
+  scraper: null
+  url: https://investor.ryanair.com/investors-shareholders/csd-migration/
+  output: data/RYAAY_CSD_migration.json
+  output_json: JSONS/RYAAY_CSD_migration.json
+  base_address: https://investor.ryanair.com/
+  periodic: null
+  geography: "european"
+  forced_type: null
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
+
+RYAAY_agm:
+  ticker: RYAAY
+  scraper: null
+  url: https://investor.ryanair.com/investors-shareholders/agm-2024/
+  output: data/RYAAY_agm.json
+  output_json: JSONS/RYAAY_agm.json
+  base_address: https://investor.ryanair.com/
+  periodic: true
+  geography: "european"
+  forced_type: "annual-general-meeting"
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: tr
   pagination:
     type: null
     next_button: null
