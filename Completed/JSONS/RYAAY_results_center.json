@@ -1,0 +1,3160 @@
+[
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "XBRL-2024-Annual-Report-20-F.zip",
+        "file_type": "zip",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/06/XBRL-2024-Annual-Report-20-F.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/XBRL-2024-Annual-Report-20-F.zip/XBRL-2024-Annual-Report-20-F.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/06/Ryanair-2024-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-2024-Annual-Report.pdf/Ryanair-2024-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2024",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-20-F-FY24.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/06/Ryanair-Holdings-plc-20-F-FY24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-Holdings-plc-20-F-FY24.pdf/Ryanair-Holdings-plc-20-F-FY24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "635400BR2ROC1FVEBQ56-2023-03-31-en.zip",
+        "file_type": "zip",
+        "published_date": "2023",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/635400BR2ROC1FVEBQ56-2023-03-31-en.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023/635400BR2ROC1FVEBQ56-2023-03-31-en.zip/635400BR2ROC1FVEBQ56-2023-03-31-en.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2023-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/Ryanair-2023-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Ryanair-2023-Annual-Report.pdf/Ryanair-2023-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2023 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-20-F-FY23.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/Ryanair-Holdings-plc-20-F-FY23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Ryanair-Holdings-plc-20-F-FY23.pdf/Ryanair-Holdings-plc-20-F-FY23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2023 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "XBRL-2023-Annual-Report-20-F.zip",
+        "file_type": "zip",
+        "published_date": "2023",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/XBRL-2023-Annual-Report-20-F.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023/XBRL-2023-Annual-Report-20-F.zip/XBRL-2023-Annual-Report-20-F.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2022 ESEF Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "635400BR2ROC1FVEBQ56-2022-03-31-en.zip",
+        "file_type": "zip",
+        "published_date": "2022",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/635400BR2ROC1FVEBQ56-2022-03-31-en.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022/635400BR2ROC1FVEBQ56-2022-03-31-en.zip/635400BR2ROC1FVEBQ56-2022-03-31-en.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Annual Report 2022 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/Ryanair-2022-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022/Ryanair-2022-Annual-Report.pdf/Ryanair-2022-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2022 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-20-F-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/Ryanair-2022-20-F-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022/Ryanair-2022-20-F-Final.pdf/Ryanair-2022-20-F-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2022 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "XBRL-2022-Annual-Report-20-F.zip",
+        "file_type": "zip",
+        "published_date": "2022",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/XBRL-2022-Annual-Report-20-F.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022/XBRL-2022-Annual-Report-20-F.zip/XBRL-2022-Annual-Report-20-F.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2021 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "XBRL-2021-Annual-Report.zip",
+        "file_type": "zip",
+        "published_date": "2021",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/07/XBRL-2021-Annual-Report.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021/XBRL-2021-Annual-Report.zip/XBRL-2021-Annual-Report.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2021 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-20-F-FY21.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/07/Ryanair-Holdings-plc-20-F-FY21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021-04/Ryanair-Holdings-plc-20-F-FY21.pdf/Ryanair-Holdings-plc-20-F-FY21.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "FINAL_Ryanair-Holdings-plc-Annual-Report-FY21.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/08/FINAL_Ryanair-Holdings-plc-Annual-Report-FY21.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021-04/FINAL_Ryanair-Holdings-plc-Annual-Report-FY21.pdf/FINAL_Ryanair-Holdings-plc-Annual-Report-FY21.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2020 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "20-F-XBRL.zip",
+        "file_type": "zip",
+        "published_date": "2020",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/07/20-F-XBRL.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2020/20-F-XBRL.zip/20-F-XBRL.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2020 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-20-F-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/07/Ryanair-20-F-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2020/Ryanair-20-F-2020.pdf/Ryanair-20-F-2020.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-Annual-Report-FY20.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/07/Ryanair-Holdings-plc-Annual-Report-FY20.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2020/Ryanair-Holdings-plc-Annual-Report-FY20.pdf/Ryanair-Holdings-plc-Annual-Report-FY20.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2019 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "XBRL.zip",
+        "file_type": "zip",
+        "published_date": "2019",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/07/XBRL.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2019/XBRL.zip/XBRL.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2019 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2019-20-F.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/07/Ryanair-2019-20-F.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2019-04/Ryanair-2019-20-F.pdf/Ryanair-2019-20-F.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2019",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2019-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/07/Ryanair-2019-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2019-04/Ryanair-2019-Annual-Report.pdf/Ryanair-2019-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "XBRL 2018 Annual Report 20F Download zip",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ryaa-20180730105900-1.zip",
+        "file_type": "zip",
+        "published_date": "2018",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/07/ryaa-20180730105900-1.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2018/ryaa-20180730105900-1.zip/ryaa-20180730105900-1.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2018",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-FY-2018-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/07/Ryanair-FY-2018-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2018-04/Ryanair-FY-2018-Annual-Report.pdf/Ryanair-FY-2018-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2018 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-FY-2018-20F.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/07/Ryanair-FY-2018-20F.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2018-04/Ryanair-FY-2018-20F.pdf/Ryanair-FY-2018-20F.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2017 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-FY2017-20-F.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/07/Ryanair-FY2017-20-F.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2017-04/Ryanair-FY2017-20-F.pdf/Ryanair-FY2017-20-F.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2017",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-FY2017-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/07/Ryanair-FY2017-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2017-04/Ryanair-FY2017-Annual-Report.pdf/Ryanair-FY2017-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2016 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2016-20F-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/07/Ryanair-2016-20F-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2016-04/Ryanair-2016-20F-1.pdf/Ryanair-2016-20F-1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2016",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Annual-Report-FY16.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/07/Ryanair-Annual-Report-FY16.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2016-04/Ryanair-Annual-Report-FY16.pdf/Ryanair-Annual-Report-FY16.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2015",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Annual-Report-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/Annual-Report-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2015-04/Annual-Report-2015.pdf/Annual-Report-2015.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2015 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2015-20F.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/2015-20F.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2015-04/2015-20F.pdf/2015-20F.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2014",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2014-Annual-Reports-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2014-Annual-Reports-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2014-04/2014-Annual-Reports-Annual-Report.pdf/2014-Annual-Reports-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2014 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2014-Annual-Reports-20F-Statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2014-Annual-Reports-20F-Statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2014/2014-Annual-Reports-20F-Statement.pdf/2014-Annual-Reports-20F-Statement.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2013",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2013-Annual-Reports-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2013-Annual-Reports-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2013-04/2013-Annual-Reports-Annual-Report.pdf/2013-Annual-Reports-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2013 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2013-Annual-Reports-20F-Statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2013-Annual-Reports-20F-Statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2013-04/2013-Annual-Reports-20F-Statement.pdf/2013-Annual-Reports-20F-Statement.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2012",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2012-Annual-Reports-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2012-Annual-Reports-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2012-04/2012-Annual-Reports-Annual-Report.pdf/2012-Annual-Reports-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20F Statement 2012 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2012-Annual-Reports-20F-Statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2012-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/2012-Annual-Reports-20F-Statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2012-04/2012-Annual-Reports-20F-Statement.pdf/2012-Annual-Reports-20F-Statement.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY25 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-fy25-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-fy25-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-fy25-results.jpeg/q3-fy25-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "RYANAIR_HOLDINGS_PUBLIC_LIMITED_COMPANY-AMENDED-CONSTITUTION-11-03-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/12/RYANAIR_HOLDINGS_PUBLIC_LIMITED_COMPANY-AMENDED-CONSTITUTION-11-03-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/RYANAIR_HOLDINGS_PUBLIC_LIMITED_COMPANY-AMENDED-CONSTITUTION-11-03-2021.pdf/RYANAIR_HOLDINGS_PUBLIC_LIMITED_COMPANY-AMENDED-CONSTITUTION-11-03-2021.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-FY25-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2025/01/Q3-FY25-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY25-Ryanair-Results.pdf/Q3-FY25-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-FY25-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2025/01/Q3-FY25-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY25-Ryanair-Presentation.pdf/Q3-FY25-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY25 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-fy25-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-fy25-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-fy25-results.jpeg/h1-fy25-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "H1-FY25-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/11/H1-FY25-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY25-Ryanair-Results.pdf/H1-FY25-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "H1-FY25-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/11/H1-FY25-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY25-Ryanair-Presentation.pdf/H1-FY25-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY25 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-fy25-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-fy25-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-fy25-results.jpeg/q1-fy25-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-FY25-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/07/Q1-FY25-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY25-Ryanair-Results.pdf/Q1-FY25-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-FY25-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/07/Q1-FY25-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY25-Ryanair-Presentation.pdf/Q1-FY25-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY24 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-24-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-24-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-24-results.jpeg/fy-24-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY24-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/05/FY24-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY24-Ryanair-Results.pdf/FY24-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY24-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/05/FY24-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY24-Ryanair-Presentation.pdf/FY24-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY24 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy24.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy24/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy24.jpeg/q3-results-fy24.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY24-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/01/Ryanair-Q3-FY24-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY24-Results.pdf/Ryanair-Q3-FY24-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY24-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/01/Ryanair-Q3-FY24-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY24-Presentation.pdf/Ryanair-Q3-FY24-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY24 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy24.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy24/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy24.jpeg/h1-results-fy24.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "H1-FY24-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/11/H1-FY24-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY24-Ryanair-Results.pdf/H1-FY24-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "H1-FY24-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/11/H1-FY24-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY24-Ryanair-Presentation.pdf/H1-FY24-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY24 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy24.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy24/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy24.jpeg/q1-results-fy24.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-FY24-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/Q1-FY24-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY24-Ryanair-Results.pdf/Q1-FY24-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-FY24-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/07/Q1-FY24-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY24-Ryanair-Presentation.pdf/Q1-FY24-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY23 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-23-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-23-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-23-results.jpeg/fy-23-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY23-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/05/FY23-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY23-Ryanair-Results.pdf/FY23-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY23-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/05/FY23-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY23-Ryanair-Presentation.pdf/FY23-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY23 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy23.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy23/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy23.jpeg/q3-results-fy23.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY23-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/01/Ryanair-Q3-FY23-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY23-Results.pdf/Ryanair-Q3-FY23-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Powerpoint-Q3-FY23-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/02/Ryanair-Powerpoint-Q3-FY23-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Powerpoint-Q3-FY23-Final.pdf/Ryanair-Powerpoint-Q3-FY23-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "January 2023 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "20230104-PR-market-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-01",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/01/20230104-PR-market-update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-01/20230104-PR-market-update.pdf/20230104-PR-market-update.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY23 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-fy23-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-fy23-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-fy23-results.jpeg/h1-fy23-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "H1-FY23-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/11/H1-FY23-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY23-Results.pdf/H1-FY23-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "H1-FY23-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/11/H1-FY23-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY23-Presentation.pdf/H1-FY23-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY23 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-fy23-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-fy23-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-fy23-results.jpeg/q1-fy23-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-FY23-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/Q1-FY23-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY23-Results.pdf/Q1-FY23-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-FY23-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/Q1-FY23-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY23-Presentation.pdf/Q1-FY23-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY22 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-22-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-22-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-22-results.jpeg/fy-22-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY22-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/05/FY22-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY22-Ryanair-Results.pdf/FY22-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY22-Ryanair-Powerpoint.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/05/FY22-Ryanair-Powerpoint.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY22-Ryanair-Powerpoint.pdf/FY22-Ryanair-Powerpoint.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2022 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "April-2022-Trading-Update.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/05/April-2022-Trading-Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-04/April-2022-Trading-Update.pdf/April-2022-Trading-Update.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY22 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy22.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy22/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy22.jpeg/q3-results-fy22.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-FY22-Ryanair-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/01/Q3-FY22-Ryanair-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY22-Ryanair-Results.pdf/Q3-FY22-Ryanair-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-FY22-Ryanair-Powerpoint.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/01/Q3-FY22-Ryanair-Powerpoint.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY22-Ryanair-Powerpoint.pdf/Q3-FY22-Ryanair-Powerpoint.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY22 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Trading-Update-FY22.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/01/Ryanair-Trading-Update-FY22.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Trading-Update-FY22.pdf/Ryanair-Trading-Update-FY22.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY22 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy22.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy22/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy22.jpeg/h1-results-fy22.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-H1-FY22-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/11/Ryanair-H1-FY22-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY22-Results.pdf/Ryanair-H1-FY22-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY22-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/11/Ryanair-H1-FY22-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY22-Presentation.pdf/Ryanair-H1-FY22-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY22 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy22.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy22/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy22.jpeg/q1-results-fy22.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY22-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/07/Ryanair-Q1-FY22-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY22-Results.pdf/Ryanair-Q1-FY22-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY22-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/07/Ryanair-Q1-FY22-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY22-Presentation.pdf/Ryanair-Q1-FY22-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY21 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-21-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-21-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-21-results.jpeg/fy-21-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-FY21-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/05/Ryanair-FY21-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-FY21-Results.pdf/Ryanair-FY21-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-FY21-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/05/Ryanair-FY21-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-FY21-Presentation.pdf/Ryanair-FY21-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY21 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Market-Update-April-7-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/05/Ryanair-Market-Update-April-7-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Market-Update-April-7-2021.pdf/Ryanair-Market-Update-April-7-2021.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY21 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-fy21-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-fy21-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-fy21-results.jpeg/q3-fy21-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY21-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/02/Ryanair-Q3-FY21-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY21-Results.pdf/Ryanair-Q3-FY21-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY21-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/02/Ryanair-Q3-FY21-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY21-Presentation.pdf/Ryanair-Q3-FY21-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY21 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy21.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy21/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy21.jpeg/h1-results-fy21.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-H1-FY21-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/11/Ryanair-H1-FY21-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY21-Results.pdf/Ryanair-H1-FY21-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY21-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/11/Ryanair-H1-FY21-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY21-Presentation.pdf/Ryanair-H1-FY21-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY21 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy21.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy21/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy21.jpeg/q1-results-fy21.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY21-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/07/Ryanair-Q1-FY21-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY21-Results.pdf/Ryanair-Q1-FY21-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY21-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/07/Ryanair-Q1-FY21-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY21-Presentation.pdf/Ryanair-Q1-FY21-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY20 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-20-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-20-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-20-results.jpeg/fy-20-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-FY20-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/05/Ryanair-FY20-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-FY20-Results.pdf/Ryanair-FY20-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Powerpoint-FY20-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/05/Ryanair-Powerpoint-FY20-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Powerpoint-FY20-Final.pdf/Ryanair-Powerpoint-FY20-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "COVID-19 Market Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-May-1-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/05/Ryanair-May-1-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-May-1-2020.pdf/Ryanair-May-1-2020.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY20 Market Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Market-Update-April-3-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/04/Ryanair-Market-Update-April-3-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Market-Update-April-3-2020.pdf/Ryanair-Market-Update-April-3-2020.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY20 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy20.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy20/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy20.jpeg/q3-results-fy20.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY20-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/02/Ryanair-Q3-FY20-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY20-Results.pdf/Ryanair-Q3-FY20-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Powerpoint-Q3-FY20-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/02/Ryanair-Powerpoint-Q3-FY20-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Powerpoint-Q3-FY20-Final.pdf/Ryanair-Powerpoint-Q3-FY20-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY20 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Trading-Update-January-2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2020/01/Ryanair-Trading-Update-January-2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Trading-Update-January-2020.pdf/Ryanair-Trading-Update-January-2020.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY20 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy20.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy20/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy20.jpeg/h1-results-fy20.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-H1-FY2020.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/11/Ryanair-H1-FY2020.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY2020.pdf/Ryanair-H1-FY2020.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY2020-Powerpoint.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/11/Ryanair-H1-FY2020-Powerpoint.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY2020-Powerpoint.pdf/Ryanair-H1-FY2020-Powerpoint.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY20 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy20.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy20/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy20.jpeg/q1-results-fy20.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Holdings-plc-Q1-FY20.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/07/Ryanair-Holdings-plc-Q1-FY20.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Holdings-plc-Q1-FY20.pdf/Ryanair-Holdings-plc-Q1-FY20.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY20-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/07/Ryanair-Q1-FY20-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY20-Presentation.pdf/Ryanair-Q1-FY20-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY19 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-19-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-19-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-19-results.jpeg/fy-19-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Results-FY2019.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/05/Ryanair-Results-FY2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Results-FY2019.pdf/Ryanair-Results-FY2019.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY19-Ryanair-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/05/FY19-Ryanair-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY19-Ryanair-Presentation.pdf/FY19-Ryanair-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY19 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy19.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy19/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy19.jpeg/q3-results-fy19.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY19-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/02/Ryanair-Q3-FY19-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY19-Results.pdf/Ryanair-Q3-FY19-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-FY19-Ryanair-Powerpoint-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/02/Q3-FY19-Ryanair-Powerpoint-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY19-Ryanair-Powerpoint-Final.pdf/Q3-FY19-Ryanair-Powerpoint-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY19 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "January-2019-Trading-Update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2019/01/January-2019-Trading-Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/January-2019-Trading-Update.pdf/January-2019-Trading-Update.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY19 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy19.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy19/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy19.jpeg/h1-results-fy19.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-H1-FY19-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/10/Ryanair-H1-FY19-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY19-Results.pdf/Ryanair-H1-FY19-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY19-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/10/Ryanair-H1-FY19-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY19-Presentation.pdf/Ryanair-H1-FY19-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY19 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-fy19-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-fy19-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-fy19-results.jpeg/q1-fy19-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY19-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/07/Ryanair-Q1-FY19-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY19-Results.pdf/Ryanair-Q1-FY19-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY19-Presentation-1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/07/Ryanair-Q1-FY19-Presentation-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY19-Presentation-1.pdf/Ryanair-Q1-FY19-Presentation-1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY18 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-2018.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-2018.jpeg/fy-2018.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-FY2018-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/05/Ryanair-FY2018-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-FY2018-Results.pdf/Ryanair-FY2018-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-FY18-Powerpoint.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/05/Ryanair-FY18-Powerpoint.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-FY18-Powerpoint.pdf/Ryanair-FY18-Powerpoint.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY18 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-fy18-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-fy18-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-fy18-results.jpeg/q3-fy18-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY18-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/02/Ryanair-Q3-FY18-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY18-Results.pdf/Ryanair-Q3-FY18-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q3-FY18-Powerpoint-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2018/02/Ryanair-Q3-FY18-Powerpoint-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-FY18-Powerpoint-Presentation.pdf/Ryanair-Q3-FY18-Powerpoint-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY18 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy18.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy18/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy18.jpeg/h1-results-fy18.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "H1-FY18-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/10/H1-FY18-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-FY18-Results.pdf/H1-FY18-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY18-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/10/Ryanair-H1-FY18-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY18-Presentation.pdf/Ryanair-H1-FY18-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY18 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy18.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy18/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy18.jpeg/q1-results-fy18.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY18-July-24.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/07/Ryanair-Q1-FY18-July-24.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY18-July-24.pdf/Ryanair-Q1-FY18-July-24.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY18-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/07/Ryanair-Q1-FY18-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY18-Presentation.pdf/Ryanair-Q1-FY18-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY17 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-17-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-17-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-17-results.jpeg/fy-17-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY17-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/05/FY17-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY17-Results.pdf/FY17-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY17-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/05/FY17-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY17-Presentation.pdf/FY17-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY17 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy17.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy17/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy17.jpeg/q3-results-fy17.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Results-Q3.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/02/Results-Q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Results-Q3.pdf/Results-Q3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-Q3-Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2017/02/Ryanair-Q3-Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q3-Results-Presentation.pdf/Ryanair-Q3-Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY17 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy17.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy17/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy17.jpeg/h1-results-fy17.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-H1-FY17.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/11/Ryanair-H1-FY17.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY17.pdf/Ryanair-H1-FY17.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Ryanair-H1-FY17-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/11/Ryanair-H1-FY17-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-H1-FY17-Presentation.pdf/Ryanair-H1-FY17-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY17 Trading Update Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "RyanairFY17TradingUpdate.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/10/RyanairFY17TradingUpdate.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/RyanairFY17TradingUpdate.pdf/RyanairFY17TradingUpdate.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY17 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy17.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy17/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy17.jpeg/q1-results-fy17.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Q1-FY-17-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/07/Ryanair-Q1-FY-17-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Q1-FY-17-Results.pdf/Ryanair-Q1-FY-17-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-FY-17-Presentation-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/07/Q1-FY-17-Presentation-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-FY-17-Presentation-Final.pdf/Q1-FY-17-Presentation-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY16 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "fy16-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy16-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy16-results.jpeg/fy16-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Ryanair-Results-FY2016.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/05/Ryanair-Results-FY2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Results-FY2016.pdf/Ryanair-Results-FY2016.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Presentation-FY2016-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/05/Presentation-FY2016-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Presentation-FY2016-Final.pdf/Presentation-FY2016-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY16 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-fy16.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-fy16/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-fy16.jpeg/q3-results-fy16.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-FY16_press-releases.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/02/Q3-FY16_press-releases.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY16_press-releases.pdf/Q3-FY16_press-releases.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-FY16_presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2016/02/Q3-FY16_presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-FY16_presentation.pdf/Q3-FY16_presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "H1 FY16 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "h1-results-fy16.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/h1-results-fy16/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/h1-results-fy16.jpeg/h1-results-fy16.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "H1-Results-FY16-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/11/H1-Results-FY16-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-Results-FY16-Results.pdf/H1-Results-FY16-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "H1-Results-FY16-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/11/H1-Results-FY16-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/H1-Results-FY16-Presentation.pdf/H1-Results-FY16-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY16 Trading Update View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "sep-tradingupdate-fy16.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/sep-tradingupdate-fy16/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/sep-tradingupdate-fy16.jpeg/sep-tradingupdate-fy16.jpeg",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY16-Trading-Update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/09/FY16-Trading-Update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY16-Trading-Update.pdf/FY16-Trading-Update.pdf",
+        "content_type": [
+          "trading-update"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY16 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy16.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy16/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy16.jpeg/q1-results-fy16.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1FY16_PRESS-RELEASE.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/Q1FY16_PRESS-RELEASE.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1FY16_PRESS-RELEASE.pdf/Q1FY16_PRESS-RELEASE.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1FY16_PRESENTATION.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/Q1FY16_PRESENTATION.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1FY16_PRESENTATION.pdf/Q1FY16_PRESENTATION.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-15-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-15-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-15-results.jpeg/fy-15-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/05/FY-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY-2015-AnnualInterm_Results-Results.pdf/FY-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/05/FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY-2015-AnnualInterm_Results-Presentation.pdf/FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-15.jpeg/q3-results-15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2015-AnnualInterm_Results-Results.pdf/Q3-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2015-AnnualInterm_Results-Presentation.pdf/Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "hy-results-15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/hy-results-15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/hy-results-15.jpeg/hy-results-15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2015-AnnualInterm_Results-Results.pdf/Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-fy15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-fy15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-fy15.jpeg/q1-fy15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2015-AnnualInterm_Results-Results.pdf/Q1-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2015-AnnualInterm_Results-Presentation.pdf/Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-results-14.jpeg/fy-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q4FY-2014-AnnualInterm_Results-Results.pdf/Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q4FY-2014-AnnualInterm_Results-Presentation.pdf/Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-14.jpeg/q3-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2014-AnnualInterm_Results-Results.pdf/Q3-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2014-AnnualInterm_Results-Presentation.pdf/Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "hy-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/hy-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/hy-results-14.jpeg/hy-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2014-AnnualInterm_Results-Results.pdf/Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2014-AnnualInterm_Results-Presentation.pdf/Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy14.jpeg/q1-results-fy14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2014-AnnualInterm_Results-Results.pdf/Q1-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2014-AnnualInterm_Results-Presentation.pdf/Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2024Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-AGM.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/09/Ryanair-2024-AGM.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-09/Ryanair-2024-AGM.pdf/Ryanair-2024-AGM.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2024Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/04/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ryanair CMD \u2013 Sep. 23Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-CMD-\u2013-Sep.-23.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-09-23",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/09/Ryanair-CMD-\u2013-Sep.-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2025-09-23/Ryanair-CMD-%E2%80%93-Sep.-23.pdf/Ryanair-CMD-%E2%80%93-Sep.-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2023Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2023-AGM-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/09/Ryanair-2023-AGM-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-09/Ryanair-2023-AGM-Final.pdf/Ryanair-2023-AGM-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Boeing Order \u2013 May. 23Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Boeing-Final-ppt.-May-2023-.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/05/Boeing-Final-ppt.-May-2023-.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2025-05/Boeing-Final-ppt.-May-2023-.pdf/Boeing-Final-ppt.-May-2023-.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2023Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/04/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2022Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-AGM-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/09/Ryanair-2022-AGM-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-09/Ryanair-2022-AGM-Final.pdf/Ryanair-2022-AGM-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY16 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy16.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy16/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy16.jpeg/q1-results-fy16.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1FY16_PRESS-RELEASE.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/Q1FY16_PRESS-RELEASE.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1FY16_PRESS-RELEASE.pdf/Q1FY16_PRESS-RELEASE.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1FY16_PRESENTATION.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/07/Q1FY16_PRESENTATION.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1FY16_PRESENTATION.pdf/Q1FY16_PRESENTATION.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-15-results.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-15-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-15-results.jpeg/fy-15-results.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "FY-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/05/FY-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY-2015-AnnualInterm_Results-Results.pdf/FY-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/05/FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY-2015-AnnualInterm_Results-Presentation.pdf/FY-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-15.jpeg/q3-results-15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2015-AnnualInterm_Results-Results.pdf/Q3-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2015-AnnualInterm_Results-Presentation.pdf/Q3-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "hy-results-15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/hy-results-15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/hy-results-15.jpeg/hy-results-15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2015-AnnualInterm_Results-Results.pdf/Q2HY-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf/Q2HY-2015-AnnualInterm_Results-Presentation_update.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY15 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-fy15.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-fy15/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-fy15.jpeg/q1-fy15.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-2015-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2015-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2015-AnnualInterm_Results-Results.pdf/Q1-2015-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2015-AnnualInterm_Results-Presentation.pdf/Q1-2015-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/fy-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/fy-results-14.jpeg/fy-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q4FY-2014-AnnualInterm_Results-Results.pdf/Q4FY-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q4FY-2014-AnnualInterm_Results-Presentation.pdf/Q4FY-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q3-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q3-results-14.jpeg/q3-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q3-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2014-AnnualInterm_Results-Results.pdf/Q3-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q3-2014-AnnualInterm_Results-Presentation.pdf/Q3-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "HY FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "hy-results-14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/hy-results-14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/hy-results-14.jpeg/hy-results-14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2014-AnnualInterm_Results-Results.pdf/Q2HY-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q2HY-2014-AnnualInterm_Results-Presentation.pdf/Q2HY-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 FY14 Results View Details",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-fy14.jpeg",
+        "file_type": "jpeg",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/results-centre/q1-results-fy14/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/q1-results-fy14.jpeg/q1-results-fy14.jpeg",
+        "content_type": [],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "Q1-2014-AnnualInterm_Results-Results.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2014-AnnualInterm_Results-Results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2014-AnnualInterm_Results-Results.pdf/Q1-2014-AnnualInterm_Results-Results.pdf",
+        "content_type": [],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2015/04/Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Q1-2014-AnnualInterm_Results-Presentation.pdf/Q1-2014-AnnualInterm_Results-Presentation.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2024Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-AGM.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/09/Ryanair-2024-AGM.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-09/Ryanair-2024-AGM.pdf/Ryanair-2024-AGM.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2024Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/04/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf/Ryanair-Shareholder-Forum-Apr-2024-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ryanair CMD \u2013 Sep. 23Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-CMD-\u2013-Sep.-23.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-09-23",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/09/Ryanair-CMD-\u2013-Sep.-23.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2025-09-23/Ryanair-CMD-%E2%80%93-Sep.-23.pdf/Ryanair-CMD-%E2%80%93-Sep.-23.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2023Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2023-AGM-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/09/Ryanair-2023-AGM-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-09/Ryanair-2023-AGM-Final.pdf/Ryanair-2023-AGM-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Boeing Order \u2013 May. 23Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Boeing-Final-ppt.-May-2023-.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/05/Boeing-Final-ppt.-May-2023-.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2025-05/Boeing-Final-ppt.-May-2023-.pdf/Boeing-Final-ppt.-May-2023-.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2023Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/04/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf/Ryanair-Shareholder-Forum-Apr.-20-Final-20.04.2023.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2022Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-AGM-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/09/Ryanair-2022-AGM-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-09/Ryanair-2022-AGM-Final.pdf/Ryanair-2022-AGM-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Sustainability Report 2022 Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/07/Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022/Ryanair-2022-Sustainability-Report-Interactive.pdf/Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "content_type": [
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2022Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Forum-Apr.-06-2022-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/04/Ryanair-Shareholder-Forum-Apr.-06-2022-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-04/Ryanair-Shareholder-Forum-Apr.-06-2022-Final.pdf/Ryanair-Shareholder-Forum-Apr.-06-2022-Final.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "September 2021Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2021-AGM-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-09",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/09/Ryanair-2021-AGM-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021-09/Ryanair-2021-AGM-Final.pdf/Ryanair-2021-AGM-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "April 2021Downloadpdf",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Shareholder-Corporate-Governance-Forum-April-15-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/05/Ryanair-Shareholder-Corporate-Governance-Forum-April-15-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021-04/Ryanair-Shareholder-Corporate-Governance-Forum-April-15-2021.pdf/Ryanair-Shareholder-Corporate-Governance-Forum-April-15-2021.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

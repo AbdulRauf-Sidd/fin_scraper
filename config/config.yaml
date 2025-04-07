@@ -2129,8 +2129,8 @@ OTIS_esg:
   ticker: OTIS
   scraper: null
   url: https://otisinvestors.com/esg/default.aspx
-  output: data/OTIS_governance.json
-  output_json: JSONS/OTIS_governance.json
+  output: data/OTIS_esg.json
+  output_json: JSONS/OTIS_esg.json
   base_address: https://investors.otis.com/
   periodic: null
   geography: "US"
@@ -2216,7 +2216,7 @@ RYAAY_agm:
   output: data/RYAAY_agm.json
   output_json: JSONS/RYAAY_agm.json
   base_address: https://investor.ryanair.com/
-  periodic: null
+  periodic: true
   geography: "european"
   forced_type: "annual-general-meeting"
   link_archive: links/RYAAY.txt

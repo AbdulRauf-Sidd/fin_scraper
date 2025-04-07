@@ -1,0 +1,352 @@
+[
+  {
+    "event_name": "2023 ESG Report",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Otis-ESG-Report-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/Otis-ESG-Report-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2023-04/Otis-ESG-Report-2023.pdf/Otis-ESG-Report-2023.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 Proxy",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2024-otis-proxy-statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_financials/2024/ar/2024-otis-proxy-statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2024/2024-otis-proxy-statement.pdf/2024-otis-proxy-statement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2023",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2023-otis-annual-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_financials/2023/ar/2023-otis-annual-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2023-04/2023-otis-annual-report.pdf/2023-otis-annual-report.pdf",
+        "content_type": [
+          "annual-report",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Invor Outreach (November 2023)",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2_ESG_Investor_Engagement_Presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-11",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2_ESG_Investor_Engagement_Presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2023-11/2_ESG_Investor_Engagement_Presentation.pdf/2_ESG_Investor_Engagement_Presentation.pdf",
+        "content_type": [
+          "esg",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2023 Proxy",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2023-Otis-Proxy-Statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2023-Otis-Proxy-Statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2023/2023-Otis-Proxy-Statement.pdf/2023-Otis-Proxy-Statement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2023 EEO-1 Report",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "otis-2023-eeo-1-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/2024/2024/05/otis-2023-eeo-1-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2023-04/otis-2023-eeo-1-report.pdf/otis-2023-eeo-1-report.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 EEO-1 Report",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "EEO1_JP22250_2022_Consolidated.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/EEO1_JP22250_2022_Consolidated.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2022-04/EEO1_JP22250_2022_Consolidated.pdf/EEO1_JP22250_2022_Consolidated.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2022",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2022-Otis-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2022-Otis-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2022-04/2022-Otis-Annual-Report.pdf/2022-Otis-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 ESG Report",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Otis-ESG-Report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/Otis-ESG-Report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2022-04/Otis-ESG-Report-2022.pdf/Otis-ESG-Report-2022.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Invor Outreach (November 2022)",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ESG-Investor-Deck-FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-11",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/ESG-Investor-Deck-FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2022-11/ESG-Investor-Deck-FINAL.pdf/ESG-Investor-Deck-FINAL.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2021",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2021-Otis-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2021-Otis-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2021-04/2021-Otis-Annual-Report.pdf/2021-Otis-Annual-Report.pdf",
+        "content_type": [
+          
+          "annual-report",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 Proxy",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2022-Otis-Proxy.pdf",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2022-Otis-Proxy.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2022/2022-Otis-Proxy.pdf/2022-Otis-Proxy.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 ESG Report",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ESG-Report-2021-ADA.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/ESG-Report-2021-ADA.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2021-04/ESG-Report-2021-ADA.pdf/ESG-Report-2021-ADA.pdf",
+        "content_type": [
+          
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Invor Outreach (November 2021)",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ESG-Investor-Outreach-November-2021_Final-002.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-11",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/ESG-Investor-Outreach-November-2021_Final-002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2021-11/ESG-Investor-Outreach-November-2021_Final-002.pdf/ESG-Investor-Outreach-November-2021_Final-002.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "ESG Presentation (March 2021)",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ESG-call_03-29-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-03",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/ESG-call_03-29-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2021-03/ESG-call_03-29-2021.pdf/ESG-call_03-29-2021.pdf",
+        "content_type": [
+          "esg",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Proxy",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2021-Otis-Proxy.pdf",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2021-Otis-Proxy.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2021/2021-Otis-Proxy.pdf/2021-Otis-Proxy.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2020 ESG At A Glance",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "ESG-At-A-Glance_FINAL.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/ESG-At-A-Glance_FINAL.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2020/ESG-At-A-Glance_FINAL.pdf/ESG-At-A-Glance_FINAL.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2020",
+    "equity_ticker": "OTIS",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2020-Otis-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://s203.q4cdn.com/227649559/files/doc_downloads/resources/2020-Otis-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OTIS/2020/2020-Otis-Annual-Report.pdf/2020-Otis-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
