@@ -2061,3 +2061,66 @@ SAN_group-holdings:
     next_button: div.panel-title a
     archive: null
     timeout: null
+
+OTIS_events&presentations1:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/events-and-presentations/default.aspx
+  output: data/OTIS_events&presentations1.json
+  output_json: JSONS/OTIS_events&presentations1.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: null
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.evergreen-g.evergreen-g--gutter
+  pagination:
+    type: null # drop down
+    next_button: div.pagination a[aria-label="Next"]
+    archive: null
+    timeout: null
+
+OTIS_events&presentations2:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/events-and-presentations/default.aspx
+  output: data/OTIS_events&presentations2.json
+  output_json: JSONS/OTIS_events&presentations2.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "presentation"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.evergreen-presentation-item-wrap.evergreen-presentation-item-wrap-position-right
+  pagination:
+    type: null # drop down
+    next_button: div.pagination a[aria-label="Next"]
+    archive: null
+    timeout: null
+
+OTIS_governance:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/governance/governance-documents/default.aspx
+  output: data/OTIS_governance.json
+  output_json: JSONS/OTIS_governance.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "esg"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.module_item
+  pagination:
+    type: null # drop down
+    next_button: null
+    archive: null
+    timeout: null
