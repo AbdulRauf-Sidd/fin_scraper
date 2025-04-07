@@ -205,6 +205,8 @@ def _cleanup_sentence(sentence: str) -> str:
     s = re.sub(r"(?i)\(opens\s+in\s+new\s+window\)", "", s)
     s = re.sub(r"(?i)PDF\s*Format", "", s)  # Handle cases where "PDF Format" appears as a substring
     s = re.sub(r"(?i)opens\s*in\s*new\s*window", "", s)  # Handle substring cases
+    # 5) Remove variations of "download" (case insensitive)
+    s = re.sub(r"(?i)\bdownload\b", "", s)
 
     # 6) Normalize spaces and punctuation:
     #    - collapse multiple whitespace -> single space

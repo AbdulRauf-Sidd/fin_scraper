@@ -2166,3 +2166,24 @@ RYAAY_results_center:
     next_button: button:has-text("More")
     archive: null
     timeout: null
+
+RYAAY_sustainability:
+  ticker: RYAAY
+  scraper: null
+  url: https://corporate.ryanair.com/sustainability/our-policies/
+  output: data/RYAAY_sustainability.json
+  output_json: JSONS/RYAAY_sustainability.json
+  base_address: https://investor.ryanair.com/
+  periodic: null
+  geography: "european"
+  forced_type: "esg"
+  link_archive: links/RYAAY.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: tr
+  pagination:
+    type: null
+    next_button: null
+    archive: null
+    timeout: null
