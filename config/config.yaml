@@ -2124,3 +2124,24 @@ OTIS_governance:
     next_button: null
     archive: null
     timeout: null
+
+OTIS_esg:
+  ticker: OTIS
+  scraper: null
+  url: https://otisinvestors.com/esg/default.aspx
+  output: data/OTIS_governance.json
+  output_json: JSONS/OTIS_governance.json
+  base_address: https://investors.otis.com/
+  periodic: null
+  geography: "US"
+  forced_type: "esg"
+  link_archive: links/OTIS.txt
+  headless: false
+  direct: true
+  selectors:
+    event_block: div.module-downloads_title.q4icons
+  pagination:
+    type: null # drop down
+    next_button: null
+    archive: null
+    timeout: null
