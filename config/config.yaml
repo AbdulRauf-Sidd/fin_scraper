@@ -1063,8 +1063,13 @@ SAP_reports:      # Configs finalized
   output: data/SAP_reports.json
   output_json: JSONS/SAP_reports.json
   base_address: https://www.sap.com/
+<<<<<<< Updated upstream
   periodic: null
   geography: "european"
+=======
+  periodic: true
+  geography: "US"
+>>>>>>> Stashed changes
   forced_type: "reports"
   link_archive: links/SAP.txt
   headless: false
@@ -1085,13 +1090,17 @@ SAP_presentations:
   output_json: JSONS/SAP_presentations.json
   base_address: https://www.sap.com/
   periodic: true
+<<<<<<< Updated upstream
   geography: "european"
+=======
+  geography: "US"
+>>>>>>> Stashed changes
   forced_type: "presentations"
   headless: false
   link_archive: links/SAP.txt
   direct: true
   selectors:
-    event_block: div.Grid__col-12--cMZPy.Grid__col-sm-6--Wmwsu.Grid__col-md-6--MlaR1.Grid__col-lg-3--brdpK.Grid__col-xl-3--r2yFD.Slider__column--o4xUU
+    event_block: div.Tile__emptyContainer--QCWjW
   pagination:
     type: button
     next_button: button.Button__button--Dgp43.Dots__arrowRight--K9QbC.Button__l--wew_t.Button__tertiary--u5zqY.Button__iconOnly--i5YpO
@@ -1106,7 +1115,11 @@ SAP_events:
   output_json: JSONS/SAP_events.json
   base_address: https://www.sap.com/
   periodic: false
+<<<<<<< Updated upstream
   geography: "european"
+=======
+  geography: "US"
+>>>>>>> Stashed changes
   forced_type: null
   link_archive: links/SAP.txt
   headless: true
@@ -1127,7 +1140,11 @@ SAP_news:
   output_json: JSONS/SAP_news.json
   base_address: https://www.sap.com/
   periodic: false
+<<<<<<< Updated upstream
   geography: "european"
+=======
+  geography: "US"
+>>>>>>> Stashed changes
   forced_type: "news"
   headless: false
   direct: true
