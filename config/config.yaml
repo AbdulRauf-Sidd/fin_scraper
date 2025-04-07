@@ -2167,16 +2167,16 @@ RYAAY_results_center:
     archive: null
     timeout: null
 
-RYAAY_sustainability:
+RYAAY_CSD_migration:
   ticker: RYAAY
   scraper: null
-  url: https://corporate.ryanair.com/sustainability/our-policies/
-  output: data/RYAAY_sustainability.json
-  output_json: JSONS/RYAAY_sustainability.json
+  url: https://investor.ryanair.com/investors-shareholders/csd-migration/
+  output: data/RYAAY_CSD_migration.json
+  output_json: JSONS/RYAAY_CSD_migration.json
   base_address: https://investor.ryanair.com/
   periodic: null
   geography: "european"
-  forced_type: "esg"
+  forced_type: null
   link_archive: links/RYAAY.txt
   headless: false
   direct: true
