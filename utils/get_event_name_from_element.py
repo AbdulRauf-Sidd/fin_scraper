@@ -214,7 +214,7 @@ def _cleanup_sentence(sentence: str) -> str:
     s = re.sub(r"\s+", " ", s).strip(" ,.-").strip()
 
     # If the result is empty after cleaning, use "Null"
-    return s if s else "Null"
+    return s if s else "null"
 
 
 
@@ -224,7 +224,7 @@ def _cleanup_sentence(sentence: str) -> str:
     s = re.sub(r"\s+", " ", s).strip(" ,.-").strip()
 
     # If the result is empty after cleaning, use "Null"
-    return s if s else "Null"
+    return s if s else "null"
 
 def _extract_fallback_event(html_snippet: str) -> str:
     """
