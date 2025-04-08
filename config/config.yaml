@@ -2117,7 +2117,7 @@ OTIS_governance:
   link_archive: links/OTIS.txt
   headless: false
   direct: true
-  selectors:
+  selectors: 
     event_block: div.module_item
   pagination:
     type: null # drop down
