@@ -1,0 +1,136 @@
+[
+  {
+    "event_name": "2024 AGM Presentation Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-AGM.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/09/Ryanair-2024-AGM.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-2024-AGM.pdf/Ryanair-2024-AGM.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 AGM Notice Download",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Final-AGM-Notice.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/08/Final-AGM-Notice.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Final-AGM-Notice.pdf/Final-AGM-Notice.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "202 4 AGM Proxy ",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2024-PROXY-FORM.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/08/2024-PROXY-FORM.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/2024-PROXY-FORM.pdf/2024-PROXY-FORM.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "202 4 Electronic Communication Letter ",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "AGM-2024-Electronic-Communications-Letter-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/08/AGM-2024-Electronic-Communications-Letter-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/AGM-2024-Electronic-Communications-Letter-Final.pdf/AGM-2024-Electronic-Communications-Letter-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 AGM ",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "AGM-2024-Opt-Out-Letter-Final.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/08/AGM-2024-Opt-Out-Letter-Final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/AGM-2024-Opt-Out-Letter-Final.pdf/AGM-2024-Opt-Out-Letter-Final.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 AGM Votes",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "AGM-Page-2024-Voting-results-Final-v1.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/09/AGM-Page-2024-Voting-results-Final-v1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/AGM-Page-2024-Voting-results-Final-v1.pdf/AGM-Page-2024-Voting-results-Final-v1.pdf",
+        "content_type": [
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY 2024",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-Annual-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2024/06/Ryanair-2024-Annual-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-2024-Annual-Report.pdf/Ryanair-2024-Annual-Report.pdf",
+        "content_type": [
+          "annual-report",
+          "annual-general-meeting"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

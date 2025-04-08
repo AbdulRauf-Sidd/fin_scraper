@@ -205,44 +205,6 @@ class PaginationHandler:
             print(f"⚠️ Error finding next page: {e}")
         return False
     
-    async def handle_dropdown_pagination(self, page, dropdown_selector):
-        """Handles dropdown pagination by selecting each option and scraping data."""
-        # Wait for dropdown to appear and click to open it
-        await page.wait_for_selector(dropdown_selector)
-        await page.click(dropdown_selector)
-
-        # Wait for dropdown options to appear (adjust the selector if needed)
-        await page.wait_for_selector(f"{dropdown_selector} + .chosen-drop .chosen-results li", timeout=5000)
-
-        # Get all option values (adjust the selector if necessary based on actual HTML structure)
-        option_values = await page.eval_on_selector_all(
-            f"{dropdown_selector} + .chosen-drop .chosen-results li",
-            "options => options.map(option => option.textContent.trim())"
-        )
-
-        print(f"🔽 Found {len(option_values)} dropdown options")
-
-        if len(option_values) == 0:
-            print("No options found. Check the dropdown and selectors.")
-            return []
-
-        all_events = []
-
-        for idx, value in enumerate(option_values):
-            print(f"\n➡️ Selecting option {idx+1}/{len(option_values)}: {value}")
-
-            # Select the option by clicking it
-            option_selector = f"{dropdown_selector} + .chosen-drop .chosen-results li:nth-child({idx + 1})"
-            await page.click(option_selector)
-            await asyncio.sleep(3)  # Let page update after selection
-
-            # Scrape events after selection
-            events = await self.extract_data_from_page(page)
-            print(f"✅ Scraped {len(events)} events from option '{value}'")
-            all_events.extend(events)
-
-        return all_events
-    
     async def click_expandable_containers(self, page, expand_button_selector):
         """
         Clicks all unexpanded accordion buttons to reveal hidden content.
@@ -276,3 +238,29 @@ class PaginationHandler:
         except Exception as e:
             print(f"❌ Error in click_expandable_containers: {e}")
             return False
+        
+    async def scroll_page_until_end(self, page):
+        """Scroll the page until no more content is loaded."""
+        last_height = await page.evaluate("document.body.scrollHeight")  # Get the initial page height
+
+        while True:
+            # Scroll down to the bottom of the page
+            await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+
+            # Wait for new content to load (this might vary depending on your page's loading mechanism)
+            await asyncio.sleep(2)  # Adjust this based on how long the page needs to load the new content
+
+            # Check the new height of the page
+            new_height = await page.evaluate("document.body.scrollHeight")
+
+            # If the height hasn't changed, we assume there's no more content to load
+            if new_height == last_height:
+                print("✅ No more content to load.")
+                break
+            
+            # Update the last height to the new height
+            last_height = new_height
+
+            print("🔄 Scrolling...")
+
+        print("✅ Scrolling finished.")

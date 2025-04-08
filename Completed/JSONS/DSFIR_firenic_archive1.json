@@ -74,18 +74,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2023-02-16",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/half-year-2023-results-transcript.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2023-02-16/inline/inline.pdf",
-        "content_type": [
-          "transcript",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "registration",
         "file_type": "html",
         "published_date": "2023-02-16",
@@ -112,18 +100,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-08-05/inline/inline.pdf",
         "content_type": [
           "presentation",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2022-08-05",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich-full-year-2022-results-transcript.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-08-05/inline/inline.pdf",
-        "content_type": [
-          "transcript",
           "historical-information"
         ],
         "record_type": "download"
@@ -161,19 +137,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2022-02-10",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_hy22_presentation_transcript.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2022-02-10/inline/inline.pdf",
-        "content_type": [
-          "presentation",
-          "transcript",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "registration",
         "file_type": "html",
         "published_date": "2022-02-10",
@@ -200,18 +163,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
         "content_type": [
           "presentation",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2021-04",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/full_year_2021_earnings_call_transcript.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021-04/inline/inline.pdf",
-        "content_type": [
-          "transcript",
           "historical-information"
         ],
         "record_type": "download"
@@ -248,18 +199,6 @@
         "record_type": "download"
       },
       {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2021",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/hy21_earnings_call.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2021/inline/inline.pdf",
-        "content_type": [
-          "transcript",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
         "file_name": "registration",
         "file_type": "html",
         "published_date": "2021",
@@ -286,18 +225,6 @@
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
         "content_type": [
           "presentation",
-          "historical-information"
-        ],
-        "record_type": "download"
-      },
-      {
-        "file_name": "inline",
-        "file_type": "pdf",
-        "published_date": "2020",
-        "source_url": "https://investors.dsm-firmenich.com/content/dam/dsm-firmenich/investors/documents/historical-information/firmenich/firmenich_fy_2020_results_transcript.pdf",
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DSFIR/2020/inline/inline.pdf",
-        "content_type": [
-          "transcript",
           "historical-information"
         ],
         "record_type": "download"

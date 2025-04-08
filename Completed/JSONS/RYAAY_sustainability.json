@@ -1,0 +1,311 @@
+[
+  {
+    "event_name": "Ryanair-Holdings-plc-Anti-Bribery-Anti-Corruption-Policy-2022",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-Anti-Bribery-Anti-Corruption-Policy-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2022/02/Ryanair-Holdings-plc-Anti-Bribery-Anti-Corruption-Policy-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Holdings-plc-Anti-Bribery-Anti-Corruption-Policy-2022.pdf/Ryanair-Holdings-plc-Anti-Bribery-Anti-Corruption-Policy-2022.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Code of Business Conduct & Ethics",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Holdings-plc-Code-of-Business-Conduct-and-Ethics.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/01/Ryanair-Holdings-plc-Code-of-Business-Conduct-and-Ethics.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Holdings-plc-Code-of-Business-Conduct-and-Ethics.pdf/Ryanair-Holdings-plc-Code-of-Business-Conduct-and-Ethics.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ryanair_Freedom-of-Association-Policy",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair_Freedom-of-Association-Policy.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/12/Ryanair_Freedom-of-Association-Policy.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair_Freedom-of-Association-Policy.pdf/Ryanair_Freedom-of-Association-Policy.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Environmental-Policy",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Environmental-Policy.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2024/09/Environmental-Policy.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Environmental-Policy.pdf/Environmental-Policy.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Information Security Policy",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "CREA-2871_Information-Security-Policy-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2023/01/CREA-2871_Information-Security-Policy-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/CREA-2871_Information-Security-Policy-Report.pdf/CREA-2871_Information-Security-Policy-Report.pdf",
+        "content_type": [
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ryanair_Non-Discrimination-Policy",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair_Non-Discrimination-Policy.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/12/Ryanair_Non-Discrimination-Policy.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair_Non-Discrimination-Policy.pdf/Ryanair_Non-Discrimination-Policy.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Public Affairs Statement",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair_Public-Affairs-Statement.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2021/12/Ryanair_Public-Affairs-Statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair_Public-Affairs-Statement.pdf/Ryanair_Public-Affairs-Statement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "FY23-Remuneration-policy",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "FY23-Remuneration-policy-FINAL-CLEAN.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://investor.ryanair.com/wp-content/uploads/2023/08/FY23-Remuneration-policy-FINAL-CLEAN.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/FY23-Remuneration-policy-FINAL-CLEAN.pdf/FY23-Remuneration-policy-FINAL-CLEAN.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Ryanair-Supplier-Code-of-Conduct",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-Supplier-Code-of-Conduct.pdf",
+        "file_type": "pdf",
+        "published_date": "Null",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2024/06/Ryanair-Supplier-Code-of-Conduct.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/Null/Ryanair-Supplier-Code-of-Conduct.pdf/Ryanair-Supplier-Code-of-Conduct.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2024 Sustainability Report",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2024-Sustainability-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2024/06/Ryanair-2024-Sustainability-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Ryanair-2024-Sustainability-Report.pdf/Ryanair-2024-Sustainability-Report.pdf",
+        "content_type": [
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Board-Diversity-Matrix-2024",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Board-Diversity-Matrix-2024-Nasdaq-requirement.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2024/07/Board-Diversity-Matrix-2024-Nasdaq-requirement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2024-04/Board-Diversity-Matrix-2024-Nasdaq-requirement.pdf/Board-Diversity-Matrix-2024-Nasdaq-requirement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2023 Sustainability Report",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2023-Sustainability-Report.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2023/07/Ryanair-2023-Sustainability-Report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Ryanair-2023-Sustainability-Report.pdf/Ryanair-2023-Sustainability-Report.pdf",
+        "content_type": [
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Board-Diversity-Matrix-2023",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Board-Diversity-Matrix-2023-Nasdaq-Requirement.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2023/07/Board-Diversity-Matrix-2023-Nasdaq-Requirement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2023-04/Board-Diversity-Matrix-2023-Nasdaq-Requirement.pdf/Board-Diversity-Matrix-2023-Nasdaq-Requirement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2022 Sustainability Report",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2022/07/Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-04/Ryanair-2022-Sustainability-Report-Interactive.pdf/Ryanair-2022-Sustainability-Report-Interactive.pdf",
+        "content_type": [
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Board-Diversity-Matrix-2022",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "Board-Diversity-Matrix-2022-Nasdaq-Requirement.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2022/07/Board-Diversity-Matrix-2022-Nasdaq-Requirement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2022-04/Board-Diversity-Matrix-2022-Nasdaq-Requirement.pdf/Board-Diversity-Matrix-2022-Nasdaq-Requirement.pdf",
+        "content_type": [
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "2021 Sustainability Report",
+    "equity_ticker": "RYAAY",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "2021-Sustainability-Report_Spreads.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-04",
+        "source_url": "https://corporate.ryanair.com/wp-content/uploads/2021/12/2021-Sustainability-Report_Spreads.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RYAAY/2021-04/2021-Sustainability-Report_Spreads.pdf/2021-Sustainability-Report_Spreads.pdf",
+        "content_type": [
+          "esg",
+          "financial-filing"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
