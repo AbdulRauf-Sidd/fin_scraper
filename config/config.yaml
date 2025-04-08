@@ -1481,15 +1481,15 @@ HEIO_reports:
     archive: null
     timeout: null
 
-RKT_presentations:  #working
-  ticker: RKT
+RB_presentations:  #working
+  ticker: RB
   scraper: null
   url: https://www.reckitt.com/investors/results-presentations/?refinementList%5Byear%5D=&page=6&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Results%22%29
-  output: data/RKT_presentations.json
-  output_json: JSONS/RKT_presentations.json
+  output: data/RB_presentations.json
+  output_json: JSONS/RB_presentations.json
   base_address: https://www.reckitt.com/
   periodic: true
-  link_archive: links/RKT.txt
+  link_archive: links/RB.txt
   geography: "european"
   forced_type: "presentations"
   link_archive: links/HEIO.txt
@@ -1503,17 +1503,17 @@ RKT_presentations:  #working
     archive: null
     timeout: null
 
-RKT_investor_seminars:  #working
-  ticker: RKT
+RB_investor_seminars:  #working
+  ticker: RB
   scraper: null
   url: https://www.reckitt.com/investors/investor-seminars/?refinementList%5Byear%5D%5B0%5D=2021&refinementList%5Byear%5D%5B1%5D=2022&page=1&configure%5BhitsPerPage%5D=5&configure%5BnumericFilters%5D%5B0%5D=landingPageId%20%3D%204839&configure%5Bfilters%5D=lang%3A%20%22en-gb%22%20AND%20articleTags.name%3A%20%22Performance%22%20AND%20%28articleSubTags.name%3A%20%22Seminars%22%29
-  output: data/RKT_investor_seminars.json
-  output_json: JSONS/RKT_investor_seminars.json
+  output: data/RB_investor_seminars.json
+  output_json: JSONS/RB_investor_seminars.json
   base_address: https://www.reckitt.com/
   periodic: false
   geography: "european"
   forced_type: "seminars"
-  link_archive: links/RKT.txt
+  link_archive: links/RB.txt
   headless: false
   direct: false
   selectors:
@@ -1524,17 +1524,17 @@ RKT_investor_seminars:  #working
     archive: null
     timeout: null
 
-RKT_news:             #Iframe, And other big problems
-  ticker: RKT
+RB_news:             #Iframe, And other big problems
+  ticker: RB
   scraper: null
   url: https://www.reckitt.com/investors/regulatory-news/
-  output: data/RKT_news.json
-  output_json: JSONS/RKT_news.json
+  output: data/RB_news.json
+  output_json: JSONS/RB_news.json
   base_address: https://www.reckitt.com/
   periodic: false
   geography: "european"
   forced_type: "news"
-  link_archive: links/RKT.txt
+  link_archive: links/RB.txt
   headless: false
   direct: true
   selectors:
@@ -1545,17 +1545,17 @@ RKT_news:             #Iframe, And other big problems
     archive: null
     timeout: null 
 
-RKT_agm:            # working
-  ticker: RKT
+RB_agm:            # working
+  ticker: RB
   scraper: null
   url: https://www.reckitt.com/investors/annual-general-meetings/
-  output: data/RKT_agm.json
-  output_json: JSONS/RKT_agm.json
+  output: data/RB_agm.json
+  output_json: JSONS/RB_agm.json
   base_address: https://www.reckitt.com/
   periodic: false
   geography: "european"
   forced_type: "Annual General Meetings"
-  link_archive: links/RKT.txt
+  link_archive: links/RB.txt
   headless: false
   direct: false
   selectors:
