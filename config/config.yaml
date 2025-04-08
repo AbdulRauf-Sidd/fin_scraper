@@ -526,7 +526,7 @@ IFF_press:      # COMPLETED
 #     timeout: 5
 
 
-KO_company-updates:     #
+KO_company-updates:  
   ticker: KO
   scraper: null
   url: https://investors.coca-colacompany.com/
@@ -544,7 +544,7 @@ KO_company-updates:     #
     type: null
     next_button: null
 
-KO_poclicies-practices-reports:     # 
+KO_poclicies-practices-reports:     
   ticker: KO
   url: https://www.coca-colacompany.com/policies-and-practices/
   output: data/KO_poclicies-practices-reports.json
@@ -561,7 +561,7 @@ KO_poclicies-practices-reports:     #
     type: null
     next_button: null
 
-KO_press:     # 
+KO_press:
   ticker: KO
   url: https://investors.coca-colacompany.com/news-events/press-releases
   output: data/KO_press.json
@@ -608,7 +608,7 @@ RL_newsroom:
 RL_news:     
   ticker: 
   link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=2025&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-sGYko_3PbuRrwqHUP37VwZbEmG617ODbr7_1qHi_SUA&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
+  url: https://investor.ralphlauren.com/news-releases?65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_year%5Bvalue%5D=_none&65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef_widget_id=65a9a5534660a4b6eec500b10c3e02b9cc2b63be5f8b25105960dac77707cfef&form_build_id=form-HE_K2VJ5zhXIb8HTswkXZK7fuF36vNNJZ2G7u4ehhUY&form_id=widget_form_base#widget-form-base#widget-form-base#widget-form-base
   output: data/RL_news.json
   output_json: JSONS/RL_news.json
   base_address: https://investor.ralphlauren.com/
@@ -616,7 +616,7 @@ RL_news:
   geography: "US"
   forced_type: "news"
   headless: false
-  direct: false
+  direct: true
   selectors:
     event_block: table.nirtable tbody tr
   pagination:
@@ -629,7 +629,7 @@ RL_news:
 RL_earnings:     
   ticker: RL
   link_archive: 'links/RL.txt'
-  url: https://investor.ralphlauren.com/earnings-releases
+  url: https://investor.ralphlauren.com/earnings-releases?283c69e2b8b2d18a8a511098ef9a18d99aa6989583a820535d82a52ab743e398_year%5Bvalue%5D=_none&op=Filter&283c69e2b8b2d18a8a511098ef9a18d99aa6989583a820535d82a52ab743e398_widget_id=283c69e2b8b2d18a8a511098ef9a18d99aa6989583a820535d82a52ab743e398&form_build_id=form-lLLHcLquF_zP72gBqg-dfPu8-XXNR8jr2F8Gn358HyY&form_id=widget_form_base
   output: data/RL_earnings.json
   output_json: JSONS/RL_earnings.json
   base_address: https://investor.ralphlauren.com/
@@ -637,13 +637,13 @@ RL_earnings:
   geography: "US"
   forced_type: null
   headless: false
-  direct: false
+  direct: true
   selectors:
-    event_block: tbody tr
+    event_block: table.nirtable tbody tr
   pagination:
     type: null
     next_button: null
-    archive: .archive-toggler
+    archive: null
     timeout: 5
 
 #checkkkkkk
@@ -1710,8 +1710,8 @@ NOVO-B_finance:     #LLM  # Remaining ( Hassan Expand function remaining )
   selectors:
     event_block: 
   pagination:
-    type: null
-    next_button:  null
+    type: collapse_all
+    next_button:  button.cmp-accordion__button
     archive: null
     timeout: null
 
@@ -1913,7 +1913,7 @@ RACE_press:         #Complete
 RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   ticker: RACE
   scraper: null
-  url: https://www.ferrari.com/en-EN/corporate/financial-documents?
+  url: https://www.ferrari.com/en-EN/corporate/financial-documents
   output: data/RACE_financial.json
   output_json: JSONS/RACE_financial-.json
   base_address: https://www.ferrari.com/
@@ -1922,12 +1922,12 @@ RACE_financial:    #testing done ( working ) ( handle dropdown pagination )
   forced_type: "financial-filing"
   link_archive: "links/RACE.txt"
   headless: false
-  direct: false
+  direct: true
   selectors:
-    event_block: div.LinkAccordion__link__2oOddzNW
+    event_block: div.LinkAccordion__row__1CsdAIPq
   pagination:
-    type: dropdown
-    next_button: div.DropdownCustom__frame__1IAT8aD6
+    type: pagination_by_?year
+    next_button: null
     archive: null
     timeout: null
 
@@ -1943,11 +1943,11 @@ RACE_news:
   forced_type: "news"
   link_archive: "links/RACE.txt"
   headless: false
-  direct: false
+  direct: false 
   selectors:
-    event_block: div.NewsPage__grid-row__2hkTTLLU
+    event_block: a.Card__card__cwFFUad8 
   pagination:
-    type: null
+    type: scroll
     next_button:  null
     archive: null
     timeout: null
@@ -2059,6 +2059,111 @@ SAN_group-holdings:
   pagination:
     type: expand_all
     next_button: div.panel-title a
+    archive: null
+    timeout: null
+
+UNLV_presentations:
+  ticker: UNLV
+  scraper: null
+  link_archive: 'links/UNLV.txt'
+  url: https://www.unilever.com/investors/results-presentations-webcasts/
+  output: data/UNLV_presentations.json
+  output_json: JSONS/UNLV_presentations.json
+  base_address: https://www.unilever.com/
+  periodic: null
+  geography: "european"
+  forced_type: "presentations"
+  headless: false
+  direct: false
+  selectors:
+    event_block: .uol-c-card__content
+  pagination:
+    type: pagination_by_url
+    next_button: null
+    archive: null
+    timeout: null 
+
+UNLV_press:
+  ticker: UNLV
+  scraper: null
+  link_archive: 'links/UNLV.txt'
+  url: https://www.unilever.com/news/press-and-media/press-releases/
+  output: data/UNLV_press.json
+  output_json: JSONS/UNLV_press.json
+  base_address: https://www.unilever.com/
+  periodic: false
+  geography: "european"
+  forced_type: "press"
+  headless: false
+  direct: false
+  selectors:
+    event_block: .uol-c-card__content
+  pagination:
+    type: pagination_by_url
+    next_button: null
+    archive: null
+    timeout: null
+
+UNLV_announcements:   #Review Required
+  ticker: UNLV
+  scraper: null
+  link_archive: 'links/UNLV.txt'
+  url: https://www.unilever.com/investors/news-and-announcements/regulatory-announcements/
+  output: data/UNLV_announcements.json
+  output_json: JSONS/UNLV_announcements.json
+  base_address: https://www.unilever.com/
+  periodic: null
+  geography: "european"
+  forced_type: "announcements"
+  headless: false
+  direct: false
+  selectors:
+    event_block: 
+  pagination:
+    type: button
+    next_button: null
+    archive: null
+    timeout: null
+
+HEN_press:
+  ticker: HEN
+  scraper: null
+  link_archive: 'links/HEN.txt'
+  url: https://www.henkel.com/press-and-media/press-releases-and-kits
+  output: data/HEN_press.json
+  output_json: JSONS/HEN_press.json
+  base_address: https://www.henkel.com/
+  periodic: false
+  geography: "european"
+  forced_type: "press"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.news.teaser.white a section
+  pagination:
+    type: load_more
+    next_button: button.bab-button--primary-no-icon.bab-filters__results-loadMore
+    archive: null
+    timeout: null
+
+HEN_events:
+  ticker: HEN
+  scraper: null
+  link_archive: 'links/HEN.txt'
+  url: https://www.henkel.com/investors-and-analysts/events
+  output: data/HEN_events.json
+  output_json: JSONS/HEN_events.json
+  base_address: https://www.henkel.com/
+  periodic: true
+  geography: "european"
+  forced_type: "events"
+  headless: false
+  direct: false
+  selectors:
+    event_block: div.swiper-slide
+  pagination:
+    type: null
+    next_button: null
     archive: null
     timeout: null
 

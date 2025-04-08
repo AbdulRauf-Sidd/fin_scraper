@@ -129,18 +129,16 @@ class Scraper:
                             print("✅ No more pages.")
                             break
                         page_num += 1
-
                 elif pag_type == "load_more":
                     if selector:
                         await self.pagination_handler.click_load_more(page, selector)
                     events = await self.extract_data_from_page(page)
                     all_events.extend(events)
-                elif pag_type == "dropdown":
-                    if not selector:
-                        print("❌ Missing 'dropdown_selector' in config for pagination type 'dropdown'")
-                    else:
-                        events = await self.pagination_handler.handle_dropdown_pagination(page, selector)
-                        all_events.extend(events)
+                elif pag_type == "scroll":
+                    await self.pagination_handler.scroll_page_until_end(page)
+                    event = await self.extract_data_from_page(page)
+                    all_events.extend(event)
+                    print(f"✅ Scraped {len(event)} items from page")
                 elif pag_type == "next_page_url":
                     while True:
                         print(f"\n📄 Scraping page {page_num}")
@@ -154,13 +152,22 @@ class Scraper:
                             break
                         page_num += 1
                 elif pag_type == "pagination_by_url":
-                    for i in range(self.start_page, self.end_page + 1):
-                        print(f"\n📄 Scraping page {i}")
-                        url = self.base_url + self.pagination_url.replace('REPLACE', f"{i}")
-                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                    for i in range(2, 15):
                         events = await self.extract_data_from_page(page)
                         all_events.extend(events)
-                        print(f"✅ Scraped {len(events)} items from page {i}")
+                        print(f"✅ Scraped {len(events)} items from page")
+                        url = self.base_url + f'/{i}'
+                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        print(f"✅ Page loaded {i}")
+                elif pag_type == "pagination_by_?year":
+                    years = [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
+                    for i in years:
+                        url = self.base_url + f"/?year={i}"
+                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        print(f"scrapping year {i}")
+                        events = await self.extract_data_from_page(page)
+                        all_events.extend(events)
+                        print(f"scrapped {len(events)} for year {i}")
                 elif pag_type == "expand_all":
                     while True:
                         print(f"\n📄 Scraping page")

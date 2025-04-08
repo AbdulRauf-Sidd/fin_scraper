@@ -1,0 +1,903 @@
+[
+  {
+    "event_name": "Q2 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "49e623b6-1d37-49f1-bdb3-e4b120535f2f",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "source_url": "https://investor.ralphlauren.com/static-files/49e623b6-1d37-49f1-bdb3-e4b120535f2f",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025/49e623b6-1d37-49f1-bdb3-e4b120535f2f/49e623b6-1d37-49f1-bdb3-e4b120535f2f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2025",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "6a5701e0-e5a8-4ecb-963b-2eac9a211bb3",
+        "file_type": "pdf",
+        "published_date": "2025",
+        "source_url": "https://investor.ralphlauren.com/static-files/6a5701e0-e5a8-4ecb-963b-2eac9a211bb3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2025/6a5701e0-e5a8-4ecb-963b-2eac9a211bb3/6a5701e0-e5a8-4ecb-963b-2eac9a211bb3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "e68bea5a-e38c-4a2e-bb82-992cfbfd7c53",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://investor.ralphlauren.com/static-files/e68bea5a-e38c-4a2e-bb82-992cfbfd7c53",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024/e68bea5a-e38c-4a2e-bb82-992cfbfd7c53/e68bea5a-e38c-4a2e-bb82-992cfbfd7c53.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "b542ab6e-2752-4746-95b2-310415e2359f",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://investor.ralphlauren.com/static-files/b542ab6e-2752-4746-95b2-310415e2359f",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024/b542ab6e-2752-4746-95b2-310415e2359f/b542ab6e-2752-4746-95b2-310415e2359f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "af58e429-b23d-4be6-be07-f92ad3f767cb",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://investor.ralphlauren.com/static-files/af58e429-b23d-4be6-be07-f92ad3f767cb",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024/af58e429-b23d-4be6-be07-f92ad3f767cb/af58e429-b23d-4be6-be07-f92ad3f767cb.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2024",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "133fda77-9e6e-4031-a9cf-294a4e08855d",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://investor.ralphlauren.com/static-files/133fda77-9e6e-4031-a9cf-294a4e08855d",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024/133fda77-9e6e-4031-a9cf-294a4e08855d/133fda77-9e6e-4031-a9cf-294a4e08855d.pdf",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "bed07484-3afb-4ab1-8ab3-1d71a6e7f7a8",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://investor.ralphlauren.com/static-files/bed07484-3afb-4ab1-8ab3-1d71a6e7f7a8",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2024/bed07484-3afb-4ab1-8ab3-1d71a6e7f7a8/bed07484-3afb-4ab1-8ab3-1d71a6e7f7a8.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "732d3962-d24e-4f97-a5f2-ad6221ebc30e",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://investor.ralphlauren.com/static-files/732d3962-d24e-4f97-a5f2-ad6221ebc30e",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023/732d3962-d24e-4f97-a5f2-ad6221ebc30e/732d3962-d24e-4f97-a5f2-ad6221ebc30e.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "a95230e0-3e99-4ec6-9f53-b6fbbf5bd6f1",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://investor.ralphlauren.com/static-files/a95230e0-3e99-4ec6-9f53-b6fbbf5bd6f1",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023/a95230e0-3e99-4ec6-9f53-b6fbbf5bd6f1/a95230e0-3e99-4ec6-9f53-b6fbbf5bd6f1.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ab8a6843-b3e5-421d-813e-0aa0250988f9",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://investor.ralphlauren.com/static-files/ab8a6843-b3e5-421d-813e-0aa0250988f9",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023/ab8a6843-b3e5-421d-813e-0aa0250988f9/ab8a6843-b3e5-421d-813e-0aa0250988f9.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2023",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "0e24dfa6-ecc6-4814-8910-79d7e30567fd",
+        "file_type": "pdf",
+        "published_date": "2023",
+        "source_url": "https://investor.ralphlauren.com/static-files/0e24dfa6-ecc6-4814-8910-79d7e30567fd",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2023/0e24dfa6-ecc6-4814-8910-79d7e30567fd/0e24dfa6-ecc6-4814-8910-79d7e30567fd.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "7a98ec3e-6229-4d62-b704-06bcc5045153",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ralphlauren.com/static-files/7a98ec3e-6229-4d62-b704-06bcc5045153",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022/7a98ec3e-6229-4d62-b704-06bcc5045153/7a98ec3e-6229-4d62-b704-06bcc5045153.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "1c07a9eb-c29a-42ee-b0b9-a486d1395658",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ralphlauren.com/static-files/1c07a9eb-c29a-42ee-b0b9-a486d1395658",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022/1c07a9eb-c29a-42ee-b0b9-a486d1395658/1c07a9eb-c29a-42ee-b0b9-a486d1395658.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "957d0f8f-6c3c-4149-9581-458e189cf67e",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ralphlauren.com/static-files/957d0f8f-6c3c-4149-9581-458e189cf67e",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022/957d0f8f-6c3c-4149-9581-458e189cf67e/957d0f8f-6c3c-4149-9581-458e189cf67e.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2022",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "7ee1afd8-731c-42d1-a591-e5e5a47e99f5",
+        "file_type": "pdf",
+        "published_date": "2022",
+        "source_url": "https://investor.ralphlauren.com/static-files/7ee1afd8-731c-42d1-a591-e5e5a47e99f5",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2022/7ee1afd8-731c-42d1-a591-e5e5a47e99f5/7ee1afd8-731c-42d1-a591-e5e5a47e99f5.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2021",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "efad3959-1541-43ef-81e8-e2ffda99bb2f",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investor.ralphlauren.com/static-files/efad3959-1541-43ef-81e8-e2ffda99bb2f",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2021/efad3959-1541-43ef-81e8-e2ffda99bb2f/efad3959-1541-43ef-81e8-e2ffda99bb2f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2021",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "7089c47a-3226-46c8-8001-9cb48c92362b",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investor.ralphlauren.com/static-files/7089c47a-3226-46c8-8001-9cb48c92362b",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2021/7089c47a-3226-46c8-8001-9cb48c92362b/7089c47a-3226-46c8-8001-9cb48c92362b.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2021",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "2b33a90f-dbe5-4f0b-a92b-33156aec59ad",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investor.ralphlauren.com/static-files/2b33a90f-dbe5-4f0b-a92b-33156aec59ad",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2021/2b33a90f-dbe5-4f0b-a92b-33156aec59ad/2b33a90f-dbe5-4f0b-a92b-33156aec59ad.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2021",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "87f0ec56-28a3-4aed-bf15-3f53b3ebf10e",
+        "file_type": "pdf",
+        "published_date": "2021",
+        "source_url": "https://investor.ralphlauren.com/static-files/87f0ec56-28a3-4aed-bf15-3f53b3ebf10e",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2021/87f0ec56-28a3-4aed-bf15-3f53b3ebf10e/87f0ec56-28a3-4aed-bf15-3f53b3ebf10e.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2020",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "13db2865-4aba-4d5e-b264-36d0577ce778",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ralphlauren.com/static-files/13db2865-4aba-4d5e-b264-36d0577ce778",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2020/13db2865-4aba-4d5e-b264-36d0577ce778/13db2865-4aba-4d5e-b264-36d0577ce778.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2020",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "0b789f43-bf45-4025-959c-fc639378b84b",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ralphlauren.com/static-files/0b789f43-bf45-4025-959c-fc639378b84b",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2020/0b789f43-bf45-4025-959c-fc639378b84b/0b789f43-bf45-4025-959c-fc639378b84b.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2020",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "34b8da9d-ee36-4292-b648-8821b20c53fb",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ralphlauren.com/static-files/34b8da9d-ee36-4292-b648-8821b20c53fb",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2020/34b8da9d-ee36-4292-b648-8821b20c53fb/34b8da9d-ee36-4292-b648-8821b20c53fb.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2020",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "8136ba47-8849-4e34-aee3-a9efa87deab7",
+        "file_type": "pdf",
+        "published_date": "2020",
+        "source_url": "https://investor.ralphlauren.com/static-files/8136ba47-8849-4e34-aee3-a9efa87deab7",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2020/8136ba47-8849-4e34-aee3-a9efa87deab7/8136ba47-8849-4e34-aee3-a9efa87deab7.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2019",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ad26de5a-f169-437e-be81-f6a1386a084d",
+        "file_type": "pdf",
+        "published_date": "2019-05-14",
+        "source_url": "https://investor.ralphlauren.com/static-files/ad26de5a-f169-437e-be81-f6a1386a084d",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2019-05-14/ad26de5a-f169-437e-be81-f6a1386a084d/ad26de5a-f169-437e-be81-f6a1386a084d.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2019",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "918a2b25-2a41-4e15-834c-2b2a6138851a",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://investor.ralphlauren.com/static-files/918a2b25-2a41-4e15-834c-2b2a6138851a",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2019/918a2b25-2a41-4e15-834c-2b2a6138851a/918a2b25-2a41-4e15-834c-2b2a6138851a.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2019",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "86bd764f-e2ef-42e7-9a6d-0dbfa3ca35e3",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investor.ralphlauren.com/static-files/86bd764f-e2ef-42e7-9a6d-0dbfa3ca35e3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-04/86bd764f-e2ef-42e7-9a6d-0dbfa3ca35e3/86bd764f-e2ef-42e7-9a6d-0dbfa3ca35e3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2019",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "89d89cbb-6e0c-4f19-b62d-099f3d1fb55d",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://investor.ralphlauren.com/static-files/89d89cbb-6e0c-4f19-b62d-099f3d1fb55d",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2019/89d89cbb-6e0c-4f19-b62d-099f3d1fb55d/89d89cbb-6e0c-4f19-b62d-099f3d1fb55d.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2018",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2018",
+        "file_type": "html",
+        "published_date": "2018-04-23",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2018",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-04-23/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2018/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2018.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "7925386d-6d7d-4759-8f3e-e74fa1eb890f",
+        "file_type": "pdf",
+        "published_date": "2018-04-23",
+        "source_url": "https://investor.ralphlauren.com/static-files/7925386d-6d7d-4759-8f3e-e74fa1eb890f",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-04-23/7925386d-6d7d-4759-8f3e-e74fa1eb890f/7925386d-6d7d-4759-8f3e-e74fa1eb890f.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2018",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-announces-date-its-fourth-quarter-and-full-year",
+        "file_type": "html",
+        "published_date": "2018-03-31",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-announces-date-its-fourth-quarter-and-full-year",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-03-31/ralph-lauren-announces-date-its-fourth-quarter-and-full-year/ralph-lauren-announces-date-its-fourth-quarter-and-full-year.html",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pdf",
+        "file_type": "pdf",
+        "published_date": "2018-03-31",
+        "source_url": "https://investor.ralphlauren.com/node/16436/pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-03-31/pdf/pdf.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2018",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-third-quarter-fiscal-2018-results-0",
+        "file_type": "html",
+        "published_date": "2018-04",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-third-quarter-fiscal-2018-results-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-04/ralph-lauren-reports-third-quarter-fiscal-2018-results-0/ralph-lauren-reports-third-quarter-fiscal-2018-results-0.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "369c9213-fee8-4ea2-8931-2a813ade02c3",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://investor.ralphlauren.com/static-files/369c9213-fee8-4ea2-8931-2a813ade02c3",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018-04/369c9213-fee8-4ea2-8931-2a813ade02c3/369c9213-fee8-4ea2-8931-2a813ade02c3.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2018",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-second-quarter-fiscal-2018-results",
+        "file_type": "html",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-second-quarter-fiscal-2018-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-04/ralph-lauren-reports-second-quarter-fiscal-2018-results/ralph-lauren-reports-second-quarter-fiscal-2018-results.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "10a77a4d-7b5a-4b86-844b-66a1bc245873",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ralphlauren.com/static-files/10a77a4d-7b5a-4b86-844b-66a1bc245873",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-04/10a77a4d-7b5a-4b86-844b-66a1bc245873/10a77a4d-7b5a-4b86-844b-66a1bc245873.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2018",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-first-quarter-fiscal-2018-results",
+        "file_type": "html",
+        "published_date": "2018",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-first-quarter-fiscal-2018-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018/ralph-lauren-reports-first-quarter-fiscal-2018-results/ralph-lauren-reports-first-quarter-fiscal-2018-results.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "14b2e843-519a-4bea-af5e-810b19bbbd71",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://investor.ralphlauren.com/static-files/14b2e843-519a-4bea-af5e-810b19bbbd71",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2018/14b2e843-519a-4bea-af5e-810b19bbbd71/14b2e843-519a-4bea-af5e-810b19bbbd71.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2017",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2017",
+        "file_type": "html",
+        "published_date": "2017-05-18",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2017",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-05-18/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2017/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2017.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "09ff7888-47a1-4582-9ce0-6335ca173cbf",
+        "file_type": "pdf",
+        "published_date": "2017-05-18",
+        "source_url": "https://investor.ralphlauren.com/static-files/09ff7888-47a1-4582-9ce0-6335ca173cbf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-05-18/09ff7888-47a1-4582-9ce0-6335ca173cbf/09ff7888-47a1-4582-9ce0-6335ca173cbf.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2017",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-third-quarter-fiscal-2017-results",
+        "file_type": "html",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-third-quarter-fiscal-2017-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-04/ralph-lauren-reports-third-quarter-fiscal-2017-results/ralph-lauren-reports-third-quarter-fiscal-2017-results.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "af71751f-871c-4059-89a0-2d06e392e943",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://investor.ralphlauren.com/static-files/af71751f-871c-4059-89a0-2d06e392e943",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017-04/af71751f-871c-4059-89a0-2d06e392e943/af71751f-871c-4059-89a0-2d06e392e943.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2017",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-second-quarter-fiscal-2017-results-and",
+        "file_type": "html",
+        "published_date": "2017",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-second-quarter-fiscal-2017-results-and",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017/ralph-lauren-reports-second-quarter-fiscal-2017-results-and/ralph-lauren-reports-second-quarter-fiscal-2017-results-and.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "42a639c3-f11a-4037-8c1a-06aab25f5750",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://investor.ralphlauren.com/static-files/42a639c3-f11a-4037-8c1a-06aab25f5750",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017/42a639c3-f11a-4037-8c1a-06aab25f5750/42a639c3-f11a-4037-8c1a-06aab25f5750.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2017",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-first-quarter-fiscal-2017-results",
+        "file_type": "html",
+        "published_date": "2017",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-first-quarter-fiscal-2017-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017/ralph-lauren-reports-first-quarter-fiscal-2017-results/ralph-lauren-reports-first-quarter-fiscal-2017-results.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "06020100-2081-4630-9571-884c3eb0959e",
+        "file_type": "pdf",
+        "published_date": "2017",
+        "source_url": "https://investor.ralphlauren.com/static-files/06020100-2081-4630-9571-884c3eb0959e",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2017/06020100-2081-4630-9571-884c3eb0959e/06020100-2081-4630-9571-884c3eb0959e.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2016",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2016",
+        "file_type": "html",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2016/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2016.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "5d911db2-261a-40a8-9df7-fa48395f6da8",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/static-files/5d911db2-261a-40a8-9df7-fa48395f6da8",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/5d911db2-261a-40a8-9df7-fa48395f6da8/5d911db2-261a-40a8-9df7-fa48395f6da8.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2016",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-announces-dates-fourth-quarter-and-full-year-fiscal",
+        "file_type": "html",
+        "published_date": "2016-04-02",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-announces-dates-fourth-quarter-and-full-year-fiscal",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016-04-02/ralph-lauren-announces-dates-fourth-quarter-and-full-year-fiscal/ralph-lauren-announces-dates-fourth-quarter-and-full-year-fiscal.html",
+        "content_type": [
+          "announcement"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04-02",
+        "source_url": "https://investor.ralphlauren.com/node/15656/pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016-04-02/pdf/pdf.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2016",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-third-quarter-fiscal-2016-results",
+        "file_type": "html",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-third-quarter-fiscal-2016-results",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/ralph-lauren-reports-third-quarter-fiscal-2016-results/ralph-lauren-reports-third-quarter-fiscal-2016-results.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2f4ca6ae-ba8d-4275-a90d-b791d2cfc968",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/static-files/2f4ca6ae-ba8d-4275-a90d-b791d2cfc968",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/2f4ca6ae-ba8d-4275-a90d-b791d2cfc968/2f4ca6ae-ba8d-4275-a90d-b791d2cfc968.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q2 2016",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-better-expected-second-quarter-fiscal-2016",
+        "file_type": "html",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-better-expected-second-quarter-fiscal-2016",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/ralph-lauren-reports-better-expected-second-quarter-fiscal-2016/ralph-lauren-reports-better-expected-second-quarter-fiscal-2016.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "53e21381-9048-46a9-ad08-ab67db5c9b50",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://investor.ralphlauren.com/static-files/53e21381-9048-46a9-ad08-ab67db5c9b50",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2016/53e21381-9048-46a9-ad08-ab67db5c9b50/53e21381-9048-46a9-ad08-ab67db5c9b50.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q1 2015",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-better-expected-first-quarter-fiscal-2015",
+        "file_type": "html",
+        "published_date": "2015",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-better-expected-first-quarter-fiscal-2015",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2015/ralph-lauren-reports-better-expected-first-quarter-fiscal-2015/ralph-lauren-reports-better-expected-first-quarter-fiscal-2015.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "dc49f092-4a21-4d30-8967-d4c340142b7b",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://investor.ralphlauren.com/static-files/dc49f092-4a21-4d30-8967-d4c340142b7b",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2015/dc49f092-4a21-4d30-8967-d4c340142b7b/dc49f092-4a21-4d30-8967-d4c340142b7b.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q4 2014",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-better-expected-fourth-quarter-and-full-0",
+        "file_type": "html",
+        "published_date": "2014",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-better-expected-fourth-quarter-and-full-0",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2014/ralph-lauren-reports-better-expected-fourth-quarter-and-full-0/ralph-lauren-reports-better-expected-fourth-quarter-and-full-0.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "08e411bd-7a98-489f-9517-e5676655ba76",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://investor.ralphlauren.com/static-files/08e411bd-7a98-489f-9517-e5676655ba76",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2014/08e411bd-7a98-489f-9517-e5676655ba76/08e411bd-7a98-489f-9517-e5676655ba76.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Q3 2014",
+    "equity_ticker": "RL",
+    "geography": "US",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "ralph-lauren-reports-better-expected-third-quarter-fiscal-2014",
+        "file_type": "html",
+        "published_date": "2014",
+        "source_url": "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-better-expected-third-quarter-fiscal-2014",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2014/ralph-lauren-reports-better-expected-third-quarter-fiscal-2014/ralph-lauren-reports-better-expected-third-quarter-fiscal-2014.html",
+        "content_type": [
+          "financial-filing"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ecee5a1c-7e2c-4f8a-bfa0-c51115439667",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://investor.ralphlauren.com/static-files/ecee5a1c-7e2c-4f8a-bfa0-c51115439667",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RL/2014/ecee5a1c-7e2c-4f8a-bfa0-c51115439667/ecee5a1c-7e2c-4f8a-bfa0-c51115439667.pdf",
+        "content_type": [],
+        "record_type": "download"
+      }
+    ]
+  }
+]
