@@ -1492,7 +1492,6 @@ RB_presentations:  #working
   link_archive: links/RB.txt
   geography: "european"
   forced_type: "presentations"
-  link_archive: links/HEIO.txt
   direct: true
   headless: false
   selectors: 

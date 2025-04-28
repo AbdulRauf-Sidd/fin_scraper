@@ -1,0 +1,2113 @@
+[
+  {
+    "event_name": "Quarter 2025",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-2025-trading-update",
+        "file_type": "html",
+        "published_date": "2025-04-23",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2025/q1-2025-trading-update/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-23/q1-2025-trading-update/q1-2025-trading-update.html",
+        "content_type": [
+          "presentations",
+          "three-month-results",
+          "trading-update",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "bhtr",
+        "file_type": "html",
+        "published_date": "2025-04-23",
+        "source_url": "https://www.investis-live.com/reckitt/67eab3f5156a610016da388c/bhtr",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-23/bhtr/bhtr.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "06 Mar 2025 Full Year results 2024 EXECUTING OUR S",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "full-year-2024",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2025/full-year-2024/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/full-year-2024/full-year-2024.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-rns-fy-2024-51.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/unbf0ao5/reckitt-rns-fy-2024-51.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-rns-fy-2024-51.pdf/reckitt-rns-fy-2024-51.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "aide-memoire-pre-q4-fy2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/xdjlwcrz/aide-memoire-pre-q4-fy2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/aide-memoire-pre-q4-fy2024.pdf/aide-memoire-pre-q4-fy2024.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-fy-2024-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/01kpphra/reckitt-fy-2024-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-fy-2024-results-presentation.pdf/reckitt-fy-2024-results-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-full-year-2024-results-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/uuid3zld/reckitt-full-year-2024-results-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-full-year-2024-results-transcript.pdf/reckitt-full-year-2024-results-transcript.pdf",
+        "content_type": [
+          "transcript",
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "qwde",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.investis-live.com/reckitt/679bb48dbd0e0d0014d6266d/qwde",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/qwde/qwde.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q4-fx-effects.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/fx4int0s/2024-q4-fx-effects.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/2024-q4-fx-effects.pdf/2024-q4-fx-effects.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-q4-consensus.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/xh4bs50f/reckitt-q4-consensus.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-q4-consensus.pdf/reckitt-q4-consensus.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-representation-of-segmental-financial-information-61.xlsx",
+        "file_type": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "published_date": "2024-04",
+        "source_url": "https://phx-reckitt-uk-prd.gcp-husky-2.rbcloud.io/media/ec0oyrqj/reckitt-representation-of-segmental-financial-information-61.xlsx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-representation-of-segmental-financial-information-61.xlsx/reckitt-representation-of-segmental-financial-information-61.xlsx",
+        "content_type": [
+          "financial-filing",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-trading-update-2024",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2024/q3-trading-update-2024/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/q3-trading-update-2024/q3-trading-update-2024.html",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-rns-q3-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/prcdrdp2/reckitt-rns-q3-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-rns-q3-2024.pdf/reckitt-rns-q3-2024.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-q3-2024-results_transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/mi0pjbtj/reckitt-q3-2024-results_transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-q3-2024-results_transcript.pdf/reckitt-q3-2024-results_transcript.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "keuh",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.investis-live.com/reckitt/66ed8bcde64efd12009bf697/keuh",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/keuh/keuh.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q3-fx-effects.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/hkhdutcx/2024-q3-fx-effects.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/2024-q3-fx-effects.pdf/2024-q3-fx-effects.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-q3-consensus-2.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/0qdj1e1g/reckitt-q3-consensus-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-q3-consensus-2.pdf/reckitt-q3-consensus-2.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "24 Jul 2024 Half Year Results 2024 Strategy Upda",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "half-year-results-2024",
+        "file_type": "html",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2024/half-year-results-2024/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/half-year-results-2024/half-year-results-2024.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-rns-fy24-h1-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/5lkjj12r/reckitt-rns-fy24-h1-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/reckitt-rns-fy24-h1-results.pdf/reckitt-rns-fy24-h1-results.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "20240724_reckittt-strategy-update-vf.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/vfwbqcgd/20240724_reckittt-strategy-update-vf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/20240724_reckittt-strategy-update-vf.pdf/20240724_reckittt-strategy-update-vf.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-2024-h1-results-presentation-vf.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/ln3dcfmi/reckitt-2024-h1-results-presentation-vf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/reckitt-2024-h1-results-presentation-vf.pdf/reckitt-2024-h1-results-presentation-vf.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-h1-results-2024_transcript-vwebsite.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/go0pfzo4/reckitt-h1-results-2024_transcript-vwebsite.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/reckitt-h1-results-2024_transcript-vwebsite.pdf/reckitt-h1-results-2024_transcript-vwebsite.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "vieh",
+        "file_type": "html",
+        "published_date": "2024",
+        "source_url": "https://www.investis-live.com/reckitt/6673fb88c5e2640c0016d8dc/vieh",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/vieh/vieh.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-h1-fx-effects.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/jwon5ire/2024-h1-fx-effects.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/2024-h1-fx-effects.pdf/2024-h1-fx-effects.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-fy24-q2-h1-consensus-vf.pdf",
+        "file_type": "pdf",
+        "published_date": "2024",
+        "source_url": "https://www.reckitt.com/media/af1acy3j/reckitt-fy24-q2-h1-consensus-vf.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024/reckitt-fy24-q2-h1-consensus-vf.pdf/reckitt-fy24-q2-h1-consensus-vf.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2024",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-trading-update-2024",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2024/q1-trading-update-2024/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/q1-trading-update-2024/q1-trading-update-2024.html",
+        "content_type": [
+          "presentations",
+          "trading-update"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-q1-2024-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/ktmhi1q0/reckitt-q1-2024-trading-update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-q1-2024-trading-update.pdf/reckitt-q1-2024-trading-update.pdf",
+        "content_type": [
+          "presentations",
+          "three-month-results",
+          "press-release",
+          "trading-update"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-reckitt-q1-2024-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/v0bbm3df/transcript-reckitt-q1-2024-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/transcript-reckitt-q1-2024-results.pdf/transcript-reckitt-q1-2024-results.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "kdop",
+        "file_type": "html",
+        "published_date": "2024-04",
+        "source_url": "https://www.investis-live.com/reckitt/6613f92f1feb820d0047fd1b/kdop",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/kdop/kdop.html",
+        "content_type": [
+          "webcast",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2024-q1-fx-effects.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/oicm0j2r/2024-q1-fx-effects.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/2024-q1-fx-effects.pdf/2024-q1-fx-effects.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-fy24-q1-consensus.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-04",
+        "source_url": "https://www.reckitt.com/media/xsghixv2/reckitt-fy24-q1-consensus.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-04/reckitt-fy24-q1-consensus.pdf/reckitt-fy24-q1-consensus.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2019",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results",
+        "file_type": "html",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2019/hy-results/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/hy-results/hy-results.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hy19-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media/coqmhbmd/hy19-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/hy19-press-release-final.pdf/hy19-press-release-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-half-year-2019-results-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media/pukfwh4n/rb-half-year-2019-results-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/rb-half-year-2019-results-presentation.pdf/rb-half-year-2019-results-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "p6-spot-currency-page.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media/vpznbyy3/p6-spot-currency-page.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/p6-spot-currency-page.pdf/p6-spot-currency-page.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-hy19.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media/0peh3xby/rb-consensus-hy19.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/rb-consensus-hy19.pdf/rb-consensus-hy19.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "19262_rb-hy19-results-zmot-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-04",
+        "source_url": "https://www.reckitt.com/media/ak1kucyc/19262_rb-hy19-results-zmot-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-04/19262_rb-hy19-results-zmot-final.pdf/19262_rb-hy19-results-zmot-final.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2019",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2019",
+        "file_type": "html",
+        "published_date": "2019",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2019/q1-results-2019/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019/q1-results-2019/q1-results-2019.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q1-ims-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.reckitt.com/media/xecfhieh/q1-ims-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019/q1-ims-2019.pdf/q1-ims-2019.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "p3-spot-currency-page-2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.reckitt.com/media/eg1ng3mb/p3-spot-currency-page-2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019/p3-spot-currency-page-2019.pdf/p3-spot-currency-page-2019.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus_11apr_2019.pdf",
+        "file_type": "pdf",
+        "published_date": "2019",
+        "source_url": "https://www.reckitt.com/media/y00jquyz/rb-consensus_11apr_2019.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019/rb-consensus_11apr_2019.pdf/rb-consensus_11apr_2019.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "18 Feb 2019 Full year results 2018 Good progress i",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "full-year-results-2018",
+        "file_type": "html",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2019/full-year-results-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/full-year-results-2018/full-year-results-2018.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy18-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/cfen2uoq/fy18-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/fy18-press-release.pdf/fy18-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy-2018-investor-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/ma4lyzpl/fy-2018-investor-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/fy-2018-investor-presentation.pdf/fy-2018-investor-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "p12-2018-spot-currency-page.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/usihobk5/p12-2018-spot-currency-page.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/p12-2018-spot-currency-page.pdf/p12-2018-spot-currency-page.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-fy-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/q4uowkyr/rb-consensus-fy-2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/rb-consensus-fy-2018.pdf/rb-consensus-fy-2018.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-fy-2018-results-factsheet.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/d4gfhteg/rb-fy-2018-results-factsheet.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/rb-fy-2018-results-factsheet.pdf/rb-fy-2018-results-factsheet.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2018",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2018",
+        "file_type": "html",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2018/q3-results-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/q3-results-2018/q3-results-2018.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q3-ims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/ztmfobhx/q3-ims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/q3-ims-final.pdf/q3-ims-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2018_10_11-rb-p9-spot-currency-guidance-for-website.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/0eydvk5z/2018_10_11-rb-p9-spot-currency-guidance-for-website.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/2018_10_11-rb-p9-spot-currency-guidance-for-website.pdf/2018_10_11-rb-p9-spot-currency-guidance-for-website.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q3-rb-consensus.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/asahatch/q3-rb-consensus.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/q3-rb-consensus.pdf/q3-rb-consensus.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "12 Jul 2018 HY results 2018 Progress Full year ne",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2018",
+        "file_type": "html",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2018/hy-results-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/hy-results-2018/hy-results-2018.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hy18-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/cnkdawlr/hy18-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/hy18-press-release-final.pdf/hy18-press-release-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hy-results-2018-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/crnmvauo/hy-results-2018-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/hy-results-2018-presentation.pdf/hy-results-2018-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/elngkeak/rb-consensus-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/rb-consensus-1.pdf/rb-consensus-1.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-infographic-hy18-27-07-18.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-04",
+        "source_url": "https://www.reckitt.com/media/cxefzk2w/rb-infographic-hy18-27-07-18.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-04/rb-infographic-hy18-27-07-18.pdf/rb-infographic-hy18-27-07-18.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2018",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2018",
+        "file_type": "html",
+        "published_date": "2025-04-18",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2018/q1-results-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-18/q1-results-2018/q1-results-2018.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q1-2018-trading-update.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-04-18",
+        "source_url": "https://www.reckitt.com/media/13ldybaf/q1-2018-trading-update.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-18/q1-2018-trading-update.pdf/q1-2018-trading-update.pdf",
+        "content_type": [
+          "presentations",
+          "three-month-results",
+          "press-release",
+          "trading-update"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q1-2018-investor-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-04-18",
+        "source_url": "https://www.reckitt.com/media/u0hdsqnb/q1-2018-investor-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-18/q1-2018-investor-presentation.pdf/q1-2018-investor-presentation.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "p3-spot-currency-page.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-04-18",
+        "source_url": "https://www.reckitt.com/media/lcjbsn4e/p3-spot-currency-page.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-18/p3-spot-currency-page.pdf/p3-spot-currency-page.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-q1-2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-04-18",
+        "source_url": "https://www.reckitt.com/media/2m1fpddv/rb-consensus-q1-2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-04-18/rb-consensus-q1-2018.pdf/rb-consensus-q1-2018.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "19 Feb 2018 Full year results 2017 A solid finish",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "full-year-results-2017",
+        "file_type": "html",
+        "published_date": "2018",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2018/full-year-results-2017/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018/full-year-results-2017/full-year-results-2017.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy17-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://www.reckitt.com/media/lj0itnze/fy17-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018/fy17-press-release.pdf/fy17-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-2017-fy-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://www.reckitt.com/media/bfnki4se/rb-2017-fy-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018/rb-2017-fy-presentation.pdf/rb-2017-fy-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-currency-exposure.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://www.reckitt.com/media/qoredpcz/rb-currency-exposure.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018/rb-currency-exposure.pdf/rb-currency-exposure.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-2.pdf",
+        "file_type": "pdf",
+        "published_date": "2018",
+        "source_url": "https://www.reckitt.com/media/ok3ii5ju/rb-consensus-2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018/rb-consensus-2.pdf/rb-consensus-2.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2017",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2017",
+        "file_type": "html",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2017/q3-results-2017/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/q3-results-2017/q3-results-2017.html",
+        "content_type": [
+          "presentations",
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q32017-ims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/hsmhkqo4/q32017-ims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/q32017-ims-final.pdf/q32017-ims-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "consensus-rb-13oct.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/3l4liyae/consensus-rb-13oct.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/consensus-rb-13oct.pdf/consensus-rb-13oct.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_q3-results-infographic_reorg_18oct.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/fmnfrx0g/rb_q3-results-infographic_reorg_18oct.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/rb_q3-results-infographic_reorg_18oct.pdf/rb_q3-results-infographic_reorg_18oct.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "24 Jul 2017 HY results 2017 Significant progress o",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2017",
+        "file_type": "html",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2017/hy-results-2017/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/hy-results-2017/hy-results-2017.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-half-year-results-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/uzmp2sd4/rb-half-year-results-2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/rb-half-year-results-2017.pdf/rb-half-year-results-2017.pdf",
+        "content_type": [
+          "press-release",
+          "presentations",
+          "half-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_hy17_presentation_2018.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/4npi13df/rb_hy17_presentation_2018.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/rb_hy17_presentation_2018.pdf/rb_hy17_presentation_2018.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "final-consensus-rb-21jul-2017-002.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/fhojpmzu/final-consensus-rb-21jul-2017-002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/final-consensus-rb-21jul-2017-002.pdf/final-consensus-rb-21jul-2017-002.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-hy-infographics_24july.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/exencfnc/rb-hy-infographics_24july.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/rb-hy-infographics_24july.pdf/rb-hy-infographics_24july.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2017",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2017",
+        "file_type": "html",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2017/q1-results-2017/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/q1-results-2017/q1-results-2017.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q1-2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/0lznhqk1/ims-q1-2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/ims-q1-2017.pdf/ims-q1-2017.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "consensus-rb-19apr2017.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-04",
+        "source_url": "https://www.reckitt.com/media/phfhwi05/consensus-rb-19apr2017.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-04/consensus-rb-19apr2017.pdf/consensus-rb-19apr2017.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "10 Feb 2017 Full year results 2016 2016 solid gr",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "full-year-results-2016",
+        "file_type": "html",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2017/full-year-results-2016/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/full-year-results-2016/full-year-results-2016.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy16-press-release-final-002.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/r22dxlgl/fy16-press-release-final-002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/fy16-press-release-final-002.pdf/fy16-press-release-final-002.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_fy-2016-ppt-to-investors.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/0q5mpjp3/rb_fy-2016-ppt-to-investors.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb_fy-2016-ppt-to-investors.pdf/rb_fy-2016-ppt-to-investors.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/rwjeuhkp/rb-consensus.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb-consensus.pdf/rb-consensus.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2016",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2016",
+        "file_type": "html",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2016/q3-results-2016/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/q3-results-2016/q3-results-2016.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q32016-ims.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/o0sp3jj3/q32016-ims.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/q32016-ims.pdf/q32016-ims.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_q3-2016-results-infographic-19oct16.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/ej0k24yw/rb_q3-2016-results-infographic-19oct16.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb_q3-2016-results-infographic-19oct16.pdf/rb_q3-2016-results-infographic-19oct16.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "13 Jul 2016 HY results 2016 Continued strong perfo",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2016",
+        "file_type": "html",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2016/hy-results-2016/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/hy-results-2016/hy-results-2016.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-hy-2016-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/yk0jr3y0/rb-hy-2016-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb-hy-2016-final.pdf/rb-hy-2016-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rbhy16presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/kbad0nsp/rbhy16presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rbhy16presentation.pdf/rbhy16presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-q216-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/5rsblnxp/rb-consensus-q216-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb-consensus-q216-final.pdf/rb-consensus-q216-final.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-hy-infographic.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-04",
+        "source_url": "https://www.reckitt.com/media/0uxcxxd1/rb-hy-infographic.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-04/rb-hy-infographic.pdf/rb-hy-infographic.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "18 Apr 2016 Q1 results 2016 A good start to the ye",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2016",
+        "file_type": "html",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2016/q1-results-2016/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/q1-results-2016/q1-results-2016.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q1-2016-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/mseoos4g/ims-q1-2016-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/ims-q1-2016-final.pdf/ims-q1-2016-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_l-transcript-2016-04-18t07_30.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/z4mezgt5/rb_l-transcript-2016-04-18t07_30.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/rb_l-transcript-2016-04-18t07_30.pdf/rb_l-transcript-2016-04-18t07_30.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-q1-2016.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/hsxkeuwb/rb-consensus-q1-2016.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/rb-consensus-q1-2016.pdf/rb-consensus-q1-2016.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_q1_2016_infographic_v9.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/em2kpzum/rb_q1_2016_infographic_v9.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/rb_q1_2016_infographic_v9.pdf/rb_q1_2016_infographic_v9.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "15 Feb 2016 Full year results 2015 A year of excel",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "full-year-results-2015",
+        "file_type": "html",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2016/full-year-results-2015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/full-year-results-2015/full-year-results-2015.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "full-year-results-2015-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/y0nojoyd/full-year-results-2015-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/full-year-results-2015-press-release.pdf/full-year-results-2015-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy-results-2015-presentation-to-investors.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/a4hkeowq/fy-results-2015-presentation-to-investors.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/fy-results-2015-presentation-to-investors.pdf/fy-results-2015-presentation-to-investors.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-fy-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/ullnphha/transcript-fy-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/transcript-fy-results.pdf/transcript-fy-results.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-29-jan-16.pdf",
+        "file_type": "pdf",
+        "published_date": "2016",
+        "source_url": "https://www.reckitt.com/media/o24kf43x/rb-consensus-29-jan-16.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016/rb-consensus-29-jan-16.pdf/rb-consensus-29-jan-16.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2015",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2015",
+        "file_type": "html",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2015/q3-results-2015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/q3-results-2015/q3-results-2015.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q32015ims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/qulp4pgc/q32015ims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/q32015ims-final.pdf/q32015ims-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-q3-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/omkcdqpy/transcript-q3-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/transcript-q3-2015.pdf/transcript-q3-2015.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-consensus-q3-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/fvll0g2u/rb-consensus-q3-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/rb-consensus-q3-2015.pdf/rb-consensus-q3-2015.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jul 2015 Half year results 2015 Full year targe",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2015",
+        "file_type": "html",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2015/hy-results-2015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/hy-results-2015/hy-results-2015.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-press-release-q2-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/0joojwew/rb-press-release-q2-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/rb-press-release-q2-2015.pdf/rb-press-release-q2-2015.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-half-year-results-2015-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/nvfnx5sw/rb-half-year-results-2015-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/rb-half-year-results-2015-presentation.pdf/rb-half-year-results-2015-presentation.pdf",
+        "content_type": [
+          "half-year-results",
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-hy15-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/pz5n5qdj/rb-hy15-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/rb-hy15-transcript.pdf/rb-hy15-transcript.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "consensus-rb-july-2015.pdf",
+        "file_type": "pdf",
+        "published_date": "2015",
+        "source_url": "https://www.reckitt.com/media/ri3lv0ug/consensus-rb-july-2015.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015/consensus-rb-july-2015.pdf/consensus-rb-july-2015.pdf",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2015",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2015",
+        "file_type": "html",
+        "published_date": "2015-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2015/q1-results-2015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-04/q1-results-2015/q1-results-2015.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q1-2015-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.reckitt.com/media/d2fk5krl/ims-q1-2015-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-04/ims-q1-2015-final.pdf/ims-q1-2015-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript_rb-ln_04242015_5188537.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-04",
+        "source_url": "https://www.reckitt.com/media/zy2lqoqy/transcript_rb-ln_04242015_5188537.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-04/transcript_rb-ln_04242015_5188537.pdf/transcript_rb-ln_04242015_5188537.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "01 Feb 2015 Full year results 2014 Another year of",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-2014",
+        "file_type": "html",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2015/fy-results-2014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/fy-results-2014/fy-results-2014.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy2014-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media/khklucst/fy2014-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/fy2014-press-release-final.pdf/fy2014-press-release-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_fy-2014-presentation-to-investors-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media/5sknktsi/rb_fy-2014-presentation-to-investors-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/rb_fy-2014-presentation-to-investors-final.pdf/rb_fy-2014-presentation-to-investors-final.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript_rb-full-year-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media/la4nnvpp/transcript_rb-full-year-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/transcript_rb-full-year-2014.pdf/transcript_rb-full-year-2014.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2014",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2014",
+        "file_type": "html",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2014/q3-results-2014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/q3-results-2014/q3-results-2014.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q32014ims-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media/l4bhdqea/q32014ims-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/q32014ims-final.pdf/q32014ims-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_audiocast-transcript-q3-ims-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-04",
+        "source_url": "https://www.reckitt.com/media/onmpi44l/rb_audiocast-transcript-q3-ims-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-04/rb_audiocast-transcript-q3-ims-2014.pdf/rb_audiocast-transcript-q3-ims-2014.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 Jul 2014 Half year results 2014 Continuing to p",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2014",
+        "file_type": "html",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2014/hy-results-2014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/hy-results-2014/hy-results-2014.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_half_year_2014_-report_-final-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media/t5ffhsd5/rb_half_year_2014_-report_-final-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/rb_half_year_2014_-report_-final-press-release.pdf/rb_half_year_2014_-report_-final-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "financial-filing",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_hy14_investors-presentation-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media/focpnnad/rb_hy14_investors-presentation-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/rb_hy14_investors-presentation-final.pdf/rb_hy14_investors-presentation-final.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-transcript-q2-2014.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media/0e5l5cp1/rb-transcript-q2-2014.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/rb-transcript-q2-2014.pdf/rb-transcript-q2-2014.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "16 Apr 2014 Q1 results 2014 Q1 on track View onli",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2014",
+        "file_type": "html",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2014/q1-results-2014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/q1-results-2014/q1-results-2014.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "press-release-ims-q1-2014-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media/hcqkmkou/press-release-ims-q1-2014-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/press-release-ims-q1-2014-final.pdf/press-release-ims-q1-2014-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_audiocast-transcript-q3-ims-2014-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014",
+        "source_url": "https://www.reckitt.com/media/ezmcuz2j/rb_audiocast-transcript-q3-ims-2014-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014/rb_audiocast-transcript-q3-ims-2014-1.pdf/rb_audiocast-transcript-q3-ims-2014-1.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "12 Feb 2014 Full year results 2013 Targets exceede",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-2013",
+        "file_type": "html",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2014/fy-results-2013/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/fy-results-2013/fy-results-2013.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy-results-2013-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media/kxzlbyew/fy-results-2013-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/fy-results-2013-press-release.pdf/fy-results-2013-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-fy-2013-presentation-to-investors.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media/jaib3szg/rb-fy-2013-presentation-to-investors.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/rb-fy-2013-presentation-to-investors.pdf/rb-fy-2013-presentation-to-investors.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy-2013-transcript_rb.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media/u21hoczj/fy-2013-transcript_rb.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/fy-2013-transcript_rb.pdf/fy-2013-transcript_rb.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2013",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2013",
+        "file_type": "html",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2013/q3-results-2013/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/q3-results-2013/q3-results-2013.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q3-2013-final-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media/r4njkohc/ims-q3-2013-final-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/ims-q3-2013-final-press-release.pdf/ims-q3-2013-final-press-release.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "29 Jul 2013 HY results 2013 Strong half year resul",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2013",
+        "file_type": "html",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2013/hy-results-2013/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/hy-results-2013/hy-results-2013.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_half_year_2013-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/ztubpjdx/rb_half_year_2013-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/rb_half_year_2013-press-release.pdf/rb_half_year_2013-press-release.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_hy-2013_investors-presentation.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/ltgk3cti/rb_hy-2013_investors-presentation.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/rb_hy-2013_investors-presentation.pdf/rb_hy-2013_investors-presentation.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_hy-2013-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/4gscykx4/rb_hy-2013-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/rb_hy-2013-transcript.pdf/rb_hy-2013-transcript.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2013",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2013",
+        "file_type": "html",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2013/q1-results-2013/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/q1-results-2013/q1-results-2013.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q12013-press-release.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-04",
+        "source_url": "https://www.reckitt.com/media/tgbcigku/ims-q12013-press-release.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-04/ims-q12013-press-release.pdf/ims-q12013-press-release.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "13 Feb 2013 Full year results 2012 2012 targets ac",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-2012",
+        "file_type": "html",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2013/fy-results-2012/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/fy-results-2012/fy-results-2012.html",
+        "content_type": [
+          "presentations",
+          "full-year-results"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy12-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/0o3dbefz/fy12-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/fy12-press-release-final.pdf/fy12-press-release-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "fy-2012-presentation-to-investors-final-ht-without-notes.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/boeamsdi/fy-2012-presentation-to-investors-final-ht-without-notes.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/fy-2012-presentation-to-investors-final-ht-without-notes.pdf/fy-2012-presentation-to-investors-final-ht-without-notes.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "transcript-fy-2012-rb.pdf",
+        "file_type": "pdf",
+        "published_date": "2013",
+        "source_url": "https://www.reckitt.com/media/ssxnlkce/transcript-fy-2012-rb.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013/transcript-fy-2012-rb.pdf/transcript-fy-2012-rb.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "Quarter 2012",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q3-results-2012",
+        "file_type": "html",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2012/q3-results-2012/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/q3-results-2012/q3-results-2012.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q3-2012-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/0izhvjwf/ims-q3-2012-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/ims-q3-2012-final.pdf/ims-q3-2012-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "30 Jul 2012 Half year results 2012 2012 targets on",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "hy-results-2012",
+        "file_type": "html",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2012/hy-results-2012/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/hy-results-2012/hy-results-2012.html",
+        "content_type": [
+          "half-year-results",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-half-yearly-report-2012-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/zmdhceev/rb-half-yearly-report-2012-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/rb-half-yearly-report-2012-final.pdf/rb-half-yearly-report-2012-final.pdf",
+        "content_type": [
+          "press-release",
+          "financial-filing",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "hy_2012_presentation-to-investors-final-260712.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/ro5jg2vs/hy_2012_presentation-to-investors-final-260712.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/hy_2012_presentation-to-investors-final-260712.pdf/hy_2012_presentation-to-investors-final-260712.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "07 Apr 2012 Q1 results 2012 Q1 on track full yea",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "q1-results-2012",
+        "file_type": "html",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2012/q1-results-2012/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/q1-results-2012/q1-results-2012.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "ims-q1-2012-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/fpijkazr/ims-q1-2012-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/ims-q1-2012-final.pdf/ims-q1-2012-final.pdf",
+        "content_type": [
+          "three-month-results",
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "q1-2012-results-strategy-presentation-nxpowerlite.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/nz3fjk4q/q1-2012-results-strategy-presentation-nxpowerlite.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/q1-2012-results-strategy-presentation-nxpowerlite.pdf/q1-2012-results-strategy-presentation-nxpowerlite.pdf",
+        "content_type": [
+          "three-month-results",
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "08 Feb 2012 FY results 2011 FY results 2011 View",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "periodic",
+    "data": [
+      {
+        "file_name": "fy-results-2011",
+        "file_type": "html",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2012/fy-results-2011/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/fy-results-2011/fy-results-2011.html",
+        "content_type": [
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-2011-fy-strategy-press-release-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/534bidvn/rb-2011-fy-strategy-press-release-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/rb-2011-fy-strategy-press-release-final.pdf/rb-2011-fy-strategy-press-release-final.pdf",
+        "content_type": [
+          "press-release",
+          "presentations"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-2011-fy-strategy-presentation-final-print-nxpowerlite.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/43skuvum/rb-2011-fy-strategy-presentation-final-print-nxpowerlite.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/rb-2011-fy-strategy-presentation-final-print-nxpowerlite.pdf/rb-2011-fy-strategy-presentation-final-print-nxpowerlite.pdf",
+        "content_type": [
+          "presentations",
+          "presentation"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-2011-fy-results-transcript.pdf",
+        "file_type": "pdf",
+        "published_date": "2012",
+        "source_url": "https://www.reckitt.com/media/sradyjtf/rb-2011-fy-results-transcript.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2012/rb-2011-fy-results-transcript.pdf/rb-2011-fy-results-transcript.pdf",
+        "content_type": [
+          "presentations",
+          "transcript"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]
