@@ -1,0 +1,20 @@
+#MCD
+MCD_news:     
+  ticker: PVH
+  url: https://www.pvh.com/news?facets=year%3D2025%7C2024%7C2023%7C2022%7C2021%7C2020%7C2019%26
+  output: data/PVH_news.json
+  output_json: JSONS/PVH_news.json
+  link_archive: 'links/PVH.txt'
+  base_address: https://corporate.mcdonalds.com/corpmcd/home.html
+  periodic: null
+  geography: "US"
+  forced_type: "news"
+  headless: true
+  direct: false
+  selectors:
+    event_block: div.list__content                   
+  pagination:
+    type: button
+    next_button: button:has(i.mdi-chevron-right):not(.v-pagination__navigation--disabled)
+    archive: null
+    timeout: null
