@@ -1,0 +1,879 @@
+[
+  {
+    "event_name": "08 May 2025 Annual General Meeting 2025",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2025.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2025/annual-general-meeting-2025/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/annual-general-meeting-2025.jpeg/annual-general-meeting-2025.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "reckitt-agm-nom-2025.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/lwvnxpao/reckitt-agm-nom-2025.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/reckitt-agm-nom-2025.pdf/reckitt-agm-nom-2025.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "blank-fop.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/t4whdkvr/blank-fop.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/blank-fop.pdf/blank-fop.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "latest-annual-report.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/investors/latest-annual-report/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/latest-annual-report.jpeg/latest-annual-report.jpeg",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2025-03-26-rns-re-publication-of-2024-ara-and-2025-nom-proxy-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/mrkbczui/2025-03-26-rns-re-publication-of-2024-ara-and-2025-nom-proxy-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/2025-03-26-rns-re-publication-of-2024-ara-and-2025-nom-proxy-final.pdf/2025-03-26-rns-re-publication-of-2024-ara-and-2025-nom-proxy-final.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-modern-slavery-statement-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/r3npgyog/reckitt-modern-slavery-statement-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/reckitt-modern-slavery-statement-2024.pdf/reckitt-modern-slavery-statement-2024.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-annual-report-and-accounts-2024.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/iygp3ed5/reckitt-annual-report-and-accounts-2024.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/reckitt-annual-report-and-accounts-2024.pdf/reckitt-annual-report-and-accounts-2024.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "strategic-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/vlxfyi3r/strategic-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/strategic-report.pdf/strategic-report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "chair-statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/walbztfi/chair-statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/chair-statement.pdf/chair-statement.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "chief-executive-statement.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/o1mgl2bm/chief-executive-statement.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/chief-executive-statement.pdf/chief-executive-statement.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "governance-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/igydugdj/governance-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/governance-report.pdf/governance-report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "directors-remuneration-report.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/5i4imkko/directors-remuneration-report.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/directors-remuneration-report.pdf/directors-remuneration-report.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "financial-statements.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/5pvnpw4w/financial-statements.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/financial-statements.pdf/financial-statements.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-annual-report-and-accounts-2024_accessible_format.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/3jaoa4dy/reckitt-annual-report-and-accounts-2024_accessible_format.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/reckitt-annual-report-and-accounts-2024_accessible_format.pdf/reckitt-annual-report-and-accounts-2024_accessible_format.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-2024-esef-reporting-package.zip",
+        "file_type": "zip",
+        "published_date": "2025-05-08",
+        "source_url": "https://phx-reckitt-uk-prd.gcp-husky-2.rbcloud.io/media/51dfkl43/reckitt-2024-esef-reporting-package.zip",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/reckitt-2024-esef-reporting-package.zip/reckitt-2024-esef-reporting-package.zip",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb-2024-sustainability-report-gpg-opinion-excluding-signature.pdf",
+        "file_type": "pdf",
+        "published_date": "2025-05-08",
+        "source_url": "https://www.reckitt.com/media/dc1botul/rb-2024-sustainability-report-gpg-opinion-excluding-signature.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2025-05-08/rb-2024-sustainability-report-gpg-opinion-excluding-signature.pdf/rb-2024-sustainability-report-gpg-opinion-excluding-signature.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "02 May 2024 Annual General Meeting 2024",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2024.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2024-05-02",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2024/annual-general-meeting-2024/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-05-02/annual-general-meeting-2024.jpeg/annual-general-meeting-2024.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2024-05-02-agm-2024-poll-results-final.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-02",
+        "source_url": "https://www.reckitt.com/media/crmpztij/2024-05-02-agm-2024-poll-results-final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-05-02/2024-05-02-agm-2024-poll-results-final.pdf/2024-05-02-agm-2024-poll-results-final.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt_ar23_nom_final.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-02",
+        "source_url": "https://www.reckitt.com/media/djqh4f33/reckitt_ar23_nom_final.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-05-02/reckitt_ar23_nom_final.pdf/reckitt_ar23_nom_final.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt_ar23_final_interactive.pdf",
+        "file_type": "pdf",
+        "published_date": "2024-05-02",
+        "source_url": "https://www.reckitt.com/media/fi2eyuhj/reckitt_ar23_final_interactive.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2024-05-02/reckitt_ar23_final_interactive.pdf/reckitt_ar23_final_interactive.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "03 May 2023 Annual General Meeting 2023",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2023.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2023-05-03",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2023/annual-general-meeting-2023/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2023-05-03/annual-general-meeting-2023.jpeg/annual-general-meeting-2023.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "agm-2023-poll-results.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-05-03",
+        "source_url": "https://www.reckitt.com/media/tjkhbytw/agm-2023-poll-results.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2023-05-03/agm-2023-poll-results.pdf/agm-2023-poll-results.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "notice-of-agm-2023.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-05-03",
+        "source_url": "https://www.reckitt.com/media/ichbdgh4/notice-of-agm-2023.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2023-05-03/notice-of-agm-2023.pdf/notice-of-agm-2023.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "annual-report-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2023-05-03",
+        "source_url": "https://www.reckitt.com/media/5qbh523b/annual-report-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2023-05-03/annual-report-2022.pdf/annual-report-2022.pdf",
+        "content_type": [
+          "annual-report",
+          "financial-filing",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "20 May 2022 Annual General Meeting 2022",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2022.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2022/annual-general-meeting-2022/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/annual-general-meeting-2022.jpeg/annual-general-meeting-2022.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "results-of-agm-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media/1gmpioay/results-of-agm-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/results-of-agm-2022.pdf/results-of-agm-2022.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "notice-of-meeting-2022.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media/jpzmrmp2/notice-of-meeting-2022.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/notice-of-meeting-2022.pdf/notice-of-meeting-2022.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2021-annual-report-and-sustainability-insights.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2022/2021-annual-report-and-sustainability-insights/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/2021-annual-report-and-sustainability-insights.jpeg/2021-annual-report-and-sustainability-insights.jpeg",
+        "content_type": [
+          "Annual General Meetings",
+          "annual-report",
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "reckitt_ar21_web.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media/vdejfoff/reckitt_ar21_web.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/reckitt_ar21_web.pdf/reckitt_ar21_web.pdf",
+        "content_type": [
+          "Annual General Meetings",
+          "annual-report",
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-sustainability-insights-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2022-05-20",
+        "source_url": "https://www.reckitt.com/media/42dbvpqz/reckitt-sustainability-insights-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2022-05-20/reckitt-sustainability-insights-2021.pdf/reckitt-sustainability-insights-2021.pdf",
+        "content_type": [
+          "Annual General Meetings",
+          "annual-report",
+          "financial-filing",
+          "esg"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "28 May 2021 Annual General Meeting 2021",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2021.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2021-05-28",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2021/annual-general-meeting-2021/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2021-05-28/annual-general-meeting-2021.jpeg/annual-general-meeting-2021.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2021-03-31-agm-2021-notice-of-meeting-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-05-28",
+        "source_url": "https://www.reckitt.com/media/rkqajer5/2021-03-31-agm-2021-notice-of-meeting-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2021-05-28/2021-03-31-agm-2021-notice-of-meeting-1.pdf/2021-03-31-agm-2021-notice-of-meeting-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "reckitt-benckiser-group-plc-articles-of-association-with-proposed-amendments-marked-up.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-05-28",
+        "source_url": "https://www.reckitt.com/media/qm1b5y0n/reckitt-benckiser-group-plc-articles-of-association-with-proposed-amendments-marked-up.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2021-05-28/reckitt-benckiser-group-plc-articles-of-association-with-proposed-amendments-marked-up.pdf/reckitt-benckiser-group-plc-articles-of-association-with-proposed-amendments-marked-up.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "results-of-agm-2021.pdf",
+        "file_type": "pdf",
+        "published_date": "2021-05-28",
+        "source_url": "https://www.reckitt.com/media/hwql0tz4/results-of-agm-2021.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2021-05-28/results-of-agm-2021.pdf/results-of-agm-2021.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "Reckitt+AGM+2021+-+CUT.mp4",
+        "file_type": "mp4",
+        "published_date": "2021-05-28",
+        "source_url": "https://lumiagmukstreams.s3.eu-west-2.amazonaws.com/2.+Archive+2021/Reckitt+AGM+2021+-+CUT.mp4",
+        "r2_url": null,
+        "content_type": [
+          "annual-general-meeting",
+          "webcast",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "12 May 2020 Annual General Meeting 2020",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2020.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2020-05-12",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2020/annual-general-meeting-2020/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2020-05-12/annual-general-meeting-2020.jpeg/annual-general-meeting-2020.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2020-05-12-agm-2020-poll-results-rb-com-download-final-3.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-05-12",
+        "source_url": "https://www.reckitt.com/media/h3ijbtwv/2020-05-12-agm-2020-poll-results-rb-com-download-final-3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2020-05-12/2020-05-12-agm-2020-poll-results-rb-com-download-final-3.pdf/2020-05-12-agm-2020-poll-results-rb-com-download-final-3.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rb_ar19_nom-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-05-12",
+        "source_url": "https://www.reckitt.com/media/isalkvfm/rb_ar19_nom-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2020-05-12/rb_ar19_nom-1.pdf/rb_ar19_nom-1.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2020-03-20-letter-to-shareholders-accompanying-notice-covid-19-final-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2020-05-12",
+        "source_url": "https://www.reckitt.com/media/rixc5sqb/2020-03-20-letter-to-shareholders-accompanying-notice-covid-19-final-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2020-05-12/2020-03-20-letter-to-shareholders-accompanying-notice-covid-19-final-1.pdf/2020-03-20-letter-to-shareholders-accompanying-notice-covid-19-final-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "09 May 2019 Annual General Meeting 2019 The 2019 Annual General Meeting of Reckitt Benckiser Group plc was held on Thursday 9 May",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2019.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2019-05-09",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2019/annual-general-meeting-2019/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-05-09/annual-general-meeting-2019.jpeg/annual-general-meeting-2019.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "rb-notice-of-agm-2019-final-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-05-09",
+        "source_url": "https://www.reckitt.com/media/fpigpzbq/rb-notice-of-agm-2019-final-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-05-09/rb-notice-of-agm-2019-final-1.pdf/rb-notice-of-agm-2019-final-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "19-05-09-final-results-2-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2019-05-09",
+        "source_url": "https://www.reckitt.com/media/b2nhv2iw/19-05-09-final-results-2-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2019-05-09/19-05-09-final-results-2-1.pdf/19-05-09-final-results-2-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "03 May 2018 Annual General Meeting 2018 The 2018 Annual General Meeting of Reckitt Benckiser Group plc was held on Thursday, 3 May",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2018.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-05-03",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2018/annual-general-meeting-2018/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-05-03/annual-general-meeting-2018.jpeg/annual-general-meeting-2018.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "regulatory-story.aspx.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2018-05-03",
+        "source_url": "https://otp.tools.investis.com/clients/uk/reckitt_benckiser_group/rns/regulatory-story.aspx",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-05-03/regulatory-story.aspx.jpeg/regulatory-story.aspx.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "notice-of-meeting-2018-agm-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2018-05-03",
+        "source_url": "https://www.reckitt.com/media/yvnp5bld/notice-of-meeting-2018-agm-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2018-05-03/notice-of-meeting-2018-agm-1.pdf/notice-of-meeting-2018-agm-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "04 May 2017 Annual General Meeting 2017 The tenth Annual General Meeting of Reckitt Benckiser Group plc was held on Thursday, 4 May 2017",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2017.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2017-05-04",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2017/annual-general-meeting-2017/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-05-04/annual-general-meeting-2017.jpeg/annual-general-meeting-2017.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2017-notice-of-agm-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-05-04",
+        "source_url": "https://www.reckitt.com/media/mple5ele/2017-notice-of-agm-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-05-04/2017-notice-of-agm-1.pdf/2017-notice-of-agm-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "rns-announcement-of-results-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2017-05-04",
+        "source_url": "https://www.reckitt.com/media/cpxlc4gg/rns-announcement-of-results-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2017-05-04/rns-announcement-of-results-1.pdf/rns-announcement-of-results-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "announcement",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "06 May 2016 Annual General Meeting 2016",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2016.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2016-05-05",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2016/annual-general-meeting-2016/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-05-05/annual-general-meeting-2016.jpeg/annual-general-meeting-2016.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "final-rb-2016-agm-notice-002-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-05-05",
+        "source_url": "https://www.reckitt.com/media/vv3otde2/final-rb-2016-agm-notice-002-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-05-05/final-rb-2016-agm-notice-002-1.pdf/final-rb-2016-agm-notice-002-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "poll-statement-agm-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2016-05-05",
+        "source_url": "https://www.reckitt.com/media/eaam5mky/poll-statement-agm-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2016-05-05/poll-statement-agm-1.pdf/poll-statement-agm-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "07 May 2015 Annual General Meeting 2015",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2015.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2015-05-07",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2015/annual-general-meeting-2015/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-05-07/annual-general-meeting-2015.jpeg/annual-general-meeting-2015.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2015-agm-results-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-05-07",
+        "source_url": "https://www.reckitt.com/media/wmadzwnv/2015-agm-results-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-05-07/2015-agm-results-1.pdf/2015-agm-results-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2015-agm-chairmans-letter-and-notice-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2015-05-07",
+        "source_url": "https://www.reckitt.com/media/3jaizamt/2015-agm-chairmans-letter-and-notice-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2015-05-07/2015-agm-chairmans-letter-and-notice-1.pdf/2015-agm-chairmans-letter-and-notice-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "06 May 2014 Annual General Meeting 2014",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2014.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2014-05-06",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2014/annual-general-meeting-2014/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-05-06/annual-general-meeting-2014.jpeg/annual-general-meeting-2014.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2014-agm-poll-statement-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-05-06",
+        "source_url": "https://www.reckitt.com/media/ugwhn1xf/2014-agm-poll-statement-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-05-06/2014-agm-poll-statement-1.pdf/2014-agm-poll-statement-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2014-agm-notice-of-meeting-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-05-06",
+        "source_url": "https://www.reckitt.com/media/t5zjexzt/2014-agm-notice-of-meeting-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-05-06/2014-agm-notice-of-meeting-1.pdf/2014-agm-notice-of-meeting-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "141211-poll-statement-gm-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-05-06",
+        "source_url": "https://www.reckitt.com/media/bq0c3p22/141211-poll-statement-gm-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-05-06/141211-poll-statement-gm-1.pdf/141211-poll-statement-gm-1.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "final-circular-and-notice-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2014-05-06",
+        "source_url": "https://www.reckitt.com/media/rganikud/final-circular-and-notice-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2014-05-06/final-circular-and-notice-1.pdf/final-circular-and-notice-1.pdf",
+        "content_type": [
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  },
+  {
+    "event_name": "02 May 2013 Annual General Meeting 2013",
+    "equity_ticker": "RB",
+    "geography": "european",
+    "periodicity": "non-periodic",
+    "data": [
+      {
+        "file_name": "annual-general-meeting-2013.jpeg",
+        "file_type": "jpeg",
+        "published_date": "2013-05-02",
+        "source_url": "https://www.reckitt.com/media-landing/press-releases/2013/annual-general-meeting-2013/",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-05-02/annual-general-meeting-2013.jpeg/annual-general-meeting-2013.jpeg",
+        "content_type": [
+          "annual-general-meeting",
+          "press-release",
+          "Annual General Meetings"
+        ],
+        "record_type": "screenshot"
+      },
+      {
+        "file_name": "2013-agm-poll-statement-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-05-02",
+        "source_url": "https://www.reckitt.com/media/0rzpadyw/2013-agm-poll-statement-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-05-02/2013-agm-poll-statement-1.pdf/2013-agm-poll-statement-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      },
+      {
+        "file_name": "2013-agm-rb_notice_of_meeting-1.pdf",
+        "file_type": "pdf",
+        "published_date": "2013-05-02",
+        "source_url": "https://www.reckitt.com/media/goff1g5i/2013-agm-rb_notice_of_meeting-1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RB/2013-05-02/2013-agm-rb_notice_of_meeting-1.pdf/2013-agm-rb_notice_of_meeting-1.pdf",
+        "content_type": [
+          "annual-general-meeting",
+          "Annual General Meetings"
+        ],
+        "record_type": "download"
+      }
+    ]
+  }
+]

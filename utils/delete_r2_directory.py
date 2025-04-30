@@ -1,8 +1,8 @@
 import boto3
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
 
 def empty_r2_directory(bucket_name, directory_prefix):
     # Initialize the S3 client with Cloudflare R2 credentials
@@ -43,5 +43,9 @@ if __name__ == "__main__":
     # Define the bucket name and directory prefix
     bucket_name = 'equity-data'
     # bucket_name = "fin-scraping-bucket"
+<<<<<<< HEAD
     directory_prefix = "TSLA"  # Make sure this ends with a slash to specify it as a directory
+=======
+    directory_prefix = "RKT/"  # Make sure this ends with a slash to specify it as a directory
+>>>>>>> f73b00223583e0eca9c473af0297437a3a6b9f73
     empty_r2_directory(bucket_name, directory_prefix)

@@ -264,3 +264,27 @@ class PaginationHandler:
             print("🔄 Scrolling...")
 
         print("✅ Scrolling finished.")
+        
+    async def select_all_options(page, dropdown_selector):
+        """Select each option from the dropdown one by one."""
+        try:
+            # Wait for the dropdown to be visible
+            dropdown = await page.wait_for_selector(dropdown_selector, timeout=10000)
+
+            # Get all option elements inside the dropdown
+            options = await dropdown.query_selector_all('option')
+
+            # Iterate over the options
+            for option in options:
+                # Get the value of each option
+                option_value = await option.get_attribute('value')
+
+                # Select the option by its value
+                await dropdown.select_option(value=option_value)
+                print(f"✅ Selected: {option_value}")
+
+                # Wait for the page to update after selecting the option (adjust sleep as needed)
+                await asyncio.sleep(2)  # You can adjust this if necessary
+
+        except Exception as e:
+            print(f"⚠️ Error selecting options: {e}")
